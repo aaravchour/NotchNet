@@ -16,13 +16,11 @@ from langchain_community.embeddings import OllamaEmbeddings  # type: ignore
 DATA_DIR = "data/wiki_pages_cleaned"
 INDEX_PATH = "faiss_index"
 
-# Use all CPU cores
 NUM_CORES = os.cpu_count() or 8
 os.environ["OLLAMA_NUM_THREADS"] = str(NUM_CORES)
 faiss.omp_set_num_threads(NUM_CORES)
 
-# --- CONFIGURATION FOR STABILITY ---
-BATCH_SIZE = 16  # Small and stable
+BATCH_SIZE = 16
 SAVE_EVERY_N_BATCHES = 20
 
 # ===========================
@@ -72,11 +70,11 @@ def add_batch_with_retry(db, batch, max_retries=5):
                     f"\n⚠️ Ollama connection error. Retrying in {wait_time}s... (Attempt {attempt + 1}/{max_retries})"
                 )
                 time.sleep(wait_time)
-                check_ollama()  # Check if server is back
+                check_ollama()
             else:
                 raise e
     print(f"\n❌ Failed to embed batch after {max_retries} attempts. Stopping.")
-    return False  # Failed
+    return False
 
 
 def main():
@@ -92,12 +90,10 @@ def main():
     split_docs = splitter.split_documents(all_docs)
     print(f"✅ Split documents into {len(split_docs)} chunks.")
 
-    # Use the new model and new import class
     embedding_model = OllamaEmbeddings(model="mxbai-embed-large")
 
     num_processed = 0
 
-    # We deleted the index, so this 'if' will be FALSE
     if os.path.exists(INDEX_PATH):
         print("🔁 Found existing FAISS index. Loading to resume...")
         db = FAISS.load_local(
@@ -111,12 +107,11 @@ def main():
             print("No documents to index.")
             return
 
-        # Create index from the first batch
         first_batch = split_docs[:BATCH_SIZE]
         db = FAISS.from_documents(first_batch, embedding_model)
         num_processed = len(first_batch)
         print("✅ Created index with first batch.")
-        db.save_local(INDEX_PATH)  # Initial save
+        db.save_local(INDEX_PATH)
         print(f"📦 Saved initial index to {INDEX_PATH}")
 
     remaining_docs = split_docs[num_processed:]

@@ -16,14 +16,12 @@ from langchain_community.chat_models import ChatOllama  # type: ignore
 INDEX_PATH = "faiss_index"
 qa_chain = None
 
-# Use all CPU cores
 NUM_CORES = os.cpu_count()
 os.environ["OLLAMA_NUM_THREADS"] = str(NUM_CORES)
 faiss.omp_set_num_threads(NUM_CORES)
 
 
 QA_PROMPT = PromptTemplate(
-    # Use 'input' for the new chain
     input_variables=["context", "input"],
     template="""
 - Do not guess or provide information not explicitly present in the context.
@@ -70,13 +68,9 @@ def build_retriever():
     """
     check_ollama()
 
-    # --- IMPORTANT ---
-    # Make sure this model MATCHES the one you used in build_index.py
-    # We switched to "mxbai-embed-large" earlier.
     embedding_model = OllamaEmbeddings(model="mxbai-embed-large")
 
     if not os.path.exists(INDEX_PATH):
-        # This is a fatal error for the server. The index MUST exist.
         print(f"❌ FATAL: FAISS index not found at {INDEX_PATH}")
         print("Please run the `build_index.py` script first to create the index.")
         raise FileNotFoundError(f"FAISS index not found. Run `build_index.py` first.")
@@ -102,13 +96,10 @@ def build_qa_chain():
 
     retriever = build_retriever()
 
-    # --- THIS IS THE FIX ---
-    # Use a powerful LOCAL model that can run on your Mac
     print("🔧 Loading local LLM...")
     llm_model = ChatOllama(model="deepseek-v3.1:671b-cloud")
     print("✅ LLM loaded.")
 
-    # Use the modern chain creation methods
     print("🔧 Building new LCEL retrieval chain...")
     document_chain = create_stuff_documents_chain(llm_model, QA_PROMPT)
     qa_chain = create_retrieval_chain(retriever, document_chain)
@@ -124,10 +115,8 @@ def generate_answer(question: str) -> str:
         qa_chain = build_qa_chain()
 
     try:
-        # Use 'input' to match the new chain
         result = qa_chain.invoke({"input": question})
         answer = result.get("answer", "").strip()
-        # Source docs are now in the 'context' key
         sources = result.get("context", [])
 
         if not answer:
@@ -149,5 +138,4 @@ def generate_answer(question: str) -> str:
 
     except Exception as e:
         print(f"⚠️ Error while generating answer: {e}")
-        # This will be caught by server.py and returned as a 500 error
         raise e

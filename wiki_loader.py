@@ -73,13 +73,13 @@ def download_category(category, visited=None):
             title = member["title"]
             if title.startswith("Category:"):
                 subcat = title.replace("Category:", "")
-                download_category(subcat, visited)  # Recursive call for subcategories
+                download_category(subcat, visited)
             else:
                 print(f"Fetching: {title}")
                 text = fetch_page_content(title)
                 save_page_text(category, title, text)
                 total += 1
-                sleep(0.5)  # polite delay
+                sleep(0.5)
 
         if "continue" in data:
             cmcontinue = data["continue"]["cmcontinue"]

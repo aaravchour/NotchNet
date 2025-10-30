@@ -1,5 +1,5 @@
 import os
-import faiss
+import faiss  # type: ignore
 import requests
 
 from langchain.text_splitter import RecursiveCharacterTextSplitter  # type: ignore
@@ -12,10 +12,8 @@ from langchain_community.document_loaders import TextLoader  # type: ignore
 
 DATA_DIR = "data/wiki_pages_cleaned"
 
-# --- CONFIG FROM YOUR LOG ---
-FAILING_BATCH_INDEX = 484  # The 485th batch, which is 0-indexed 484
-BATCH_SIZE = 16  # From your previous script
-# --------------------------
+FAILING_BATCH_INDEX = 484
+BATCH_SIZE = 16
 
 # ===========================
 # Helper Functions
@@ -57,7 +55,6 @@ def main():
     if not check_ollama():
         return
 
-    # 1. Re-create the *exact* same list of split documents
     print("Re-creating document splits to find the poison pill...")
     all_docs = load_documents()
     splitter = RecursiveCharacterTextSplitter(
@@ -66,7 +63,6 @@ def main():
     split_docs = splitter.split_documents(all_docs)
     print(f"✅ Re-split {len(split_docs)} chunks.")
 
-    # 2. Isolate the batch that failed
     batch_start = FAILING_BATCH_INDEX * BATCH_SIZE
     batch_end = batch_start + BATCH_SIZE
     bad_batch_docs = split_docs[batch_start:batch_end]
@@ -77,14 +73,12 @@ def main():
 
     embedding_model = OllamaEmbeddings(model="nomic-embed-text:latest")
 
-    # 3. Test each document in the batch, one by one
     for i, doc in enumerate(bad_batch_docs):
         print(f"\n--- 🧪 Testing Document {i+1} / {len(bad_batch_docs)} ---")
         print(f"Source: {doc.metadata.get('source', 'Unknown')}")
         print(f"Snippet: {doc.page_content[:400].strip()}...")
 
         try:
-            # This is the line that will crash
             embedding_model.embed_query(doc.page_content)
             print("✅ ... Success. This document is OK.")
 
@@ -102,7 +96,7 @@ def main():
                 print(
                     "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n"
                 )
-                return  # Stop the script
+                return
             else:
                 print(f"⚠️ An unexpected error occurred: {e}")
 

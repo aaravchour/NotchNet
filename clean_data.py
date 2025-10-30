@@ -1,23 +1,21 @@
 import os
 import re
-from tqdm import tqdm
+from tqdm import tqdm  # type: ignore
 
 SOURCE_DIR = "data/wiki_pages"
 OUTPUT_DIR = "data/wiki_pages_cleaned"
 
-# Create output directory if it doesn't exist
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 
 def clean_text(text):
-    # Remove MediaWiki section markers and categories
     text = re.sub(r"==+.*?==+", "", text)
     text = re.sub(r"\[\[Category:.*?\]\]", "", text)
-    text = re.sub(r"\{\{.*?\}\}", "", text)  # remove templates like {{Infobox}}
-    text = re.sub(r"\[\[|\]\]", "", text)  # remove brackets
-    text = re.sub(r"http\S+", "", text)  # remove links
-    text = re.sub(r"[^ -~\n]", "", text)  # remove non-ASCII except newlines
-    text = re.sub(r"\n{3,}", "\n\n", text)  # reduce multiple blank lines
+    text = re.sub(r"\{\{.*?\}\}", "", text)
+    text = re.sub(r"\[\[|\]\]", "", text)
+    text = re.sub(r"http\S+", "", text)
+    text = re.sub(r"[^ -~\n]", "", text)
+    text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
 
 
@@ -27,7 +25,6 @@ def clean_and_save_file(filepath, relative_path):
 
     cleaned = clean_text(raw_text)
 
-    # Create subfolder if necessary
     cleaned_path = os.path.join(OUTPUT_DIR, relative_path)
     os.makedirs(os.path.dirname(cleaned_path), exist_ok=True)
 

@@ -1,0 +1,46 @@
+Pumpkin seeds are items obtained from pumpkins that can be used to grow pumpkin stems.
+Pumpkin stems are plants grown on farmland that, over time, grow pumpkins on dirt, mud and moss blocks adjacent to them.
+
+When broken, a pumpkin stem drops 03 pumpkin seeds. The chance for pumpkin seeds to drop increases with the stem's age.
+
+Pumpkin stems generate naturally in stem farm rooms in woodland mansions.
+Pumpkin stems generate in taiga and snowy taiga village farms.
+
+Wandering traders sell pumpkin seeds for 1 emerald.
+
+Shearing an uncarved pumpkin yields 4 pumpkin seeds.
+
+Pumpkin seeds can be planted only on farmland, as stems. Over time, a stem grows through several stages and, at its final growth stage, will produce pumpkins on any adjacent dirt, coarse dirt, rooted dirt, grass block, farmland, podzol, mycelium, moss block, mud or muddy mangrove roots. If a pumpkin is already occupying a spot adjacent to a stem it does not grow more pumpkins until the pumpkin is removed. A single stem can grow an unlimited number of pumpkins. Pumpkin stems need a minimum light level of 10 in the block above the stem to grow and give pumpkins. Pumpkin seeds are affected by bone meal only with respect to stem growth; bone meal does not help produce the actual pumpkins.
+
+Like other seeds, pumpkin seeds can be used to breed chickens, lead chickens around, and make baby chickens grow up faster by 10% of the remaining time.
+
+Like other seeds, pumpkin seeds can be used to tame parrots.
+
+Placing pumpkin seeds into a composter has a 30% chance of raising the compost level by 1.
+
+A pumpkin stem is the block that is planted on farmland when pumpkin seeds are used on it. It starts underground, and rises up as the plant grows. The stem is colored green when young, and then yellow once fully grown.
+The stem curves once a pumpkin has grown from it. A fully-grown single stem connects to any pumpkin in an adjacent square, thus there are 5 possible appearances to a stem. If there are multiple pumpkins it can connect to, it favors the east, then west, north, and south. When the pumpkin is removed, the stem returns to its straight shape.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+Growing
+
+Attached
+
+Bedrock Edition:
+
+The following content is transcluded from Technical blocks/Pumpkin Stem.
+
+Java Edition
+13w25c - 13w36b: tile.pumpkinStem.name
+Bedrock Edition
+? - ?: Pumpkin Stem
+
+Issues relating to "Pumpkin Seeds" are maintained on the bug tracker. Report issues there.

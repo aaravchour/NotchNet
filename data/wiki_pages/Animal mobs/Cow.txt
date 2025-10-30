@@ -1,0 +1,266 @@
+A cow is a passive mob and a source of leather, beef and milk.
+There are three different variants that spawn depending on the biome that the Cow spawns in.
+
+
+== Spawning ==
+
+Cows spawn above grass blocks in small herds during world generation or individually afterwards. Their spawn rate varies per biome. 
+In Bedrock Edition, herds of two to three cows spawn on grass blocks at a light level of 9 or higher with at least two blocks of space above, in most grassy biomes except for snowy plains, meadows, mangrove swamps and wooded badlands. 
+In Java Edition, herds of four cows spawn on grass blocks at a light level of 7 or higher with at least two blocks of space above, in most grassy biomes except for snowy plains, meadows, mangrove swamps and wooded badlands.
+Also, a cow sometimes spawns inside animal pens and butchers' houses in villages. 
+Shearing a mooshroom turns it into a cow and drops five mushrooms corresponding to the type of mooshroom.
+Most cows spawn as adults, but they have a 5% chance of spawning as a calf (baby cow).
+
+
+== Drops ==
+An adult cow drops: 
+
+1 to 3 raw beef (or steak if killed while on fire), with a maximum amount is increased by 1 per level of Looting, for a maximum of 6 with Looting III.
+0 to 2 leather, with a maximum amount increased by 1 per level of Looting, for a maximum of 5 with Looting III.
+1–3 experience orbs are dropped when killed by a player or tamed wolf or 1–7 upon a successful breeding.
+Killing a calf yields no items nor experience.
+
+
+== Behavior ==
+
+A cow moos and huffs occasionally while wandering aimlessly, but tends to stay on well lit and grassy places. Like most other passive mobs, a cow also:
+
+flees and remains 25% faster for a few seconds when harmed.
+looks at players within six blocks for two to four seconds sometimes.
+avoids going to water unless it is following players and always avoid traversing minecart rails and walking off cliffs high enough to cause fall damage.
+avoids environmental hazards, such as cactus, sweet berry bushes, dripstone, fire or lava, but make no attempts to avoid explosions.
+An adult cow can be milked by using a bucket on it, yielding a milk bucket.
+
+
+== Breeding ==
+
+A cow follows a player who holds wheat but stops following if separated from the player by at least six blocks. 
+Adult cows enter love mode and pair off to create calves after they are given wheat, granting the player one to seven experience orbs. The parent cows have a cooldown of five minutes before they can breed again and the growth of calves can be accelerated using wheat; each use reduces the remaining growth duration by 10%. 
+Baby cows take 20 minutes to grow up and follow adult cows, preferring them instead of a player holding wheat. The calf that results from breeding attempts to go to the nearest available block to its parent, even if no path can be found. A calf pathfinds to other adult cow if it is separated from its parent by more than 24 blocks.
+
+
+== Sounds ==
+Java Edition:
+Cows use the Friendly Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+
+=== Historical sounds ===
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Cows have entity data associated with them that contain various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== History ==
+
+
+=== Historical images ===
+
+
+== Issues ==
+Issues relating to "Cow" are maintained on the bug tracker. Report issues there.
+
+
+== Variants ==
+
+
+== Trivia ==
+Cows are visually based on the Norwegian Red cattle.
+Cows in the PC Gamer Minecraft Demo are branded with a 'PCG' logo on their side.
+Markus Persson stated in a Tumblr post that all "breedable" peaceful mobs displayed traits of both genders and could breed with any other individual of their species. This applies to cows as they have horns and give milk (although there are some cattle breeds wherein females exhibit horns).
+
+
+== Gallery ==
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Cosmetics ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

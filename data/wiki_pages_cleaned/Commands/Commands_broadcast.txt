@@ -1,0 +1,4 @@
+Broadcasts a message across the entire server.
+Replaced by /say.
+
+broadcast <message>

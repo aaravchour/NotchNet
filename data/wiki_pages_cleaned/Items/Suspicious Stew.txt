@@ -1,0 +1,38 @@
+Suspicious stew is a food item that can give the player a status effect that depends on the flower used to craft it.
+
+In Bedrock Edition, suspicious stew is the only food item in the game that can't be obtained from the Creative inventory only by searching. However, it can be crafted and can also be found in shipwreck chests. Suspicious stew can be given with commands like /give, but in Java Edition, unless NBT data like that listed in the data values section is included, consuming it has no effect and still restores the same hunger points as a normal suspicious stew. In Bedrock Edition, giving the player a suspicious stew through commands causes the stew to choose an allowable status effect at random.
+
+Suspicious stew can be obtained by "milking" a brown mooshroom with a bowl after using a small flower on it. When a small flower is used on a brown mooshroom, the brown mooshroom produces a suspicious stew related to that small flower the next time it is milked with a bowl. Red mooshrooms do not produce suspicious stew. The brown mooshroom returns to producing mushroom stew until fed another small flower.
+
+Suspicious stew is not listed in the recipe book. However, it can be quickly assembled by clicking the mushroom stew recipe and adding one small flower to it.
+
+After being given a flower, a brown mooshroom can be "milked" for suspicious stew by using a bowl on it. The flower type determines the stew's effect using the same rule as a crafted stew. Milking a red mooshroom after feeding it a flower does not yield a suspicious stew specific to that flower.
+
+In Java Edition, expert-level farmer villagers can offer either 1 or 2 suspicious stew trades, each stew for one emerald.
+In Bedrock Edition, expert-level farmer villager offers to sell suspicious stew for one emerald as well.
+The trading interface does not indicate the type of suspicious stew being sold, but each trade entry consistently yields the same type of stew, so the player can remember or make a note of the types offered by a given villager, such as "this villager's first stew gives blindness, and their second entry gives saturation".
+
+To eat suspicious stew, press and hold use while it is selected in the hotbar. Eating one restores 6 () hunger and 7.2 hunger saturation and gives a few seconds of a status effect that varies depending on which flower was used to craft it. The effect is not displayed in the tooltip, texture, etc., meaning that the player cannot know in advance what the effect is without knowing which flower was used.
+
+The bowl is emptied and returned to the player after the suspicious stew has been eaten, and can be re-used to craft more stews. Unlike most foods, suspicious stew can be eaten even if the player's hunger bar is full.
+The Saturation effect from blue orchids and dandelions effectively makes those two stews a superfood: In those 6 or 7 ticks it can restore up to 6(7) hunger and 12(14) saturation points on top of their food value, for a total of at least 12 (  6) hunger, and effectively maximizing saturation. This is the largest amount of hunger and saturation the player can get from a single food item. Regeneration can restore up to 3 health, and Poison or Wither can inflict up to 4 damage.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+In Java Edition, suspicious stew uses the following NBT data:
+
+In Bedrock Edition, suspicious stew uses the following data values:
+
+Issues relating to "Suspicious Stew" are maintained on the bug tracker. Report issues there.
+
+Suspicious stew was introduced because developers wanted a way of communicating that lilies of the valley are poisonous.

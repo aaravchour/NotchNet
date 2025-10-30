@@ -1,0 +1,46 @@
+The torment quiver is an artifact that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Desert Temple
+Lower Temple
+Creeper Woods (Adventure)
+Lone Fortress (DLC)
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+The torment quiver has a six second cooldown, +1 soul gathering, and requires ten souls to activate.
+"Gives slow arrows that knock back mobs and passes through walls."
+Upon activation the quiver is swapped out for 3 torment arrows, which remain until they are used and cannot be refilled unless all of them are fired and the artifact is used again.
+The speed of the torment arrows can be increased with certain enchantments and ranged weapons. Firing the arrows after charging them with a bow sends the arrow flying much faster. The arrow is also capable of hitting the same enemy multiple times. Some bosses, like the Enderman in Soggy Swamp, can be knocked into the instant-kill water if punch is enchanted on the bow used.
+Equipment that increases Ranged Damage, such as hunter's armor, and the frost bite affect the amount of damage dealt.
+Certain effects from ranged weapons and enchantments are still applied to the torment arrow, these include:
+
+Dynamo
+Accelerate
+Bonus Shot
+Enigma Resonator
+Gravity
+Growing
+Infinity
+Multishot
+Piercing
+Poison Cloud
+Power
+Punch
+Radiance Shot
+Ricochet
+Supercharge
+Wild Rage
+The damage range depends on the item's power.
+
+X ranged damage
+6 second cooldown
++1 soul gathering
+Requires souls (10)
+
+Issues relating to "Torment Quiver" are maintained on the bug tracker. Report issues there.

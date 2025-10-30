@@ -1,0 +1,36 @@
+Creates and modifies boss bars.
+
+bossbar . . .
+... add <id: string> <name: json>
+... get <id: string> <max|players|value|visible>
+... list
+... remove <id: string>
+... set <id: string> . . .
+... color <color: BossbarColor>
+... max <max: int>
+... name <name: json>
+... players <players: target>
+... value <value: int>
+... visible <visible: Boolean>
+
+id: string: basic_string
+
+Must be a string. And it must be a single word that has no space or a quoted string.
+name: json: Json::Value
+
+Must be a JSON Object.
+color: BossbarColor: enum
+
+Must be a string. And it must be a single word that has no space or a quoted string.
+max: int: int
+
+Must be a  32-bit integer number.
+players: target: CommandSelector<Player>
+
+Must be a player name or a target selector.
+value: int: int
+
+Must be a  32-bit integer number.
+visible: Boolean: enum
+
+Must be a  boolean (either true or false).

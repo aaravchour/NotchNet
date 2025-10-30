@@ -1,0 +1,5 @@
+Lapis is a resource in Minecraft Legends.
+
+Lapis is dropped by roaming piglins when they are defeated and can be found in village chests.
+
+Lapis can be used to spawn units and build certain structures.

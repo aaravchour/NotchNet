@@ -1,0 +1,10 @@
+Register a third-party server in the third-party server's repository.
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

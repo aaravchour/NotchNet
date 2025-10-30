@@ -1,0 +1,25 @@
+Leather is an item used to make item frames, armor and books.
+
+Upon death, cows, mooshrooms, horses, donkeys, mules, llamas and trader llamas drop 02 leather, while hoglins drop 01 leather. The maximum amount is increased by 1 per level of Looting, for a maximum of 5 leather (4 leather from hoglins) with Looting III.
+A fox sometimes spawns holding leather, which always drops upon death. Alternatively, a player can drop a food item, causing the fox to drop the leather.
+
+Leather can be obtained as a "junk" item from fishing.
+
+in Java Edition, leatherworker villagers throw leather at players under the Hero of the Village effect.
+
+Piglins may barter 2-4 leather when given a gold ingot.
+
+Novice-level leatherworker villagers have a 23 chance to buy 6 leather for one emerald in Java Edition, and always offer the trade in Bedrock Edition.
+
+Leather is the repair item for the leather armor, and thus can be used to repair the following items in an anvil:
+
+Leather cap
+Leather tunic
+Leather pants
+Leather boots
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Leather" are maintained on the bug tracker. Report issues there.

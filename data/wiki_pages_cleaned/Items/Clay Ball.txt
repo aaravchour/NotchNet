@@ -1,0 +1,15 @@
+A clay ball is the item obtained from clay used for crafting or making bricks.
+
+Clay balls are obtained when a clay block is broken with a non-Silk Touch tool. Each block yields four clay balls regardless of Fortune.
+
+If a player has the Hero of the Village status effect, a Mason villager might throw that player a clay block as a gift.  This can be placed and broken to harvest clay balls.
+
+Clay balls can be crafted back together to form clay blocks or baked in a furnace to create bricks.
+
+Novice-level mason villagers buy 10 clay balls for 1 emerald as part of their trades.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Clay Ball" are maintained on the bug tracker. Report issues there.

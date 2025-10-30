@@ -1,0 +1,39 @@
+Silverfish are small hostile mobs that infest stone and deepslate blocks in mountains, strongholds, igloo basements and woodland mansions. They crawl at their targets to bite them, and attacking them will incite other nearby silverfish to emerge from their blocks and attack the aggressor.
+
+Silverfish spawn from broken infested blocks, which generate in strongholds, underground in mountains and windswept hills biomes, in igloo basements and in woodland mansion false portal rooms. Silverfish do not appear if the block is broken with the Silk Touch enchantment.
+Silverfish spawners naturally generate in end portal rooms in strongholds. Silverfish can spawn from spawners only at light level 11 or lower, or on stone types they can enter (stone, cobblestone, stone bricks, etc.) at any light level, and cannot spawn within a 5 block distance of any player. This is the only renewable source of silverfish and infested blocks.
+1-3 silverfish have a 5% chance of spawning from an entity affected by the Infested potion effect when the affected entity is hurt.
+
+Silverfish have no drops other than 5 experience points when killed by a player or tamed wolf.
+
+Silverfish attack players, iron golems, snow golems and call other silverfish in the area upon being hit. Silverfish pathfind toward the player, and can see the player through walls. 
+When they suffer Poison damage or damage inflicted by the player and survive, they cause other silverfish within a 211121 area to break out of their infested blocks. The player can prevent other silverfish from appearing by killing them in one shot. If the game rule doTileDrops is set to false, the infested blocks are broken, but no silverfish spawn from them.
+Silverfish, being arthropods, take extra damage from the Bane of Arthropods enchantment, and receive Slowness IV upon being hit.
+When idle, silverfish enter a nearby deepslate, stone, cobblestone, stone bricks, mossy stone bricks, cracked stone bricks or chiseled stone bricks block, transforming it into the respective infested block if the game rule mobGriefing is set to true, as per default. They cannot infest mossy cobblestone, despite being capable of infesting both mossy blocks and cobblestone, and they also cannot infest slab and stairs of these blocks. They are also unable to infest andesite, diorite, granite, or smooth stone.
+
+Java Edition:
+Silverfish use the Hostile Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Silverfish have entity data associated with them that contains various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+Issues relating to "Silverfish" are maintained on the bug tracker. Report issues there.
+
+In real life, silverfish are harmless small and wingless insects that are often found in dark areas in buildings and the wooden pilings of seaside piers and trees. They are infamous for damaging paper-based products.
+This also means silverfish are the only hostile mob to be based on a real life animal.
+Silverfish appeared in the April Fools 2.0 update as the redstone bug.
+
+Endermite
+Infested block
+
+Mob Menagerie: Silverfish  Minecraft.net on May 4, 2023

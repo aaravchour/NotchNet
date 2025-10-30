@@ -1,0 +1,61 @@
+Mountains can refer to one of seven mountainous biomes.
+
+Mountains are seven related sub-biomes that generate in mountainous terrain in areas with low erosion values. They all can generate pillager outposts (except cherry grove in Bedrock Edition), with the meadow also being able to generate villages and snowy slopes being able to generate igloos. Some of these biomes are the only places where goats can spawn in the game. Like the windswept hills, emerald ores can be found in mountain biomes, especially at higher altitudes, and both coal and iron ores are commonly found in the mountains. Underground, below the sea level, infested block blobs naturally generate in mountain biomes.
+Deep Dark biomes and Ancient Cities also generates mostly under mountainous biomes, especially under jagged peaks, stony peaks, frozen peaks, snowy slopes, groves, cherry groves, meadows and savanna plateaus but also, to a lesser degree, under badlands, including eroded badlands as an eroded exception.
+
+There are seven sub-biomes that can make up the mountains.
+
+These are the four biomes that can make up the slopes of mountains. These biomes usually generates in high altitudes beneath the peaks and hilltops but can also generate standalone in plateaus. 
+
+The meadow is a grassy biome filled with patches of flowers and turquoise-green grass and tall grass, where sheep, donkeys and rabbits spawn. All small flowers generate except blue orchids, tulips, lilies of the valley or wither roses. Rarely, a lone oak or birch tree of any size can generate and always has a bee nest. Both pillager outposts and plains villages can generate in this biome, making this the only mountain biome where villages can generate. In Java Edition, unlike most Overworld biomes, sugar canes and pumpkin patches cannot generate here. This biome is mainly next to plains, and separated from cherry groves, regular forests, regular birch forest, or regular taigas by rivers.
+
+Cherry groves are similar to meadows, but featuring pink petals and cherry trees identified by their striking pink leaves that drop petal particles. The cherry trees can generate densely enough create a cover of leaves. Bee nests with bees generate somewhat commonly on the side of the cherry trees. Cherry groves are mainly next to plains and separated from meadows by rivers.
+
+The mountain grove creates a forest of spruce trees on the sides of a mountain, reminiscent of a snowy taiga but the surface is covered with snow layers, snow blocks, dirt and strips of powder snow instead of grass blocks. Rabbits, wolves and red foxes can spawn in this biome. This biome often generates next to snow slopes, snowy plains, snowy taigas, or taigas.
+The following mobs can naturally spawn here:
+
+The snowy slopes is almost the same as the groves, with the difference being that there are no trees. It is a mostly barren biome covered in snow, multiple layers of snow blocks and strips of powder snow, with steep sides to the north or east also having stone cliffs covered with snow layers. Goats spawn in this biome alongside rabbits. This is the only mountain biome where igloos can generate. This biome generates usually next to groves, snowy plains, or plains. Polar Bears can spawn in this biome.
+The following mobs can naturally spawn here:
+
+There are three peak biomes that generate in areas with low erosion, high PV value, and high continentalness value, which means they generate only at the tops of the mountains that are tall enough to generate them. Jagged peaks and frozen peaks often generate on the peaks on different sides of large valleys.
+
+The jagged peaks biome is more likely to generate in taller and more jagged and pointy peaks that often pass the clouds and can peak at y=255. It is covered by a single layer of snow blocks with stone underneath often exposing ores such as coal, iron and emerald, and just like the snowy slopes, stone cliffs can generate in steep sides to the east or north with only a layer of snow covering them. Only goats spawn in this biome. In Bedrock Edition, rabbits and polar bears also spawn here.
+The following mobs can naturally spawn here:
+
+The frozen peaks are covered by snow, snow blocks, with glaciers of packed ice and occasional small blobs of ice. Packed ice cliffs can generate in steep sides to the east or north with only a layer of snow covering them. This biome usually generates in smaller and smoother hills, but it can also generate on taller and more jagged and pointy peaks but less compared to the jagged peaks biome.
+
+Frozen peaks use the same mob spawning chances as jagged peaks.
+
+The stony peaks are a warmer variation of both the jagged peaks and the frozen peaks biomes that generates when a mountain peak is in a region with lukewarm biomes such as savannas, forests and jungles, and it does not generate snowy slopes, groves, meadows or cherry groves in the slopes of the mountain. Instead, savanna plateaus and forests often generate around it. It is mainly covered by stone with large strips of calcite and exposed ores.
+The following mobs can naturally spawn here:
+
+These music tracks play while the player is in the Meadow.
+
+These music tracks play while the player is in the Grove.
+
+These music tracks play while the player is in the Snowy Slopes.
+
+These music tracks play while the player is in the Jagged Peaks.
+
+These music tracks play while the player is in the Frozen Peaks.
+
+These music tracks play while the player is in the Stony Peaks.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Mountains", "Meadow", "Snowy Slopes", "Grove", "Frozen Peaks", "Jagged Peaks", or "Stony Peaks" are maintained on the bug tracker. Report issues there.
+
+Badlands
+Windswept Hills
+Snowy Taiga
+Windswept Savanna
+Stony Shore
+Flower Forest
+
+8.  MCPE-179502
+
+Around the Block: Meadow  Minecraft.net on April 14, 2022
+Around the Block: Frozen Peaks  Minecraft.net on October 10, 2022
+Around the Block: Jagged Peaks  Minecraft.net on May 6, 2022

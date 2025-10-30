@@ -1,0 +1,9 @@
+There were several blocks exclusive to Minecraft Earth.
+
+Mud was a slow-moving fluid that slowed down entities. Muddy Pigs liked it.
+
+The Buttercup and Pink Daisy were yellow and pink flowers found growing on Mooblooms and Moolips.
+
+Rainbow Wool was a rainbow-colored wool obtained from Rainbow Sheep. It could be used to craft Rainbow Carpets and Rainbow Beds.
+
+Adventure Chests were blocks found in Adventures. Each variant contained a different amount of valuable loot.

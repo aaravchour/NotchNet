@@ -1,0 +1,45 @@
+A lightning rod is a copper variant block used to divert lightning strikes.
+
+A lightning rod must be mined using a stone pickaxe or better, or else it drops nothing.
+
+Lightning rods can be oriented in different directions. Lightning rods that are the highest block in the column redirect lightning strikes within a radius of 128 blocks in Java Edition and 64 blocks in Bedrock Edition. This distance includes vertical distance, so the protected area is a sphere centered on the lightning rod. The block emits particles during thunderstorms as an indicator. If multiple lightning rods are in range, the closest to the original location of the strike is chosen.
+Lightning can also strike a lightning rod hit by a trident enchanted with Channeling during a thunderstorm or even a normal rainstorm [Bedrock Edition only] , even if there are solid blocks above it blocking rainfall, as long as all the blocks are fully transparent (sky light level 15 at rod position). Lightning rods do not divert the lightning created by a Channeling trident thrown at an entity, or the lightning summoned by commands.
+Unlike in real life, a lightning rod doesn't require a direct connection to ground in order to work.
+Lightning strikes on lightning rods cannot summon skeleton horse traps.
+A lightning rod, along with the block it is attached to, emits a redstone signal for 8 game ticks when struck by lightning.
+Lightning diverted by a lightning rod can still start fires nearby (quickly extinguished on non-flammable blocks or by rain) and inflicts lightning damage on mobs within a 6126 box centered 4 blocks above the bottom center of the lightning rod block (that is extending 2 below and 9 above). Adjacent blocks can ignite even if the lightning rod is mounted on a non-flammable block.
+
+Like normal copper blocks, unwaxed lightning rods undergo 4 stages of oxidation:
+
+Unoxidized - Normal stage
+Exposed
+Weathered
+Oxidized
+Only lightning and axes can revert the oxidation process. Using a honeycomb on an unwaxed lightning rod prevents the oxidation.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition: None
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Lightning Rod" are maintained on the bug tracker. Report issues there.
+
+According to Minecraft Live 2020, Ulraf had the idea of lightning rods when a lightning strike burned down his wooden house.
+In Minecraft Dungeons, there are lightning rod blocks as well. These generate on the roof of the Woodland Mansion Ancient Hunt to charge creepers.
+If /item replace is used to place a lightning rod on a player's head, the item appears upside-down and to the right of their head, somewhat resembling a robot's antenna.
+In China Edition, lightning strikes are the only way to set your defaulted pet on fire. This does not kill them, because they are immortal.
+Lightning rods turn white upon being struck, which causes release of end rod particles and redstone power.
+Copper Golems have a lightning rod on top of their heads.
+In Snapshot 25w36a, in Turkish, the Waxed Lighting Rod was called Tam Gtne Sokmalk, which means "Perfect for shoving up in ass" in English. This change had been quickly fixed in 25w36b.
+In real life, lightning rods are mostly made of highly conductive materials like copper and  aluminium.

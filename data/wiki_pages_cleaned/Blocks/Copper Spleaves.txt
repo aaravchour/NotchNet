@@ -1,0 +1,14 @@
+Copper spleaves are joke blocks introduced in Java Edition 23w13a or b which are broken upon any contact with the player.
+
+Copper spleaves can be obtained via the Creative inventory or with commands, as they are unobtainable by Survival means, even using a tool enchanted with Silk Touch.
+
+Copper spleaves cannot be obtained when mined, even using a tool enchanted with Silk Touch.
+
+Copper spleaves generates when the structure Lunar Base on The Moon is activated.
+
+Copper spleaves blocks are an unsupported item due to being an April Fools' joke, and therefore such issues relating to them will not be fixed.
+
+Copper spleaves is a reference to the Minecraft minigame spleef. Spleef is a competitive minigame played within Minecraft. When playing spleef, players destroy blocks below other players, allowing them to fall off the playing field and into a pit. The object of the game is to be the last player on the field. Because of this, the name of the Copper Spleaves is a combination of the words "Spleef" and "Leaves".
+The exact y level the player needs to be in to not break the copper spleaves is 0.9999998999999999971244335483788745477795600891113281250000...1 above the block.
+In the Tricky Trials Update, a similar block called Copper Grates are added. However, unlike Copper Spleaves, they are deoxidised with an axe and waxed.
+Weathered Copper Grates shared a similar texture to Copper Spleaves.

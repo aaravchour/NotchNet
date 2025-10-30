@@ -1,0 +1,5 @@
+A piglin launcher is a piglin-built structure within Minecraft Legends.
+
+Piglin launchers spawn in piglin bases and piglin outposts.
+
+Piglin launchers fling barrels with piglins inside of them. The size of the outpost that the launcher is in determines what piglin unit would be launched within the barrels. Piglin launchers can launch mace runts, warboars and pigmadillos.

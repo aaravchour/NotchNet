@@ -1,0 +1,58 @@
+The lab table is a block used in chemistry to design one's own experiments by combining substances and observing the results.
+
+
+== Obtaining ==
+Lab tables cannot be obtained in Survival without commands. In Bedrock Edition, the world must also have "Education Edition" enabled.
+
+
+=== Breaking ===
+A lab table can be mined using a pickaxe. Mining without a pickaxe is slow, but the lab table still drops as an item.
+
+
+== Usage ==
+Using the lab table opens a 1×9 grid, where elements and compounds can be inserted to perform experiments. The locations of the items in the grid do not affect the outcome. When ready to conduct an experiment, clicking the Combine button initiates the process.
+
+If the result is a viable product, the top images animate to indicate whether a liquid, gas, or solid has been produced. Shortly after, the menu closes, and the successful product appears on the table. If the combined materials did not create a viable product, the process results in a garbage item and one of few animations involving fire and/or explosions. In Bedrock Edition, the table sometimes catches fire when garbage is made.
+
+
+=== Successful recipes ===
+
+
+== Sounds ==
+
+
+=== Generic ===
+
+
+=== Unique ===
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+=== Block states ===
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Lab Table" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Even when two compounds that don't react when combined in real life (like water and salt, or multiple items of the same compound), when they are combined in the lab table, the fire and/or explosion effect still appears, creating a garbage item.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+
+
+== References ==

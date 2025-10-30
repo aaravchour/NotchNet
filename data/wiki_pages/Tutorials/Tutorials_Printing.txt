@@ -1,0 +1,32 @@
+This tutorial seeks to show you how to make a printer using redstone. You can impress your friends with it, by making some type of structure automatically, without having to place the blocks down.
+
+
+== The Basic Mechanics ==
+The idea of a printer is to input colors into a chest, put it through a block sorter, and then have a block of the requested color be pushed into position using pistons. It sounds simple, but it can be surprisingly complex to design.
+Snapshot 17w06a of update 1.12 brought gravity-affected concrete powder blocks. It also brought concrete, which forms if concrete powder touches water. Concrete powder and blocks come in all of the 16 colors that make up the color spectrum in Minecraft. By telling certain pistons what colors to drop down from a "stock," it's possible for a printer and 3D printer to be built in Survival mode.
+
+
+== Pre-1.12 ==
+Before the addition of concrete, the only way to make a printer, or a 3D printer, was to use command blocks, spawner minecarts, or ghost blocks. These designs were insanely complicated, and very difficult or impossible to make in survival mode without using cheats. See the following 2 videos for examples:
+Spawner minecart printer:
+
+Ghost block 3D printer:
+
+
+== 2D Printer Designs ==
+Most 2D printer designs have three basic parts: the input (a chest), the "stock" (several piles of concrete powder), and the pistons to create the output. A sorting system removes the items from the chest. The concrete powder that is ready to be printed is on top of extended pistons. The pistons that correspond to the colors requested retract for a long enough time to allow one concrete powder from the stack to fall onto a "conveyor belt," which moves the dropped block to the printing surface. When it reaches the surface, it turns into solid concrete and is pushed into position. This is repeated until the print is complete.
+See the videos below for a few examples of 2D printer designs:
+
+
+==== Mumbo Jumbo's Design ====
+
+
+==== Ilmango's Design ====
+
+
+== 3D Printer Designs ==
+3D printers are even more complicated to build because there are multiple layers of blocks to place. Currently, there is only one infinitely-expandable design that is possible to make in Survival mode. See the following video for a demonstration of this design:
+
+The design works similarly to a real-life 3D printer that uses printing powder. Because this design uses flying machines and water, it can be expanded infinitely, but the time taken to print increases quadratically because of the way the flying machines are designed. The design is unique in that the stock can be any color. When a specific color is needed, the stock color is sent through a color-converter to get the desired color. 
+In the 3D printer, the structure is split into flat 3x6 areas. The colors and arrangements for each of these areas are put into multiple shulker boxes for ease of use. For larger prints, it makes sense to instead input the colors in the order they are interpreted. There is a "conveyor belt" comprised of flying machines that drops the powder on a set of synchronized flying machines to drop the powder into the printing area. By making the conveyor belt faster, the whole design can be sped up.
+See Javamonk's video below, for a 3D printer almost the same as the previous one, but with a faster conveyor belt.

@@ -1,0 +1,31 @@
+The fortune spear is a  unique spear variant that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Creeper Woods (Apocalypse)
+Underhalls (Apocalypse)
+Overgrown Temple (Apocalypse, DLC)
+Colossal Rampart (Apocalypse, DLC)
+Nether Wastes (Daily Trial, DLC)
+Broken Citadel (DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Pestilent Conjurer
+
+The fortune spear possesses moderate power, low speed, and high range, and has a combo consisting of three thrusts. The first two hits deal the weapon's minimum melee damage, the third deals the maximum melee damage.
+
+X melee damage
+Long melee reach
+Drop more consumables (Looting tier I)
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+In the game files, the fortune spear is referred to internally by the name RoyalSpear.
+
+Issues relating to "Fortune Spear" are maintained on the bug tracker. Report issues there.

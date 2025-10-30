@@ -1,0 +1,26 @@
+The vine whip is a unique whip variant that can be found within the jungle awakens DLC of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Dingy Jungle
+Panda Plateau
+Treetop Tangle
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Thundering Growth
+
+The vine whip possesses high power, low speed, and low area, and attacks only with one lash.
+
+X melee damage
+Longer melee reach
+Inflicts poison (Jungle Poison)
+
+In the game files, the vine whip is referred to internally by the names PoisonWhip,Poison_Whip, and Whip_Unique1.
+
+Issues relating to "Vine Whip" are maintained on the bug tracker. Report issues there.

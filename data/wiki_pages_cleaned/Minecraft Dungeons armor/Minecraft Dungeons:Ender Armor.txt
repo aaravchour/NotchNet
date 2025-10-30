@@ -1,0 +1,17 @@
+The ender armor is a unique guard's armor variant that can be found within the Arcade edition of Minecraft Dungeons. In the standard game, it remains unused under the name curious armor.
+
+Minecraft Dungeons
+The ender armor can only be obtained through editing the game files or using a third-party software.
+
+Arcade
+Card
+
+Little is known about the ender armor as it never appeared in the full release. It was intended to have a 5% chance to teleport the hero when hit, but this ability does appear on the item when edited in using a third-party software.
+
+5% chance to teleport when hit
+25% artifact cooldown
++10 arrows per bundle
+
+In the game files, the ender armor is referred to by the name CowardsArmor.
+
+Its teleportation ability would later be given to the teleportation robes in the Echoing Void DLC.

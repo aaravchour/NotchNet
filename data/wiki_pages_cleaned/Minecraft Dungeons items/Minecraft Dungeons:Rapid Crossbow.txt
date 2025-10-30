@@ -1,0 +1,33 @@
+A rapid crossbow is a ranged weapon that can be found within the various missions of Minecraft Dungeons. Its unique variants are the auto crossbow and the butterfly crossbow.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+A  before a mission name indicates that the item is only obtainable in Daily Trials of that mission.
+
+Redstone Mines
+Highblock Halls (Adventure)
+Lone Fortress
+Windswept Peaks
+Coral Rise
+Tower
+Merchants
+Gift Wrapper
+Luxury Merchant
+Mystery Merchant
+Piglin Merchant
+Village Merchant
+Ancients
+Haunted Caller
+
+Rapid crossbows possess very low power, high speed, and a large ammo supply. The quiver starts with 133 arrows, normal arrow bundles give 66 arrows, supply chest bundles give another 133 arrows, and surprise gift bundles give 33 arrows.
+Crossbows can be shot repeatedly if the ranged attack button is held down. Ranged weapons require the hero to have at least one normal arrow or a special arrow from a quiver artifact in their inventory to shoot. Unlike bows, shots from crossbows cannot be charged.
+Damage caused by the arrows can be increased with enchantments, the strength buff, and certain armor that have ranged damage increases, such as hunters armor.
+
+X ranged damage
+High Fire rate
+
+Multiplier: 0.45
+Quiver: 133
+Fire Rate: 5 shots per second
+
+Issues relating to "Rapid Crossbow" are maintained on the bug tracker. Report issues there.

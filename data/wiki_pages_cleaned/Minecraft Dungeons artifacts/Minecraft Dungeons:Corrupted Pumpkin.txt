@@ -1,0 +1,23 @@
+The corrupted pumpkin is a unique corrupted beacon variant that can be found within the various missions of Minecraft Dungeons.
+
+The corrupted pumpkin behaves identically to the corrupted beacon, only with a different colored beam and a slight difference in damage, It requires souls to use. It also functions similarly to the eye of the guardian from the hidden depths DLC with the exception of souls replaced by a cooldown.
+
+Events
+Spooky Fall (Ended)
+Merchants
+Gift Wrapper
+
+With the maximum amount of souls gathered, being 300, it can be fired for 24 seconds in total, using about 12.5 souls per second.
+Each tick of damage deals around 10% of the damage per second value.
+The beam fired has a massive range (about 40 blocks away) that exceeds the boundaries of the screen.
+
+X artifact damage per second
+2.5 seconds cooldown
++1 Soul Gathering
+Requires souls (20 per second)
+
+Issues relating to "Corrupted Pumpkin" are maintained on the bug tracker. Report issues there.
+
+While activated, the Corrupted Pumpkin makes endermen sounds.
+The Corrupted Pumpkin stands out as the game's only unique artifact.
+This is the only artifact in Minecraft Dungeons that was created for a seasonal event.

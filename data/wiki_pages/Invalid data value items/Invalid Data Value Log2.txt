@@ -1,0 +1,45 @@
+Invalid data value log2 refers to item forms of the secondary log block with damage values outside of the usual range which logs can usually be obtained in.
+
+
+== Obtaining ==
+Without the use of commands, invalid data value log2 items are unobtainable in the last versions in which they existed without inheriting them from a prior version in which they were obtainable.
+Only eight damage variants of the log2 block are currently known to be obtainable. Two of these correspond to existing species (0 for acacia and 1 for dark oak), with the other six being invalid data value variants. There is currently no known way to obtain log2 items with damage values of 6, 7, 10, 11, 12, 13, 14 or 15. Like with all other invalid data value items documented on this wiki, there is also no known way to obtain items with damage values 16 and above, nor -1 and below.
+
+
+=== Transmutation ===
+Block transmutation with arrows can be used to obtain log2 blocks with metadata 2 and 3. These blocks can be mined in 14w21b or earlier to obtain the item corresponding to these blocks. The initial block being transmuted must be an up/down-facing acacia log, i.e. a log2 block with metadata value 0. Dark oak logs, as well as rotated acacia logs, cannot be transmuted.
+
+
+=== Breaking log2 blocks ===
+In 14w25a, log2 blocks existing in the world will drop invalid data value log2 items when broken. Acacia logs will drop items with a damage value of 4, and dark oak logs will drop items with a damage value of 5.
+In 14w25a and 14w25b, breaking log2 blocks with a Silk Touch enchanted tool will drop different invalid data value log2 items: acacia logs drop damage value 8, and dark oak logs drop damage value 9.
+Invalid data value log blocks that exist in the world cannot be broken in 14w25a or 14w25b, as approaching a chunk containing them will crash the game in these two versions. They cannot be broken in 14w26a or later, as such versions treat invalid blocks as air.
+
+
+== Usage ==
+
+
+=== Placement ===
+From 13w43a to 14w21b, invalid data value log items will place the log corresponding to their species. The directionality of the item is ignored; the item will be placed as if it were a normal log item. This also means that "wood" items will place a log rather than wood.
+Attempting to place any log, regardless of data value, will immediately crash the game in 14w25a.
+From 14w25b to 17w46a, the pre-14w25a behaviour can be seen again for items corresponding to acacia and dark oak. Items which instead correspond to the two unused species slots will cause the same crash as in 14w25a due to no valid species data being present.
+
+
+=== Conversion to future versions ===
+In 1.13 (17w47a) onwards, distinguishing between block and item variants using metadata and damage was formally abolished. As a result of this, existing items would be converted over to the new ID system automatically. Invalid data value log2 items behave anomalously in that instead of converting to their respective parent species, they all convert to acacia logs instead. In addition, items with data values 12 to 15, which represent wood rather than logs, still become logs.
+
+
+== History ==
+
+Inventory appearances (values marked in red are not known to be obtainable in survival mode)
+
+
+== Issues ==
+Invalid data value log2 items are an issue, and due to their removal, can be considered already fixed.
+
+
+== References ==
+
+
+== External links ==
+Invalid Data Value Log2 at the Minecraft Discontinued Features wiki

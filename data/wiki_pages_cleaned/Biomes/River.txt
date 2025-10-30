@@ -1,0 +1,28 @@
+A river is a common biome. Rivers can serve as borders between various other biomes, and usually lead to oceans, although they can also form loops.
+
+Rivers are thin, lengthy biomes that frequently generate across the world. They typically serve as a division between two different biomes, but can also split a single biome in two. They are filled with water up to sea level, though rivers may run dry in certain areas due to higher than usual elevation. Saddle valleys in mountains can generate rivers, but often too high so that there's not any water. Rivers can vary a lot in width and depth, in generally flat areas rivers are usually around 10 blocks deep but in mountainous regions rivers can reach over 30 blocks in depth which is comparable to deep oceans. Sometimes rivers can also generate as lakes with small islands.
+Exposed grass in rivers takes on a bluish-green hue and oak trees can rarely generate along with spare grass. Riverbeds consist of dirt, sand, gravel, and clay, and are one of the few places where clay generates, alongside lakes, swamp marshes, ocean hilltops, and lush caves. Sugar cane occasionally generates on the riverbank. Salmon and squid may spawn here.
+
+There are two different river biomes.
+
+The standard river variant. This is a very common biome in the game. The grass color is turquoise green, similar to the meadow and birch forest biomes. Vegetation is sparse, with occasional oak trees. Seagrass generates atop the riverbed.
+Neither passive nor hostile mobs (except drowned) spawn within river biomes themselves, but frequently wander into them from the surrounding biomes if they can spawn there. Drowned can spawn underwater, as can salmon and squid.
+The following mobs are naturally spawned here
+
+Frozen Rivers replace regular rivers in regions with snowy biomes. As the name implies, the top layer of water is entirely frozen. Seagrass does not generate on the riverbed. While sugar cane can generate alongside a frozen riverbank, it often quickly uproots itself after generation due to the water being frozen. Oak trees and grass can still generate here if this biome generates on land.
+The following mobs are naturally spawned here
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "River" or "Frozen River" are maintained on the bug tracker. Report issues there.
+
+Both types of rivers override ravines at or close to the surface level, causing the ravine to be abruptly cut off by a wall of stone. However, if the ravine is long enough, it may continue on the other side of the river.
+Ravines can generate underground in river biomes without being cut off.
+
+Swamp
+Beach
+Ocean
+
+Around the Block: River  Minecraft.net on October 22, 2020

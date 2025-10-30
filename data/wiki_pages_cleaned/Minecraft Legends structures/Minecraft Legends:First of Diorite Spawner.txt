@@ -1,0 +1,5 @@
+A first of diorite spawner is a spawner that spawns the First of Diorite within Minecraft Legends.
+
+The first of diorite spawner spawns the First of Diorite when a player interacts with it.
+
+Issues relating to "First of Diorite Spawner" are maintained on the bug tracker. Report issues there.

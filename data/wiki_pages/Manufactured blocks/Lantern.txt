@@ -1,0 +1,107 @@
+Lanterns are blocks that emit light.
+Soul lanterns are turquoise variants crafted from soul torches.
+
+
+== Obtaining ==
+
+
+=== Natural generation ===
+Regular lanterns can generate as lamps or lamp posts above farms and on some buildings in snowy tundra villages and in bastion remnants.
+Soul lanterns can generate in ancient cities.
+
+
+=== Breaking ===
+A lantern can be broken with any tool, but it breaks fastest when dropped with a pickaxe. A lantern always drops if its supporting block is removed.
+
+
+=== Crafting ===
+
+
+=== Trading ===
+Apprentice-level librarian villagers have a 50%‌ or 66.7%‌ chance of selling a regular lantern for an emerald as part of their trades.
+
+
+== Usage ==
+The lantern is among the most luminous of light sources, emitting a light level of 15, while the soul lantern emits a light level of 10.
+Lanterns can be placed on the top or bottom surfaces of most solid blocks, although some require sneaking. More information can be found at Opacity/Placement.
+When placed below a block the lantern appears to hang. They connect to chains seamlessly.
+In addition to lighting, lanterns provide these effects:
+
+Like torches, lanterns melt snow slowly.
+Soul lanterns repel piglins.
+
+
+=== Placement mechanics ===
+Both lanterns and soul lanterns can be placed (if a support platform is presented) or hanging (if a ceiling block is presented). The type of the block (solid, opaque, transparent, etc... given the block has top/bottom solid surface) does not affect the ability to hang of a lantern, similar to torches. Press use on the targeted block or a block adjacent to the air block the lantern is going to occupy to place it. If the latter is used and both the support/ceiling block is presented:
+
+Press use on the upper half of the adjacent block to "hang" the lantern up.
+Press use on the lower half of the adjacent block to "place" the lantern down.
+This is only true if the eye level of the player is perpendicular to the targeted air block onto an adjacent block's surface. A solid block that is adjacent to the targeted air block generates two values, or "areas" on the solid block itself atop of each other that decide which placement position is used for the lantern based on which area the crosshair is aimed at, changing dynamically when the angle created by the block surface and the player's LoS line is deviated. This means that if the player is looking up at a block, hanging is prioritized; and looking down causes placing to be prioritized.
+When the adjacent ceiling/surface of the targeted air block is blocked from view, the game will prioritize the placement position on the other visible surface/ceiling completely (e.g. the lantern is placed on the ceiling if the surface is not visible due to the player standing lower than the block). This is true only if the solid block whose ceiling/surface was mentioned is blocking the surfaces itself and does not taking into account other objects that might obstruct the placement of the lantern.
+If the object the lantern is placed on receive a block update that does not support the placement of the lantern, it is removed and drop as an item (e.g. lantern on a trapdoor and the trapdoor is flipped).
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Lantern" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Turtle eggs can support lanterns placed both above and below them, despite the fact that this causes the lanterns to appear floating.
+Before they were added to Minecraft, lanterns were already present in Minicraft.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Torch
+Sea lantern
+
+
+== References ==

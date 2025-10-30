@@ -1,0 +1,196 @@
+The badlands, formerly and commonly referred to as the mesa biome, are arid-land biomes, featuring mounds of terracotta bands, coming in various colors. There are three different variants of the badlands biome.
+
+
+== Description ==
+Badlands biomes feature large mounds of terracotta bands, in layers of various colors; specifically, red, orange, yellow, white, light gray, brown, and regular terracotta may all naturally generate. At high altitudes, the topmost layer of stained terracotta is often weathered into regular terracotta, most often on plateau tops. At low altitudes, the terrain surface is weathered into a layer of red sand (or red sandstone if floating), with orange terracotta under it extending to Y=63. The underwater surface is covered with a layer of orange terracotta, and in shallow water, sometimes interspersed with some white terracotta; in deep water, sometimes interspersed with some gravel.
+Badlands biomes can usually be found bordering deserts, and they usually do not border oceans, but they can also generate by the ocean in areas with mountain peaks. Normal badlands and eroded badlands often appear on the two banks of a river.
+Cactus and dead bushes generate frequently across the landscape, similarly to deserts, but dead bushes are more common than in deserts, and cactus are rarer. Sugar canes may generate along water.
+Mineshafts generate at much higher elevations in these biomes, often exposed to fresh air. Their supporting planks and fences are made of dark oak rather than oak. Additionally, extra gold ore generates up to elevation Y=255 (rather than the normal Y=32), and at much higher rates than the rest of the world, making badlands tunnels excellent sources of gold.
+While all badlands biomes are rich in unique building materials and gold ore, there are no passive mobs. Furthermore, trees and grass are uncommon because they appear only atop wooded badlands. So, food cultivation can be difficult.
+Badlands biomes never rain, meaning lightning strikes are impossible. The exceptions are the rivers that cut through the badlands, where it can still rain and cast lightning.
+
+
+=== Terracotta band generation ===
+The colors of specific terracotta layers in these biomes are almost the same throughout all badlands biomes for any particular world. Each world seed generates 192 layers of terracotta for each Y-coordinate to pick from. At each horizontal coordinate, each layer may shift up and down by at most ±7 blocks based on a noise.
+
+
+== Variants ==
+
+There are three badlands biome variants (badlands, wooded badlands and eroded badlands), with three removed variants (badlands plateau, modified badlands plateau, and modified wooded badlands plateau) in previous versions.
+
+
+=== Badlands ===
+
+The badlands is the ordinary badlands biome.
+The following mobs are naturally spawned here：
+
+
+=== Wooded Badlands ===
+
+The wooded badlands generates groves of trees at high altitudes, and therefore is the forest variant of the badlands. The uppermost layers of terrain is grass block and coarse dirt, with oak trees and grass growing on them. Here, the grass and oak leaves take on a dull greenish-brown color darker than that of the savanna biome, giving it a droughted appearance; additionally, all naturally generated trees are small variants. This variant is a rare source of wood in the otherwise barren badlands. The forest begins generating above elevations of roughly Y=103. This variant generates at higher humidity values compared to the default badlands, which means that it can often be found bordering jungles, or having lush caves underground.
+Wooded badlands use the same mob spawning chances as badlands.
+
+
+=== Eroded Badlands ===
+
+The eroded badlands features unique formations of terracotta hoodoos, narrow spires that rise up from the red sand floor of the biome's drainage basins. This biome is intended to resemble the famous Bryce Canyon in Utah, USA, which features hoodoos across its landscape.
+In Java Edition, eroded badlands use the same mob spawning chances as badlands. In Bedrock Edition, passive mobs can spawn here.
+
+
+== Sounds ==
+
+
+=== Music ===
+These music tracks play while the player is in the Badlands.
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Trivia ==
+Regular oak mineshafts do not generate in the badlands biomes, but they can generate into one if a neighboring biome generates the mineshaft.
+Although dark oak mineshafts generate in badlands, dark oaks do not grow in this biome.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Desert
+Mountains
+Terracotta
+
+
+== References ==
+
+
+== External Links ==
+Around the Block: Badlands – Minecraft.net on July 8, 2021
+Around the Block: Eroded Badlands – Minecraft.net on November 14, 2022
+Around the Block: Wooded Badlands – Minecraft.net on August 11, 2023

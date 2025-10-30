@@ -1,0 +1,107 @@
+Old growth taigas are forested biomes covered with tall spruce trees. There are two variants in the biome family.
+
+
+== Description ==
+As the name implies, an old growth forest includes trees that have attained a great age, and therefore height. These biomes generate at very high humidity values, similar to dark forest biome, and are often surrounded by groves, taigas and dark forests. Due to their high humidity values, old growth taigas are almost guaranteed to have lush caves generate beneath them. The two variants are often separated by rivers.
+Spruce or pine grows all over the landscape, and most of them are the large 2×2 trees that grow significantly taller than regular trees. Much of the grass blocks are replaced by large swaths of podzol and coarse dirt. Additionally, rocks made of mossy cobblestone frequently generate on the ground and dead bushes generate alongside the sweet berry bushes‌, ferns, large ferns and tall grass on the ground. Mushrooms are more common than most of overworld biomes. Trail ruins may generate here. Wolves, foxes and rabbits‌ may spawn here. As the climate here is cold, rainfall changes to snowfall above layer 200±8, though in the old growth spruce taiga variant, snowfall forms at layer 160±8.
+
+There are overall more trees in old growth taigas compared to normal taigas, leading to increased foliage density. This makes wood more abundant, though as a large portion of it grows as part of tall 2×2 spruce trees, it may be more difficult to obtain. Old growth taigas are slightly more difficult for survival than regular taigas for this reason, though aren't so bad once acclimated and strategies are used to clear the tall trees; they may offer more unique views compared to regular taigas as well.
+
+
+== Variants ==
+
+
+=== Old Growth Pine Taiga ===
+
+The standard biome variant, old growth pine taiga features both large 2x2 and normal-sized spruce trees, with the tall trees being mostly arrow shaped with few leaves at the top. Snowfall starts at layer Y=200±8 in this biome. 
+The following mobs are naturally spawned here：
+
+
+=== Old Growth Spruce Taiga ===
+
+The old growth spruce taiga variant resembles the old growth pine taiga at first glance, with the main difference being the shape of the giant trees. The giant trees in old growth spruce taigas have leaves surrounding much more of the tree trunk, the larger amounts of leaves increase the chances of saplings dropping when these trees are cut down, leading to easier sustainability. This variant is also slightly colder than the regular variant, which means that snowfall starts at layer Y=160±8 instead of layer Y=200±8. 
+The following mobs are naturally spawned here：
+
+
+== Sounds ==
+
+
+=== Music ===
+These music tracks play while the player is in the Old Growth Taigas
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Trivia ==
+The name “Old Growth Pine Taiga” may be misleading and is inaccurate as there are no pine trees in the game and they have spruce trees; there are currently no plans to add pines to the game. This is similar to Flint and Steel, as there is a lack of steel in the game and it is crafted with Iron. In real life, Iron can’t be used as a fire striker, so they had to use steel so it makes more sense.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Taiga
+Snowy Taiga
+Grove
+
+
+== References ==

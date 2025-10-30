@@ -1,0 +1,1 @@
+All oak slabs in layer 4 are bottom slabs.

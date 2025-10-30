@@ -1,0 +1,40 @@
+An ink sac is an item dropped by a squid upon death used to create black dye, dark prismarine, and books and quills.
+
+A squid drops one to three ink sacs upon death. The maximum amount is increased by 1 per level of Looting, for a maximum of 1 to 6 with Looting III.
+
+Ink sacs can be obtained as a "junk" item from fishing. The Luck of the Sea enchantment decreases the chance.
+
+Wandering traders sometimes sell 3 ink sacs for an emerald in Bedrock Edition. Apprentice level librarians also buy 5 ink sacs for one emerald.
+
+In Bedrock Edition, ink sacs can be also used in banner patterns:
+
+In Bedrock Edition and Minecraft Education, ink sac can be:
+
+Applied to sheep to dye their wool, which can then be sheared for 13 blocks of black wool.
+Applied to tamed wolves and cats to dye their collars.
+Used to dye or stain wool, carpets, candles, leather armor, leather horse armor, wolf armor, beds, glass, glass panes, terracotta, shulker boxes, and bundles.
+Combined with gunpowder to make a firework star.
+Combined with a firework star to create a fade-to-color effect.
+Used to add patterns to banners.
+Used to dye shulkers in Bedrock Edition and Minecraft Education.
+Used to dye water contained in cauldrons in Bedrock Edition and Minecraft Education.
+Combined with sand and gravel to craft concrete powder.
+Combined with compounds to craft balloons or glow sticks in Bedrock Edition and Minecraft Education.
+Used to change the color of the text on signs or hanging signs.
+Each type of dark prismarine can be crafted using varying amounts of 8 prismarine shards.
+
+Journeyman-level librarian villagers have a 23 chance to buy five ink sacs for an emerald. They always offer the trade in Bedrock Edition.
+
+Ink sacs can be applied to signs or hanging signs to revert glowing text back to default.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Note: Ink sacs can no longer be used as a dye in Java Edition.
+
+Issues relating to "Ink Sac" are maintained on the bug tracker. Report issues there.

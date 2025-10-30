@@ -1,0 +1,36 @@
+
+== Church ==
+
+Churches in minecraft are the only structure with a high tower where you can go to the top and look to its surroundings. In a village, church is the only main stone structure.
+A church like structure made of cobblestone, cobblestone stairs, torches, ladders, and glass panes. There is no difference in the churches in wooded biomes other than the type of door.
+
+
+=== Blueprint ===
+
+
+=== Materials ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Desert Church ==
+
+
+=== Blueprint ===
+
+
+=== Materials ===
+
+
+== Video ==
+Video how-to 
+
+
+== Gallery ==

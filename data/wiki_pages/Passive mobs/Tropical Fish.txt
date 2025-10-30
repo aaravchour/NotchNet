@@ -1,0 +1,273 @@
+Tropical Fish are common bucketable aquatic passive mobs found in oceans, mangrove swamps and lush caves. There are 2,700 naturally occurring variants of tropical fish of different colors and shapes with unique names.
+
+
+== Spawning ==
+In Java Edition, random varieties of tropical fish spawn in groups of 8 in lukewarm or warm oceans (as well as their deep variants) at Y-level 50 to 63, and in lush caves at any Y-level. They are subject to fish spawning requirements.
+In Bedrock Edition, tropical fish spawn underwater at 12-32 blocks away from the player. Tropical fish spawn only in warm, lukewarm, deep lukewarm ocean biomes and lush caves, in groups of 3-5 for the same preset pattern, and in groups of 1-3 for a random pattern. In addition, tropical fish in warm, lukewarm ocean and deep variants can only spawn at Y levels between 50 and 64 and must be on the surface (i.e., there must not be a spawnable block above the spawn location with a non-solid block on top). Tropical fish in lush caves can spawn on any Y levels but require underground.
+
+
+== Drops ==
+1 tropical fish, unaffected by Looting.
+1 bone meal (5% chance) ‌
+1–2 bones (25% chance) ‌
+1–3 when killed by a player or tamed wolf.
+
+
+== Behavior ==
+Tropical fish tend to swim in schools of fish (a maximum of nine tropical fish per school). Tropical fish are also able to go against the water flow.
+The player may collect a fish by using a water bucket on it, which gives the player a bucket of fish. Fish placed with buckets do not despawn naturally. When that fish bucket is used against a block, it empties the bucket, placing water with that fish swimming in it.
+
+
+=== Weaknesses ===
+Tropical fish cannot survive out of water. Outside of water, they flop around for a while until eventually they suffocate and die. In Bedrock Edition, they rotate when flipping. Fish cannot swim or breathe in cauldron water.
+Fish have a weakness to weapons that have the Impaling enchantment, which also affects squid, turtles, guardians, elder guardians and dolphins.‌
+
+
+== Varieties ==
+
+
+=== Java Edition ===
+When tropical fish spawn in the wild, 90% of the time they appear as one of the 22 varieties seen on the right, and the other 10% of the time their patterns, size, and colors are completely random, drawn from any of 2 shapes, 6 patterns, 15 base colors, and 15 pattern colors. The color black does not appear on any naturally-spawned tropical fish, since the eyes are usually hard to see. These result in 2,700 naturally-occurring combinations.
+Tropical fish can be summoned with black as one or both of their colors, and/or without any visible pattern, though even without the pattern they can still have a pattern color, causing a further 884 possible combinations, 480 of which look the same due to the missing pattern.
+
+
+=== Bedrock Edition ===
+Tropical fish do not have common varieties in Bedrock Edition. Instead, naturally spawned tropical fish have 2 spawn attempts, the first chooses one of the 21 preset variants, and the other will use randomly chosen patterns, sizes, shapes, and colors (except black)
+Tropical fish spawned from a spawn egg will use randomly chosen patterns, sizes, shapes, and colors (except black).
+By using commands, tropical fish may be spawned as one of the 21 preset variants.
+
+
+=== Names ===
+Tropical fish variants in buckets have names that are assigned based on their colors and type. In Bedrock Edition, the names are in the name of the bucket, giving names like "Bucket of Plum Blockfish", "Bucket of Sky-Orange Snooper", or "Bucket of Orange-Lime Dasher". In Java Edition, the type, and colors are displayed as item tooltips. 
+In Bedrock Edition, the following colors are renamed from their defaults when they refer to tropical fish. Parentheses indicate default name and color id - see § Entity data.
+
+Sky (Light Blue; 3)
+Rose (Pink; 6)
+Silver (Light Gray; 8)
+Teal (Cyan; 9)
+Plum (Purple; 10)
+The base color is first, and the pattern color is next if it is different.
+The fish type is determined according to the shape and pattern of the fish:
+
+Some varieties of tropical fish don't follow the normal naming system; instead, they reference real-life fish species. In Java Edition, these unique fish are limited to the 22 common varieties. In Bedrock Edition, there are 21 uniquely-named tropical fish, though they are not all the same as in Java Edition. These uniquely-named tropical fish aren't different from regular tropical fish in terms of design or behavior. Bedrock edition does not have the Yellowtail Parrotfish.
+These varieties are:
+
+
+== Sounds ==
+Java Edition:
+Tropical fish use the Friendly Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Tropical fish have entity data associated with them that contains various properties.
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+Java Edition:
+
+The fish sizes and patterns are depicted in the following table, with white body color and dark-gray pattern color.
+
+The 22 varieties of tropical fish most commonly found throughout the world have Variant tag values from the following table, which also lists what color/shape/patterns come from that value.
+
+The variant number is the sum of the most significant byte × 224 + second most significant byte × 216 +  second least significant byte × 28 + least significant byte.
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Tropical fish" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Official artwork ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Trivia ==
+In the texture files of Minecraft: Bedrock Edition, there is a hidden texture of a clownfish mob. Clownfish were food items that existed before Update Aquatic, which were replaced by Tropical Fish food items. It is likely that clownfish were intended to become a mob before being expanded into over 2700 variants of tropical fish.
+
+
+== See also ==
+Cod
+Salmon
+Pufferfish
+
+
+== References ==

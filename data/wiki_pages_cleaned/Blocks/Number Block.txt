@@ -1,0 +1,3 @@
+Number blocks were mathematical blocks in MinecraftEdu.
+
+Number blocks were used to do math.

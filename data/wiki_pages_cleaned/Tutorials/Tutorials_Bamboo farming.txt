@@ -1,0 +1,22 @@
+Bamboo has multiple purposes. Aside from being used as a decoration piece, bamboo can also be used to craft sticks, make scaffolding, bamboo planks/slab/stairs/... and even use it as an alternative fuel source to coal.
+
+You can get bamboo by breaking it with any tool. A sword is the most efficient tool for the job. By not cutting bamboo at the bottom it will regrow just like sugar cane.
+Unlike many crops, bamboo does not need water. Also, it can grow far higher than others.
+
+Bamboo can be planted on grass blocks, dirt, coarse dirt, gravel, mycelium, podzol, moss, sand, red sand, or mud. At default random tick speed (3), each plant grows approximately every 4096 game ticks (204.8 seconds). When bone meal is used on it, it grows by 12 blocks. Bamboo can grow up to 1216 blocks tall. The top of a bamboo plant requires a light level of 9 or above to grow.
+
+Plant a double row of 8 bamboo on mud blocks to make a 16 block farm. 
+
+Place a hopper/hopper cart collection system underneath the 16 mud blocks.  Use a double row of 8 pistons to break the two rows of bamboo toward each other, and into the collection system.  Use an observer placed 5 blocks above the seed bamboo to activate the harvest system.  
+
+Use a secondary timer to clear the bamboo that fell after the first break.  Limit the height of the bamboo to 12 blocks above the seed bamboo.  Ensure that your bamboo has adequate light to grow.
+
+Mark out the area surrounding it with any immovable light source. Make sure the area inside the boundary isn't big or you may crash your computer or server during harvest.
+Make a simple two-way flying machine and a way to start it and send it back.
+Underneath the farm, place hoppers or hopper minecarts to pick up the items and into storage.
+Place an observer so it looks at one of the places the bamboo grows. The recommended height is 5 blocks high.
+Connect to the automatic flying machine starting point.
+Place the bamboo and it grows.
+When the indicating bamboo reaches the front of the observer, the flying machine breaks the bamboo and it gets collected.
+
+Connect the bamboo farm to a furnace to fuel it indefinitely. Bamboo burns quickly (0.25 items) so it needs a sizable bamboo farm to keep it burning.

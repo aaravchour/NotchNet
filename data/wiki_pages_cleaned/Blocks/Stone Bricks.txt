@@ -1,0 +1,35 @@
+Stone bricks and the variants  cracked stone bricks,  mossy stone bricks, and  chiseled stone bricks are materials found in structures such as strongholds, igloo basements, jungle temples, ocean ruins, ruined portals, and trail ruins.
+ Smooth stone bricks are a fifth variant exclusive to Bedrock Edition, visually identical to regular stone bricks, which cannot be found naturally and are only accessible via commands.
+
+Stone bricks can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Stone bricks, mossy stone bricks, cracked stone bricks and chiseled stone bricks can also be obtained by mining their respective infested blocks with Silk Touch.
+
+Apprentice-level stone mason villagers sell 4 chiseled stone bricks for one emerald as part of their trades.
+Apprentice-level stone mason villagers have a 25% (14) chance to sell 4 chiseled stone bricks for one emerald as part of their trades.
+
+Regular stone bricks, as well as occasional cracked and mossy stone bricks, generate as part of strongholds, making up most of the walls, ceilings, and floors. They and chiseled stone bricks can also generate as part of ocean ruins and ruined portals. Igloo basements are lined with stone bricks. In addition, three chiseled stone bricks generate as part of each jungle temple. Stone bricks and mossy stone bricks can also spawn in trail ruins.
+
+As stone bricks offer no real advantage over stone or cobblestone, their main use is for decoration.
+
+All types of stone bricks can be placed under note blocks to produce "bass drum" sounds.
+
+Silverfish have the ability to enter and hide in any variant of stone bricks, creating an infested block of the corresponding type.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Bedrock Edition
+
+Issues relating to "Stone Bricks" are maintained on the bug tracker. Report issues there.
+
+When smelting cobblestone blocks, the cracked form of stone, they turn into stone without cracks. Yet, when smelting stone bricks without cracks, they turn into a cracked variant.
+On Bedrock Edition, there is an unused data value for stone bricks called smooth stone bricks, it can be obtained through commands but is unobtainable in survival mode or through the creative inventory.
+Chiseled stone bricks, like other chiseled bricks, have a symbol in its texture that references an in-game mob, item, or biome. In this case, it's an Eye of Ender.
+
+Infested Block

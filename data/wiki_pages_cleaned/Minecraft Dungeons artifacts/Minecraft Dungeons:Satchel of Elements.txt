@@ -1,0 +1,23 @@
+The satchel of elements is an artifact that can be found within the howling peaks DLC of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Gale Sanctum (DLC)
+Gauntlet of Gales
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+The satchel of elements has the ability to target 7 mobs at once and strikes them with a random elemental status: either struck by lightning, frozen, or set ablaze. This artifact has a 10 second cooldown. Blazes and magma cubes are immune to the fire damage produced by it.
+The fire attack's damage is increased by the Fire Focus enchantment, and the lightning attack's damage is increased by the Lightning Focus enchantment.
+
+X artifact damage
+7 targets maximum
+10 second cooldown
+
+Issues relating to "Satchel of Elements" are maintained on the bug tracker. Report issues there.
+
+In the game files, an early version of the inventory icon can be found.

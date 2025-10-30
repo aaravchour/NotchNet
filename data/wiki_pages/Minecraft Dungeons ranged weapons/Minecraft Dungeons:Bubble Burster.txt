@@ -1,0 +1,68 @@
+The bubble burster is a unique bubble bow variant that can be found within the hidden depths DLC of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Coral Rise
+Abyssal Monument
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Vengeful Mariner
+
+
+== Usage ==
+The bubble burster can be used to trap mobs in bubbles via charged shots that eventually defeat them. The bubble burster has a unique exclusive enchantment which allows charged shots to bounce off multiple targets.
+
+
+=== Properties ===
+X ranged damage
+Bubble damage
+Hits multiple targets when charged (Reliable Ricochet)
+
+
+=== Stats ===
+Charge Multipler: 2.5
+Charge Time: 0.35 seconds
+Quiver: 80
+Fire Rate: 2.2 shots per second (uncharged)
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Bubble Burster" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+
+
+=== Others ===

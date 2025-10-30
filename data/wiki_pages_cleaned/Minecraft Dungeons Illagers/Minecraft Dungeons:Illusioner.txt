@@ -1,0 +1,57 @@
+An illusioner is a powerful illager that can be found within the various missions of Minecraft Dungeons.
+
+Illusioners are illagers that look very different from illusioners within the original game. Instead of a blue cloak, illusioner wear a dark purple cloak, dark boots, and a hood with dark outlines on the edges. Under the cloak is leather clothing, with a leather bag, belt, and iron buckle. Illusioners also have pink eyes, which are brighter than the eyes of other illagers.
+
+Frosted Fjord
+Lone Fortress
+Lost Settlement
+Windswept Peaks
+Gale Sanctum
+Gauntlet of Gales
+Colossal Rampart
+End Wilds (Adventure)
+Broken Citadel (Adventure)
+Daily Trial
+Tower
+
+Illusioners have four different behaviors.
+
+Summon blind
+
+Illusioners cast ten seconds of blindness on the hero. While blinded, attacks will have a 50% chance to miss and they will emit a black mist over their head.
+
+Bow action
+
+Real illusioners shoot blue with black stripe explosive arrows that are similar to the fireworks arrow which deal much more damage then the arrows shot by the duplicates.
+
+Teleport
+
+Real illusioners use a random attack after teleporting, before teleporting again to create more clones. 
+
+Illusion
+
+Illusioners will turn into a white particle, and then split into several pieces and spread to the surroundings. These particles are mixed with the real illusioner. After a few seconds, the particles will transform back into the real illusioner or its clones to surround the hero.
+
+An illusioner clone is an illusion that can be found within the various missions of Minecraft Dungeons.
+
+Illusioner clones share the same render as illusioners and turn into a purple smoke upon defeat.
+
+Illusioner clones can be defeated separately, unlike the original game. If there is no hero nearby when this ability is used, illusioners and their clones will not appear until a hero gets close. When real illusioners are attacked or when a certain amount of time passes, all of the clones will disappear and new ones will appear shortly after.
+
+Bow action clone
+
+Illusioner clones constantly fire arrows at the hero, dealing a small amount of damage upon impact.
+
+The arrow looks like a regular arrow with a blue-black cone as the tip. They act much like firework arrows and explode on impact. The cone has a medium-blue stripe near the base. Only the original Illusioners can fire these arrows, while the clones fire normal arrows.
+
+Illusioners use the evoker boss soundtrack.
+
+In the game files, illusioners are referred to internally by the name Illusioner or illusionistJasper.
+In the game files, illusioner clone arrows are referred to Internally by the name Illusioner_Arrow.
+
+A real illusioner holds a bow within their left hand, while their clones hold bows within their right hand.
+Illusioners and illusioner clones sometime have different sounds. A real illusioner's defeat sound is distorted and slowed.
+When a real illusioner is defeated, the music stops and plays a ghost screaming with death sounds, which resembles an evoker's defeat scream, but at a much higher pitch.
+The animation files and textures of evokers and vindicators are perfectly compatible with the skeleton mesh model of illusioners..
+
+Issues relating to "Illusioner", "Illusionist", "Illusion Illager", or "Illusioner Clone." are maintained on the bug tracker. Report issues there.

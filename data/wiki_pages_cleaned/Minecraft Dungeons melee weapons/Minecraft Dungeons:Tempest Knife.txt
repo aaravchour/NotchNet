@@ -1,0 +1,23 @@
+A tempest knife is a melee weapon that can be found within the Howling Peaks DLC of Minecraft Dungeons. It has two unique variants, the resolute tempest knife and the chill gale knife.
+
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise. 
+
+Windswept Peaks (DLC)
+Gale Sanctum (Adventure, DLC)
+Colossal Rampart (DLC)
+Tower
+
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+
+Windbeard
+
+A tempest knife possesses moderate power, moderate speed, and low area. It has a combo consisting of a thrust and two side slashes. The first two hits deal the weapon's minimum melee damage, while the third, the second slash, deals the maximum melee damage.
+
+X melee damage
+Speed burst after mob defeated (Rushdown)
+
+Issues relating to "Tempest Knife" are maintained on the bug tracker. Report issues there.

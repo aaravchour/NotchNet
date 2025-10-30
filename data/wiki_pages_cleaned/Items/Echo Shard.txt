@@ -1,0 +1,3 @@
+An echo shard is an item found in ancient cities which can be used to craft recovery compasses.
+
+Issues relating to "Echo Shard" are maintained on the bug tracker. Report issues there.

@@ -1,0 +1,15 @@
+Displays the world seed.
+
+
+== Syntax ==
+seed
+
+
+== Result ==
+Always succeeds. Displays seed which can be copied on click.
+
+
+== Output ==
+
+
+== History ==

@@ -1,0 +1,20 @@
+The shadow shifter is an artifact that can be found within the echoing void DLC of Minecraft Dungeons.
+
+Missions
+End Wilds
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+The shadow shifter can be used to hide from enemies as it can grant the hero shadow form for a substantial amount of time upon activation.
+
+X second duration
+10 second cooldown
++1 soul gathering
+Requires souls (40)
+
+In the game files, the shadow shifter is referred to internally by the name ShadowSplinter.
+
+Issues relating to "Shadow Shifter" are maintained on the bug tracker. Report issues there.

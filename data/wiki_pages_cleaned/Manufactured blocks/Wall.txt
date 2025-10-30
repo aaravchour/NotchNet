@@ -1,0 +1,37 @@
+A wall is a decorative block. Like fences, they can be used to create boundaries, because players and most mobs cannot climb or jump over them.
+
+Walls can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+ Cobblestone walls generate in woodland mansions. They also generate in pillager outpost towers, and in some houses in plains, taiga, and snowy tundra villages. Snowy taiga villages also generate with cobblestone walls.
+ Mossy cobblestone walls usually generate in pillager outposts, occasionally taking the place of cobblestone walls.
+ Diorite walls may generate in snowy tundra villages.
+ Sandstone and granite walls may generate in desert villages.
+ Blackstone walls generate in bastion remnants.
+ Polished blackstone brick walls generate in ruined portals.
+ Stone brick and mossy stone brick walls may generate in ruined portals.
+ Cobbled deepslate, polished deepslate, deepslate brick, and deepslate tile walls may generate in ancient cities.
+
+Walls are one and a half blocks tall for player or mob collisions, and one block tall for all other purposes, similar to fences. This prevents players and mobs from jumping over them, while using only one actual block space. A wall occupies the center space of blocks. A wall block automatically connects to any adjacent solid block, and its top rises slightly to support any block immediately above.
+Walls are more efficient at fencing off mobs than a two-block high wall of cobblestone, costing half as many blocks, and being more space-efficient as well. However, a skeleton might shoot over the wall, a creeper could explode if a player is standing near the wall, and a spider could still climb over the wall. 
+Unlike fences, if two walls are placed one block apart diagonally, the player cannot walk between them.
+Walls connect to other walls to create a large, flat wall. They also connect horizontally to iron bars and glass panes. However, they do not connect to fences (fence gates can be connected though).
+
+Walls can be placed under note blocks to produce "bass drum" sounds.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition
+
+Bedrock Edition
+Non-blackstone and deepslate wall:
+
+Blackstone and deepslate wall:
+
+Issues relating to "Wall" are maintained on the bug tracker. Report issues there.
+
+When a fence gate is placed next to a wall, it stoops down slightly to match the height of the wall.
+A stack of cobblestone crafted into cobblestone walls (which use only 60 of the 64 cobblestone blocks) makes exactly enough walls to fence off one chunk. However, using a stonecutter can make 64 cobblestone walls without any cobblestone left, rather than 60.
+
+Border, a block with the same geometry as walls.

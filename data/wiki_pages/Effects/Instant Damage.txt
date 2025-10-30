@@ -1,0 +1,33 @@
+Instant Damage is an instant status effect that decreases health for players and living mobs and heals the undead.
+
+
+== Effect ==
+Instant Damage inflicts magic damage of 3 × 2level. Undead mobs (including the wither) are healed as if with Instant Health instead. Death is reported as "<player> was killed by magic". When applied using a lingering potion, damage is inflicted every second. As this is magic damage, it can be decreased only via Resistance and Protection.‌
+
+
+== Causes ==
+
+
+== Brewing ==
+
+
+== Immune mobs ==
+Witches are 85% resistant to Instant Damage.
+Endermen are immune to Instant Damage from splash potions, lingering potions and tipped arrows, but not from commands.
+
+
+== Data values ==
+
+
+=== ID ===
+
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Instant Damage" are maintained on the bug tracker. Report issues there.

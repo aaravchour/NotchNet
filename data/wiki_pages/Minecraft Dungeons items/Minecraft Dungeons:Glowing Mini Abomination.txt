@@ -1,0 +1,49 @@
+The glowing mini abomination is a golem-like ministrosity cosmetic pet that can be unlocked as a reward in the Luminous Night seasonal adventure of Minecraft Dungeons.
+
+
+== Appearance ==
+The glowing mini abomination appears to be a tiny variant of the jungle abomination with its overall appearance similar in size to the copper golem from Minecraft Live 2021. Unlike its non-glowing counterpart, it is made of darker wood and has more bright pink and white eyes and flowers.
+
+
+== Obtaining ==
+Adventure Hub
+
+
+== Behavior ==
+The glowing mini abomination follows heroes around. It is purely cosmetic and does not attack any mobs.
+
+
+== Sounds ==
+
+
+== Data values ==
+In the game files, the glowing mini abomination is referred to internally by the name BabyJungleAbomination_UV.
+
+
+== History ==
+
+
+== Gallery ==
+
+
+=== Renders ===
+
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

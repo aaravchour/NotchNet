@@ -1,0 +1,28 @@
+Polished tuff is polished variation of tuff. Matching other Polished Variations of Blocks
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Polished tuff drops as an item if mined by any pickaxe. If mined without a pickaxe, it drops nothing.
+
+
+=== Natural generation ===
+Polished tuff blocks generate naturally in trial chambers.
+
+
+=== Crafting ===
+
+
+== Usage ==
+
+
+=== Crafting ===
+
+
+=== Stonecutting ===
+
+
+== Issues ==
+Issues relating to "Polished Tuff" are maintained on the bug tracker. Report issues there.

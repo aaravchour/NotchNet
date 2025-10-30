@@ -1,0 +1,8 @@
+Bartering with piglins is a great way for the player to get a lot of items. From gravel to Soul Speed books, many items can be obtained from bartering.
+
+Piglins are neutral mobs that spawn in crimson forests, nether wastes, and bastion remnants. Piglins are also armed with crossbows and gold swords. An easy way to make them friendly with you is to wear any piece of gold armor. It is recommended to use the boots section, which is the cheapest and leaves the other armor slots for more powerful armor. It is also a good idea to build a piglin farm away from zombified piglins, soul fire, soul torches, soul campfires, and soul lanterns, because they will run away from them. An exception is if they are caged up with blocks. These objects can also be used to lead piglins to a certain place. Also, piglin farms must be built in the nether, or else piglins will zombify.
+Unlike most hostile mobs, they do not despawn in peaceful mode, but still follow normal hostile mob despawning rules. If you are caging up piglins for easier bartering, you will need to use name tags on them or give them a piece of gold armor, which will prevent them from despawning.
+
+You need to have a source of gold to run the farm, either from a zombified piglin farm or from another source, such as mining.
+
+An AFK farm is linked to a zombified piglin farm, then it can travel through a hopper system (water currents cannot be used as the nether instantly evaporates it upon placing the water bucket) and drop out of a dropper or dispenser, and collects through a hopper system. To make the farm more effective, make a hopper organizer, as seen in this YouTube video.

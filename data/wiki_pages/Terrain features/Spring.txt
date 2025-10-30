@@ -1,0 +1,62 @@
+A spring is a feature of a single unit of liquid that generates within the world, flowing out into spaces level with or lower than the source.
+
+
+== Types of springs ==
+There are three main categories of fluid springs.
+
+
+=== Normal springs ===
+
+This most familiar type of spring can generate as either water or lava, and generate in the sides of stone surfaces. These are commonly encountered on the sides of cliffs, as well as inside caves. Lava springs are a common source of forest fires.
+
+
+=== Ceiling springs ===
+These types of springs are exclusive to the Nether, and generate only as lava. As their name implies, they generate on ceilings, and the liquid flows directly downwards from them. These are quite common sightings in the Nether, and the resultant lava spreading can sometimes make traversing terrain difficult.
+
+
+=== Hidden lava ===
+
+Unlike the other types of springs, these are hidden from generation. These are particularly dangerous and care must be taken (like taking a Potion of Fire Resistance) when mining in the Nether, as they can be dangerous when uncovered.
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

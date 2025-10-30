@@ -1,0 +1,178 @@
+When making a minecart railway, it's good to make a station. This tutorial lists multiple designs of train stations.
+
+
+== The rail part ==
+
+It might be a good idea to go over a few things about the rail first:
+
+Keeping Maximum Speed: On the main rail, make sure that you have an activated powered rail every 32 blocks or, if you prefer fanciness over resource cost, you can use powered rails for the entire track. However, this will require much more redstone, but will definitely make sure that free carts do not slow down. If you possess vast quantities of redstone and gold, this will not be really troubling.
+
+
+=== Putting it together ===
+The following flat-ground design, from left to right, has the following features:
+
+A station in the three nominally inactivated powered rails.
+Two "main" boosters, made up of a detector and 2 powered rails. The detector prevents backtracking. The spacing is determined by the type of minecart.
+One "station mini" booster, made up of a detector and a single powered rail. The lower amount of powered rails prevents getting stopped by a second powered rail when the speed is insufficient to go clear of it before the detector unpowers.
+
+
+== Compact Auto Minecart Station ==
+
+The above video is a slight variation that of the first design, that uses lava instead along with pistons is available and does not rely on any glitches, thus is considered to be safe for use in the latest versions of Minecraft (1.6+). When the player arrives in a minecart, the minecart gets broken by the lava and collected by the hoppers while the player is pushed out of the exit using a glass block connected to a sticky piston. While slightly more redstone intensive than Sethbling's design (which was exceptionally simple), it does not have any problems associated with it and is thus recommended for anyone playing in 1.6+. If you are playing in Java Edition 1.5.2 or below (and not planning on updating), Sethbling's design is definitely better.
+Here's a tutorial on how to build this design:
+
+Another variation made by nmoleo64 uses a detector rail wired to a command block with the command /kill @e [type=MinecartRideable,r=2] to remove the minecart.
+
+
+== Automated Single-Car People Mover Stop ==
+The following video is a good example of a small station:
+
+Direction changing:
+
+These designs are more complex and not as annoying. It is possible to minimize the number of powered rails used. Also, this can be implemented on any server, it doesn't require weeks of experimenting. This is recommended for beginners.
+
+
+== Automated Single-Cart Two-way Small Station (Tripwire) ==
+The tripwire toggles the minecart between 2 different routes, the cart either moves in circles, awaiting a passenger. When a passenger is present, the tripwire will activate and the cart will move in another route away from the station.
+
+
+== Major Multi-Car Train Station ==
+Note: This design requires lots of materials, so it is not recommended for a survival world that has been recently started. The design also uses a lot of redstone.
+Here is how to make a working train station and powered rail system. It is most useful in multiplayer.
+You will need the following materials to build this station:
+
+200+ redstone dust (You may need more depending on how big it is).
+64+ gold ingots (For powered rails depending on your decision).
+100+ iron ingots (For rails and tools).
+1+ stone pressure plate(s) (Use wooden pressure plates for ticket collectors shown below).
+Lots of wood (2 stacks or more).
+500+ building material (cobblestone, stone, brick, dirt, etc...)
+Note: all of these amounts may vary on the size of the station.
+
+
+=== Station Construction ===
+The construction of the station is one of the most important parts. Firstly, determine the size and structure of your station. You can have a massive central terminal with many platforms and on top, have ferry piers and light rail and etc. or a simple humble station with a 5-car light rail. For the test experiment, the platform only fits 3 passenger cars. You can include luggage cars in front or at the back, but to build the platform, you need a large open area. Also, determine whether your platform is a side platform or an island platform. A side platform serves only one track while an island platform serves two tracks.
+
+
+=== Platform ===
+Now, start the boarding area. The track below the platform will ALL be powered rails. You should include extra powered rails beyond the platform for luggage cars. Before the platform, have another set of powered rails(not connected to platform track). Make a station box across from the platform with levers controlling both sets of powered rails, and place a station attendant here. Before the non-platform set of powered rails, have a room set into the side so another attendant can push the carts in an emergency.
+
+
+== Ticket Machines, Booths, and Turnstiles ==
+At a ticket booth, have a person behind a glass screen with a 1×1 hole, with the stated price and destination above the hole. For a ticket turnstile, have a series of iron doors separated by walls with holes in the bottom. Below the holes, have pits that open out into a room. Below each pit, have a wooden pressure plate connected to the door (preferably under) with a person standing next to it to collect the ticket. The ticket can be anything. 
+Another idea is to have a separate room with redstone connecting the iron door in the waiting room. In the staff room, there can be a lever which when pressed will open the door. Finally, have controlled water flowing through a 1 block high gap which flows into the staff room (be careful of redstone.) Now, patrons can drop "tickets" into the water and when it reaches the staff, they can open the door.
+A new idea is a machine reading your ticket. Have a hole, then a water shaft. 2 blocks in, put hopper and a dropper below that. And put some space further on. Put a redstone comparator next to the hopper above the dropper. Then, put 64x9 of your "money" in the dropper. Put 22 "coins" in the hopper. Then, put two redstone next to it and a redstone repeater after that. Wire this up to an AND gate and a redstone clock. Wire this up to the dropper and another wire to a dropper, which has all your tickets in.
+When you put your money in it goes inside the hopper. This makes the comparator go one more block which powers the rest of circuit. You need an AND gate and a clock to make a pulse. The pulse makes the dropper lose one thing so it reverts to its one block. This makes it resettable. It will power the dropper to give you a ticket. If you have any wrong ones it will not go in the hopper and disappear after a while. Make the money from the first dropper go into a hopper chain to a chest.
+This is quite advanced so only attempt if good with redstone.
+
+
+=== Profits ===
+If well made, ticket fees will give a considerable profit on multiplayer, possibly giving you enough resources to build a massive subway network similar to the New York City Subway, taking vast amounts of people to various places.
+It is also possible to do a huge rail network with smaller,  stops. Instead of using up many pickaxes while making stations, a simple single-cart network can be used.
+Remember, building a structure this large will require a lot of time and effort, not to mention the resources. When building an underground network, you will find that sealing off ravines and caves becomes an additional problem. It is therefore wise to start building once you have gotten experience with redstone circuits.
+
+
+=== Hopper Ticket System ===
+Using hoppers, all the tickets (or other fees) thrown into the ticket machine could be pushed with a piston into a hopper on top of a chest, giving the owner the tickets back (or extra money, even)!
+
+
+== Enhancements ==
+If your train station gets really big, you can add some of the following features:
+
+Maps in item frames. This can show people where they are going.
+Shops. A small trading station where you can buy and sell things from a server user. You could also add more shops that use villagers for trading purposes.
+A mini restaurant. The meals could be cooked meat and the drinks could be potions.
+A goods station. You could use this to send storage carts to your friends.
+Some ender chests for secure transport of goods, even though this cannot be used to send items to others.
+A clock in an item frame.
+For some added fun make mobs occasionally fall to their deaths, giving free items.
+
+
+== Platform screen doors ==
+Platform screen doors screen the platform from minecarts. They are found in rapid transit systems like the WolvHaven Metro made by Silver Wolv and the New WolvHaven Blocky Electric Rapid Transit (BERT) made by Axton, the Kasukano Train Railway built by members of Watersuno, and the Nazca Railway built by Nazca Wilde.
+
+
+=== Tutorial ===
+
+
+==== WolvHaven Metro ====
+
+
+===== Type 1 (Platform door lights won't work, and end up breaking the doors) =====
+Place 3 sticky pistons 1 block aside from the opening
+Place a block next to the middle sticky piston with redstone dust
+Place a redstone torch under the block with the redstone dust
+Place another redstone torch under the block with the other redstone torch
+Place a block diagonal right to the bottom redstone torch, and put another redstone torch aside the block, that on its side is the torch tower
+Mirror the same redstone from Step 1 on the right, and skip Step 5
+Place redstone from the torch aside the block, and carry it to the other side to the bottom of the other torch tower
+Place a redstone repeater towards the left of the bottom block of the right torch tower, it should be next to the redstone from the torch diagonal to the bottom of the torch tower
+Replace the redstone dust with a redstone repeater facing the left torch tower
+Place a detector rail above the redstone diagonal to the right torch tower
+
+
+===== Type 2 =====
+Do the same mechanism from Step 1 until Step 5 from Type 1
+Place 3 pieces of redstone dust, one on the block diagonal to the torch tower on both sides
+Place a dropper facing across 2 blocks right, and 1 block down from the redstone from the diagonal block
+Place another dropper facing down towards the dropper facing across
+Place a final dropper facing up in front of the across dropper
+Place a hopper facing the dropper facing down, and place any item inside the dropper facing across. This will create a quiet T-Flip Flop
+Place 2 blocks in front of the downwards facing dropper, and place a redstone comparator output from that dropper
+Place redstone dust in front of the comparator, and place another block right from the block with the redstone
+Place a redstone repeater at the right side from that redstone from the comparator
+Link the torch towers with redstone dust coming from the repeater
+
+
+== Automatic platform gates ==
+Automatic platform gates (or half-height platform screen doors) are one-block sliding doors at the edge of railway platforms to prevent passengers from falling off the platform edge onto the railway tracks. 
+
+
+== Pictures ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+1. youtube.com/nmoleo64
+
+2. nmoleosoftware.com

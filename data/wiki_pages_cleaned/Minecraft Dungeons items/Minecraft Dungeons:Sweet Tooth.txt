@@ -1,0 +1,16 @@
+The sweet tooth is a unique spelunker armor variant that could be found within the various anniversaries of Minecraft Dungeons. It behaves identically to the cave crawler.
+
+Missions
+Tower
+Events
+First Anniversary (ended)
+Second Anniversary (ended)
+Other
+Gift wrapper
+
++X health
++50% artifact damage
++20% weapon damage boost aura
+Gives player a pet bat
+
+Issues relating to "Sweet Tooth" are maintained on the bug tracker. Report issues there.

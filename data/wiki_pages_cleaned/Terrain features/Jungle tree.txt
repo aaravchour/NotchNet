@@ -1,0 +1,58 @@
+Jungle trees are features native to the jungle biome. Jungle trees range from short bushes to tall trees that reach up to 31 blocks in height. Their wood is of a pale brownish color.
+
+Regular jungle trees lack branches, and the trunk covers a 11 space on the ground. The leaves of these 11 trees are arranged the same way as the birch tree leaf arrangement.
+Giant jungle trees grow branches (logs connected horizontally, vertically or diagonally to the trunk or other branches). Most of the time, a single tree has between one and six branches, and each branch has between one and six logs. The trunk typically covers a 22 space on the ground.
+There are also much smaller, bush-type variants, which have only 12 logs and a few leaves. They are typically 13 layers tall and cover the floor of jungle biomes. In Java Edition, they consist of oak leaves and a jungle log, while in Bedrock Edition, they consist of jungle leaves and a jungle log.
+
+The jungle tree variants generate naturally in the indicated biomes:
+
+A large jungle tree always generates with dirt under its trunk, even if it spawns partly or wholly over air or water blocks.
+
+These items can be obtained from all variants of jungle tree, except that saplings cannot be obtained from a bush:
+
+Cocoa Beans (obtained by harvesting cocoa pods attached to tree)
+Oak Leaves (harvested with shears)
+Jungle Leaves (harvested with shears, or a silk touch axe)
+Jungle Log (harvested with any tool including hands)
+Jungle Planks (created from a log in the inventory crafting grid)
+Jungle Sapling (low chance of dropping when breaking leaves)
+Mushrooms (if present on a fallen log)
+Stripped Jungle Log (created by using an axe on a log)
+Vines (harvested with shears)
+Stick (chance of dropping when breaking leaves)
+When jungle tree leaves decay or are destroyed, a jungle sapling drops 2.5% (140) of the time  half the chance of other tree leaves.
+
+Jungle tree saplings can be planted on:
+
+Dirt
+Grass Block
+Coarse Dirt
+Podzol
+Mycelium
+Rooted Dirt
+Moss Block
+Farmland
+Mud
+Muddy Mangrove Roots
+
+When planted in grass or dirt, a jungle sapling grows into a jungle tree with a 11 trunk, but the player can place saplings in a 22 formation and they grow into a jungle tree with the 22 trunk found naturally in the jungle biome.
+11 jungle trees require a 33 column of unobstructed space at least 5 blocks above the sapling to grow (6 blocks including the sapling itself). Additionally, 11 jungle trees require 55 layers without obstruction for the top 3 layers of its final height. No horizontal clearance is needed at the base of the tree (a sapling planted in a hole 1 block deep still grows).
+In order to grow a 22 jungle tree, four saplings must be placed adjacent to each other in a square. For growth to succeed, there must be no blocks adjacent (even diagonally) to the north-western side up to the final height of the tree. Bone meal can be used on any of the saplings to accelerate growth.
+22 jungle trees require a 55 column of unobstructed space at least 11 blocks above the saplings to grow (12 blocks including the saplings themselves). This column is centered on the northwestern sapling. A 33 area is required at the base of the tree (the level of the saplings). They can grow up to 32 blocks high.
+If planted by the player, 11 jungle trees do not generate with vines, while 22 jungle trees do. 2x2 jungle trees cannot grow side by side because the vines break the space clearance requirement.
+
+                                                                            
+In Bedrock Edition and Minecraft Education, trees can generate as one of the two following variants of the normal tree. Both of these generate naturally, and can be grown out of normal saplings.
+
+A dying jungle tree has the standard growth pattern of any other tree, although all exposed logs in the main trunk are covered with vines.
+
+A fallen jungle tree may consist of a single upright log, or a stump. Logs lying on their side are often found 12 blocks from the stump. They occasionally have mushrooms on top.
+A fallen jungle tree has a log length of 411 blocks. Vines cover 75% of the stump.
+
+Depending on where the tree generates, the color of the leaves may differ. For example, a jungle tree's leaves are normally bright deep green in the jungle, but they have a beige tint in badlands biomes.
+Leaves are checked individually for biome coloration rather than as part of a larger tree; as such, trees that were grown between biomes usually have multiple shades on each side.
+
+Issues relating to "Jungle tree" are maintained on the bug tracker. Report issues there.
+
+Jungle
+Jungle Bush

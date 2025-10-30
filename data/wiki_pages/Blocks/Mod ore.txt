@@ -1,0 +1,27 @@
+mod_ore is a block of unknown use. It uses the same textures of the block of gold.
+
+
+== Obtaining ==
+The mod_ore block can only be obtained via commands.
+
+
+=== Breaking ===
+
+When mined, the mod_ore block doesn't drop anything regardless of the tool that is used.
+
+
+== Usage ==
+Its intended usage is unknown, however the name suggests it may be a block of a mod that isn't activated, and got replaced with this, similar to the Unknown Block
+
+
+== Sounds ==
+
+
+== Data values ==
+
+
+=== ID ===
+China Edition:
+
+
+== History ==

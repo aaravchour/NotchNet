@@ -1,0 +1,931 @@
+This page's purpose is to retrace the history of all events related to Minecraft and Mojang Studios in a less targeted manner than the different version history pages.
+
+This is a list of how many release and development versions there have been every year for each edition of the game.
+
+2024
+
+1 major update (1.21), 6 minor updates (1.20.5-1.21.4), 30 snapshots (24w03a-24w46a), 16 pre-releases (1.20.5 Pre-Release 1-1.21.4 Pre-Release 3), 11 Release Candidates (1.20.5 Release Candidate 1-1.21.4 Release Candidate 3), 1 joke update (24w14potato)
+2023
+
+1 major update (1.20), 5 minor updates (1.19.4-1.20.4), 25 snapshots (23w03a-23w51b), 19 pre-releases (1.19.4 Pre-release-1.20.3 Pre-Release 4), 9 Release Candidates (1.19.4 Release Candidate 1-1.20.4 Release Candidate 1), 1 joke update (23w13a_or_b)
+2022
+1 major update (1.19), 4 minor updates (1.18.2-1.19.3), 20 snapshots (22w03a-22w46a), 22 pre-releases (1.18.2 Pre-release 1-1.19.3 Pre-release 3),9 Release Candidates (1.18.2 Release Candidate 1-1.19.3 Release Candidate 3), 1 experimental snapshot (Deep Dark Experimental Snapshot 1), 1 joke update (22w13oneBlockAtATime)
+2021
+2 major updates (1.171.18), 3 minor updates (1.16.51.18.1), 25 snapshots (21w03a21w44a), 17 pre-releases (1.17 Pre-release 1  1.18.1 Pre-release 1), 12 release candidates (1.16.5 Release Candidate 1  1.18.1 Release Candidate 3), 7 experimental snapshots (1.18 Experimental Snapshot 1  1.18 experimental snapshot 7)
+2020
+1 major update (1.16), 5 minor updates (1.15.21.16.4), 29 snapshots (20w06a20w51a), 15 pre-releases (1.15.2 Pre-Release 1  1.16.4 Pre-release 2), 5 release candidates (1.16 Release Candidate 1  1.16.4 Release Candidate 1), 5 combat tests (Combat Test 5  Combat Test 8c), 1 joke update (20w14)
+2019
+2 major updates (1.141.15), 5 minor updates (1.14.11.15.1), 35 snapshots, (19w02a19w46b), 30 pre-releases (1.14 Pre-Release 1  1.15.1 Pre-release 1), 4 combat tests (1.14.3 - Combat Test  Combat Test 4), 1 joke update (3D Shareware v1.34)
+2018
+1 major update (1.13), 2 minor updates (1.13.11.13.2), 48 snapshots (18w01a18w50a), 14 pre-releases (1.13-pre11.13.2-pre2)
+2017
+1 major update (1.12), 2 minor updates (1.12.11.12.2), 23 snapshots (17w06a17w50a), 10 pre-releases (1.12-pre11.12.2-pre2)
+2016
+3 major updates (1.91.11), 8 minor updates (1.9.11.11.2), 29 snapshots (16w02a16w50a), 14 pre-releases (1.9-pre11.11-pre1), 1 joke update (1.RV-Pre1)
+2015
+8 minor updates (1.8.21.8.9), 49 snapshots (15w31a15w51b), 1 joke update (15w14a)
+2014
+1 major update (1.8), 7 minor updates (1.7.51.8.1), 52 snapshots (14w02a14w34d), 15 pre-releases (1.7.6-pre11.8.8-pre)
+2013
+3 major updates (1.51.7.2), 12 minor updates (1.4.71.7.4), 57 snapshots (13w01a13w49a), 12 pre-releases (1.5-pre1.7.4-pre), 1 joke update (2.0)
+2012
+4 major updates (1.11.4.2), 8 minor updates (1.2.21.4.6), 46 snapshots (12w01a12w50b), 13 pre-releases (1.2-pre1.4.6-pre)
+2011
+1 major update (1.0.0), 1 minor update (1.0.1), 4 snapshots (11w47a11w50a), 6 pre-releases (Beta 1.9 Prerelease  Beta 1.9 Prerelease 6), 2 release candidates (RC1RC2)
+7 major Beta updates (1.21.8), 18 minor Beta updates (1.2_011.8.1), 1 Beta test build (1.6 Test Build 3), 2 Beta pre-releases (Beta 1.8 Pre-release  Beta 1.8 Pre-release 2 ;))
+2010
+2 major Beta updates (1.01.1), 4 minor beta updates (1.0_011.1_02)
+3 major Alpha updates (v1.0.0v1.2.0), 26 minor Alpha updates (v1.0.1v1.2.6), 21 Alpha patches (v1.0.1_01v1.2.4_01)
+26 Infdev updates (20100227-120100627)
+33 Indev updates (2010010420100223)
+2009
+4 Indev updates (20091223-120091231-2)
+18 known major Classic updates (0.0.1a0.30), 10 known minor Classic updates (0.0.12a_010.29_01)
+10 known pre-Classic versions (Cave game tech test  mc-161648)
+
+2022
+1 major update (1.19.0), 18 minor updates (1.18.10-1.19.50), 51 development builds (beta 1.18.10.26-beta 1.19.60.23)
+2021
+2 major updates (1.17.01.18.0), 15 minor updates (1.16.2101.18.2), 48 development builds (beta 1.16.210.54  beta 1.18.10.24)
+2020
+1 major update (1.16.0), 19 minor updates (1.14.201.16.201), 52 development builds (beta 1.14.2.51  beta 1.16.210.53)
+2019
+6 major updates (1.9.01.14.0), 11 minor updates (1.10.11.14.1), 43 development builds (beta 1.9.0.5  beta 1.14.2.50)
+2018
+5 major updates (1.4.01.8.0), 18 minor updates (1.2.91.8.1), 34 development builds (beta 1.2.10.1  beta 1.9.0.3)
+2017
+2 major updates (1.1.01.2.0), 22 minor updates (1.0.11.2.8), 14 development builds (alpha 1.0.3.0  beta 1.2.6.2)
+2016
+1 major update (1.0.0), 3 major alpha updates (v0.14.0v0.16.0), 14 minor alpha updates (v0.13.2v0.16.2), 22 development builds (v0.14.0 build 1  alpha 1.0.0.7)
+2015
+3 major alpha updates (v0.11.00.13.0), 8 minor alpha updates (v0.10.5v0.13.1), 32 development builds (v0.11.0 build 1  v0.13.0 build 5)
+2014
+2 major alpha updates (v0.9.0v0.10.0), 11 minor alpha updates (v0.8.1v0.10.4), 21 development builds (v0.9.0 build 1  v0.10.0 build 9)
+2013
+3 major alpha updates (v0.6.0v0.8.0), 7 minor updates (v0.6.1v0.7.6), 7 development builds (v0.8.0 build 2  v0.8.0 build 8)
+2012
+4 major alpha updates (v0.2.0v0.5.0), 4 minor alpha updates (v0.2.1v0.3.3), 3 revision updates (v0.2.1 alpha2  v0.4.0 rev 3)
+2011
+1 pre-release (Pre-release), 1 major alpha update (v0.1.0), 3 minor alpha updates (v0.1.1v0.1.3)
+
+2020
+1 PlayStation 3 Update (PlayStation 3 Edition 1.84), 1 PlayStation Vita Update (PlayStation Vita Edition 1.84)
+2019
+9 PlayStation 4 updates (1.851.95), 2 PlayStation 3/Vita updates (1.83-1.84), 1 Xbox 360 update (TU74), 1 Xbox One update (CU58), 1 Wii U patch (Patch 43)
+2018
+13 Xbox 360 updates (TU61TU73), 6 Xbox One updates (CU52CU57), 19 PlayStation updates (1.651.84), 12 Wii U patches (Patch 31  Patch 42), 5 Switch updates (1.0.121.0.17)
+2017
+14 Xbox 360 updates (TU37TU60), 15 Xbox One updates (CU37CU51), 25 PlayStation updates (1.401.64), 15 Wii U patches (Patch 16  Patch 30), 11 Switch updates (1.0.11.0.11)
+2016
+15 Xbox 360 updates (TU32TU46), 17 Xbox One updates (CU20CU36), 17 PlayStation updates (1.231.39), 12 Wii U patches (Patch 4  Patch 15)
+2015
+12 Xbox 360 updates (TU20TU31), 12 Xbox One updates (CU8CU19), 10 PlayStation updates (1.131.22), 3 Wii U patches (Patch 1  Patch 3)
+2014
+6 Xbox 360 updates (TU12TU19), 7 Xbox One updates (CU1CU7), 10 PlayStation updates (1.031.12)
+2013
+6 Xbox 360 updates (TU8TU13), 3 PS3 updates (1.01.02)
+2012
+7 Xbox 360 updates (TU1TU7)
+
+2022
+1 major update (1.18.32), 1 minor update (1.17.32), 3 development builds (1.18.10.04 - 1.18.31.0)
+2021
+2 major updates (1.14.70 - 1.17.30), 1 minor update (1.17.31), 2 development builds (1.14.60 - 1.17.30.2)
+2020
+1 major update (1.14.31), 3 minor updates (1.12.60 - 1.14.50), 2 development builds (1.14.30 - 1.14.40)
+2019
+2 major updates (1.9 - 1.12.0), 2 minor updates (1.12.1 - 1.12.5), 2 development builds (1.8.0 - 1.12.3)
+2018
+3 major updates (1.0.27 - 1.7), 1 minor update (1.0.28)
+2017
+3 minor updates (1.0.17 - 1.0.21)
+2016
+1 major update (1.0.0), 2 development builds (0.14.2 - 0.16.0)
+2 minor MinecraftEdu updates (1.8.9 (Build 2 - Build 3))
+2015
+1 major MinecraftEdu updates (1.8.9 (Build 1))
+2013
+3 major MinecraftEdu updates (0.984 - 0.985)
+2012
+4 major MinecraftEdu updates (0.9652 - 0.982), 6 minor MinecraftEdu updates (0.969 - 0.9833)
+2011
+1 major MinecraftEdu update (0.1), 1 minor MinecraftEdu update (0.4)
+
+29  Infiniminer is released, a game by Zachtronics Industries (creators of the critically acclaimed 2011 puzzle game SpaceChem), whose concept mainly inspired Notch for Minecraft. It was regularly updated and became open-source less than a month later.
+
+10  Development on "Cave Game" started using RubyDung, an abandoned game project of Notch, and Infiniminer as bases for the code.
+13  Java: First video of "Cave Game", Block placement, first Mobs (Humans), physics created (Cave game tech test).
+14  Java: "Cave Game" renamed to "Minecraft: Order of the Stone" after a suggestion by RinkuHero from The Independent Games Wiki on an IRC with Notch, "Minecraft" being an analogy to the famous real-time strategy game StarCraft (Pre-classic).
+16  Java:  Early private testing, among TIGSource members (Classic 0.0.2a-0.0.9a).
+17  First release of the game (Classic 0.0.11a). Game name shortened to simply "Minecraft".
+21  Accounts can now be registered.
+24  An official Minecraft Forum is opened.
+
+1  Java: First Multiplayer test (Classic 0.0.15a (Multiplayer Test 1)). Notch starts his new job at Jalbum.
+7  Java: Multiplayer released (Classic 0.0.16a).
+14  Java: Custom Skins released (Classic 0.0.18a).
+
+4  Java: First elements of Survival shown.
+18  Java: Introduction of Health shown.
+
+9  Passwords can now be changed.
+20  Beginning of SURVIVAL TEST (Classic 0.26 SURVIVAL TEST), even though the first released version of Survival Test was Classic 0.24_SURVIVAL_TEST.
+
+2 - Minecraft 4k released.
+4 - Minecraft 4k contest is over, discontinuing it.
+22  Hayden Scott-Baron becomes the Minecraft Artist.
+23  Minecraft for Java passes to Indev development stage (Indev 0.31 (December 23, 2009, 1)) (which requires a 5.00  Premium Account to be accessed), introduction of Torches and dynamic lighting.
+
+13  Java: Introduction of infinite Water (Indev 0.31-20100113). Minecraft passes 100,000 registered users.
+21  Minecraft can now be gifted to non-premium players.
+29  Java: Introduction of the Crafting system (Indev 0.31-20100129).
+
+5  Hayden Scott-Baron leaves Minecraft development.
+27  Minecraft for Java passes to Infdev development stage, introduction of infinite maps.
+
+1  Notch gets back to work 100% on Minecraft after a pause after having left his job at Jalbum a few weeks before.
+17  Minecraft passes 20,000 sales.
+18  Java: Seecret Friday Update 1 released. Minecart system introduced.
+25  Java: Seecret Friday Update 2 released. Dungeons introduced.
+30  Minecraft for Java passes to Alpha development stage (Java Edition Alpha v1.0.0), price raised from 5.00  to 10.00 , it is now possible to play on a client window.
+
+3  Java: Seecret Friday Update 3 (Alpha v1.0.1) released. Redstone introduced.
+9  Java: Seecret Friday Update 4 (Alpha v1.0.4) released. Winter Mode introduced.
+16  Java: Seecret Friday Update 5 (Alpha v1.0.6) released. Boats and large trees introduced.
+22   Java: First over-the-internet test of Survival Mode Multiplayer.
+23  Java: Seecret Friday Update 6 (Alpha v1.0.11) released. Bricks and Slimes introduced.
+30  Java: Seecret Friday Update 7 (Alpha v1.0.14) released. Chickens and Music Discs introduced.
+
+4  First release of Survival Multiplayer (Java Edition Alpha v1.0.15).
+19  Original Herobrine creepypasta is created.
+20  Java: Seecret Friday Update 8 (Java Edition Alpha v1.0.17) released. Fences introduced.
+30  Notch gets on an employment trip to Bellevue, Washington, offered by VALVe Corporation.
+30  Original Herobrine livestream is created.
+31  Minecraftcon, a spontaneous gathering of over 50 fans after a call by Notch, is held in Bellevue, Washington.
+
+2  Notch returns from the trip to the U.S.
+10  Java: Seecret Friday update 9 (Java Edition Alpha v1.1.0) released. Compasses introduced.
+13  Daniel "Kappische" Kaplan joins the Mojang team.
+18  Java: The tenth Seecret Saturday update (Java Edition Alpha v1.1.1) released. Sneaking introduced. Minecraft technically becomes free-to-play for the weekend, due to the login server not working correctly.
+23  Minecraft Classic is available again on Minecraft.net.
+
+16  Mojang AB is founded.
+30  Java: Java Edition Alpha v1.2.0 "Halloween Update" released. Nether introduced.
+
+1  Jens "Jeb" Bergensten and "Junkboy" join the Mojang team.
+10  Original Herobrine mod is created.
+16  Gift system revised: the process now uses Gift Codes.
+20  Minecraft for Java passes to Beta development stage (Java Edition Beta 1.0), price raised from 10.00  to 15.00 .
+22  Java: Java Edition Beta 1.1 released.
+
+3  Tobias Mllstam and Carl Manneh join the Mojang team.
+12  Minecraft surpasses 1 million sales.
+13  Java: Beta 1.2 released.
+
+21  Java: Client/Launcher Update. Updates are now manually triggered.
+22  Java: Beta 1.3 released.
+
+2  Scrolls, Mojang's second game, is announced on The Word of Notch.
+4  "Minecraft - Volume Alpha", the soundtrack of the game by C418, is released.
+31  Java: Beta 1.4 released.
+
+19  Java: Beta 1.5 released.
+
+25  Kappische reveals Minecraft: Pocket Edition on Mojang's site.
+26  Java: Beta 1.6 released.
+
+1  Minecraft: Pocket Edition is first shown on a Youtube video
+6  Microsoft reveal Minecraft: Xbox 360 Edition at the E3 conference.
+30  Java: Beta 1.7 "Piston Update" released.
+
+1  Minecraft passes 10 million registered users.
+30  Minecraft T-shirts are made available on Battlefield Heroes for the 30-31 of July week-end only as a form of "neighborly friendly cross-promotion" between DICE and Mojang.
+
+5  Notch receives a 15-page letter from Bethesda Softworks, threatening him with a lawsuit if he does not change the name "Scrolls" (which is too close to "The Elder Scrolls", according to Bethesda) for his next game. A little while before this, Notch had already been warned by Bethesda's lawyers about this problem, and had suggested a compromise in which he would never put any word before "Scrolls".
+8  Henrik "Carnalizer" Pettersson joins the Mojang team.
+14  Marriage of Ez & Notch, all people who purchase Minecraft on the 13th and 14th of August can receive an extra copy for free.
+16  Minecraft: Pocket Edition v0.1.0 officially released (Xperia PLAY only).
+16 - Cobalt is announced.
+
+5 - Project Rex Kwon Do is announced.
+14  Java: Beta 1.8 "Adventure Update" released.
+
+5 - First release of MinecraftEdu.
+13  Java: "Sound Update" released.
+17  PE: First iOS release (v0.1.2).
+18  MINECON 2011 is held at Mandalay Bay, Las Vegas, Nevada. Over 4,500 people from 24 countries attend to it. On the same day, Minecraft 1.0.0 for Java Edition is officially released; the price is now 20.00.
+24  First snapshot released (11w47a). This marks the beginning of semi-weekly development versions.
+
+1  Jeb becomes the lead developer on Minecraft.
+6  Notch first suggests the possibility of Minecraft-themed LEGO sets as part of the LEGO CUUSOO project.
+8 - Edu: 0.4 released.
+16 - Cobalt is released in alpha.
+19 - Minicraft is released.
+28  Jon Kgstrm is hired by Mojang.
+
+12  Java: Java Edition 1.1 released.
+16 - Edu: 0.9652 released.
+18  As part of the worldwide protest against SOPA, Mojang establishes a blackout on all their sites for the entire day.
+24  LEGO announces that the LEGO Minecraft project has passed the 10,000 required votes.
+
+11  PE: v0.2.0 released for Android.
+15  LEGO reveals the final design of the first LEGO Minecraft set.
+17  PE: Alpha 0.2.0 released for iOS.
+17 - Edu: 0.969 released.
+18  Catacomb Snatch, a game developed by Mojang in the span of a weekend as part of a charity project called the Humble Bundle Mojam, is released.
+28  The Bukkit team (composed of Nathan "Dinnerbone" Adams, Warren "EvilSeph" Loo, Erik "Grum" Broes & Nathan "Tahg" Gilbert) officially joins Mojang in order to further develop the Minecraft server software and to aid with the creation of modding APIs.
+
+1  Java: Java Edition 1.2.1 released (1.2 was skipped for practical purposes).
+12  The "Elder Scrolls vs. Scrolls" lawsuit has an outcome: Mojang can call their game "Scrolls", but no sequel using this name will be allowed.
+22 - Edu: 0.97 released.
+
+3 - 0x10c is announced.
+4  Java: Java Edition 1.2.5 released
+23  PE: v0.3.0 released for iOS.
+24  PE: v0.3.0 released for Android.
+24 - Edu: 0.975 released.
+
+9  Xbox 360 Edition TU1 officially released.
+18 - Edu: 0.98 released.
+
+1  "Micro World", the first LEGO Minecraft set, is released (coincidentally with Notch's birthday) and available on the LEGO online shop.
+
+4 - Edu: 0.981 released.
+13  Legacy Console: Xbox 360 Edition TU3 released.
+16  Legacy Console: Skin Pack 1 released. It includes 45 skins inspired by Minecraft, "Halo", "Fable" and "Gears of War" among others as well as new skin designs.
+18  Legacy Console: The Summer Of Arcade Promotional Skin Pack was made available through August 22, 2012. It included 15 skins inspired by various arcade games such as "Tony Hawk's Pro Skater" and "Deadlight".
+19 - Project Rex Kwon Do is canceled.
+25 - Edu: 0.982 released.
+
+1  Java: Java Edition 1.3.1 released (1.3 was skipped for practical purposes).
+1 - Edu: 0.983 released.
+2  MINECON 2012 is officially announced on a promotional video to be in Disneyland Paris on November 2425.
+15  Notch and Ez divorce.
+24  Legacy Console: Skin Pack 2 released. It includes 45 skins inspired by Minecraft, "Left 4 Dead", "Perfect Dark" and "Gears of War" among others as well as new skin designs.
+
+6  PE: v0.4.0 released for both iOS & Android.
+13  PE: First Fire release (v0.4.0).
+
+5 - Edu: 0.9832 released.
+16  Legacy Console: TU5 released.
+17  Legacy Console: Skin Pack 3 released. It includes 45 skins inspired by Minecraft, "Half-Life", "Portal" and "Left 4 Dead" among others as well as new skin designs.
+24  Mojang starts the Minecraft Bug Tracker, an online tool that simplifies the communication of found game issues between the players and the developers.
+25  Java: Java Edition 1.4.2 "Pretty Scary Update" released (1.4 & 1.4.1 were skipped for practical purposes).
+26  Legacy Console: Halloween Skin Pack was made available through November 26, 2012. It included 55 Halloween-themed skins, including 7 with capes.
+
+6  Minecraft gift cards are available in physical stores in the US. This is the first time Minecraft can be bought without a credit card.
+15  PE: v0.5.0 released for both iOS & Android.
+24  MINECON 2012 is held at Disneyland Paris, France.
+25  Second day of MINECON 2012. MINECON 2012 capes released. Java Edition 1.5, also known as "The Redstone Update" is announced.
+
+9 - Edu: 0.9833 released.
+19  Legacy Console: TU7 released. Festive Skin Pack was also made available and includes 24 Christmas-themed skins.
+20  PI: Minecraft: Pi Edition Alpha 0.1 unofficially released.
+
+9 - Edu: 0.984 released.
+30  PE: v0.6.0 released.
+
+11  PI: Minecraft: Pi Edition Alpha 0.1.1 officially released.
+
+13  Java: Java Edition 1.5 "Redstone Update" released.
+13  Legacy Console: Skin Pack 4 released. It includes 45 skins, some with capes.
+
+1  Java: Minecraft 2.0 announced as an April Fools joke.
+4  Legacy Console: TU9 released.
+5  Minecraft for Java surpasses 10 million sales.
+8  Aleksandra "MissMarzenia" "Ola" Zajc joined Mojang as customer support agent.
+18 - Minecraft Launcher is officially released.
+
+8  Legacy Console: Battle & Beasts Skin Pack released. It includes 45 skins.
+9  Legacy Console: Minecraft 1st Birthday Skin Pack was made available through May 31, 2013. It included 23 skins.
+23 - Edu: 0.9848 released.
+
+5  PE: v0.7.0 released.
+10  Legacy Console: Minecraft: Xbox One Edition is announced during Microsoft's press conference at E3.
+
+1  Java: Java Edition 1.6.1 "Horse Update" released (1.6 was skipped for practical purposes).
+16 - Edu: 0.9849 released.
+31  MINECON 2013 tickets went on sale.
+31  Legacy Console: Skin Pack 5 released. It includes 45 skins.
+
+6  More MINECON 2013 details were announced.
+13 - 0x10c is canceled.
+20  Minecraft was announced for the PlayStation 3, PlayStation 4, and PlayStation Vita. The PS4 edition will be released on the same day the PS4 gets released for North America (November 15), and Europe, Australia, and Latin America (November 29).
+23  Legacy Console: TU12 released.
+
+2   Minecraft for Java surpasses 12 million sales.
+4  Legacy Console: Mass Effect Mash-up Pack released.
+19 - Edu: 0.985 released.
+
+2  Legacy Console: Plastic Texture Pack released.
+9  Legacy Console: Battle & Beasts 2 Skin Pack released. It includes 45 skins.
+18  Legacy Console: Natural Texture Pack released.
+25  Java: Java Edition 1.7.2 "The Update that Changed the World" released (1.7 & 1.7.1 were skipped for practical purposes).
+
+23  MINECON 2013 is held at Orange County Convention Center, Orlando, Florida.
+18  Ryan "TheMogMiner" Holtz starts at Mojang as developer for the Java edition.
+20  Legacy Console: Skyrim Mash-up Pack released.
+
+11  Legacy Console: Fantasy Texture Pack released.
+12  PE: v0.8.0 released for both iOS & Android.
+13  Minecraft for Java surpasses 13 million sales.
+17  Legacy Console: Minecraft: PlayStation 3 Edition 1.0 officially released.
+19  Minecraft Realms Beta was launched.
+23  Legacy Console: Marvel Avengers Skin Pack released. It includes 35 skins.
+
+2  Michael "Searge" Stoyke, known for his work on the Mod Coder Pack, joins Mojang as developer for the Java edition.
+9  Java: The first 1.8 snapshot (14w02a) was released.
+
+26  Java: 1.7.5 is released.
+27  Realms is launched in Nordic countries.
+
+26  Legacy Console: TU14 is released.
+27  PS3: 1.04 is released along with Skin Packs 1, the Battle & Beasts skin pack as well as the City and Plastic texture packs all released as available DLC.
+
+1  Java: Villagers have taken over Minecraft and Skins cannot be changed throughout the day.
+1  Minecraft Realms is launched in Canada.
+2  Minecraft: Pocket Edition released for the Amazon Fire TV (v0.8.2).
+11  Java: 1.7.8 is released.
+14  Java: 1.7.9 is released.
+24  Realms is launched in the United States.
+
+6  Realms is launched in more countries in Asia and Europe.
+9  Realms is launched in the Oceania region.
+19  Realms is launched globally in all remaining countries.
+
+26  Java: 1.7.10 is released.
+
+10  PE: v0.9.0 released.
+25  PE: First Fire Phone release (v0.9.1).
+
+2  Java: Java Edition 1.8 "The Bountiful Update" is released.
+4  Legacy Console: Minecraft: PlayStation 4 Edition officially released.
+5  Legacy Console: Minecraft: Xbox One Edition officially released.
+15  Mojang and Minecraft are acquired by Microsoft for $2.5 billion.
+
+14  Legacy Console: Minecraft released for PlayStation Vita.
+
+5  The founders of Mojang Studios  Markus Persson, Jakob Porsr and Carl Manneh  leave the company.
+14 - The first minifigure-scale LEGO Minecraft sets are released.
+18  PE: Minecraft Alpha 0.10.0 released for the Pocket Edition.
+24  Java: Minecraft Java Edition 1.8.1 is released.
+
+10  PE: Minecraft: Pocket Edition is released for Windows Phone (v0.10.4).
+12  Java: New Minecraft Launcher released, utilizing a native Java application and an installer that runs in the C:\Program Files\Minecraft directory
+18  Mojang announced that they will collaborate with Telltale Games to create a new Minecraft spin-off game called Minecraft: Story Mode.
+18  Legacy Console: Minecraft TU19 and CU7 released on Xbox 360 Edition and Xbox One Edition respectively.
+20  Legacy Console: Minecraft 1.12 released on all PlayStation Editions.
+25 - Legacy Console: Minecraft 1.12 released on PlayStation 3 & 4 Editions for North America.
+
+6 - Legacy Console: Minecraft 1.12 released on PlayStation Vita Edition for North America.
+23  Legacy Console: Minecraft TU20, CU8, and 1.13 released on 360, One, and all PlayStation Editions, respectively.
+29  Ryan Holtz leaves Mojang.
+
+2  MINECON 2015 is announced for July 45.
+4  Java: Mojang releases the ability to change your Minecraft username. Mojang also releases old unpaid usernames at the same time. Players jump at the opportunity to get preferred usernames.
+11  Legacy Console: Minecraft TU21, CU9, and 1.14 released on 360, One, and all PlayStation Editions, respectively.
+11  PE: Daniel "darngeek" Wustenhoff joins the developer team of Minecraft: Pocket Edition.
+19  Java: Minecraft Java Edition 1.8.2 is released.
+20  Java: Minecraft Java Edition 1.8.3 is released.
+25  Legacy Console: Minecraft CU10 released on Xbox One Edition.
+27  Legacy Console: Minecraft TU22 released on Xbox 360 Edition.
+
+12  Minecraft: Console Edition wins a BAFTA Games Award in the family category.
+25  Legacy Console: Minecraft TU23, CU11, and 1.15 released on 360, One, and all PlayStation Editions, respectively.
+28  Minecraft wins a Kids' Choice Award for "Most Addicting Game".
+
+1  Java: Snapshot 15w14a for 1.10 is announced as an April Fools joke.
+17  Java: Minecraft Java Edition 1.8.4 is released.
+29  Legacy Console: Minecraft TU24, CU12, and 1.16 released on 360, One, and all PlayStation Editions, respectively.
+
+14  Legacy Console: Minecraft CU13 released on Xbox One Edition.
+22  Java: Minecraft Java Edition 1.8.5 is released.
+25  Java: Minecraft Java Edition 1.8.6 is released.
+3031  Mojang gives away 12,000 2-week Realms trials.
+
+4  PE: Minecraft v0.11.0 released for the Pocket Edition.
+5  Java: Minecraft Java Edition 1.8.7 is released.
+15  First demonstration of Minecraft for Microsoft HoloLens at E3 2015 press conference.
+30  Java: Minecraft for Java surpasses 20 million sales.
+
+1  Legacy Console: Minecraft TU25, CU14, and 1.17 released on 360, One, and all PlayStation Editions, respectively.
+1  Minecraft wins the first ever BAFTA Young Game Designers Hero Award.
+3  Legacy Console: Minecraft TU26 released on Xbox 360 Edition.
+45  MINECON 2015 takes place in London.
+4  MINECON receives the Guinness World Record for Largest Convention for a Single Video Game.
+4  Mojang announces Minecraft: Windows 10 edition Beta, showcasing features specific to the HoloLens and the Surface Pro 3.
+4  Mojang and Telltale Games reveals a trailer for the upcoming Minecraft: Story Mode.
+21  Mojang announces Rob McElhenney as the director for the upcoming Minecraft movie.
+29  W10: An adaptation of Minecraft: Pocket Edition is released for the universal Windows 10 platform.
+29  Java: The first 1.9 snapshot (15w31a) is released.
+
+11  PE: Minecraft Pocket Edition v0.12.0.1 released for Windows 10 Edition.
+2123  Mojang gives away 36,000 2-week Realms trials.
+26  Telltale Games announces that Minecraft: Story Mode will be released for the Wii U this fall, making it the first ever Minecraft-themed game to be released on a Nintendo platform.
+28  Legacy Console: Minecraft TU28, CU16, and 1.19 released on 360, One, and all PlayStation Editions, respectively.
+
+3  Minecraft is nominated for a Golden Joystick Award in the Best Family Game category.
+49  PE: Minecraft Pocket Edition v0.12.1 released for Windows 10, iOS and Windows Phone.
+7  Thomas "ProfMobius" Guimbretire, known for his work on the Mod Coder Pack, has joined Mojang by this date, as developer for the Java edition.
+11  Legacy Console: Minecraft TU29 released for Xbox 360 Edition.
+24  W10: Mojang announces that Minecraft will be released for the Oculus Rift as an adaption of the Windows 10 Edition.
+
+11  PE: Minecraft Pocket Edition Alpha 0.12.2 released for Android, Fire OS, Windows Phone and Windows 10.
+13  Minecraft: Story Mode - Episode 1: The Order of the Stone released for PlayStation 3, PlayStation 4, and PC/Mac.
+14  PE: Minecraft Pocket Edition v0.12.2 released for iOS.
+14  Minecraft: Story Mode - Episode 1: The Order of the Stone released for Xbox 360 and Xbox One.
+15  Minecraft: Story Mode - Episode 1: The Order of the Stone released for iOS, Android and Fire OS.
+22  PE: Minecraft Pocket Edition v0.12.3 released for Android.
+22  Minecraft is nominated for a BAFTA Children's Award in the Game category.
+23  PE: Minecraft Pocket Edition v0.12.3 released for iOS, Fire OS and Windows 10.
+23  Legacy Console: Minecraft TU30, CU18 and 1.21 released for all Console Editions, respectively.
+27  Minecraft: Story Mode - Episode 2: Assembly Required released.
+
+19  PE: Minecraft Pocket Edition v0.13.0 released.
+24  Minecraft: Story Mode - Episode 3: The Last Place You Look released.
+
+7  Minecraft announced for the Wii U.
+9  Java: Minecraft Java Edition 1.8.9 is released.
+14  Realms price reduced to $10.
+16  PE: Minecraft Pocket Edition v0.13.1 released.
+17  Legacy Console: Minecraft: Wii U Edition officially released.
+18  Legacy Console: Minecraft TU31, CU19 and 1.22 released for Xbox 360, Xbox One and PlayStation Console Editions, respectively.
+22  Minecraft: Story Mode - Episode 4: A Block and a Hard Place released across all other platforms.
+
+19  Minecraft: Education Edition announced.
+21  Minecraft: Story Mode - Episode 1: The Order of the Stone released on Wii U.
+23  Pi Edition is announced as being discontinued.
+
+2  Minecraft: Story Mode is nominated a Kids' Choice Award for Favorite Video Game.
+2 - Cobalt is officially released.
+1012  Legacy Console: Minecraft TU32, CU20 and 1.23 released on Xbox 360, One, and PlayStation Console Editions, respectively.
+18  PE: Minecraft: Pocket Edition v0.14.0 "Overworld Update" released.
+2526  Legacy Console: Minecraft TU33, CU21, 1.24 and Patch 3 released on all Console Editions, respectively.
+29  Java: Minecraft Java Edition 1.9 "The Combat Update" released.
+
+22  Telltale Games announces three additional episodes of Minecraft: Story Mode as downloadable content.
+29  Minecraft: Story Mode - Episode 5: Order Up! released.
+
+5 - MinecraftEdu is discontinued.
+21  Minecraft: Story Mode is nominated a Google Play Award in the Early Adopter category.
+22 - Crown and Council is released.
+27  Gear VR: An adaptation of Minecraft: Pocket Edition is released for the Samsung Gear VR.
+
+2  The Minecraft website received a major design overhaul
+9  Nintendo announced a Mario themed mash up pack
+18  Java: The first 1.10 snapshot (16w20a) is released.
+20  Mojang announced a partnership with NetEase, Inc. Press release to bring both Pocket and Java editions to China.
+24  Price raised from 19.95  to 23 .
+
+2  Minecraft is sold for all platforms 100 million times and makes the second best selling games.
+7  Minecraft: Story Mode - Episode 6: A Portal to Mystery released.
+8  Java: Java Edition 1.10 "Frostburn Update" released.
+13  PE: Minecraft: Pocket Edition v0.15.0 "Friendly Update" released.
+21  Legacy Console: Minecraft TU36, CU25, 1.28 and Patch 7 released on all Console Editions, respectively, adding a Battle Mini Game mode.
+27  Mojang announces Minecraft: The Movie, the release date for the movie is May 24, 2019 and in 3D and in IMAX.
+
+26  Minecraft: Story Mode - Episode 7: Access Denied released.
+
+3  Agnes "LadyAgnes" Larsson joins Mojang as a developer for the Java edition.
+10  Java: The first 1.11 snapshot (16w32a) is released.
+24  Minecraft: Story Mode released on tvOS.
+3031  Legacy Console: Minecraft TU41, CU30, 1.33 and Patch 11 released on all Console Editions, respectively, adding a Tumble Mini Game mode.
+
+1316  Minecraft: Story Mode - Episode 8: A Journey's End? released.
+2425  MINECON 2016 takes place in Anaheim, California.
+24  Mojang announces Minecraft: The Island as the first official Minecraft novel.
+
+3  Maria Lemn joins Mojang as a developer for the Java edition.
+45  Legacy Console: Minecraft TU43, CU33, 1.36 and Patch 13 ("Banners, Blocks, Beets & Bears" update) released on all Console Editions, respectively.
+17  Mariana "RazzleberryFox" Graham, known to the community for her work on the DecoCraft mod, joins Mojang as Animator, Modeler and Texture Artist.
+21  PE: Minecraft: Pocket Edition v0.16.0 "Boss Update" released.
+25  Java: A new Minecraft launcher, under development by Nathan Adams and Mns Olson, enters public beta testing.
+27  Apple CEO Tim Cook announced an edition of Minecraft for the Apple TV, featuring cross-play between that platform and iOS devices, to be released by the end of year 2016.
+
+1  Minecraft: Education Edition officially launched.
+14  Java: Java Edition 1.11 "Exploration Update" released.
+
+19  Apple TV: An adaptation of Minecraft: Pocket Edition is released for the Apple TV.
+19  Fire TV: An adaptation of Minecraft: Pocket Edition is released for the Amazon Fire TV. The Pocket Edition app was discontinued on that platform. Other Fire OS devices such as the Amazon Kindle continue to use the Pocket Edition app.
+19  PE: Minecraft: Pocket Edition is officially released as Pocket Edition 1.0.0, the "Ender Update", released on all platforms and adaptations except the Windows Phone.
+2122  Legacy Console: Minecraft TU46, CU36, 1.39 and Patch 15 was released on all Console Editions, respectively, updating the boss battle and island generation in the End to more closely match the Java and Pocket editions.
+29  Minecraft for Java surpasses 25 million sales.
+
+13  Minecraft announced for the Nintendo Switch.
+18  Minecraft: Pocket Edition for Windows Phone is no longer supported. There will no longer be any updates.
+27 - Crown and Council is released on Steam.
+
+2  Minecraft: Story Mode is nominated a Kids' Choice Award for Favorite Video Game, for the second year in a row.
+8  Java: The first 1.12 snapshot (17w06a) is released.
+22  Minecraft: Pocket Edition for Windows 10 Mobile received an update to version 1.0.3. Only Windows Phone is not supported.
+
+2829  Legacy Console: Minecraft TU51, CU41, 1.44 and Patch 20 released on all Console Editions, respectively, adding a Glide Mini Game mode.
+
+7  PC: Closed beta for Chinese version of Minecraft announced in Beijing.
+10  Official Minecraft Marketplace announced for Pocket and Windows 10 Edition, a feature for players to buy community-made content directly in-game, to be added along with the Minecraft: Pocket Edition Discovery Update.
+
+11  Legacy Console: Minecraft: Nintendo Switch Edition officially released.
+22 - Education: 1.0.17 released, Introduction of Code builder.
+30  Legacy Console: Minecraft TU53, CU43, 1.50, Patch 23 and Patch 3 released on all Console Editions, respectively.
+
+1  PE: Minecraft: Pocket Edition 1.1.0 released.
+1 - Cobalt W.A.S.D. is announced and released in beta.
+7  Java: Java Edition 1.12 World of Color Update released.
+11  Mojang announces the Super Duper Graphics Pack.
+27-28 - Legacy Console: Minecraft TU54, CU44, 1.52, Patch 24, and Patch 4 released on all Console Editions, respectively.
+
+11  Minecraft: Story Mode - Season Two: Episode 1 - Hero in Residence released.
+18  Minecraft: The Island published.
+19 - Education: 1.0.18 released.
+
+8  PC: Open beta for Chinese version of Minecraft was released.
+8  Mojang announces MINECON Earth, an interactive live show that can be accessed by anyone for free, and "Official Community Events", smaller MINECON-like events that take place in various regions.
+1517  Minecraft: Story Mode - Season Two: Episode 2 - Giant Consequences released.
+22  Minecraft: Story Mode released on the Nintendo Switch.
+
+13  Minecraft: New Nintendo 3DS Edition officially got announced and released.
+15  iOS: Open beta for Chinese version of Minecraft was released.
+1921  Minecraft: Story Mode - Season Two: Episode 3 - Jailhouse Block released.
+20  Bedrock: Minecraft Better Together 1.2 released.
+20  Android: Open beta for Chinese version of Minecraft was released.
+20  ''Bedrock Edition released on Xbox One.
+
+6  Georgii "Fry" Gavrichev joins Mojang as a developer for the Java edition.
+9 - Education: 1.0.21 released.
+19  Will Arnett confirmed as co-host of MINECON Earth 2017
+25  Java: The first Java Edition 1.13 snapshot (17w43a) is released.
+
+?  Bartosz Bok joins Mojang as a developer for Java Edition.
+79  Minecraft: Story Mode - Season Two: Episode 4 - Below the Bedrock released.
+10' - Minecraft: New Nintendo 3DS Edition officially got a physical release.
+18  MINECON Earth event.
+18  During MINECON Earth, Java Edition 1.13 (the Update Aquatic) is announced (not as 1.13, but 1.14), and some of the features are showcased.
+30 - Cobalt W.A.S.D. is officially released.
+
+19  Minecraft: Story Mode - Season Two: Episode 5 - Above and Beyond released.
+19 - Legacy console: TU60, CU51, 1.64, Patch 30, and Patch 11 are released to all console editions, respectively.
+
+19  Minecraft hits 74 million active players and 144 million total sales.
+24  Mojang announces that the features of 1.13 will be merged with what was originally planned to be 1.14, and released at a later date as one update: Update Aquatic.
+
+22 - Education: Chemistry Update is released as 1.0.27.
+
+15  Minecraft: The Crash is announced as the second Minecraft novel.
+
+6 - Education: 1.0.28 released.
+10  MINECON Earth 2018's date is announced for September 29th, 2018.
+14  The Coral Crafters regrowth project is announced.
+26  Mojang announces the co-hosts of MINECON Earth 2018.
+
+11  Cory "cojomax99" Scheviak joins Mojang as a developer for Java Edition.
+16  Bedrock: 1.4.0, Phase One of the Update Aquatic, released.
+23  Bedrock: 1.4.1 released for Android, Fire OS, and Fire TV.
+23  Bedrock: 1.4.2 released for all devices.
+
+5  Bedrock: 1.4.3 released exclusively for iOS.
+7  Bedrock: 1.4.4 released exclusively for Android, Fire OS, and Fire TV.
+12 - Education: Update Aquatic is released as 1.4.
+13  Netflix is revealed to add Minecraft: Story Mode to its service in late 2018 in an exclusive by TechRadar.
+20 - Scrolls is made free to play and has its name changed to Caller's Bane.
+21  ''Bedrock Edition released on Nintendo Switch.
+
+10  Bedrock: 1.5.0, Phase Two of the Update Aquatic, released.
+18  Java: Java Edition 1.13, the Update Aquatic, released.
+19  Bedrock: 1.5.1 released for Switch.
+20  Bedrock: 1.5.1 released for all other platforms.
+24  Bedrock: 1.5.2 released for all platforms except Fire OS and Fire TV.
+25  Bedrock: 1.5.2 released for Fire OS and Fire TV.
+
+7  Bedrock: 1.5.3 released.
+22  Java: Java Edition 1.13.1 released
+28  Bedrock: 1.6.0 released.
+
+10  MINECON Earth 2018 Panels confirmed
+11 - Legacy Console: Update Aquatic (TU69, 1.76, and Patch 38) has been released.
+17  Bedrock: 1.6.1 is released.
+29  During the MINECON Earth 2018 event, the Village and Pillage update was announced and some of its main features were showcased.
+
+1  Bedrock: 1.6.2 released for iOS.
+15  Bedrock: 1.7.0 released for iOS.
+16  Bedrock: 1.7.0 released for all other devices.
+19  Buying Minecraft: Java Edition no longer includes a giftcode for Minecraft for Windows 10.
+22  Java: Java Edition 1.13.2 released.
+24  Java: The first Java Edition 1.14 snapshot (18w43a) is released.
+
+6  Minecraft: Story Mode - Season Two released on the Nintendo Switch.
+7  Bedrock: 1.7.1 released for Windows 10 and Xbox One.
+9  LadyAgnes announces the lantern is coming back to Minecraft once and for all, as part of the Village and Pillage update.
+12 - Education: Code Builder Update is released as 1.7.
+27  The first three episodes of Minecraft: Story Mode are released on Netflix.
+
+5  The final two episodes of Minecraft: Story Mode are released on Netflix.
+11  Bedrock: 1.8.0 released.
+17  Bedrock: 1.8.1 released for Nintendo Switch.
+18 - PlayStation 4: 1.83 released.
+
+8  Bedrock: 1.8.1 released for all platforms.
+11  Peter Sollett is announced as the director for Minecraft: The Movie, along with a release of the plot synopsis.
+15  Minecraft: New Nintendo 3DS Edition was discontinued, final update for this version also launched this day too, The Discovery Update.
+
+5  Bedrock: 1.9.0 released.
+25 - PlayStation 4: 1.88 released.
+
+19  Bedrock: 1.10.0 released.
+21 - Education: 1.9 released, dubbed "Spring Release".
+27  Bedrock: 1.10.1 released for Windows 10.
+
+3  Minecraft: Java Edition surpasses 30 million sales.
+5 - PlayStation 4: Texture Update released as 1.90.
+23  Village & Pillage is released as Java Edition 1.14 and Bedrock Edition 1.11.0.
+23 - Java: Texture Update released as 1.14.
+26  Bedrock: 1.11.1 released for all devices except Nintendo Switch.
+
+2  Bedrock: 1.11.1 released for Nintendo Switch and 1.11.2 released for Xbox One.
+7  A remake of Classic 0.0.23a_01 is uploaded to classic.minecraft.net to celebrate 10 years of  Minecraft (Java Edition).
+13  Minecraft Earth announced.
+13  Java: 1.14.1 released.
+17  Bedrock: 1.11.3 released for all devices except Switch.
+17 - Minecraft: Minecraft Turns 10 and that same day, 10 Years of Minecraft Map is officially released.
+23  Bedrock: 1.11.4 released.
+27  Java: 1.14.2 released.
+31 - Mojang announces that Minecraft: Story Mode will no longer be supported and that players have until June 25, 2019 to download their episodes.
+
+3 - PlayStation 4: Village & Pillage is released as 1.91.
+25  Java: 1.14.3 released.
+25 - Story Mode: Minecraft: Story Mode  Season 1 & 2 took down from stores and stopped being supported.
+
+9  Bedrock: 1.12.0 released for all devices except Android.
+10  Bedrock: 1.12.0 released for Android
+16  Minecraft Earth released as a closed beta in London and Seattle, with other cities soon to follow.
+19  Java: 1.14.4 released.
+
+12  Mojang announces that development of the Super Duper Graphics Pack has been discontinued.
+14 - Education: 1.12.0 released, dubbed the "Back to School Update".
+22  Java: The first Java Edition 1.15 snapshot (19w34a) is released.
+
+2  Bedrock: 1.12.1 is released for Android
+3  Bedrock: 1.12.1 is released for all other devices.
+24 - iPadOS is released to Bedrock, Education, and China Editions.
+28  MINECON Live 2019 held, announcing the Nether Update (Java Edition 1.16) and the release date for Minecraft Earth (October 2019).
+30 - Education: 1.12.1 released.
+
+17  ''Minecraft Earth early access is available, starting in Iceland and New Zealand.
+29  Bedrock: 1.13.0 released.
+
+12  Bedrock: 1.13.1 released.
+12 - Education: 1.12.5 released, dubbed the "Library Update".
+14  Bedrock: 1.13.2 released for iOS only.
+20  Bedrock: 1.13.3 released for iOS only.
+
+3  Realms Plus was launched for Bedrock Edition, replacing Minecraft Realms.
+10  Buzzy Bees is released as Java Edition 1.15 and Bedrock Edition 1.14.0, (does not release on Switch.)
+10  ''Bedrock Edition released on PlayStation 4.
+11  ''Minecraft Earth early access has rolled out to over 110 countries.
+11  Buzzy Bees is released on Switch.
+13  Bedrock: 1.14.0.12 released for PlayStation 4.
+17  Java: 1.15.1 released.
+18  Earth: 0.9.0 released.
+18  Bedrock: 1.14.1 released for all devices except PS4 and Switch.
+19  Bedrock: 1.14.1 released for PS4 and Switch.
+
+15  Earth: 0.10.0 released.
+21  Java: 1.15.2 released.
+28  Bedrock: 1.14.20 released for all platforms except Switch.
+28  Earth: 0.11.0 released.
+31 - Education: 1.12.60 released.
+
+4 - Bedrock: 1.14.20 released for Switch.
+5  Java: The first Java Edition 1.16 snapshot (20w06a) is released.
+11  Bedrock: 1.14.30 released for all platforms except Switch.
+11  Earth: 0.12.0 released.
+18  Bedrock: 1.14.30 released for Switch.
+27  Earth: 0.13.0 released.
+29  This is the first leap day on which no new game version was released; 2012 had 1.2 and 2016 had 1.9.
+
+3  Bedrock: 1.14.41 released for PlayStation 4.
+12  Earth: 0.14.0 released.
+25  Earth: 0.15.0 released.
+
+14  Earth: 0.16.0 released.
+15   Bedrock: 1.14.60 released.
+15 - Legacy console: The final update releases (PlayStation 3 & Vita 1.84), which discontinues legacy console edition.
+28  Earth: 0.17.0 released.
+
+6  Earth: 0.17.1 released.
+11  Earth: 0.17.2 released.
+17 - Minecraft : Minecraft turns 11 and Mojang change their name from Mojang to Mojang Studios, also refreshing the Minecraft logo.
+18 - Minecraft surpassed over 200 millions copies sold
+20  Earth: 0.18.0 released.
+26   Minecraft Dungeons released to the public.
+
+2  Earth: 0.19.0 released.
+9   Dungeons: 1.1.2.0 released.
+17   Dungeons: 1.2.0.0 released for Nintendo Switch and PlayStation 4.
+18  Earth: 0.20.0 released.
+22   Dungeons: 1.2.0.0 released for Windows and Xbox One.
+23  Nether Update is released as Java Edition 1.16 and Bedrock Edition 1.16.0.
+24  Java: 1.16.1 released.
+29   Bedrock: 1.16.1 released for Android, Gear VR, Windows 10, and Windows 10 Mobile.
+30   Dungeons: 1.3.2.0 released, with the Jungle Awakens DLC.
+30   Bedrock: 1.16.1 released for Fire OS, Xbox One, and Playstation 4.
+
+1   Bedrock: 1.16.1 released for Fire TV.
+3   Bedrock: 1.16.1 released for Nintendo Switch.
+6   Bedrock: 1.16.1 released for iOS.
+8  Bedrock: 1.16.1.03 released for PlayStation 4.
+16  Bedrock: 1.16.1.04 released for PlayStation 4.
+16  Earth: 0.21.0 released.
+21  Bedrock: 1.16.10 released for iOS, Windows 10, Android, Gear VR, and Windows 10 Mobile.
+31  Earth: 0.22.0 released.
+
+7 - Education: 1.14.31 released, and on that release Chrome OS is released on Education Edition. It is dubbed "Chromebook Release".
+11 - Bedrock: 1.16.20 released.
+11 - Java: 1.16.2 released.
+12  Earth: 0.23.0 released.
+20  Bedrock: 1.16.21 released for Nintendo Switch.
+25  Earth: 0.24.0 released.
+26  Bedrock: 1.16.40 released for PlayStation 4.
+
+3  Bedrock: 1.16.40 released for Windows 10, Windows 10 Moblie, Android, Gear VR, Fire OS, and Xbox One.
+4  Bedrock: 1.16.40 released for iOS and Fire TV.
+8  Dungeons: 1.4.3.0 released, with the Creeping Winter DLC.
+10  Java: 1.16.3 released.
+11  Bedrock: 1.16.40 released for Nintendo Switch.
+14  Dungeons: 1.4.4.0 released for Xbox One.
+17  Earth: 0.25.0 released.
+22  Bedrock: 1.16.42 released for PlayStation 4.
+22  Bedrock: 1.16.50 released for iOS.
+22 - Education: 1.14.32 is released for ChromeOS.
+23  Bedrock: 1.16.60 released for PlayStation 4.
+24  Earth: 0.26.0 released.
+25  Bedrock: 1.16.61 released for PlayStation 4.
+29  Dungeons: 1.4.6.0 released for Windows.
+
+1  Steve is announced for Nintendo Switch game Super Smash Bros. Ultimate, with Alex, Zombie, and Enderman as alternate costumes.
+3  Minecraft Live 2020 was held, announcing the Caves & Cliffs update.
+6  Earth: 0.27.0 released.
+20  Earth: 0.28.0 released.
+21  Mojang announced that all Mojang accounts will be migrated to Microsoft accounts and will receive a cape.
+26  Dungeons: 1.5.0.0 released.
+
+2  Java: 1.16.4 released.
+3  Earth: 0.29.0 released.
+4  Java: The first Java Edition 1.17 snapshot (20w45a) is released.
+10 - Education: 1.14.50 released, dubbed "Learn to Code Update".
+11  Dungeons: 1.5.1.0 released for Xbox Series X|S.
+17  Dungeons: 1.6.0.0 released.
+17  Bedrock: 1.16.100 released.
+17  Earth: 0.30.0 released.
+23  Bedrock: 1.16.101 released.
+23  Dungeons: 1.6.1.09 released for PlayStation.
+
+1  Buying Minecraft: Java Edition now requires a Microsoft account.
+1  Earth: 0.31.0 released.
+8  Bedrock: 1.16.200 released.
+9  Dungeons: 1.7.2.0 released, with the Howling Peaks DLC.
+14  Earth: 0.32.0 released.
+15  Bedrock: 1.16.201 released.
+
+5  Mojang announces that Minecraft Earth will shut down in June 30, 2021.
+5  Earth: 0.33.0 released as the final update to the game.
+15  Java: 1.16.5 released.
+
+24  Dungeons: 1.8.0.0 released, with the Flames of the Nether DLC.
+
+1  Dungeons: 1.8.1.0 released for Xbox Series X|S.
+9  Bedrock: 1.16.210 released.
+24  Dungeons: 1.8.6.0 released.
+
+6  Bedrock: 1.16.220 released.
+14  Mojang announces the Caves & Cliffs update to be split into two parts due to health concerns and the large amount of content.
+22  Bedrock: 1.16.221 released.
+
+5  Dungeons: 1.8.8.0 released.
+26  Dungeons: 1.9.1.0 released, with the Hidden Depths DLC. 
+26 - Education: Camps & Clubs is released as 1.14.70.
+31 - Java and Bedrock: Caves & Cliffs release date was announced via tweet, for Jun 8, 2021.
+
+8  Part I of Caves & Cliffs is released as Java Edition 1.17 and Bedrock Edition 1.17.0. 
+14  Bedrock: 1.17.1 released for Nintendo Switch.
+22  Bedrock: 1.17.2 released.
+30  Earth: Minecraft Earth is discontinued.
+
+6  Java: 1.17.1 released.
+13  Bedrock: 1.17.10 released.
+13 - Java: Java Edition 1.18 World Generation Experimental Snapshots opened up to the public. 
+13 - Bedrock: Bedrock Edition 1.18 World Generation Experimental Gameplay features opened up to the public. 
+28 - Dungeons: 1.10.1.0 and 1.10.2.0 (Windows Store) released.
+
+9 - Bedrock: 1.17.11 released.
+11 - Dungeons: 1.10.3.0 released.
+
+2 - Dungeons: 1.10.4.0 released for Switch only.
+15  Java: The first Java Edition 1.18 snapshot (21w37a) is released.
+21  Bedrock: 1.17.30 released.
+22 - Dungeons: Steam is released to Minecraft Dungeons.
+30 - Bedrock: 1.17.32 released.
+
+5 - Bedrock: 1.17.34 released for Android, iOS, and iPadOS.
+6 - Bedrock: 1.17.34 released for other platforms except for FireOS.
+7 - Bedrock: 1.17.34 released for FireOS.
+13 - Dungeons: 1.11.1.0 released.
+16  Minecraft Live 2021 was held, announcing The Wild Update.
+19  Bedrock: 1.17.40 released.
+27 - Bedrock: 1.17.41 released except for FireOS.
+29 - Bedrock: 1.17.41 released for FireOS.
+
+2 - Education: GOAT Update is released as 1.17.30.
+30  Part II of Caves & Cliffs is released as Java Edition 1.18 and Bedrock Edition 1.18.0. 
+
+2 - Bedrock: 1.18.1 released on PlayStation.
+6 - Bedrock: 1.18.1 released for other platforms except Switch.
+9 - Bedrock: 1.18.2 released.
+10  Java: 1.18.1 released.
+14 - Education: 1.17.31 released.
+14  Dungeons: 1.12.0.0 released.
+15  Minecraft surpassed 1 Trillion views on YouTube, becoming the first ever franchise in any media to reach this milestone.
+17  Dungeons: 1.12.1.0 released for PC only.
+
+12  Dungeons: 1.12.2.0 released for Consoles only.
+27 - Bedrock: The first Bedrock Edition 1.18.30 beta (beta 1.18.20.21) is released.
+31 - Bedrock: Minecraft Preview is released on iOS and iPadOS as Preview 1.18.20.22.
+
+7 - Bedrock: Minecraft Preview is released on Xbox insider as Preview 1.18.20.24.
+8 - Bedrock: 1.18.10 released.
+8 - Dungeons: 1.13.1.0 released.
+8 - Education: 1.17.32 released.
+9 - Bedrock: Minecraft Preview is released on Windows as Preview 1.18.20.26.
+11 - Bedrock: 1.18.11 is released for Switch.
+16 - Bedrock: 1.18.12 released except for Switch.
+17 - Java: Deep Dark Experimental Snapshot 1 released
+25 - Dungeons: Steam Deck is released to Minecraft Dungeons.
+28 - Java: 1.18.2 released.
+
+16 - Java: The first Java Edition 1.19 snapshot (22w11a) is released.
+
+6 - Bedrock: The first Bedrock Edition 1.19.0 beta (beta 1.19.0.20) is released.
+19 - Bedrock: 1.18.30 released.
+20 - Dungeons: 1.14.1.0 released.
+27 - Bedrock: 1.18.31 released except for Switch.
+29 - Bedrock: 1.18.31 released for Switch.
+
+5 - Bedrock: 1.18.32 is released for Android.
+6 - Bedrock: 1.18.32 is released for FireOS and Switch.
+13 - Bedrock: 1.18.33 is released for Switch.
+25 - Bedrock: The first Bedrock Edition 1.19.10 beta (beta 1.19.10.20) is released.
+25 - Dungeons: 1.15.0.0 released.
+26 - The Wild Update is now set to release in June 7, 2022.
+27 - Bedrock: Xbox no longer requires insider for preview versions.
+
+7 - The Wild Update is released as Java Edition 1.19 and Bedrock Edition 1.19.0.
+8 - Dungeons: 1.15.1.0 released.
+12 - Legends: Minecraft Legends announced.
+15 - Java: The first Java Edition 1.19.1 snapshot (22w24a) is released.
+22 - Bedrock: 1.19.2 released.
+29-30 - Bedrock: The first Bedrock Edition 1.19.20 beta (beta 1.19.20.20) is released.
+
+12 - Bedrock: 1.19.10 released.
+26 - Bedrock: 1.19.11 released.
+27 - Java: 1.19.1 released.
+
+4 - Java and Bedrock: The first Bedrock Edition 1.19.30 beta (beta 1.19.30.20) has been released, with that came the first and only release candidate for Java Edition 1.19.2 (1.19.2-rc1).
+5 - Java: 1.19.2 released.
+9 - Bedrock: 1.19.20 released.
+9 - Education: Mobile, Multiplayer & More is released as 1.18.32.
+23 - Bedrock: 1.19.21 released except for Switch.
+25 - Bedrock: 1.19.21 released on Switch.
+
+1 - Bedrock: 1.19.22 released.
+8 - Bedrock: The first Bedrock Edition 1.19.40 beta (beta 1.19.40.20) has been released.
+20 - Bedrock: 1.19.30 released.
+
+4 - Bedrock: 1.19.31 released.
+15 - Minecraft Live 2022 was held, announcing 1.20.
+25 - Bedrock: 1.19.40 released.
+
+3-7 - Bedrock: 1.19.41 released.
+29 - Bedrock: 1.19.50 released.
+
+7 - Java: 1.19.3 released.
+13 - Bedrock: 1.19.51 released.
+
+7-8 - Bedrock: 1.19.60 released.
+16-18 - Bedrock: 1.19.62 released.
+24 - Bedrock: 1.19.63 released.
+
+14 - Java: 1.19.4 released.
+14-15 - Bedrock: 1.19.70 released.
+17-20 - Bedrock: 1.19.71 released.
+20 - Bedrock: 1.19.72 released for PS4 only.
+29 - Bedrock: 1.19.73 released for any platform except Switch.
+
+18 - Minecraft Legends released to the public.
+26 - Bedrock: 1.19.80 released.
+27 - Bedrock: 1.19.81 released.
+
+7 - Trails & Tales is released as Java Edition 1.20 and Bedrock Edition 1.20.0.
+12 - Java: 1.20.1 released.
+
+21 - Java: 1.20.2 released.
+
+Official 10th anniversary timeline by Mojang

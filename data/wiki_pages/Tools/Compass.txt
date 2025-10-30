@@ -1,0 +1,117 @@
+A compass is an item used to point to the world spawn or to a lodestone.
+
+
+== Obtaining ==
+
+
+=== Crafting ===
+
+
+=== Chest loot ===
+
+
+=== Trading ===
+In Java Edition, expert-level librarian villagers have a 50% chance to sell a single compass for 4 emeralds.
+In Bedrock Edition, expert-level librarian villagers have a 1⁄3 chance to sell a single compass for 4 emeralds.
+
+
+== Usage ==
+Normally, the compass' needle points toward the world spawn point. The compass points to spawn when viewed in any way, including as a dropped item, in a player's hand, in an inventory or the crafting table, or in an item frame. The direction the needle points to is relative to the player who is viewing it. When a compass in an item frame is rotated, the needle turns accordingly.
+In the Nether or the End, the compass' needle spins and points in random directions.
+The compass can be used on a lodestone, after which it is named lodestone compass by default and points to that lodestone as long as the compass is in the same dimension as the lodestone, but if the compass is taken to a different dimension, it spins randomly, as a normal compass would in the Nether or the End. If the lodestone is destroyed, it also spins randomly, even if the lodestone is replaced afterward.  However, if a lodestone compass is placed in storage, the lodestone can be broken and replaced without the compass losing the attunement, as long as the compass remains in storage while the lodestone is missing.
+A lodestone compass appears enchanted, similar to the enchanted golden apple.
+Using /setworldspawn to change the world spawn also changes where the compass points.
+
+
+=== Crafting ingredient ===
+
+
+=== Anvil usage ===
+
+
+=== Trading ===
+A single compass can be sold to a journeyman-level cartographer villager for 1 emerald.‌
+A single compass can be sold to an expert-level cartographer villager for 1 emerald as their sixth trade.‌
+A compass is also part of the cost of explorer maps:
+
+An ocean explorer map and‌/or‌ a woodland explorer map can be bought from a journeyman-level cartographer for 12 emeralds and one compass, as part of their fifth trade.‌
+In Java Edition, apprentice-level cartographer villagers offer to sell an ocean explorer map for 13 emeralds and a compass, and journeyman-level cartographer villagers offer to sell a woodland explorer map for 14 emeralds and one compass.
+
+
+=== Enchantments ===
+A compass can receive the following enchantments:
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Item data ===
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Item format.
+
+
+== Advancements ==
+
+
+== History ==
+
+
+=== Texture generation prior to Java Edition 13w02a ===
+Compasses simply draw two lines over the item sprite to form the needle.
+Much like clocks, the code responsible for moving the needle is also present with the "setup" code, however it is omitted here as it is not pertinent to the actual drawing of the sprite. Also like clocks, an oversight in how the compass sprite is set to be loaded prevents texture packs from overriding the compass's base sprite.
+
+		
+			
+			
+		
+
+The generated compass sprite has 102 possible unique frames, while the pre-rendered compass has significantly less, at only 32 frames.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Issues ==
+Issues relating to "Compass" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+
+
+== See also ==
+Clock
+Navigation
+
+
+== External Links ==
+Taking Inventory: Compass – Minecraft.net on August 15, 2019

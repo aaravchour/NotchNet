@@ -1,0 +1,165 @@
+Cave spiders are small variants of the spider that inflict Poison with their attacks. They are exclusively spawned by monster spawners found in mineshafts.
+
+
+== Spawning ==
+
+Cave spiders spawn from monster spawners in mineshafts at a light level of 0. These monster spawners are surrounded by cobwebs in corridors of mineshafts.
+
+
+== Drops ==
+
+When killed, a cave spider drops:
+
+0–2 String. The maximum is increased by 1 per level of Looting, for a maximum of 0-5 string with Looting III.
+5 when killed by a player or tamed wolf.
+They also have a 1⁄3 chance of dropping a Spider Eye when killed by a player or tamed wolf. The maximum amount of spider eyes is increased by 1 per level of Looting. The chance of a cave spider not dropping any spider eyes can be found using the formula 2 / (Looting Level + 3). For example, Looting III gives a 1⁄3 chance of not dropping any spider eyes. All other amounts have an equal chance of occurring.
+
+
+== Behavior ==
+Cave spiders inherit their behavior from spiders:
+
+Neutral if under daylight or in light levels of 9 or above, otherwise they are hostile towards players and iron golems. Once they become hostile, light does not affect them.
+Climb walls when needed and may sometimes reach a corner and become stuck in a climbing status, thus losing and becoming unable to be aggravated.
+Gravitate towards cobwebs.
+Attack by leaping.
+Are unaffected by cobwebs and Poison.
+Can spawn spider jockeys.‌
+They have some distinctions from regular spiders:
+
+Can fit through a space that is one block wide and 1⁄2 block tall.
+Can go through the spaces between two different types of (unconnected) fences.
+Cannot spawn with status effects.
+Being arthropods, they are weak against weapons with the Bane of Arthropods enchantment.
+
+
+=== Poison ===
+On Normal or Hard, cave spiders inflict Poison upon attacking. On Normal difficulty, the Poison lasts for 7 seconds and causes 6 damage. On Hard difficulty, it lasts for 15 seconds and causes 12 × 6. Poison damage is not taken when the player's health is at 1.
+
+
+== Sounds ==
+Java Edition:
+Cave spiders use the Hostile Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Cave spiders have entity data associated with them that contains various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Cave Spider" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+While a cave spider's hitbox is only 13.9% the volume of a normal spider's, its model's volume is 34.3% as large. The shadow is even larger: compared to the normal spider's shadow it has an area of 49%.
+
+
+== Gallery ==
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Official artwork ===
+
+		
+			
+			
+		
+
+
+== See also ==
+Tutorials/Cave spider farming
+
+
+== References ==
+
+
+== External links ==
+Meet the Cave Spider – Minecraft.net on September 5, 2017
+Poecilotheria Metallica

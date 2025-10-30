@@ -1,0 +1,12 @@
+Grants operator status to a player.
+
+Java Edition
+op <targets>
+Bedrock Edition
+op <player: target>
+
+JE: <targets>: game_profileBE: player: target: CommandSelector<Player>
+
+Specifies the player to be granted op.
+In Java Edition, must be a collection of game profiles (player profiles), which can be a player name (must be a real one if the server is in online mode), or a player-type target selector.
+In Bedrock Edition, must be a player name or a target selector.  And the target selector should be of player type.

@@ -1,0 +1,29 @@
+Huge mushrooms are tree-like features that consist of mushroom blocks. They can be found naturally in swamp, Flower Forest, dark forest, and mushroom fields biomes, or grown from a small mushroom by applying bone meal on it - small mushrooms do not turn into huge mushrooms naturally.
+
+Huge mushrooms naturally generate in swamp, Flower Forest, dark forest, and mushroom fields biomes.
+
+Huge mushrooms have a 40% chance to be grown by applying bone meal to a small red or brown mushroom that is planted on dirt, coarse dirt, grass blocks, rooted dirt or moss blocks with a sky and block light level of 12 or less, or on podzol, mycelium or nylium at any light level. The volume the huge mushroom would generate in must be free of solid blocks, and a minimum of 5 blocks above the mushroom, although 7 blocks allows most to spawn. 13 blocks are required for all huge mushrooms to generate. Extra tall huge mushrooms have a ~5% chance of growing.
+A huge mushroom does not grow above the height limit.
+Any small mushroom placed does not grow into a huge mushroom naturally; bone meal must be applied.
+
+A huge mushroom's height is normally between 5 and 7 blocks inclusive, but have a 112 chance to generate twice as high (minus 1 block), meaning they can be 9, 11, or 13 blocks tall.
+
+To grow, the block under the huge mushroom's stem must be dirt, podzol, or mycelium. Light level does not matter if placed on podzol or mycelium, but if placed on dirt, coarse dirt or grass blocks both skylight and blocklight must be 12 or less. Each type of mushroom also has its own space requirements, which are described below.
+
+Huge brown mushrooms consist of a single stalk in the center, with a 77 canopy of brown mushroom blocks at the top with the corners missing. 
+For the mushroom to grow, the lowest four blocks of the stem (i.e. the three blocks above the small mushroom being grown) must be air or leaves, and a 77(height3) region above must similarly be clear of anything except air or leaves. Due to the space requirement matching the size of the canopy at the top, it is possible for a huge brown mushroom to grow with its canopy directly touching a mushroom next to it.
+
+Huge red mushrooms, like their brown counterparts, have a single stalk in the center, but a different canopy, composed of five 33 slabs of red mushroom blocks arranged above and around the stalk, forming a 'dome'. Unlike brown mushrooms, red mushrooms only check the blocks directly above the small mushroom, and do not require the rest of the dome to be clear of other blocks. Blocks that mobs can't suffocate in, such as slabs, end portal frame and end portal, are replaced; full blocks remain unchanged.
+
+Java Edition:
+
+which are used in:
+
+Bedrock Edition:
+
+which are used in:
+
+which is used in:
+
+All huge mushrooms have exactly 45 blocks besides the stalk, so an average of 13.5 mushrooms can be obtained from each huge mushroom's cap.
+Red mushrooms are rarer than brown mushrooms, but this is not the case for huge mushrooms.

@@ -1,0 +1,119 @@
+The end portal block is a block generated when an end portal or exit portal is activated, which teleports the player between the Overworld and the End.
+
+
+== Obtaining ==
+In Java Edition, the end portal block cannot be obtained as an item. It can be placed only by using block placement commands such as /setblock, or simply by building End portals. In Bedrock Edition, it may be obtained as an item via inventory editing, add-ons or by using bugs.
+
+
+== Usage ==
+End portal blocks can be used to teleport into and out of the End. When a player or other entity in the Overworld or the End touches an End portal block, it is instantly taken to the other dimension. If a single portal block is placed using commands, it can still be used to travel between dimensions.
+All entities traveling to the End appear on the obsidian platform, recreating it if necessary. Players traveling to the Overworld appear at their individual spawn point, while other entities appear at the world spawn point.
+
+
+=== Properties ===
+End Portal blocks can be destroyed in Creative Mode. This does not affect adjacent End Portal blocks.
+End portals do not reduce fall damage.‌
+The top surface of an End portal is 3⁄4 the height of a full block.
+The End portal is one of the only blocks without a conventional texture or entity texture; it instead duplicates and layers a starfield pattern.
+If TNT is detonated on an end portal, no blocks in its blast radius are destroyed.
+Ridden entities (and their riders) pass through the portal without being teleported.
+The ender dragon cannot teleport through portals.
+In Java Edition, the wither cannot teleport through portals, but can do so in Bedrock Edition.
+If /setblock is used to place an End Portal block in the Overworld, Nether, or in a custom dimension, then the End Portal block teleports the player to the End dimension. If the End Portal block is placed in the End, then the End Portal block teleports the player to their spawn point.
+Items can fall through an end portal, including falling blocks, such as TNT. The items appear in the End dimension.
+
+
+=== Piston interactivity ===
+End portal blocks cannot be pushed by pistons. They also cannot be pushed nor pulled by sticky pistons.
+
+
+== Sounds ==
+
+
+=== Generic ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Unique ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block data ===
+An end portal block has a block entity associated with it that holds additional data about the block.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Block entity format.
+
+
+== History ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== End portal "item" ===
+The following content is transcluded from Technical blocks/End Portal.
+
+
+==== Appearances ====
+
+
+==== Names ====
+Java Edition
+Beta 1.9 Prerelease 3: [Has no defined name, and attempting to render it causes a game crash]
+Beta 1.9 Prerelease 4 - 13w25b: [Has no defined name, rendering a minimum-length text box if highlighted]
+13w25c - 14w21b: tile.null.name
+(As block name, item does not exist) 14w25a - 17w47a: tile.null.name
+(As block name, item does not exist) 17w47a and onwards: End Portal
+When given using the /give command, it is announced as null.name.
+
+Bedrock Edition
+? - ?: tile.end_portal.name
+
+
+== Issues ==
+Issues relating to "End Portal (block)" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

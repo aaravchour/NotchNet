@@ -1,0 +1,11 @@
+Chiseled copper is a chiseled variant of block of copper or cut copper. They mostly generate in the Trial Chambers, especially surrounding a Trial Spawner.
+
+Chiseled copper blocks can be mined only with a stone pickaxe or better. If a chiseled copper is mined without the use of a pickaxe, it drops nothing.
+
+Chiseled copper blocks can be turned into the respective waxed chiseled copper blocks by using a honeycomb item on them. Waxed chiseled copper blocks do not oxidize and are identical to the non-waxed version.
+
+Using an axe on a waxed chiseled copper turns it into the respective non-waxed chiseled copper. In addition, using an axe on an exposed, weathered, or oxidized chiseled copper reverts it one stage to a regular, exposed, or weathered chiseled copper respectively.
+
+Non-waxed chiseled copper blocks are completely deoxidized when struck by lightning, and other non-waxed chiseled copper blocks nearby are deoxidized randomly.
+
+Issues relating to "Chiseled Copper" are maintained on the bug tracker. Report issues there.

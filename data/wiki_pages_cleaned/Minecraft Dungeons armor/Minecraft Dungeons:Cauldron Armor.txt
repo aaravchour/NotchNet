@@ -1,0 +1,21 @@
+The cauldron armor is a unique plate armor variant that could be found within the Spookier Fall of Minecraft Dungeons. It is a retextured version of the Full Metal Armor.
+
+When worn, it is oftentimes seen shaking and moving its eyes and small handles on the side. The helmet also moves as the stick stirs the purple liquid atop it. It leaves a bubbly purple trail when the hero walks around with it.
+
+Missions
+Tower
+Events
+Spookier Fall (ended)
+Merchants
+Gift Wrapper
+
++X health
++30% melee damage
+30% chance to negate damage
+35% damage reduction
+100% longer roll cooldown
+
+Issues relating to "Cauldron Armor" are maintained on the bug tracker. Report issues there.
+
+Corrupted Cauldron
+Pink Slime

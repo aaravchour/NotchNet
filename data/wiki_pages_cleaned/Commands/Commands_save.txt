@@ -1,0 +1,33 @@
+These commands manage server saves.
+
+                                                                           
+
+Saves the server to the data storage device.
+Causes the server to mark all chunks and player data as needing to be saved. They are saved over time until all are flushed to the data storage device.
+
+save-all
+
+Normal mode.
+save-all flush
+
+All the chunks are saved to the data storage device immediately, freezing the server for a short time.
+
+                                                                           
+
+Disables the server writing to the world files. All changes are temporarily queued.
+
+save-off
+
+                                                                           
+
+Enables the server writing to the world files.
+
+save-on
+
+                                                                           
+
+Prepares a backup, queries its status, or resumes.
+
+save <hold|query|resume>
+
+When the backup is ready, save query outputs the path of every file and the amount of bytes to truncate it separated by a colon.

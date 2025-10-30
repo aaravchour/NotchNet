@@ -1,0 +1,29 @@
+Grim armor is an armor set that can be found within the various missions of Minecraft Dungeons. Its unique variants are the wither armor and, within the spookier fall event, the spooky gourdian.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+A  after a mission name indicates that the item is only obtainable in Daily Trials of that mission.
+
+Cacti Canyon 
+Desert Temple
+Lower Temple
+Obsidian Pinnacle
+Soul Sand Valley (Apocalypse, DLC)
+Broken Citadel (DLC)
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Grim Guardian
+
+Grim Armor has life steal aura, which grants an amount of health to the hero based on the damage they deal (e.g. dealing 100 damage will grant six health to the hero assuming 6% life steal aura). Life steal is based on any type of damage (artifacts, melee, ranged, enchantments, etc.)
+
++X health
++50% souls gathered
+6% life steal aura
+
+Issues relating to "Grim Armor" are maintained on the bug tracker. Report issues there.

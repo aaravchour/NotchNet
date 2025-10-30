@@ -1,0 +1,126 @@
+Spelunker armor is an armor set that can be found within the various missions of Minecraft Dungeons. Its unique variants are the cave crawler and the sweet tooth.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Redstone Mines
+Cacti Canyon
+Lost Settlement (DLC)
+Windswept Peaks (Adventure, DLC)
+The Stronghold (DLC)
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Haunted Caller
+
+
+== Usage ==
+Spelunker armor can be equipped for increased protection. When equipped, a pet bat is summoned, which follows the hero around and attacks enemies.
+
+
+=== Properties ===
++X health
++20% weapon damage boost aura
+Gives player a pet bat
+
+
+== Bat ==
+
+A bat is a non-attackable mob that can be found within the various missions of Minecraft Dungeons.
+The pet bat is a flying summonable mob that follows behind heroes who equip the spelunker armor.
+Rare spelunker armor with a power of 44 provides a pet bat that deals 50 damage per attack.
+Bats can also be summoned by the mystery armor with the Gives you a pet bat property.
+
+
+=== Appearance ===
+Bats within Minecraft Dungeons look similar to how it appears in the original Minecraft game with the difference of having lighter brown fur and dark areas on its belly and neck. It also has a smaller mouth.
+
+
+=== Spawning ===
+Creeper Woods
+Overgrown Temple
+Frosted Fjord
+
+
+=== Behavior ===
+Despite being passive in-game, both types of bats are listed under enemies in the game files.
+
+Basic attack
+Pet bats attack any mob within the vicinity and are able to take significant damage before being defeated, unlike within the original Minecraft game.
+
+Bat swarm
+Bats appear in dark areas and start flying around when the hero gets close.
+
+
+=== Stats ===
+
+
+== Sounds ==
+
+
+== Data values ==
+In the game files, both types of bats are referred to internally by the name Bat.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Spelunker Armor" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Renders ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Miscellaneous ===

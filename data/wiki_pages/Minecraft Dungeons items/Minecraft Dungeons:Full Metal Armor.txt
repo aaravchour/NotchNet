@@ -1,0 +1,48 @@
+The full metal armor is the unique plate armor that can be found within the various missions of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Fiery Forge (Adventure)
+Lone Fortress (Adventure, DLC)
+Gauntlet of Gales
+Gale Sanctum (Adventure, DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Unbreakable One
+
+
+== Usage ==
+The full metal armor can protect against damage and provide the hero with numerous bonus stats. Like plate armor, it makes the hero have a longer roll cooldown in exchange for much heavier defense.
+
+
+=== Properties ===
++X health
++30% melee damage
+30% chance to negate hits
+35% damage reduction
+100% increased rolling cooldown
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Full Metal Armor" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+In the inventory, there are two images for each item, where the full metal armor uses the wrong image in the inventory and ends up with a misaligned outline.
+
+
+== Gallery ==

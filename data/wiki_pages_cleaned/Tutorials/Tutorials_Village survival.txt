@@ -1,0 +1,3 @@
+Village survival is a survival gameplay of surviving in the village. In the village, you can trade with villagers to get food, tools, and so on. This tutorial will teach you how to do that.
+
+At first, you should find a village to start your surviving. Make sure that villages can be generated.

@@ -1,0 +1,22 @@
+Invalid data value hay bales are item forms of the hay bale with damage values outside of the usual range which hay bales can usually be obtained in.
+
+
+== Obtaining ==
+Without the use of commands, invalid data value hay bales are unobtainable in the last versions in which they existed without inheriting them from a prior version in which they were obtainable.
+
+
+=== Transmutation ===
+Block transmutation with arrows can be used to obtain hay bales with metadata 1 to 3. These blocks can be mined in 14w21b or earlier to obtain the item corresponding to these blocks. Metadata values 4 to 15 correspond to rotated versions of metadata 0 to 3 and as such cannot be broken to obtain items with any higher metadata values.
+
+
+=== Stacking ===
+As hay bales as an item do not track their damage value for any purpose, invalid data value hay bales can be created by picking up dropped normal hay bales with an incomplete stack of invalid data value hay bales already in the inventory, as well as merging together existing item stacks. This can also result in invalid data value hay bales being converted to non-anomalous hay bales in the same way, and therefore care should be taken when transporting such items. As such, if collection of all 3 different types of hay bales is desired, they should be stored in a storage container such as a chest in different slots via manual placement - shift-clicking should be avoided.
+
+
+== History ==
+
+Inventory appearances (values marked in red are not known to be obtainable in survival mode)
+
+
+== Issues ==
+Invalid data value hay bales are an issue, and due to their removal, can be considered already fixed.

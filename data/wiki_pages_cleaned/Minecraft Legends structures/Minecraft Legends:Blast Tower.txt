@@ -1,0 +1,14 @@
+A blast tower is a structure that fires high knockback projectiles at enemies in Minecraft Legends.
+
+Campaign
+Blast towers can be found naturally already built in meadow biomes.
+
+Campaign
+Blast towers can be built for 125 stone, 100 redstone, and one blast tower core using a build allay. To obtain blast tower cores, a blast tower must be found within the overworld and 100 gold and 25 redstone must be spent upon interacting with it. To do this, the collect power towers improvement must have been previously built at an improvement hub.
+
+Versus
+Blast towers can be built by players for 600 stone and 400 redstone using a build allay. To do this, the build power towers improvement must have been previously built at an improvement hub.
+
+Blast towers attack nearby enemies by firing projectiles that knock enemies back on impact, sending them flying. It cannot be buffed by other stuctures.
+
+Issues relating to "Blast Tower" are maintained on the bug tracker. Report issues there.

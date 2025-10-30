@@ -1,0 +1,270 @@
+The monster room, formerly called "dungeons" is a small building in the Overworld where a monster spawner that produces either zombies, skeletons or spiders is found in the middle of a room with cobblestone lateral walls and cobblestone mixed with mossy cobblestone floors.
+
+
+== Generation ==
+Monster rooms generate naturally in the Overworld terrain in any biome uncommonly and always nearby caves, ravines, underwater ravines, aquifers, abandoned mineshafts and strongholds. Each chunk has fourteen attempts to generate monster rooms underground within y-coordinates 0 to 320 or -58 to -1, each altitude range with different uniformity. For the higher altitude Y levels 0 to 320, up to 10 monster rooms can generate, while up to 4 monster rooms can generate in lower altitude Y levels -58 to -1. It is possible, though unlikely, for multiple attempts to succeed. In Bedrock Edition, monster rooms can generate as underground structures above sea level.
+Monster rooms are a feature instead of a structure, so they generate regardless of whether the "Generate structures" world creation option has been toggled off for said world. They also cannot be searched by the /locate command.
+For each attempt, a location (the position for monster spawner) and size (an open area with a width and length of 7 or 9 and a height of 6) is chosen. The attempt succeeds if the following conditions are met:
+
+Blocks in the floor area (including under the walls) of the potential monster room must be material solid.
+Blocks in the ceiling area (including over the walls) of the potential monster room must be material solid. The ceiling blocks may be gravity-affected such as gravel or sand, which fall if disturbed by the player.
+The walls of the potential monster room must have 1–5 openings (2-high air blocks) at floor level. Monster rooms are always connected to a cavern or other hollow structure, although it is possible for the monster room itself to overwrite most of a tiny cave.
+If the location passes, air and cobblestone are placed, then 3 attempts are made to generate each of two chests. To generate a chest, the chosen block must be empty and must have a solid block on exactly one of its four sides. The monster spawner is placed at the center of the monster room.
+The monster spawner has a 50% chance of producing zombies, a 25% chance of producing skeletons, or a 25% chance of producing spiders. A zombie monster spawner in Bedrock Edition also has the same chance (5%) of producing zombie villagers as in natural generation.
+Cobblestone has a 75% chance to be mossy when it is on the floor of the monster room.
+You can use the command /place feature minecraft:monster_room ~ ~ ~ to generate a monster room only when you are under the specific location where the monster room could be found naturally.
+
+
+== Construction ==
+
+Monster rooms are small rooms made of cobblestone and mossy cobblestone and contain a monster spawner and up to 2 chests. Finding a monster room without a chest is unlikely but possible. Additionally, there is a rare chance of a monster room being found without a monster spawner. Occasionally, a monster room generates with its chests in such a way as to create a double chest. Monster rooms generate with either a zombie (50% chance), skeleton (25% chance), or spider (25% chance) monster spawner. The monster spawner is always in the center of the monster room room, with chests located around the walls of the room (large chests can connect with the short side against the wall). Each block of the floor has a 25% chance of being cobblestone and a 75% chance of being mossy cobblestone.
+Because the horizontal range for spawning mobs is 4 blocks from the monster spawner, it is possible for mobs to be spawned outside the walls of a 5×5 monster room that is surrounded by air outside the walls.
+
+
+== Loot ==
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Monster Room" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Surface monster rooms ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Multiple monster rooms ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Odd generation ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+
+
+== Notes ==

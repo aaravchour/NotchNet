@@ -1,0 +1,36 @@
+A crafting table is a utility block that gives access to all crafting recipes, including many not available from the inventory's crafting grid.
+
+Crafting tables can be mined in any way, but axes are the quickest.
+
+Crafting tables naturally generate in witch huts, igloos, woolen tents outside pillager outposts, and in some small village houses.
+
+Pressing use on a crafting table opens the 33 crafting grid that allows the player to craft many more items than are available with the crafting grid in the inventory, which is only 22.
+The recipe book is available to the left of the crafting grid (collapsed by default in Java Edition, expanded by default in Bedrock Edition), which stores crafting recipes for reference and one-click crafting.
+
+Crafting tables can be used as a fuel in furnaces, smelting 1.5 items per crafting table.
+
+A crafting table can be used to repair damaged tools, weapons, and armor. When two damaged items of the same material are combined side-by-side in the crafting grid they produce a new item with the sum of the durabilities plus a 5% bonus, with a maximum total of 100% durability for that item. Using this method does not require any experience, but removes any enchantments on either or both items. The only way to retain enchantments is to repair damaged items on an anvil.
+
+Crafting tables can be placed under note blocks to produce "bass" sounds.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Crafting Table" are maintained on the bug tracker. Report issues there.
+
+From version 1.6.1 through version 1.19.4, the application icon for Java Edition was a crafting table. As of version 1.20, the icon for Java Edition is now a grass block (for releases), or a dirt block (for snapshots).
+The original inventory screen before January 29, 2010 was the crafting table interface. There were no armor slots, no off-hand slot, no recipe book, nor viewport of the player's skin.
+The texture of the crafting table visually features a hammer, saw, and pliers. None of these tools are currently implemented in the game.
+
+Furnace
+Stonecutter
+Fletching Table
+Smithing Table
+Cartography Table
+
+Block of the Week: Crafting Table  Minecraft.net on February 2, 2018

@@ -1,0 +1,16 @@
+A blob is a feature consisting of basalt or blackstone blocks, which replaces netherrack blocks during world generation.
+
+
+== Types ==
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Gallery ==

@@ -1,0 +1,9 @@
+Root farming is the process of farming rooted dirt and hanging roots.
+
+
+== Rooted dirt farming ==
+To farm rooted dirt, you can use a moss farm to produce unlimited azaleas. Regardless of what block an azalea is planted on, when it grows it turns the block it grows on into rooted dirt. You can also buy 2 rooted dirt for 1 emerald from a wandering trader.
+
+
+== Hanging root farming ==
+All you need to do is place a rooted dirt and bonemeal the bottom of it to produce a hanging root, which will drop if you harvest it with a Silk Touch tool or shears. You can automate the process with a redstone clock connected to a dispenser facing into the rooted dirt block.

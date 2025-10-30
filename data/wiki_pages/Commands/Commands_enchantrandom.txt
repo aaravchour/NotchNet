@@ -1,0 +1,10 @@
+Gives random enchantments to items held by the player.
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

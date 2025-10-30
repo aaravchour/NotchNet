@@ -1,0 +1,13 @@
+An iceberg is a feature composed of blue ice or packed ice. There is also a terrain feature known as an iceberg, see Terrain features#Iceberg.
+
+Iceberg feature generates in frozen oceans and deep frozen oceans. They consist of packed ice or sometimes blue ice, and there's a probability of 30% that an iceberg feature is topped with snow blocks. In Java Edition, each chunk has an 116 chance to try to generate a packed iceberg, and has an 1200 chance to try to generate a blue iceberg. In Bedrock Edition, each chunk has an 18 chance to try to generate an iceberg, which has an 1100 chance of being a blue iceberg.
+Unlike iceberg terrain feature, iceberg feature is usually small. Iceberg terrain features generate in a wide variety of shapes and sizes, ranging from small islands to giant mountain-like icebergs.
+Iceberg features have two types: circle-shaped and ellipse-shaped. There's a probability of 30%/20% that an iceberg feature is ellipse shaped. For a circle-shaped icebergs, its radius is from 0 to 11; its max height above sea level has a 90% chance of being 317/313 and a 10% chance of being 1042/1034; its max depth below sea level is from 3 to 18; it has a 30% chance of being carved. For an ellipse-shaped iceberg, the length of its semimajor axis is 711/815; the length of its semiminor axis is from 3 to 5; its max height above sea level is 611/69; its max depth below sea level is from 6 to 18; it has a 90% chance of being carved.
+
+Packed ice iceberg generates sometimes with blue ice features attached to it. A blue ice feature is a pile of blue ices generating adjacent to a packed ice and at or below the surface of water, and may replace some existing packed ice within an iceberg.
+
+Java Edition:
+
+Bedrock Edition:
+
+which are used in:

@@ -1,0 +1,53 @@
+A Golden Chest is a joke block similar to the chest that is created by opening a chest while the Midas Touch vote is activated.
+
+
+== Obtaining ==
+Golden chests cannot be obtained with the command /give, but can be obtained using the /setblock command in a regular chest with the tag "gold": /setblock ~ ~ ~ minecraft:chest{gold:1b}. However, it has a minecraft:golden_chest block ID in the game file.
+
+
+=== Breaking ===
+Golden Chests cannot be obtained when mined, and will only drop normal ones, even using a tool enchanted with Silk Touch.
+
+
+=== Voting ===
+Golden chests can be obtained by activating the minecraft:midas_touch vote and then opening a chest or a trapped chest. Ender chests are not affected.
+
+
+== Usage ==
+Golden Chests work similar to normal chests, but have a golden appearance and don't drop when broken. Golden trapped chests will still function as trapped chests, but has no identifier like in regular ones.
+
+
+=== Container ===
+
+A golden chest has 27 slots of inventory space.
+Golden chests open when used. To move items between the golden chest inventory and the player inventory or hotbar while the golden chest GUI is open, drag or shift-click the items. Holding ⇧ Shift and double-clicking while holding an item moves all items of the type clicked on in or out of the golden chest, to the extent that space is available for them. To exit the golden chest GUI, use the Esc control.
+
+
+=== Redstone component ===
+
+Golden trapped chests can be used to detect when their inventory is accessed by players.
+A golden trapped chest is inactive while not being accessed, but activates when accessed by a player. Mobs cannot access/activate a golden trapped chest, and a golden trapped chest is not activated by items moving into or out of it by droppers or hoppers.
+While active, a golden trapped chest:
+
+powers any adjacent redstone dust, including beneath the golden trapped chest, to a power level equal to the number of players accessing the golden trapped chest (maximum 15)
+powers any adjacent redstone repeaters facing away from the golden trapped chest to power level 15
+strongly powers any full solid opaque block (stone, dirt, block of gold, etc.) beneath the golden trapped chest to a power level equal to the number of players accessing the golden trapped chest (maximum 15)
+activates any adjacent mechanism components, including above or below, such as pistons, redstone lamps, etc. Due to hoppers being locked by redstone activation, hoppers below a golden trapped chest do not take items from it while it is open.
+An active golden trapped chest does not power any adjacent redstone comparators facing away from it. Redstone comparators can measure the block state of the golden trapped chest, producing a power level from 0 to 15 proportional to how full the golden trapped chest is. Anything else powered by an active trapped chest (including a block beneath it) can power redstone comparators normally.
+
+
+== Sounds ==
+
+
+=== Generic ===
+
+
+=== Unique ===
+Java Edition:
+
+
+== History ==
+
+
+== Trivia ==
+The golden chests are probably a reference to players asking Mojang to add bigger chests to the game, which would be made using ores such as gold.

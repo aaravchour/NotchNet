@@ -1,0 +1,119 @@
+Slabs are half-height versions of their respective blocks.
+
+Stone-type slabs require a pickaxe to mine. Cut copper slabs require at least a stone pickaxe. Wooden slabs can be mined with anything, but an axe is quickest.
+Unlike stairs, many stone-type slabs have different hardness values (and thus, breaking time) compared to their full-block counterparts.
+
+Most slabs drop themselves when broken. However, in Bedrock Edition, petrified oak slabs drop normal oak slabs.
+Double slabs drop 2 of their respective single slabs, even when mined with Silk Touch. In Java Edition, double slabs are completely unobtainable. In Bedrock Edition, they can be obtained through inventory editing.
+
+ Smooth stone slabs and stone brick slabs generate naturally in strongholds.
+ Sandstone slabs generate naturally in desert wells and desert pyramids.
+ Spruce slabs generate naturally in igloo basements.
+ Oak, spruce, birch, smooth stone, and cobblestone slabs generate naturally in woodland mansions.
+ Dark oak, cobblestone, and mossy cobblestone slabs generate in pillager outpost.
+ Oak, spruce, birch, jungle, acacia, and dark oak slabs can generate in shipwrecks.
+ Blackstone and quartz slabs generate in bastion remnants.
+ Purpur slabs generate naturally in end cities.
+ Cobbled deepslate, polished deepslate, deepslate brick, and deepslate tile  slabs generate naturally in ancient cities.
+ Smooth stone slabs, brick slabs, and mud brick slabs generate in trail ruins.
+Villages
+ Smooth stone, oak, and cobblestone slabs generate naturally in plains villages.
+ Smooth sandstone and sandstone slabs generate naturally in desert villages.
+ Smooth stone and acacia slabs generate naturally in savanna villages.
+ Smooth stone and spruce slabs generate naturally in taiga and snowy taiga villages.
+Ruined portal
+ Stone, stone brick, and mossy stone brick slabs generate in ruined portals in the Overworld.
+ Blackstone, polished blackstone, and polished blackstone brick slabs generate in ruined portals in the Nether.
+
+Petrified oak slabs are the stone-type wooden slabs left from before Java Edition 1.3.1. They are now unobtainable in vanilla survival.
+
+Slabs can occupy either the top half or the bottom half of a block, or both:
+
+Placing a slab on top of a block or on the side of a block in the lower half of the side surface creates a bottom slab
+Placing a slab on the underside of a block or on the top half of the side surface creates a top slab
+Placing a top and bottom slab of the same type in the same block creates a double slab block
+It is impossible to place two different kinds of slabs in the same block.
+Slabs cannot be oriented vertically.
+
+In Bedrock Edition a single slab (top or bottom) is transparent to light, while a double slab is opaque. The empty half of a slab block is also transparent to mobs, unlike other transparent blocks such as fences and glass, which players can see through but mobs cannot.
+A bottom placed on top of a hopper is transparent to items; the items fall through the bottom slab into the hopper. Without a hopper attached below, a bottom slab behaves as a solid surface.
+Falling block entities (like sand, gravel, and concrete powder) turn into their dropped form if they land on a bottom slab, as when they fall on a torch.
+Mobs see a slab as a full block when pathfinding. They can spawn on top slabs and double slabs, but not on bottom slabs. This can be used to prevent mob spawning in certain areas, such as mob farms.
+Generally, the top face of top slabs, the bottom face of bottom slabs, and all faces of double slabs are handled as solid blocks. Due to this, blocks that require a solid surface for placement can be placed on these faces.
+Double slabs are handled as a single block instead of two different slabs; as such, breaking one destroys the whole block and drop two slabs, as opposed to breaking only one slab within the block. "Double slabs" that are not aligned to the grid (i.e. a bottom slab on top of a top slab) are handled as separate blocks and are broken individually.
+Redstone dust placed on a top slab receives signals from redstone dust one block lower and adjacent, but cannot transmit signals down to that block.
+In Bedrock Edition, mobs standing on bottom slabs with air or another bottom slab below fail to pathfind correctly. They often end up spinning around in a small circle when they try to move.
+Due to the way blast rays propagate from an explosion, bottom slabs provide extremely effective absorption to explosions directly on top of them. In some cases, only the slab is destroyed from a TNT explosion directly on top of it. Explosions from end crystals and creepers are also weakened.
+Sneaking reduces the player's hitbox height to 1.65 blocks in Bedrock Edition, and so does not allow the player to walk over a bottom slab with one block of air above it, which is 1.5 blocks of space. In Java Edition, however, a crouching player's hitbox is exactly 1.5 blocks, allowing the player to fit through such a gap. A player cannot walk from a block of soul sand directly up to a bottom slab without jumping  this applies not just to soul sand, but to any block 78 of a block high or shorter, because the maximum step height of the player is 0.6 of a block. The player can walk off a bottom slab while sneaking, because the sneaking prevents falling only when the distance is higher than one half block.
+If a single slab is placed in a water source block, the empty half of that slab's block is waterlogged. If a slab is placed in flowing water, a pocket of air is created in the unfilled half of the block. If the player's head is in this pocket, the player can breathe and see as clearly as from an air block. If a single slab is placed in between two water sources or waterlogged blocks, the slab becomes waterlogged. This also happens when a water bucket or a bucket containing a fish is used on a single slab. Double slabs cannot be waterlogged.
+A minecart on powered rails is not repelled by a slab, although it is repelled by a slab with a minecart on top.
+
+Overworld wooden slabs can be used as fuel in furnaces, smelting 0.75 items per slab in Java Edition, and 1.5 items per slab in Bedrock Edition.
+Therefore in Bedrock Edition, wooden slabs (12 items per log) are twice as fuel efficient as wood planks (6 items per log), even more so than charcoal (8 items per log), which needs to be smelted in the first place.
+
+Wooden slabs can be placed under note blocks to produce "bass" sounds.
+Stone slabs can be placed under note blocks to produce "bass drum" sounds.
+
+In Bedrock Edition, when a slab is combined into a double slab, the block's use sound is played.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+Stone slab and double stone slab:
+
+Wood slab and double wood slab:
+
+Stone slab 2 and double stone slab 2:
+
+Stone slab 3 and double stone slab 3:
+
+Stone slab 4 and double stone slab 4:
+
+Other slabs and double slabs:
+
+The following content is transcluded from Technical blocks/Slabs.
+
+Java Edition
+Item names did not exist prior to Beta 1.0.
+
+Beta 1.0 - Beta 1.2_02: Stone Slab
+Beta 1.3 - ?: [Has no defined name, rendering a minimum-length text box if highlighted]
+
+Issues relating to "Slab" are maintained on the bug tracker. Report issues there.
+
+Any light directed through a slab does not affect any block's light values north of the source.
+Whereas 11 dents in a flat floor using slabs are darkened as one would expect, 11 dents created using 21 or 22 stairs darken less, due to having fewer surrounding solid blocks.
+When water or lava are on top of an upside-down slab, the water dripping particles appear in midair below the slab instead of from the slab itself, this was fixed in Java Edition 1.13-pre7, but will not be fixed in Bedrock Edition.
+Notch has said he regrets introducing slabs to the game, due to half-blocks unnecessarily "doubling the resolution" of the game by adding detail outside of the game's otherwise cubic constraints.

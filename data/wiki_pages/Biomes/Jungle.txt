@@ -1,0 +1,254 @@
+A jungle is a biome full of dense vegetation which generate in areas with high humidity values, often next to forests. There are three varieties of jungles.
+
+
+== Description ==
+Large oak trees and small or tall jungle trees generate here. Jungle trees can grow tall and are the tallest trees in the game, with the tallest of them being over 30 blocks in height. Many of the grass blocks have grass and ferns. Jungle bushes made of oak leaves‌ or jungle leaves‌ and a single log grow on the floor of the jungle, which frequently obstruct view of the light-green grass below. Many of the leaves and logs of both types are covered in vines. Cocoa pods and melons generate on logs of small jungle trees and in patches on the ground, respectively. Melon patches are exclusive to jungle biomes, and they generate somewhat more often than pumpkin patches do in other biomes. Parrots, ocelots and pandas exclusively spawn in jungle biomes. Jungles contain varying vegetation, from the typical dense foliage of the main jungle biomes to the grassy meadows that form in sparse jungle biomes.
+Jungles are usually bordered by forests, plains, but also often border deserts, birch forests and dark forests. Regular jungles are often separated from sparse jungles or bamboo jungles by rivers.
+Jungle pyramids may generate in bamboo jungles‌ and regular jungles, which is exclusive to jungle biomes. As these temples are partially made of mossy cobblestone and also covered in vines, they can prove hard to spot from a distance due to the density of the trees.
+Survival in jungles can be difficult. While running out of logs is unlikely, obtaining logs can present a challenge due to the heights of jungle trees. Jungle trees are significantly less sustainable compared to other trees, as their leaves drop saplings only 2.5% of the time, compared to 5% for all other trees; this means large jungle trees often drop only enough saplings to regrow them and not plant any new trees, while small jungle trees may not even drop a single sapling. The dense, foliage can easily get a player lost without some sort of trail marker, such as torches, and clearing this maze-like foliage for shelter is no easy task, due to both the heights it can reach and the sheer amount of it. However, parrots can make for useful pets when tamed; ocelots cannot be tamed, but can gain trust. They can repel creepers, while parrots can alert players of nearby monsters. Cocoa beans and melons can also be farmed for dye, food, trading and decoration.
+In jungles, cod and salmon are the only fish which may be caught during fishing in Bedrock Edition. Otherwise, bamboo and cocoa beans‌ can also be collected.
+Jungle biomes are significantly more resource-demanding to load and render compared to other biomes. Thus, players exploring in jungles may wish to turn down their graphics settings to avoid lag and FPS drops.The frequency of large jungle trees generated in Bedrock Edition is lower than in Java Edition.
+
+
+== Variants ==
+
+There are three jungle biome variants: jungle, sparse jungle and bamboo jungle. There are four removed variants: jungle hills, modified jungle, modified jungle edge and bamboo jungle hills in previous versions.
+
+
+=== Jungle ===
+
+The regular biome variant features the distinctive large jungle trees and dense jungle bushes across the ground. Oaks and small jungle trees along with cocoa beans also generate here. Single shoots of bamboo may generate on the floor as well. Jungle pyramids and trail ruins may generate in this biome. Ocelots, parrots and pandas may spawn here.
+The following mobs are naturally spawned here：
+
+
+=== Sparse Jungle ===
+
+The sparse jungle or jungle edge biome is a sparser variation of the jungle. Oak trees, jungle trees, jungle bushes, and patched melons generate here, though at significantly lower rates than the regular jungle, roughly comparable to the rate of trees in the savanna biome, additionally only small jungle trees generate in this biome. Bamboo does not generate here.
+The grass still takes on a bright green color, though slightly less vibrant than the main jungle. In Bedrock Edition, ocelots, parrots and pandas may spawn in this biome. Jungle pyramids do not generate here in both Java Edition and Bedrock Edition.
+The following mobs are naturally spawned here：
+
+In Bedrock Edition, sparse jungle use the same mob spawning chances as jungles.
+
+
+=== Bamboo Jungle ===
+
+The bamboo jungle is a rare variant with dense bamboos. Oak trees, jungle trees, and jungle bushes are much less dense in this variant than in the regular jungle, and more dense to the sparse jungle, but boasts countless amounts of bamboo across its landscape. Patched melons are as common as in regular variants. Some swaths of grass blocks are replaced with podzol, similarly to old growth taigas. Naturally-generated trees are large variants; only 2×2 jungle trees and large, branching oak trees may generate, though many of the oaks are simply small "balloon" oaks. Cocoa beans cannot be found here, since they generate only on small jungle trees. All jungle-exclusive mobs spawn here. Pandas have a higher spawn rate in bamboo jungle than in regular jungle. Jungle pyramids may spawn here in Java Edition, whereas there are no jungle pyramids in Bedrock Edition.
+Due to their exceptionally high humidity values, bamboo jungles are almost guaranteed to have lush caves generate below them.
+The following mobs are naturally spawned here：
+
+
+== Sounds ==
+
+
+=== Music ===
+These music tracks play while the player is in the Jungle or in the Bamboo Jungle
+
+These music tracks play while the player is in the Sparse Jungle
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Gallery ==
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Other ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Forest
+Dark Forest
+Old Growth Taiga
+Rain Forest
+
+
+== References ==
+
+
+== External Links ==
+Around the Block: Jungle – Minecraft.net on December 3, 2020
+Around the Block: Bamboo Jungle – Minecraft.net on September 22, 2021
+Around the Block: Sparse Jungle – Minecraft.net on September 15, 2022
+"Minecraft: The Great Wild | Jungle"  – Minecraft on YouTube, August 4, 2023

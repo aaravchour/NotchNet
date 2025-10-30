@@ -1,0 +1,22 @@
+Bouncecaps are an obstacle that increase jump height in Minecraft Legends.
+
+
+== Spawning ==
+Bouncecaps can be found on the floors and treetops of jungles, the side of mountains in jagged peaks, and swamps.
+
+
+== Usage ==
+When traveling over bouncecaps, an effect is granted to the player that makes their jump height much higher than before. All fall damage is negated while the player is under the bouncecaps' effect.
+
+
+== Achievements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Bouncecaps" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==

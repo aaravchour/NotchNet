@@ -1,0 +1,25 @@
+
+==== Bridge ====
+Materials
+
+Blueprint
+
+
+==== Gentle Stairs ====
+Materials
+
+Blueprint
+
+
+==== Steep Stairs ====
+Materials
+
+Blueprint
+
+
+==== Dock ====
+Dock appears when the bridge is over, substituting the last part of bridge.
+
+Materials
+
+Blueprint

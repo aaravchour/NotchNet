@@ -1,0 +1,22 @@
+Raid farming is a means to obtain items dropped by raid mobs (pillagers, vindicators, witches, evokers, and ravagers). Farms can be made from a village with a spawning platform for the raiders, or be made at a pillager outpost. In Bedrock Edition, a raid farm also yields special items dropped by these mobs during raids: emeralds, enchanted books, iron tools, and iron armor (of which half have enchantments). In Java Edition, getting Hero of the Village has the additional benefit of making some resources renewable, especially clay.
+
+Broadly, the components of a raid farm are:
+
+A village (1 bed and 1 villager are sufficient).
+A surface on which the raid is forced to spawn (the ground, or an isolated surface above). Raids cannot spawn on leaves, scaffolding, or liquids; this can be used to help localize the raid spawn point.
+A way to funnel or guide the raid mobs into the killing area.
+A killing area; that is, mob grinder to kill the mobs, or a holding area for the player to kill them and earn experience as well as loot.
+A way to get Bad Omen again, so that the next raid can start:
+A pillager outpost converted to a pillager trap to allow the player to kill raid captains that spawn in the outpost. This is actually a type of pillager farm. In Bedrock Edition, this type of farm yields mob drops but no raid loot.
+A way to force the raid captains in the raid out of the raid context, so that they give Bad Omen when killed.
+
+Raid farms are primarily build for two drops: emeralds and totems of undying. Most raid farms provide a sufficient amount of emeralds to allow players to disregard the prices of villager trading due to the sheer amount of emeralds they possess. Additionally, raid farms are an easy way to farm totems of undying, allowing players to stockpile an insane amount of them and take on more lethal challenges.
+Additionally, raids can drop saddles, iron axes (potentially enchanted), crossbows, ominous banners, and witch drops including sticks, gunpowder, redstone dust, glowstone dust, sugar, spider eyes, and glass bottles. In Java Edition, only mob drops are available from raid farming.
+
+Bedrock Edition (Raid Farms in this edition are constantly updated for higher efficiency)
+Tweaks required for this farm are in the comment section.
+
+This is a MEGA raid farm for massive servers or flexing.
+
+Java Edition only
+Simple raid farm to build early game.

@@ -1,0 +1,57 @@
+The glowing ministrosity is a pet golem that can be unlocked as a reward in the Luminous Night seasonal adventure of Minecraft Dungeons.
+
+
+== Appearance ==
+The glowing ministrosity appears to be a glowing version of the stone ministrosity with its overall appearance similar in size to the Copper Golem from Minecraft Live 2021. Its eyes however are seen glowing orange and possesses a blue mouth with blue and pink crystals growing on its body. Its stone body is also made of a darker stone.
+
+
+== Obtaining ==
+Adventure Hub
+
+
+== Behavior ==
+The glowing ministrosity is purely cosmetic and does not attack any mobs.
+
+
+== Sounds ==
+
+
+== Data values ==
+In the game files, the glowing ministrosity is referred to internally as the BabyRedstoneMonstrosity_UV.
+
+
+== History ==
+
+
+== Gallery ==
+
+
+=== Renders ===
+
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===
+
+		
+			
+			
+		
+
+
+== References ==

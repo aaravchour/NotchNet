@@ -1,0 +1,62 @@
+Yellow dye is a primary dye created by placing a dandelion or sunflower into a crafting grid.
+
+
+== Obtaining ==
+
+
+=== Crafting ===
+
+
+=== Chest loot ===
+
+
+=== Trading ===
+Wandering traders sell 3 yellow dye for an emerald.
+
+
+== Usage ==
+Like all other dyes, yellow dye can be:
+
+Applied to sheep to dye their wool, which can then be sheared for 1–3 blocks of yellow wool.
+Applied to tamed wolves and cats to dye their collars.
+Used to dye or stain wool, carpets, candles, leather armor, leather horse armor, wolf armor, beds, glass, glass panes, terracotta, shulker boxes, and bundles.
+Combined with gunpowder to make a firework star.
+Combined with a firework star to create a fade-to-color effect.
+Used to add patterns to banners.
+Used to dye shulkers in Bedrock Edition and Minecraft Education.
+Used to dye water contained in cauldrons in Bedrock Edition and Minecraft Education.
+Combined with sand and gravel to craft concrete powder.
+Combined with compounds to craft balloons or glow sticks in Bedrock Edition and Minecraft Education.
+Used to change the color of the text on signs or hanging signs.
+
+
+=== Crafting ingredient ===
+
+
+=== Loom ingredient ===
+
+
+=== Trading ===
+Expert-level shepherd villagers have a 1⁄6 chance to buy 12 yellow dye for an emerald.
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Video ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Yellow Dye" are maintained on the bug tracker. Report issues there.
+
+
+== References ==

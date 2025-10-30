@@ -1,0 +1,92 @@
+Chains ‌ or Iron Chains ‌  are metallic decoration blocks.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Chains can be mined using any pickaxe. If mined without a pickaxe, it drops nothing.
+
+
+=== Natural generation ===
+Chains generate in bastion remnants and sometimes in ruined portals that generate in the Nether. They always generate above magma cube monster spawners, also found in bastions.
+Chains can also generate in mineshafts. They generate on the sides of a wooden bridge (a mid-air corridor) when the distance between the bridge and the highest solid block below it is higher than the distance to the lowest solid block above it. Chains here generate vertically in a pillar between the bridge and the ceiling. The lowest block of the pillar, connecting the chain to the bridge, is always either an oak or a dark oak fence depending on the type of mineshaft.
+
+
+=== Chest loot ===
+
+
+=== Crafting ===
+
+
+== Usage ==
+Chains can be used to suspend bells, hanging signs, or all types of lanterns (normal lanterns,  soul lanterns, or copper lanterns), as the chain texture connects to the chain of the lantern seamlessly as if it were part of it, and it connects the hanging sign chains together. Chains do not require a supporting block to be placed whether it is on the top, next to it or at the bottom. It can exist completely free-standing in mid air and it can be rotated. Chains connect horizontally or vertically, but not across different orientations (so a chain with N orientation does not connect to a chain with E orientation in the adjacent block).
+Horizontal chains one block above a surface may be walked over. Horizontal chains two blocks above a surface prevent players from traveling past them. Vertical chains block travel if targeted directly, but may be skirted.
+Precision is required, but chains can be walked on, allowing for inconspicuous, although somewhat costly, bridges.
+Chains can be pushed by pistons without being broken.
+
+
+=== Crafting ingredient ===
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Chain" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+A vertical chain, being a solid, but not a full block, allows for many sizes of mobs and players to pass alongside each piece horizontally.
+Despite its name, it cannot be crafted into chainmail armor.
+Chains do not stick together when moved by pistons, regardless of orientation.
+Chains were added 5 years from Copper Chains
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

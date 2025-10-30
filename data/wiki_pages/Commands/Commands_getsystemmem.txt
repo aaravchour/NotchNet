@@ -1,0 +1,10 @@
+Return system memory size
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

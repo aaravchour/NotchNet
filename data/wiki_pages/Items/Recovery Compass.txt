@@ -1,0 +1,47 @@
+A recovery compass is an item used to point to the location of the player's last death. If the user has not died, it is useless.
+
+
+== Obtaining ==
+
+
+=== Crafting ===
+
+
+== Usage ==
+When held by a player, the recovery compass will point towards the spot where they previously died.
+The recovery compass will only work when it is held by a player who has previously died and is in the same dimension as their last death. Otherwise, it will spin around randomly.
+Like other items, the recovery compass itself will still drop when a player dies and the keepInventory game rule is not enabled.
+This item is useless on Hardcore mode, as once the player dies, the player cannot respawn.
+
+
+=== Enchantments ===
+A recovery compass can receive the following enchantments:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Recovery Compass" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External Links ==
+Taking Inventory：Recovery Compass – Minecraft.net on January 19, 2023

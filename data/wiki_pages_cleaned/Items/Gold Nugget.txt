@@ -1,0 +1,18 @@
+Gold nuggets are items used to make gold ingots and other various golden items. One gold nugget is effectively worth one-ninth of a gold ingot.
+
+Zombified piglins, when killed, may drop 0-1 gold nuggets. When killed using a weapon enchanted with Looting, they may drop an additional gold nugget per level of Looting used, up to a maximum of 4.
+
+Nether gold ore mined using a pickaxe drops 2-6 gold nuggets. If the pickaxe is enchanted with Fortune, it has a 33.3% chance to multiply the drops by 2, Fortune II has a 25% chance to multiply the drops by 2 or 3 and Fortune III has a 20% chance each to multiply the drops by 2, 3, or 4 for a maximum possible drop of 24 golden nuggets. The average drop rate for a Fortune III pickaxe is 8.8, while the drop rate for a Silk Touch pickaxe is a single ingot, or a flat rate of 9. It is slightly more efficient to mine with a Silk Touch pickaxe. 
+Gilded blackstone mined using a pickaxe has a 10% chance to drop 2-5 gold nuggets. If the pickaxe is enchanted with Fortune I, the chance gold nuggets drop is increased 14.29%, Fortune II increases the drop chance to 25%, and Fortune III guarantees the drop.
+
+Gold nuggets can be used to craft a golden carrot or glistering melon for brewing. Also, gold nuggets can be combined with gunpowder and dye to create a firework star that bursts in a star-shaped explosion. 
+Piglins instantly pick up any gold nuggets that are within 1 block of them. Unlike other gold-related items, they do not intentionally seek out gold nuggets to pick up and only pick them up if they walk near it. Unlike gold ingots, gold nuggets picked up are dropped upon the piglin's death. 
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Gold Nugget" are maintained on the bug tracker. Report issues there.
+
+Iron Nugget
+Gold

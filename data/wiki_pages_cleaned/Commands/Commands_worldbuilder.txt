@@ -1,0 +1,7 @@
+Toggles the ability to place and break blocks to enable or disable alternately.
+
+worldbuilder
+wb
+
+Fails if the player does not have permission to become a World Builder.
+On success, toggles the the World Builder ability for the player.

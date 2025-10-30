@@ -1,0 +1,31 @@
+Provides help/lists of commands in the chat.
+
+Java Edition
+help
+Lists all commands in the chat.
+help <command>
+Shows usages for one command in the chat.
+Bedrock Edition
+help <command: CommandName>
+Shows usages for one command in the chat.
+help [page: int]
+Lists all commands in the chat.
+
+JE: <command>: stringBE: command: CommandName: enum
+
+Specifies the command name to provide help for.
+In Java Edition:
+Must be a string. And it is a greedy phrase (taking the rest of the command as the string argument). Entering more specific parameters of that command is allowed.
+In Bedrock Edition:
+Must be a valid command name.
+BE: page: int: int
+
+Specifies the page number of the command list. Numbers less than 1 or greater than the total number of pages are treated as 1 or the last page respectively.
+Must be a  32-bit integer number. And it must be between -2147483648 and 2147483647 (inclusive).
+
+Commands that the executor cannot use (due to permission level or other restriction) are not displayed.
+In Java Edition, some complicated commands may show only the basic usage; additional information can be supplied by entering more specific parameters of that command.
+
+To display (the first page of) the command list: /help.
+To display the usage for the /give command: /help give.
+To display the usage for the add section of the /scoreboard command: /help scoreboard add.

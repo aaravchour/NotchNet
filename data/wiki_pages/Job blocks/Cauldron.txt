@@ -1,0 +1,393 @@
+A cauldron is a block that can contain water, lava, or powder snow, and in certain situations, collect it from the environment. In Bedrock Edition, it can also hold potions or dyed water. It also serves as a leatherworker's job site block.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+A cauldron can be obtained using any pickaxe. If mined without a pickaxe, it drops nothing. Regardless of the tool, when a cauldron is destroyed, its contents are lost.
+
+
+=== Natural generation ===
+
+A single empty cauldron is generated in each swamp hut. In Bedrock Edition, the cauldrons generated there are 1⁄3 to 2⁄3 full of a random potion.
+A cauldron 2⁄3 full of water is generated in each igloo basement.
+
+Cauldrons can be found in a few rooms inside of woodland mansions.
+Two filled cauldrons can be found inside savanna, taiga, snowy taiga, and snowy tundra village tannery houses.
+A single filled cauldron can be found in plains village and desert village tannery houses.
+In Java Edition, three filled cauldrons can be found in plains village tannery houses.
+Cauldrons can also spawn in trail ruins.
+
+
+=== Crafting ===
+A cauldron can be crafted from iron ingots.
+
+
+== Usage ==
+
+
+=== Storage for substances ===
+Cauldrons can hold a variety of substances. Fluids they cannot hold include milk, honey and any food items that exist in bowls; namely mushroom stew, beetroot soup, rabbit stew, and suspicious stew. In Java Edition, cauldrons containing fluids are considered by the game to be separate blocks from each other and from empty cauldrons, which does not affect gameplay but does affect the commands needed to place them.
+
+
+==== Holding water ====
+A cauldron can be filled with water by using a water bucket on the cauldron. Once completely filled, a cauldron can be used to fill a water bucket by using an empty bucket on the cauldron; this empties the cauldron. Despite containing water, using a fish bucket on a cauldron does not fill it with water, but places water against it, meaning it does nothing to the cauldron.
+A cauldron can also be filled by dumping a water bucket on the block above the cauldron. Once the water block is removed, the cauldron is filled to the full level with water.‌
+It can contain three levels of water. One level of water can be added to a cauldron by using a water bottle on it. One level of water can be removed from a cauldron, filling a water bottle, by using a glass bottle on it.
+A cauldron slowly fills with water when rained upon, if starting empty or with some water. This happens randomly, at 5% of the rate in which snow accumulates on the ground during snowfall.
+Water can be stored in a cauldron even in the Nether. Water in a cauldron does not freeze in cold biomes.
+Water in a cauldron does not absorb explosion damage; make sounds and particles; absorb fall damage; allow Riptide tridents to activate; or damage endermen, striders, or blazes. Cauldrons do not deal drowning damage to mobs inside of them and fish act as if there is no water inside it. The player cannot float or swim in it, as the water is about level with the player's waist. Jumping in a cauldron does not produce any bubble or water particles.
+A cauldron placed below a down-facing pointed dripstone that has water placed a block above it slowly fills with water. The same works with lava, allowing for infinite lava generation.
+Attempting to add lava or potion to water empties the cauldron.‌ 
+The water in a cauldron cannot be sucked up by a sponge, whether the sponge is touching the cauldron or not. 
+
+
+===== Applying dye to cauldron water =====
+                                                                           
+In Bedrock Edition, leather armor is dyed through a cauldron, so a cauldron can hold dyed water. Using a dye on a cauldron filled with water colors the water, consuming the dye. Different dyes may be added to produce mixed colors. Using leather armor, leather horse armor, or wolf armor on the cauldron dyes that item the color of the water, reducing the water in the cauldron by one level for each item dyed.
+Attempting to add water, lava or potion to dyed water empties the cauldron.
+
+
+==== Holding lava ====
+
+Cauldrons can be used to hold lava. In Bedrock Edition and Minecraft Education, when a cauldron is already filled with water, it empties the cauldron and makes an extinguishing sound. A cauldron filled with lava emits a light level of 15, similar to lava, and burns any entity inside of it; in Bedrock Edition and Minecraft Education, this includes mobs that do not take damage from lava like zombified piglins.
+Lava inside a cauldron does not interact with water outside of the cauldron. The lava disappears upon putting water in the cauldron.
+A redstone comparator with a lava cauldron behind it outputs redstone signal strength of 3.
+A cauldron placed below a down-facing pointed dripstone that has lava placed a block above it slowly fills with lava.
+If a cauldron is filled by lava, using glass bottles on the cauldron does nothing.
+
+
+==== Holding powder snow ====
+Powder snow is currently the only solid material that can be stored in a cauldron. A cauldron slowly fills with powder snow during snowfall, if starting empty or with any layer of powder snow already inside. Up to three layers can be filled. When the cauldron is full, interacting using a bucket, creates a powder snow bucket and empties the cauldron. Entities standing in the cauldron do not take freeze damage, and entities wearing leather boots still fall through the powder snow.
+A redstone comparator with a powder snow cauldron behind it outputs a redstone signal strength proportional to the fill level, up to 3.
+Contrary to a cauldron filled with water, a powder snow cauldron that is not full cannot be filled up with a powder snow bucket, as using the bucket on the cauldron instead places powder snow against it.
+
+
+==== Filling cauldrons with potions ====
+                                                                            
+In Bedrock Edition, a cauldron can hold normal potions, splash potions and lingering potions. Using a potion on a cauldron empties the potion and increases the level of the potion in the cauldron by one level. A glass bottle can then be used on a cauldron with a potion in it, filling the bottle with that potion. This reduces the potion in the cauldron by one level.
+Using an arrow on a cauldron that contains a potion transforms the arrow into a tipped arrow with that potion effect, and reduce the potion in the cauldron by one level. Tipping multiple arrows at once can be more efficient, and it may use more than one level at once. 1 level of potion tips up to 16 arrows, 2 levels up to 32, and a full cauldron can tip a full stack of arrows, resulting in 21.33 tipped arrows per potion.
+Attempting to put water, lava or a different potion into a cauldron with a potion causes an explosion sound, and the cauldron is emptied.
+An entity that stands in a cauldron filled to any level with any potion does not receive the effect of the potion.
+Using an empty bucket on a cauldron filled with any potion does nothing, as the bucket remains empty and the potion in the cauldron does not empty.
+
+
+=== Removing dye from items ===
+A cauldron with water can wash the dye off of leather armor and shulker boxes, and can remove the top-most pattern layer of a banner, by pressing use on the cauldron with the leather armor, shulker box, or banner in hand. Each wash reduces the water in the cauldron by one level. The water does not become dyed while removing dye from objects.
+
+
+=== Changing profession ===
+If a village has a cauldron that has not been claimed by a villager, any villager that does not already have a profession or job site block may change their profession to leatherworker.
+
+
+=== Extinguishing fire ===
+A cauldron with water or powder snow extinguishes entities on fire that fall into it and the entity emits black particles. This includes mobs, players, items (if they land in the cauldron before burning up), and flaming arrows‌. Flaming arrows stuck into the side are also extinguished. Entities must reach the water or powder snow in it. Each entity extinguished causes the substance in the cauldron to decrease by one level. If the cauldron is filled with powder snow, it then becomes a water cauldron.
+
+
+=== Redstone component ===
+
+A cauldron can act as a power source for a redstone comparator. With a cauldron behind it (either directly, or separated by an unpowered solid block), a comparator outputs a signal strength proportional to how full the cauldron is: 0 for empty, 1 for one-third full, 2 for two-thirds full, and 3 for completely full or filled with lava. However, if there is a block between the cauldron and the comparator, the comparator does not immediately update.
+
+
+== Sounds ==
+
+
+=== Generic ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Unique ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+Water cauldron and powder snow cauldron:
+
+Bedrock Edition:
+Cauldron and brighting cauldron:
+
+
+=== Block data ===
+In Bedrock Edition, a cauldron has a block entity associated with it that holds additional data about the block.
+See Bedrock Edition level format/Block entity format.
+
+
+== Achievements ==
+
+
+== History ==
+
+
+=== Water cauldron ===
+
+
+=== Lava cauldron ===
+
+
+=== Powder Snow Cauldron ===
+
+
+=== Potion cauldron ===
+
+
+=== Cauldron "item" ===
+The following content is transcluded from Technical blocks/Cauldron.
+
+
+==== Appearances ====
+
+
+==== Names ====
+Java Edition
+Beta 1.9 Pre-release 3 - 13w36b: Cauldron
+
+
+== Issues ==
+Issues relating to "Cauldron" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Arrows "stick" to the water in a cauldron.
+The inside of a cauldron is 0.25 (1⁄4) blocks tall.
+A cauldron holding water is the only way to have water in the Nether without the use of commands.
+
+
+== Renders ==
+Normal water
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+ 
+Dyed water ‌
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+Cauldrons filled with potions ‌
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+ 
+Powder Snow
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

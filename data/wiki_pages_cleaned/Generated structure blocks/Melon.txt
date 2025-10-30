@@ -1,0 +1,27 @@
+A melon is a fruit block that grows from a fully-grown melon stem, which in turn is grown from melon seeds.
+
+A melon drops 37 melon slices when broken by hand, using tools, or pushing with a piston. Silk Touch causes the block itself to drop. Fortune increases the maximum number of melon slices dropped, increasing the average yield to 6.4314 with Fortune III. The actual amount is capped at 9, so Fortune III simply increases the chance of getting 9 slices, which is sufficient to craft the melon again from the slices.
+
+Melons are naturally generated in jungle biomes, as pile (and in some farms) in savanna villages and inside tillage rooms of woodland mansions.
+
+Melon seeds can be planted, placing a small stem that grows over time. Once the stem reaches maturity, it attempts to generate a melon block in one of the four immediately adjacent blocks; however, this attempt may fail if the chosen adjacent block is not empty or the block beneath is not an appropriate block (dirt, coarse dirt, rooted dirt, grass block, farmland, podzol, mycelium, moss block, mud or muddy mangrove roots). Melons take 10 to 30 minutes to grow, which is equal to 0.5 to 1.5 times the length of a daylight cycle. Once a stem has produced a melon, that stem does not produce any further melons until the existing melon is harvested. Melon stems connect only to the melons they produce. For example, if stem A generates a melon adjacent to stem B, stem B does not connect and can still produce another melon. Similarly, if a melon is placed adjacent to stem B, stem B would still be able to produce another melon. The same principle applies for pumpkins. Melons require a light level of 9 or higher to grow.
+
+Villagers who are journeymen (level 3) farmers buy 4 melons for an emerald.
+
+Placing a melon into a composter has a 65% chance of raising the compost level by 1. Composting a crafted melon block instead of 9 melon slices is very inefficient. For example, 100 melons could yield 9.29 bone meals on average. Meanwhile, if not crafted, 900 melon slices could yield 64.29 bone meals on average.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+In Bedrock Edition any stem adjacent to a melon block appears connected to it, even if the melon was not grown from that stem. Therefore, if a melon block generates between two stems, it connects to both of them. Pumpkins also do this, although they do not connect to plants of different species.
+Unlike other versions, the New Nintendo 3DS Edition is the only version that has a reversible crafting recipe for the melon.
+Minecraft melons greatly resemble square watermelons in real life.
+
+Pumpkin
+
+Block of the Week: Melon  Minecraft.net on February 24, 2017

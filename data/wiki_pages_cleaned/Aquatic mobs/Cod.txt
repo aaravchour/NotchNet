@@ -1,0 +1,45 @@
+Cod are common bucketable aquatic passive mobs found in oceans, and a source of raw cod and, occasionally, bones or bone meal.
+
+Cod spawn underwater in normal, cold, and lukewarm oceans, and their deep variants, in groups of 3-6, subject to fish spawning requirements.
+
+Cod spawn underwater 12-32 blocks away from the player in normal, cold, frozen, lukewarm oceans, and their deep variants, in groups of 4-7. In addition, cod spawn only on the surface; that is, there must not be a spawnable block above the spawn location with a non-solid block on top.
+
+Cod drop the following upon death:
+
+1 raw cod, or 1 cooked cod if killed while on fire. This drop is unaffected by Looting.
+1 bone meal (5% chance)
+12 bones (25% chance)
+13 experience when killed by a player or tamed wolf.
+
+Cod tend to swim in schools (a maximum of nine cod per school).
+The player may collect a cod by using a water bucket on it, which gives the player a bucket of fish. Cod placed with buckets do not despawn naturally. When that fish bucket is used on a block, it empties the bucket, placing water with the cod swimming in it.
+An empty bucket may be used as well.
+
+A cod cannot survive outside of water. Outside of water, they flip around on their sides like guardians for a while trying to get back into the water until, after 10 seconds of time, they start taking suffocation damage and die. In Bedrock Edition, fish out of water rotate while flipping. They cannot swim or breathe in cauldron water. They can swim in, but cannot survive in waterlogged blocks, most noticeably waterlogged slabs and stairs.
+In Java Edition, cod are vulnerable to weapons that have the Impaling enchantment, which also affects other fish and aquatic mobs except drowned.
+
+Java Edition:
+Cod use the Friendly Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Cod have entity data associated with them that contain various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+Issues relating to "Cod" are maintained on the bug tracker. Report issues there.
+
+A cod in real life are any species of fish that belong in the genus Gadus, except for Alaska pollock which is the same genus but not called "cod".
+Interestingly, cod in Minecraft have two dorsal fins while all real members of the genus Gadus have three dorsal fins.
+The old texture of raw cod can be visibly seen clipped on the fisherman's belt.
+
+Salmon
+Tropical Fish
+Pufferfish

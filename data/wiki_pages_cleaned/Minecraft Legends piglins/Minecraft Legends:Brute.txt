@@ -1,0 +1,14 @@
+A brute is a piglin within the Horde of the Bastion of Minecraft Legends.
+
+Brutes drop lapis.
+
+Blade Swipe
+
+Brutes swipe at their enemies with their dual blades.
+Blade Spin
+
+Brutes spin around with their dual blades to attack their enemies.
+
+Issues relating to "Brute" are maintained on the bug tracker. Report issues there.
+
+Brutes were originally called bruisers.

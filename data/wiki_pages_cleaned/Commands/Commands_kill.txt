@@ -1,0 +1,26 @@
+Kills entities (players, mobs, thrown items, etc.).
+
+Java Edition
+kill [<targets>]
+Bedrock Edition
+kill [target: target]
+
+JE: <targets>: entityBE: target: target: CommandSelector<Actor>
+
+Specifies the target(s) to kill. If not specified, defaults to the player who executed the command.
+Must be a player name, a target selector or a UUID. 
+
+On success, directly kills living targets, even if they are protected by a high-level Resistance effect or by a totem of undying, and issues the appropriate death message. Players and mobs killed this way drop loot, and slimes and magma cubes that are not of minimum size spawn smaller ones. Destroys boats, minecarts, loose items, paintings, armor stands, and experience orbs if they are targeted.
+In Bedrock Edition, players in Creative mode cannot be killed.
+
+To kill the player executing the command: kill @s
+To kill the player Steve: kill Steve
+To kill item entities: kill @e[type=item]
+To kill all entities within 10 blocks:
+JE: kill @e[distance=..10]
+BE: kill @e[r=10]
+To kill all entities except players: kill @e[type=!player]
+To kill all creepers within 10 blocks:
+JE: kill @e[distance=..10,type=creeper]
+BE: kill @e[r=10,type=creeper]
+To kill all arrows that are stuck in a target: kill @e[type=arrow,nbt={inBlockState:{Name:"minecraft:target"}}]

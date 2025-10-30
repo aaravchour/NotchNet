@@ -1,0 +1,34 @@
+The wonderful wheat is an artifact that can be found within the various missions of Minecraft Dungeons.
+
+The wonderful wheat has the appearance of a lot of wheat stalks wrapped together near the bottom by a red object.
+
+Missions
+Arch Haven
+Cacti Canyon
+Obsidian Pinnacle
+Panda Plateau (DLC)
+Basalt Deltas (DLC)
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+The wonderful wheat summons a llama that can aid heroes in defeating mobs.
+
+X summon damage
+30 seconds cooldown
+
+A pet llama is a summonable mob that can be found within the various missions of Minecraft Dungeons. They aid heroes by spitting at hostile mobs to deal damage.
+
+Llamas have the appearance of brown trader llamas from the original game. They have two variants. One has a blue carpet and scarf while the other has a red carpet and scarf.
+
+Llamas follow the hero around and defend them by attacking mobs
+
+Basic attack spit
+Llamas spit at hostile mobs, which deals damage upon contact, this behavior is different from llamas within the original game, where they attack only when provoked.
+
+Damage resistance
+All damage taken by llamas is halved (0.5x/50%).
+
+Issues relating to "Wonderful Wheat" are maintained on the bug tracker. Report issues there.

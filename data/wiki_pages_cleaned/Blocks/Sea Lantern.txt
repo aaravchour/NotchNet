@@ -1,0 +1,27 @@
+A sea lantern is an underwater light source that appears in ocean monuments and ocean ruins.
+
+A sea lantern can be obtained only when mined with a tool enchanted with Silk Touch. When broken using anything other than a Silk Touch enchanted tool, it drops 23 prismarine crystals. The Fortune enchantment increases the number of prismarine crystals dropped. This method of obtaining sea lanterns is wasteful though; the 4 prismarine shards and up to 3 of the prismarine crystals used to craft it are non-retrievable.
+
+Each level of Fortune increases the maximum number of prismarine crystals dropped. The amount is capped at 5, so Fortune III simply increases the chance of getting 5 crystals.
+
+Sea lanterns generate throughout ocean monuments, as well as in some ocean ruins.
+
+Sea lanterns emit a light level of 15, the brightest possible light level in the game.
+
+Sea lanterns can be used to activate a conduit by building a structure around it. By doing this, the conduit emits the Conduit Power effect in a certain radius, depending on how many blocks are used to power it. Prismarine, dark prismarine, and prismarine bricks can also be used for this purpose.
+
+Sea lanterns can be placed under note blocks to produce "Clicks and Sticks" sound.
+
+The sea lantern blocks all sunlight, players and mobs suffocate inside it, and it blocks a beacon beam, preventing the beacon's activation. However, like transparent blocks, it does not prevent the opening of chests, monsters (including slimes) cannot spawn on it, and it does not transfer a redstone signal. This behavior also occurs in glowstone.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Sea Lantern" are maintained on the bug tracker. Report issues there.
+
+Block of the Week: Sea Lantern  Minecraft.net on September 22, 2017

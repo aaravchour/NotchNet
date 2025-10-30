@@ -1,0 +1,10 @@
+A Mob of Me was an entity used to place NPC human characters into the world in Minecraft Earth.
+
+A Mob of Me looked exactly like a player. Its appearance could be changed to that of any player skin. In the inventory, it resembled a small player without eyes or a mouth wearing a white tank top and blue pants.
+
+When a player edited or changed their skin, the mob changed in sync with the player's skin. It also roamed around a player's world similarly to a villager, and interacted with blocks such as doors. Although they could climb down ladders like many mobs, they weren't able climb up them and didn't appear to recognize them as valid pathways. It was also attacked by hostile mobs and dropped itself upon death. Horned sheep also attacked them without provocation. If a Mob of Me was killed on a buildplate, a death message appeared near the top of the screen (for example "Your Mob of Me was shot by arrow") and it was returned to the player's inventory. Interacting with the Mob of Me, or tapping on it with a empty hotbar slot, brought up an interface that let the player change the skin of the mob of me to any other skin available in five skin slots. It randomly defaulted to Steve or Alex if no skin was chosen.
+
+The Mob of Me was obtainable from chest tappables with a low 0.1% chance of obtaining it. It was also obtainable by purchasing the following buildplates: Level 5, Not a Sandcastle, Hearth Home, and Toadstool Terrace. It was also obtainable as a reward from epic adventures. Finally, they were also obtainable by purchasing them in the store for 50 rubies.
+
+The biome category of the journal mentioned that mobs of me were found in the Overworld.
+According to the journal, mobs of me had a neutral behavior despite being passive in the game.

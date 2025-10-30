@@ -1,0 +1,13 @@
+Water breathing is a status effect that prevents or delays drowning, and allows waterlogged beds to be used. It also prevents squid, glow squid, salmon, cod, pufferfish, tropical fish, and tadpoles from taking suffocation damage from being on land while having the effect.
+
+Conduit Power also gives the player a similar effect to Water Breathing (among other things).
+
+Withers and ender dragons are immune to Water Breathing.
+
+Helmets with the Respiration enchantment slow down oxygen depletion, granting an extra 15 seconds of underwater breath per level. However, this is not done through the Water Breathing effect.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Water Breathing" are maintained on the bug tracker. Report issues there.

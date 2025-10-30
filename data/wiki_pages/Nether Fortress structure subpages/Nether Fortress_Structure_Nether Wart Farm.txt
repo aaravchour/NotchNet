@@ -1,0 +1,7 @@
+Layer 9 is split in two because there is a possibility of an exit going up the stairs. These connect to three corridors.
+
+
+==== Materials ====
+
+
+==== Blueprints ====

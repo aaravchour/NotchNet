@@ -1,0 +1,22 @@
+The frost armor is a unique snow armor variant that can be found within the creeping winter DLC of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Lone Fortress
+Lost Settlement
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Frostwarden
+
++X health
+35% Damage Reduction
+50% Freezing Resistance
+Emits a Chilling Aura (Chilling tier I)
+
+Issues relating to "Frost Armor" are maintained on the bug tracker. Report issues there.

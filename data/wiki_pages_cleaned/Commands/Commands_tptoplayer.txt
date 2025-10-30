@@ -1,0 +1,5 @@
+Teleports your agent to your feet.
+
+tptoplayer
+
+Always succeeds.

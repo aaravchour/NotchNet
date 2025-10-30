@@ -1,0 +1,21 @@
+A carrot on a stick is an item that can be used to control saddled pigs.
+
+It is possible to craft a carrot on a stick without a crafting table.
+
+To use a carrot on a stick, the player must first saddle a pig, and ride it while holding the carrot on a stick. The pig then moves in the direction of the carrot. Also, if the player holds a carrot on a stick, all nearby pigs (but not rabbits) follow the player, but they can't breed using carrot on a stick.
+To make the pig run faster, the player can press use while holding the carrot on a stick. This is called "boosting". Each boost costs 7 durability. If the carrot on a stick's durability is depleted, it turns back into a fishing rod. 
+The speed of a mounted pig is 2.42 m/s. Boosting a pig causes its speed to slowly ramp up until it reaches 2.15 times its normal speed, 5.20 m/s. Then speed slowly declines until the pig reaches normal speed again. The boost lasts between 140 and 980 game ticks (7 seconds and 49 seconds respectively), chosen randomly. No matter how many ticks the boost lasts, the average speed of pig during a full boost cycle is roughly 4.19 m/s. These boosted speeds are applied only while holding the carrot on a stick. These speeds are affected by the speed effect.
+
+A carrot on a stick can receive the following enchantments, but only through an anvil:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Carrot on a Stick" are maintained on the bug tracker. Report issues there.
+
+Warped Fungus on a Stick

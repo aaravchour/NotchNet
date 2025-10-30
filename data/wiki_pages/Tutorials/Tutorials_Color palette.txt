@@ -1,0 +1,37 @@
+A color palette in a architectural construction or design allows the artist to choose a "theme" for their build. The color palette consists of a certain selection of blocks that will often appear on a build.
+
+
+== Creating a color palette ==
+When you're creating a color palette, you have to decide what blocks you mainly want to use for the build. There are some things you need to think about, such as the contrast. Let's say two similar colors are next to each other, you might notice a difference when you're close to it, but when you move further away the difference may be harder to tell. This can also apply to the texture itself.
+You also have to look at which blocks fit together in the color palette or when put next to each other and which do not. This means that some blocks could fit in the palette and some could appear out-of-place which you mostly want to avoid.
+A color palette consists of multiple blocks, that are usually categorized as:
+
+Primary color - The main block used for the build.
+Secondary color - other main blocks
+Tertiary, etc...
+Decoration & Detail - additional blocks
+
+
+== Examples ==
+
+
+=== Color Palette differences ===
+This example, should show you the difference a "color palette", so basically different blocks, can make.
+
+House structure, with only one "color" used. Here Oak planks only were used, to demonstrate a house structure with only one "color".
+Now, let's modify the "scaffolding" or "frame" of the house and give it a darker color of the oak texture and also a brighter color.
+
+If you look at it, you can clearly notice which part is the "frame" of the house and which one not.
+Now, let's change the frame again, but this time another block is being used, the Oak log.
+
+As you notice the oak log is different from the plank and has a different color appearance as well.
+Now let's change the walls of the building and the ceiling.
+
+The ceiling has this apperance, with the oak planks that we used before.
+
+Let's change the oak planks to the spruce planks.
+
+and here is the ceiling, but with a deepness effect.
+
+
+== Videos ==

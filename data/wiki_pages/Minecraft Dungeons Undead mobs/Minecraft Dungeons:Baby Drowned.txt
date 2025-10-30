@@ -1,0 +1,39 @@
+A baby drowned is a hostile baby drowned variant that can be found within the missions of Minecraft Dungeons.
+
+
+== Appearance ==
+The baby drowned resemble the drowned but are smaller and more agile.
+
+
+== Spawning ==
+Coral Rise
+Abyssal Monument
+Radiant Ravine
+Treetop Tangle
+
+
+== Behavior ==
+Just like their land-based counterparts, they are capable of attacking the hero by running towards them and dealing small damage, and as such, they retreat after hitting the hero.
+
+
+== Health ==
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Gallery ==
+
+
+=== Textures ===
+
+		
+			
+			
+		
+
+
+== References ==

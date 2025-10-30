@@ -1,0 +1,10 @@
+Return CPU information.
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

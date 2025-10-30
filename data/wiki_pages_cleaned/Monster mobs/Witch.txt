@@ -1,0 +1,68 @@
+The witch is a hostile mob that uses potions in combat, both in the form of weapons as splash potions and in the form of drinkable potions for defense.
+
+The witch may spawn in the Overworld above opaque blocks at a light level of 0, in all biomes except mushroom fields and deep dark. Every swamp hut spawns a witch and a cat inside during world generation both which never despawn. Otherwise, witches spawn in the hut. In Java Edition, only witches spawn in the 779 volume that is the hut, which is the size of the roof and one block over the porch, from one level below the floor of the hut to two blocks above the roof. In Bedrock Edition, the hut has a hardcoded spawn spot on which witches spawn: the spawn spot is the same for every hut.
+Some witches always spawn as part of raids starting from wave 4 in Bedrock Edition or wave 3 or 4 in Java Edition depending on the world difficulty. A villager transforms into a witch when lightning strikes within four blocks. The witch transformed from a villager does not despawn and cannot be changed back into a villager. This witch attacks the player with its potions even if the player traded with it before.
+
+ 
+
+Witches are a source of potion ingredients and are the only mobs that are able to spawn in the small area around a swamp hut. These huts are the best place to farm witches, but they require spawning platforms and light levels of 0. A hut can support a maximum of three spawning platforms. Witch huts generate in swamp biomes sometimes, but the witch-exclusiveness depends on the entire hut being inside a swamp biome. In raids found in villages, it is more worthwhile to simply build an illager farm and deal with witches as they spawn.
+
+A witch drops 5 experience orbs when killed by a player or tamed wolf. Witches have the largest loot table of any mob, making one to three drops of zero to two items each, for a maximum of six items total. A witch may drop Stick, Glass Bottle, Glowstone Dust, Redstone Dust, Spider Eye, Gunpowder or Sugar. The likelihood of a witch to drop sticks is 25%, while the remaining items have a probability of 12.5%. The odds of a witch dropping the maximum amount of items possible without a Looting enchantment are 1 in 81 (1.2%).
+Each level of Looting increases the maximum items dropped by one for each of the one to three drops, leading to a maximum of five items per drop and a maximum of fifteen items total. No Looting averages two items per kill, Looting I averages three, Looting II averages four and Looting III averages five.
+A potion has a 8.5% chance of dropping if a witch is killed while drinking the potion increased by 1% for every level of Looting. A witch drops one of the following in this case:
+
+Potion of Healing
+Potion of Fire Resistance
+Potion of Swiftness
+Potion of Water Breathing
+
+Unlike villagers, witches have pale skin with a wart growing on their nose. They have purple eyes and wear a royal purple robe, a dark green undershirt, and a black hat. 
+
+A witch is neither an illager nor a villager. Witches do not use housing, the equipment in their swamp huts and cannot open doors. Witches are peaceful toward villagers and wandering traders when not participating in raids, although their potions can hit one by accident. In Java Edition, witches are given the Glowing effect for 3 seconds when a bell is rung within 32 blocks of them. This applies to all witches, regardless of whether they participate in raids or not.
+The poison, instant damage, evoker fangs, warden's sonic boom, and the Thorns enchantment magical sources are 85% less effective against witches. In Bedrock Edition, witches are immune to poison, fatal poison and to their own thrown harming potions.
+
+Witches have a 1.5% chance every second to spawn 10 to 44 ornamental particles above their heads, named witch in Java Edition or witchspell in Bedrock Edition and purple in color.
+A witch pursues the player within 16 blocks and uses potions of the first level in combat, throwing splash potions offensively and drinking potions defensively. These potions are the same as ones obtainable through brewing, with the same duration. A witch has an infinite stock of potions, even when transformed from a villager or not having had any potions equipped in their inventory. Each potion chosen by the witch depends on the circumstance and is thrown within ten blocks and in a three-second interval.
+
+The witch throws a splash potion of Slowness if the player is eight, nine or ten blocks away and does not already have the Slowness effect. This makes it harder for the player to escape if they attempt to.
+The witch throws a splash potion of Poison if the player's health is at least 8 and is not already poisoned.
+The witch has a 25% chance of throwing a splash potion of Weakness if the player is 3 or less blocks away and does not already have the Weakness effect. This is used to weaken the player's melee attacks on the witch if they attempt to.
+This Weakness effect can be used to cure zombie villagers.
+If none of the above conditions are true, the witch defaults to using a splash potion of Harming, which does 6 magical damage.
+A witch may choose to equip and drink a potion each game tick (120 second) if it is not already drinking a potion. Drinking the potion takes 1.6 seconds and slows down its moving speed. It does not attack during this time.
+
+When 80% under water and lacking Water Breathing, there is a 15% chance of drinking a potion of Water Breathing.
+When on fire or the last damage taken in the past 2 seconds was fire damage, there is a 15% chance of drinking a potion of Fire Resistance.
+When not at full health, there is a 5% chance of drinking a potion of Healing, which heals 4.
+When the witch is eleven or more blocks from a target and does not have the Speed effect, there is a 50% chance of drinking a potion of Swiftness.
+As a result, witches are difficult to kill via suffocation or cacti due to their frequent use of healing potions, cannot drown underwater and require a long time to die in lava or fire.
+If the raid members kill all the villagers in a village, witches jump in commemoration to their victory. 
+In Java Edition, any witch can join a patrol if sufficiently near a patrol captain. These witches are hostile towards villagers, wandering traders and iron golems if in their sight. Witches that participate in a raid seek out illagers and ravagers and throw splash potions of Regeneration of 45 seconds or Instant Health if they have 4 or less. 
+Witches do not retaliate when attacked by evoker fangs, illagers, or harming potions from other witches. Instead, they drink a beneficial potion. In Bedrock Edition, witches participating in a raid do not heal other illagers, but still attack the player, iron golems and snow golems. Witches throw negative splash potions at any mob that attacks it, including other witches and illagers.
+
+Java Edition:
+Witches use the Hostile Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Witches have entity data associated with them that contains various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+Issues relating to "Witch" are maintained on the bug tracker. Report issues there.
+
+The witch is based on Baba Yaga, a witch from Slavic folklore who also lives in a swamp hut.
+When the subject of witches dropping sticks was brought up, Nathan Adams jokingly replied that it's because witches are made of wood. He later explained  that it was a reference to this scene from Monty Python and the Holy Grail.
+A witch fits through two block tall gaps, despite being taller than two blocks with its hat.
+When drinking a potion, a witch's nose lifts and points forward. A witch's nose slightly wiggles when idle.
+Witches have small mouths hidden under their noses. During their potion-drinking animation, this mouth becomes visible from the side.
+In the Village and Pillage update artwork banner, the witch in the picture has its arms unfolded like a pillager, despite this being impossible in-game.
+In Java Edition, witches can ride any mob via commands, including boss mobs. In Bedrock Edition, witches cannot ride ravagers, as the witch is not considered an illager.
+Witches are the only mobs that use hats. Besides, its the only hats in the game.

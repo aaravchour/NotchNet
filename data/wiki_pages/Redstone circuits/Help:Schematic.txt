@@ -1,0 +1,18 @@
+This page gives a basic overview of the new style of redstone schematics. It does not give details on writing schematic templates, for that see the template documentation.
+These schematics represent a top or side view of the circuits in question. Complex circuits may be presented in several diagrams, each showing the blocks and components for one or two layers of the circuit.  
+Most blocks in a redstone circuit are "generic", in that any of several solid blocks will do. Therefore, they are shown as blocks chosen for visibility, rather than what you'd normally choose to build a circuit.  
+Gold and diamond blocks represent generic opaque blocks. Gold is used for stationary blocks which are required by the circuit. Diamond is used for "mobile" blocks, which will be moved by pistons as part of the circuit's workings.  
+There are three transparent blocks which can hold redstone wire: top slabs, upside-down stairs, and glowstone. Unless there's good reason otherwise, these will be represented by top slabs.  
+Any block for which the particular block type actually matters, will be shown as itself: e.g. sand (falling behavior), obsidian (in a TNT cannon), glass, blocks of redstone, etc..  
+Blocks which need to be there for structural purposes, but could be any building block, will be shown as stone brick. For these blocks, you could use dirt, glass, obsidian, wool, or even stone brick.
+Blocks of wool are used to show input and output locations: lime green for input, pink for output. These may be labelled if there is more than one input or output. Note that this has the signals going from green through yellow (gold) to "red" (pink). Light blue indicates a "duplex" connection, which can serve as both input and output. In complex schematics, other colors of wool may be used to indicate connections among multiple circuits, or different parts of the circuit.
+Redstone "wire" (dust) is shown as stylized lines, dark red if unpowered, brighter if powered. Note that wires may be extended to make the diagram look better, or put the I/O block somewhere convenient.
+Most components and devices are shown as themselves, but with some tweaks to their sprites (to make them more identifiable, and the circuits more comprehensible). The direction that devices are pointing is shown in the icon, occasionally by arrows; so are repeater and comparator settings: The position of the repeater's slider (or bar, for a latched repeater), or the lit third torch for a comparator in subtraction mode. 
+Translucent sprites of blocks (solid, mobile, stone slab, or redstone) indicate that block is just above the current "main" level, over the components that show beneath it.  
+A "lightened" block is used in multi-level diagrams to show the location of an input, output, or component, which is not on the current level and would not normally be shown.  
+A "darkened" block may be used to indicate that the space has one solid block atop another, or that a component is in a hole beneath the current level. Darkening can also mark other special cases, which should be described in the accompanying text.
+
+
+== Examples ==
+
+This vertical clock has no input or output blocks shown, because input (switching it off) or output (the clock signal), can be taken almost anywhere.  Full discussion is at its home in the Clocks page.

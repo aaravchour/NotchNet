@@ -1,0 +1,30 @@
+The mace is a slow melee weapon crafted with a breeze rod and a heavy core that is used to deal damage to entities. Attacking while falling negates fall damage and deals additional damage depending on the distance fallen.
+
+A mace can be repaired using breeze rods.
+
+Pressing attack while holding a mace inflicts damage on both mobs and other players. Upon damaging a mob or player, the mace's durability decreases by 1. 
+If the player hits a mob while falling more than 2 blocks, it deals significantly more damage depending on the distance fallen. Attacks with this new mechanic also deal knockback to the mobs in a small radius. This is called a "smash attack."
+
+The mace has an attack speed of 0.6 and a cooldown of 1.67 in Java Edition. It deals 5 base damage in both editions but also deals extra damage depending on the distance the player has fallen before attacking.
+If the player falls over 1.5 blocks before hitting, they perform a smash attack. Smash attacks, which can be recognized by their unique sound and particle effect, reset all vertical momentum and negate all fall damage, allowing the player to fall considerable heights without taking any damage, and also deal knockback to other entities nearby.
+Smash attacks also deal extra damage for each block fallen. For the first 3 blocks fallen, 4 additional damage is dealt per block. For the next 5 blocks fallen, 2 additional damage is dealt per block. For any additional blocks fallen, 1 damage is added per block. A one-block fall only counts as a regular critical hit as it doesn't trigger a smash attack, and so, does not boost the mace's damage in this way.
+As the damage boost from fall height does not have a limit, it is possible to kill anything in the game with a smash attackfrom a player in full Protection IV netherite armor to a wither to even a wardenin 1 hit. As a result, the mace is, situationally, the strongest weapon in the game.
+
+While it's a risky move, attacking mobs and players with a mace from high places by jumping onto them allows players to deal lots of damage without the downside of fall damage. With wind charges in the off-hand and a mace in the main hand, a player can right-click and jump to launch themselves upwards, allowing them to fall enough blocks to deal considerable damage.
+A mace enchanted with Breach at its highest level can ignore over half of the damage reduction from armor, but the enchantment is only really helpful on the mace when fighting other players, as it isn't too often that mobs spawn with equipped armor and only a handful of mobs spawn naturally with armor points. Density is the better enchantment choice for someone who doesn't plan on fighting other players. Its ability to deal even more damage for each block fallen makes it even more powerful when paired with wind charges or when jumping from a high place.
+
+The mace has eight possible enchantments: Density, Breach, Smite, Bane of Arthropods, Wind Burst, Fire Aspect, Mending, and Unbreaking. Density, Breach, Smite, and Bane of Arthropods are mutually exclusive, meaning that you can only have one of the four on a mace.
+
+The mace has three unique enchantments.
+
+Increases the extra damage dealt by the mace for each block fallen by 0.5 per level, having a total of 5 levels.
+
+Bypasses 15% of the damage reduction from armor per level. Has a total of 4 levels.
+
+Launches the user up into the air seven blocks per level after using a smash attack with the mace. Has a total of 3 levels and can only be obtained from ominous vaults.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Mace" are maintained on the bug tracker. Report issues there.

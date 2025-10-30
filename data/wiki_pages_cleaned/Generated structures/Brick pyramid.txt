@@ -1,0 +1,10 @@
+Brick pyramids were tall, experimental generated structures made up exclusively of bricks.
+
+Brick pyramids would generate in predetermined locations throughout the world. These locations were always the same regardless of the world seed, surrounding terrain, or game version, and seem to only generate in the south-east quadrant (positive X, positive Z).  Beginning from the spawn point, one can be found by walking forward (south) 500 blocks then turning left (facing east), and continuing on for another 500 blocks. This brick pyramid is centered at X: 502  Z: 553.
+
+Brick pyramids were completely solid; they had no interior rooms. A strange quality about these pyramids is that they spawned right on top of the terrain instead of being a complete pyramid with the bottom underground (like with desert pyramids); their bottom face would conform to the terrain rather than being flat. The pyramid would generate its top block at the top elevation of the map, and would expand down from there, with each consecutive layer containing the next odd square number of brick blocks. Since the height limit at the time was 128 and sea level and typical ground level was 64, the base of a pyramid was typically 127  127 blocks and the pyramid itself was 64 blocks high. Whenever it spawned on top of a large body of water, it would usually add to the number of bases.
+
+Brick pyramids were removed from the game in extremely early development and as such any issues relating to them are not considered valid for reporting.
+
+A full brick pyramid contained about 344,000 brick blocks, which is equivalent to about 5,249 stacks of brick blocks, though the exact number varies depending on the terrain.
+During the time brick pyramids existed, there was no way to craft Bricks, which lead to brick pyramids becoming the only method of naturally obtaining them. Contrary to popular belief, this was not the intention behind the brick pyramid's existence and is almost certainly a coincidence, due to items not existing for a majority of their existence.

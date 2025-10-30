@@ -1,0 +1,117 @@
+A zombie is an undead hostile mob that can be found within the various missions of Minecraft Dungeons. Zombies have three direct variants.
+
+The appearance of a zombie in Minecraft Dungeons is different from that of the original game. They have a different shade of green and they look more polished.
+Some zombies are slightly taller than normal zombies, and have more health and defense. The 1st variant wears a scale mail chestplate and a reinforced mail helmet, and holds a single dagger in a reverse grip. The 2nd variant is the stronger variant wears a helmet and chestplate made of reinforced mail, wields a normal sword, and does more damage than any other zombie.
+
+Zombies can be summoned by a necromancer or mob spawner. Zombies also spawn when night falls, regardless of mission, when at least one hero dies in multiplayer.
+
+Walk
+
+Zombies wander around when they idle.
+
+Basic attack
+
+Zombies turn their heads to look at the hero once seen, before slowly approaching to attack.
+
+Novelty Sleep
+
+Zombies and their variants sometimes sleep when idle.
+Zombies have nine times more health when enchanted.
+
+SFX ID:sfx_mob_zombieIdle, sfx_mob_zombieVariantIdle.
+
+Unified behavior file:Zombie_BasicAttack
+Behavior file:Zombie_BasicAttackVariant0, Zombie_BasicAttackVariant1, Zombie_BasicAttackVariant2
+
+SFX ID:sfx_mob_zombieAttack
+
+SFX ID:sfx_mob_zombiePreAttackVoice
+
+SFX ID:sfx_mob_zombieWhoosh, sfx_mob_plateArmorFoleyAttack, sfx_mob_knifeSwing, sfx_mob_swordSwingSteel (Single sound with 5 different pitch)
+
+Unified behavior file:Zombie_Walk
+Behavior file:Zombie_WalkVariant0, Zombie_WalkVariant1, Zombie_WalkVariant2
+SFX ID:sfx_mob_zombieStepGeneric, sfx_mob_stepScaleArmor(Variant 1 only), sfx_mob_stepPlateArmorHeavy(Variant 2 only)
+
+SFX ID:sfx_mob_zombieDeath, sfx_mob_zombieVariant1Death, sfx_mob_zombieVariant2Death
+
+SFX ID:sfx_mob_zombieHurt, sfx_mob_zombieVariant1Hurt, sfx_mob_zombieVariant2Hurt
+
+The following SFX files may be unused features or may appear in other parts of the game. Most of these sound files do not have an SFX ID in the game files.
+
+SFX ID:sfx_mob_zombieInfect (Sound 2 not include)
+
+The grim guardian is an ancient zombie that can be encountered within an ancient hunt upon offering, at a minimum, the following runes:
+
+The ancient resides within a creepy crypt-themed arena and possesses, at minimum, the following enchantments:
+
+Echo
+Protection
+Quick
+Radiance
+Six enchanted necromancers act as the ancient's minions, possessing the following enchantments:
+
+Heals Allies
+Upon defeating the grim guardian, a gilded variant of the following items drops as a reward:
+
+Dark Armor
+Titan's Shroud
+Grim Armor
+Wither Armor
+Sword
+Diamond Sword
+Hawkbrand
+
+ZombieVariant0
+Enemy lock radius: 10 blocks away
+Base health: 55
+Base damage: 70
+Attack distance: 2 block distance
+Viewing angle (ConeAngleDegrees): 30
+Attack delay: 0.3 seconds
+Attack duration: 1.0 seconds
+Push back strength: 6
+Push back Z Factor: 1
+Speed limit: 8 blocks distance per second
+ZombieVariant1
+Base health: 210
+Push multiplier: 0.95
+Base damage: 85
+Attack distance: 2 block distance
+Viewing angle (ConeAngleDegrees): 30
+Attack delay: 0.33 seconds
+Attack duration: 1.1 seconds
+Attack cooldown: 0.05 seconds
+Push back strength: 6
+Push back Z Factor: 1
+ZombieVariant2
+Base health: 500
+Push multiplier: 0.9
+Base damage: 100
+Attack distance: 2 block distance
+Viewing angle (ConeAngleDegrees): 30
+Attack delay: 0.36 seconds
+Attack duration: 1.1 seconds
+Attack cooldown: 0.1 seconds
+Push back strength: 6
+Push back Z Factor: 1
+zombieancient (Grim guardian)
+ID: flesheater
+Base health: 110
+Push multiplier: 0.0 (Cannot be knockback)
+Minion count: 6
+Minion spawn radius: 400.0 (4 blocks away)
+
+Zombies have three unused animations, and an unused legs animation for the basic attack behavior.
+In the netherhypermission-hyper file, the grim guardian is referred to internally by the names zombieancient and flesheater.
+
+Issues relating to "Zombie", "ZombieVariant0", "ZombieVariant1", or "ZombieVariant2" are maintained on the bug tracker. Report issues there.
+
+Zombies have many unused sounds in game file.
+Both shoulder pads use the shoulder pad model on the right. One of the right shoulder pads was reversed and disguised as the left shoulder pad. The difference between the reversed right shoulder pad and the left shoulder pad is that there is an extra white pixel on the top of the left shoulder pad.
+
+Baby Zombie
+Drowned
+Frozen Zombie
+Husk
+Jungle Zombie

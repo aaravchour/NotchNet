@@ -1,0 +1,9 @@
+The ice bomb is an item that is used to freeze water into ice.
+
+Ice bombs can be thrown by using them. They are affected by gravity.
+Like with ender pearls, there is a short cooldown before the player can throw another ice bomb. The cooldown is shown in the hotbar by a white overlay that shrinks before the player is able to use it again.
+Ice bombs explode upon hitting most blocks, including non-solid blocks, but not air. They also explode upon hitting other entities, but do not deal damage, and unlike eggs and snowballs, their impact is not considered an attack and does no damage or knockback. When exploding, any water (including flowing water, but not waterlogged blocks) in a 333 cube around the ice bomb freezes into ice. Ice bombs can be used to contain and displace mobs in ice under water.
+While endermen teleport away from arrows shot at them, they can be hit by ice bombs. 
+Throwing an ice bomb while underwater encloses the player in ice.
+
+In real life, mixing a sufficient amount of sodium acetate in water does solidify it, but creates hot ice (sodium acetate trihydrate) instead of normal ice.

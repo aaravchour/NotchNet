@@ -1,0 +1,13 @@
+Sets the maximum number of players allowed to join a multiplayer game.
+This command can be entered in single-player mode, but has no effect until you reopen the world in multiplayer mode.
+It has no effect on Realms nor servers.
+
+setmaxplayers <maxPlayers: int>
+
+maxplayers: int: int
+
+Specifies the desired new maximum number of players. If less than the current number of players or greater than the maximum number of connections the game version allowed (usually 30 or 40), the argument is forced into this range.
+Must be a  32-bit integer number.
+
+Fails if the argument is not specified correctly.
+On success, displays the new maximum number of players in the chat. An additional notification message is displayed if the number specified in the command was forced into the allowed range.

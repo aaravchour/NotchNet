@@ -1,0 +1,86 @@
+The auto crossbow is a unique rapid crossbow variant that can be found within the various missions of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+A  before a mission name indicates that the item is only obtainable in Daily Trials of that mission.
+
+Redstone Mines
+Highblock Halls (Adventure)
+Lone Fortress (DLC)
+ Windswept Peaks (DLC)
+Coral Rise (DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Haunted Caller
+
+
+== Usage ==
+The auto crossbow possesses low power, high speed, and a large ammunition supply. The quiver starts with 133 arrows, normal arrow bundles give 66 arrows, supply chest bundles give another 133 arrows, and surprise gift bundles give 33 arrows.
+The auto crossbow can be shot repeatedly if the ranged attack button is held down. Ranged weapons require the hero to have at least one normal arrow or a special arrow from a quiver artifact in their inventory to shoot. Unlike bows, shots from crossbows cannot be charged.
+Damage caused by the arrows can be increased with enchantments like (Power) the Strength buff, the Cowardice armor enchantment, and certain armors that have ranged damage increases, such as hunter's armor.
+
+
+=== Properties ===
+X ranged damage
+High fire rate
+Fire rate increases upon firing (Accelerate tier I)
+
+
+=== Stats ===
+Quiver: 133
+Fire Rate: 5 shots per second (prior to calculating Accelerate)
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Trivia ==
+The auto crossbow is the fastest crossbow in Minecraft Dungeons when not including enchantments.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===
+
+		
+			
+			
+		
+
+
+== References ==

@@ -1,0 +1,16 @@
+The ice wand is an artifact that can be found within the creeping winter DLC of Minecraft Dungeons.
+
+Missions
+Frosted Fjord
+Lone Fortress
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+X artifact damage
+Stuns Mobs
+15 seconds cooldown
+
+Issues relating to "Ice Wand" are maintained on the bug tracker. Report issues there.

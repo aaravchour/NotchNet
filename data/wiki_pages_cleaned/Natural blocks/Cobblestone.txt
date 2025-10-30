@@ -1,0 +1,34 @@
+Cobblestone is a common block, obtained from mining stone. It is mainly used for crafting or as a building block.
+
+Cobblestone can be mined using a pickaxe, in which case it drops itself. If mined without a pickaxe, it drops nothing. Its hardness is greater than stone so it requires more time to break, especially with anything other than a pickaxe.
+
+Cobblestone is dropped by stone when mined without Silk Touch, and also by infested cobblestone when mined with Silk Touch. 
+
+Cobblestone occurs naturally in monster rooms, jungle pyramids, pillager outposts, ocean ruins, strongholds, plains, taiga and snowy plains villages, woodland mansions, and trail ruins.
+In Java Edition, a single block of cobblestone always generates at the coordinates of (8, -61, 8) at the center of the void start platform, in Superflat worlds created with the Void biome preset.
+
+When water and flowing lava come into contact, the flowing lava is replaced by cobblestone; this is how cobblestone can be generated renewablely. However, if the lava flows on top of the water from above, stone is created instead. Non-flowing lava (a lava source block) turns into obsidian upon contact with water, thus the requirement of flowing lava.
+
+Cobblestone can be used as basic building block, as it is blast resistant and extremely common.
+
+Silverfish can enter and hide in cobblestone, creating an infested block.
+
+Cobblestone is one of the repair items for the stone tier and thus can be used to repair the following items in an anvil:
+
+Stone Sword
+Stone Pickaxe
+Stone Axe
+Stone Shovel
+Stone Hoe
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Cobblestone" are maintained on the bug tracker. Report issues there.
+
+Block of the Week: Cobblestone  Minecraft.net on May 18, 2018

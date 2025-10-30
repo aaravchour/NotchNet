@@ -1,0 +1,31 @@
+Gold ore is a rare mineral block found underground.
+Deepslate gold ore is a variant of gold ore that can generate in deepslate and tuff.
+
+Gold ore drops as raw gold if mined by an iron pickaxe or higher. If mined by any other tool, it drops nothing. Mining with a Silk Touch pickaxe drops itself. It is affected by Fortune enchantment, dropping 12, 13, or 14 raw gold respectively with Fortune I, II, and III.
+
+Gold ore can generate in the Overworld in the form of ore features. 
+Gold ore attempts to generate in two batches. The first batch generates 4 times per chunk in blobs of 013 blocks, from levels -64 to 32. It is most likely to be found around layer -16, becoming less common toward either end of the range. The second batch has a probability of 1/2 per chunks to generate in blobs of 013 blocks that generate uniformly between -64 and -48. There is also an extra batch of gold ore in badlands biome that generates 50 times per chunk in blobs of 013 blocks, from 32 to 256 uniformly. Gold ore is also less likely to be exposed to air: 50% of ore blocks from the first and second batch will not generate. The extra batch in badlands will generate regardless of exposure to air. 
+Gold ore can replace stone, andesite, diorite, granite, tuff, and deepslate. Any gold ore that replaces tuff or deepslate becomes deepslate gold ore.
+
+Piglins become hostile toward players who mine gold ore, even if the player is wearing golden armor. Piglins also run toward any gold ores on the ground, and inspect it for 6 to 8 seconds before putting it in their inventory.
+
+Gold ore can be placed underneath note blocks to make a "bass drum" sound.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Gold Ore" are maintained on the bug tracker. Report issues there.
+
+Nether Gold Ore
+Gilded Blackstone
+
+Block of the Week: Gold Ore  Minecraft.net on January 12, 2018

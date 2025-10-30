@@ -1,0 +1,49 @@
+Tinted glass is a block that blocks light while being visually transparent.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Tinted glass drops as an item when broken with any tool or by hand, unlike other glass.
+
+
+=== Crafting ===
+
+
+== Usage ==
+
+Tinted glass behaves like an opaque block, blocking light completely, despite being visually transparent. However, it isn't a solid block, and as with regular glass, mobs do not suffocate inside it. Unlike other types of glass, it cannot be turned into glass panes. Mobs do not spawn on top, similar to regular glass.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Tinted Glass" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Tinted glass shares the same name as a block in the Java Edition 2.0 April Fools' update.
+
+
+== References ==
+
+
+== External Links ==
+Block of the Week: Tinted Glass – Minecraft.net on October 7, 2021

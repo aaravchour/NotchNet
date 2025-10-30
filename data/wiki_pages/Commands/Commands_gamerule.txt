@@ -1,0 +1,47 @@
+Sets or queries a game rule value.
+
+
+== Syntax ==
+Java Edition
+gamerule <rule name> [<value>]
+Bedrock Edition
+gamerule <rule: BoolGameRule> [value: Boolean]
+gamerule <rule: IntGameRule> [value: int]
+
+
+== Arguments ==
+Arguments in Java Edition are case sensitive. Arguments in Bedrock Edition are shown for tab autocompletion as lowercase, but when typed are case-insensitive. 
+JE: <rule name>
+BE: rule: BoolGameRule: enum and rule: IntGameRule: enum
+
+Specifies the game rule to set or query.
+Must be one of the predefined game rules; see Game rule.
+JE: <value>
+BE: value: Boolean: enum and value: int: int
+
+Specifies the value to set the game rule to. If not specified, queries the value of the game rule instead of setting it.
+Only true or false specified for predefined game rules can affect gameplay, except in the case of maxEntityCramming, randomTickSpeed, spawnRadius, playersSleepingPercentage, functionCommandLimit and maxCommandChainLength where any integer affects (-2147483648~2147483647) gameplay; see Game rule.
+
+
+== Result ==
+
+
+== Output ==
+
+
+== Examples ==
+To stop the day-night cycle: gamerule doDaylightCycle false
+To stop natural healing: gamerule naturalRegeneration false
+To stop creepers, ghasts and other mobs from modifying blocks: gamerule mobGriefing false
+To stop the natural cycle of weather: gamerule doWeatherCycle false
+For the player, so that they can keep all of their valuables when they die: gamerule keepInventory true
+To stop TNT from exploding: gamerule tntExplodes false ‌
+To stop command blocks from showing what they do: gamerule commandBlockOutput false
+To stop phantoms spawning:gamerule doInsomnia false
+
+
+== History ==
+
+
+== See also ==
+/mobevent – a command in Bedrock Edition for controlling the spawning of raids, patrols, and wandering traders

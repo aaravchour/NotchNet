@@ -1,0 +1,17 @@
+The transmigrational headset was a device created by Harper to remotely control creatures under control of PAMA.
+
+
+== Appearance ==
+The headset looks like an ordinary iron helmet with black goggles connected to the sides of it. The center of goggles emits a light blue glow.
+
+
+== Usage ==
+The transmigrational headset was designed to remotely control creatures with redstone devices created by PAMA. While wearing the headset, a controlled creature's red glow of redstone device and red eyes turn into blue. A creature mimics every move of the user. It cannot control more than one creature. The headset can also transition control into some other nearby creatures remotely. The only known transmigrational headset was destroyed during an attempt to save Harper from PAMA.
+
+
+== Trivia ==
+When Jesse is wearing the mind-control headset, he/she can see the text 'Harper v 1.0.43.10' on screen.
+The Transmigrational Headset was based on the April Fools Trendy Update Reality Vision.
+Both the mind-control headset and the reality vision resembles a VR (virtual reality) headset.
+It is unknown whether the headset can hack mind-controlled citizens.
+The mind-control headset used to be textureless, as seen in the Official Trailer for "Access Denied".

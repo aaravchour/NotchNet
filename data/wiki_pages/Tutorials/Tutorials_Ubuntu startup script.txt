@@ -1,0 +1,129 @@
+This is a simple startup-script for the upstart mechanism used by ubuntu-servers. It won't give you a console, which isn't considered a problem since there's an in game console anyway. It also doesn't update Minecraft.
+Note: It's working fine in Ubuntu 14.
+Further note: This configuration syntax is for the "upstart" process management system. Since 15.04, Ubuntu has moved to systemd, so you may need to explore other, systemd based options on newer Ubuntu installs. An example is below.
+
+
+== Prerequisites ==
+Set up a user and group for minecraft so that it doesn't run as root
+  sudo adduser --system --home /srv/minecraft-server minecraft
+sudo addgroup --system minecraft
+sudo adduser minecraft minecraft # this adds user "minecraft" to the group "minecraft"
+Hand your server-installation over to your new user, for example, in /srv/minecraft-server
+  sudo chown -R minecraft.minecraft /srv/minecraft-server
+Create and edit the start/stop script creating a new file under /etc/init/minecraft-server (NOT /etc/init.d but /etc/init (without the .d) ) make sure that you save the file as minecraft-server.conf
+  sudo nano /etc/init/minecraft-server.conf
+and pasting the following into it. Don't forget to change the directory after "chdir" to your installation.
+
+# description "start and stop the minecraft-server"
+
+start on runlevel [2345]
+stop on runlevel [^2345]
+
+console log
+chdir YOUR_INSTALLATION_DIRECTORY
+setuid minecraft
+setgid minecraft
+
+respawn
+respawn limit 20 5
+
+exec /usr/bin/java -Xms1536M -Xmx2048M -jar server.jar --nogui
+
+Above Explained (Note, this script isn't usable.):
+
+# description "start and stop the minecraft-server" <-- Adds a tip to what this script does.
+
+start on runlevel [2345] <-- Tells Ubuntu when to start the server. Runlevels 2, 3, 4, and 5 are the "normal operation".
+stop on runlevel [^2345] <-- Tells Ubuntu when to stop the server. The ^ means NOT.
+
+console log <-- Logs the actions taken
+chdir YOUR_INSTALLATION_DIRECTORY <-- Changes the active directory to the installation dir.
+setuid minecraft <-- Sets the UserID to "minecraft" (acts like Minecraft user)
+setgid minecraft <-- Sets the GroupID to "minecraft" (acts like Minecraft group)
+
+respawn <-- Allows the program to "respawn" (restart) when it dies unexpectedly.
+respawn limit 20 5 <-- Allows the program to "respawn" 20 times in 5 seconds.
+
+exec /usr/bin/java -Xms1536M -Xmx2048M -jar server.jar --nogui <-- Below...
+'exec' > Executes command
+'/usr/bin/java' > Invokes Java.
+'-Xms1536M' > Sets minimum allocated memory limit.
+'-Xmx2048M' > Sets MAXIMUM allowable memory limit.
+'-jar server.jar' > Tells Java to run the jarfile server.jar
+'--nogui' > Tells minecraft-server.jar to run without a GUI. (Graphical screen).
+
+Following step does not work since depcrication of upstart in ubuntu 16+
+Now, install the start/stop to the default runlevels by running
+  sudo initctl reload-configuration
+If you get an error saying the file does not exist, try moving the minecraft-server file to /etc/init.d/
+Also, if after running sudo start minecraft-server says that they is no job for it, try running "sudo /etc/init.d/minecraft-server start"
+
+
+== Usage ==
+To start the server
+sudo start minecraft-server
+to stop the server
+sudo stop minecraft-server
+
+
+== Troubles? ==
+You can check the server log by using:
+
+sudo tail /var/log/upstart/minecraft-server.log
+If that doesn't help, just contact me: User:Cel1ne
+
+
+== With systemd ==
+In this example, the player has created a user, as shown by Cel1ne. 
+After : 
+
+sudo gedit  /lib/systemd/system/minecraft-server.service
+
+inside :
+
+[Unit] 
+Description=start and stop the minecraft-server 
+
+[Service]
+WorkingDirectory=/srv/minecraft-server
+User=minecraft
+Group=minecraft
+Restart=on-failure
+RestartSec=20 5
+ExecStart=/usr/bin/java -Xms1536M -Xmx1536M -jar server.jar --nogui
+
+[Install]
+WantedBy=multi-user.target
+
+To enable the service : 
+
+sudo systemctl enable minecraft-server.service
+
+To start the service:
+
+sudo systemctl start minecraft-server.service
+
+View the status ("q" to go out of the view):
+
+systemctl status minecraft-server.service 
+
+If you would like to interact with the server from your keyboard, you may use an alternative service configuration like this:
+
+[Unit] 
+Description=minecraft-server 
+
+[Service]
+WorkingDirectory=/home/minecraft/server
+User=minecraft
+Group=minecraft
+Type=forking
+ExecStart=/usr/bin/screen -dmS minecraft /usr/bin/java -Xms1536M -Xmx1536M -jar server.jar --nogui
+
+[Install]
+WantedBy=multi-user.target
+
+If you have changed the service file, you should issue the 
+
+sudo systemctl daemon-reload
+
+command to update the system.

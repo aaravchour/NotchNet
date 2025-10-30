@@ -1,0 +1,22 @@
+A tool is an item used by the player while held to perform actions faster and more efficiently, to gather materials not obtainable by hand, to gain information, or to perform completely new actions. With the exception of the clock, compass, empty bucket, and lead, tools do not stack in the inventory. Tools can be repaired; see Item repair.
+
+Some tools can be obtained by killing mobs that carry the equipment.
+
+Most tools can be obtained through crafting.
+
+Netherite tools can be obtained only through upgrading.
+
+Some tools are not block-breaking tools: This includes bows, fishing rods, carrots on sticks, flint & steel, and buckets. Such tools are no better than bare fists at breaking blocks, but they do not take damage from doing sothey take damage from being used in their own intended manners.
+
+Fuel
+Wooden tools can be used as a fuel in furnaces, smelting 1 item per tool.
+A fishing rod can be used as fuel in furnaces, smelting 1.5/1 items per fishing rod.
+
+Issues relating to "Tool" are maintained on the bug tracker. Report issues there.
+
+Gold tools are actually ranked as superior to diamond tools on the Legacy Console Edition's crafting screen.
+Wooden tools can be burned in a furnace regardless of its durability; this means the player can burn a wooden tool that has only 1 use left.
+
+Item Repair
+Breaking
+Weapon

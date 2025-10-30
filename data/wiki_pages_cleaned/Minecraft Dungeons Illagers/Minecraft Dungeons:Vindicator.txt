@@ -1,0 +1,75 @@
+A vindicator is a hostile illager that can be found within the various missions of Minecraft Dungeons.
+
+Before the Arch-Illager appeared, vindicators were basic illager soldiers, guarding the woodland mansions and participating in raids. After Archie gets the Orb of Dominance, the vindicators and pillagers led by the evokers Thord and Walda, joined the Arch-Illager's army, patrolling now the Highblock Keep, the Fiery Forge, Redstone Mines, and participating in raids, now with the help of redstone golems and the Redstone Monstrosity. After the heroes defeat the Arch-Illager, they traveled to other areas of the mainland and even other dimensions, where vindicators can also be found.
+
+The vindicator's appearance in Minecraft Dungeons is similar to its original counterpart, but with a slightly brightened texture, and their arms are never seen crossed, unlike in the original game.
+The 1st variant is a vindicator that has gold buttons, a smooth dark helmet and purple pants and wields a double axe; meanwhile the 2nd variant is a larger (2.7 block tall) vindicator that has diamond buttons, a horned dark helmet and blue pants and wields a whirlwind axe.
+
+If vindicator sees a hero, it charges and attacks with an axe. 
+
+Strong attack
+Vindicators attack the hero on sight. They have high movement speed. Their attack speed is slightly slower than zombies but they deal more damage and are tougher. They have more delay than other melee mobs when attacking. However they can easily catch up to hero as they can move while attacking. 
+
+Retreat
+Like baby zombies, after vindicators hitting a hero, they retreat. When they retreat, they lower their axes.
+
+Target lock
+Vindicators turn to "lock onto the hero" if they run more than fifteen blocks away. Once triggered, Their charge speed is slightly increases and they no longer retreat after hitting but chase the hero until death or aggressiveness is exhausted.
+
+Aggressive
+A vindicator becomes aggressive if a hero stands in the vindicator's taunt circle. If hurt by hero, its attack speed increases and its charge speed decreases. An aggressive vindicator always raises its axe, even when retreating.
+
+Novelty
+
+If the hero is surrounded by three or more vindicators and has already been attacked by some of them, the vindicator that has been retreated or outside the battlefield will do a call out behavior called "Novelty" before their next charges and attacks, as one of the easter eggs in the game.
+The vindicator 2nd variants are not stunned by normal attack damage except some artifacts and any weapon with the Stunning enchantment.
+
+A vindicator raid captain is a powerful variant of the vindicator variant 2 in Minecraft Dungeons. They spawn in missions as a powerful mob such that when defeated, the mission has negative modifiers or a higher threat level, but the rewards throughout the mission are better. They are the most common type of powerful mob in Minecraft Dungeons.
+
+A vindicator raid captain resembles the 2nd variant physically, carrying a threat/mystery banner on its back, and wielding a normal axe.
+
+Vindicator raid captains behave like old AI of vindicators, attacking the hero with its axe. However, they deal increased damage and knockback. They have 50% ranged damage resistance. Vindicator raid captains spawn only within missions that have already been completed once, but not on all. Depending on the situation, there can be one to six vindicator raid captains in missions. They spawn with a group of illagers or illager allies around them, such as vindicators, geomancers, pillagers, mountaineers, wind callers, enchanters, royal guards, icelogers, and witches or alone, like in the patrols of the main Minecraft game.
+
+When defeated, they drop one of two raid captain banners, either threat or mystery. Threat portrays the Bad Omen icon and Mystery portrays a skull, and when picked up, the game is enhanced with modifiers (e.g. enemies have boost). At the end of the level, an extra item is given in addition to the artifact chest. Also, the chance for it to be unique exponentially increases for every vindicator raid captain defeated after the first.
+If all six vindicator raid captains have been defeated inside of a daily trial on Apocalypse + 25, the highest power level items in the game can be collected from the raid captain chest.
+
+20% of mobs have the Committed enchantment.
+35% of mobs have the Double Damage enchantment.
+35% of mobs have the Chilling enchantment.
+40% of mobs have the Quick enchantment.
+50% of mobs have the Electrified enchantment.
+10% of melee mobs have the Chains enchantment.
+30% of melee mobs have the Poison Cloud enchantment.
+15% of melee mobs have the Radiance enchantment.
+10% of ranged mobs have the Accelerate enchantment.
+20% of ranged mobs have the Bonus Shot enchantment.
+30% of ranged mobs have the Gravity enchantment
+30% of ranged mobs have the Poison Cloud enchantment.
+50% of ranged mobs have the Power enchantment
+Mob health is increased by 50-250%.
+Mob damage is increased by 50-200%.
+Mob speed is increased by 30-100%.
+Player health is decreased by 20-75%.
+Player damage is decreased by 20-60%.
+20-35% of melee mobs are replaced with creeper.
+15-40% of ranged mobs are replaced with pillager.
+Night mode
+
+Both variants appear the same as the main Minecraft game except that the 2nd variant now holds a double axe rather than a whirlwind axe.
+
+The idle, death and the hurt of vindicator variants 1 and 2 shares with distorted vigilant scoundrel sounds.
+
+Issues relating to "Vindicator" are maintained on the bug tracker. Report issues there.
+
+In the game files, vindicators are referred to internally by the names Vindicator, IllagerVindicator, and VindicatorVariant0.
+In the game files, the first vindicator variant is referred to internally by the name VindicatorVariant1.
+In the game files, the second vindicator variant is referred to internally by the name VindicatorVariant2.
+In the game files, vindicator raid captains are referred to internally by the name VindicatorRaidCaptain.
+
+The vindicator's textures are perfectly compatible with the illusioner's model, and the unused white wig will appear in place of the Illusioner's hood layer, as well as the texture of the Vindicator's unused closed arms and upside down T eyebrows.
+The vindicator has an outsourced cinematic version that can be seen in the Minecraft Dungeons: Opening Cinematic and in the Squid Coast loading screen, used the skin texture of the base game (pre 1.14) and had a collar with the same color as the pants, instead of red.
+Due to outsourcing, vindicators in game achievements or books sometimes have rendering errors or text errors.
+In Guide to Minecraft Dungeons: A Handbook for Heroes, a pillager in the fiery forge cutscene is confused with vindicator.
+In a cutscene seen between The Stronghold and End Wilds, some vindicators can be seen walking around without axes and their body shows white pixels caused by alpha channel missing. The same issues also happened on villagers.
+
+Vindicator Chef

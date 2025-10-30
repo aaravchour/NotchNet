@@ -1,0 +1,12 @@
+A bundle is an item that can store up to a stack's worth of mixed item types within itself in a single inventory slot. Items that stack to 16 occupy more space within the bundle, and items that do not stack occupy the entire bundle without allowing space for any other items. A bundle can be dyed into 16 different colors.
+
+Bundles are used to store different item types in the same inventory slot. This does not, however, increase the total capacity of the slot: each bundle has 64 "bundle slots" and each item placed in the bundle takes up these slots similar to how they take up space in a normal inventory slot: items that stack to 64 take up 1 bundle slot, items that stack to 16 (for example, eggs) take up 4, and items that do not stack (such as tools/weapons/armors) take up the whole bundle, all 64 slots.
+Although bundles themselves cannot be stacked, a bundle can be placed inside another (nested): the inner bundle itself uses 4 slots plus the number of slots already occupied by the items in that bundle.  
+To place items inside a bundle, either (1) pick up the bundle in the inventory and right-click on the item(s) to be placed inside or (2) pick up the item(s) and right-click on the bundle. When placing bundles inside another bundle, the interface uses the first method: picking up Bundle A and right clicking on Bundle B attempts to store Bundle B inside A.  
+Bundles can be used inside the inventory to take out the last item put in. In this way, items are accessible LIFO (last in, first out). When used outside the inventory, it dumps all the items out into the world.
+Hovering over the bundle shows its contained items in its inventory slots. The number of bundle slots used is displayed as <fullness>/64 in the tooltip. If the bundle is full, then the empty slots are greyed out with an .
+Shulker boxes cannot be placed inside of bundles.
+
+Java Edition:
+
+Issues relating to "Bundle" are maintained on the bug tracker. Report issues there.

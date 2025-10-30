@@ -1,0 +1,11 @@
+Ghast tears are items dropped by ghasts. They can be used to make potions of Regeneration, end crystals and Dried Ghasts.
+
+Ghasts drop 01 ghast tears. Looting increases the maximum ghast tears dropped by one per level, for a maximum of 4 ghast tears with Looting III. Looting also works when knocking back a fireball with an enchanted item.
+
+(Dried Ghast recipe needed here: 8 Ghast tears and 1 Soul Sand)
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Ghast Tear" are maintained on the bug tracker. Report issues there.

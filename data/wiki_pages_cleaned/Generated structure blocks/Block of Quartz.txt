@@ -1,0 +1,35 @@
+A block of quartz is a mineral block used for decoration. It can be turned into a chiseled quartz block, quartz pillar or quartz bricks.
+
+Blocks of quartz can be mined using any pickaxe. If mined without a pickaxe, it drops nothing.
+
+Four quartz blocks generate naturally as part of each bridge bastion remnant.
+
+Master-level mason villagers sell both a quartz block for an emerald and a quartz pillar for an emerald.
+
+Quartz blocks cannot be used to store nether quartz because they cannot be crafted back into it, unlike other ore blocks.
+Quartz pillars can be rotated sideways.
+
+All types of quartz blocks can be placed under note blocks to produce "bass drum" sounds.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Quartz Pillar
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Block of Quartz", "Quartz Block", "Chiseled Quartz Block", "Pillar Quartz Block", or "Pillar Quartz" are maintained on the bug tracker. Report issues there.
+
+Because of the low blast resistance of regular quartz blocks, it may be preferable to use two quartz slabs or smooth quartz blocks when making fortifications using quartz, as their blast resistance is higher than the other quartz block variants.
+In real life, a 1-cubic-meter block of quartz (the size of a Minecraft block) is practically harder than the real life block of iron, while the mining speed of block of quartz in Minecraft is quite low.
+Like other chiseled bricks, chiseled quartz blocks have patterns on their texture that reference an in-game mob or item  in this case, chiseled quartz blocks depict a conduit surrounded by prismarine on the sides of the block, and four Nautilus Shells on the top and bottom of the block.
+
+Nether Quartz Ore
+
+Block of the Week: Quartz  Minecraft.net on March 3, 2017

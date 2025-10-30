@@ -1,0 +1,59 @@
+A chicken jockey is a rare mob that can be found within various missions of Minecraft Dungeons.
+
+Chicken jockeys are composed of a baby zombie riding a chicken. They can sometimes have multiple baby zombies stacked on top of each other. This variant is called a chicken jockey tower.
+
+Creeper Woods
+Soggy Swamp (Summoned by the corrupted cauldron)
+Pumpkin Pastures
+Arch Haven
+Cacti Canyon
+Daily Trial
+Ancient Hunt
+Tower
+Chicken jockeys can also spawn when night falls, regardless of the mission, when at least one hero dies in multiplayer.
+
+Movement
+Chicken jockeys have a high movement speed. Like the baby zombie, chicken jockeys deal less damage compared to normal zombies.
+
+Basic attack
+The chicken part of the jockey attacks the hero with a kick.
+
+Strong attack
+
+A chicken jockey tower is a rare mob that can be found within various missions of Minecraft Dungeons.
+
+Chicken jockey towers are composed of a chicken jockey with six baby zombies balanced upon each other, with five of them sitting, and the top one balancing standing upright.
+
+Creeper Woods
+Soggy Swamp (Summoned by the corrupted cauldron)
+Pumpkin Pastures
+Arch Haven
+Cacti Canyon
+Chicken jockey towers can also spawn when night falls, regardless of the mission, when at least one hero dies in multiplayer.
+
+The behavior of a chicken jockey tower is similar to a normal chicken jockey but is slightly slower due to the weight of the baby zombies. When the chicken gets hit, this causes the baby zombies to scatter and attack the hero at once.
+
+The Tower is an Ancient chicken jockey tower that can be encountered during ancient hunts with the minimum offering of the following runes:
+
+The ancient resides within a Creeper Woods-themed arena and possesses, at minimum, the following enchantments:
+
+Committed
+Critical Hit
+Freezing
+Twelve enchanted chicken jockeys act as the ancient's minions, possessing the following enchantments:
+
+Electrified
+Upon defeating the tower, a gilded variant of the following items drops as a reward:
+
+Hunting Bow
+Ancient Bow
+Hunter's Promise
+Master's Bow
+Beenest Armor
+Beehive Armor
+Pickaxe
+Diamond Pickaxe
+
+In the game files, chicken jockeys and chicken jockey towers are referred to internally by the name ChickenJockey.
+
+As seen with the Chicken Jockey Tower, chickens in Minecraft Dungeons seem to be physically stronger than their Minecraft counterparts, being capable of carrying more baby zombies.

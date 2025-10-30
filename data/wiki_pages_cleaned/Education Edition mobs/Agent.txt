@@ -1,0 +1,41 @@
+In Minecraft Education and Bedrock Edition worlds connected to a WebSocket server, the agent is a mob that helps players learn coding, by allowing players to program actions into it. The agent can be programmed to execute several tasks, like planting and harvesting, mining, and building.
+In a Bedrock Edition world not connected to a WebSocket server, it is unused and thus has no AI unless spawned by putting the command execute @p ~ ~ ~ agent create or execute as @p run agent create into an NPC, but can still store items given to it by the player in its inventory. It can also teleport between dimensions with the player. It can be spawned using its spawn egg, obtainable with /give @s spawn_egg 1 56.
+
+In Minecraft Education, the agent is used in conjunction with Code Connection for Minecraft / Code Builder, and is programmable by a visual programming language.
+In Minecraft Education and Bedrock Edition, the agent can be used in conjunction with WebSocket servers. 
+The agent carries its own 27-item inventory, which can be manipulated by commands that the player programs it to use, or edited directly by a GUI that the player can access in-game, in any dimension.
+The visual interface allows the player to drag and drop commands, structural constructs and other components into a sequence, and associate the sequence with a custom-named slash command, which can be executed in the traditional way, from the console.
+The agent can push pressure plates. It can interact with buttons, levers, and other right-click mechanisms like doors and fence gates. 
+
+attack <direction>
+destroy <direction>
+drop <int:slotNum> <int:quantity> <direction>
+drop all <direction>
+move <direction>
+turn <turnDirection>
+inspect <direction>
+inspect data <direction>
+detect <direction>
+detectredstone <direction>
+transfer <int:srcSlotNum> <int:quantity> <int:dstSlotNum>
+create agent
+remove agent
+teleport to player
+teleport to location facing direction
+collect <string:item>
+till <direction>
+place <int:slotNum> <direction>
+place on move<int:slotNum> <true/false>
+get item count <int:slotNum>
+get item space <int:slotNum>
+get item detail <int:slotNum>
+<direction> refers to forward|back|left|right|up|down
+<turnDirection> refers to left|right
+
+The agent is seen in the official image of Minecraft Education.
+The agent is the only mob exclusive to Minecraft Education. Bedrock Edition also contains resources for the mob. However, the mob is unusable, and invisible in game. By installing Code Connection, it is possible to use in Bedrock Edition on Windows.
+On the free 10th-anniversary map that @BlockworksYT released, there is a puzzle in the "Library" area that involves controlling the Agent with glazed terracotta. On the Bedrock Edition version of the map, the agent is added in as a new mob, while on Java Edition, it is an armor stand with remodeled infested chiseled stone bricks on its head.
+The agent spawn egg can be obtained using /give @s spawn_egg 1 56. However, when spawned via the spawn egg, it is completely invisible.
+The agent is immune to Warden's sonic attacks, TNT or Creeper explosions,  Ender Dragon's wings or fire breath, below Y-64, and Wither skulls.
+If the Agent is coded to punch the Warden standing in front of it, the Warden gets provoked easily and starts attacking the Agent, similar to when a player attacks it.
+When coded, the agent can easily break any block (especially bedrock and Reinforced Deepslate), however it cannot break Air, Structure Void, Barrier Blocks and Invisible Bedrock.

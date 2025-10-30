@@ -1,0 +1,6 @@
+A disc fragment is a music disc fragment obtained from ancient city loot chests. Nine fragments can be combined in a crafting table to make a music disc named "5".
+
+Issues relating to "Disc Fragment" are maintained on the bug tracker. Report issues there.
+
+Music
+Music Disc

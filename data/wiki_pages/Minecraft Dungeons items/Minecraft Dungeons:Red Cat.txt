@@ -1,0 +1,41 @@
+The red cat is a cosmetic pet mob that can be found in the Fauna Faire Seasonal Adventure.
+
+
+== Appearance ==
+The red cat is a variant of the cat possessing gold-orange fur, green eyes, and white patches on its tail, paws, and underbelly.
+
+
+== Obtaining ==
+Adventure Hub
+
+
+== Behavior ==
+The red cat follows heroes around. It is purely cosmetic and does not attack any mobs.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Gallery ==
+
+
+=== Renders ===
+
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+
+
+== References ==

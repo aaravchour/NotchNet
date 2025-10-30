@@ -1,0 +1,5 @@
+Vanguard armor is an armor set that is exclusively equipped by skeleton vanguards within the various missions of Minecraft Dungeons.
+
+In the game files, the vanguard armor is referred to internally by the name DesertArmor.
+
+File:T_DesertArmor.png|The texture file of vanguard armor.

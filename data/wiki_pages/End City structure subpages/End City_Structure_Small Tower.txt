@@ -1,0 +1,14 @@
+Towers are hollow, consisting only of a single Purpur Slab staircase. Can be placed everywhere on the roof of rooms.
+
+
+==== Materials ====
+
+
+==== Blueprint ====
+Each of these stairs are upside-down.
+
+
+===== Base =====
+
+
+===== Extention =====

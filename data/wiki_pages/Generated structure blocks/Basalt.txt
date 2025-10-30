@@ -1,0 +1,85 @@
+Basalt is an igneous rock found in the Nether.
+ Polished basalt is the polished version of basalt and can be found as part of ancient cities.
+ Smooth basalt is an ornamental rock smelted from basalt or found as part of amethyst geodes and ancient cities.
+
+
+== Obtaining ==
+
+
+=== Natural generation ===
+Basalt generates naturally as basalt pillars, which are found in the soul sand valley biome. They also generate in the basalt deltas biome as regular terrain and as part of basalt columns. In Java Edition, they also generate in blobs, which attempt to replace netherrack 75 times per chunk in blobs of radius 3—7, from levels 0 to 127, in basalt deltas biome.
+Both basalt and polished basalt can be found naturally as part of bastion remnants.
+Smooth basalt generates naturally as a part of the outer layer of amethyst geodes.
+Polished basalt and smooth basalt also generate in ancient cities.
+
+
+=== Breaking ===
+Basalt drops as an item if mined using any pickaxe. If mined using any other tool, it drops nothing.
+
+
+=== Crafting ===
+
+
+=== Smelting ===
+
+
+=== Stonecutting ===
+
+
+=== Post-generation ===
+
+Basalt can also be made by lava flowing into a space that is on top of soul soil and adjacent to blue ice. The flowing lava is then replaced with basalt.
+
+
+== Usage ==
+Basalt's only current use is as building material. Like logs and quartz pillars, basalt and polished basalt point perpendicular to whatever block face they are placed on.
+
+
+=== Note blocks ===
+Basalt and polished basalt can be placed under note blocks to produce "bass drum" sounds.
+
+
+=== Smelting ingredient ===
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Basalt" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Geologically, basalt is a volcanic rock that cools from mafic lava flows. Mafic lava is runny, much like lava in the Nether, and under the right conditions it can cool into the stacks of basalt columns seen in basalt deltas.
+Basalt makes up most of Earth's sea floor, as well as Iceland and the Hawaiian Islands.
+Despite being an extrusive igneous rock, basalt has a lower mining time than granite and diorite, which are intrusive.
+Basalt is the only rock-like block to have both a polished variant and a smooth variant.
+
+
+== References ==
+
+
+== External Links ==
+Block of the Week: Basalt – Minecraft.net on July 8, 2020

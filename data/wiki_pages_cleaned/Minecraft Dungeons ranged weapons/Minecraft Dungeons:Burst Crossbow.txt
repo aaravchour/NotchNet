@@ -1,0 +1,25 @@
+The burst crossbow is a ranged weapon that can be found within the various missions of Minecraft Dungeons. Its unique variants are the corrupted crossbow and the soul hunter crossbow.
+
+Missions
+A  before a mission name indicates that the item is only obtainable in Daily Trials of that mission.
+
+ Fiery Forge
+ Underhalls
+ Panda Plateau (DLC)
+ Colossal Rampart (DLC)
+ Soul Sand Valley (DLC)
+Tower
+Merchants
+Gift Wrapper
+Ancients
+Solemn Giant
+
+A Burst Crossbow has slightly below average power, moderate speed, and moderate ammunition. It shoots three arrows at once similar to the Scatter Crossbow, but they travel in a narrow cone with a greater likelihood of hitting the same target from a further distance.
+
+X ranged damage
+Fast Multiple Projectiles
+
+Quiver: 53
+Fire Rate: 1 shots per second (3 projectiles per second)
+
+Issues relating to "Burst Crossbow" are maintained on the bug tracker. Report issues there.

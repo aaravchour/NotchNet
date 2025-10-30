@@ -1,0 +1,71 @@
+The black wolf armor is a unique wolf armor variant that can be found within the various missions of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+A  afterwards  a mission name indicates that the item is only obtainable in a Daily Trial of that mission.
+
+Creeper Woods
+Redstone Mines
+???
+Lost Settlement (DLC)
+End Wilds  (DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Abominable Weaver
+
+
+== Usage ==
+
+
+=== Properties ===
++X health
++20% weapon damage boost aura
+Health potions heal nearby allies
+Roll cooldown reduced (Acrobat tier I)
+
+
+=== Stats ===
+
+
+== Black wolf ==
+
+A black wolf is an unseen mob that is mentioned within the name of the black wolf armor of Minecraft Dungeons. The item description states that black wolves strike down their prey from darkness, hardly ever being defeated.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Black Wolf Armor" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===

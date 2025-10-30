@@ -1,0 +1,27 @@
+Nether wart is a difficult resource to obtain initially. It is only found in nether fortresses or bastion remnants in small supply. Once found however, it can be planted and grown on soul sand anywhere in any dimension.
+
+Before creating a nether wart farm, it is important to prepare in advance. Make sure to choose the right location and materials before setting up.
+
+Nether wart does not need light to grow, but the farm should be built in a lit and enclosed area to prevent creepers from damaging growth. Additionally, putting the farm in a place where it will be often loaded will help the farm to continuously grow.
+Depending on the design of a nether wart farm, extra room may be required for the redstone. Make sure to know the size of the farm in advance so that the proper amount of space can be cleared in one go.
+
+Before making a nether wart farm, it is necessary to have one soul sand per nether wart which can be grown. At least one nether wart is also needed to begin producing. It is recommended to have more than one, however, to decrease the initial amount of time spent waiting for it to grow.
+The rest of the required materials depends on the design. The following are some common materials which may be required to build certain farms:
+
+Dispensers
+Water buckets
+Hopper
+Chests
+Redstone dust
+Redstone Repeaters
+Buttons
+Pistons
+Redstone Torches
+ Building Blocks
+
+Because nether wart must be planted manually and farmer villagers don't plant nether wart, fully automatic designs for nether wart farms are not possible. However, the collection system can still be automated, making semi-automatic farms possible.
+
+In this design, water flows to a central spot the nether wart is harvested with the press of a button, and flows to a central point for easy collection.
+
+Piston movement destroy the nether wart off to be easily picked up and replanted.
+In the following video this type of farm is shown, using a simple redstone circuit that triggers the piston to push the soul sand and then to reset the placement.

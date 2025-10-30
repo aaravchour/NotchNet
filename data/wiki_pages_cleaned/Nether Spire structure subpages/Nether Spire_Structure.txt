@@ -1,0 +1,1 @@
+Note: Some of the netherrack blocks on layers 032 disappear once the Nether reactor's spawn cycle ends.

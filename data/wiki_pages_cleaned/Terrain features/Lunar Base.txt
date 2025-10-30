@@ -1,0 +1,45 @@
+The ACME Self-Building Lunar Bases are joke features that can be found on the moon.
+
+Lunar bases generate in the moon biome. They have a 11024 chance to generate in a given chunk. 
+
+Lunar bases look similar to a moon rover at first, with a dropper renamed to "ACME Self-Building Lunar Base" at the center. Pressing the golden pressure plate located on the rover, however, will start building an enormous lunar base. Adding objects to the dropper does not seem to change construction, although having blocks above it will prevent it from starting to expand.
+
+The structure contains the following blocks:
+
+Dropper
+Iron Bars
+Iron Trapdoor
+Light Weighted Pressure Plate
+Smooth Quartz Slab
+Lightning Rod
+End Rod
+Chain
+Polished Basalt
+Lava
+Copper Spleaves
+Polished Blackstone Button
+Soul Lantern
+Block of Raw Copper
+Waxed Cut Copper Stairs
+Waxed Block of Copper
+Waxed Cut Copper
+Waxed Exposed Copper
+Waxed Exposed Cut Copper
+Waxed Weathered Copper
+Waxed Weathered Cut Copper
+Waxed Oxidized Copper
+Waxed Oxidized Cut Copper
+Chest
+Green Shulker Box
+Barrier
+Block Display
+The dropper that activates the structure building has a special tag 'Lunar', and can be obtained through the command setblock ~ ~ ~ dropper{Lunar:1b}, and can be activated by a light or heavy weighted pressure plate placed above it.
+
+Java Edition:
+
+Lunar bases are unsupported due to being an April Fools' joke, and therefore such issues relating to them will not be fixed.
+
+The "ACME" at the beginning of the lunar base's full name is likely a reference to the "Acme" threading put at the beginning of various' companies' names in the late 18th and early 19th centuries as a way of having said companies' names appear near the top of alphabetical lists, popularized as a generic company name by the fictional Acme Corporation of the Wile E. Coyote and the Road Runner cartoons.
+While stylized as an acronym in-game, the term "acme" comes from the Greek  (acm), meaning "peak", "zenith" or "prime", though backronyms such as "A Company Making Everything" and "An American Company that Manufactures Everything" are popular folk etymologies.
+
+Feature

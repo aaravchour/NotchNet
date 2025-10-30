@@ -1,0 +1,5 @@
+Note: Some blocks may be added, replaced or removed during the actual generation, see Ruined Portal#Generation for more info.
+To make the Nether version, replace iron bars with chains and stone blocks with blackstone variants (normal stone with polished blackstone). 
+
+Stone Brick Slabs on layer 15 take the upper part of their block space.
+Stone Brick Stairs on layer 16 face the second Block of Gold with their higher part.

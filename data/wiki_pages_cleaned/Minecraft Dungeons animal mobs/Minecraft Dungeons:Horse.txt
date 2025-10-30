@@ -1,0 +1,5 @@
+A horse is a non-attackable passive animal that can be found within the Lone Fortress of Minecraft Dungeons.
+
+Horses in Minecraft Dungeons utilize the old horse model before the Update Aquatic of the original game. While this is the case, they still utilize the textures subsequent to the Texture Update.
+
+Despite being mobs in game, horses cannot be interacted with in any way and they are not even able to move, hence they cannot be ridden unlike the horses from Minecraft.

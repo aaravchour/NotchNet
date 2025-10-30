@@ -1,0 +1,18 @@
+A first of oak spawner is a spawner that spawns the First of Oak within Minecraft Legends.
+
+
+== Obtaining ==
+
+
+== Usage ==
+The first of oak spawner spawns the First of Oak when a player interacts with it.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "First of Oak Spawner" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==

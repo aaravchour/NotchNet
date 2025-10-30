@@ -1,0 +1,78 @@
+Snow armor is an armor set that can be found within the creeping winter DLC of Minecraft Dungeons. Its unique variant is the frost armor.
+
+
+== Obtaining ==
+Missions
+Lone Fortress
+Lost Settlement
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Frostwarden
+
+
+== Usage ==
+
+
+=== Properties ===
++X health
++35% Damage Reduction
++50% Freezing Resistance
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Snow Armor" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+
+
+=== Others ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

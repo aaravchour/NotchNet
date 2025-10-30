@@ -1,0 +1,43 @@
+This guide seeks to teach the player on how to obtain an indestructible end crystal and inform you on their uses.
+
+
+== Obtaining ==
+There is only one known method to obtain indestructible end crystals. These are some items you will need:
+
+At least one piston.
+At least one redstone power source.
+Lots of convenience blocks.
+4 end crystals.
+At least one ender pearl.
+These are the steps you will need to follow. Some of the steps are split into Singleplayer and Multiplayer because the Singleplayer ability to log out and log back in is very helpful.
+
+Respawn the ender dragon.
+Disconnect the crystal.
+Singleplayer: As the towers with crystals are regenerating, but before the dragon spawns, log out and log back in.
+Multiplayer: Use an ender pearl to get to the first tower that regenerates. Use pistons to push the end crystal away from the obsidian tower. Beware that you only have about 15 seconds to push the crystal off the tower and far enough away so that the crystal remains indestructible.
+Kill the ender dragon that just spawned or blow up the crystals that are being used to respawn the dragon.
+Test the crystal by shooting an arrow at it. If the arrow bounces back, then it is indestructible. If it explodes, then respawn the dragon and try again. Do not attempt in Creative Mode because you will always destroy the crystal.
+Push it with pistons until it is at the desired location. If you push it through the return portal, it will appear in the Overworld at the world spawn point. Depending on the situation, this could take a while. Note that it does not travel through nether portals.
+This works because while the dragon is respawning, the newly-generated crystals are indestructible until the dragon respawns completely. Logging out and logging back in on Singleplayer stops the respawning sequence. The dragon will still spawn, but the remaining towers and crystals will not.
+Step 2 can be scrapped for a slime block flying machine that pushes the crystal off the tower.
+Note: This does not work in Bedrock Edition; if the player logs off and re-enters, the respawning process will continue as normal.
+
+
+== Uses ==
+An indestructible end crystal has many quirky properties that can be exploited.
+
+
+=== The beam ===
+An indestructible end crystal has a beam coming off it that leads to (0, 128, 0). This can be used for decoration, such as making the Star Wars Death Star's planet-destroying beam.
+
+
+=== The "indestructible" part ===
+This type of end crystal is called that because it cannot be destroyed (see below for more). This makes it ideal for inescapable traps. Simply trap the player in a room that is just big enough for the crystal and they cannot escape because the hitbox of the crystal covers the walls of the enclosure.
+
+
+=== Mobs can see through them ===
+This might not sound useful at first, but an easy music disc farm can be made this way. Skeletons try to shoot an iron golem through an indestructible end crystal, but the arrows bounce off and go downwards, hitting a creeper.
+
+
+== How to get rid of it ==
+Other than the obvious Creative mode punch and the /kill command, there is only one way to destroy an indestructible end crystal, that is use it to respawn the ender dragon. This requires the player to push the end crystal to a stronghold and push it into the End, then push it to the bedrock portal and use it alongside other crystals to respawn the dragon.

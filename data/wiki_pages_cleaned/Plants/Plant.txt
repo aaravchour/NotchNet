@@ -1,0 +1,56 @@
+Plants can be found in water or on land, and include structures and blocks such as flowers, trees and crops. Most are renewable, generally by growing.
+The following list plants and plant-like things in the game.
+
+Feature#Plant-like
+
+The following behave similarly to plants in Minecraft, but are based on, or styled after real-world organisms that are not plants by the biological definition.
+
+Kelp
+Kelp
+
+Coral
+Coral Block
+Coral Fan
+Sea Pickle
+Sponge
+
+Mooshroom
+Warden
+
+Blast Fungus (fungi)
+Corrupted Pumpkin
+Corrupted Seeds
+Enchanted Grass
+Wonderful Wheat
+Death Cap Mushroom (fungi)
+
+Apple
+Melon
+Sweet Berries
+Wheat
+
+Abomination Vine
+Blue Nethershroom (fungi)
+Jack o' Lantern Trap
+Jungle Abomination
+Leapleaf
+Mooshroom (fungi)
+Mooshroom Monstrosity (fungi)
+Poison Anemone (cnidarian)
+Poison-Quill Vine
+Quick Growing Anemone (cnidarian)
+Quick Growing Vine
+Thundering Growth
+Wavewhisperer (algae)
+Whisperer
+
+Buttercup
+Pink Daisy
+
+Cluckshroom (fungi)
+Moobloom
+Moolip
+
+Bush
+
+Some plants can generate in underground dirt patches.

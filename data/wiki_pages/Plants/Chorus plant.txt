@@ -1,0 +1,34 @@
+A chorus plant is a plant-like feature that generates in the highlands of the outer End islands.
+
+
+== Generation ==
+Chorus plants generate on the outer islands of the End, in End highlands. They are formed in tall, coral-like patterns. They are the only source of chorus fruit and chorus flowers. The player can grow a new chorus plant by planting such a flower on a block of end stone.
+
+
+== Construction ==
+Chorus plants consist of chorus plant blocks and chorus flowers. A chorus flower generates at the top of each branch. A branch stops growing when the chorus flower on the branch reaches age 5, but it can be harvested and replanted to reset the age. Plant heights range between 5 and 22 blocks, although most stop growing before they reach 16 blocks tall.
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+Hardcoded in the End generator. Not a feature.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Chorus plant" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+The smallest possible fully-grown chorus plant (assuming the growth is not obstructed) would have 5 chorus plant blocks.
+According to Jeb in the Ask Mojang midsummer special with Jeb, the chorus plant got its name from the soft sound it was supposed to make when it grew. He stated it was not supposed to actually sound like a chorus, but the idea of a forest of chorus plants created a choir together.
+
+
+== Gallery ==

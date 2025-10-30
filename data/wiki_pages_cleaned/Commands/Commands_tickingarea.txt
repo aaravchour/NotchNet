@@ -1,0 +1,58 @@
+Add, remove, or list ticking areas.
+
+Up to 10 ticking areas can be defined at one time.
+Ticking areas typically load after the world is launched, unless it is marked with "preload". Ticking areas that are marked as preload will be loaded before loading other chunks when launching the world. This could be a useful tool to load some things orderly.
+
+tickingarea add <from: x y z> <to: x y z> [name: string] [preload: Boolean]
+Adds a ticking area consisting of all chunks that overlap any part of the rectangle.
+tickingarea add circle <center: x y z> <radius: int> [name: string] [preload: Boolean]
+Adds a ticking area consisting of all chunks that overlap any part of the circle.
+tickingarea remove <name: string>
+Deletes the ticking area with that name is deleted.
+tickingarea remove <position: x y z>
+Deletes all ticking areas that include the point at those coordinates.
+tickingarea remove_all
+Deletes all currently defined ticking areas.
+tickingarea list [all-dimensions: AllDimensions]
+Displays the ticking areas in the current dimension. If the optional all-dimensions: AllDimensions argument is specified, the list includes all ticking areas currently defined.
+tickingarea preload <name: string> [preload: Boolean]
+Queries, marks or unmarks the specified ticking area as "preload" or not.
+tickingarea preload <position: x y z> [preload: Boolean]
+Queries, marks or unmarks the ticking areas that include the specified position as "preload".
+
+A Y coordinate is not actually needed to identify a chunk, because a chunk spans the entire vertical height of the world. Nevertheless, a Y coordinate must be entered where shown in the arguments below. It can have any value, but is always stored as 0.
+from: x y z: CommandPosition and to: x y z: CommandPosition
+
+Specifies the coordinates of opposite corners of a rectangular area used to define a loaded area.
+Must be a three-dimensional coordinates composed of <x>, <y> and <z>, each of which must be a floating-point number or tilde and caret notation.
+For x and z, numbers less than -30,000,000 or greater than 30,000,000 are treated as -30,000,000 or 30,000,000 respectively.
+center: x y z: CommandPosition
+
+Specifies the coordinates of the center point of a circular area used to define a ticking area.
+Must be a three-dimensional coordinates composed of <x>, <y> and <z>, each of which must be a floating-point number or tilde and caret notation.
+For x and z, numbers less than -30,000,000 or greater than 30,000,000 are treated as -30,000,000 or 30,000,000 respectively.
+radius: int: int
+
+Specifies the radius of a circular ticking area as the number of chunks from the center to the edge of the circle. It must be from 0 to 4.
+Must be a  32-bit integer number. It should be between 0 and 2,147,483,647 (inclusive).
+name: string: basic_string
+
+Specifies an optional name for a ticking area.
+Must be a string. And it must be a single word that has no space or a quoted string.
+preload: Boolean: enum
+
+If unspecified in preload mode, queries the current preload value.
+Must be a  boolean (either true or false).
+position: x y z: CommandPosition
+
+Specifies the coordinates of a point within the ticking area(s).
+Must be a three-dimensional coordinates composed of <x>, <y> and <z>, each of which must be a floating-point number or tilde and caret notation.
+all-dimensions: AllDimensions: enum
+
+Must be all-dimensions, specifies whether the ticking area in other dimensions should be listed.
+
+To define a rectangular ticking area covering the rectangle area from (280, 72, 105) to (328, 78, 130), enter either /tickingarea add 280 0 105 328 0 130 or /tickingarea add 280 0 130 328 0 105.
+To define a circular ticking area named "Homebase" centered on the chunk you're currently in and extending 2 chunks in every direction, enter /tickingarea add circle ~ ~ ~ 2 Homebase.
+To remove the ticking area named "world spawn", enter /tickingarea remove "world spawn".
+To remove all ticking areas that contain the block at coordinates (-200, 72, 1000), enter /tickingarea remove -200 72 1000.
+To list all ticking areas defined in all dimensions enter: /tickingarea list all-dimensions

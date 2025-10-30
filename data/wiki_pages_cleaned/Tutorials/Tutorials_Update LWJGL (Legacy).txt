@@ -1,0 +1,62 @@
+LWJGL is the LightWeight Java Game Library.  Essentially, it is what Minecraft uses for graphics, sound, and input. The Minecraft launcher automatically updates to the latest version of LWJGL.
+
+Updating will fix some input bugs where keys seem to get stuck if you click at the same time. It also removes the "ghost" mouse pointer clicking.
+Some users report a performance increase upon updating.
+This can also potentially fix some issues regarding sound not working/cutting out.
+It has been reported to fix intermittent crashes on Windows.
+It has also been known to resolve the "cannot get JAWT interface" error for Mac users using Java 7.
+Some Linux distributions, such as openSUSE, require LWJGL to be updated before Minecraft can even run. Trying to run Minecraft without updating LWJGL may create a black screen upon loading. If you cannot play Minecraft on your Linux distribution, chances are that this is the problem.
+
+Select the latest stable release and download the lwjgl-X.Y.Z.zip. You should also backup your .minecraft folder before following the steps below. As a last resort, you can use the Minecraft Launcher's Force Update option to reset the files.
+
+With 2.8.1, on most 64 bit computers, the lwjgl64.dll update will cause a black screen crash. You can revert to the backup version you have saved if needed.
+Again on several 64 bit computers, the OpenAL64.dll update can cause a sound glitch that makes bursting sounds. Keep a backup in case you need to rollback.
+Version 2.8.5 generally breaks shift-clicking; 2.8.4 and 2.9.0 do not. You can change the url in your browser to access 2.8.4 or 2.9.0 rather than 2.8.5.
+LWJGL 2.8.5 has a bug which sends a false signal that the user released all currently pressed keyboard keys when a mouse button is pressed. That means that your building will be significantly slower. Do not update to this version if this bothers you.
+This bug seems to be fixed when playing in fullscreen mode (Default F11), or updating to LWJGL 2.9.0.
+
+In the lwjgl-X.Y.Z.zip, there should be two folders, named jar and natives. You should replace the files in .minecraft/bin and .minecraft/bin/natives with the versions from the .zip.
+The .minecraft folder's location varies by operating system.
+
+You should replace these files in .minecraft/bin/
+
+Jinput.jar
+Lwjgl.jar
+Lwjgl_util.jar
+
+You should replace these files in .minecraft\bin\natives\
+
+jinput-dx8.dll
+jinput-dx8_64.dll
+jinput-raw.dll
+jinput-raw_64.dll
+lwjgl.dll
+lwjgl64.dll
+OpenAL32.dll
+OpenAL64.dll
+*This needs updating.  The current version of LWJGL (3.2 and higher) doesn't use the same natives set.
+
+You should replace these files in minecraft/bin/natives/ 
+
+libjinput-osx.jnilib
+liblwjgl.jnilib
+openal.dylib
+libopenal.dylib
+For this one, create a copy of openal.dylib, then rename it to libopenal.dylib
+
+You should replace these files in .minecraft/bin/natives/
+
+libjinput-linux.so
+libjinput-linux64.so
+liblwjgl.so
+liblwjgl64.so
+libopenal.so
+libopenal64.so
+Alternatively, a user may install the "liblwjgl-java" package and its dependencies via a package manager. On Debian-like systems (Ubuntu, Mint, etc.) a potential root-user command line would be:
+
+apt-get install liblwjgl-java
+
+All versions of LWJGL
+Video tutorial (GNU/Linux)
+Bash script to update LWJGL on GNU/Linux
+Multi platform LWJGL auto updater

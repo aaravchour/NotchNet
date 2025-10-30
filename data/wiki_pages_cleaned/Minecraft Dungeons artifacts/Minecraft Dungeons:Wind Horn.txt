@@ -1,0 +1,21 @@
+The wind horn is an artifact that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Cacti Canyon
+Pumpkin Pastures
+Arch Haven
+Overgrown Temple (DLC)
+Windswept Peaks (DLC)
+Nether Wastes (DLC)
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+The wind horn emits a circular blast, pushing back mobs a certain distance away, and slowing them down briefly. If a mob is too close to the hero, it will not be pushed back (but will still be slowed down). The wind horn can light up non-attackable mobs that aren't affected by it.
+
+X blocks pushed
+10 second cooldown
+
+Issues relating to "Wind Horn" are maintained on the bug tracker. Report issues there.

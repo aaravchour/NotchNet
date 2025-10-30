@@ -1,0 +1,51 @@
+A carrot is a food item obtained from carrot crops that can be used to plant them, eaten or used as a crafting ingredient.
+Carrot crops are planted in farmland and used to grow carrots.
+
+Fully grown carrot crops drop 2 to 5 carrots (3 57 per crop harvested on average). Yield can be increased using a tool enchanted with Fortune, with Fortune III harvesting an average of 5 37 carrots.
+The yield is calculated by a binomial distribution: 2 drops are fixed, then a drop is attempted three times with a success rate of 57.14286% to yield the extra 03 drops. Each level of Fortune enchantment increases the number of attempts by one.
+
+Village farm plots have a chance of having carrots. The exact chance depends on the style of the village:
+
+Zombies, husks, and zombie villagers have a 2.5% (140) chance of dropping either an iron ingot, carrot, or potato when killed by a player or tamed wolf. This is increased by 1% (1100) per level of looting. This gives carrots the following chances of dropping:
+
+1120 (about 0.83%)
+7600 (about 1.17%) with Looting I
+9600 (about 1.50%) with Looting II
+11600 (about 1.83%) with Looting III
+
+To eat a carrot, press and hold use while the carrot is selected in the hotbar. Eating a carrot restores 3 () hunger and 3.6 hunger saturation.
+
+Carrots can be farmed and harvested on farmland. Planted carrots take 8 stages to grow, and go through 4 visually distinct stages. Planted carrots require a light level of 9 or greater to continue growing. If the light level is 7 or below, the crops instantly un-plant themselves ("pop off"). It is not possible to plant carrots if the light level is too low.
+Crops grow faster if the farmland they are planted in is hydrated. Using bone meal on crops also increases the speed of growth by randomly increasing their growth stage by 2 to 5.
+Crops break if pushed by a piston or if their supporting farmland breaks or turns to dirt (i.e. by being trampled), dropping their usual drops.
+If /gamerule mobGriefing is true, rabbits will find mature carrot crops / carrot crops with growth stage greater than 1. This reduces the growth stages by one, removing the crop completely when the growth stage reaches 0.
+
+Carrots can also be used to breed and attract pigs and rabbits.
+Villagers can pick up carrot items to become willing, which allow them to breed. Villagers require 12 carrots to become willing.
+
+Novice-level Farmer villagers have a 25% (14) or 40% (25) chance to buy 22 carrots for an emerald.
+
+Placing a carrot into a composter has a 65% chance of raising the compost level by 1.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+The following content is transcluded from Technical blocks/Carrots.
+
+Java Edition
+12w34a - 14w21b: Carrots
+
+Issues relating to "Carrot" are maintained on the bug tracker. Report issues there.

@@ -1,0 +1,5 @@
+reserved6 is an unused former placeholder block, It used to look like Grey Concrete in old Minecraft PE versions                                                                                                  and was used to fix a glitch where Fire would spread on any block by replacing all of the Fire blocks in the world but eventually got resolved so they didn't need reserved6 anymore. This block is similar to info_update and also                                                                          similar to info_update2
+
+reserved6 cannot be obtained via /give or /setblock, and as such can only be obtained through inventory editors or other methods such as using behavior packs to change loot tables.
+
+reserved6 was created as a placeholder block to temporarily replace the empty Inventory slots, with corresponding damage values to the Inventory slot. This can be checked through inventory edit. It is also thought to be a placeholder for the fire.

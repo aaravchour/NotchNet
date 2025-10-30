@@ -1,0 +1,25 @@
+The baby crossbows is a unique dual crossbows variant that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Lower Temple (Adventure)
+Windswept Peaks (DLC)
+Abyssal Monument (Apocalypse, DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+?????
+
+X ranged damage
+Double Projectiles
+Arrows grow size (Growing tier I)
+
+Quiver: 46
+Fire Rate: 1.44 shots per second (2.88 projectiles per second)
+
+Issues relating to "Baby Crossbows" are maintained on the bug tracker. Report issues there.

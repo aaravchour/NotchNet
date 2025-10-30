@@ -1,0 +1,53 @@
+Charcoal is an item obtained by smelting logs or wood. It is used as fuel, or for crafting torches and campfires. Unlike coal, charcoal cannot be traded with villagers, nor can it be crafted into a block of coal. Coal and charcoal cannot stack together either. It can be used as a substitute for coal, as both charcoal and coal have an equivalent duration when smelted.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+A campfire broken without the Silk Touch enchantment drops 2 charcoal.
+
+
+=== Smelting ===
+
+
+=== Compound creation ===
+Charcoal can be created from its base elements, using the compound creator.‌
+
+
+== Usage ==
+
+
+=== Crafting ingredient ===
+
+
+=== Lab table ingredient ===
+Charcoal is one of the lab table ingredients needed to produce the heat block.‌
+
+
+=== Fuel ===
+When used in a furnace as a fuel, a piece of charcoal lasts 80 seconds (smelting up to 8 items), the same as coal. Charcoal used as fuel lasts more than 5 times longer than wood planks or wood logs used as fuel, being more efficient than any other use of wood for smelting in Java Edition, but outstripped by wooden slabs in Bedrock. 
+Coal and charcoal are also the only fuels accepted by furnace minecarts. They provide approximately four minutes of transit each.
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Achievements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Charcoal" are maintained on the bug tracker. Report issues there.
+
+
+== How it's renewable ==
+Charcoal comes from smelting log. Logs are renewable and charcoal can be used as fuel to smelt logs

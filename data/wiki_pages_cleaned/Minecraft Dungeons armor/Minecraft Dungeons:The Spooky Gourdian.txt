@@ -1,0 +1,21 @@
+The spooky gourdian is a  unique grim armor variant that could be found within the various spookier fall missions of Minecraft Dungeons.
+
+Missions
+Tower
+Events
+Spookier Fall (ended)
+Merchants
+Gift Wrapper
+
+The spooky gourdian functions identically to the wither armor.
+
+X health.
+35% damage reduction
++50% souls gathered
+6% life steal aura
+
+Issues relating to "The Spooky Gourdian" are maintained on the bug tracker. Report issues there.
+
+In the patch notes, the spooky gourdian is listed as the Soul Jack-O-Lantern armor set alongside the cackling broom and the phantom bow.
+Sometimes, its stats would change where it would sometimes get a weapon damage boost but in-game, it is a retexture of the wither armor.
+When worn, a trail of blue embers follow the hero behind, which could possibly be soul fire.

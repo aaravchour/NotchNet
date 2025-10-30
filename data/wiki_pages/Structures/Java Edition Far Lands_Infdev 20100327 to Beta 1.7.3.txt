@@ -1,0 +1,371 @@
+
+== Lоcation ==
+The initial Far Lands set occurs between 12,550,821 and 12,550,824 on the positive X and Z axes, and always -12,550,824 on the negative. Putting the numbers together, a standard Minecraft map in Bedrock Edition prior to 1.17.30 or Java Edition before Beta 1.8, is about 25,101,642 blocks wide along the X axes and 25,101,650 wide along the Z axes. For comparison, the equatorial circumference of the Earth is about 40,075,000 meters.
+
+
+== Structure ==
+
+Both areas of the Far Lands feature extremely strange terrain, although they are significantly different.
+In both zones, any area beneath sea level, excluding regular caves, are flooded with water. The Far Lands generate biomes, but most biomes are indistinguishable except by the color of grass. Desert biomes are covered in sand and snow-covered biomes are covered with snow, excluding the very top of the map due to the height build limit. Trees generate somewhat normally, but can be found only in the upper areas of the map due to the need for grass.
+Ores can be found up to their respective maximum heights just like in the normal world. Unfortunately, due to the flooding, everything except for coal can be extremely difficult to acquire. In the solid areas of the Far Lands, normal caves still generate but are limited and small. Along with the caves, dungeons (which are extremely rare) and lakes can be found in solid areas. Water and lava springs can be found out in the open and in caves.
+Much of the open space in both areas are shrouded in darkness and thus hostile mobs run rampant, making the Far Lands as a whole incredibly dangerous. This is especially problematic in the Corner Far Lands due to its layered structure. The flooded zones have an abundance of squid.
+
+
+=== Edge Far Lands ===
+The far lands edge boundary (that is, where it meets the regular map) looks like a solid wall, all the way to the top of the map (Y coordinate 127 in beta 1.8 and earlier) which is filled with gaping holes perpendicular to the edge. These holes are extremely long, perhaps "endless", and on the whole seem to change very little, however deep the player's adventures. They can be blocked, partially or completely, but these blockages are rare and temporary. This "Swiss Cheese Wall" pattern continues below ground level, to the bottom of the map, and appears to be partially caused by a large one-dimensional distortion in the output of the map generator. This area is sometimes called “the loop”. Early versions of the Far Lands also looked much more like randomly placed pixels interpolated solely with diagonal lines.
+The Edge Far Lands' average block composition: 36% stone, 25% air, 23% water, 10% dirt/grass block, 2% bedrock, and 4% others. (Based on a 14×14 chunk selection)
+
+
+=== Corner Far Lands ===
+At a corner, when two perpendicular Edge Far Lands sections meet, the Corner Far Lands begin to generate. Unlike the infinite-length holes in the Edge Far Lands, the Corner Far Lands contains more normal terrain. This terrain is "stacked" on top of itself to create a bizarre sandwich with layers of ground and air, which gives it its nickname, "The Stack". Each layer looks like a giant floating continent, hovering over the next layer, which is shadowed.
+The majority of the generated world is Corner Far Lands, as the "normal" map (before ±12,550,821 mark) makes only the center of the world, and the Edge Far Lands make only its continued sides.
+The number of layers is not always the same and varies between five and seven (fusing together and splitting every so often). Layers can be grouped into three categories:
+
+Top layer: This layer exists at the absolute top of the map. Occasionally there can be a lower area that is not shadowed (this is technically a dry layer). The lower area is where a majority of the trees and passive mobs can be found, as the top layer receives almost all of the sunlight. Due to the lack of space, the area at the absolute top cannot have trees or mobs.
+The top layer tends to light incorrectly in day-night transitions. This is because the sunlight calculation does not work when the entire chunk is blocked at Y-coordinate 128 in early versions.
+Dry layers: These generate slightly flatter than normal terrain and have grass, despite the darkness. At sea level, massive floating beaches can be found. Hostile mobs' spawn rate likely approaches the maximum due to being in the shadow of the top layer. Rarely, there are holes in the top layer that allow sunlight to reach these layers. Caves that have one of these layers as their "surface" can occasionally be carved out of dirt instead of stone. These layers have cave-like ceilings made out of stone, gravel and dirt.
+Flooded layers: Like the dry layers, these generate somewhat flat terrain, but it is comprised primarily of stone. Sand and sandstone appear down here, even down to 30 blocks below sea level. Except for coal, all the ores can be found only in these layers.
+Sometimes, there are extremely tall pillars of gravel that stretch from the ground to the ceiling of a layer. Likewise, some of the beaches that collapse create pillars of sand all the way down to the ground, despite there not being that much sand, to begin with. The Corner Far Lands is also prone to having near-perfect diagonal lines being carved into the ceilings or floors of layers. If traced, these lines all intersect at the corner (X/Z ±12,550,821). This seems similar to how the Edge Far Lands have a consistent pattern along lines perpendicular to their edge, but is much less pronounced.
+The Corner Far Lands' average block composition: 40% stone, 16% air, 28% water, 10% dirt/grass, 2% bedrock, and 4% others. (Based on a 14×14 chunk selection)
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== The Farther Lands ===
+
+The second set of Far Lands (henceforth called the "Farther Lands") generate when X/Z coordinates reach about ±1,004,065,811, which is about 80 times farther than where the first set initiates, at ±12,550,821 (this is due to the value corresponding to the "Main Noise Scale" value later found in Old Customized Worlds being 80 by default). The terrain is similar to the first set of Far Lands, but is more stretched out. They also have Edge and Corner types, which are described below. Sometimes you can see infinitely repeated patterns in the corner farther lands.
+The Edge Farther Lands which extend off of Corner Far Lands are notably distinct from Edge Farther Lands which extend from Edge Far Lands - the former can and will have infinite horizontal air gaps whereas the latter will not.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Effects ==
+
+
+=== Gameplay ===
+Players experience extreme frame-rate drops and very high CPU usage, which continue until Minecraft freezes completely. The frame-rate drops do not occur in multiplayer servers, though the server itself lags depending on the server computer's RAM. In both single-player and multiplayer, the intense lag that is characteristic of the Far Lands is caused by massive numbers of falling sand or gravel entities.
+Lightning bolts that hit surfaces at the top of the map (Y-coordinate 127) are invisible and do not cause a fire. The particles created when rain hits these surfaces are black instead of blue. Snow does not accumulate on these surfaces either (because there is no space) unless a top layer tunnel peeks out.
+
+
+=== Distance effects ===
+
+When travelling away from spawn, every time the distance is doubled from the center of the world, there is an issue with precision, where entities and block hitboxes (where the block should be) still match the shape of the world, but what we see (the blocks) don't. This effect can first be seen at 4096 blocks away from spawn if observed closely, even though it is far less noticeable than what is seen when the player is close to the Far Lands. Past 8,388,608 blocks, the offset is an entire block, which is the extent of the effect seen at the Far Lands.
+
+
+=== Intentional limits ===
+
+The above distance effects worsen as the player reaches X/Z: ±32,000,000, because after X/Z ±32,000,000 blocks, the terrain no longer generates, and only air blocks that have the same textures as the surrounding terrain generate.
+
+
+== Previous versions ==
+
+
+=== Infdev ===
+On the March 27, 2010 version of Infdev, terrain generation changed and the Far Lands began generating at X/Z ±12,550,820. The original shape of the Far Lands was different from Beta 1.7.3 and changed many times as the terrain generator changed. In this version, the Far Lands were more smooth and thick and had less rough edges. However, as the terrain became less thick over time, the Far Lands became more thin and sharp. Though the Far Lands existed in these versions, many of the side effects from before did not appear. However, fire particles and doors would act strangely.
+The Far Lands would continue until the intended world boundary of 32 million blocks.
+
+
+== Dimensions ==
+The Far Lands of the Nether and Sky Dimension share characteristics of the Overworld Far Lands, although with some differences.
+
+
+=== The Nether ===
+
+The Nether Far Lands are similar to the Overworld Far Lands, except generated with Nether terrain features, with a lava ocean at Y=31.
+In the Nether, the terrible lag associated with the Overworld Far Lands does not occur; most of the Nether is already dark enough for spawns in the first place, and there are fewer gravity-affected blocks (no sand, and gravel is rare).
+If a nether portal is created in the Far Lands of the Overworld, entering causes a teleportation to normal Nether, as X/Z 32,000,000, the limit at which block physics and lighting cease to function, divided by 8 (as 1 block in the nether corresponds to 8 blocks in the Overworld), is X/Z 4,000,000, within the limits of X/Z 12,550,820, where the distortion starts. Conversely, a nether portal built in the Nether Far Lands does not function, as even at the limit of 12,550,820 blocks at the beginning of the Far Lands, it would cause the player to come out at X/Z 100,406,560, far past X/Z 32,000,000. If a portal is entered beyond X/Z 4,000,000 in the Nether, it causes the game to crash. Entering a portal at exactly X/Z: 4,000,000 in the Nether teleports the player around 8-16 blocks from the 32,000,000 limit. 
+The Far Lands do not generate above the bedrock ceiling.
+The Nether can be a great way to reach the Far Lands in the Overworld, as every block in the Nether counts as 8 blocks in the Overworld. The player must travel to 1,568,853 or higher to spawn in the Far Lands. Teleporting just a few blocks less allows the player to see the beginning of the Far Lands.
+
+
+=== Sky Dimension ===
+
+The Sky Dimension similarly has no trademark liquid and generates no water/lava, and also no bedrock generates. They appear squashed similarly to those of the End.
+The Sky Dimension Far Lands appears just like the End Far Lands, but with Overworld features.
+This is also the area where the player is most likely to find diamonds. In any other area, the islands do not spawn low enough for diamonds to spawn. The Sky Dimension Far Lands do spawn all the way to Y: 0, so the player can find rare ores inside the Far Lands.
+
+
+== Cause ==
+
+The terrain is generated based on 16 octaves of Perlin noise, specifically those used for low noise and high noise. Each noise generator takes floating-point inputs and uses those to interpolate between noise values at whole numbers. It does so by:
+
+Casting to a 32-bit integer, where Java rounds toward zero and handles overflow by picking the closest representable value;
+Subtracting one if the integer is greater than the original input, to always round down;
+Subtracting that integer from the original input to get a remainder in the interval [0, 1) suitable for interpolation.
+It covers an interval of [−231, 231) without causing any problems. The problem is that many of the octaves cover a scale much smaller than a block, with up to 171.103 noise units per block. Indeed, 231 ≈ 171.103×12,550,824.053. Thus, the effects of the Far Lands start 12,550,824 blocks away from the center of the Minecraft world. Once this value is exceeded, the integer is always 231−1 (2,147,483,647), picking the same noise values on that axis every time. This is the reason for the long unchanging tunnels in the Edge Far Lands, and plains in the Corner Far Lands.
+The Farther Lands are caused by an overflow in selector noise, as opposed to the low and high noise that cause the initial set of Far Lands to generate; while selector noise does repeat more often than low and high noise, only half as many octaves are used, causing them to overflow much further out.
+At the positive end, the remainder starts out relatively small but usually much larger than 1, and grows by 171.103 per block. At the negative end, the remainder starts at −232. This value is then adjusted by ((6x−15)x+10)x3 for quintic interpolation. Even one block in at the positive end, this is already around 1011. The negative end starts all the way around −1049. For the Corner Far Lands, multiply the values of both edges. When interpolation (really extrapolation) is attempted with values as large as these, it produces similarly large output. That output completely dwarfs all other terms that would normally give the terrain its shape, instead effectively passing only the sign of this one noise function through.
+It was fixed by taking the remainder of the input divided by 224. Noise repeats every 28 units anyway, so it has no side effects. However, it does prevent the overflow. By removing these instructions, the Far Lands can be returned to current versions of the game.
+There are several other factors to the cause of the Far Lands, making things slightly more complicated:
+
+Noise is sampled only every four blocks and linearly interpolated in between. This is why when 12,550,824 is affected by the bug, it reaches out three more blocks to 12,550,821.
+Each noise generator picks a random offset in [0, 256) to add to its input. This usually moves the boundary under 12,550,824, starting the Far Lands at 12,550,821. With a few seeds, it might not, putting the start at 12,550,825. Very rarely, if the boundary is just barely within 12,550,824, the first couple blocks of the Far Lands might look somewhat normal. The southern and eastern Far Lands do this independently of one another. At the negative end, the Far Lands always start at block coordinate −12,550,825, with the positive edge of those blocks at −12,550,824.
+The two sets of noise generators (low noise and high noise) are blended together based on another noise generator (selector noise). This is responsible for relatively smooth alternation between two sets of tunnels or plains. Occasionally, one of the noise generators starts generating the Far Lands before the other because it uses a different offset, producing an incongruous boundary.
+A table of relevant values are as follows:
+
+While most of these values have can be ignored, it can indeed be seen that the low and high noise increment by 171.103 each block, or 684.412 each sampling at four blocks; dividing 2,147,483,648 by this will indeed result in the value 12550824 being returned. Similar results can be seen for selector noise and therefore Farther Lands, and using the maximum signed 64-but integer instead of 2,147,483,648 provides the Fartherer and Farthest Lands distances. (Depth noise far lands are dwarfed by low and high noise overflowing and are impossible to see unless depth noise is made to overflow beforehand.)
+
+
+== History ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+		
+			
+			
+		
+
+
+== Trivia ==
+There is a chance of walking into a "bad chunk" that has such corrupt and unreadable data that it causes huge lag spikes and possibly crash the game.
+Even though Beta 1.6 made it impossible to place solid blocks at layer 128, the Far Lands' flat "ceiling" still gets generated there.
+Because of the debates over renaming endermen to "Far Landers", Notch jokingly suggested to rename the Far Lands to The End instead. This then became the name for the dimension where the ender dragon resides.
+One of the random splashes reads: "Check out the far lands!". Ironically, the splash was added to the game after the Far Lands were fixed.
+In the fourth episode of Minecraft: Story Mode, Jesse and his/her group visit the Far Lands, in which a secret lab is located. The character Ivor describes the Far Lands as "a happy accident", and "nature's way of keeping life interesting". The bizarre terrain is featured and observed by the characters, although understandably, the glitches associated with it are not present.
+On July 8, 2015 RetroApo became the first player to reach the Far Lands through legitimate means, travelling through the Nether.
+On June 19, 2020, at 12:08:57 UTC, KilloCrazyMan became the first player to reach the Far Lands through legitimate means in vanilla Minecraft without going to the Nether after 9 months of beginning his journey.
+On January 20, 2021 Eckwall became the second player to reach the Far Lands through legitimate means.
+On June 13, 2021 Figonometry became the first player to reach the Corner Far Lands through legitimate means.
+A reference to the Far Lands is featured in the title for Steve's Classic Mode in Super Smash Bros. Ultimate, called "Journey to the Far Lands".
+
+
+== Gallery ==
+
+
+=== Game Features ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Generation ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Old versions ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+
+==== Minecraft: Story Mode ====
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Tutorials/Far Lands – How to get to the Far Lands and avoid lag.
+
+
+== References ==

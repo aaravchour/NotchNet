@@ -1,0 +1,19 @@
+This page documents the historical layouts of the Creative inventory in Java Edition prior to Java Edition 1.19.3, and pre-The Flattening in 17w47a; as well as in Bedrock Edition prior to the introduction of the recipe book in Bedrock Edition beta 1.2.0.2. In the case of Bedrock Edition, the introduction of the recipe book in the Better Together Update is the only significant major overhaul to the layout of the Creative inventory since the introduction of the tabbed categories on that edition, even to this current day.
+
+In 22w42a, the Creative inventory was overhauled completely on Java Edition with completely new tabs, and all blocks and items were shuffled around within, replacing the old Creative inventory layout from 1.19.2. These changes were implemented in 1.19.3.
+Below is the Creative inventory in Java Edition in 1.19.2, immediately prior to the Creative inventory overhaul:
+
+Prior to The Flattening, the order of blocks and items in the Creative inventory on Java Edition was fixed directly based on numerical block and item IDs. This meant that the layout and order of items in the Creative inventory remained fixed since the introduction of the tabbed categories for blocks and items in Creative in 1.3.1 in 12w21b. After The Flattening in 17w47a, the layout of blocks and items could be shuffled around, meaning the arrangement of items in the Creative inventory could be, and was changed, after 17w47a.
+Below is the Creative inventory in Java Edition 1.12.2:
+
+Before the addition of Saved Toolbars in Java Edition 17w06a, Materials were a separate tab from the Miscellaneous tab in the Creative inventory. This section below describes the layout of the Miscellaneous Tab and Materials Tab prior to the merger of the two tabs.
+
+The introduction of the Better Together Update's Bedrock Edition, and the addition of the recipe book in Bedrock Edition 1.2.0, was the only major significant overhaul to the Creative inventory on Bedrock Edition. From the introduction of the tabbed categories for blocks and items in Pocket Edition Alpha 0.8.0, the layout of the Creative inventory remained identical up until Pocket Edition 1.1.5 and Pocket Edition 1.1.7, with only a few changes and no major sweeping changes up until that point. This remains the only major overhaul to the Creative inventory on Bedrock Edition even to this day.
+Below is the Creative inventory in Pocket Edition 1.1.5/1.1.7:
+
+The Legacy Console Edition has never had any major sweeping changes to its Creative inventory. All historical changes to the Creative inventory on Legacy Console can be, and are described in full, here. As the whole edition of the game was discontinued in late 2019, the Creative inventory for this edition is found here.
+
+The tabs of the Creative inventory on the New Nintendo 3DS Edition had remained identical since its intital release. As the New Nintendo 3DS Edition of the game was discontinued in 2019, the Creative inventory for this edition can be found here.
+
+Inventory/Creative inventory changes
+Inventory#Creative inventory

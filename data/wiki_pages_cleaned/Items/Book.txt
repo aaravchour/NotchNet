@@ -1,0 +1,29 @@
+Books are items used in enchanting and crafting.
+
+Three books are dropped when a bookshelf is mined without Silk Touch or destroyed by an explosion.
+
+Disenchanting an enchanted book at a grindstone yields a normal book and a small amount of experience.
+
+in Java Edition, librarian villagers throw books at players under the Hero of the Village effect.
+
+Using the chiseled bookshelf while having a book in the main hand will put the book inside the chiseled bookshelf.
+
+Books can be made into enchanted books by enchanting them on enchanting tables.
+
+Librarian villagers can buy a single book as part of an enchanted book trade.
+Apprentice-level Librarian villagers have a 23 chance to buy 4 books for an emerald in Java Edition, and always offer the trade in Bedrock Edition.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Book" are maintained on the bug tracker. Report issues there.
+
+Enchanted Book
+Knowledge Book
+
+The paper comes from sugar canes, which is renewable because it grows and the leather from killing cows, renewable because cows breed

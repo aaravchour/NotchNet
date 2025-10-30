@@ -1,0 +1,29 @@
+The highland axe is a unique axe variant that can be found within the various missions of Minecraft Dungeons.
+
+The highland axe appears to be half of the whirlwind double axe, but with its blade facing upward.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Creeper Woods
+Highblock Halls
+Overgrown Temple (DLC)
+Colossal Rampart (Adventure, DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+The Seeking Flame
+
+The highland axe possesses moderate power, low speed, and moderate area. It has a combo consisting of two slashes and one stronger spin attack. The first two hits deal the weapon's minimum damage, and the third hit deals the weapon's maximum damage.
+
+X melee damage
+Spin attack
+Stuns mobs (Stunning tier I)
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+Issues relating to "Highland Axe" are maintained on the bug tracker. Report issues there.

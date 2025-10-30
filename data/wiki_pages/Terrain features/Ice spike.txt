@@ -1,0 +1,24 @@
+Ice spikes are common features made of packed ice. Ice spikes only generate in the ice spikes biome.
+
+
+== Generation ==
+Ice spikes are tall spires comprised of packed ice that can be found only in the Ice Spikes variant of snowy plains biomes. They are randomly generated beginning at ground level and tower upward.
+
+
+== Construction ==
+There are two types of ice spikes: one is short and thick, and the other is tall and thin. The short spikes generate more often than the tall spikes. Short spikes are about 15 blocks tall, while tall spikes can be over 50 blocks tall.
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Gallery ==

@@ -1,0 +1,9 @@
+A very fine item was a joke item from Java Edition 20w14, found only in the isolation dimension.
+
+The texture of a very fine item resembles the side face of a grass block with the words "Home Sweet Home" written on it. Unlike most items, its texture is 64x64 pixels, rather than the usual 16x16.
+
+A very fine item can only be obtained from an item frame in the isolation dimension. There is a maximum of 1 fine item that can be found legitimately in any world.
+
+This item can't be found in the creative inventory, but it can be middle-click duplicated in creative mode or given with the give <target> minecraft:fine_item <amount> command.
+
+This item cannot be placed or used in any way other than a trophy. It can still be inserted and/or rotated inside of an item frame.

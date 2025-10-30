@@ -1,0 +1,12 @@
+Used to enable encryption for WebSocket connections, allowing only the WebSocket side connected by the player to execute. The player cannot execute the command directly in the game.
+If the player has the encrypted WebSocket option turned on, the connected WebSocket server must execute this command.
+This command is optional when the encrypted WebSocket option is not enabled.
+
+enableencryption <Public Key> <Salt value>
+
+Public Key
+
+Specifies the public key to be used for WebSocket connections.
+Salt value
+
+Used for interference.

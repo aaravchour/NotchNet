@@ -1,0 +1,25 @@
+The Obsidian Monstrosity is a static redstone monstrosity variant that can be found only sometimes atop the Obsidian Pinnacle of Minecraft Dungeons. In the Arcade edition, the obsidian monstrosity, rather than the Arch-Illager, is the boss of the obsidian pinnacle mission.
+
+The obsidian monstrosity is a colossal, mechanical golem found atop the Obsidian Pinnacle. It is significantly larger than the redstone monstrosity. Blocks similar to crying obsidian are seen around its body. Its body also possesses more cracks unlike its redstone counterpart, and bears golden outlines and intricate square designs and layouts on its feet and its front body, it also possesses four eyes and three fingers resembling the block that powers it. In the standard game, it lacks a right arm, and it doesn't appear active since none of its parts are glowing. There are also ladders all around the monstrosity, indicating it is still under construction or under repair.
+
+Obsidian Pinnacle (Arcade Boss)
+
+Like the Redstone Monstrosity, the obsidian monstrosity moves slowly toward the hero. It has six known behaviors.
+
+Awaken
+Upon first approaching, the Arch-Illager uses the orb to awaken the obsidian monstrosity, causing it to look up and roar at the heroes.
+
+Slam attack
+The obsidian monstrosity slams its arm on the ground in a similar fashion to the redstone monstrosity, creating a shockwave. It does this multiple times when any heroes or pets are near it.
+
+Super attack
+The obsidian monstrosity summons multiple purple mines on its arena, which explode after a few seconds.
+
+Spit
+The obsidian monstrosity leans back and shoots out three purple projectiles from its mouth in a similar fashion to the redstone monstrosity, which explode on impact.
+
+Summon circle
+The Arch-Illager in the top middle of the arena can occasionally summon an assortment of vindicators to aid the obsidian monstrosity, usually a circle of ten to twenty vindicators around the hero.
+
+Death
+Upon being defeated, the obsidian monstrosity tumbles down to the ground, and its head and arms break off on impact.

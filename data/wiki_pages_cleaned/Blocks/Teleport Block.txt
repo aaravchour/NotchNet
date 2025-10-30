@@ -1,0 +1,3 @@
+Teleport block is a block used to teleport.
+
+Teleport blocks teleport the player to the location that the player set in the world.

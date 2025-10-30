@@ -1,0 +1,26 @@
+A cog crossbow is a ranged weapon that can be found within the flames of the nether DLC of Minecraft Dungeons. Its unique variant is the pride of the piglins
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Basalt Deltas
+Nether Fortress (Adventure)
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Unstoppable Tusk
+
+Holding down the fire button when using a cog crossbow rapidly fires between one and five arrows, known as a wind-up attack, after this it will fire normally at a slow speed.
+
+X ranged damage
+Wind-up attack
+
+Quiver: 40
+Fire Rate: 5 shots per second (while wound; otherwise 1 per second)
+
+Issues relating to "Cog Crossbow" are maintained on the bug tracker. Report issues there.

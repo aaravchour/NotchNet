@@ -1,0 +1,25 @@
+Dead bushes are transparent blocks in the form of an aesthetic plant.
+
+Dead bushes drop 02 sticks when broken without shears, or when the block below it is removed. When shears are used, a dead bush drops itself.
+
+Dead bushes generate on sand, red sand, podzol, dirt, coarse dirt and terracotta in deserts, badlands, and old growth taigas.
+Dead bushes generate twice as commonly in desert biomes as they do in old growth taigas, and 10 times more often in badlands than they do in deserts (ratio of 1:2:20  taiga:desert:badlands). Dead bushes can also generate in swamp biomes.
+Dead bushes can be found as a block and inside flower pots in some desert village houses.
+
+Dead bushes can be used for aesthetic decoration, as a source of sticks and a fuel source. They can be placed on any kind of sand, terracotta, dirt, podzol and mud; they can also be placed on grass blocks, mycelium, and moss blocks. They can also be planted in flower pots. Dead bushes do not spread, and cannot be grown using bone meal.
+Unlike most plants, dead bushes cannot be composted.
+
+Dead bushes can be used as fuel, smelting one item per dead bush.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Dead bushes dropping sticks is based on a suggestion by Reddit user pedroff_1.
+Other than spore blossoms, dead bushes are the only plant-like blocks that are non-renewable.
+
+Taking Inventory: Dead Bush  Minecraft.net on January 25, 2019

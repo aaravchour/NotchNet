@@ -1,0 +1,66 @@
+Champion's armor is an armor set that can be found within the various missions of Minecraft Dungeons. Its unique variant is the hero's armor.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty, the item is obtainable on unless stated otherwise.
+A  before a mission name indicates that the item is only obtainable in Daily Trials of that mission.
+
+Arch Haven (Apocalypse)
+Cacti Canyon (Apocalypse)
+Lone Fortress (Apocalypse, DLC)
+ Abyssal Monument  (DLC)
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Ancient Terror
+
+
+== Usage ==
+
+
+=== Properties ===
++X health
+35% damage reduction
+Mobs target you more
+-40% potion cooldown
+
+
+=== Stats ===
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Champion's Armor" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+The Champion's Armor has the same sprite icon used on the mission select map as its unique variant and looks more like that, the Hero's Armor.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===

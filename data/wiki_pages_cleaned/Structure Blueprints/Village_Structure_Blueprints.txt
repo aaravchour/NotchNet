@@ -1,0 +1,14 @@
+The blueprints for the official 1.14+ village buildings.
+
+Jigsaw blocks are not included.
+
+Hay bales can spawn as clusters of around 8 blocks in multiple locations.
+Mossy cobblestone sporadically replaces cobblestone when naturally generated, with abandoned villages having an increased likelihood of it happening.
+
+These structures also generate in the snowy taiga village variant, and are topped with snow layers wherever there is sky access.
+
+Each farm spawns as one of four types of crops, chosen between wheat, beetroot, carrot, or potato. In Java Edition the crops that generate on a village farm spawn as seeds, while in Bedrock Edition they spawn as full-grown crops.
+
+In abandoned villages, cobwebs sporadically replace any block besides chests, bells, crafting tables, carpets, water, and lava source blocks; doors and torches are destroyed; and all non-stained glass panes are turned into their respective brown stained variant. All villagers that spawn in the village will instead spawn as zombie villagers. Animals and livestock spawn like normal villages. Cobblestone also has a higher chance of turning into mossy cobblestone than normal villages.
+
+Old designs from pre-1.14 villages are documented on Village/Structure (old)/Blueprints.

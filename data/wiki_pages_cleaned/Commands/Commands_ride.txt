@@ -1,0 +1,81 @@
+Allows entities to mount or dismount other entities.
+
+In Java Edition, all types of entities (except marker and player) can ride and be ridden by other entities of any types. Marker and player cannot be ridden.
+In Bedrock Edition, an entity cannot ride entities which are not normally rideable for it in vanilla game, which is mainly data driven, controlled by the minecraft:rideable component in the entity files in behavior packs (see Riding#Valid riding combinations in vanilla for details; see also the official doc). In Bedrock Edition, this command can also be used to summon passengers and mounts.
+
+Java Edition
+ride <target> mount <vehicle>
+Makes <target> ride on <vehicle>.
+ride <target> dismount
+Dismounts target from any vehicle it is riding.
+Bedrock Edition
+ride <riders: target> start_riding <ride: target> [teleportRules: TeleportRules] [howToFill: FillType]
+Tries to make <riders: target> ride on <ride: target>.
+ride <riders: target> stop_riding
+Makes <riders: target> dismount.
+ride <rides: target> evict_riders
+Makes entities that are riding on <rides: target> dismount.
+ride <rides: target> summon_rider <entityType: EntityType> [spawnEvent: string] [nameTag: string]
+Summons an entity at the position of each of <rides: target> that are rideable and not full, and then tries to make them ride on <rides: target>.
+ride <riders: target> summon_ride <entityType: EntityType> [rideRules: RideRules] [spawnEvent: string] [nameTag: string]
+Summons an entity at the position of each of <riders: target>, and then tries to make <riders: target> ride on them.
+
+JE: <target>: entity
+
+Specifies the passenger.
+Must be a player name, a target selector or a UUID.  And the target selector must be in single type.
+JE: <vehicle>: entity
+
+Specifies the mount.
+Must be a player name, a target selector or a UUID.  And the target selector must be in single type.
+BE: riders: target: CommandSelector<Actor>
+
+Specifies the passengers.
+If in start_riding mode, should be only one entity if teleportRules: TeleportRules is teleport_ride.
+Must be a player name or a target selector.
+BE: ride: target: CommandSelector<Actor>
+
+Specifies an mount.
+Should be only one entity.
+Must be a player name or a target selector.
+BE: rides: target: CommandSelector<Actor>
+
+Specifies the mounts.
+Must be a player name or a target selector.
+BE: teleportRules: TeleportRules: enum
+
+Must be one of teleport_ride and teleport_rider.
+Specified which entities are teleported. If unspecified, defaults to teleport_rider.
+BE: howToFill: FillType: enum
+
+Must be one of if_group_fits and until_full.
+If if_group_fits, checks whether all riders: target can ride on ride: target at the same time, and makes them ride only if true.
+If until_full or unspecified, makes them ride up one by one until it's full.
+BE: entityType: EntityType: enum
+
+Specifies the entities to be summoned.
+This argument type is not registered in game.
+BE: spawnEvent: string: basic_string
+
+Specifies the entity event for the to-be-summoned entities. Should be a spawn event (event name for entities in behavior pack).
+Must be a string. And it must be a single word that has no space or a quoted string.
+BE: nameTag: string: basic_string
+
+Specifies the name of the to-be-summoned entities.
+Must be a string. And it must be a single word that has no space or a quoted string.
+BE: rideRules: RideRules: enum
+
+Must be one of no_ride_change, reassign_rides, and skip_riders.
+If skip_riders, summons entities only for <riders: target> that are not riding on another entity.
+If no_ride_change, summons entities only for <riders: target> that are not riding on and not ridden by other entity(s).
+If reassign_rides or unspecified, makes <riders: target> dismount if they're riding, then summons entities for all of them.
+
+In Java Edition, make the nearest player ride on an nearest arrow:
+
+/ride @p mount @e[type=arrow,sort=nearest,limit=1]
+In Bedrock Edition, summon an arrow at the position of each player who have "A" tag:
+
+/ride @a[tag=A] summon_ride arrow
+In Bedrock Edition, summon a charged creeper at the position of each player who have "A" tag:
+
+/ride @a[tag=A] summon_ride creeper reassign_rides minecraft:become_charged

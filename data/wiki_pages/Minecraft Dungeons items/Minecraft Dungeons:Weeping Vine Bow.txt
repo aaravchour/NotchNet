@@ -1,0 +1,64 @@
+The weeping vine bow is a unique twisting vine bow variant that can be found within the flames of the nether DLC of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Nether Wastes (Adventure)
+Warped Forest
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+The Unending
+
+
+== Usage ==
+
+
+=== Properties ===
+X ranged damage
+Poison trail
+Charged arrows after roll (Roll Charge tier I)
+
+
+=== Stats ===
+Charge Multiplier: 2.5
+Quiver: 20
+Fire Rate: 2.2 shots per second (uncharged)
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Weeping Vine Bow" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+
+
+=== Others ===

@@ -1,0 +1,24 @@
+Tests whether a certain block is in a specific location.
+
+testforblock <position: x y z> <tileName: Block> [blockStates: block states]
+
+position: x y z : CommandPosition
+
+Specifies the coordinates of the block to test.
+Must be a three-dimensional coordinates composed of <x>, <y> and <z>, each of which must be a floating-point number or tilde and caret notation.
+tileName: Block: enum
+
+Specifies the block to test for.
+Must be a block id.
+blockStates: block states: BlockStateCommandParam
+
+Specifies the block states to match when testfor.
+Must be a blockstate argument as ["<state1>":<value1>,"<state2>":<value2>,...]. For example: ["old_leaf_type":"birch","persistent_bit":true].
+
+To test if the block at (0,64,0) is white wool:
+testforblock 0 64 0 wool
+testforblock 0 64 0 white_wool
+To test if the block at (0,64,0) is stone:
+testforblock 0 64 0 stone []
+To test if the block below is a jukebox:
+testforblock ~ ~-1 ~ jukebox

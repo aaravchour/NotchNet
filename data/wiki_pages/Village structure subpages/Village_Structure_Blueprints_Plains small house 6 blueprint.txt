@@ -1,0 +1,7 @@
+
+==== Blueprint ====
+
+This structure resembles the old "Farm Shack" seen in pre-1.14 villages, with multiple changes, such as the gable roof, 2 flowers and a bed. Additionally, the floor is made of cobblestone instead of dirt, and the location of the door has been moved.
+
+
+==== Materials ====

@@ -1,0 +1,310 @@
+Pillagers are hostile mobs armed with crossbows found in wandering patrols, in pillager outposts, or as participants in raid events. They attack by firing arrows at the player.
+
+
+== Spawning ==
+In Java Edition, a pillager spawned by a player using a spawn egg or commands can be a captain which has an ominous banner sticking out of its head.
+
+
+=== Patrols ===
+In Java Edition, the number of pillagers spawning in each patrol varies from one to five and depends on the regional difficulty, with one spawning as a patrol captain. Patrols occur after 51⁄2 in-game days, any time and independently of structures, which means they still spawn in worlds without generated structures. A patrol spawns 24 to 48 blocks away from a random player, on the highest solid block. The individual pillagers of a patrol can spawn only at block light level less than 9, regardless of sky light.
+In Bedrock Edition, each patrol spawns two to five pillagers. One of these pillagers is a patrol captain. After 51⁄2 in-game days, patrols appear 24 to 48 blocks away from the player, at a light level of 7 and below on Easy or any light level on Normal and Hard difficulty.
+
+
+=== Outposts ===
+Pillagers continually spawn in a 72×54×72 block volume centered on the top floor in a pillager outpost. Some pillagers spawn as outpost captains. They may spawn on any valid opaque block if the block light level is less than or equal to 8. 
+In Java Edition, there can be unlimited pillagers that spawn in outposts naturally, limited only by the natural spawning rules.
+In Bedrock Edition, pillagers continually spawn at or below a particular location in the outpost, choosing the highest opaque block with a non-solid block on top and spawning on the northwest corner. A maximum of eight pillagers spawn naturally in an outpost.
+
+
+=== Raids ===
+In a raid, pillagers are more common in the earlier waves and decrease in number as the waves progress. Despite this, they still constitute the majority of raiders in total. 
+One pillager spawns riding a ravager in the fifth wave. 
+In Bedrock Edition, one of the ravagers is ridden by a pillager instead of a vindicator on the seventh wave.
+In Java Edition, pillagers spawn during bonus waves and have the largest chance of being the raid captain in the first wave, but in the second wave and onwards, vindicators have a greater chance than pillagers of being the raid captain.
+
+
+== Drops ==
+A pillager drops upon death:
+
+In Bedrock Edition, pillagers drop 0 - 2 arrows. Each level of the Looting enchantment increases the maximum number of arrows dropped for up to five.
+There is a 8.5% chance to drop a crossbow when killed by the player or a tamed wolf. The crossbow may be loaded or unloaded depending on the crossbow's state when the pillager dies. The drop chance increases by 1% per level of Looting. The crossbow is of a random durability and has a chance of being enchanted. The chance ranges from 0% to 10% depending on the regional difficulty. The enchantment level is from 5 to 19.
+5 experience points and an additional 1–3 points per naturally-spawned equipment when killed by the player or a tamed wolf.
+Its  illager ominous banner if spawned as a captain.
+1Ominous Bottle which gives Bad Omen I-V if spawned as a captain.
+In Bedrock Edition, pillagers that were spawned by raids have a 6% chance on easy and normal or 80% chance on hard difficulties to drop these:
+
+0–1 Emerald (10⁄39 or 25.6%)
+2–3 Emerald (5⁄39 or 12.8%)
+4–5 Emerald (2⁄39 or 5.1%)
+1 Enchanted Book (2⁄39 or 5.1%)
+1 Iron Pickaxe (5⁄78 or 6.4%)
+1 Iron Axe (5⁄78 or 6.4%)
+1 Iron Shovel (5⁄78 or 6.4%)
+1 Iron Sword (5⁄78 or 6.4%)
+1 Iron Helmet (5⁄78 or 6.4%)
+1 Iron Chestplate (5⁄78 or 6.4%)
+1 Iron Leggings (5⁄78 or 6.4%)
+1 Iron Boots (5⁄78 or 6.4%)
+The iron equipment drops have a 50% chance to be enchanted at level 5 to 19. Said equipment may also have enchantment combinations that cannot be normally obtained, such as Blast Protection and Fire Protection on the same pair of boots.
+Iron equipment drops are always of 30 to 90% item durability.
+These drops are affected by the Looting enchantment.
+Enchanted books have level 30 enchantments, which can also be treasure enchantments.
+
+
+== Appearance ==
+Unlike villagers, pillagers have gray skin and thick bushy eyebrows. They have dark green eyes and wear reddish-brown clothes, dark green jeans and brown boots.
+
+
+== Behavior ==
+Pillagers are hostile toward players, iron golems, wandering traders and adult villagers. Pillagers also aid other pillagers attacked by other mobs. In Bedrock Edition, a pillager that accidentally harms a vindicator or evoker causes it to retaliate and attack the pillager. In Java Edition, pillagers do not retaliate on vindicators or evokers that attack them.
+
+When a player is in Creative mode or applied with the Invisibility effect, getting near a pillager still causes it to take notice and stare at the player. If a pillager notices an enemy while staring at the player, the pillager stops staring and attacks the enemy. If a player with the invisibility effect attacks a pillager, the pillager still retaliates.
+A pillager attacks by shooting arrows from its crossbows every three seconds from up to eight blocks away and pursues enemies for up to 64 blocks in Java Edition or 16 blocks in Bedrock Edition.
+Pillagers move slowly when wandering or loading crossbows in Java Edition. In Bedrock Edition, pillagers move from one place to another as fast as when they're provoked, although they stop and look around, pointing their crossbows along. Pillagers point their crossbows at any player or mob they are looking at, whether their crossbows are loaded or unloaded.
+
+The patrol captain wears an ominous banner, known as the illager banner in Bedrock and Education Editions, on its head. The other illagers follow the captain around. The pillagers that are part of a patrol do not attack immediately. The patrol members' heads turn to follow the player or mob who attracted their attention. If the player or villager-like mob attacks or approaches within ten blocks of the patrol members, then this provokes them into loading their crossbows and attacking.
+If raiding pillagers kill all the villagers in a village, they celebrate their victory by jumping and laughing. Unarmed pillagers also cheer. In Bedrock Edition, pillagers wave their arms while holding their crossbows in their main hand when cheering.
+Pillagers can take and equip illager banners within 3 blocks, but non-raider pillagers do not search for ominous banners.
+In Java Edition, if a pillager gets attacked by a mob (excluding illagers and goats) or player, it will alert other pillagers to target the attacker unless the pillager was killed in one hit.
+
+
+=== Crossbow usage ===
+
+
+==== Java Edition ====
+Pillagers can also use crossbows in their off-hand. When a pillager finds a target, the pillager chases the target, then locks the target in its attack range and loads its crossbow.
+Pillagers with their crossbows loaded can attack at any blocks away if the target is out of their attack range.
+Pillagers, unlike evokers or vindicators, attack on sight, not regarding distance, although attacking a pillager, vindicator or evoker far away causes the attacked illager and the same type of illagers around the attacked illager to attack the player regardless of distance. 
+The command /summon pillager ~ ~ ~ {} summons a passive pillager that does not attack.
+A pillager's crossbow eventually breaks with repeated use, unlike weapons wielded by other mobs. Unarmed pillagers are passive toward the player, iron golems and villagers, but they still frighten villagers and iron golems are still hostile toward them. This also includes pillagers that don't have a crossbow, which means any pillagers with a sword or any weapon other than a crossbow are still passive. An unarmed pillager always faces any player in its field of view or any mob that attacks it.
+A pillager spawned with arrows or firework rockets in its off-hand slot will use them, depleting the stack over time and switching to regular arrows once running out of ammo. When firing firework rockets, pillagers will aim above the target as when using arrows, despite rockets being unaffected by gravity.
+If a pillager's arrow hits a neutral or hostile mob by accident, the mob attacks the pillager.
+
+
+==== Bedrock Edition ====
+Pillagers cannot use their crossbows in their off-hand, as mobs cannot use weapons in their off-hand, just like players.
+
+Pillagers use an outdated behavior. They also have different arm textures. Pillagers load their crossbows upon spawning or if their crossbows are unloaded. When a pillager finds a target, it loads its crossbow first, chases the target and attacks upon in range. Pillagers are not hostile to players before their crossbows are loaded, so sometimes they don't look at players or run around while loading their crossbows. 
+A dispenser can equip a pillager with armor. However, an armor item isn't rendered on pillagers.
+If a player summons a pillager without a crossbow by spawn event command, it still shoots arrows to attack targets, like other arrow-shooting ranged mobs. This is due to the fact that in the pillager.json and ranged piglin.json files, the component_groups have both minecraft:behavior.ranged_attack and minecraft:behavior.charge_held_item, so if a pillager does not have a crossbow, the charge_held_item behavior cannot trigger and it continuously shoots arrows due to the ranged_attack behavior.
+Unlike in Java Edition, the crossbows of pillagers in Bedrock Edition don't break.
+Pillagers use a melee attack while underwater, unlike pillagers in Java Edition that maintain using crossbows underwater, although the shot arrows travel slower underwater and sink after a short distance.
+
+
+== Bad Omen ==
+A player receives the Bad Omen status effect by drinking an Ominous Potion. The effect lasts for 100 minutes (five in-game days) and can be removed by drinking milk. When a player afflicted with Bad Omen enters a village, a raid commences in that village, bringing about waves of illagers that seek and try to kill all villagers.
+Each patrol spawns one pillager captain. While outposts can continually spawn pillager captains, each captain inflicts the player who killed it with one level of Bad Omen upon death. 
+Raid captains do not inflict Bad Omen when defeated in a raid. 
+In Java Edition, killing multiple captains in succession raises the Bad Omen level to a maximum of V, increasing the chance of pillagers and vindicators in the resulting raid wielding enchanted weapons. As long as the Bad Omen level is higher than I, the resulting raid includes an additional wave with a raider composition identical to that of the last wave.
+
+
+== Sounds ==
+Java Edition:
+Pillagers use the Hostile Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Pillagers have entity data associated with them that contains various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== History ==
+
+{{History||1.21||Pillager Raid Captains now drop an ominous bottle and do not inflict Bad Omen effect upon death.
+
+
+== Issues ==
+Issues relating to "Pillager" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Alongside crossbows, pillagers were taken from Minecraft Dungeons, even though they were added to the base game first.
+Pillagers were added in Village & Pillage as a means to give villagers a "true" adversary in order to balance the new village mechanics.
+An original design of the pillager appeared like a pirate wearing an orange vest. However, Mojang Studios' mob designers changed the mob's design to look more like brigandine armor.
+In Bedrock Edition, a running pillager uses the player's running animation rather than that of other illagers.
+Summoning an unarmed pillager in Java Edition that is invulnerable (/summon pillager ~ ~ ~ {Invulnerable:1b}) does not cause villagers to run away from the pillager.
+Typing /summon pillager ~ ~ ~ minecraft:calm in Bedrock Edition cause the summoned pillager to not attack players.
+A pillager has a 1⁄16,000 chance of dropping a crossbow enchanted with two Piercing I enchantments, a 1⁄409,000 chance of dropping one with Piercing I and Multishot and a 1⁄3,500,000 chance of dropping one with Piercing I, Multishot, Unbreaking III and Quick Charge I. These probabilities were calculated with pillagers spawned from patrols or outposts, because pillagers spawned from higher levels of raids have an increased chance of dropping enchanted crossbows. Also with maximum regional difficulty, as this affects the chance of a dropped crossbow being enchanted.
+
+
+== Gallery ==
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Render ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Animations ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Concept Art ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

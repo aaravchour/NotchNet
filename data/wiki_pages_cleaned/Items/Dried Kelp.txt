@@ -1,0 +1,20 @@
+Dried kelp is a food item that can be quickly eaten by the player. It can also be crafted into dried kelp blocks.
+
+Kelp can be cooked in a furnace, smoker, or campfire. Each piece of dried kelp removed from a furnace output slot gives 0.1 experience (6.4 experience per stack).
+
+To eat dried kelp, press and hold use while it is selected in the hotbar. Eating one restores 1 () hunger and 0.6 / 0.2 hunger saturation.
+A player can consume dried kelp about twice as fast as any other food item in the game.
+
+Dried kelp placed into a composter has a 30% chance of raising the compost level by 1.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Dried Kelp" are maintained on the bug tracker. Report issues there.
+
+In real life, edible dried seaweed is also called kim.

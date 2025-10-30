@@ -1,0 +1,25 @@
+Bone blocks are storage blocks equivalent to nine pieces of bone meal. 
+
+Bone blocks are generated naturally as part of fossil structures found in desert and swamp biomes. They also generate as part of nether fossils in soul sand valley biomes.
+
+Bone blocks can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+Bone blocks are decorative blocks, and can also be used as compact storage for bone meal.
+
+Bone blocks can be placed under note blocks to produce xylophone sounds.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Bone Block" are maintained on the bug tracker. Report issues there.
+
+Block of the Week: Bone  Minecraft.net on August 4, 2017

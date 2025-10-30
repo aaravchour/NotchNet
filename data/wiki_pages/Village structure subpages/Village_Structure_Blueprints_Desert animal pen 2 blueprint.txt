@@ -1,0 +1,7 @@
+
+==== Blueprint ====
+
+All smooth sandstone slabs are bottom slabs. The water inside the stairs forms a rectangle.
+
+
+==== Materials ====

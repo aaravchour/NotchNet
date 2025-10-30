@@ -1,0 +1,98 @@
+The Far Lands were a terrain generation bug in Bedrock Edition that happened millions of blocks from the world origin. It essentially formed the "edge" of an "infinite" world.
+
+The Far Lands used to initiate at X/Z: 12,550,821 and 12,550,821. They decay along their generation, ending at approximately X/Y +/-12,758,545. 
+
+The Bedrock Edition Far Lands were different from the Java Edition Far Lands. The content of the Far Lands in the Bedrock Edition was slightly different in biomes and structure in positive coordinates. Sand and gravel do not fall from generating in Bedrock Edition, resulting in relatively stable performance. (Bubble columns can still cause those blocks to fall, however.)
+The Far Lands do not generate on flat worlds, due to the lack of a noise generator.
+The exact structure depended on the platform. On Realms and Bedrock Dedicated Servers, the Far Lands generated the same as on Windows 10, Xbox One, and PlayStation 4: only the nothingness generated. On mobile devices and Nintendo Switch, the Edge Far Lands would generate, depending on the coordinates. In multiplayer, the structure would depend on the platform used by the owner of the world.
+In Minecraft Education, what happened at the Far lands depends on the world. Sometimes it is a skygrid, and sometimes it is a plain ocean/bedrock with different biomes.
+The features of the Far Lands in other Bedrock ports remain unknown. 
+Caves generated close to the Far Lands sometimes have an edgy "zipper" consistency, with sometimes every second block being hollowed out. 
+
+Despite Y level 256 being the maximum build height, the Far Lands were still cut off at Y=128, although trees still generated normally. (as the terrain generator is limited to Y=128 despite the 256 height limit). However as of beta 1.16.220.50, the Far Lands could generate above Y=128 and sometimes even to the new 320 height limit.
+If fossils generate here, they usually appear in mid-air without touching any block.
+Warm and lukewarm ocean biomes in the Edge Far Lands appear as a "desert-like" patch, without any water in it, while normal and cold oceans generate grass blocks. Shipwrecks and underwater ruins always generate above ground, sometimes higher than 128 on the Y-axis. Buried treasure sometimes generates without touching any block.
+Normally, you and any mobs that spawn fall through the blocks you touch and suffocate before hitting the void. If you are in creative, you will only be able to move up and down unless you use elytra and fireworks to move around which makes it extremely hard to go to a specific area.
+When trying to place blocks it might not work in certain areas.
+When you go to the nether (that is if you managed to build the portal correctly) there will be far lands as well and the only mobs you will find there are endermen teleporting to survive the suffocation, magma cubes because they are large enough so they wont fall through the blocks, and ghasts as they can fly.
+There are many distinct terrain types of Edge Far Lands, listed in the table below:
+
+Usually, the Far Lands' appearance never seems to repeat. However, they start to become extremely repetitive and stretched horizontally, a great distance from the X or Z axis, with sections 12 blocks wide being repeated. There is a sudden change of the Far Lands terrain when the number of blocks from the axis exceeds 12,550,821 divided by a power of 2. This corresponds to when sections of the Far Lands terrain appear to recur more times. The periodicity of the Far Lands starts to become apparent at 784,426 or more blocks from the axis. Nearly perfect repeating occurs starting at around 3,137,705 blocks from the axis. Beyond 6,275,412 blocks from the axis, the sections appear to be symmetric, all the way to the Corner Far Lands. The Z Far Lands tend to look more repetitive than the X Far Lands for no apparent reason. This occurs due to floating-point precision loss with the noise coordinate, resulting in every noise coordinate being a multiple of 16. 684.412 * 3 is 2053.236, which gets rounded to 2048, a multiple of 256. Due to the fact that the noise function used to generate terrain repeats every 256 noise units, this results in repetitive terrain every 12 blocks. By the intersection of the Far Lands, all noise coordinates are multiples of 128, two noise coordinates get rounded to 128 while the third gets rounded to 256, and each repetition lasts 13 cycles (though it may appear shorter than this due to selector noise). If the terrain were allowed to lose further precision before overflowing (i.e. if the floats were half as precise, or the noise had a period of 128), the Edge Far Lands would resemble Java Edition's Corner Far Lands. This happens on every Bedrock Edition of the game that generates them. (i.e. mobile, Nintendo Switch)
+
+In the Far Lands with negative X coordinates, after the positive X coordinates degrade, and all the Far Lands in the Windows 10 Edition, the terrain stops generating entirely, resulting in there being nothing present aside from the ocean and the bedrock layer. 
+Certain structures are able to generate in this area. Several, such as desert temples, have elongated foundations when generated here. Jungle temples here do not have a foundation; they instead appear to float above the water. Fossils can generate underwater, but do not generate on the bedrock floor. Igloos generate underwater on the bedrock layer, replacing the bottom bedrock layer with stone bricks. Underwater ruins and shipwrecks always generate on the bedrock layer, and lava veins (with magma blocks, obsidian, and stone on top) still generate near the bedrock layer, often creating bubble columns. Buried treasure generates above water. Pillager outposts generate only the watchtower without any peripheral structure around it; however, although the pillagers fall into the void, new pillagers can spawn again and again (infinitely) in and around the watchtower. Village buildings generate on a floating platform of grass below them. Iron golems spawn without falling through the world, although they cannot move.
+Desert wells, dungeons, abandoned mineshafts, and woodland mansions cannot generate here.
+Mobs such as dolphins, cod, and salmon still spawn normally. Seagrass and kelp still generate on bedrock.
+In the frozen ocean biome, the surface of the ocean still freezes, and icebergs can still generate. Polar bears can spawn without falling into the void.
+
+In the Corner Far Lands, Far Lands with negative Z, and past the normal positive Z Far Lands, a 3D grid pattern of grass blocks appears instead of the ordinary stack/loop. Tall grass and trees generate on these blocks. This results in a perfect three-dimensional array of grass blocks levitating high above the ocean. The name is a bit misleading, since the array of blocks extends not only up to Y=128, but also down to bedrock level. Structures generated here follow similar rules to that of the Nothingness with some differences:
+
+Tall ice spikes can generate from sea level, reaching Y=128.
+Igloos generate on Y=64, instead of the bedrock layer underwater.
+Prior to Village and Pillage, villages generated here at high altitudes between 64 and 128 have tall foundations extending from the bedrock layer.
+After Village and Pillage, villages generated in the skygrid generate at sea level, just like in nothingness.
+Unlike in nothingness, woodland mansions can generate in the skygrid.
+
+ 
+
+Bedrock Edition uses 32-bit floating-point numbers (as opposed to 64-bit on Java Edition). At any given coordinates, even near the world origin, attempting to move is impossible if it is too slow. At every power of 2, the "minimum speed" doubles.
+The player's hitbox corners are stored individually in memory (as opposed to the coordinates of the actual player in storage). If the player is at a power of 2, the hitbox corners may move at different speeds, changing the size of the hitbox. These size changes are usually negligible, but can potentially be significant. In extreme cases, the player's hitbox size reaches 0, making it possible to fall through the world.
+
+Minor jitteriness can be first experienced at X/Z: 16,384, noticeable if the player is moving slowly.
+At X/Z: 131,072, The jitteriness becomes noticeable when the player is sneaking. Climbing up ladders, vines, twisting vines and weeping vines while sneaking is slightly slower than normal if climbing by walking against a block. Sneaking diagonally starts to become bumpy. Lecterns and tripwire hooks start to become distorted. Levers experience small distortion if the player is viewed full.
+At X/Z: 262,144, String tripwire become invisible. Most sunflowers start to render incorrectly. Climbing up ladders and vines while sneaking is even slower and less smooth. Sweet berry bushes and cobwebs appear slightly larger.  Sea pickles render with slightly thinner stems than normal.
+At X/Z: 524,288, Easily visible jitteriness is experienced and the further the player travels, the world gradually starts to become glitchy and unplayable. It also becomes impossible to move forward or backward while in cobwebs past this point. Some blocks with 3D models render incorrectly, such as string, tripwire hooks, item frames, levers and lecterns. Painting can be placed multiple times on the same block. Some mobs are unable to move at these coordinates.
+Past X/Z: 1,048,576, the jitteriness becomes considerably unbearable, making crashes frequent at this point on low-end devices. Most blocks with 3D models, including cacti, levers, torches, and bamboo render incorrectly, and become more distorted the farther out the player travels.
+Past X/Z: 2,097,152, Certain blocks that are non-full blocks start to distort, including doors, fences, iron bars, and more. Dropped items can fall through the world at these coordinates.
+Past X/Z: 4,194,304, it is impossible to walk normally. Ender pearls, an elytra with fireworks, horseback, speed potions, and water are the only possible ways to travel from here onward. Sometimes players can fall through world when multiple coordinates not 0.5.
+Beyond X/Z: 8,388,608, Any entity less than 1 block high or wide, including the player, falls through blocks. Since blocks still have collision detection from the sides (unless both coordinates exceed this value) Speed 8 allows players to walk past 8,388,608, but if they teleport past 8,388,608, they always fall through the world. Flying, elytra and horseback are the only ways to navigate past this point in Survival; thus, it is impossible to reach the Far Lands on foot. The stonecutter has double blades at these coordinates.
+The Far Lands have been removed in beta 1.17.20.20, and it is currently unknown if this is a permanent change; however, certain aforementioned effects still occur at high distances from the world center.
+
+Terrain errors initiate at X/Z 12,550,821, like in Java Edition.
+
+Between X: +12,561,029 and X: +12,758,546 the Far Lands begin to take on a thinner "shredded" appearance, before fading out into either a Nothingness state.
+What generates from there to the beginning of the Stripe Lands (X/Z: 16,777,216) is just ocean, with a floor of bedrock. The bedrock generates in a pattern identical to how it normally generates underground. Biomes still exist; swamps darken the water and cold biomes generate ice on the top layer of water. Generated structures, such as villages, witch huts, and jungle temples still generate here. The large blocks of land eventually phases out to become long thin strips and eventually dotted arrays of floating blocks, resembling a 1-dimensional cross-section of the skygrid.
+At X/Z: 16,777,216, the Stripe Lands begin to render. They are caused when the precision loss of the world causes 1 out of every 2 blocks to be considered "invalid".
+X/Z 30,000,000 is the maximum teleportation distance; any attempt to teleport farther puts the player back at this coordinate. Players who writes certain command on this coordinates with chat or command block get an error message.
+X/Z 31,999,872 can be reached in the Overworld via the Nether by entering a Nether portal past X/Z 3,999,984 in the Nether.
+Beyond X/Z 33,554,432 the "stripes" of the Stripe Lands disappear, leaving only vertical block rendering.
+Beyond X/Z: 67,108,864, it becomes impossible to manually travel using elytra with fireworks. However, it is possible to teleport using chorus fruit.
+Generated structures like villages and ice spikes may continue to generate as far up to X/Z: 134,217,728. However, they appear two-dimensional at this distance. In the Windows 10, Xbox One and PlayStation 4 editions, there is no limit to how far out structures can generate and they can be seen at distances of over 2 billion blocks.
+Beyond X/Z: 134,217,728, teleportation using chorus fruit is confirmed to be impossible. The only way to move beyond this limit is by using external tools.
+At every power of two in the Stripe Lands, gaps between rendered blocks double. At X/Z 1,073,741,824, blocks are 128 blocks apart and neighboring slices are invisible with a low render distance.
+ Near X/Z: 2,147,483,648, the game crashes, as this is the 32-bit integer limit. However, not all devices are able to reach this point. Increasing render distance on near coordinates can cause the world and game to crash.
+
+The Far Lands of the Nether and End share similar characteristics to the Overworld Far Lands, although with some differences. They generate more similarly to each other than to the Overworld Far Lands.
+
+The Nether Far Lands are similar to the Overworld Far Lands, except generated with Nether terrain features, with a lava ocean at Y=31. Bastion remnants and ruined portals continue to generate. Bastions "float" on the lava, with their foundations at Y=29.
+
+The Nether can be a great way to reach the Far Lands in the Overworld, as every block in the Nether counts as 8 blocks in the Overworld. The player must travel to 1,568,853 or higher to spawn in the Far Lands. Teleporting just a few blocks less allows the player to see the beginning of the Far Lands.
+
+The End Far Lands are made up almost exclusively of end stone and appear a bit more squashed and stretched horizontally than the Overworld Far Lands. Micro-end islands still generate inside the Far Lands, even after the latter dissipates. Since there is no signature liquid of the End, they just generate down to a dry void; similarly, there is no bedrock floor.
+The End Far Lands are cut off at y=128, although structures can still generate on top.
+
+The terrain effect is generated based on 16 octaves of Perlin noise. Each noise generator takes the floating-point inputs and uses those to interpolate between noise values at whole numbers. It does so by:
+
+Casting to a 32-bit integer, where the game rounds toward zero and handles overflow by picking the closest representable value;
+Subtracting one if the integer is greater than the original input, to always round down;
+Subtracting that integer from the original input to get a remainder in the interval [0, 1) suitable for interpolation.
+It covers an interval of [231, 231) without causing any problems. The problem is that many of the octaves cover a scale much smaller than a block, with up to 171.103 noise units per block. Indeed, 231  171.10312,550,824.053. Thus, the Far Lands start 12,550,824 blocks away from the center of the Minecraft world. Once this value is exceeded, the integer is always 2311, thus breaking the generation algorithm.
+At the positive end, the remainder starts relatively small but usually much larger than 1, and grows by 171.103 per block. At the negative end, the remainder starts at 232. This value is then adjusted by ((6x15)x+10)x3 for quintic interpolation. Even one block in at the positive end, this is already around 1011. The negative end starts all the way around 1049. For the Corner Far Lands, multiply the values of both edges. When interpolation (really extrapolation) is attempted with values as large as these, it produces similarly large output. That output completely dwarfs all other terms that would normally give the terrain its shape, instead effectively passing only the sign of this one noise function through.
+
+There are several other factors to the cause of the Far Lands, making things slightly more complicated:
+
+Noise is sampled only every four blocks and linearly interpolated in between. This is why when 12,550,824 is affected by the bug, it reaches out three more blocks to 12,550,821.
+Each noise generator picks a random offset in the interval [0, 256) to add to its input. This usually moves the boundary under 12,550,824, starting the Far Lands at 12,550,821. With a few seeds, it might not, putting the start at 12,550,825. Rarely, if the boundary is just barely within 12,550,824, the first couple blocks of the Far Lands might look somewhat normal. The southern and eastern Far Lands do this independently of one another. At the negative end, the Far Lands always start at block coordinate 12,550,825, with the positive edge of those blocks at 12,550,824.
+There are actually two sets of noise generators, which are blended based on another noise generator. This is responsible for relatively smooth alternation between two sets of tunnels or plains. Occasionally, one of the noise generators starts generating the Far Lands before the other because it uses a different offset, producing an incongruous boundary.
+Use a signed 24.8 bit fixed-point coordinate system with "wrapping" instead of 32bit floating point. This would allow coordinates to range from +/-8.3M and the accuracy of positioning would not vary based on the distance from the origin. The total "surface" area of a Minecraft world would be about half that of Earth (281M sq km vs 510M). There would be no "edge", you would simply wrap around to the other side just like on a real planet.
+
+The Far Lands break down due to the limitations of 32-bit floating point numbers. Due to the interpolator returning really large values, the values eventually exceed 3.4*10^38, the largest value possible for a 32 bit float, causing parts of the terrain to stop as the equations that govern terrain generation return NaN. This is also why the negative Far Lands don't generate, as the remainder there is already greater than 2^32, which results in a value of way larger than 3.4*10^38.
+The weights for each corner value are based on the interpolator outputs on each axis multiplied together. Thus, in the Corner Far Lands, when both sets of values overflow, the extremely large values given by the interpolator formula are multiplied together, which exceeds the 32-bit float limit in about 30 blocks, hence the "normal" corner leading into the skygrid.
+In certain cases, one block out of every 4 on each axis is still properly generated, resulting in the skygrid.
+
+The breakdown of the Corner Far Lands can be seen on Java Edition using a customized world preset. However, given the Edge Far Lands are so thin, the breakdown of the Edge Far Lands can't be seen.
+
+The world at excessive coordinates is not supported, and as such certain issues related to the Far Lands may never be fixed. This is because such issues would affect only players who intentionally teleport to high coordinates, and exist as a limitation of the game engine itself.
+
+The Far Lands make an appearance in Minecraft: Story Mode, where it is the location of The Maze and Ivor's Cottage.
+The title for Steve's Classic Mode route in Super Smash Bros. Ultimate references the Far Lands.

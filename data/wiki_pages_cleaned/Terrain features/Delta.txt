@@ -1,0 +1,9 @@
+A delta is a one-block-deep sheet of constrained lava found among the terrain of basalt deltas biomes. 
+
+Deltas look like lava terraces which are smooth in elevation. The terraces can be small or large. Magma blocks sometimes generate in it. It tends to be adjacent to basalt columns.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Delta" are maintained on the bug tracker. Report issues there.

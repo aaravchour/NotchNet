@@ -1,0 +1,28 @@
+/agent is a command used to control an agent.
+Agent control commands are only allowed to be executed by the WebSocket side to which the player is connected, and the player cannot execute the command directly in the game unless you use an NPC. The /agent command can be run using an NPC. WARNING: if you summon an agent using an NPC then the only way to remove it from your world is by using an NBT Editor and deleting the actorprefix file for that agent.  
+
+agent move <direction>
+agent turn <turnDirection>
+agent attack <direction>
+agent destroy <direction>
+agent drop <int:slotNum> <int:quantity> <direction>
+agent dropall <direction>
+agent inspect <direction>
+agent inspectdata <direction>
+agent detect <direction>
+agent detectredstone <direction>
+agent transfer <int:srcSlotNum> <int:quantity> <int:dstSlotNum>
+agent create
+agent tp <coordinates>
+agent collect <string:item>
+agent till <direction>
+agent place <int:slotNum> <direction>
+agent setitem <int:slotNum> <int:quantity> <int:amount> <int:data>
+agent getitemcount <int:slotNum>
+agent getitemspace <int:slotNum>
+agent getitemdetail <int:slotNum>
+
+<direction> is one of forward|back|left|right|up|down
+<turnDirection> is one of left|right
+
+Agent

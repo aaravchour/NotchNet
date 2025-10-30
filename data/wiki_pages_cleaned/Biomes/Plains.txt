@@ -1,0 +1,29 @@
+Plains are flat grasslands biomes. They are among the first biomes added to the game. There are two plains biome variants in the biome family.
+
+Plains biomes are quite common and expansive, and often border forests and savannas. 
+Plains are grassy and mostly flat. Many of the grass blocks are covered in grass or tall grass. Oak trees generate sometimes; 13 are large. Rarely (120), these trees have bees and bee nests.
+Some patches of plains grow various colors of tulips and these patches, along with flower forests, are the only places where tulips generate. Oxeye daisies, cornflowers, dandelions, poppys, and azure bluets flowers sporadically generate within the plains. Sunflowers are found in the sunflower variation.
+Despite the calmness, survival in plains biomes can be a bit difficult due to the relative sparseness of the biome, though villages can serve as a temporary refuge if they are found. Oak trees sparsely generate, making wood scarce should one not want to tear down village houses or battle pillagers in outpost for wood. Additionally, the amounts of grass can prove to be a nuisance when building a shelter or combating. However, tamed horses can serve as a method of travel, allowing players to more efficiently explore their surroundings for more resources.
+Horses and donkeys spawn in plains biomes. The following mobs are naturally spawned here
+
+There are two plains biome variants: plains and sunflower plains.
+
+The plains biome is the most abundant variant, which are common in a Minecraft world.
+Villages generate in plains, using oak planks and logs. Pillager outposts generate here as well.
+
+The sunflower plains features large numbers of sunflowers across its landscape, and is the only place where sunflowers may generate. The sunflowers make for a good source of yellow dye and a makeshift compass, as they always face east. The mob spawning is otherwise no different from the regular plains. 
+Sunflower plains are most commonly bordered by regular plains or cherry groves, and separated from flower forests by rivers.
+In Bedrock Edition, villages and outposts still generate here, but in Java Edition they don't.
+
+Java Edition:
+
+Bedrock Edition:
+
+Before alpha 1.2.0, flatter areas similar to plains existed within "plains" landforms, which were randomly generated across the world as true biomes did not exist yet. 
+
+Savanna
+Snowy Plains
+Meadow
+
+Around the Block: Plains  Minecraft.net on June 11, 2020
+Around the Block: Sunflower Plains  Minecraft.net on December 8, 2022

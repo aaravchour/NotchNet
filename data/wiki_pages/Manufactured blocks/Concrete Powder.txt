@@ -1,0 +1,135 @@
+Concrete powder is a gravity-affected block that is converted to concrete when touching water. It comes in the sixteen dye colors.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Concrete powder can be mined with any tool or by hand, but using a shovel is the quickest method.
+
+
+=== Crafting ===
+The crafting recipe is shapeless; the order of ingredients does not matter.
+
+
+=== Renewability ===
+Concrete powder is renewable as all of its crafting ingredients are themselves renewable. However, sand is only renewably obtained through the wandering trader, which spawns infrequently and only allows a limited number of trades per spawn, making it impractical to obtain it (and by extension, concrete powder) through only renewable means, but sand can be produced by sand dupers.
+
+
+== Usage ==
+
+Concrete powder falls when there is a non-solid block beneath it.
+
+
+=== Creating concrete ===
+
+If a concrete powder block comes into contact with water, it solidifies into a block of concrete. Specifically, the block has to be placed into, placed next to, or fall into flowing water, a water source block, or a waterlogged block. If placed next to a waterlogged block, it must be adjacent to the sides where water can flow out from, such as the open sides of stairs, but not the back side of stairs or any sides of waterlogged leaves. It does not solidify in midair falling past water. If it lands next to water, it solidifies only after a block update. Rain or splash water bottles also have no effect on concrete powder. Concrete powder in item form also does not become concrete. Concrete powder placed directly at water makes the placement sound of concrete.
+
+
+=== Note Blocks ===
+Concrete powder can be placed under note blocks to produce "snare drum" sound.
+
+
+== Sounds ==
+
+
+=== Generic ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Unique ===
+Java Edition:
+
+Bedrock Edition: None 
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Falling block entity ===
+
+
+== History ==
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Issues ==
+Issues relating to "Concrete Powder" are maintained on the bug tracker. Report issues there.
+
+
+== References ==

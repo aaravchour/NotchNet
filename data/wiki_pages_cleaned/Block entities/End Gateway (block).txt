@@ -1,0 +1,54 @@
+The end gateway is a block that forms a part of end gateways, which teleport the player between the main island and the outer islands in the End.
+
+The end gateway block cannot be obtained as an item and can be placed in Java Edition only by using block placement commands such as /setblock or /fill.
+In Bedrock Edition, it may be obtained as an item via inventory editing or add-ons. It cannot be placed by block placement commands in this edition, but it can be placed using structure blocks.
+
+End gateway blocks form the functional part of end gateways. Each time the ender dragon is defeated, one end gateway spawns around the central island in the End, up to 20 times. Activating each of them spawns one additional gateway in the outer islands.
+
+More naturally generated gateways that transport the player back to the obsidian platform can be found throughout the outer End islands.
+
+End gateway blocks in their original form can be used to teleport to the outer islands of the end. End gateway blocks can be used as a custom teleporter using NBT tags.
+
+ExitPortal tag holds a set of X/Y/Z coordinates to determine the general location the player can be "safely" teleported to when entering.
+Setting ExactTeleport to 1 teleports entities to the specified coordinates exactly instead of at a safer location around those coordinates.
+Age determines how long the gateway has existed. This is used to determine when the beam is rendered.
+Example: /setblock ~ ~-1 ~1 minecraft:end_gateway{Age:180,ExactTeleport:1,ExitPortal:{X:1,Y:2,Z:3}} replace
+When created in a dimension other than the End without ExitPortal NBT data, it does not teleport entities but still activates its beam effect when an entity enters.
+In Bedrock Edition and Minecraft Education, when the gateway is placed and entered in the End, it teleports the user to coordinates 0, 0, 0, below the main island. In the Overworld or Nether, it acts as a solid block and cannot be entered.
+Gateways have a small chance to teleport the player directly into the void at y=0.
+
+When generated (either naturally as part of an end gateway, or through /setblock ), the block emits a  magenta beam of light vertically from its top and bottom, lasting for 200 game ticks (10 seconds) while fading in and out.
+An end gateway block also emits a  purple beam of light vertically from the top and bottom when an entity enters it. During the 40 game ticks (2 seconds) this beam is visible, no additional entities can be teleported.
+It also emits the  purple teleport beam every 3600 game ticks (3 minutes).
+The creation beam extends from around Y=0 through the block up to Y=256; the teleport beam goes 50 blocks above and below the gateway block. The beam is visible from roughly the same distance as a single ordinary stack of blocks. If a render distance of 16 chunks is set, the beam of light is visible from up to 255 blocks away. Unlike the beam of a beacon, this beam does not change color if the player puts stained glass over it.
+It is not possible to disable either of the beams entirely. However, it is possible to edit the age of the block to a negative value, effectively delaying beam-emitting properties of the end gateway. You can change the age of the block by entering the command (for example) as follows: /setblock ~ ~ ~ minecraft:end_gateway{Age:-9223372036854775808L}. This will last for 14,993,257,186 years, effectively disabling the beam.
+
+End gateway blocks cannot be interacted with pistons or sticky pistons.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition: None
+
+Java Edition:
+
+Bedrock Edition:
+
+An end gateway block has a block entity associated with it that holds additional data about the block.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Block entity format.
+
+The following content is transcluded from Technical blocks/End Gateway.
+
+Bedrock Edition
+? - ?: tile.end_gateway.name
+
+Issues relating to "End Gateway" are maintained on the bug tracker. Report issues there.
+
+In Bedrock Edition if one manages to place an end gateway at the center of the obsidian platform, it teleports the player before the platform regenerates. As a result, the platform appears in a different location than it should, like below the main island.

@@ -1,0 +1,94 @@
+The corrupted beacon is an artifact that can be found within the various missions of Minecraft Dungeons. Its unique variant is the corrupted pumpkin, making it the only artifact to have a unique variant. It functions similarly to the eye of the guardian from the hidden depths DLC with the exception of souls replaced by a cooldown.
+
+
+== Appearance ==
+The corrupted beacon has a similar apperarance to the beacon in the original game, but with purple tones. 
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Cacti Canyon
+Redstone Mines
+Pumpkin Pastures (Adventure)
+Treetop Tangle (Adventure)
+Gale Sanctum (DLC)
+End Wilds (Apocalypse, DLC)
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+
+== Usage ==
+With the maximum amount of souls gathered, being 300, it can be fired for 24 seconds in total, using about 12.5 souls per second.
+Each tick of damage deals around 10% of the damage per second value.
+The beam fired has a massive range (about 40 blocks away) that exceeds the boundaries of the screen.
+
+
+=== Properties ===
+X artifact damage per second
+2.5 Seconds cooldown
++1 Soul Gathering
+Requires souls
+
+
+=== Stats ===
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Trivia ==
+In Minecraft Dungeons Arcade, the corrupted beacon is classified as a ranged weapon despite being an artifact.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+
+
+=== Others ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

@@ -1,0 +1,50 @@
+Deepslate bricks are the brick version of deepslate.
+Cracked deepslate bricks are a cracked variant.
+
+
+== Obtaining ==
+
+
+=== Natural generation ===
+Deepslate Bricks and Cracked Deepslate Bricks generate naturally in ancient cities.‌
+
+
+=== Crafting ===
+
+
+=== Smelting ===
+
+
+=== Breaking ===
+Deepslate bricks can be obtained only by mining them with any pickaxe. When mined using any other tool, they drop nothing.
+
+
+== Usage ==
+
+
+=== Crafting ingredient ===
+
+
+=== Stonecutting ===
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Deepslate Bricks" are maintained on the bug tracker. Report issues there.

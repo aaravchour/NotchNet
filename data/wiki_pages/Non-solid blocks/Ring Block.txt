@@ -1,0 +1,21 @@
+The ring block is a type of block found in the Glide mini game in the Legacy Console Edition, which makes up the rings that players fly through in score attack mode. It comes in green, yellow and blue variants.
+
+
+== Natural generation ==
+Rings made of ring blocks are found throughout Glide maps in score attack mode. Each color of ring block forms a different sized ring: 9x9 block rings are made of green ring blocks, 7x7 block rings are made of yellow ring blocks, and 5x5 block rings are made of blue ring blocks.
+
+
+== Usage ==
+Flying through rings made of ring blocks in score attack mode earns the player points. Smaller rings earn the player more points: green rings give 3 points, yellow rings give 5 points, and blue rings give 7 points.
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Gallery ==

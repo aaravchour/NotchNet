@@ -1,0 +1,5 @@
+Shapes is a joke biome introduced in Java Edition 20w14.
+
+The biome consists of a somewhat mountainous terrain and rivers. Different shapes made of one or more different types of blocks generate across the biome. No mobs spawn.
+
+Java Edition:

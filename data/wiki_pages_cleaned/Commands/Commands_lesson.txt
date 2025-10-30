@@ -1,0 +1,3 @@
+/lesson starts a lesson.
+
+Starts a lesson with players on the server.

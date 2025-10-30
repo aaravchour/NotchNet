@@ -1,0 +1,209 @@
+This page details the mechanics and specifications of models and their uses in resource packs.
+
+
+== Introduction ==
+Block models are used to depict all the blocks in the game, whereas item models are used to display the items in the player's hand, on their head (helmets and hats), on the ground, in the inventory, in item frames, and on armor stands. As there are different variants of some blocks, block states are used to link these with the corresponding models. Each model and each block state has its own file, which is of the .json format. Even the icons used in the inventory are defined in these files.
+
+
+== File path ==
+In JSON files of models and block states, the resource location in the form of namespace:path (the minecraft namespace can be omitted) is used to represent the local file path. See also Resource_location#Locating_contents_in_packs.
+In these files, the path corresponding to the resource location namespace:path is assets/namespace/object_type/path.suffix, where the path can contain subfolders separated by /, such as namespace:foo/bar/baz (foo and bar are folders, baz is the real file name).
+The object specified by a resource location and its corresponding object type and suffix are as follows:
+
+
+== Block states ==
+There are several different variants of some blocks (like doors, which can be open or closed), hence each block has its own block state file, which lists all its existing variants and links them to their corresponding models. Blocks can also be composed of several different models at the same time, called "multipart". The models are then used depending on the block states of the block.
+These files are stored in the following folder: assets/<namespace>/blockstates. The files are used directly based on their filename, thus a block state file with another name than the existing ones does not affect any block.
+
+
+=== Example: Wall Torch ===
+The wall torch has several variants: It can be placed at a wall facing in four different directions. This example is taken from the file wall_torch.json, which can be found at assets/minecraft/blockstates.
+
+wall_torch.json
+
+A torch can be placed on all four sides of a block and therefore needs four different variants, one for each side. These are called "facing=east", "facing=west", "facing=south" and "facing=north". All four variants use "block/wall_torch" as their model, which is rotated by a multiple of 90 degrees around the "y" axis to align with the different sides of the block they are placed on.
+
+
+=== Example: Grass Block ===
+The grass block has two variants, whereby the first one holds four different models. This example is taken from the file grass_block.json, which can be found at assets/minecraft/blockstates.
+
+grass_block.json
+
+The non-snow-covered grass block ("snowy=false") holds four models, which all use the same block model, but each one is rotated by a multiple of 90 degrees. As there are four models and the weight-tag is not used for any of them, each one has a chance of 25% to be used every time a block is placed.
+
+
+=== Example: Oak Fence ===
+The oak fence uses the multipart format. This example is taken from oak_fence.json in assets/minecraft/blockstates.
+
+oak_fence.json
+
+While the first model, the fence post, is always used, the other models are used only if certain conditions are met. Here the sides of the fence are applied only if there is another adjacent block next to this one. As there is just one model for the post and another one for all the sides of the fence, which then is rotated by increments of 90 degrees, the amount of models needed for all the different possible set-ups of fences can be reduced to two. Compared to the five models and 16 variants used in Java Edition 1.8, this is a rather big improvement.
+
+
+=== Example: Redstone Wire ===
+The redstone wire model uses the multipart format. This example is taken from redstone_wire.json in assets/minecraft/blockstates
+
+redstone_wire.json
+
+This model is dynamically created. With the first condition, it is determining cases where the redstone_dust_dot model should be added, which requires either all of the four sides being set to "none", or any two sides that form a corner both being set either to up or side.
+The last case tests only one condition, which asks if "west" is set to "up", and if so it applies the model redstone_dust_up.
+
+
+== Block models ==
+The folder assets/<namespace>/models/block holds the model files for all the specified variants. The names of the files can be changed, but must always correspond with the names used in the variant files.
+
+
+=== Example: Standing Torch ===
+For simplicity, this example describes only the standing torch, which is defined in the files torch.json and template_torch.json stored in the folder assets/minecraft/models/block. 
+
+template_torch.json
+
+This file is used to create the model of the torch, which is used for the normal, redstone torch and the soul fire torch. Therefore, the "elements" tag is used to create three elements or cuboids. Only two faces of each cuboid are rendered, as only two faces of each one have been specified. "uv" is used to determine the area where the texture is used. The texture variable "#torch" is used for the particles and the cuboids and has not yet been defined.
+
+torch.json
+
+This file represents the model of the normal standing torch. It loads the model of previously defined standing torch with the help of "parent" and inherits all the properties of the file template_torch.json. As this file is used only for the normal torch, the texture can now be specified. The texture"torch" is now assigned to the texture variable "torch" (in form of a resource location) and therefore is used for the previously loaded model and its particles, as specified in the other file.
+
+
+=== Example: Any Block ===
+This example describes the fundamental structure of most normal blocks in Minecraft. All these blocks use the same basic model and apply their texture to it, as already described in the example above. This model is defined in the file cube.json, which can be found in the folder assets/minecraft/models/block.
+
+cube.json
+
+Features that have already been described above are not discussed further. The use of "cullface": "down" prevents the bottom face of the block from being rendered, if there is another adjacent block underneath it. The same applies to all the other faces of the block.
+
+
+=== Example: Sapling ===
+This example describes the fundamental structure used by all saplings, without assigning a specific texture. The model is specified in cross.json, the texture would e.g. be assigned in oak_sapling.json. Both files are stored in the folder assets/minecraft/models/block.
+
+cross.json
+
+To create the usual shape of the saplings, both elements are being rotated by 45 degrees. Therefore, the origin and the axis of rotation are set to the specified values, the angle is set to 45 degrees and "rescale" is set to true. The latter causes the model to be scaled on the axes it has not been rotated on by 1 + 1 / (cos(angle) - 1), so that it takes up the same space as it did before rotating it (see comparison images). 
+
+
+=== Examples: Condensing multiple textures into one file ===
+Using the "uv" compound, textures can be read from one file and parts of the file can be used for each side of the block. "uv" doesn't take the pixels of the file, it instead takes percentages of the file in terms of 16; for example taking the top half of a file uses "uv": [0,0, 16,8]: from the coordinates ([0% of 16], [0% of 16]) – (0,0) – which is the top-left pixel, and ends at ([100% of 16], [50% of 16]) – (16,8), which is the middle-right pixel. Because this works in percentages, resizing an image from 16×16 to 32×32, 64×64, etc., does not require changing the model file.
+
+In this example, a fletching table is used (see image) with combined textures  (in this example, saved as fletching_table.png): the top 16×16 pixels (if each of the textures are 32×32, etc., then the top 32×32, etc., textures are taken using the same code) textures the top of the block, the center 16×16 textures the front and back, and the bottom 16×16 textures the other sides. The bottom texture is birch_planks. For three textures, this code can be used:
+
+In this example, only two textures are condensed into one file, in this case for a bone block. For two textures, this code can be used:
+
+In this example, four textures are condensed into one file, in this case for a barrel. For four textures, this code can be used:
+
+
+== Item models ==
+As items do not have different variants, there is no need to specify them. The folder assets/<namespace>/models/item contains all the model files. The names of the files are hardcoded and should not be changed.
+
+
+=== Simple example: 2D beds ===
+This example replaces the bed item render with the textures currently found in Bedrock Edition and formerly found in Java Edition, such as . This file should be placed in the assets/minecraft/models/item folder with the name "red_bed.json":
+
+In this example, the parent is set to item/generated, which means that this item model is a flat texture. In the textures tag, layer0 is set to the texture set for this item; in this case, the texture is called red_bed and is found in the assets/minecraft/textures/item folder. The "red" can be changed out for all other colors of bed, but each must be put in a separate JSON file (e.g., black_bed.json, green_bed.json, etc.). There must be item texture files (which is what layer0 is requesting) for beds found in the textures/item folder; these textures can be found below:
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+Rename the above files to <color>_bed (keep the file extension .png) and place them inside the assets/minecraft/textures/item folder. Make sure to match the layer0 reference to the name of the item texture.
+
+
+=== Item predicates ===
+Some items support additional predicates for model overrides. Below is a full list of available predicates.
+
+"angle": Used on compasses to determine the current angle, expressed in a decimal value of less than one.
+"blocking": Used on shields to determine if currently blocking. If 1, the player is blocking.
+"broken": Used on Elytra to determine if broken. If 1, the Elytra is broken.
+"cast": Used on fishing rods to determine if the fishing rod has been cast. If 1, the fishing rod has been cast.
+"cooldown": Used on ender pearls and chorus fruit to determine the remaining cooldown, expressed in a decimal value between 0 and 1.
+"damage": Used on items with durability to determine the amount of damage, expressed in a decimal value between 0 and 1.
+"damaged": Used on items with durability to determine if it is damaged. If 1, the item is damaged. Note that if an item has the unbreakable tag, this may be 0 while the item has a non-zero "damage" tag.
+"lefthanded": Determines the model used by left handed players. It affects the item they see in inventories, along with the item players see them holding or wearing.
+"pull": Determines the amount a bow or crossbow has been pulled, expressed in a decimal value of less than one.
+"pulling": Used on bows and crossbows to determine if the bow is being pulled. If 1, the bow is currently being pulled.
+"charged": Used on crossbows to determine if they are charged with any projectile. If 1, the crossbow is charged.
+"firework": Used on crossbows. If 1, the crossbow is charged with a firework rocket.
+"throwing": Used on tridents to determine if the trident is ready to be thrown by the player. If 1, the trident is ready for fire.
+"time": Used on clocks to determine the current time, expressed in a decimal value of less than one.
+"custom_model_data": Used on any item and is compared to the tag.CustomModelData NBT, expressed in an integer value. The number is still internally converted to float, causing a precision loss for some numbers above 16 million. If the value read from the item data is greater than or equal to the value used for the predicate, the predicate is positive.
+"level": Used on light blocks to determine the light level as contained in BlockStateTag, expressed in a decimal value between 0 and 1, where 1 is light level 15.
+"filled": Used on bundles to determine the ratio of the bundle's current contents to its total capacity, expressed in a decimal value between 0 and 1.
+"tooting": Used on goat horns to determine whether or not the player is tooting them. 1 for true, 0 for false.
+"trim_type": Used on armor to determine which material the applied trim is made of, expressed in a decimal value between 0 and 1.
+"brushing": Used on brushes to determine the brushing animation progress, expressed in a decimal value between 0 and 1.
+
+
+=== Example: Torch ===
+This example describes the torch as an item. The model can be found in the torch.json, which is stored in the folder assets/minecraft/models/item.
+
+torch.json
+
+The "parent"-tag uses "builtin/generated", so that the game uses the standard model of the torch, which has been generated out of the 2D graphic used for the item icon. The icon is specified with the "layer0"-tag and the texture, that has already been used for the block model, is used for the icon as well. As there is just one layer hard coded for the torch, there cannot be any more layers added. Furthermore, the display properties for the torch are specified, so that it displays correctly in every possible situation. The torch cannot be placed on a players head and uses the specified icon in the inventory, so there is no need to adjust the model for these situations. To line the model up with the players left or right hand in first and third person view, the model needs to be rotated, moved and scaled, which is done for each of the two situation separately.
+
+
+=== Example: Fishing Rod ===
+This example describes the fishing rod as of Java Edition 1.9. The model can be found in the fishing_rod.json, which is stored in the folder assets/minecraft/models/item.
+
+fishing_rod.json
+
+In this model, the normal model is overridden if the fishing rod is cast, causing it to instead display the model "item/fishing_rod_cast"

@@ -1,0 +1,24 @@
+Super fertilizer is a powerful form of bone meal that is created using ammonia and phosphorus.
+
+
+== Obtaining ==
+
+
+=== Lab table ===
+
+
+== Usage ==
+Super fertilizer can be used in the same way as bone meal. It produces more flowers in a larger area when used on grass blocks compared to bone meal. When super fertilizer is used on a sapling, a tree is instantly grown after one use, instead of multiple uses as with bone meal. Super fertilizer matures crops with a single use.
+Note that super fertilizer does not instantly grow a hanging mangrove propagule. This could be a bug.
+
+
+== Sounds ==
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==

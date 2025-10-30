@@ -1,0 +1,12 @@
+Returns information about the server.
+
+
+== Syntax ==
+geteduclientinfo
+
+
+== Result ==
+Shows the information about the server.
+
+
+== History ==

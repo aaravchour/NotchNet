@@ -1,0 +1,60 @@
+Boots are a type of armor that covers the feet of the player. There are seven types of boots: leather boots, chainmail boots, copper boots, iron boots, diamond boots, gold boots, and netherite boots.
+
+Boots can be repaired in an anvil by adding units of the armor material's repair material, with each repair material restoring 25% of the boots' maximum durability, rounded down. Chainmail boots may also be repaired in this way using iron ingots.
+They can also be combined with other boots. When doing this, the item's enchantments are not lost, and can even be raised.
+
+You can craft two sets of boots together using a crafting table, but enchantments are removed.
+
+If a zombie, husk, stray, piglin, or skeleton is wearing armor, there is a 8.5% chance (9.5% with Looting I, 10.5% with Looting II and 11.5% with Looting III) for the mob to drop boots upon death. The boots are usually badly damaged, and may be enchanted.
+
+In Bedrock Edition, vindicators and pillagers that spawn in raids have a chance to drop iron boots, which are usually badly damaged and have a 50% chance to be enchanted.
+
+In Bedrock Edition, a sealed room in woodland mansions can appear that has a chest sometimes containing an Efficiency I leather boots.
+
+In Java Edition, novice-level armorer villagers have 40% chance to sell iron boots for 4 emeralds. Apprentice-level armorers have a 50% chance to sell chainmail boots for an emerald. Expert-level armorers always sell enchanted diamond boots for 1127 emeralds. Apprentice-level leatherworker villagers have 23 chance to sell leather boots for 4 emeralds.
+Armorer villagers may give the players with the Hero of the Village effect chainmail boots.
+In Bedrock Edition, novice-level armorer villagers have a 25% chance to sell iron boots for 4 emeralds. Apprentice-level armorers have a 13 chance to sell chainmail boots for an emerald. Expert-level armorers have a 50% chance to sell enchanted diamond boots for 8 emeralds. Apprentice-level leatherworker villagers have a 50% chance to sell leather boots for 4 emeralds.
+
+Piglins may barter iron boots with Soul Speed when given a gold ingot.
+
+Leather boots can be caught as a "junk" item when fishing.
+
+Boots can be placed in the fourth armor slot of a player's inventory for activation.
+
+Defense points are each signified by half of a chestplate in the armor bar above the health bar. Each defense point reduces any damage dealt to the player that is absorbed by armor by 4%, increasing additively with the number of defense points. Different materials and combinations of armor provide different levels of defense.
+The following table shows the amount of defense points added by boots.
+
+Netherite boots provide 10% knockback resistance.
+
+The following table shows the amount of damage each piece of armor can absorb before being destroyed.
+Any "hit" from a damage source that can be blocked by armor removes one point of durability from each piece of armor worn for every 4 of incoming damage (rounded down, but never below 1). Damage taken that armor doesn't protect (such as falling or drowning) does not damage the armor, even if it is enchanted to protect against that type of damage. The following chart displays how many hits boots can endure.
+Netherite armor is not damaged by lava or fire when worn.
+
+Boots can receive the following enchantments:
+
+Piglins are attracted to golden boots and pick them up, examining them for 6 to 8 seconds. Other boots do not attract piglins but can be worn by them. They prefer stronger boots over weaker boots, with one major exception: They always prefer golden boots over all other boots, throwing out stronger boots to equip them. Enchanted boots are preferred over unenchanted boots.
+
+Leather boots can be used to safely cross powder snow without sinking in it. The block behaves similar to scaffolding, allowing the player to sink in by pressing crouch and move up by pressing jump. The boots also prevent the wearer from taking freezing damage.
+
+It is possible to upgrade armor with trims. This requires a Smithing Template, an armor piece, and an ingot or crystal (iron ingot/copper ingot/gold ingot/netherite ingot/emerald/redstone dust/lapis lazuli/amethyst shard/nether quartz/diamond).
+These trims have no effect on the gameplay or strength of the armor. 
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+When leather boots are dyed, it has the following NBT:
+
+Issues relating to "Boots" are maintained on the bug tracker. Report issues there.
+
+Netherite boots are shorter in their item texture but are longer in their texture when being worn
+Leather armor originally used textures from one of Notch's previous games, Legend of the Chambered.
+Leather boots are the only piece of leather armor that has the same name as other armor materials.
+The netherite boots are the only type of boots to have a differently shaped item sprite when compared to the other boot types.
+Chainmail boots are the only boots that have transparent pixels in their texture currently
+
+Taking Inventory: Boots  Minecraft.net on November 24, 2019

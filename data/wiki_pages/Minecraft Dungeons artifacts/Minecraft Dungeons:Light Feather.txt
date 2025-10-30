@@ -1,0 +1,95 @@
+The light feather is an artifact that can be found within the various missions of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Pumpkin Pastures
+Arch Haven
+Highblock Halls
+Lost Settlement (DLC)
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+
+== Usage ==
+The light feather allows the hero to tumble through the air, stunning and pushing enemies back as they go. All enchantments or armor properties that activate when rolling are also activated when using the light feather.
+
+
+=== Properties ===
+X seconds stun duration
+Activates rolling triggers
+3 seconds cooldown
+
+
+=== Rolling Triggers ===
+Enchantments
+These enchantments are activated by the light feather: 
+
+Burst Bowstring
+Dynamo
+Electrified
+Fire Trail
+Levitation Shot
+Roll Charge
+Swiftfooted
+Tumblebee
+Armor properties
+These armor properties are activated by the light feather:
+
+Brief invulnerability when rolling (Glow Squid Armor, Shadow Walker, Mystery Armor)
+Briefly gain Ghost Form when rolling (Ghostly Armor, Ghost Kindler, Cloaked Skull, Mystery Armor)
+Release an ink cloud when rolling (Squid Armor, Glow Squid Armor, Mystery Armor)
+Roll to Teleport (Teleportation Robes, Unstable Robes, Mystery Armor)
+Traps and poisons nearby mobs when rolling (Sprout Armor, Living Vines Armor, Mystery Armor)
+Trigger explosion on rolling impact (Unstable Robes)
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Light Feather" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+The light feather can be used to get on top of previously inaccessible blocks since it moves the hero up by one block.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+
+
+=== Others ===
+
+		
+			
+			
+		
+
+
+== References ==

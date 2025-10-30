@@ -1,0 +1,251 @@
+Chicken jockeys are the rare appearance of a baby zombie, baby zombified piglin, baby zombie villager, baby husk, or baby drowned riding a chicken.
+
+
+== Spawning ==
+Each baby zombie, baby husk, baby zombie villager, baby zombified piglin, or baby drowned that spawns has a 5% chance to check for an existing chicken within a 10×6×10 box centered on the baby's spawn location and spawn riding one of those chickens if there are any. If it fails that 5% chance, there is an additional 5% chance of the baby zombie spawning mounted on a new chicken. In a chicken-free environment, each spawned zombie has a 0.25% chance of becoming a chicken jockey; if chickens are present, the chance increases to 0.4875%.
+Chicken jockeys may spawn with items equipped. Baby zombified piglin versions of the chicken jockey always have a golden sword equipped, while baby drowned versions may have a trident. Although chickens take damage from magma blocks, baby zombified piglin jockeys still spawn on them, killing the chicken and leaving just the baby zombified piglin. Provoking the zombified piglin chicken jockey causes it to attack, like a normal zombified piglin.
+
+
+== Drops ==
+
+The rider and the chicken each have separate drops when that part of the chicken jockey is killed.
+Their drops are no different than if the zombie (or zombified piglin, zombie villager, husk, or drowned) and the chicken were standing alone, except it now drops a Music Disc
+
+
+== Behavior ==
+Chicken jockeys fall slowly and do not take fall damage, like normal chickens.
+The chicken can run through 1 block high gaps. The baby zombie suffocates unless the above block is transparent.
+The baby zombie can pick up/equip items.
+The chicken (unless spawned with commands without the IsChickenJockey tag) does not lay eggs. However, they can still be bred with other chickens.
+Chicken jockeys (both zombies and chickens) despawn like zombies.
+The chicken becomes passive again if the rider is killed, but still does not lay eggs and may despawn.
+
+
+== Data values ==
+
+Neither the chicken and rider's IDs nor the entity data are any different than if the chicken or rider were standing alone.
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Chicken Jockey" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+In Java Edition, the chance for a baby zombie villager to spawn wearing full enchanted diamond armor holding an enchanted iron sword in its left hand while riding a chicken is about 1 in 2.91082×1022, easily making it the rarest mob in the game.
+Zombified piglin chicken jockeys can spawn from portals in the Overworld. Also, a normal chicken jockey may spawn in the Nether if a zombified piglin calls a normal zombie as reinforcement.
+Name tags prevent the chickens from despawning, and they can be bred to spawn normal egg-laying, non-despawning chickens.
+To prevent a chicken jockey from despawning, only the chicken needs to be name tagged, because riders of other entities never despawn.
+The wither attempts to attack the chicken being ridden by the zombie and the zombie also takes damage.
+A zombified piglin chicken jockey does not become hostile if the chicken is killed or attacked.
+In Java Edition, if a zombie villager chicken jockey is cured, then the villager continues riding the chicken even after it grows up.
+A scene in the movie features Jack Black's character, Steve, and Jason Momoa's character, Garrett Garrison, facing off against a chicken jockey in a boxing ring. During this scene, Steve exclaims "Chicken Jockey!"
+Steve's line and the visual of the chicken jockey have become a viral sensation among moviegoers; audiences are reportedly shouting the line "Chicken jockey!" in unison during screenings, and some are even throwing popcorn and beverages in excitement, going as far as to bringing an actual chicken to a screening. It has gotten to the point where police have been called to kick people out of theaters, as other theaters have started "Chicken jockey" screenings so people can yell during the movie.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Renders ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External Links ==
+Meet the Chicken Jockey – Minecraft.net on October 10, 2017

@@ -1,0 +1,7 @@
+A gold extractor is a piglin-built structure within Minecraft Legends.
+
+Gold extractors spawn in piglin bases and piglin outposts.
+
+Piglins use this structure to mine gold from the Overworld.
+
+Gold extractors drop gold when destroyed.

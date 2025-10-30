@@ -1,0 +1,7 @@
+The obsidian boat was a joke boat variant released in an April Fools' joke version.
+
+Obsidian boats sank in water instead of floating. They also sank in lava like other boats but did not get destroyed in it.
+
+Obsidian boats used the Friendly Creatures sound category for entity-dependent sound events, although did not have any sounds of their own.
+
+Obsidian boat is a joke feature and as such issues relating to them cannot be fixed.

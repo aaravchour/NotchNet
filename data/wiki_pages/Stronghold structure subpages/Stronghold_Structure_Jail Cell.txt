@@ -1,0 +1,9 @@
+Jail cells are sometimes found in strongholds. They are composed of stone bricks (which can be randomly exchanged for mossy stone bricks or cracked stone bricks), iron door, and iron bars.
+
+
+==== Materials ====
+
+The stone brick structure in Strongholds is made out of 50% Stone Bricks, 20% Cracked Stone Bricks and 30% Mossy Stone Bricks
+
+
+==== Blueprints ====

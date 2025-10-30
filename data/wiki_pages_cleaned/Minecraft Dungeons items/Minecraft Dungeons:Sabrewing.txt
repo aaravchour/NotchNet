@@ -1,0 +1,31 @@
+The sabrewing is a unique power bow variant that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Fiery Forge
+Highblock Halls
+Underhalls
+Nether Wastes (DLC)
+Radiant Ravine (DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Unbreakable One
+
+The sabrewing has very high power, low speed, and low ammo.
+
+X ranged damage
+Strong Charged Attacks
+Heals Allies in the Area (Radiance Shot tier I)
+
+Charge Multiplier: 3
+Quiver: 26
+Fire Rate: 2.2 shots per second (uncharged)
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+Issues relating to "Sabrewing" are maintained on the bug tracker. Report issues there.

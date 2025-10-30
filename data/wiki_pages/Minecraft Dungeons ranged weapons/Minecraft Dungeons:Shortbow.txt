@@ -1,0 +1,77 @@
+A shortbow is a ranged weapon that can be found within the various missions of Minecraft Dungeons. Its unique variants are the Mechanical Shortbow, the Purple Storm, and the Love Spell Bow.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Cacti Canyon (Adventure)
+Desert Temple
+Frosted Fjord (DLC)
+Gale Sanctum (Adventure, DLC)
+The Stronghold (DLC)
+Tower
+Merchants
+Gift Wrapper
+Luxury Merchant
+Mystery Merchant
+Piglin Merchant
+Village Merchant
+Ancients
+Oozing Menace
+
+
+== Usage ==
+Shortbows possess low power, high speed, and a very large ammo supply. The quiver starts with 160 arrows, normal arrow bundles give 80 arrows, supply chest bundles give another 160 arrows, and Surprise Gift bundles give 40 arrows.
+
+
+=== Properties ===
+X ranged damage
+
+
+=== Stats ===
+Charge Multiplier: 1.65
+Quiver: 160
+Fire Rate: 4 shots per second (uncharged)
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Shortbow" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===

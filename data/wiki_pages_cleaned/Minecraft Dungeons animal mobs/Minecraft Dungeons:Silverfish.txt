@@ -1,0 +1,34 @@
+A silverfish is a small hostile arthropod that can be found within the Echoing Void DLC of Minecraft Dungeons.
+
+Silverfish are small silvery bug-like mobs, possessing fuzzy thorns on their back and having segmented bodies. They have black eyes and a black tail tip.
+
+The Stronghold
+Daily Trial
+Ancient Hunt
+Tower
+
+Basic attack
+Silverfish quickly scuttle toward a target to bite them, inflicting a small amount of damage, similarly to how they behave within the original game.
+
+The scuttling torment is an ancient silverfish that can be encountered during ancient hunts with the minimum offering of:
+
+The ancient resides within an arena based on The Stronghold and possesses, at minimum, the following enchantments:
+
+Huge
+Burning
+Cowardice
+Regeneration
+
+Fifteen enchanted skeletons spawn as the ancients minions with the following enchantments:
+
+Growing
+Upon defeating the scuttling torment, a gilded variant of the following items drops as a reward:
+
+Obsidian Claymore
+The Starless Night
+Teleportation Robes
+Unstable Robes
+Void Bow
+Call of the Void
+
+Before the Echoing Void DLC, silverfish were previously unused mobs. They had made appearances within a few trailers such as the Cross-Platform Play trailer. They also had an animation file in the code before being officially added.

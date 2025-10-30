@@ -1,0 +1,83 @@
+The moolip was a pink daisy-covered variant of the mooshroom found only in Minecraft Earth. It was a rare drop of cow tappables. Moolips were like mooblooms, except they were light pink and sprouted pink daisies instead of buttercups.
+
+
+== Appearance ==
+The moolip was a variant of the normal cow, though covered with pink daisies. Its body was a light pink with big white spots scattered throughout its body and head. It had two big black eyes, just like a mooshroom. It had 4 pink daisies growing out of it, with three on its back, and one on its head. It had a white muzzle, a darker pink snout, and gray horns.
+
+
+== Behavior ==
+
+Moolips left a trail of pink flowers as they walked, with each flower they plant having an apparent 40% chance of being an allium, an apparent 40% chance of being a lilac or an apparent 20% chance of being a peony. Otherwise, moolips had the same AI behavior as mooshrooms and cows. They wandered aimlessly, avoiding lava and cliffs high enough to cause fall damage.
+
+
+== Obtaining ==
+Moolips were a rare mob drop from cow tappables. They were also obtainable as a reward from Season 13, where the player placed 3 types of chickens onto a buildplate.
+
+
+== Drops ==
+A Moolip was able to be sheared for 1 Pink Daisy.
+Just like a normal cow, the moolip dropped the following when killed:
+
+0–2 Leather
+1–3 Raw Beef (Cooked Beef if killed while on fire)
+
+
+== Sounds ==
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Trivia ==
+The player journal information about the moolip misspelt "shearing" as "sheering".
+The biome category of the journal revealed that Moolips spawned in the flower forest.
+Despite their name being a pun on "moo" and "tulip", they neither spawn nor carry tulips.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

@@ -1,0 +1,5 @@
+This table contains all potion color changes since Java Edition 1.19.3 and Bedrock Edition 1.19.70. In the case of Java Edition, both changes in Java Edition 1.19.4 Pre-release 3 and 23w12a for Java Edition 1.20 are listed together here.
+Note: Any color code corrections to this table should also be made to the tables at Effect colors/Potions table, Effect colors/Effects table, and Effect colors/Old table.
+
+
+== Notes ==

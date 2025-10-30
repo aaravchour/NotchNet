@@ -1,0 +1,33 @@
+Rotten flesh is a food item that can be eaten by the player, with high risk of inflicting Hunger and low Saturation.
+
+Zombies, zombie villagers, zombie horses, husks, and drowned drop from 0 to 2 units of rotten flesh. Looting can increase this by one per level, for a maximum of 5 rotten flesh.
+
+Zoglins drop 1-3. Looting III grants a maximum of 6.
+
+Zombified piglins drop 0-1. Looting III grants a maximum of 4.
+
+Rotten flesh can be obtained as a "junk" item while fishing.
+
+Tamed cats have a 70% chance of giving the player a gift when they wake up from a bed, and the gift has a 16.13% chance to be a rotten flesh.
+
+To eat rotten flesh, press and hold use while rotten flesh is selected in the hotbar.
+Eating rotten flesh restores 4 () hunger and 0.8 hunger saturation, but has an 80% chance of inflicting Hunger (effect) for 30 seconds. Note that the duration does not accumulate when eating multiple pieces. However, if more is consumed and the Hunger status effect is inflicted, the duration resets to 30 seconds.
+
+Rotten flesh can be used to breed and heal tamed wolves, lead them around, and make baby tamed wolves grow up faster by 10% of the remaining time.
+Wolves are immune to the Hunger effect.
+
+Novice-level cleric villagers buy 32 rotten flesh for 1 emerald as part of their trades.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Note: The video is outdated, as rotten flesh can now be also gained from fishing, trading, or loot chests.
+
+Issues relating to "Rotten Flesh" are maintained on the bug tracker. Report issues there.
+
+Taking Inventory: Rotten Flesh  Minecraft.net on June 8, 2020

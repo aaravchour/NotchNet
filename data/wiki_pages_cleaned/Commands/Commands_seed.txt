@@ -1,0 +1,5 @@
+Displays the world seed.
+
+seed
+
+Always succeeds. Displays seed which can be copied on click.

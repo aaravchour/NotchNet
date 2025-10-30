@@ -1,0 +1,1 @@
+This structure resembles the old Small House seen in pre-1.14 villages, with multiple changes, such as the gable roof, furniture and a bed.

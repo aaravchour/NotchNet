@@ -1,0 +1,71 @@
+A milk bucket is a drink obtained from using a bucket on cows, mooshrooms and goats that can be consumed to clear all effects.
+
+
+== Obtaining ==
+
+
+=== Harvesting ===
+Milk buckets can be obtained from cows, mooshrooms, and goats by pressing use while looking at them with an empty bucket.
+
+
+=== Mob loot ===
+A milk bucket has a chance of dropping from a wandering trader, if the trader is killed while holding it.‌
+
+
+== Usage ==
+Holding use with a milk bucket starts the drinking sound and animation. In Java Edition, the animation is shown only in first-person camera mode.
+When consumed, milk immediately removes all status effects from the player. Fire is not a status effect; therefore, drinking milk doesn't extinguish a burning player.
+The benefits of area status effects granted by beacons and conduit power are restored almost immediately in Bedrock Edition and after a few seconds in Java Edition.
+
+
+=== Crafting ingredient ===
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== Video ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Milk Bucket" are maintained on the bug tracker. Report issues there.
+
+
+== See also ==
+Water Bucket
+Lava
+Food
+Cake
+Honey Bottle (alternative to remove poison effect)
+Medicine
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External Links ==
+Taking Inventory: Milk Bucket – Minecraft.net on October 8, 2019

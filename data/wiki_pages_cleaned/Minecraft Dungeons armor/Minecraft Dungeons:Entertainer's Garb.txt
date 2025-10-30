@@ -1,0 +1,17 @@
+An entertainer's garb is an armor set that can be found within the echoing void DLC of Minecraft Dungeons. It has a unique variant called the troubadour.
+
+Missions
+The Stronghold
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+
++X health
+Health potions heal nearby allies
++30% positive status effect duration
+
+Issues relating to "Entertainer's Garb" are maintained on the bug tracker. Report issues there.

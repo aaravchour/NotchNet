@@ -1,0 +1,125 @@
+Diorite is a block of igneous rock, found in large pockets in the ground.
+ Polished diorite is the polished version of diorite.
+
+
+== Obtaining ==
+
+
+=== Natural generation ===
+
+Diorite can generate in the Overworld in the form of ore blobs. 
+In Bedrock Edition, Diorite attempts to generate in two batches in all biomes in the Overworld. The first batch generate 2 times per chunk in blobs of size 0-864, from elevations 0 to 60. The second batch has 1⁄6 chance to generate blobs of size 0-864, from elevation 64 to 128. In Bedrock Edition, diorite can replace stone, andesite, granite, polished andesite‌, polished diorite‌, and polished granite‌. In Java Edition, diorite can replace stone, andesite, granite, tuff, and deepslate.
+Diorite generates in weaponsmith houses, tannery houses, and mason houses in snowy tundra villages.
+In Bedrock Edition, diorite generates in coral reefs, replacing some blocks of coral crust.
+Polished diorite also generates in warm underwater ruins.
+
+
+=== Breaking ===
+Diorite can be mined using any pickaxe. If broken without a pickaxe, it drops nothing.
+
+
+=== Crafting ===
+
+
+=== Stonecutting ===
+
+
+=== Trading ===
+Journeyman-level stone mason villagers have a 2⁄7 chance to sell 4 polished diorite for an emerald.
+
+
+== Usage ==
+Diorite is currently used only for decoration. It has the same blast resistance as stone, meaning it can be used as a substitute for stone when building.
+
+
+=== Crafting ingredient ===
+
+
+=== Stonecutting ===
+
+
+=== Trading ===
+Journeyman-level stone mason villagers have a 2⁄7 chance to buy 16 diorite for an emerald.
+
+
+=== Note Blocks ===
+Diorite and polished diorite can be placed under note blocks to produce "bass drum" sound.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Bedrock Edition:
+
+
+== History ==
+
+
+=== Data history ===
+
+
+== Issues ==
+Issues relating to "Diorite" or "Polished Diorite" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+In the real world, diorite comes from underground magma chambers that turned cold. Diorite usually has a salt & pepper appearance.
+Andesite is diorite's above-ground equivalent: The two rocks come from the same kind of magma, but andesite forms in lava flows. Its fast cooling is what makes it look smoother than diorite.
+Granite is another magma chamber rock, but it's made of more quartz crystals. That is why in Minecraft, granite can be crafted by combining diorite and nether quartz.
+In the real world, diorite is an extremely hard rock and is difficult to carve and work with.
+In Minecraft: Story Mode, Reuben's grave on Episode 4 is made out of diorite and a new stair variant of it which cannot be found in Minecraft until the Village & Pillage update, which was announced roughly 3 years after Episode 4. It is unknown whether diorite slabs are present.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Java Edition ===
+
+		
+			
+			
+		
+
+
+== See also ==
+Andesite
+Granite
+Stone
+
+
+== References ==
+
+
+== External Links ==
+Block of the Week: Diorite – Minecraft.net on April 13, 2018

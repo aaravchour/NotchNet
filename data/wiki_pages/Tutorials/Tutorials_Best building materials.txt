@@ -1,0 +1,30 @@
+When building houses or other structures, it's important to choose the right materials for construction. Otherwise, you may end up having a house that can be burned down or blown up easily, or you may spend unnecessary time looking for supplies to build a house out of rare materials and lastly, if no consideration is taken to building materials, the end result can end up looking strange at best and unappealing/haphazard at worst. This tutorial page contrasts different building materials, and additionally gives an overall view of the quality of the material.
+
+
+== What to look for ==
+When picking a material to build with, there are three main considerations: Obtainability, durability, and decoration.
+
+
+=== Obtainability ===
+Some materials are easier to get, while others are extremely difficult and many are somewhere in between. For example, in survival, making a house of cobblestone is certainly easier than making one of diamond blocks. Also to consider is the renewability of the material you would like to use. Some materials can be replicated through various means and thus gained infinitely, while others must be sought after over increasing distances from spawn.
+
+
+=== Durability ===
+The durability of a material is important, especially in PVP. The main considerations to make are hardness, blast resistance, and flammability. Maximum durability is not always necessary. If you don't expect to be attacked by players, then hardness shouldn't be a problem. If you can stop creepers from getting close, blast resistance isn't as important. If there is no nearby lava or trees to spread fire and you aren't concerned about lightning, flammability isn't a problem either. Just remember that it is usually better to have too much durability than too little.
+
+
+=== Decoration ===
+
+Unless you are building strictly for function, then decoration blocks are a big part of enhancing your builds when you've done all that you feel you can with normal building blocks. Ultimately what looks the best is a matter of opinion, and there is no right or wrong way to decorate.
+
+
+== List of materials ==
+
+
+=== Overworld ===
+
+
+=== Nether ===
+
+
+=== The End ===

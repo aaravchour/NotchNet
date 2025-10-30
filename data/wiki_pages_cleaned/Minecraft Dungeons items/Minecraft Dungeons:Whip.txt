@@ -1,0 +1,22 @@
+A whip is a melee weapon that can be found within the various missions of Minecraft Dungeons. Its unique variant is the vine whip.
+
+Missions
+Dingy Jungle
+Panda Plateau
+Treetop Tangle
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Thundering Growth
+
+Whips possess high power, low speed, and low area, and attack only with one lash.
+
+X melee damage
+Longer melee reach
+
+Issues relating to "Whip" are maintained on the bug tracker. Report issues there.

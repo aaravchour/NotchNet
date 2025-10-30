@@ -1,0 +1,43 @@
+Wood Arch Hallway
+There are three empty layers of space above the blueprint. The chest has loot, and one vindicator spawns here.
+The structure is called "1x2_b3".
+
+Gray Banner Room
+There are two layers of empty space above the blueprint. One vindicator spawns here. The banner is plain gray.
+The structure is called "1x2_a1".
+
+Fake End Portal Room
+The loot is in the trapped chest. There are three layers of empty space above the blueprint.
+The structure is called "1x2_s2".
+
+Obsidian Room
+The loot is a diamond block.
+The structure is called "1x1_as3".
+
+Checkerboard Room
+The loot is in a chest.
+The structure is called "1x1_a4".
+
+Lava Room
+The loot is a diamond block.
+The structure is called "2x2_s1".
+
+Cobblestone X Cage
+The structure is called "1x1_as1".
+
+Confusing Spial Staircase With Loot
+The structure is called "1x2_b4".
+
+Spider Room
+The monster spawner spawns spiders. To recreate, use a spider spawn egg on the monster spawner.
+The structure is called "1x1_as2".
+
+Cage Room
+The structure is called "2x2_b5".
+
+Roof-Chest Room
+The chest is hidden in the "attic."
+The structure is called "1x2_se1".
+
+Lone Chest Room
+The structure is called "1x2_s1".

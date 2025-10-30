@@ -1,0 +1,21 @@
+The dripstone caves biome is an Overworld cave biome filled with clusters and pillars of pointed dripstone and dripstone blocks.
+
+Dripstone caves generate underground at any altitude. They favor generating beneath areas with high continentalness values, which means they are usually found far inland, and are essentially never found under ocean biomes or bordering a coast.
+Dripstone blocks and pointed dripstone both hanging as stalactites and growing from the ground as stalagmites, small water wells of 11 blocks are generated in the ground. They mostly appear like regular caves, except with patches of dripstone blocks and pointed dripstone. Large dripstone clusters structures generate occasionally inside ravines. This biome also generates larger copper ore blobs compared to other biomes. In Java Edition, drowned are able to spawn in aquifers.
+When exposed to the surface, the surface is made entirely out of stone with occasional patches of dripstone.
+The following mobs are naturally spawned here
+
+These music tracks play while the player is in the Dripstone Caves.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Dripstone Caves" are maintained on the bug tracker. Report issues there.
+
+The Sn ong cave in Vietnam was of particular inspiration when coming up with the features of dripstone caves.
+
+Lush Caves
+Deep Dark
+
+Around the Block: Dripstone Caves  Minecraft.net on February 10, 2022

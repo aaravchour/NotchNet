@@ -1,0 +1,87 @@
+A drowned necromancer is a powerful necromancer variant that can be found within the various missions of Minecraft Dungeons.
+
+
+== Spawning ==
+Coral Rise
+Abyssal Monument
+Radiant Ravine
+The Stronghold
+Daily Trial
+Tower
+
+
+== Appearance ==
+A drowned necromancer is a large drowned dressed in an outfit similar to a Necromancer. It wears a dark-blue hood fitted with two gold accents that resemble a crown and large shoulder pads with torn edges and gold rims, and on the back, a long blue cape with torn edges. Under its hood, it wears torn purple clothes and various gold accents like a belt and armbands. It holds a unique staff that resembles a trident but instead is black, has a blue orb on between the spikes, with light blue tips on the spikes.
+
+
+== Behavior ==
+Drowned necromancers have three attacks that they utilize to fend off heroes.
+
+Basic attack
+Drowned necromancers shoot several steam projectiles at heroes, dealing a small amount of damage on impact.
+
+Strong attack
+Drowned necromancers summon drowned, trident drowned, and their variants to assist them. They usually summon about two drowned at a time.
+
+Trident storm
+Drowned necromancers wave their trident in the water, conjuring tridents to fall from above. The tridents explode on impact, and fall at random times.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Data values ==
+In the game files, drowned necromancers are referred to internally by the name DrownedNecromancer.
+
+
+== Gallery ==
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Animations ===
+
+		
+			
+			
+		
+
+
+=== Official images ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Artwork ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

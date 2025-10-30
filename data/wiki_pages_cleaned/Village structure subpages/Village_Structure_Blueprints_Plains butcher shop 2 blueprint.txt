@@ -1,0 +1,1 @@
+All smooth stone slabs in layer 0 are all top slabs. The pair of indoor oak stairs in layer 4 are upside down.

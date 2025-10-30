@@ -1,0 +1,22 @@
+A Piglin Base is a piglin structure that can be found within Minecraft Legends.
+
+Piglin bases generate in groups of three, or five (depending on difficulty), each group with it's own horde type, and each base with a difficulty level from easy to medium to hard, with three types of the hordes in total. They can be located with on your map, with a nether portal icon. and are destroyed when the portal in the middle is destroyed. Once destroyed, all piglins will vanish along with most of the structures at that outpost.
+If the maximum amount of Piglin bases is reached (three to five per horde depending on difficulty), and a base tries to build another one, the Piglins will "make an error" and damage it.
+
+Piglin bases will sometimes upgrade itself during the nighttime. If a piglin base successfully upgrades itself, it will become stronger and get more structures. If a base attempting to upgrade itself is disturbed by attacking it, destroying it or staying near it will cause the base not to be successful at upgrading. 
+
+Nether Portal
+Piglin Gate
+Piglin Walls
+Lava Coil
+Blaze Rod Tower
+Armored Tower
+Nether Spreader
+Spore Tower
+Terror Horn
+Spike Tower
+Piglin Pit
+Patcher
+Piglin Launcher
+Siegeworks
+Gold Extractor

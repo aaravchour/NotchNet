@@ -1,0 +1,5 @@
+Drops 4 iron ingots.
+
+iron
+
+Succeeds only once in 12000 ticks. Drops 4 iron ingots on the ground, as if the player had dropped them.

@@ -1,0 +1,4 @@
+The End City Ship can be found near the End City Tower which contains an elytra and few loot chests.
+In Java the path to load the structure from a structure block is minecraft:end_city/ship.
+
+The end ship is 24 blocks high, 29 blocks long and 13 blocks wide.

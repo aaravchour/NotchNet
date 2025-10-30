@@ -1,0 +1,17 @@
+A block of raw copper is a raw metal block equivalent to nine raw copper.
+
+Blocks of raw copper only drop themselves as items when mined using a stone pickaxe or better.
+
+Blocks of raw copper can be found rarely inside of copper ore veins above Y=0.
+
+Blocks of raw copper are a compact way to store raw copper.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Block of Raw Copper" are maintained on the bug tracker. Report issues there.

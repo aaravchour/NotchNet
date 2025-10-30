@@ -1,0 +1,55 @@
+A breeze is a floating hostile mob that is similar to the blaze that spawns in trial chambers. It attacks at range by firing wind charges. They drop breeze rods, which can be crafted into wind charges and the maces. 
+
+
+== Appearance ==
+Breezes are very similar to blazes. They have a head that is bright purple on top and dark blue on the bottom with two eyes that have yellow scleras, black pupils, and large white bushy eyebrows that resemble clouds and gives the appearance of it being angry. Underneath the head are three rods that are similar to a blaze rod. The rods represent its breeze rods. The rods are surrounded by a bunch of lines that resembles a wind tunnel or a tornado. The Breeze is a possible windier cousin of the blaze. A Breeze also hovers slightly above the ground, similar to a Blaze.
+
+
+== Spawning ==
+Breezes spawn from trial spawners surrounded by chiseled tuff in trial chambers. They spawn specifically from trial spawners that have a rotating, diagonally-oriented breeze inside them, and will stop spawning when the trial is complete.
+
+
+== Drops ==
+Breezes drop breeze rods, which can be used to craft wind charges. Breeze rods are also able to be crafted into the Mace, with the recipe being the breeze rod under and the Heavy Core on top, meaning that you can craft it in your own inventory. They are 100% guaranteed to drop 2-4 wind charges, but it only counts if the damage is listed as a player kill. Any natural deaths, like hovering into lava that the player placed, are not counted. This makes farming wind charges difficult, since they are immune to all traditional afk farming methods, which is why people have designed farms oriented around using dogs and thorns armor to efficiently farm breezes.
+
+
+== Behavior ==
+Breezes are immune to damage from projectiles and able to repel them back. They are also immune to fall damage, much like cats. They leap all around to attack players and mobs nearby and flee when they get too close. firing wind charges that burst to switch some redstone components and knock entities into the air. The knockback and radius are larger than that of a player-crafted wind charge, allowing it to launch itself around the room it's in. 
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Breezes have entity data associated with them that contain various properties.
+Java Edition:
+
+Breeze/ED
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+
+== History ==
+
+
+== Gallery ==
+
+		
+			
+			
+		
+
+
+== Issues ==
+Issues relating to "Breeze" are maintained on the bug tracker. Report issues there.
+
+
+== See also ==
+Blaze

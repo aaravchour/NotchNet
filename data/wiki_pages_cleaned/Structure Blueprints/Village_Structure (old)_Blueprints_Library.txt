@@ -1,0 +1,6 @@
+The oak in these blueprints can be replaced with spruce or acacia wood if the village is in the taiga or savanna, respectively. For this reason, they are considered the same thing.
+
+Note: the wood stairs are optional for the first layer and generates only if the library was spawned above street level. The first layer is 9 blocks by 6 blocks. 
+The wooden pressure plate is replaced with a brown carpet in Bedrock Edition.
+
+Note: the sandstone stairs are optional for the first layer and generates only if the library was spawned above the gravel street level.

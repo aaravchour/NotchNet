@@ -1,0 +1,6 @@
+Clears fixed inventory slots.
+
+clearfixedinv
+
+Fails if there are no fixed inventory slots available.
+On success, clears all fixed inventory slots.

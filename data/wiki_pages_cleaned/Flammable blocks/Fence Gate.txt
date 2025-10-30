@@ -1,0 +1,85 @@
+A fence gate is a block that shares the functions of both the door and the fence.
+
+A fence gate can be broken with anything, but an axe is fastest.
+
+Oak
+Oak fence gates generate as part of:
+
+Plains villages
+Spruce
+Spruce fence gates generate as part of:
+
+Taiga, snowy tundra and snowy taiga villages
+Jungle
+Jungle fence gates generate as part of:
+
+Desert villages
+Acacia
+Acacia fence gates generate as part of:
+
+Savanna villages
+Dark oak
+Dark oak fence gates generate as part of:
+
+Woodland mansions
+
+A fence gate can be used as a switchable barrier that can be opened and closed by hand or by redstone power.
+To place a fence gate, use the Place Block control while pointing at a block facing the space the fence gate should occupy. When placed, a fence gate automatically faces toward the player who placed it, regardless of any other fences around it.
+A fence gate can be placed whether there is a solid block beneath it or not.
+Fences, nether brick fences and walls connect to fence gates, but glass panes and iron bars do not. A fence gate floats in mid-air when placed with no connection to anything else.
+
+A fence gate can be used as a switchable barrier.
+To open or close a fence gate, use the Use Item control. When a fence gate opens or closes, it immediately changes its orientation without affecting anything in the space it "passes through"moving fence gates don't push entities the way that pistons do. When opened by hand, a fence gate always opens away from the player.
+Although a fence gate appears to be only one block tall, a closed fence gate is a barrier one and a half blocks high. Most mobs cannot jump over a fence gate, and entities on top of the fence gate stand half a block above it.
+An open fence gate is completely non-solid, similar to a sign or a torch. Multiple open fence gates next to each other can be passed through as if the entire space is open.
+Hostile mobs recognize closed fence gates as a block and cannot detect players through it unless they were already detected.
+The sound of opening and closing of a fence gate can be heard up to 16 blocks away, like most mob sounds.
+
+A fence gate can be controlled with redstone power.
+A fence gate is a redstone mechanism and can be activated by:
+
+an adjacent active power component, including above or below: for example, a redstone torch, a block of redstone, a daylight sensor, etc.
+an adjacent powered block (for example, a block with an active redstone torch under it), including above or below
+a powered redstone comparator or redstone repeater facing the fence gate
+powered redstone dust configured to point at the fence gate or a directionless "dot" next to it; a fence gate is not activated by adjacent powered redstone dust that is configured to point in another direction.
+When activated, a fence gate opens immediately. When deactivated, a fence gate closes immediately.
+An activated fence gate can still be closed by a player, and won't re-open until it receives a new activation signal (if a fence gate has been closed "by hand", it still needs to be deactivated and then reactivated to open by redstone).
+Fence gates can be moved by pistons. When an activated fence gate is moved by a piston to a position where it shouldn't be activated, it doesn't change its state until it receives a redstone update.
+
+Overworld wooden fence gates can be used as a fuel in furnaces, smelting 1.5 items per fence gate.
+
+Fence gates can be placed under note blocks to produce "bass" sounds.
+
+While a fence gate cannot be equipped in the head slot in Survival mode, equipping it using commands causes it to appear as eyeglasses.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+For a more in-depth breakdown of changes to textures and models, including a set of renders for each state combination, see /Asset history
+
+Issues relating to "Fence Gate" are maintained on the bug tracker. Report issues there.

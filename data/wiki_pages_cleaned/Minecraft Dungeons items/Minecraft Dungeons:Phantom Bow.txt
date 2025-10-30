@@ -1,0 +1,21 @@
+The phantom bow is a unique power bow variant that could be found exclusively within the various spookier fall missions of Minecraft Dungeons. It has identical abilities to the elite power bow.
+
+Missions
+Tower
+Events
+Spookier Fall (ended)
+Merchants
+Gift Wrapper
+
+X ranged damage
+Strong charged attacks
+Greater damage (Power tier I)
+
+Charge Multiplier: 3
+Quiver: 26
+Fire Rate: 2.2 shots per second (uncharged)
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+Issues relating to "Phantom Bow" are maintained on the bug tracker. Report issues there.
+
+Phantom

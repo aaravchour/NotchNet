@@ -1,0 +1,177 @@
+Wither skeletons are tall black variants of skeletons equipped with stone swords that inflict the poison-like Wither effect. They are found exclusively in nether fortresses and are the only source of wither skeleton skulls, as well as the only renewable source of coal.
+
+
+== Spawning ==
+Wither skeletons spawn in nether fortresses at a light level between 0 and 7, in groups of up to 4. They are the only mobs that can spawn inside wither roses due to their immunity to the damaging effect.
+
+
+==== Halloween ====
+                                                                           
+On Halloween, wither skeletons have a 22.5% chance of spawning wearing a carved pumpkin and a 2.5% chance of spawning wearing a jack o'lantern. This is not dropped, except when killed with Looting, which have a chance of 1-3% to drop depending on the Looting level.
+
+
+==== Withers ====
+                                                                           
+The wither spawns 3-4 wither skeletons when below half health on normal and hard difficulties.
+
+
+==== Jockeys ====
+                                                                           
+Spiders and cave spiders spawned in the Nether have a 0.8% chance of spawning a wither skeleton on their back and form a spider jockey. Spiders do not naturally spawn in this dimension.
+
+
+== Drops ==
+0 to 2 bones. The maximum drop is increased by 1 per level of Looting, for a maximum of 0 to 5 bones with Looting III.
+There is a 1⁄3 chance to drop a single coal. Each level of Looting increases the maximum drop by 1, so that Looting I drops 0-2 coal with an average of 0.75 coal per kill, Looting II drops 0-3 coal with an average of 1.2 coal per kill and Looting III drops 0-4 coal with an average of 1.67 coal per kill.
+2.5% chance to drop a wither skeleton skull when killed by a player or tamed wolf. Looting increases the chance by 1% per level‌ or 2% per level‌, for a maximum of 5.5%‌ or 8.5%‌ chance with Looting III. Their skull is always dropped if killed by a charged creeper, though only one head‌ or all heads‌ drop if many are killed by the same charged creeper explosion.
+8.5% chance of dropping their unenchanted stone sword which has a random durability. This chance increases by 1% per level of Looting, for a maximum of 11.5% chance with Looting III.
+5 experience orbs when killed by a player or tamed wolf, and an additional 1–3 is dropped per piece of naturally-spawned equipment that does not drop upon death.
+Because all wither skeletons spawn with a stone sword, each of them effectively drop 6–8 if the sword is not dropped.
+If the wither skeleton does drop its stone sword, it drops the default 5 instead.
+If a wither skeleton wearing a carved pumpkin or jack o'lantern is killed using a tool enchanted with Looting, there is a chance equivalent to the level of Looting used to drop the carved pumpkin or jack o'lantern, a maximum of a 3% chance of a drop.
+
+
+== Behavior ==
+Wither skeletons wander aimlessly when idle, but sprint to attack players, snow golems, iron golems, baby turtles, piglins, and piglin brutes. They flee from wolves but retaliate if attacked. 
+When an entity is attacked by a wither skeleton in any difficulty, it is inflicted with the Wither effect for ten seconds, which turns the health bar black ( × 10) and decreases it by 1 every two seconds, similarly to Poison, except that it can cause death.
+Some wither skeletons may have the capacity to pick up dropped gear in Normal and Hard difficulties. The chance depends on regional difficulty, with up to 55% of them capable of picking up swords higher than stone tier plus any armor. Wither skeletons never take bows; in Java Edition, if they hold a bow (which can be done with /summon wither_skeleton ~ ~ ~ {HandItems:[{id:bow,Count:1b}]}) they shoot flaming arrows even if their bows are not enchanted. They cannot use crossbows.
+Wither skeletons are immune to fire and the Wither effect. They still seek shade or water during daylight if they are in the Overworld although they do not burn in sunlight. Like most undead mobs, they sink in water but do not drown, are healed by Instant Damage and harmed by Instant Health effects, are immune to Regeneration and Poison effects and are not attacked by the wither. 
+In Bedrock Edition, the player can burn them by throwing a trident enchanted with Channeling during a thunderstorm.
+
+
+== Sounds ==
+Java Edition:
+Wither skeletons use the Hostile Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:‌
+
+Bedrock Edition:‌
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Wither skeleton have entity data associated with them that contains various properties. The wither skeleton is taller than the skeleton.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Wither Skeleton" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Wither skeletons can't fit through the gap under the staircase of the nether wart room in fortresses.
+
+
+== Gallery ==
+
+
+=== Renders ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

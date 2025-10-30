@@ -1,0 +1,9 @@
+Structure files are stored as an NBT file.
+This file format is used to store structures such as end city, igloo and fossil into the data/minecraft/structures folder inside client.jar. Custom structures can also be saved and loaded using the structure block. These structures are saved into the /generated/minecraft/structures subfolder in the world save folder.
+
+
+== Structure Files ==
+
+
+== NBT structure ==
+All the specified positions are relative to the block located toward  -X, -Y, -Z.

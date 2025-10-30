@@ -1,0 +1,25 @@
+A birch forest is a lush biome, usually generating near other woodland biomes. There are two variants in the biome family.
+
+Birch forest biomes are almost exactly the same as the regular forest biome. The most obvious difference is that the trees generated are different. Birch forest biomes feature birch trees across the landscape. They generate as densely as trees in the regular forest biome. And unlike the regular forest biome, wolves do not spawn here.
+Birch forest biomes are rarer than regular forest biome, and usually surrounded by regular forests or dark forests. Regular birch forests are most commonly separated from old growth birch forests or meadows by rivers.
+Like forests, birch forests are an excellent starter biome in a Survival world.
+The following mobs are naturally spawned here
+
+There are two birch forest biome variants (birch forest and old growth birch forest), with two removed variants in previous versions.
+
+This birch forest is the regular birch forest biome, featuring normal birch trees.
+
+The old growth birch forest features birch trees, half of which are significantly taller than normal, with their trunks being up to 14 blocks tall. This makes harvesting wood more difficult, but allows more wood to be collected in the long run. Trail ruins generate here.
+
+These music tracks play while the player is in the birch forest or in the old growth birch forest.
+
+Java Edition:
+
+Bedrock Edition:
+
+Forest
+Dark Forest
+Taiga
+Old Growth Pine Taiga
+
+Around the Block: Birch Forest  Minecraft.net on February 11, 2021

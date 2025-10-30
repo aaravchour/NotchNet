@@ -1,0 +1,30 @@
+Sends a request to client for shaking the player's camera (the effect won't be shown if the player has Camera Shake disabled in their Accessibility settings).
+
+camerashake add <player: target> [intensity: float] [seconds: float] [shakeType: CameraShakeType]
+Add the camera shake effect to a player.
+camerashake stop <player: target>
+Stops the camera shake.
+
+player: target: CommandSelector<Player>
+
+Specifies the player(s) who's clients will be sent a camera shake request. If not specified, defaults to the command's executor (@s).
+Must be a player name or a target selector.  And the target selector should be of player type. Unlike in other command, this target selector can always target online dead players with @e.
+intensity: float: float
+
+Specifies the intensity of the camera shake.
+Must be a  Single-precision floating-point format number. Should be between 0 and 4 (inclusive).
+seconds: float: float
+
+Specifies the duration of the camera shake.
+Must be a  Single-precision floating-point format number.
+shakeType: CameraShakeType: enum
+
+Specifies the type of camera shake direction.
+Must be one of positional and rotational.
+
+To perform a positional camera shake with intensity 0.25 for 5 seconds:
+
+/camerashake add @p 0.25 5 positional
+To perform a rotational camera shake with intensity 0.25 for 5 seconds:
+
+/camerashake add @p 0.25 5 rotational

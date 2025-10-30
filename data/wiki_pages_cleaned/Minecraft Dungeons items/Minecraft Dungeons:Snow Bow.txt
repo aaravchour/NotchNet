@@ -1,0 +1,27 @@
+A snow bow is a ranged weapon that can be found within the creeping winter DLC of Minecraft Dungeons. Its unique variants are called the winter's touch and in the Spookier Fall, the webbed bow.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Frosted Fjord
+Lost Settlement
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Frostwarden
+
+X ranged damage
+Freezes on impact
+
+Quiver: 80
+Charge Multiplier: 2.5
+Fire Rate: 2.2 shots per second
+
+Some sounds for snow bows are found in the mob audio folder.
+
+Issues relating to "Snow Bow" are maintained on the bug tracker. Report issues there.

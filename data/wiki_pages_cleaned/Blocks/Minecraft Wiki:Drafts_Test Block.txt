@@ -1,0 +1,15 @@
+Test Block is a block added in Java Edition 1.21.5. It is a technical block used in game test.
+
+Test Blocks cannot be obtained in Creative Inventory (unless operator tabs are enabled). It can also be obtained by using /give, /setblock, or /fill commands in Creative mode.
+
+Test blocks can only be used in creative mode, and has a permission level of 2 or higher. It also shares the same blast resistance and hardness as bedrock.
+Test blocks have 4 values:
+
+Start - starts the test when powered by redstone.
+Log - logs the test when powered by redstone.
+Fail - fails the test when powered by redstone.
+Accept - passes the test when powered by redstone.
+
+Issues relating to "Test Block" are maintained on the bug tracker. Report issues there.
+
+Test Instance Block

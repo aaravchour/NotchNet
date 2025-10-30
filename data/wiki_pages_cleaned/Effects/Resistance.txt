@@ -1,0 +1,14 @@
+Resistance is a status effect that reduces incoming damage.
+
+Resistance reduces incoming damage by 20%  level from all sources except for starvation, the void, /kill, and explosions with extreme power values (negative values (128 to 255 (mod 256) or -128 to -1 (mod 256)) stored in an NBT, see entity format) such as creepers and ghast fireballs.
+Resistance is applied only to the remaining damage after all other damage reductions (armor and enchantments), but before rounding down to a whole number. This means any equipped armor pieces still lose the usual amount of durability, even at level 5+ where the potion effect grants complete immunity to most sources.
+
+Withers and ender dragons are immune to Resistance; it grants no benefit to them.
+
+Level 5+ gives the player or mob full immunity to all damage, with the exceptions mentioned earlier.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Resistance" are maintained on the bug tracker. Report issues there.

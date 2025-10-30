@@ -1,0 +1,32 @@
+The splendid robe is a unique battle robe variant that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty, the item is obtainable on unless stated otherwise.
+
+Creepy Crypt (Apocalypse)
+Redstone Mines (Apocalypse)
+Frosted Fjord (Apocalypse, DLC)
+Colossal Rampart (Apocalypse, DLC)
+Abyssal Monument (DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Abominable Weaver
+
++X health
++50% artifact damage
+-40% artifact cooldown
++30% melee damage
+
+An illager warrior is an unseen illager, referred to as the special protectors of the Arch-Illager within the description of the splendid robe.
+
+Not much is known about their appearance other than that they mostly wear the splendid robe, and possibly resemble an evoker.
+
+In the game files, the splendid robe is referred to internally by the name DragonRobe.
+The name of the texture has a typo, with it being referred to as the T_DraognRobe.
+
+Issues relating to "Splendid Robe" are maintained on the bug tracker. Report issues there.

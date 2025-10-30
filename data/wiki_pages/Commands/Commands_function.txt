@@ -1,0 +1,77 @@
+Runs commands founds in the corresponding function file with command execution context (executor, execution position, angles, etc) of the /function command.
+In Java Edition, runs a function or all functions in a tag from a datapack.
+In Bedrock Edition, Runs a function from a behavior pack.
+
+
+== Syntax ==
+Java Edition
+function <name> [<arguments>|with (block <sourcePos>|entity <source>|storage <source>) [<path>]]
+Bedrock Edition
+function <name: filepath>
+
+
+== Arguments ==
+JE: <name>: functionBE: name: filepath: CommandFilePath
+
+In Java Edition, must be a resource location, which refers to a single function, or one prefixed with a #, which refers to a function tag. In Bedrock Edition, must be of the format path/to/function/file, which refers to a function located at [behavior_pack]/functions/path/to/function/file.mcfunction.
+JE: <arguments>: nbt_compound_tag
+
+Must be a  compound NBT in SNBT format.
+JE: <sourcePos>: block_pos
+
+Must be a block position composed of <x>, <y> and <z>, each of which must be an integer or a tilde and caret notation.
+JE: <source>: entity (in entity <target> mode)
+
+Must be a player name, a target selector or a UUID.
+JE: <source>: resource_location (in storage <target> mode)
+
+Must be a resource location which will be resolved during command execution into unregistered content or client-side content.
+JE: <path>: nbt_path
+
+Must be an NBT path.
+
+
+== Result ==
+
+
+== Output ==
+
+In Java Edition:
+
+Success count is the sum of success counts of all commands ran in the function/functions plus 1 (this command itself).
+For example,
+foo:bar1
+function foo:bar2
+foo:bar2
+function foo:bar3
+foo:bar3
+say hi
+The success count of /function foo:bar3 is 1 (one command in foo:bar3) + 1 (this command itself) = 2.
+The success count of /function foo:bar2 is 2 (from above) + 1 (this command itself) = 3.
+The success count of /function foo:bar1 is 3 (from above) + 1 (this command itself) = 4.
+Output message displayed in chat returns the number of commands ran (not the number of commands that succeed) plus the number of embedded functions called by a function.
+The chat output count of /function foo:bar3 is 1(one command in foo:bar3).
+The chat output count of /function foo:bar2 is 1 (one command in foo:bar2) + 1 (one command in foo:bar3) + 1 (one embedded function) = 3.
+The chat output count of /function foo:bar1 is 1 (one command in foo:bar1) + 1 (one command in foo:bar2) + 1  (one command in foo:bar3) + 2 (two embedded functions) = 5.
+If successful, /execute store success always returns 1. Otherwise, returns 0.
+If successful, the return value of /execute store result is the same as chat output count. Otherwise, returns 0.
+
+
+== Examples ==
+In Java Edition:
+To run a function located at data/custom/functions/example/test.mcfunction in a loaded data pack: /function custom:example/test
+To run all functions in a function tag located at data/custom/tags/functions/example/test.json: /function #custom:example/test
+To run a function if there is a sheep within a radius of 2 blocks: /execute if entity @e[type=sheep,distance=..2] run function custom:example/test
+To run a function unless the executor is a player: /execute unless entity @s[type=player] run function custom:example/test
+To run a function macro with arguments a=42, b="example": /function custom:example/test {a: 42, b: "example"}
+To run a function macro with arguments from storage custom:storage: /function custom:example/test with custom:storage
+
+
+== History ==
+
+
+== See also ==
+/tag – To run function in batch, every tick, or on server (re)load.
+
+
+== References ==

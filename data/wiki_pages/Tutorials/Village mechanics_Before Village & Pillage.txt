@@ -1,0 +1,116 @@
+This page describes mechanics relating to villages and villagers in Java Edition 1.13.2 and Bedrock Edition 1.7.1.
+
+
+== Terminology ==
+A village is defined by several factors: the village center, radius, number of houses, population (number of villagers), population cap (max. number of villagers, based on housing), number of golems, and golem cap (based on population).
+A village needs at least one house and at least one villager in order to be a "village". A "house" is defined simply as a wooden door with an "inside" and an "outside" (see the next section for details). A village tries to maintain its population above 35% of the number of houses if there are at least two villagers.
+The village center is the geometric center point, or "average coordinates" of all the doors. The village radius is the distance from this center point to the furthest door, or 32 blocks, whichever is greater. This means that the radius is always at least 32, no matter what, but it can be bigger if there are any houses further than 32 blocks from the center. The center point coordinates are truncated, resulting in a tendency towards 0,0.
+The center of a village can be calculated by taking the average of all coordinates of the doors in the village: 
+(x.coordinate_door1 + x.coordinate_door2 + x.coordinate_door3 + ...)/ number-of-doors = x.coordinate_village-center
+(y.coordinate_door1 + y.coordinate_door2 + y.coordinate_door3 + ...)/ number-of-doors = y.coordinate_village-center
+
+
+== Housing ==
+A "house" is defined as a wooden door with an "inside" and an "outside." The "inside" is the side which has more spaces covered by "roof" blocks than the other, within five spaces horizontally of the door in the two directions it faces. A "roof" block is an opaque block at any height that blocks direct sunlight from reaching the spaces below it.
+Another way to put it would be to say that an "outside" space has a direct view of the sky, and so has a "SL" (sky light) value of 15. An "inside" space does not have a direct view of the sky (looking straight up) and a "SL" value of less than 15. The "inside" is the side which has more "inside spaces" than the "outside" (which, in turn, has more "outside spaces" than the "inside.") Technically, a sky light as low as 11 (but not lower) is allowed.
+A door is not counted as a house without a "roof," or with the same number of covered spaces on either side.
+Example - The door is placed on the wooden planks. The game checks the spaces represented by the light blue wool, to see if they are covered by a "roof" block or not:
+
+The simplest house looks something like this. Just a wooden door, with a dirt block on the ground next to it:
+
+The dirt blocks the light from reaching the space below it, and so counts as a roof block. There is one "inside" space, covered by a roof block, on the right side of the image (represented by the red wool below) and zero on the left. Since one is more than zero, there are more covered spaces on one side of the door than there are on the other, and so the game counts this as a house:
+
+The following are also examples of houses:
+
+The only blocks that matter are those directly above the colored wool. The blocks on either side of this area, if any, are not necessary.
+
+A door is two blocks tall, and this check is performed twice per door, if necessary. If the initial "roof check" (see Fig. 1) fails, then the bottom-most layer is ignored and the check is performed a second time, starting one layer higher. This time, only the spaces above the lime-green wool are checked for roof blocks:
+
+Example - For the door pictured below, the initial roof check finds there are two spaces covered by roof blocks on the left side, and two covered spaces on the right also. With the same number of covered spaces on each side, neither one can be designated the "inside" or the "outside," and so the door is not counted as a house... yet, but we're not through yet, either:
+
+Then since the initial check failed, the bottom layer is ignored, and we perform the test again, this time checking for roof blocks only above (not level with) the green wool. This time, only the two spaces on the left-hand side of the image are covered. Since the "roof check" passed on this second try, the door counts as a house, and its "inside" is on the left where the more covered spaces are:
+
+In the next example, the door passes the test on the initial first check. It has one covered space on the left side and two on the right. This makes it a house with the "inside" to the right. The second check would pass as well (with the "inside" on the left this time), but since the first one already passed, we don't even bother testing again. This door counts as a house, with the "inside" on the right:
+
+The covered spaces don't have to be contiguous. The door below is a house, with the "inside" on the right, which has three covered spaces within the 5-space limit, while the left side has only two:
+
+This next door has three covered spaces on each side, and is not a house:
+
+A house is initiated by a nearby villager. Without a villager nearby, it is not considered a "house," just some blocks and a door:
+
+But as soon as that villager shows up, it becomes a house (and a village):
+
+Villagers will recognize a house within sixteen blocks along both horizontal axes, and up to three blocks above or five blocks below the level of the ground the villager is standing on:
+
+
+=== Overlapping boundaries ===
+Main article: Tutorials/Village_chaining
+
+
+=== Transparent blocks ===
+It seems there are three kinds of transparent blocks. First, there are fully transparent blocks such as glass, torches, and fences. Then, there are what are called "partially transparent" blocks such as slabs, stairs, and leaves, which are treated as transparent by the rendering engine. Glowstone is also treated as transparent, although you cannot see through any part of it. Solid transparent blocks can be used as "floor" blocks in villages. Semi-transparent blocks still block light from passing through (at least partially, as is the case with leaves or water), so they're still somehow considered opaque to the lighting engine, which appears to be where it counts. These partially transparent blocks will block the sunlight, and so will count as roof blocks. Fully transparent blocks still do not count. Water and lava (both flowing and source blocks) are partially transparent, and will count as roof blocks. Leaves, slabs, and stairs count as roof blocks.
+
+
+=== Cancelling out ===
+The rumor that two doors facing within a certain distance of each other will cancel each other out, causing neither of of them (or only one of them) to count as "houses", is not true. The doors on the left do not count as houses not because they are facing each other, but because each one has exactly one space covered by a roof block on either side.
+Here is an image that demonstrates the overlap between the areas checked for roof blocks by each of the two doors. The door on the left checks above the pink blocks, and the door on the right checks above the blue ones (but only in the center row that's inline with the doors, clearly). Purple blocks represent the area where the two zones overlap, and these spaces are checked by both doors:
+
+Since these doors both have the same number of covered spaces on either side, they don't have an "inside" or an "outside," and therefore cannot be called "houses." However, if additional blocks are placed behind these, they will be 6 blocks away from the far door, too far to be counted, but are still within range of the nearer door, creating the imbalance necessary to call them "houses":
+
+With these additional blocks in place, the doors now are valid houses. This is my understanding, and the Village Info mod agrees:
+
+
+== Transporting villagers ==
+The player can transport villagers to new locations (for the purpose of starting new villages or baiting mob traps) using a variety of techniques:
+
+Minecart: The player builds a minecart track from the village to the destination, then pushes a villager into the cart and pushes the cart to the destination.
+Water path: The player creates a tunnel or walled path with no exits along the way, and then with two water buckets, uses water to push villagers down the path a few blocks at a time, using the empty bucket to retrieve the water block furthest back. A soul sand bubble column can be used to move villagers upward.
+Boat: A simple way to transport a single villager over ground is to push one into a boat and then drive the boat, which can be rowed (albeit slowly) over land. A boat can move upward by using a piston in the ground or creating an upward bubble column. The player can also drive the boat up to the step, place a second boat on the step, break the first boat (without hitting the villager) to cause the villager to move to the second boat. In Bedrock Edition, a boat can be pulled up using a lead.
+Houses: There is an easier way to transport villagers, rather than pushing them in a minecart, boat or using the water tunnel. Firstly find a village, and destroy all wooden doors except one to gather the villagers there. Then move the villagers by creating fake houses. As long as these meet the house requirements, the villagers will 'follow' the doors. The easiest way to do this is to place a door with 2 blocks stacked up behind it, removing the old door so that the villagers will follow and continuing the process again and again. For a visual representation, watch the following video from 1:20 to 3:33.
+
+Nether portal: If portals have not already been constructed in the Nether, then the player can create a portal at the Overworld destination, travel into the nether and back out again immediately, then build another portal in a village less than 1,024 blocks from the first portal. After pushing villagers into the village portal (manually or by minecart), then pushing them back out again, letting them "cool down" for 30 seconds, and pushing them back in, the villagers should exit from the first portal.
+
+
+== Breeding and population cap ==
+
+Villagers breed without player intervention, but there must be at least two adult villagers who can reach each other. If you are starting a village from scratch, or recovering from zombie villagers and there are no villagers left (or only one), then you need to acquire more. The only ways to do that are:
+
+Hauling them in from another village
+They can be shipped by a boat, a minecart, or led through the night with a trail of fake houses (see videos).
+Curing infected zombie villagers
+Using commands and/or creative mode spawn eggs
+Given a breeding pair, a village's population is maintained at 0.35 times the number of "houses" (defined above.) Specifically, villagers may mate if the current population (updated only once per second) is below 0.35 times the number of "houses" rounded down.
+Residents of a village which has not yet reached its population cap will occasionally go into "love mode," indicated by animated hearts above their head (only visible if you have particle effects enabled, but still works even when you can't see it working). Much like with most animals, when two villagers are feeling "romantic" and can see each other, they will pathfind towards the other and "kiss" for a few seconds, after which a third, smaller ("baby") villager will spawn next to them. This new villager will be assigned a random profession (indicated by the style and color of its clothing), not necessarily the same as either parent.
+
+
+=== Willingness ===
+Villagers must be "willing" in order to breed. After mating, they will no longer be willing and must be traded with again before becoming willing again.
+Villagers can become willing by the player trading with them. Willingness is granted the first time a new offer is traded, or at a one-in-five chance on subsequent trades. This will not cause them to immediately seek out a mate, however.
+Villagers can also become willing by having either 3 bread, 12 carrots 12 potatoes, or 12 beetroots in their inventory. Farmer villagers will throw harvested crops at villagers, allowing them to pick them up to obtain enough food to become willing.
+
+
+=== Breeding indefinitely ===
+There is also a bug or glitch where the villagers can be coaxed to breed indefinitely without regard to the population cap.
+Villagers need to be inside a sphere (radius = village radius) around the village center in order to breed, but the village population counts only villagers that are inside a box (width, length = 2× village radius, height: 8 [always!]) around the village center. So with a sphere that can grow to any size, and a box that's always only 8 high, it should be apparent that there are some zones only covered by the sphere (above and below the village center).
+You can reproduce/abuse this behavior by building 6 houses on the ground level (enough to set the villager limit to 2), drop 2 (or more) villagers into a 6 blocks deep hole, and leave one villager at the top to keep the houses "alive". The villagers in the hole will breed indefinitely, because they're not counted against the cap. As of Minecraft Java Edition 1.8, you need to make the villagers willing to breed, by also giving them food (or give them a farm, a crop, with a farmer), or trading with them.
+
+
+== Curing zombie villagers ==
+
+
+== Iron golems ==
+
+Iron golems will spawn near the center of a village if it has at least ten villagers and 21 houses. Additional houses beyond the 21st will make no difference as far as golem spawning is concerned, although 29 would be needed to spawn ten villagers naturally. Additional villagers will allow more golems to spawn, in increments of one golem for every ten extra villagers (so 0-9 villagers allows no golems to spawn, the cap is set at zero; 10-19 raises that cap to one, 20-29 raises it to two, etc.). This cap only limits the number of golems in a village at any one time; as soon as one is killed or leaves the village boundaries, a new one can spawn in its place immediately.
+The golem spawning zone is a 16×16×6 area centered around the center point of the village. As long as all the conditions are met (10 villagers, 21 houses, golem cap not reached), then each game tick (1/20 of a second) there is a 1/7000 chance the game will try to spawn a golem. When a golem is to be spawned, up to ten attempts are made to spawn a golem. A random spot is chosen inside the spawning zone, and if that spot is above a solid-topped block with at least 2×2×4 space above it (including liquids—golems can spawn in water, which is key to most iron farm designs—and transparent blocks), then a golem is spawned there.
+The average expected spawning rate, if the golems are killed or flushed outside the village boundary quickly enough so that the cap is never reached and new ones are able to spawn in their place immediately, is roughly 10 golems per hour. A higher cap doesn't increase this rate beyond reducing the amount of time that the cap is filled while the newly-spawned golem is killed or removed.
+
+
+== Zombie sieges ==
+
+
+== Videos ==
+
+
+== External links ==
+Village Info mod by trunkz - The mod provides a more detailed look at what's going on with your village. It adds a few lines to your F3 screen indicating if you're in or near a village, and info about its size, population (both current and maximum) number of houses, etc.
+Imgur gallery by Derrick - A briefer, more compact visualization of what makes a "house," and a bonus "villager breeding unit" that can support up to 35 villagers in an 11×10 or so space (the unit takes up that much space, the villagers themselves wander around outside of it)

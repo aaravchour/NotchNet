@@ -1,0 +1,16 @@
+Kicks a player off the server, and displays an optional reason to it.
+
+Java Edition
+kick <target> [<reason>]
+Bedrock Edition
+kick <name: target> [reason: message]
+
+JE: <targets>: entityBE: name: target: CommandSelector<Player>
+
+Specifies the player(s) to be kicked.
+Must be a player name, a target selector or a UUID.  And the target selector must/should be of player type.
+In Bedrock Edition, it can also be an XUID (Xbox UID) of a player.
+JE: <reason>: messageBE: reason: message: CommandMessage
+
+Message to display to the kicked player. In Java Edition, if unspecified, defaults to Kicked by an operator.
+Must be a plain text. Can include spaces as well as target selectors. The game replaces entity selectors in the message with the list of selected entities' names, which is formatted as "name1 and name2" for two entities, or "name1, name2, ... and namen" for n entities. In Bedrock Edition, @here can be used to mention all players.

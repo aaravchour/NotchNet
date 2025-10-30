@@ -1,0 +1,34 @@
+This tutorial is meant for people who have Bedrock Edition on their Xbox One. This tutorial will cover installing addons on the Xbox One.
+
+You will need the following programs to follow along with this tutorial:
+
+MC Addons Manager makes the management of your Minecraft Bedrock Edition addons easier.
+
+Install it on the Xbox One.
+
+File Downloader will download the addons.
+
+Install it on the Xbox One.
+
+My Files Explorer will open the Packages folder.
+
+Install it on the Xbox One.
+
+Xbox app is needed to paste the download link.
+
+Any archiver will do. Some examples are 7z and WinRAR.
+
+First, download the addon on a computer. There are multiple file extensions of the mods.
+
+If the mod is a .zip, open the archive. If the contents have a manifest.json, unzip the zip file into a folder. Zip the file again, and make sure that there is a single folder inside the zip, and the addon is inside the folder.
+If the contents of the zip is a single folder, continue to the next step.
+
+Change the file extension from .mcpack to .zip. Follow instructions in the .zip section.
+
+Change the file extension from .mcaddon to .zip.
+If the contents are two .mcpacks, unzip the file, and follow the instructions for .mcpack for each of the files. Remember to label the folders as resource or behavior.
+If the contents are two folders, check if they are labeled as behavior and resource. If both are labeled, great! If they aren't labeled, label them.
+Keep the file as a .zip and go to the next step.
+
+After you have a zip file, host he file on a file hoster (eg. Google Drive, Dropbox, etc.). Copy the direct download link. 
+On the Xbox, open File Downloader. Head to Download From Link, and go to Xbox One Smartglass on the computer. Paste the direct download link, and name the file in the bottom input bar. Make sure that it starts with Local Storage! For example, Local Storage/mod.zip. Press the Start button, and wait for it to download. After it downloads, open the Local Storage folder. Head inside the zip file, and select everything, and copy. Head outside the file, and paste. It will take a while.

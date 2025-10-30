@@ -1,0 +1,7 @@
+The fancy feather was a colorful variant of the feather found exclusively in Minecraft Earth.
+
+The fancy feather was obtainable by either killing a fancy chicken or from a fancy chicken via chicken tappables.
+
+Fancy feathers didn't have a use in the game, and only acted as miscellaneous items or decorations for builds.
+
+The fancy feathers were first found in the code in Minecraft Earth version 0.23.0 before its official reveal, with only its menu icon.

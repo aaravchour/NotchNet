@@ -1,0 +1,39 @@
+A guardian is a hostile mob that can be found within the Hidden Depths DLC of Minecraft Dungeons.
+
+Guardians appear similar to guardians from the original game, the only difference being that they are darker in color.
+
+Coral Rise (Ambush)
+Abyssal Monument
+Radiant Ravine
+
+Laser targeting
+Guardians aim their laser at the hero, the same as guardians within the original game.
+
+Laser attack
+Guardians shoot a green laser at the hero which does continuous damage, but can be blocked by hiding behind a solid surface.
+
+Spike attack
+Guardians also have a rare spike attack.
+
+The abyssal eye is an ancient guardian encountered during ancient hunts with an offering of the following runes:
+
+The abyssal eye resides within a Abyssal Monument-themed arena and possesses, at minimum, the following enchantments:
+
+Electrified
+Quick
+Frenzied
+Heals Allies
+
+Three enchanted drowned necromancers act as the abyssal eye's minions, possessing the following enchantments:
+
+Double Damage
+Upon defeating the abyssal eye, a gilded variant of the following items drop as a reward:
+
+Coral Blade
+Sponge Striker
+Squid Armor
+Glow Squid Armor
+Harpoon Crossbow
+Nautical Crossbow
+
+Although the abyssal eyes arena is a water-themed arena, TNT is dropped instead of tridents.

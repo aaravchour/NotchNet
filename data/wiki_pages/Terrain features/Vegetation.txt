@@ -1,0 +1,29 @@
+Vegetations are features composed of plants and fungi including grass, bushes, ferns, flowers, and mushrooms.
+
+
+== Types ==
+
+
+==== Grass and Fern ====
+Note that tall grass and grass can also generate in flower patches in meadow biomes. See #Flowers.
+
+
+==== Flowers ====
+
+
+==== Underwater ====
+
+
+==== Underground ====
+
+
+==== Others ====
+
+
+==== Small Mushrooms ====
+
+
+==== The Nether ====
+
+
+== History ==

@@ -1,0 +1,5 @@
+Resin Bricks (block) is a resin variant building block crafted from resin bricks (item).
+
+Resin bricks can be used to craft resin bricks (block).
+
+Resin Bricks can be cut into their own different variant blocks via a stonecutter.

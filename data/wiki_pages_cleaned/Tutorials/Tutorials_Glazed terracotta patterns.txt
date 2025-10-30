@@ -1,0 +1,16 @@
+This page seeks to teach you how to make designs and patterns using the glazed terracotta block, introduced in snapshot 17w06a of update Java Edition 1.12. This will also cover how you can make it easier to share your patterns such that other people can easily recreate them.
+
+These suggestions are based on opinion.
+
+To start off, place one block of terracotta on its own, and pay attention to the corner designs. When putting together patterns, the corners take center stage, with different combinations of corner textures being the main factor in what is aesthetically pleasing. If you see a corner part you like, place more blocks as the player spins around that corner, revealing the design that comes out when they are put together.
+Most terracotta blocks have a "centerpiece" in one of the corners. This could be anything that stands out from the rest of the block, such as the flower petals on the orange and white terracotta, the rings on the green terracotta, and the creeper face on the cyan terracotta. Generally, the prettiest 2x2 patterns come from either putting these "centerpieces" on the inside, thus creating a flower in the middle for orange and white terracotta, or putting the "centerpieces" on the outside corners.
+When making a design larger than 2x2, keep in mind that there will end up being two patterns that repeat and are merged by the corner textures.
+
+When putting together designs with multiple colors of terracotta, keep in mind that the "centerpieces" of each color matter a lot. For example, wide curves (seen on the lime and light gray terracottas) tend to go well next to other wide curves. Light gray terracotta makes a nice corner design. Flower-y designs (seen on the white, orange, pink, and light blue terracottas) complete each other well and are often put in the center of the design. Brown terracotta is a nice way to subtly guide the viewer's eye. Putting brighter colors together also makes for aesthetically pleasing patterns. Magenta terracotta sticks out like a sore thumb and should not be used for aesthetically pleasing patterns. Its role is limited to non-decoration functions.
+
+Magenta glazed terracotta has an arrow that points in the direction the player was facing when it was placed. This can be used to share the different rotations of terracotta pattern. There is a single-color and multi-color example below. On one layer, there is the pattern, and the second layer has the magenta terracotta "key," which tells the player which direction they should face when placing the terracotta blocks.
+Single-Color:
+
+Multi-Color:
+
+If the design is vertical, then the magenta terracotta "key" will have to be given to you in layers. For some people, it actually makes it easier to recreate the design. The key will be next to the design on each layer. This design is the same as the single-color example above.

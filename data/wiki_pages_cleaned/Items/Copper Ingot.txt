@@ -1,0 +1,16 @@
+Copper ingots are metal ingots that can be obtained by smelting up raw copper or occasionally dropped by drowned upon death. They are used to craft armor, tools, and other decorative copper variant blocks.
+
+Copper ingots can be obtained by smelting raw copper or copper ore in a furnace or blast furnace.
+
+When killed by a player or a tamed wolf, a drowned has a 11% (11100) chance of dropping a copper ingot. With the Looting enchantment, the chance can be increased to 13% (13100) with Looting I, 15% (320) with Looting II, and 17% (17100) with Looting III.
+
+Trim color palette
+The following color palette is shown on the designs of trimmed armor:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Copper Ingot" are maintained on the bug tracker. Report issues there.
+
+Taking InventoryCopper Ingot  Minecraft.net on December 22, 2022

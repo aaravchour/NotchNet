@@ -1,0 +1,51 @@
+A spear is an upcoming weapon that will be added in Mounts of Mayhem‌. It consists of two attack types: charging and jabbing. It was revealed in Minecraft Live - September 2025.
+
+
+== Obtaining ==
+
+
+=== Crafting ===
+
+
+=== Upgrading ===
+Like other diamond tools, a diamond spear can be upgraded to a netherite spear via a netherite upgrade, although increased durability and resistance to fire/lava in item form are the only benefits. The spear's performance as a melee weapon is unchanged by the upgrade.
+
+Netherite Upgrade +Diamond Spear +Netherite Ingot
+
+
+== Usage ==
+
+
+=== Charging ===
+To perform a charge attack, the player must hold down the use key. The spear will be lowered to an attack position. The spear will launch to a targeting entity when released. The amount of damage dealt to the target is depends on the velocity of the user.
+As it holds for too long, it begins to shake. As it holds even longer, it goes to a dropped down state, which no longer deal knockback, but deals a full damage to an entity.
+
+
+=== Jabbing ===
+To perform a jab attack, the player can use while standing on the ground, dealing damage to an entity when hit, depending on the tier.
+
+
+=== Piglins ===
+Piglins are attracted to golden spears and run toward any golden spears on the ground, and inspect it for 6 to 8 seconds before putting it in their inventory.
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Spear" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Spears are originated as:
+A weapon in Minecraft Dungeons and in A Minecraft Movie
+An add-on based on A Minecraft Movie
+
+
+== References ==

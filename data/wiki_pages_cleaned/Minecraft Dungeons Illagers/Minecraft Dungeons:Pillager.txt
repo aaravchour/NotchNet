@@ -1,0 +1,95 @@
+A pillager is a hostile illager that can be found within the various missions of Minecraft Dungeons.
+
+Pillagers in Minecraft Dungeons look similar to pillagers within the original game, with the difference being that the original green eyes are switched out for blue ones. 
+The 1st variant has gold and dark metal armor, a pink tunic, a helmet with nose protection and beige pants with black boots. The 2nd variant has diamond and dark metal armor, an orange tunic, an open-face helmet, and black pants with gray-blue boots, as well as being larger (2.7 blocks).
+
+Pillagers always have Piercing on their crossbows.
+
+Walk
+Pillagers move away to keep distance from the hero, similar to skeletons, spiders, and geomancers
+
+Basic attack
+Pillagers are armed with crossbows and are usually slow-moving, preferring to shoot the hero from a distance. However, it deals great pierce damage with a single shot.
+The pillager variant 2 cannot be stunned by normal attack damage except certain artifacts and any weapon with the Stunning enchantment.
+
+The solemn giant is an ancient pillager variant 1 that can be encountered during ancient hunts with the minimum offering of the following runes:
+
+This ancient resides within a Obsidian Pinnacle-themed arena and possesses, at minimum, the following enchantments:
+
+Huge
+Multishot
+Radiance Shot
+Ricochet
+Four enchanted endermen act as the ancient's minions, possessing the following enchantments:
+
+Radiance
+Upon defeating the solemn giant, a gilded variant of the following items drops as a reward:
+
+Burst Crossbow
+Corrupted Crossbow
+Soul Hunter Crossbow
+Rapier
+Bee Stinger
+Freezing Foil
+Guard's Armor
+
+A pillager raid captain is a powerful pillager variant 2 and raid captain that can be found within the various missions of Minecraft Dungeons.
+
+Pillager raid captains look like their 2nd variant except that carry a raid captain banner on their back.
+
+Pillager raid captains behave like pillagers, shooting at the hero with its crossbow. However, they deal increased damage and knockback. Pillager raid captains spawn only within missions that have already been completed once, but not on all. Depending on the situation, there can be one to six pillager raid captains in missions. They spawn alone or with a group of illagers or illager allies around them, such as vindicators, geomancers, pillagers, mountaineers, wind callers, enchanters, royal guards, iceologers, and witches.
+
+When defeated, they drop one of two banners, either threat or mystery. Threat portrays the Bad Omen icon and Mystery portrays a skull, and when picked up, the game is enhanced with modifiers (e.g. enemies have boost). At the end of the level, an extra item is given in addition to the artifact chest. Also, the chance for it to be unique exponentially increases for every pillager raid captain defeated after the first.
+If all six pillager raid captains have been defeated inside of a daily trial on Apocalypse + 25, the highest power level items in the game can be collected from the raid captain chest.
+
+20% of mobs have the Committed enchantment.
+35% of mobs have the Double Damage enchantment.
+35% of mobs have the Chilling enchantment.
+40% of mobs have the Quick enchantment.
+50% of mobs have the Electrified enchantment.
+10% of melee mobs have the Chains enchantment.
+30% of melee mobs have the Poison Cloud enchantment.
+15% of melee mobs have the Radiance enchantment.
+10% of ranged mobs have the Accelerate enchantment.
+20% of ranged mobs have the Bonus Shot enchantment.
+30% of ranged mobs have the Gravity enchantment
+30% of ranged mobs have the Poison Cloud enchantment.
+40% of mobs have the Cowardice enchantment.
+50% of ranged mobs have the Power enchantment.
+Mob health is increased by 50-250%.
+Mob damage is increased by 50-200%.
+Mob speed is increased by 30-100%.
+Player health is decreased by 20-75%.
+Player damage is decreased by 20-60%.
+20-35% of melee mobs are replaced with creepers.
+15-40% of ranged mobs are replaced with pillagers.
+Night mode
+
+Pillager variant 1 and 2's idle sounds are slightly low-pitched. (0.7-0.9)
+
+According to sfx_mob_pillagerProjectile.json file, the projectile sounds of pillager's arrow are mixed with sword and "whoosh" sounds.
+
+According to sfx_mob_pillagerProjectileImpact.json file, the impact sounds of pillager's arrow are mixed with sword and sickles impact sounds.
+
+In the game files, pillagers are referred to internally by the name Pillager and PillagerVariant0.
+In the game files, pillagers variant 1 are referred to internally by the name PillagerVariant1.
+In the game files, pillagers variant 2 are referred to internally by the name PillagerVariant2.
+Pillagers have an unused legs position while charging its crossbow.
+Pillager arrow data file: 
+
+BP_PillagerProjectile.json
+PS_Hit_PillagerArrow.json
+PS_PierceArrow.json
+Pillager raid captain arrow data file:
+
+BP_PillagerCaptainProjectile.json
+
+Alongside crossbows, pillagers were taken from Minecraft Dungeons, even though they were added to the original game first.
+Pillagers in Minecraft Dungeons have many new sounds that didn't appear in the original game.
+According Minecraft Dungeons Patch Notes 1.5.0.0, Pillagers base damage has been reduced from 75 to 62. However in BP_PillagerProjectile.json file, their base damage are 60.
+The nose texture of the pillager variant 2 uses the color from the original game.
+
+Issues relating to "Pillager" are maintained on the bug tracker. Report issues there.
+
+Iceologer
+Vindicator

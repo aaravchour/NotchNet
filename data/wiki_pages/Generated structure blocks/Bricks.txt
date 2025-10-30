@@ -1,0 +1,64 @@
+Bricks are a decorative building block.
+
+
+== Obtaining ==
+
+
+=== Natural generation ===
+Bricks naturally generate in underwater ruins, and in plains village armorer houses. They can also spawn in trail ruins.
+
+
+=== Breaking ===
+Bricks can be mined using any pickaxe. If mined without a pickaxe, it drops nothing.
+
+
+=== Crafting ===
+
+
+== Usage ==
+Bricks have the same blast resistance as other stone-based blocks, so they can be used as a durable building block.
+
+
+=== Crafting ingredient ===
+
+
+=== Stonecutting ===
+
+
+=== Note Blocks ===
+Bricks can be placed under note blocks to produce bass drum sounds.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Bricks" are maintained on the bug tracker. Report issues there.
+
+
+== See also ==
+Clay ball
+Clay
+Nether Bricks
+
+
+== Notes ==
+
+
+== External Links ==
+Block of the Week: Bricks – Minecraft.net on September 8, 2017

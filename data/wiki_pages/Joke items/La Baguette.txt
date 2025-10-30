@@ -1,0 +1,35 @@
+La Baguette is a joke weapon from Java Edition 23w13a_or_b. Its stats are identical to a wooden sword.
+
+
+== Obtaining ==
+One tricolore and one baguette is given to all players when French mode gets activated.
+
+
+=== Repairing ===
+
+
+==== Grinding ====
+
+
+==== Unit repair ====
+Strangely, La Baguette can be repaired using planks rather than bread, just like a wooden sword.
+
+
+== Usage ==
+La Baguette functions identically to a wooden sword.
+
+
+=== Attacking ===
+It can be used to damage mobs for 4 health points. La Baguette has an attack speed of 1.6 and takes 0.625 seconds to recover.
+
+
+=== Breaking ===
+La Baguette, just like other swords, can be used to break certain blocks 50% faster. See Sword#Sword breaking times for more.
+
+
+=== Enchantments ===
+La Baguette, like other swords, can receive the following enchantments:
+
+
+== Trivia ==
+This item is simply called "Baguette" in the official French translation, without an article.

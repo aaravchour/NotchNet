@@ -1,0 +1,24 @@
+Mushroom stew is a food item.
+
+Mushroom stew can be obtained by milking a mooshroom with an empty bowl. This is accomplished by using a bowl on a mooshroom. The bowl gets replaced by the mushroom stew item. There is no cooldown for doing so.
+If a stack of more than one bowl is used on a mooshroom, only one bowl is consumed, and the mushroom stew goes into an empty inventory slot, or is dropped if the player's inventory is full.
+
+To eat mushroom stew, press and hold use while it is selected in the hotbar. Eating one restores 6 () hunger and 7.2 hunger 
+saturation.
+The bowl is returned to the player empty after the mushroom stew has been eaten, and can be reused to craft more, similarly to rabbit stew and beetroot soup.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Mushroom Stew" are maintained on the bug tracker. Report issues there.
+
+Taking Inventory: Mushroom Stew  Minecraft.net on September 1, 2022

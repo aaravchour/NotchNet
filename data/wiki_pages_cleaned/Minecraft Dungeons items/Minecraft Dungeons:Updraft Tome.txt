@@ -1,0 +1,19 @@
+The updraft tome is an artifact that can be found within the howling peaks DLC of Minecraft Dungeons.
+
+Missions
+Windswept Peaks
+Gauntlet of Gales
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+The updraft tome can be used to lift up to seven mobs into the air, stunning and damaging mobs that don't have immunity. Similar to other status inflicting artifacts, (the corrupted seeds, the love medallion, the satchel of elements, the gong of weakening, the shock powder) the updraft tome only targets hostile and neutral mobs and does not effect entities around the targeted mobs.
+
+X artifact damage
+X second stun duration
+7 targets maximum
+12 second cooldown
+
+Issues relating to "Updraft Tome" are maintained on the bug tracker. Report issues there.

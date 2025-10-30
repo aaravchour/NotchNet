@@ -1,0 +1,49 @@
+
+== Butcher Shop ==
+
+The only difference between these wooden butcher shops is that the plains villages have oak wood, the taiga villages have spruce wood, and savanna villages have acacia wood.
+
+
+=== Blueprint ===
+
+Note: The oak wood stairs are optional and will only generate if the butcher shop was generated above street level. The back fenced area of the shop does indeed generate with dirt, but for villages inside plains biomes grass will soon spread over the area. The butcher shop sometimes generates mirrored.
+The main dimensions are 9x6 blocks.
+
+
+=== Materials ===
+
+
+== Desert Butcher Shop ==
+
+
+=== Blueprint ===
+
+Note: The sandstone stairs are optional and will only generate if the building is generated above street level. The butcher shop sometimes generates mirrored.
+
+
+=== Materials ===
+
+
+== Command Script ==
+The following commands list can be used to automate building this structure.
+
+
+== Video ==
+
+
+== Gallery ==
+
+
+==== Plains Butcher Shop ====
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Desert Butcher Shop ====

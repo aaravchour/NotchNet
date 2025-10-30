@@ -1,0 +1,11 @@
+There were several items exclusive to Minecraft Earth.
+
+The Bucket of Mud was a bucket that could be used to carry and place Mud.
+
+The Fancy Feather was a purple feather dropped by Fancy Chickens.
+
+The Horn was an item dropped by Horned Sheep.
+
+The Ruby was an item used as currency in the Store.
+
+Adventure Crystals were items used for creating Adventures. Each variant created a different level of adventure.

@@ -1,0 +1,64 @@
+A birch is a tree that appears similar to a common oak in terms of height and leaves, but with light bark and pale wood. It is most commonly found in birch forest biomes. Tall birches are found only in old growth birch forest biomes and cannot be grown with saplings without the use of cheats. As with oaks, a birch tree near flowers can generate with a bee nest attached.
+
+There are two types of birch trees:
+
+A shorter tree that can be grown by the player with birch saplings.
+A taller, rare tree that generates only naturally, in old growth birch forest biomes.
+Birch trees that are grown from saplings grow to be 5 to 7 blocks tall, while birch trees in the old growth birch forest biome can generate with trunks up to 13 blocks in height.
+
+All birch trees lack branches. Birch trees always grow around 50 to 60 leaves. The leaf distributions are shown visually above, each table cell representing one 'slice' of the tree viewed from above. The transparent leaves represent areas where leaves may grow, but do not always. The growth pattern, in detail, is as follows:
+
+The topmost row is one above the height of the tree and always has exactly 5 leaves: one above the log and four orthogonally adjacent to it, forming a + shape.
+5 leaves
+The second row is the top of the trunk and also has 4 leaves adjacent to it. Diagonal leaf blocks grow from a minimum of 1 and a maximum of 3 corners of the log.
+5 - 7 leaves
+The third row has the log in the middle, surrounded orthogonally and diagonally by leaf blocks. Those 8 leaf blocks are also surrounded orthogonally, for an additional 12 leaf blocks. One can think of this as a 55 space where every block is leaves except the four corners. These corners are randomly filled with between 0 and 4 leaves, although having all four filled is rare.
+20 - 24 leaves
+The fourth row generates with the same rules like the third and thus has a minimum of 20 and a maximum of 24 leaf blocks.
+20 - 24 leaves
+The fifth and sixth (bottom) rows contain no leaves, only the log in the center. If the tree is 6 or 7 blocks tall, the additional 1 or 2 rows at the bottom are also just a log.
+No leaves
+
+Small oak and 11 jungle trees also have this arrangement of leaves.
+
+Regular birch trees generate in forests, birch forests, dark forests and meadow, while tall birch trees only generate in old growth birch forests and rarely in meadow.
+A regular birch near flowers may generate with a bee nest attached.
+
+The birch tree variants spawn naturally in the indicated biomes:
+
+These items can be obtained from birch trees; however, saplings cannot be obtained from tall birch trees:
+
+Bee Nest (if present on a tree near flowers)
+Birch Leaves (harvested with shears)
+Birch Log (harvested with any tool including hands)
+Birch Planks (created from a log in the inventory crafting grid)
+Birch Sapling (normal birch only; chance of dropping when breaking leaves)
+Mushrooms (if present on a fallen log)
+Stripped Birch Log (created by using an axe on a log)
+Stick (chance of dropping when breaking leaves)
+
+Birch saplings can be planted on:
+
+Dirt
+Grass Block
+Coarse Dirt
+Podzol
+Mycelium
+Rooted Dirt
+Moss Block
+Farmland
+Mud
+Muddy Mangrove Roots
+Only normal birch trees can be grown from saplings. Tall birch trees generate naturally in the world.
+Birch trees require a 33 column of unobstructed space at least 6 blocks above the sapling to grow (7 blocks including the sapling itself). Additionally, birch trees require 55 layers without obstruction for the top 3 layers of its final height. No horizontal clearance is needed at the base of the tree (a sapling planted in a hole 1 block deep can still grow).
+A birch tree grown from a sapling and within 2 blocks of a flower has a 5% chance of having a bee nest containing 13 bees.
+
+ 
+A fallen birch may consist of a single upright log, or a stump. Logs lying on their side are often found 12 blocks from the stump. They occasionally have mushrooms on top.
+A fallen birch tree has a log length of 58 blocks. A fallen tall birch has a log length of 515 blocks. The stump is never covered in vines.
+
+Birch leaves do not follow the foliage color rules that cause the trees to appear in different colors in different biomes. Birch leaves are always the same color regardless of the biome.
+
+Issues relating to "Birch" are maintained on the bug tracker. Report issues there.
+
+In real life, birch is a genus tree known as Betula which contains 30 to 60 known taxa.

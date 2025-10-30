@@ -1,0 +1,26 @@
+The souldancer robe is a unique soul robe variant that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Creeper Woods (Adventure)
+Highblock Halls
+Underhalls
+Lone Fortress (DLC)
+Warped Forest (DLC)
+The Stronghold (Adventure, DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+The Tiny Scourge
+
++X health
+30% chance to negate hits
++50% soul gathering
++50% artifact damage
+
+Issues relating to "Souldancer Robe" are maintained on the bug tracker. Report issues there.

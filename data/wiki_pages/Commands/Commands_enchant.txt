@@ -1,0 +1,44 @@
+Adds an enchantment to a player's selected item, subject to the same restrictions as an anvil. Also works on any mob or entity holding a weapon/tool/armor in its main hand.
+
+
+== Syntax ==
+Java Edition
+enchant <targets> <enchantment> [<level>]
+Bedrock Edition
+enchant <player: target> <enchantmentId: int> [level: int]
+enchant <player: target> <enchantmentName: Enchant> [level: int]
+
+
+== Arguments ==
+JE: <targets>: entityBE: player: target: CommandSelector<Actor>
+
+Specifies the target(s).
+Must be a player name, a target selector or a UUID‌. 
+JE: <enchantment>: resource
+BE: enchantmentId: int: int or <enchantmentName: Enchant>: enum
+
+Specifies the enchantment to be added to the item held in main hand by the target.
+In Java Edition, must be an existing registered resource location in minecraft:enchantment registry. In Bedrock Edition, must be an ID of an enchantment (without namespace)
+JE: <level>: integerBE: level: int: int
+
+Specifies the enchantment level. Should be not greater than the maximum level for the specified enchantment. If not specified, defaults to 1.
+Must be a  32-bit integer number. In Java Edition, it must be between 0 and 2147483647 (inclusive). In Bedrock Edition, it should be between 1 and 2147483647 (inclusive).
+
+
+== Result ==
+
+
+== Output ==
+
+
+== Examples ==
+To give the Infinity enchantment to all players holding a bow:
+/enchant @a infinity
+To enchant the nearest player's held sword with Sharpness 5:
+/enchant @p sharpness 5
+
+
+== History ==
+
+
+== References ==

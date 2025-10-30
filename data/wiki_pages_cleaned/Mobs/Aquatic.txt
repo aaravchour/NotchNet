@@ -1,0 +1,8 @@
+The term Aquatic refers to an in-game group of mobs that live in oceans and rivers and are able to swim.
+
+They take extra damage from tridents enchanted with Impaling, and, except axolotl, do not cause pufferfish to inflate nor take damage from them. All aquatic mobs except dolphins are immune to drowning, and all except guardians, elder guardians, and turtles take suffocation damage if out of water for too long. Aquatic mobs have the ability to swim, whereas other mobs simply float on water or sink.
+Although drowned are an underwater variant of zombies (and can swim in Bedrock Edition), they are classified as undead, not as aquatic.
+In Bedrock Edition, there is no in-game classification for these mobs.
+
+Corals and sea pickles instantly die if they are out of water for too long, similar to the the aquatic mobs.
+Frogs are not considered an aquatic mob, while tadpoles are. Despite this, frogs will not drown in water.

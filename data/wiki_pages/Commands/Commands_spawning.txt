@@ -1,0 +1,10 @@
+Set whether the entity can spawn naturally
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

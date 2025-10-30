@@ -1,0 +1,22 @@
+Hanging roots are a natural decorative block found underground in the lush caves biome.
+
+Hanging roots can be destroyed with any tool or by hand instantly, but can only be collected using shears. In Bedrock Edition, any Silk Touch tool also works.
+
+Hanging roots can generate inside a lush cave beneath an azalea tree on the surface above.
+
+Using bone meal on rooted dirt causes hanging roots to grow below the block.
+Hanging roots may be obtained by using a hoe on rooted dirt, transforming the rooted dirt into normal dirt in the process.
+
+They can only be placed on the underside of a block.
+
+Placing hanging roots into a composter has a 30% chance of raising the compost level by 1.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Hanging Roots" are maintained on the bug tracker. Report issues there.

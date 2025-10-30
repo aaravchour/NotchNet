@@ -1,0 +1,116 @@
+A hardened glass pane is a type of block obtained by crafting with glass panes and several compounds.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Unlike a normal glass pane, a hardened glass pane drops itself when broken using any tool or by hand. It takes significantly longer to break than a glass pane.
+
+
+=== Crafting ===
+
+
+== Sounds ==
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+=== Block states ===
+
+Stained:
+
+
+=== Block data ===
+
+Hardened stained glass panes uses the following data values:
+
+
+== History ==
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Trivia ==
+"Hardened Light Blue Stained Glass Pane" and "Hardened Light Gray Stained Glass Pane" each hold the record for the longest name of any block in any version of Minecraft, both at 33 characters excluding spaces (38 including spaces).
+The record holders outside of the Education Edition are the "Cracked Polished Blackstone Bricks" and "Polished Blackstone Pressure Plate", both at 31 characters excluding spaces (34 including spaces).
+
+
+== Issues ==
+Issues relating to "Hardened Glass Pane" are maintained on the bug tracker. Report issues there.
+
+
+== See also ==
+Hardened Glass
+Glass
+Glass Pane

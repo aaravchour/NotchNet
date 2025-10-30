@@ -1,0 +1,22 @@
+A harpoon crossbow is a ranged weapon that can be found within the hidden depths DLC of Minecraft Dungeons. It has a unique variant called the nautical crossbow.
+
+Missions
+Abyssal Monument
+Radiant Ravine
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Abyssal Eye
+
+X ranged damage
+Fires harpoons
+
+Quiver: 53
+Fire Rate: 2.5 shots per second
+
+Issues relating to "Harpoon Crossbow" are maintained on the bug tracker. Report issues there.

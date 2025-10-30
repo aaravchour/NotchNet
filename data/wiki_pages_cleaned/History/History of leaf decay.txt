@@ -1,0 +1,12 @@
+This page documents Java Edition's several historical leaf decay algorithms.
+
+Leaves will NOT decay if:
+
+They are within a 5x5x2 box around a log with the log in the bottom center. (Note that the leaf does not have to touch the log)
+They are on top of a solid block.
+They are on top of a leaf that is unable to decay due to the reasons above.
+If these conditions are not met, the leaf decays.
+
+In Alpha, leaves would decay using an algorithm that checks whether it has a solid or leaf block underneath it or is adjacent to a solid block. If it doesn't, it must be connected to a leaf block that is also supported as long as it is no further than five blocks away from said support.
+
+Alpha-style decay

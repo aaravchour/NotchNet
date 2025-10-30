@@ -1,0 +1,44 @@
+An Other Portal is a joke block.
+
+
+== Obtaining ==
+The shape of the Other Portal is similar to a Nether Portal, except that it uses Glowstone instead.
+It also uses a Water Bucket instead of a Flint and Steel to light the portal.
+The Other Portal must be enabled by passing a vote for it, or by using the /vote command to approve it.
+
+
+== Usage ==
+The Other Portal was added as a reference to the Aether, a popular mod for Minecraft which added a fourth dimension to the game.
+However, when entering the Other Portal, the player is teleported 500 blocks upwards, and the message "Error 404 Terrain Not Found!" is displayed.
+If the portal is created above Y=200, it teleports players to Y=650 instead, so they aren't teleported to the Moon instead.
+
+
+== Sounds ==
+
+
+=== Generic ===
+
+
+=== Unique ===
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+
+=== Block states ===
+
+Other Portal (block)/BS
+
+
+== History ==
+
+
+== Issues ==
+Other portal blocks are an unsupported item due to being an April Fools' joke, and therefore such issues relating to them will not be fixed.
+
+
+== References ==

@@ -1,0 +1,3 @@
+The term ambient refers to a type of non-attackable entity in Minecraft Dungeons that roam missions with no purpose other than ambiance in some way or form.
+
+Issues relating to "Ambient" are maintained on the bug tracker. Report issues there.

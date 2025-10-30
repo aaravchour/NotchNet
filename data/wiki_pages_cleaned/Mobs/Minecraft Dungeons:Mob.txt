@@ -1,0 +1,49 @@
+A mob is an AI-driven game entity resembling a living creature. The term "mob" is short for "mobile entity". There are several mobs exclusively found in Minecraft Dungeons that are not present in the base game, Minecraft. The mobs in Minecraft Dungeons are mainly divided into two categories - Enemies and Friendlies.
+
+Pets that can be summoned by the hero, but are non-attackable passive mobs in-game. These pets cannot attack mobs, They have unused health value but won't take any type of damage.
+
+Undead
+
+Illagers
+
+Ender
+
+Natural
+
+Piglin
+
+Others
+
+These features appear in specific missions. Some of them do not look like regular mobs. However, the in-game data file shows that they are both an "entity" and a "mob".
+
+These mobs share renders with other mobs or are the same mob with a different design.
+
+Mobs that are only mentioned in items, missions, or canon books.
+These mobs don't have a official design:
+
+Unimplemented mobs are mobs that were in the beta version but possibly scrapped mid development or were planned but not actually added, and are not planned to be added. Mobs that were found in trailers or in other media, but are not in the game files are also included.
+
+These ancient mobs icon can be located in the game UI material file, it is unknown if they will be implemented later or not.
+
+The mobs only have their name in the game data file. Unlike unimplemented mobs that have in-game textures, sounds, or appear in the official trailer. All of these mobs are based on mobs from various editions of Minecraft.
+
+Most mobs always drops experience and souls upon death. Drop chance depends on level JSON data:
+
+Emeralds
+Food
+Potions
+Arrows
+TNT
+Tridents.
+Mobs also have a small chance to drop random rarity equipment based on the hero's current level.
+Powerful mobs always drop more emeralds upon death, as well as having a chance to drop high rarity equipment.
+Bosses always drop emeralds and random rarity equipment upon death.
+Ancient mobs always drop random rarity gilded items upon death, and other Ancient Hunt mobs may drop Gold.
+
+The sound files or behavior animations are known as "Novelty".
+If a hero's enchantment is used by a mob, some of that enchantment's effects turn it purple (examples are Fire Trail and Poison Cloud).
+If any mob is 32 blocks away from the hero, its animation stops to prevent the game from crashing.
+Unlike the original game, the value of mob damage depends on mob data instead of weapon data. The ranged and melee weapons used by mobs are only a part of render and decoration, and does not cause additional damage to mobs and heroes. For example, axes held by vindicators are renders. Ladles used by vindicator chefs are skins of axes instead of unique items.
+Bows and crossbows used by mobs do not have any animation when used. However, a hero's bow has a bowstring animation, although there is no arrow on the bowstring when the bow is drawn. (Not include Minecraft Dungeons Arcade.)
+Most mobs have default animation or "Get Hit" animations in game files, however some of their legs position or whole animation is unused in game or used in Minecraft Dungeons Arcade only.
+The Achievement "Iceologer's Revenge" is a reference to Minecraft Live 2020, since the description is mocking the fact the Glow Squid had won that year.

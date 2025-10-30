@@ -1,0 +1,36 @@
+Cocoa beans can grow on the sides of any jungle log, regardless of light level, requiring 1 empty air block in the space it will occupy. The jungle log does not need to be attached to a living tree, only any harvested jungle log, therefore it is easy to create large farms for cocoa beans by chopping down jungle trees and arranging the wood to optimize growing space. 
+
+An optimal arrangement for a non-automated cocoa bean farm is:
+
+This can be repeated vertically and horizontally (overlap by 1 square horizontally or laterally when repeating this pattern) to create larger farms. Vertical farms are more space and yield efficient, however they are progressively more difficult to replant and harvest the taller they are. Bear in mind in your farm design that you cannot reach more than 6 blocks up and 4 blocks down from the block on which you are standing, so balancing simplicity of planting/harvesting and maximum yield involves a trench 4 blocks deep and jungle wood blocks protruding 6 blocks above ground.
+Cocoa beans will break if the bean itself is hit by the player or a piston, if the jungle wood itself is pushed by a piston, if water occupies the same space as the growing bean, or if the jungle wood block is destroyed. All automated harvesting relies on these methods. Theoretically, TNT would also remove the beans but would be costly to implement and difficult to replant.
+Alternatively, a slightly less growing space efficient but overall easier and higher yield design is to build a wall of any arbitrary width, covering both sides with cocoa plants. This is simpler to plant and harvest, as you are only working in 2 dimensions.
+Bear in mind that extremely large farms are impractical and unnecessary given the speed at which cocoa pods grow and the overall yield of beans from a relatively small planting. Pods grow quickly, achieving maturity in minutes, each yielding up to 3 beans, each bean making 8 cookies or dying 1 wool brown. At about 80% pod maturity you will almost always see at least a 200% return on your planting.
+
+No designs for a fully automatic farm are available at this time, as you are required to manually place cocoa beans on the jungle log to plant pods, however semi-automatic farms that harvest automatically but still require manual planting are possible and relatively cheap to build.
+Currently there is only one major variation of the semi-automatic farm: piston-harvested.
+Formerly, there was another major variation of the semi-automatic farm: water-harvested, it was broken as of the Update Aquatic due to the waterlogging mechanics, as water can now pass though cocoa without breaking it.
+Piston harvested farms use a single line of jungle logs, planted on all 4 sides with cocoa plants. Pistons either push the trunk, causing the grown beans to be removed, or scrape the beans from the trunk. (Other designs raise and lower the trunk in rapid succession; but these utilize more complex redstone circuits and are not significantly more useful, cheap or efficient than simpler designs.) Piston designs suffer from universally low yields, somewhat expensive and complex circuit design (compared to alternatives) and general space inefficiency.
+Water-harvested farms may also have a single block trunk of some height, but a much higher yield is possible by building walls and allowing the water to cascade over them to scrape off the pods.
+
+Fully-grown cocoa beans planted on a slate of jungle wood can be flushed using water for a clean and fast harvest. This design is polished, compact and clean yet simple and easy to build (this is only possible in versions before the 1.13, as the waterlogging mechanic lets water pass through cocoa beans without breaking them).
+
+Planting cocoa beans on the 4 sides of a log makes it harder to replant, so a wall of jungle wood makes the fastest design possible. For a compact design, the wall must be also partially underground so as to make the most out of your planting reach.
+This design uses dispensers, that are cheaper than other design's pistons, and the use of redstone is minimum. The design is modular, with units of one dispenser and 3 blocks wide wall.
+
+This design by MonkeyFarm uses pistons to harvest the cocoa beans. A piston moves the wood column up while another moves it back down, removing the cocoa beans from the tree. It is a bit more resource expensive however equally compact.
+
+Note: The top repeater needs to be on the last tick for it to work.
+
+This design is theoretically scalable to any size wall and utilizing only one piston and a number of redstone torches equivalent to half the wall. The example uses two 7x7 walls placed in a 3x17x1 ditch to catch water runoff. There are 210 possible growth locations, yielding nearly 10 stacks of beans at maximum growth.
+
+This design exploits the fact that water will propagate infinitely so long as it flows downhill first, allowing a single water block and single piston to cover any width of wall. This is based on MinecraftMaximizer's design at the bottom of this page, but is considerably more space and material efficient, using a piston rather than a dispenser to release the water. This is because dispenser designs require 2 toggles: 1 to release the water and 1 to stop it; piston designs can work by a single button press. It does require more redstone than Maximizer's, which only uses 1 dust in the dispenser, with the advantage to this design being that it can be triggered from the ground.
+
+A large and rather bulky mechanism may be created in a 7x7x3 with an inner stem of three jungle logs all covered with planted cocoa plants. Four three-block tall towers of pistons on the corners of the logs facing the plants with NOT gates connected to the bottom torches may be used to create a peak efficient farm. The downside is that the harvest will fly away from the center, making it harder to collect.
+
+A more compact 3x4x4 mechanism, but with 3/4 of the efficiency of the 7x7x3 model, may be made with a three-jungle-log stem. However, one side of the log stem is connected to sticky pistons with a block on the side of the middle piston. A torch is placed under the block and redstone is placed on top, then a lever is added to the block under the torch. To complete, plant cocoa plants on the three remaining sides of the jungle log stem and wait for them to grow. A flip of the lever and the cocoa beans can be harvested.
+
+For efficiency of space, as jungle logs are very common in a jungle biome, there is no reason to make a farm solely based on wood surface efficiency. The efficiency should rather be of space, and amount of materials used.
+Using water as a harvesting mechanism provides a far more compact solution, uses less materials, and can extend the farm beyond the single-column versions seen above. A great example of this type of farm can be seen in MinecraftMaximizer's and MikiMiner's designs.
+
+This design has a low resource cost and does not take up much space, making it good for underground farming.

@@ -1,0 +1,129 @@
+A stray is a variant of a skeleton that spawns in a few snow-covered biomes. They behave similarly to skeletons, except they fire tipped arrows of Slowness from their bows.
+
+
+== Spawning ==
+A stray may spawn directly under the sky in snowy plains, ice spikes or frozen rivers, replacing 80% of skeletons. Additionally, a stray may spawn in frozen oceans, deep frozen oceans or legacy frozen oceans in Bedrock Edition. Strays do not spawn naturally from monster spawners in Java Edition. In Bedrock Edition, 1% of spiders and cave spiders may spawn as a spider jockey with 80% chance to be a stray spider jockey or stray cave spider jockey.
+The stray has its own spawn egg in the creative inventory.
+When a skeleton is kept inside powder snow for 7 seconds (140 game ticks), it begins shaking. After another 15 seconds (300 game ticks) it becomes a stray. The stray appears with full health even if the previous skeleton did not. Items being held or worn by a skeleton when it becomes a stray remain unchanged.
+
+
+== Drops ==
+A stray drops 
+
+From 0 to 2 bones. The maximum drop is increased by 1 per level of Looting, for a maximum of 0-5 bones with Looting III.
+From 0 to 2 arrows. The maximum drop is increased by 1 per level of Looting, for a maximum of 0-5 arrows with Looting III.
+From 0 to 1 arrow of Slowness if the stray was killed by a player or tamed wolf. Each level of Looting increases the chance of this drop by 50% of the previous chance, resulting in a maximum of 93.75% with Looting III.
+Any picked-up equipment has a 100% chance of dropping and drops with the same damage level it had when picked up.
+Any naturally spawned equipment, including the bow, has an 8.5% chance of dropping (9.5% with Looting I, 10.5% with Looting II and 11.5% with Looting III). It is damaged and may be enchanted.
+5 experience orbs when killed by a player or tamed wolf and an extra 1–3 if the stray has armor.
+
+
+== Behavior ==
+Strays behave the same as normal skeletons but make noises with an echoing effect and shoot tipped arrows that inflict Slowness for 30 seconds on any target that they hit. In Bedrock Edition, strays that are underwater use a melee attack that inflicts Slowness. Strays don’t take damage from freezing in powder snow, but they are not immune to Slowness.
+
+
+== Sounds ==
+Java Edition:
+Strays use the Hostile Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Strays have entity data associated with them that contains various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Stray" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Strays and other variants of a skeleton do not know how to use a crossbow, despite the same using method as a bow.
+In their texture, strays are wearing an ice necklace around their neck, but they do not drop ice.
+According to the Minecraft website, the slowness arrows represent frozen arrows that freeze on impact.
+The stray's fourth ambient sound is the skeleton's second ambient sound but partly edited.
+If a stray kills a creeper with an arrow, the creeper will drop a music disc just as when a skeleton kills them.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Skeleton
+Husk
+
+
+== References ==
+
+
+== External links ==
+Meet the Stray – Minecraft.net on December 14, 2016

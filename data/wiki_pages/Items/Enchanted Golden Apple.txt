@@ -1,0 +1,65 @@
+An enchanted golden apple or "notch apple" is a rare, uncraftable variant of the golden apple that grants much more powerful effects when consumed.
+
+
+== Obtaining ==
+
+
+=== Chest loot ===
+
+
+== Usage ==
+
+To eat an enchanted golden apple, press and hold use while it is selected in the hotbar. It restores 4 () points of hunger and 9.6 saturation.
+The enchanted golden apple provides: 
+
+Absorption IV for 2 minutes (providing 16 × 8 points of absorption health)
+Regeneration level II in Java Edition or V in Bedrock Edition for 30 seconds (in Java Edition, 1 is restored every 25 ticks,  × 0.4 per second) for 20 seconds (long enough to heal 16 × 8 points of damage; in Bedrock Edition, 1 is restored every 3 ticks,  × 3.33 per second for 30 seconds, which is long enough to heal up to 200 × 100 points of damage.
+Fire Resistance I for 5 minutes
+Resistance I (20% reduced damage from all sources except the void) for 5 minutes
+
+
+=== Horses ===
+Enchanted golden apples can be used for improving the chances of taming a horse by 10%, for breeding and leading horses, and for speeding up the growth of baby horses by 4 minutes.
+
+
+=== Crafting ingredient ===
+
+
+=== Piglins ===
+Piglins are attracted to enchanted golden apples and run toward any enchanted golden apples on the ground, and inspect it for 6 to 8 seconds before putting it in their inventory. However, piglins do not eat enchanted golden apples (or any food).
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Enchanted Golden Apple" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+The damage tag of an enchanted apple obtained in Bedrock Edition is 1, although setting it to 0 makes no difference.
+The Enchanted Golden Apple is called “Notch Apple” on the achievement screen on Legacy Console Editions.
+
+
+== Gallery ==

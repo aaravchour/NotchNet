@@ -1,0 +1,5 @@
+Returns the local player name. 
+
+getlocalplayername
+
+Returns the local player name.

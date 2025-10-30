@@ -1,0 +1,149 @@
+Sandstone is a solid block commonly found in deserts and beaches underneath sand.
+Red sandstone is a related block, associated with red sand.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Sandstone can be mined with any pickaxe. If mined without a pickaxe, the block drops nothing.
+
+
+=== Natural generation ===
+Regular sandstone generates in deserts and beaches, compressed underneath multiple blocks of sand. Regular sandstone generates at noise cave entrances in desert and beach biomes, and red sandstone generates at noise cave entrances in badlands biomes.
+If a village generates some buildings inside of a badlands biome, any floating platform surrounding village buildings generate with red sandstone below red sand.
+Many structures that generate in deserts are made of sandstone. Desert wells are made of normal sandstone, desert villages made of normal, cut, and smooth sandstone, and desert pyramids are made of normal, cut, and chiseled sandstone. Additionally, warm underwater ruins are made predominantly of sandstone variants. All of these structures use sandstone blocks, slabs, stairs, and walls. No naturally generated structures are made of red sandstone.
+
+
+=== Crafting ===
+
+
+=== Stonecutting ===
+
+
+=== Smelting ===
+
+
+== Usage ==
+Unlike sand, sandstone is never affected by gravity.
+
+
+=== Crafting ingredient ===
+
+
+=== Stonecutting ===
+
+
+=== Note blocks ===
+All types of sandstone can be placed under note blocks to produce "bass drum" sounds.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+In Bedrock Edition, sandstone and red sandstone use the following block states:
+Bedrock Edition:
+
+
+== Video ==
+
+
+== History ==
+
+		
+			
+			
+		
+
+
+=== Data history ===
+
+
+== Issues ==
+Issues relating to "Sandstone" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Chiseled sandstone has the symbol of a Creeper on it, but with 1 block less height than the actual creeper's face.
+Chiseled red sandstone has the symbol of a wither on it. The idea of the wither appearing on chiseled red sandstone was suggested by Reddit user ULiopleurodon.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External Links ==
+Block of the Week: Sandstone – Minecraft.net on August 25, 2017

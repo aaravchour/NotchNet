@@ -1,0 +1,139 @@
+A sign is a non-solid block that displays text and can be placed on the top or side of other blocks. A hanging sign is a decorative block that also displays text, and can be placed underneath blocks or with a solid self-supporting bracket. The text of both types of signs can be customized with dyes and glow ink sacs.
+
+Signs can be broken with any tool or without a tool, but an axe is fastest.
+
+A sign or a hanging sign also breaks and drops itself as an item if the block the sign is attached to is moved, removed or destroyed. However, a wall hanging sign will stay here if the block the hanging sign is attached to is removed.
+If a sign is broken while being edited, the player continues to edit the sign, although in Bedrock Edition breaking the sign stops the editing operation.
+
+An oak sign can be found in igloo basements. Spruce signs can be found in taiga village houses, as part of a chair.
+
+The player can place six stripped log blocks at the bottom half of the crafting table and place two chains on the top-left and top-right slots to create hanging signs. This crafting recipe will create six hanging signs. Hanging signs can only be crafted with stripped logs or stems; non-stripped wood cannot be used to craft hanging signs.
+
+Signs can be used to display text; they can be used to label storage, display information to other players or note areas of interest. Signs are also not destroyed by water or lava and therefore may be used to control the flow of these fluids.
+
+Signs may be placed on the top or side of other blocks (including semi-solid and non-solid blocks such as fences, trapdoors and other signs). To place a sign, use a sign item while pointing at the block the sign should be attached to, enter the desired text (or none), and click the "Done" button or press "escape" on a keyboard (or press  in Bedrock Edition,  on an Xbox controller,  on a PlayStation controller, or  on a Nintendo Switch controller. Closing the virtual keyboard on a mobile device also exits the typing menu). To place a sign on a block that can be interacted with by the use control (for example, chests, note blocks, etc.), sneak while placing the sign.
+Signs on the top of a block stand on a short post and face toward the player who placed it, in any of 16 different directions. Signs placed on the side of a block simply float there, even if the block doesn't make contact with the sign.
+Even if placed on a vertical surface, a sign may not co-exist in the same block of air as any other item, despite not necessarily visibly obstructing eachother.
+For more information about the blocks signs can be placed on, see Opacity/Placement.
+
+Hanging signs can be placed in three different ways:
+
+Placing a hanging sign on the side of a block will result in it being placed with a self-supporting bracket, which allows it to float without any supporting block. This version can be placed in four different directions.
+Placing a hanging sign on the bottom of a block will result in the sign hanging below the block.
+If the block is wide enough, the chains holding the sign will be parallel. This version can be placed in four different directions.
+If the block is too narrow, the chains will meet together in a upwards arrow shape. This version is also placed if the player is sneaking when placing a hanging sign below a wide-enough block. This version can be placed in sixteen different directions.
+
+Placing a sign opens an editor interface resembling a magnified view of the sign. Up to four lines of text can then be entered using a keyboard (hardware or on-screen). The editor supports limited editing, including moving the cursor and inserting and deleting characters. In Bedrock Edition, formatting codes can also be used to apply decorative effects such as color, bold, italic and underline to various bits of the text. Depending on the edition and platform in use, copy and paste operations may be supported and the editor may also support keyboard entry of Alt-codes for displaying Unicode characters.
+
+Text can be added to the back side of a sign by interacting with the that side of the sign after placing it and editing the front.
+Signs can be waxed by using a honeycomb on it. Once waxed, a sign cannot be unwaxed or edited.
+After placing and affixing text on a sign, a player can change the text color by using a dye on it. When colored with dye, the text color may differ from any color specified by formatting codes.
+
+A player can use a glow ink sac on a sign to make its text glow. The glowing text is not affected by lighting. The player can use a regular black ink sac on the sign to remove the glowing effect.
+
+In Creative mode, the combination Ctrl + pick block on Windows/Linux, or  Cmd + pick block on macOS, can be used to copy an already-placed sign, including its text (with decorations), into the player's inventory.
+A dyed sign facing east or west will have its text appear more saturated and bright than a sign facing north or south. However, it is actually the sign that is dimmer, because Minecraft's lighting engine uses side lighting to make the world appear less flat, but the text on signs is not affected by this.
+In Bedrock Edition, inappropriate words or phrases in a sign's text are displayed as asterisks.
+In Java Edition, signs can be created with JSON text, which allows complex formatting (colors, bold, italic, etc.), hover and click events, localized translation (for Minecraft technical terms, like "Redstone Repeater", otherwise translations must be provided in language files in resource packs), and the incorporation of scoreboard values into text. Use the /data merge block command to create or alter JSON signs.
+
+Example: /data merge block ~ ~1 ~ {front_text:{ color:"green", messages:[ '{"selector":"@p", "bold":false, "italic":false, "underlined":false, "strikethrough":false, "obfuscated":false}' , '{"text":"Second Line"}']}}
+Signs can post the success count of JSON text hover and click events to scoreboard objectives. The objectives to be used can be specified by running the /execute store command or by modifying the sign's NBT data directly with the /data merge block command.
+
+Signs act as though they have a use action, so the player is unable to place blocks or use items while the cursor is pointed at them without sneaking.
+Signs are destroyed and drop as an item when pushed by a piston.
+Signs are non-solid and have no collision, so items and mobs can move through sign blocks. Other blocks (including other signs) can be placed on any edge of a sign.
+Water and lava flow around signs. Lava can create fire in air blocks next to signs as if the signs were flammable, but the signs do not burn (and cannot be burned by other methods either, except in Bedrock Edition).
+
+Wooden signs can be used as a fuel in furnaces, smelting an item per sign.
+
+Signs can be placed under note blocks to produce a "bass" sounds.
+
+Sign
+Java Edition:
+
+Bedrock Edition:
+
+Hanging sign
+Java Edition:
+
+Bedrock Edition:
+
+Sign
+Java Edition:
+
+Bedrock Edition:
+
+Hanging sign
+Java Edition:
+
+Bedrock Edition:
+
+Sign
+Java Edition:
+
+Bedrock Edition:
+
+Hanging sign
+Java Edition:
+
+Bedrock Edition:
+
+Sign
+Java Edition:
+
+Bedrock Edition:
+
+Hanging sign
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Non-hanging:
+Standing
+
+Wall
+
+Hanging:
+Hanging
+
+Wall
+
+Bedrock Edition:
+
+Standing
+
+Wall
+
+Hanging
+
+A sign has a block entity associated with it that holds additional data about the block.
+Java Edition:
+
+Before 1.20
+
+After 1.20
+
+The sign and Hanging Sign share the same structure.
+
+The character limit for the Text tags depends on the width of the characters. Although the Text tags are string objects, they should contain JSON text which are evaluated as compound objects. 
+Bedrock Edition:
+
+See Bedrock Edition level format/Block entity format.
+
+The first concept art of hanging signs came from Agnes Larsson's daughter.
+
+Issues relating to "Sign" are maintained on the bug tracker. Report issues there.
+
+Chalkboard
+
+Taking Inventory: Sign  Minecraft.net on January 9, 2020

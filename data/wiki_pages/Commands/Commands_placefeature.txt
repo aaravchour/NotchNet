@@ -1,0 +1,32 @@
+Places a feature at the specified location where meet the placement requirements.
+
+
+== Syntax ==
+/placefeature <feature> [<pos>]‌
+/placefeature <featureName: Features> [position: x y z]‌
+/placefeature <featureRule: featureRules> [position: x y z]‌
+
+
+== Arguments ==
+JE: <feature>: resource
+BE: <featureName: Features>: enum or <featureRule: featureRules>: enum
+
+In Java Edition, specifies the configured feature to place. Must be a resource location.
+In Bedrock Edition, specifies the feature to place. Must be an namespaced ID of a feature rule or feature. If both a feature rule with the specified ID and a feature with the ID exist, the feature rule will be placed.
+See feature for IDs of vanilla features.
+JE: <pos>: block_posBE: position: CommandPosition
+
+Specifies the position of the origin for the feature to be placed.
+In Java Edition, must be a block position composed of <x>, <y> and <z>, each of which must be an integer or a tilde and caret notation. In Bedrock Edition, must be a three-dimensional coordinates composed of <x>, <y> and <z>, each of which must be a floating-point number or tilde and caret notation.
+
+
+== Result ==
+
+
+== Output ==
+
+
+== History ==
+
+
+== References ==

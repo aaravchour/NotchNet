@@ -1,0 +1,29 @@
+The dark katana is a unique katana variant that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+A  before a mission name indicates that the item is only obtainable in Daily Trials of that mission.
+
+Lower Temple (Apocalypse)
+Obsidian Pinnacle (Apocalypse)
+Panda Plateau (Apocalypse, DLC)
+ Basalt Deltas (DLC)
+Coral Rise (Adventure, DLC)
+The Stronghold (Adventure, DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+?????
+
+The dark katana possesses high power, low speed, and moderate range, and has a combo consisting of two side slashes, and an upwards slash. The side slashes deals the weapon's minimum melee damage, and the upward slash deals the weapon's maximum melee damage.
+
+X melee damage
+Extra damage to undead (Smiting tier I)
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+Issues relating to "Dark Katana" are maintained on the bug tracker. Report issues there.

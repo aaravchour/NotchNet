@@ -1,0 +1,19 @@
+The hungry horror is a unique mercenary armor variant that could be found within the various spooky fall missions of Minecraft Dungeons. It behaves identically to renegade armor.
+
+Missions
+Tower
+Events
+Spooky Fall (Ended)
+Merchants
+Gift Wrapper
+
+The hungry horror provides a melee attack speed boost as well as increased attack damage and damage reduction.
+
++X health
++25% melee attack speed
++35% damage reduction
++20% weapon damage boost aura
+
+Minimum health expected for power level
+
+Issues relating to "Hungry Horror" are maintained on the bug tracker. Report issues there.

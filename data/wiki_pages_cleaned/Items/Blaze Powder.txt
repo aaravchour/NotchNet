@@ -1,0 +1,16 @@
+Blaze powder is an item made from a blaze rod, which is dropped by a blaze when killed. Its main uses are to fuel brewing stands, to brew strength potions, and to make eyes of ender to take the player to the End.
+
+In addition to being a brewing ingredient, blaze powder is needed to fuel a brewing stand. Each piece of blaze powder can brew up to 20 batches of potions.
+
+Java Edition:
+
+Bedrock Edition:
+
+Note: This video does not mention that blaze powder must be used to fuel brewing stands.
+
+Issues relating to "Blaze Powder" are maintained on the bug tracker. Report issues there.
+
+The Nether
+Potions
+
+Taking Inventory: Blaze Powder  Minecraft.net on November 25, 2021

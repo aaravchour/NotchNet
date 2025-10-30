@@ -1,0 +1,10 @@
+Simulate the action of the player pressing the pause button and enter the pause screen
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

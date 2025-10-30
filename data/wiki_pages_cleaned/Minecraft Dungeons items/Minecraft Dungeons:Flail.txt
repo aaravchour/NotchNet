@@ -1,0 +1,30 @@
+The flail is a unique mace variant that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+A  before a mission name indicates that the item is only obtainable in Daily Trials of that mission.
+
+Highblock Halls
+Underhalls
+???
+Lost Settlement (Adventure, DLC)
+Nether Fortress (Apocalypse, DLC)
+ Crimson Forest (DLC)
+The Stronghold (DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Vigilant Scoundrel
+
+The flail possesses above average power, low speed, and low range. It has a combo consisting of two side swings and an overhead slam. The first two hits deal the weapon's minimum damage, while the  overhead slam deals the weapon's maximum damage.
+
+X melee damage
+Binds and Chains Enemies (Chains tier I)
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+Issues relating to "Flail" are maintained on the bug tracker. Report issues there.

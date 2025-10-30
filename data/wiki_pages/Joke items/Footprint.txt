@@ -1,0 +1,45 @@
+The Footprint was a joke item from Java Edition 20w14∞, found only in the missing dimension.
+
+
+== Appearance ==
+This item is semi-transparent with a grey colour scheme.
+
+
+== Obtaining ==
+
+
+=== Dimension ===
+Footprints were obtained only from a chest in the missing dimension. Only existing in 2020 April fools snapshot 20w14∞, it cannot exist in any non-April Fool's joke versions and April Fool's joke versions before or after 20w14∞. There is a maximum of 2 footprints that can be obtained legitimately in any given world.
+
+
+=== Cheats/Creative Mode ===
+Despite these footprints not being available in the creative inventory, it is still possible to acquire them via the command give <target> minecraft:footprint <amount> or duplicating them by holding down middle-click whilst in creative mode.
+
+
+== Usage ==
+As of snapshot 20w14∞, this item cannot be placed or used in any way other than a trophy. This item can be inserted and/or rotated inside of an item frame, and it has a stack limit of 64.
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Gallery ==
+
+		
+			
+			
+		
+
+
+== Trivia ==
+This is a reference to the removed "Footstep" particle, hence in the "missing" dimension.
+This item is intended as a joke directed towards the commands' community where the "Footstep" particle is commonly requested.
+
+
+== References ==

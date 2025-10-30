@@ -1,0 +1,539 @@
+The warden is an extremely powerful hostile mob summoned by sculk shriekers in the deep dark biome. It attacks by swinging its arms downward, dealing the strongest melee damage of all mobs, and can also release a sonic boom attack that immediately strikes the target, piercing through obstacles and deals damage that cannot be reduced except by the Resistance effect. Wardens are completely blind and rely on vibrations, smell, and touch to detect players and mobs, and can therefore be evaded via sneaking, diversions (snowballs, arrows, etc.) and wool.
+
+
+== Spawning ==
+
+Wardens do not use standard mob spawning mechanics. They are instead spawned when a player activates naturally generated sculk shriekers three times and if there isn't already another warden within 24 blocks of it. A warden spawns by emerging from the ground near the shrieker that summoned it, taking about 6.7 seconds to do so and being completely invulnerable until fully emerged. 
+The warning count for sculk shriekers is specific to each player rather than each sculk shrieker. This means that the player can activate three different shriekers in different locations and a warden emerges after the third activation. The light level does not have an effect on warden spawning. 
+Up to 20 attempts are made to spawn a warden within an 11×13×11 cubic area, which is centered on the shrieker. During each attempt, the game picks a random column from the y axis, then the game picks the topmost block in that column with a top surface with full collision and the block above must have no collision (the spawning warden cannot collide with any existing entities or liquids; wardens must not have water inside their spawn block, where their feet go, but they can spawn with water in the second and third block. For example, a pressure plate with water flowing on top is still a valid location).
+In Java Edition, warden spawning can be toggled on or off with the game rule doWardenSpawning.
+
+
+== Drops ==
+A warden drops a single sculk catalyst upon death, unaffected by Looting. It also drops 5 experience if killed by either a player or a tamed wolf.
+
+
+== Behavior ==
+
+After spawning, wardens wander randomly around the world and move toward nearby vibrations originating from players, mobs and non-mob sources including projectiles and minecarts. A warden also periodically sniffs the area around it, allowing it to zero in on targets even if they don't create vibrations. If a warden is actively sniffing and it picks up a nearby vibration, movement, or action then it will become increasingly agitated. This effect applies to players, blocks, and other entities.
+
+
+=== Idle ===
+A warden can fit inside any space that is 1 block wide and 3 blocks tall, allowing it to chase players and mobs through small corridors.
+Wardens are immune to damage from fire or lava and do not take knockback. They pursue through blocks that are usually avoided by other mobs, including rails, cacti, or magma blocks.
+A warden, whether angered or not, gives 12 seconds of Darkness to all players within a 20 block radius of it every 6 seconds. The souls in its chest make a low heartbeat that occurs in tandem with the Darkness effect. The heartbeat speeds up as the warden becomes increasingly agitated. A warden prefers to track down the most suspicious targets, rather than the ones closest to it.
+A warden listens to all vibrations within a 16 block radius, except those from other wardens, armor stands, dying mobs and players in Creative or Spectator mode. Like with sculk sensors, they cannot detect vibrations from a sneaking player that is moving, jumping, falling or shooting a projectile. A warden has a 2-second cooldown between detecting vibrations.
+A warden is aware of all targetable entities within a 49×51×49 box around itself. If the warden has a targetable entity, is not investigating any disturbances, and is otherwise idle, it pathfinds toward the closest entity, prioritizing players over mobs. While pathfinding, the warden can begin a 'sniff' behavior and animation. This takes around 4.2 seconds and has a 5-10 seconds cooldown. A warden can still sniff out sneaking players, despite that they cannot detect vibrations from them.
+
+
+=== Suspense ===
+Wardens keep track of how angry they are at each suspect as a number from 0 to 150. When a warden notices a vibration, it adds anger to the player or mob that caused the vibration. It adds 10 anger if the vibration was from a projectile or 35 anger for other vibrations. However, if two projectiles from the same player/mob are heard by the warden within five seconds, it instead adds the full 35 anger toward that player/mob. Wardens do not add anger toward a mob/player if the projectile was shot from more than 30 blocks away, although the projectile does count toward the counter of two projectiles. Anger decays at a rate of 1 per second and immediately clears if the targeted player switches to Creative or Spectator modes, the target or warden leaves the dimension, or if the target dies.
+A warden adds 35 anger toward any mob that directly touches it. This effect has a 1-second cooldown.
+When it finishes sniffing, a warden adds 35 anger to the nearest mob or player within 6 blocks horizontally and 20 blocks vertically, a cylindrical volume centered on the warden.
+Once a warden reaches 80 anger with a target, it roars for 4.2 seconds, adds another 20 anger, and pursues the target. In this angered state, the warden chases the target normally despite being blind. A warden also enters its hostile state and adds 100 anger if directly attacked by a mob. If the attacking player or mob is within 5 blocks, it skips its roaring animation altogether and immediately gives chase.
+A warden is biased toward player vibrations, attacks, and contact - even if a warden is angrier at another mob, it still attacks the player first as long as they have angered the warden as well. This is not true of any other mob.
+After 60 seconds of being "calm" and not detecting any vibrations or sniffing any mobs, a warden burrows back into the ground and despawns, unless it has been named. If the warden is floating on a liquid, it instead immediately despawns without any burrowing animation. During its emerging/burrowing animation, a warden cannot detect any vibrations, and can take damage only from /kill, though it can still be pushed by entities, pistons, or liquids. Named wardens do not dig or despawn. The only exception to this rule are wardens spawned as part of a team‌ through the /summon command immediately digs and despawn upon spawning, ignoring everything else in the process regardless of whether it spawned with a name, with PersistenceRequired:1 or not.
+
+
+=== Attacks ===
+A warden's melee attack has a cooldown of 0.9 seconds and disables shields for 5 seconds, dealing 16 × 8 to 45 × 22.5 health points depending on the difficulty.
+
+If a warden cannot reach its target, it switches to its ranged attack: a sonic boom. It does so when the following are true: 
+
+It has been 10 seconds since the warden detected the target
+It has been 5 seconds since the warden last used a melee or ranged attack
+The target is within 15 blocks horizontally and 20 blocks vertically of the warden.
+The sonic boom aims directly at the target, making it impossible to dodge, passing through blocks and other mobs without damaging them. A warden takes 1.7 seconds to charge and unleashes the attack, which instantly hits the target as long as the target is within attack range. The attack takes an additional 1.3 seconds to cool down before the warden can use melee attacks again for a total of 3 seconds. The sonic boom is visible via green-blue particles that are projected out of the warden's chest in a 20 blocks radius. This attack bypasses shields, armor, enchantments, blocks and even the wither armor of the wither. Only the Resistance status effect can reduce this attack's damage.
+
+
+== Sounds ==
+Java Edition:
+Wardens use the Hostile Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Wardens have entity data associated with them that contains various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+
+== Achievements ==
+
+
+== Advancements ==
+Killing a warden doesn't count for the Monster Hunter advancement nor is it needed to receive the Monsters Hunted advancement.
+
+
+== Videos ==
+
+
+=== YouTube ===
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Warden" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Although the warden is supposed to be blind, spectating it reveals that it still has normal vision.
+The concept for the warden was originally planned for the Nether Update as a "blind piglin that could only respond to sounds" that could be found within a "new biome".
+Brandon Pearce considers the warden as something entirely new as it isn't a boss or a mini boss (in spite of having the combined health of the wither and ender dragon) or a regular enemy but a force of nature: "when a tornado is barreling towards you, you don't try to kill it - you run away! The warden is exactly the same."
+Brandon's thought process on finally giving the warden a drop after he was heavily against it was the warden should never drop something that is important or hard to get that would be worth going through the trouble of fighting it. In this case, fighting a warden is not worth a sculk catalyst. This change was made for renewability farms and tech players.
+When Chi Wong was working the warden's digging animation he wanted to make sure the timing was right and make sure while it was going down, it's not going down like an elevator, but it actually digs, and the feeling Chi wanted to convey with it is it has tons of rage, it is annoyed, and it wants to go down.
+The warden is the most concepted and worked through mob in Minecraft in terms of sound design. When Brandon was first developing the warden, sound design was important to him, and the warden was designed with that in mind.
+While designing the warden, Brandon wanted to hear the player's "heartbeat" as the warden got closer for anticipation but he thought that it felt out of place and didn't make sense to hear the player's heartbeat. His solution was for something else to make the heartbeat, and thus the warden gained a heartbeat. It was also a design choice to mimic some really interesting sound design without breaking immersion. It also adds more to the warden itself and lore reasons as to why a warden has a heartbeat.
+Some previous names being considered for the warden were the shade, the stalker and the hollowed.
+The shade was a vaguely humanoid translucent mob with glowing eyes. It was meant to be a more ambient mob, which would stand in darkness with only its eyes visible and would slowly fade away as the player approached it. It would also imitate the noise of other mobs, making it sound as though they were right behind the player. Rather than an iteration on the warden, by then called the "stalker", the shade had come to be a completely separate mob to the stalker, though in some concepts it was meant to be sort of complementary, living in the ancient cities and helping the stalker by tricking players into alerting it. It was eventually scrapped due to a feeling that it would grow to become annoying rather than creepy, and so the team could better focus on developing the stalker.
+The stalker iteration was tall and asymmetrical with a glowing core, sometimes referred to as a chest crystal. It occurred in totems throughout the deep dark. The stalker would stand completely still to trick players into taking its core and aggravating it, and could transform into a form one block high form to prevent players from escaping through small tunnels. This iteration, specifically its appearance and transformation mechanic, felt clunky and was deemed more goofy than scary, so it was scrapped by the Mojang Studios gameplay developers. The vibration-sensing aspect, which was developed in this version, however, was passed down to and refined in the later iterations.
+The hollowed was designed with the intent of inciting trypophobia and had white flesh with holes in it, and a rib cage-like mouth. According to Brandon Pearce, its design was an experiment to see how far the boundaries of Minecraft  could be pushed and to try and draw a line as to what would be acceptable. The design had to ultimately be toned down multiple times due to said metaphorical line being crossed and after many back-and-forths between the developers, the directors and art team, a design similar to the current one was landed on.
+The warden also had a number of other mechanics and abilities planned:
+If the player managed to get out of the warden's attack and pathfinding range but still be within its detection range, the warden would use a "mind-altering" attack that would cause the player to move erratically (walking forward would cause the player to go backwards, etc.) and deal damage overtime. The mechanic was eventually scrapped due to being deemed too complicated.
+The warden would destroy blocks or burrow through them. The former was rejected due to the developers wanting to limit the number of "destructive" mobs there are in the game and the latter was rejected due to being too difficult to implement.
+The warden could hide the player's hunger bar and health bar.
+Brandon Pearce wanted the warden to be immune to damage to discourage players from fighting it, but he didn't think that would work for a sandbox game.
+The warden would originally burn when exposed to daylight.
+In the Bedrock Beta/Preview 1.18.30.32 the warden would dig back down when exposed in daylight but it was changed so the warden doesn't dig back down but stays when exposed to daylight in Beta/Preview 1.19.0.20.
+The warden and sculk were inspired by Lovecraftian horror as the developers wanted to make something that wasn't in the traditional scary like jumpscares and etc. but in a mysterious and unknown scary.
+In the fifth episode of Minecraft Now, it was revealed by Jasper Boerstra that the warden went through over 175 different concept iterations and they have explored everything because they wanted the warden to be something really special and also for it to be scary, beautiful, ugly, cute, and have some empathy.
+In the sixth episode of The Secrets of Minecraft, it was jokingly revealed that the warden's personal names are "Jonathan" and "William", depending on the scene, similar to how the player, the ender dragon or the wither all have personal joke names. "Warden" itself was also jokingly broken down into "War! Dens!" in the description.
+"Jonathan" can be seen on a blackboard for name suggestions alongside "the stalker" and "the hollowed".
+It jokingly explained that the name "warden" was the result of calling it "William" and spelling it wrong.
+In the tenth episode, both names were used when Narrator spotted the warden behind him. He mistakenly called the warden Jonathan before correcting himself as William, foreshadowing Jonathan Minecraft, who appears in the eleventh and final episode leading into Around the Minecraft World in 80 Biomes.
+Brandon Pearce stated in a tweet that the souls in the warden's chest is important to its lore.
+He also stated that the warden is inspired by the mystery heard at the end of the music disc "11".
+Coincidentally, in the spin-off game, Minecraft: Story Mode, there is an unrelated character also named the warden.
+Even if the player wears a full set of Netherite armor and all four gears contain Protection IV resulting in a 64% damage reduction cap, the player will still more likely to die first as the Warden only needs to hit the aforementioned player exactly four times, assuming no potion effect is in play.
+An interesting fact is that if you invert the colors of the axolotl, the color palette is like that of the warden. It is unknown if this is intentional or a coincidence.
+In the 15 Year Map, The Warden appears in the Caves and Cliffs which can be found in the Deep Dark. But they were added in The Wild update not in the Caves and Cliffs.
+Ender Dragons, Creakings and the Agent are immune to the Warden's melee and sonic boom attacks.
+However, the Ender Dragon can be pushed off by the Warden's sonic boom, without being provoked and harmed.
+If the Agent is coded to punch the Warden standing in front of it, the Warden gets provoked easily and starts attacking the Agent, similar to when a player attacks it.
+
+
+== Gallery ==
+
+
+=== Promotional videos ===
+
+
+=== Warden renders ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Animations ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Render Animations ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Development screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Development videos ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Miscellaneous Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Official artwork ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Concept artwork ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Merchandise ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External Links ==
+Meet the Warden – Minecraft.net on June 2, 2022
+Warden T-Shirt – Official Warden T-Shirt
+Warden Running – Minecraft's Instagram
+Steve Running away from Warden – Minecraft's Instagram

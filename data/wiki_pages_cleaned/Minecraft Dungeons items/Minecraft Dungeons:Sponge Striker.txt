@@ -1,0 +1,21 @@
+The sponge striker is a unique coral blade variant that can be found within the hidden depths DLC of Minecraft Dungeons.
+
+Missions
+Coral Rise
+Radiant Ravine
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Abyssal Eye
+
+The sponge striker possesses low power, moderate speed, and low area. It has a combo consisting of two side slashes, and then one upward slash which deals the weapon's maximum melee damage. The first two attacks deal the minimum damage, while the upper slash does the maximum damage.
+
+X melee damage
+Rapid Slashes
+Deals absorbed damage during attack combo
+
+Issues relating to "Sponge Striker" are maintained on the bug tracker. Report issues there.

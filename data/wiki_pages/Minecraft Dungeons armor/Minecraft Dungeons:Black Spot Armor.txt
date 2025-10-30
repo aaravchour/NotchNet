@@ -1,0 +1,88 @@
+The black spot armor is a unique root rot armor variant that can be found within the Fauna Faire seasonal adventure of Minecraft Dungeons.
+
+
+== Appearance ==
+The black spot armor is a black and pink variation of root rot armor. It features pink plants on the top of the hood of the armor and on the bottom cloth, glowing pink eye holes, a magenta and pink belt, and dark green shoulder pads. The armor also has similarities to sprout armor and it's unique variant, the Living Vines Armor, however, it has no in-game connection to any of these being a completely separate piece of armor not belonging to the nether spore armor set.
+
+
+== Obtaining ==
+Missions
+Tower
+Treetop Tangle
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Thundering Growth
+
+
+== Usage ==
+The black spot armor has properties centred around the use of health potions.
+
+
+=== Properties ===
++X health
+Reset artifact cooldown on potion use
+Health potions heal nearby allies
+Create food on potion use (Food Reserves Tier 1)
+
+
+== Achievements ==
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Black Spot Armor" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

@@ -1,0 +1,28 @@
+The heavy core is a rare block that can be used to craft a mace.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Heavy core can be mined with any tools or an empty hand, but a pickaxe is the quickest way to mine it.
+
+
+=== Loot ===
+The only way to obtain a heavy core is to unlock an ominous vault using an ominous trial key. Each vault has a 7.5% chance of dropping a heavy core.
+
+
+== Usage ==
+The only current known use for the heavy core is to craft a mace. 
+
+
+=== Crafting ===
+
+
+== Issues ==
+Issues relating to "Heavy Core" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+
+Some claim it supports the ancient city dimension theory as it can only be placed on the floor (unlike heads) and due to its size, it perfectly fits the square indentation on top of the reinforced deepslate which frames the portal in the center of the city.

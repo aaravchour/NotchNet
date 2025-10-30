@@ -1,0 +1,101 @@
+This tutorial will help you understand and navigate the menus of Minecraft: Java Edition. Although they are mostly self-explanatory, some things may need explaining. If you need help navigating the menu, simply find the appropriate section of this tutorial.
+There are two major menu groups in Minecraft: Java Edition: the Main Menu and the Pause Menu.
+
+
+== Main Menu ==
+
+The Main Menu is what you first see when you enter the game. It appears with a moving panorama of a world beneath the group of buttons, the version number at the bottom left, as well as shows the game's logo with a splash to its bottom-right. This menu allows you to choose which game type to play as well as access Realms, the game Options, or quit the game.
+
+
+=== Singleplayer ===
+
+The Singleplayer button, located at the top of the group of buttons on the main menu, leads you to the screen as shown at the right. At the top of the screen, there is a space where you can search for any of your currently created worlds. In this menu, you can view, edit, and play all of your Singleplayer worlds. If you don't have any worlds, the game will direct you to the Create New World scene.
+In the example at the right, there are two different worlds. Each world has its own section in the list, which contains the following information:
+
+Also found below the worlds list is a group of buttons which are explained below:
+
+
+==== Creating a New World ====
+
+As mentioned earlier, creating a new world will take you to another screen which allows you to change the settings of the world to be made.
+
+
+==== World Generation Options ====
+
+
+==== More World Options ====
+
+Superflat Presets
+
+Set presets for the superflat world to generate.
+
+Buffet World Customization
+
+Customize how the buffet world will generate.
+
+
+=== Multiplayer ===
+
+The Multiplayer button, found below the Singleplayer button, takes you to the Multiplayer Menu which lets you join servers with other players, whether online or nearby. It appears with a list of known servers which you may connect to. When you first log in, the message "Scanning for games on your local network" will appear, meaning it is scanning for nearby servers which have been opened to LAN via the Pause Menu. You will also find several buttons on the bottom of the interface.
+
+Add Server
+In order to add servers to your server list, you will need to use the "Add Server" button, which takes you to a new menu where you can add a server by entering its name and address.
+
+
+=== Minecraft Realms ===
+
+The third button on the main menu is labeled Minecraft Realms. This button will take you to the "Homepage" of Realms. Here you can perform all of the basic actions associated with Realms, which are as follows:
+
+See all of the Realms you own / are invited to and information about them
+Play on a Realm
+Buy a new Realm
+Configure your own Realm(s)
+Leave a Realm
+See new invitations
+Find out more about Realms
+The majority of these functions can be carried out by clicking on a Realm and using the button group at the bottom of the screen. Invitations can be accessed via the envelope next to the Realms logo. The What is Realms? link in the upper right hand corner takes you to the Realms website where you can learn more about the program.
+There is a distinct difference between the server list in the Multiplayer screen and the Realms list. Here you can see all of the basic information about the Realm you may need. The exact layout is shown here:
+
+
+==== Invitations ====
+
+Invitations can be accepted or declined via the envelope next to the Realms logo. If you have an invitation, you will see a little number dancing on the envelope. If the little number is instead a !!!, then it means that you have more than five invitations.
+
+If you hover over the envelope, a tooltip will appear. It will either say No pending invitations! or Pending invitations! If you click on this when you have some invitations, it will take you to a screen where you can accept or decline various invites.
+
+The example as shown at the right is a list of any and all Realms you have been invited to. The operations here are simple: You simply click on an item and you can either accept the invitation or decline it.
+Once you have been invited to a Realm and accepted it the Realm will appear on your Realm list. At any time you can click on that Realm and click the Leave Realm button, which will uninvite you from that Realm until such time as you are invited again.
+If you decline an invite your name is taken back off the invited list of that Realm, but keep in mind that the owner can re-invite you at any time. If you are getting spammed with an invite from a particular person and you don't want to see them again, email the support address and they may be able to help.
+
+
+==== Realm Configuration ====
+
+The owner of a Realm has the ability to configure their Realm from inside minecraft:java edition. To access the configuration screen, you simply click on your Realm and click the Configure button.
+From this screen, you can completely manage your Realm and its players. Written below is a detailed walkthrough of everything you can do to manage your Realm.
+
+
+==== Expired Realms ====
+After your subscription for a Realm expires, it is transferred to expired status. Many things in the interface change, as seen in the pictures below. Your server status indicator turns red, and when hovered over displays the message Expired Server. It will remain like this, as far as anyone knows, indefinitely. You can extend the Realm when it is in this state to keep the same server.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Options ===
+
+
+== Pause Menu ==

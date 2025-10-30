@@ -1,0 +1,36 @@
+Features (also known as features) are features generated in each minecraft world. This page lists Minecraft.
+
+
+== Overworld ==
+
+
+=== Aboveground ===
+
+
+=== Underground ===
+
+
+== The Nether ==
+
+
+== The End ==
+
+
+== Plant-like ==
+
+
+=== Composed features ===
+The following features are composed of multiple plant-like features mentioned above.
+Java Edition:
+
+Bedrock Edition:
+
+
+== Technical details ==
+Features are generated for a given chunk after the terrain has been formed. When features are generated, they can spill over into neighboring chunks that have been previously generated. Thus, a tree at the edge of the generated world may be overwritten by a village before the player reaches it. It is also theoretically possible for two worlds generated with the same seed, from the same version of Minecraft, to differ slightly depending on the players' travel routes, because the chunk generation order may determine which of two conflicting features overwrite or suppress the other.
+
+
+== History ==
+
+
+== References ==

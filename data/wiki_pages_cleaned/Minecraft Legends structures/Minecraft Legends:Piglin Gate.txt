@@ -1,0 +1,5 @@
+A piglin gate is a piglin-built structure within Minecraft Legends.
+
+Piglin gates spawn in piglin outposts and piglin bases.
+
+Piglin gates are used by piglin to both keep the Hero and allied units out of their base and for piglins to enter and exit the piglin bases and outposts.

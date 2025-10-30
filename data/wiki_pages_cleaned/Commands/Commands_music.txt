@@ -1,0 +1,35 @@
+Plays, queues, stops the music, or adjusts the music volume.
+
+music play <trackName: string> [volume: float] [fadeSeconds: float] [repeatMode: MusicRepeatMode]
+Plays the music track.
+music queue <trackName: string> [volume: float] [fadeSeconds: float] [repeatMode: MusicRepeatMode]
+Adds the music track to the queue.
+music stop [fadeSeconds: float]
+Stops the music.
+music volume <volume: float>
+Adjusts the music volume.
+
+trackName: string: basic_string
+
+Specifies a music track to play.
+Must be a string. And it must be a single word that has no space or a quoted string.
+Must be a music track name (e.g. record.cat), or a music track defined under the Json path "record.<music_name>" or "music.game.<music_name>" in the <a_resource_pack>/sounds/sound_definitions.json file (e.g. cat to play "Cat" music disc).
+volume: float: float
+
+Specifies the volume of the music track.
+Must be a  Single-precision floating-point format number. Should be between 0 and 1 (inclusive).
+fadeSeconds: float: float
+
+Specifies the duration the music track fades in/out.
+Must be a  Single-precision floating-point format number. Should be between 0 and 10 (inclusive).
+repeatMode: MusicRepeatMode
+
+Specifies whether the music track repeats or not. If unspecified, defaults to play_once.
+Must be one of loop and play_once.
+
+Play the Pigstep music disc on repeat.
+
+/music play record.pigstep 0.5 0 loop
+Queue the Stal music disc.
+
+/music queue record.stal 0.5 0 play_once

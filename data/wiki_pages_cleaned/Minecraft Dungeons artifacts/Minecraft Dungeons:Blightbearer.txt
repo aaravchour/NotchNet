@@ -1,0 +1,10 @@
+The blightbearer is an unused unique harvester variant that was scrapped during the development of Minecraft Dungeons.
+
+The blightbearer cannot be obtained, it was likely planned to be in either the Jungle Awakens or Creeping Winter patches due to it being added to the game files in the 1.1.1.0 release patch, however it was never implemented into the game.
+
+The blightbearer would have functioned identically to the harvester, with an additional unique perk that is unknown.
+
+X artifact damage
+4 second cooldown
++1 Soul Gathering
+Requires souls (40)

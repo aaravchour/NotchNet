@@ -1,0 +1,1 @@
+Deletes all entities excluding the player. Effectively a combination of the /wipeout and /spawning commands.

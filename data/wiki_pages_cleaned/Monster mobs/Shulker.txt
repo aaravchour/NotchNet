@@ -1,0 +1,73 @@
+A shulker is a box-shaped hostile mob found in end cities. It hides in its shell to protect itself and blend in with its surroundings. It attacks by shooting homing bullets at the player which inflict Levitation. It is the only source of shulker shells, which are used to craft shulker boxes.
+
+Shulkers spawn during the generation of end cities, which are located on the outer islands of the End. They usually spawn on the walls of the city and on end ships. They do not despawn naturally, even in Peaceful difficulty.
+
+There is a chance that a new shulker of the same color will spawn when a shulker is hit with a shulker bullet (including one of its own).
+The following conditions need to be met:
+
+When the shulker gets hit and then has less than half its health remaining, there is a 25% chance it will try to teleport without spawning a new shulker instead of checking the conditions below.
+The hit shulker must have its lid open.
+The hit shulker needs to find somewhere to teleport. For this, it takes a random block in a 171717 cuboid centered on the shulker and then checks if the block has a valid face to teleport to. If not it proceeds to try this up to 4 more times. If no valid face is found, the attempt fails.
+Each other shulker within 8 blocks of the hit shulker decreases the odds of success by 20%. When five or more other shulkers are nearby, no shulkers will spawn, but the hit shulker still teleports.
+If the attempt succeeds a new shulker spawns where the old shulker was before it teleported.
+
+In Bedrock Edition, shulkers drop 01 shulker shells. The maximum can be increased by 1 per level of Looting, which is 04 shells with Looting III.
+In Java Edition, shulkers have a 50% chance of dropping a shulker shell when killed. This is increased by 6.25% per level of Looting, for a maximum of 68.75% with Looting III.
+Shulkers also drop 5 when killed by a player or a tamed wolf.
+
+The shell of the mob looks similar to a purpur block, blending in to its natural surroundings. Inside the shell of the mob is a small yellow head with two eyes. Shulkers are uncolored by default when using spawn eggs, while white is the default when using /summon or spawners. Spawning shulkers with other colors can be done using the /summon command, as detailed below.
+Shulkers generally remain stationary, attached to an adjacent block with a full face. However, if the block the shulker occupies becomes something other than air or the shulker finds itself not adjacent to any full face, or the shell cannot fully open (due to solid blocks or entities such as boats or other shulkers), it attempts to teleport (5 attempts per tick) to an air block within a 171717 cube centered on the shulker where the shulker can attach to a full face and open. If it finds no valid position to teleport onto it does not move.
+Shulkers evaluate the collision box of scaffolding based on their current position, which can result in the shulker teleporting to a position only to find it invalid and teleport again.
+Shulkers occasionally open their shell for 13 seconds. When a target comes within about 16 blocks, it opens fully and shoots guided projectiles that follow the player, called shulker bullets, moving only along the X, Y, or Z axes and leaving trails of white particles. The projectiles can be destroyed by attacking them or blocked with a shield. If the projectile hits an entity, it does 4 of damage and inflicts the Levitation status effect for 10 seconds, this status effect has no effect underwater, or while riding a mob. The shulker continues firing every 15.5 seconds while the target remains in range. If the shulker's target dies with projectiles still in flight, they fall to the ground.
+Shulkers can attack each other, in which case they shoot fully guided bullets at each other, but are unaffected by Levitation when hit. The normal teleportation habits apply during these battles, and is likely to result in the duplication of more shulkers.
+When its shell is closed, a shulker has 20 (  10) armor points and deflects arrows. When the shell opens, it loses this natural armor and takes damage as normal. When at less than half health, a shulker has a 25% chance of teleporting (as described above) after taking damage. When a shulker is attacked, other shulkers in the area target the attacker as well.
+Shulkers don't take burning damage from lava or fire. They drown in water, but try to teleport away when water or lava flows into the block they occupy.
+In Peaceful difficulty, shulkers exist within the world, but do not attack, like vindicators, evokers and piglin brutes in Bedrock Edition.
+Shulkers are treated differently than true blocks. For example, mobs are unable to pathfind around or jump over them, and falling on them from a height does not produce particles. Their spawn egg also does not destroy blocks such as grass.
+In Bedrock Edition, they apply Levitation II instead of I.
+Shulkers spawned as part of a team using /summon attack most hostile mobs without provocation. They never attack their teammates intentionally and do not retaliate even when being hit, however the shulkers will still target players without a team or in another team.
+
+A shulker bullet is a guided projectile that is shot from shulkers, and they follow the targeted entity along the X, Y, or Z axis and leave trails of white particles. A shulker bullet that hits a mob or player deals damage and affects them with Levitation for ten seconds.
+The shulker's projectiles also have entity data that control its movement.
+The bullet can be destroyed by hitting it with any item, shooting it with an arrow, or blocking it with a shield. It explodes upon contact with a block. The explosion does not destroy any blocks and does not damage nearby mobs or players.
+
+In Bedrock Edition, shulkers can be dyed in a similar fashion to sheep. Using a dye on a shulker gives it the color of the dye.
+In Java Edition, the color of a shulker is changed through commands using the color byte tag.
+
+Shulkers can be moved by boats or minecarts; pushing a boat/cart into a shulker causes it to board. A boat's sides block some of a shulkers projectiles.
+A shulker pushed through the exit portal gets transported to the world spawn point in the Overworld. Since shulkers teleport when not adjacent to a solid block, they must be pushed down the central pillar of the exit portal (or a manually placed block directly above the portal) with a piston.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+Shulker bullets use the Hostile Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Shulkers have entity data associated with them that contains various properties.
+
+Shulker bullets have entity data associated with them that contains various properties.
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+Issues relating to "Shulker" are maintained on the bug tracker. Report issues there.
+
+Originally, shulkers were going to fully camouflage to look exactly like a nearby block. However, Jeb decided this was too difficult to code, so instead, they were simply made to be a similar shade of purple to purpur.
+The word "shulker" is a portmanteau of "shell lurker".
+A shulker named 'Dinnerbone' or 'Grumm' flips upside-down. This appears to also lift the shulker by the same height as a pressure plate.
+Walking toward a shulker at the same level as the player's head pushes the player down to the one-block crawling position if there is space beneath.
+If given the Invisibility effect, only the shulker's shell becomes invisible.
+Gravity blocks break when dropped on a shulker.
+In the game's texture files, the shulker bullet is named spark.png.
+
+Meet the Shulker  Minecraft.net on January 30, 2017

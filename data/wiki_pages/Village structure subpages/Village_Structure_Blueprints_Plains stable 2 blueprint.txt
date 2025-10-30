@@ -1,0 +1,7 @@
+
+==== Blueprint ====
+
+The oak slabs in layer 4 are all top slabs, while the ones in layer 5 are bottom slabs.
+
+
+==== Materials ====

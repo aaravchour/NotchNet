@@ -1,0 +1,19 @@
+The harpoon quiver is an artifact that can be found within the hidden depths DLC of Minecraft Dungeons.
+
+Missions
+Coral Rise
+Abyssal Monument
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+The harpoon quiver grants the hero 5 harpoons, which allow quick ranged shots underwater. This artifact similarly works like the flaming quiver, the torment quiver, the thundering quiver and the void quiver; with the exception of the fireworks arrow.
+
+X ranged damage
+30 second cooldown
+
+Harpoons are ammunition that can be obtained by activating the harpoon quiver. They travel quickly through water unlike regular arrows.
+
+Issues relating to "Harpoon Quiver" are maintained on the bug tracker. Report issues there.

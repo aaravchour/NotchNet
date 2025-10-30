@@ -1,0 +1,53 @@
+A calibrated sculk sensor is a craftable variant of sculk sensor. Similarly to its counterpart it detects vibrations, but with twice the range, and can detect multiple vibrations in quicker succession. It outputs a signal on all sides except for its input, which can receive power to make the sensor only listen to specific vibrations, depending on the input signal strength.
+
+Calibrated sculk sensors can be broken with any tool, but can be broken faster with a hoe. They drop experience when broken. When broken by an item that is enchanted with Silk Touch, a calibrated sculk sensor drops itself.
+
+Unlike regular sculk sensors, there are a few differences:
+
+Calibrated sculk sensors can detect vibrations up to 16 blocks away.
+Calibrated sculk sensors have a cooldown of 1 second instead of 2 seconds.
+Calibrated sculk sensors' "Sensor" could be disabled by a redstone signal onto its crystallized side.
+
+The same with the sculk sensor, one side of the calibrated sculk sensor can receive a redstone signal as an input, and the strength of that redstone signal is the only vibration frequency the sculk sensor will listen to. The following list showcases (in order) a list of frequencies that the calibrated sculk sensor can listen for.
+
+ Movement in any medium (land, water and air)
+ Landing on any surface (land or water)
+ Using an item (casting a fishing pole, throwing a snowball, etc.)
+ Gliding with an elytra or unique mob actions (Ravager roar, Wolf shaking, etc)
+ Dismounting a mob or equipping gear
+ Mounting a mob or interacting with a mob
+ Mobs and players getting damaged
+ Consuming items (drinking and eating)
+ Blocks 'deactivating' (door close, chest close, button unpress, etc)
+ Blocks 'activating' (door open, chest open, button press, etc)
+ Blocks changing (adding food to campfire, etc, like an observer)
+ Non-wool blocks being destroyed
+ Non-wool blocks being placed
+ Mobs and players teleporting or spawning
+ Mobs and players dying or an explosion
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+A calibrated sculk sensor has a block entity associated with it that holds additional data about the block.
+Java Edition:
+
+Calibrated Sculk Sensor/BE
+Bedrock Edition:
+
+See Bedrock Edition level format/Block entity format.
+
+Issues relating to "Calibrated Sculk Sensor" are maintained on the bug tracker. Report issues there.

@@ -1,0 +1,22 @@
+Nether wart blocks are decorative blocks found in crimson forests and crafted using nether wart.
+Warped wart blocks are a turquoise variant found in warped forests, but unlike nether wart blocks, they cannot be crafted.
+
+Nether wart blocks and warped wart blocks can be mined using any tool or by hand, but a hoe is the fastest way to break it.
+
+Nether wart blocks and warped wart blocks generate as part of huge fungi and in the ceiling and ground of crimson and warped forests.
+
+Both blocks can be fed into a composter with an 85% chance of leveling up the pile.
+
+Piglins, zombified piglins and hoglins do not spawn on top of nether wart blocks, although they can spawn on warped wart blocks. Other Nether mobs such as skeletons and endermen are not prevented from spawning.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Nether Wart Block" are maintained on the bug tracker. Report issues there.
+
+Block of the Month: Nether Wart  Minecraft.net on August 11, 2022

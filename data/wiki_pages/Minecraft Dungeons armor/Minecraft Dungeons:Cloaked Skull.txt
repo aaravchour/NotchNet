@@ -1,0 +1,76 @@
+The cloaked skull is a unique ghostly armor variant that could be found within the Spooky Fall 2022 event of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Tower
+Events
+Spooky Fall 2022 (Ended)
+Merchants
+Gift Wrapper
+
+
+== Usage ==
+The cloaked skull functions indetically to the ghost kindler.
+
+
+=== Properties ===
++X health
+Briefly gain Ghost Form when rolling
+30% chance to negate damage
+Spawns fire on roll (Fire Trail tier I)
+
+
+=== Stats ===
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Cloaked Skull" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

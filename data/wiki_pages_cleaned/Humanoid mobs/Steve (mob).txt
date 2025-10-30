@@ -1,0 +1,19 @@
+Steve was a passive humanoid mob, used for testing purposes, available from Java Edition Indev 0.31 20100129 until 0.31 20100131 (for 2 days).
+
+Steve spawned randomly in the world.
+
+Steve was a passive mob. It had no animation, so it glided and jumped aimlessly around the world in the same pose, and would never pause or stop moving.
+Upon death, Steve would not fall over to the ground or flash red or white and appear to die, as most mobs do. It would just disappear shortly thereafter, and drop the items it was designated to drop.
+
+Upon death, Steve drops:
+
+String (02) (most common)
+Feather (02)
+Gunpowder (02)
+Flint and Steel (01) (extremely rare)
+
+Steve, as well as all the other mobs made by Dock, Is meant to animate, but the game appears to just pick a random frame and doesn't animate any further. They just glide around in the same pose. However, the MD3 model itself contains a 22 frame animation of it walking.
+
+Rana
+Black Steve
+Beast Boy

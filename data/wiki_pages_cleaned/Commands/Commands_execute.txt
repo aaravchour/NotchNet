@@ -1,0 +1,716 @@
+/execute executes another command but allows changing the executor, changing the position and angle it is executed at, adding preconditions, and storing its result.
+
+There are fourteen / eleven instructions (aka. subcommands) for the /execute command. Multiple subcommands can be chained after /execute. Subcommands are divided into 4 / 3 categories: modify subcommands, condition subcommands, store subcommands, and run subcommand.
+
+Modify subcommands modify command context variables to change the context the command is executed. Subcommands following it will execute with specific executor(s), execution position(s), execution dimension(s), execution rotation(s) and execution anchor.
+Condition subcommands are used to test whether certain conditions are met and then output results or limit conditions of execution.
+Store subcommands can store the return values of the command in a scoreboard or the data of an entity, block entity, or storage, and can also change the maximum or current value of a bossbar.
+run subcommand is used for carrying out another command.
+All needed subcommands can be concatenated together. Subcommands other than the run subcommand can be arranged arbitrarily and used multiple times. But the run subcommand can be used only once and must be put at the end of the subcommands chain. A run subcommand or a condition subcommand finalizes the chain, otherwise the command is unparseable in Bedrock Edition or parseable but does nothing (except summon subcommand, see also MC-165773 and MC-260576) in Java Edition.
+
+The game processes subcommand chain in order from front to end, for example, the following commands are different:
+
+All entities move one block forward: execute as @e at @s run tp ^ ^ ^1
+All entities are teleported to one block in front of the executor: execute at @s as @e run tp ^ ^ ^1
+Some subcommands can fork the command execution, that is, they cause subcommands following it to be executed multiple times. It is possible to fork with zero branches, that is, terminate. For example, when as subcommand selects multiple entities, the subcommand following it will execute once per entity.
+If the /execute command hasn't ever forked, we describe it as having only one branch  the main branch.
+A branch may terminate halfway and does nothing (including run and store subcommands). For example, the condition in a condition subcommand doesn't met, or as subcommand selects zero entities. When terminating, an red message is shown in Bedrock Edition. If all branches terminated, we describe the /execute command itself as terminating.
+Note that .... run execute ... has no effect at all in both Java Edition and Bedrock Edition. For example, the following commands work the same:
+
+execute as @e[type=armor_stand] as @e[type=armor_stand] run summon armor_stand
+execute as @e[type=armor_stand] run execute as @e[type=armor_stand] run execute run execute run summon armor_stand
+However, the way to fork is different in Java Edition and Bedrock Edition. (See also MC-125067  resolved as "Won't Fix". and MCPE-165278  resolved as "Unresolved".)
+
+In Java Edition, the game processes subcommands in breadth-first, that is, executes subcommands one by one. So the game processes other subcommands before processing run subcommands, so the run subcommand cannot affect other subcommands.
+In Bedrock Edition, the game processes subcommands in depth-first. That is, after forking, all the following subcommands are considered as a whole and will be executed once for each branch.
+For example, when there're two armor stands (A and B) in the world, and a player executes execute as @e[type=armor_stand] as @e[type=armor_stand] run summon armor_stand, the behaviors of Java Edition and Bedrock Edition are shown in the following pictures:
+
+In Java Edition, depth-first can be achieved via /function, for example:
+
+When there're two armor stands (A and B) in the world, and a player executes execute as @e[type=armor_stand] run function test, and in the function file is:
+execute as @e[type=armor_stand] run summon armor_stand
+It behaves like /execute as @e[type=armor_stand] as @e[type=armor_stand] run summon armor_stand in Bedrock Edition.
+In Bedrock Edition, there is no way to achieve breadth-first.
+
+                                                                           
+In Java Edition, a branch returns a success value and a result value (see #Store subcommand for details) after it fully executed (if it does not terminate halfway). These two return values come from the last subcommand (may be a condition subcommand or a run subcommand). The success value is always 0 or 1. The result value must be an integer, if not, it is rounded down. If the last subcommand fails, both the two values are 0. The two values can be stored through storage subcommands.
+Note that all commands except the execute command have these two return values. The execute command itself does not have them.
+If the command execution is forked after a storage subcommand, the storage operation will be applied on each branch. Each branch's return value will be stored. Since the stored values will not be accumulated, after the whole execute command is executed, the stored value is the return value of the last executed branch.
+If executing a /function command after a storage subcommand, the storage operation will be applied on each command in the function file. For each command (except /execute command) in the function file, its return value will be stored after being executed. For /execute commands in the function file, return value of each branch will be stored after being executed. The return value of /function command itself will be also stored after the whole function file is executed. Since the stored values will not be accumulated, after the whole execute command is executed, the stored value is the return value of the /function command itself.
+
+Like amost commands, /execute command itself also has a success count (whether or not terminates halfway), which is different from success and result value. It is similar to the success value, but is accumulated. This is usually 0 or 1. If the command is forked or a function is executed, success count can be a number higher than 1. When executing it with a command block, the success count is returned to the command block, which can be checked by a conditional command block or be read with a redstone comparator.
+
+There are fourteen / eleven instructions (aka. subcommands) for the /execute command, and each has its own special syntax, so describing syntax takes a large branching tree.
+
+Full syntax tree
+
+Java Edition
+/execute . . .
+ align <axes> -> execute
+ anchored <anchor> -> execute
+ as <targets> -> execute
+ at <targets> -> execute
+ facing (<pos>|entity <targets> <anchor>) -> execute
+ in <dimension> -> execute
+ on <relation> -> execute
+ positioned (<pos>|as <targets>|over <heightmap>) -> execute
+ rotated (<rot>|as <targets>) -> execute
+ store (result|success) . . .
+ block <targetPos> <path> <type> <scale> -> execute
+ bossbar <id> (max|value) -> execute
+ entity <target> <path> <type> <scale> -> execute
+ score <targets> <objective> -> execute
+ storage <target> <path> <type> <scale> -> execute
+ summon <entity> -> execute
+ (if|unless) . . .
+ biome <pos> <biome> -> [execute]
+ block <pos> <block> -> [execute]
+ blocks <start> <end> <destination> (all|masked) -> [execute]
+ data . . .
+ block <sourcePos> <path> -> [execute]
+ entity <source> <path> -> [execute]
+ storage <source> <path> -> [execute]
+ dimension <dimension> -> [execute]
+ function <function> -> [execute]
+ entity <entities> -> [execute]
+ loaded <pos> -> [execute]
+ predicate <predicate> -> [execute]
+ score <target> <targetObjective> . . .
+ (<|<=|=|>|>=) <source> <sourceObjective> -> [execute]
+ matches <range> -> [execute]
+ run <command>
+where -> execute represents the start of another subcommand.
+Bedrock Edition
+/execute . . .
+ align <axes: string> <chainedCommand: ExecuteChainedOption_0>
+ anchored <eyes|feet> <chainedCommand: ExecuteChainedOption_0>
+ as <origin: target> <chainedCommand: ExecuteChainedOption_0>
+ at <origin: target> <chainedCommand: ExecuteChainedOption_0>
+ facing . . .
+ <position: x y z> <chainedCommand: ExecuteChainedOption_0>
+ entity <origin: target> <eyes|feet> <chainedCommand: ExecuteChainedOption_0>
+ in <dimension: Dimension> <chainedCommand: ExecuteChainedOption_0>
+ positioned . . .
+ <position: x y z> <chainedCommand: ExecuteChainedOption_0>
+ as <origin: target> <chainedCommand: ExecuteChainedOption_0>
+ rotated . . .
+ <yaw: value> <pitch: value> <chainedCommand: ExecuteChainedOption_0>
+ as <origin: target> <chainedCommand: ExecuteChainedOption_0>
+ <subcommand: Option_If_Unless> . . .
+ block <position: x y z> <block: Block> . . .
+ <blockStates: block states> [chainedCommand: ExecuteChainedOption_0]
+ [chainedCommand: ExecuteChainedOption_0]
+ blocks <begin: x y z> <end: x y z> <destination: x y z> <scan mode: BlocksScanMode> [chainedCommand: ExecuteChainedOption_0]
+ entity <target: target> [chainedCommand: ExecuteChainedOption_0]
+ score <target: target> <objective: string> . . .
+ <operation: compare operator> <source: target> <objective: string> [chainedCommand: ExecuteChainedOption_0]
+ matches <range: integer range> [chainedCommand: ExecuteChainedOption_0]
+ run <command: command>
+where chainedCommand: ExecuteChainedOption_0 represents the start of another subcommand.
+
+Updates the execution position, aligning to its current block position (an integer). Applies only along specified axes.
+This is akin to flooring the coordinates  i.e. rounding them downward.
+Syntax
+Java Edition:
+align <axes> -> execute
+Bedrock Edition:
+align <axes: string> <chainedCommand: ExecuteChainedOption_0>
+Arguments
+JE: <axes>: swizzleBE: axes: string: basic_string
+Any non-repeating combination of the characters 'x', 'y', and 'z'. Axes can be declared in any order, but they cannot duplicate. (For example, x, xz, zyx, or yz.)
+Result
+Execution position in the given axes are floored, changing by less than 1 block.
+Unparseable if the argument is not specified correctly.
+Example
+Given (-1.8, 2.3, 5.9), execute align xz changes the position to (-2, 2.3, 5).
+Given (2.4, -1.1, 3.8), execute align yxz run spawnpoint @p ~ ~ ~ sets the player's spawnpoint to (2, -2, 3).
+
+Sets the execution anchor to the eyes or feet. Defaults to feet.
+Running positioned <pos> -> execute resets to feet
+Effectively recenters local coordinates on either the eyes or feet, also changing the angle the facing subcommand (of /execute and /teleport) works off of.
+See also MCPE-162681 and MCPE-165051 for issues about Bedrock Edition.
+Syntax
+Java Edition:
+anchored <anchor> -> execute
+Bedrock Edition:
+anchored <eyes|feet> <chainedCommand: ExecuteChainedOption_0>
+Arguments
+JE: <anchor>: entity_anchorBE: eyes|feet
+Whether to anchor the executed command to eyes or feet
+Must be either eyes or feet.
+Result
+Execution anchor is set to either the eyes or the feet.
+Unparseable if the argument is not specified correctly.
+Example
+The effect of /tp is to move a target by placing its feet at the given position.
+execute anchored eyes run tp ^ ^ ^ effectively teleports the executor's feet to where its eyes are.
+execute anchored eyes run tp ^5 ^ ^ means "place the executor's feet 5 blocks left of where its eyes are"
+
+Sets the executor to target entity, without changing execution position, rotation, dimension, and anchor.
+Syntax
+Java Edition:
+as <targets> -> execute
+Bedrock Edition:
+as <origin: target> <chainedCommand: ExecuteChainedOption_0>
+Arguments
+JE: <targets>: entityBE: origin: target: CommandSelector<Actor>
+Target entity/entities to become the new executor.
+Must be a player name, a target selector or a UUID. 
+Result
+Executor is updated to target entity (which changes the meaning of @s).
+Unparseable if the argument is not specified correctly.
+Forks if <targets> or origin: target selects multiple entities.
+Terminates if <targets> or origin: target fails to resolve to one or more valid entities (named players must be online).
+Example
+Kill all sheep: execute as @e[type=sheep] run kill @s
+Make all villagers in loaded chunks invincible: execute as @e[type=villager] run data merge entity @s {Invulnerable:1}
+
+Sets the execution position, rotation, and dimension to match those of an entity; does not change executor.
+Syntax
+Java Edition:
+at <targets> -> execute
+Bedrock Edition:
+at <origin: target> <chainedCommand: ExecuteChainedOption_0>
+Arguments
+JE: <targets>: entityBE: origin: target: CommandSelector<Actor>
+Target entity/entities to match position, rotation, and dimension with.
+Must be a player name, a target selector or a UUID. 
+Result
+Execution position, rotation, and dimension are updated to match target entity.
+Unparseable if the argument is not specified correctly.
+Forks if <targets> or origin: target selects multiple entities.
+Terminates if <targets> or origin: target fails to resolve to one or more valid entities (named players must be online).
+Example
+Move all sheep upward 1 block: execute as @e[type=sheep] at @s run tp ~ ~1 ~
+Kill the player running the command, because "at" does not change the executor: execute at @e[type=sheep] run kill @s
+
+Sets the execution rotation to face a given point, as viewed from its anchor (either the eyes or the feet).
+Syntax
+Java Edition:
+facing <pos> -> execute
+facing entity <targets> <anchor> -> execute
+Bedrock Edition:
+facing <position: x y z> <chainedCommand: ExecuteChainedOption_0>
+facing entity <origin: target> <eyes|feet> <chainedCommand: ExecuteChainedOption_0>
+Arguments
+Option: facing <pos> and facing <position: x y z>
+JE: <pos>: vec3BE: position: x y z: CommandPositionFloat
+Coordinates to rotate toward
+Must be a three-dimensional coordinates with floating-point number elements. Accepts tilde and caret notations.
+Option: facing entity <targets> <anchor> and facing entity <origin: target> <eyes|feet>
+JE: <targets>: entityBE: origin: target: CommandSelector<Actor>
+The target(s) to rotate toward
+Must be a player name, a target selector or a UUID. 
+JE: <anchor>: entity_anchorBE: eyes|feet
+Whether to point at the target's eyes or feet
+Must be either eyes or feet.
+Result
+Execution rotation is updated to face given position or targets.
+Unparseable if the argument is not specified correctly.
+Forks if <targets> or origin: target selects multiple entities.
+Terminates if <targets> or origin: target fails to resolve to one or more valid entities (named players must be online).
+Example
+Executor rotates once to the left: execute facing ^1 ^ ^ run tp @s ~ ~ ~ ~ ~
+All entities move one block in the direction of (0, 64, 0) (without changing their rotation): execute as @e at @s facing 0 64 0 run tp @s ^ ^ ^1
+All entities move one block in the direction of (0, 64, 0) (with changing their rotation): execute as @e at @s facing 0 64 0 run tp ^ ^ ^1 ~ ~
+All non player entities move one space in the direction of their nearest player (without changing their rotation): execute as @e[type=!player] at @s facing entity @p feet run tp @s ^ ^ ^1
+
+Sets the execution dimension and position.
+It respects dimension scaling for relative and local coordinates: the execution position (only the X/Z part)  is divided by 8 when changing from the Overworld to the Nether, and is multiplied by 8 when vice versa. Applies to custom dimensions as well.
+Syntax
+Java Edition:
+in <dimension> -> execute
+Bedrock Edition:
+in <dimension: Dimension> <chainedCommand: ExecuteChainedOption_0>
+Arguments
+JE: <dimension>: dimensionBE: dimension: Dimension: enum
+Name of the new execution dimension
+In Java Edition, must be the resource location, which will be resolved during command execution into a dimension. In Bedrock Edition, must be either overworld, nether, or the_end.
+Result
+Execution dimension and position is updated.
+Unparseable if the argument is not specified correctly.
+Example
+Looking for an end city (from the overworld):
+execute in minecraft:the_end run locate structure minecraft:end_city
+execute in the_end run locate structure end_city
+If a player at position (16,64,16) in Overworld runs the following command, the player is teleported to (16,64,16) in the Nether:
+execute in minecraft:the_nether positioned as @s run tp ~ ~ ~
+execute in nether positioned as @s run tp ~ ~ ~
+If a player at position (16,64,16) in Overworld runs the following command, the player is teleported to (2,64,2) in the Nether.
+execute in minecraft:the_nether run tp ~ ~ ~
+execute in nether run tp ~ ~ ~
+If a player at position (80,64,80) in Overworld runs the following command, the player is teleported to (10,64,15) in the Nether.
+execute in minecraft:the_nether run tp ~ ~ ~5
+execute in nether run tp ~ ~ ~5
+
+                                                                           
+Updates the executor, selecting entities based on relation to the current executor entity (changing the original executor), without changing execution position, rotation, dimension, and anchor.
+Syntax
+Java Edition:
+on <relation> -> execute
+Arguments
+JE: <relation>
+A relation of the current executor entity
+attacker: the last entity that damaged the current executor entity in the previous 5 seconds. Note that damage types in minecraft:no_anger tag bypass the record of attacker. Interaction entities do not forget attacker after 5 seconds. Some mobs forget the attacker when stoping angry.
+controller: the entity that is riding and controlling the current executor entity. See Riding#Controlling for details.
+leasher: the entity leading the current executor entity with a leash.
+origin: the entity that cause the summon of the current executor entity. For example, the shooter of an arrow, the primer of a primed TNT entity.
+owner: the owner of the current executor entity if it is a tameable animal.
+passengers: all entities that are directly riding the current executor entity, no sub-passengers.
+target: the attack target of the current executor entity. Interaction entities can select the last entity that interacted with them.
+vehicle: the entity ridden by the current executor entity.
+Result
+Executor is updated based on the relation with the executor entity (which changes the meaning of @s).
+Forks if passengers selects multiple entities. (Other relations can select only at most one entities.)
+Terminates if current executor is not an entity.
+Terminates if the relation is not applicable to the current executor entity or there are no entities matching it.
+Example
+Damage 1 heart the entity that is leashing a cat: execute as @e[type=cat] on leasher run damage @s 2 generic
+Give all players riding a boat a fishing rod: execute as @e[type=boat] on passengers run give @s fishing_rod
+
+Sets the execution position, without changing execution rotation or dimension; can match an entity's position, or at one block above the Y-level stored in the specified heightmap.
+Syntax
+Java Edition:
+positioned <pos> -> execute
+positioned as <targets> -> execute
+positioned over <heightmap> -> execute
+Bedrock Edition:
+positioned <position: x y z> <chainedCommand: ExecuteChainedOption_0>
+positioned as <origin: target> <chainedCommand: ExecuteChainedOption_0>
+Arguments
+Option: positioned <pos> or positioned <position: x y z>
+JE: <pos>: vec3BE: position: x y z: CommandPositionFloat
+New position
+Must be a three-dimensional coordinates with floating-point number elements. Accepts tilde and caret notations.
+Option: positioned as <targets> or positioned as <origin: target>
+JE: <targets>: entityBE: origin: target: CommandSelector<Actor>
+Target entity/entities to match position with
+Must be a player name, a target selector or a UUID. 
+Option: positioned over <heightmap>
+JE: <heightmap>: heightmap
+Specifies the heightmap
+Must be one of world_surface, motion_blocking, motion_blocking_no_leaves, and ocean_floor.
+Result
+Execution position is updated. And positioned <pos> also resets execution anchor to feet.
+Unparseable if the argument is not specified correctly.
+Forks if <targets> or origin: target selects multiple entities.
+Terminates if <targets> or origin: target fails to resolve to one or more valid entities (named players must be online).
+When multiple entities are selected, next sub-command is executed once in each execution position.
+Example
+Look for a village near (0, 64, 0):
+execute positioned 0 64 0 run locate structure #village
+execute positioned 0 64 0 run locate structure village
+
+Sets the execution rotation; can match an entity's rotation.
+Syntax
+Java Edition:
+rotated <rot> -> execute
+rotated as <targets> -> execute
+Bedrock Edition:
+rotated <yaw: value> <pitch: value> <chainedCommand: ExecuteChainedOption_0>
+rotated as <origin: target> <chainedCommand: ExecuteChainedOption_0>
+Arguments
+Option: rotated <rot> or rotated <yaw: value> <pitch: value>
+JE: <rot>: rotation (<yaw> <pitch>)
+BE: yaw: value: RelativeFloat and pitch: value: RelativeFloat
+Angles of rotation
+Must be a rotation with double or float number elements, including yaw and pitch, measured in degrees.For the horizontal rotation (yaw), -180.0 for due north, -90.0 for due east, 0.0 for due south, 90.0 for due west, to 179.9 for just west of due north, before wrapping back around to -180.0.For the vertical rotation (pitch), -90.0 for straight up to 90.0 for straight down.Tilde notation can be used to specify a rotation relative to the execution rotation.
+Option: rotated as <targets> or rotated as <origin: target>
+JE: <targets>: entityBE: origin: target: CommandSelector<Actor>
+Target entity/entities to match rotation with
+Must be a player name, a target selector or a UUID. 
+Result
+Execution rotation is updated.
+Unparseable if the argument is not specified correctly.
+Forks if <targets> or origin: target selects multiple entities.
+Terminates if <targets> or origin: target fails to resolve to one or more valid entities (named players must be online).
+Example
+Move every sheep 1 block in the direction that the player closest to it is facing: execute as @e[type=sheep] at @sORpositioned as @s rotated as @p run tp @s ^ ^ ^1
+
+                                                                           
+Summons a new entity at execution position and changes the executor to this summoned entity.
+Syntax
+Java Edition:
+summon <entity> -> execute
+Arguments
+JE: <entity>: resource
+Entity to be summon and the new executor
+Must be an existing registered resource location in minecraft:entity_type registry.
+Result
+Summons the entity and changes the executor.
+Unparseable if the argument is not specified correctly.
+Example
+Summon a sheep with the tag "Test": execute summon sheep run tag @s add Test
+Summon a block display entiy and scale it: execute summon block_display run data merge entity @s {transformation:{scale:[4.0,4.0,4.0]},block_state:{Name:"minecraft:dirt"}}
+
+The particular use of the if and unless subcommands are to restrict command execution to happen only under specified conditions. In most cases, unless is a negation of if, equivalent to "if not...". The two commands have identical argument structures.
+
+Result of condition subcommands
+
+Unparseable if the argument is not specified correctly.
+In some cases, for example, testing a block outside the world, both if and unless terminates or fails.
+When not at the end of the subcommands chain, only if the condition tests pass does the branch continue; otherwise it terminates.
+In Java Edition, if it is executed in multiple branches, it acts as a context filter - Only branchs with a context that matches the condition continues.
+When at the end of the subcommands chain, it checks whether the condition is met and then outputs. In Java Edition, it has output values that can be stored by store subcommands.
+There are nine / four different types of conditions:
+
+(if|unless) biome  Tests a biome area
+(if|unless) block  Tests a single real block
+(if|unless) blocks  Tests a real 3D rectangular volume against another
+(if|unless) data  Tests the data held by a real block, entity, or a storage
+(if|unless) dimension - Tests the dimension of the execution
+(if|unless) function  Tests a function
+(if|unless) entity  Tests whether an entity like the one given is real
+(if|unless) loaded - Tests if a given position is loaded in the world
+(if|unless) predicate  Tests a predicate
+(if|unless) score - Tests a target's score
+
+                                                                           
+Checks for a specific biome in a given position.
+Syntax
+(if|unless) biome <pos> <biome> -> [execute]
+Arguments
+<pos>: block_pos
+Position to test
+Must be a block position composed of <x>, <y> and <z>, each of which must be an integer or a tilde and caret notation.
+<biome>: resource_or_tag
+Biome(s) to test for
+Must be an existing registered resource location or tag in minecraft:worldgen/biome registry.
+Result
+Unparseable if the argument is not specified correctly.
+In following conditions, terminates when this subcommand is not at the end of the subcommands chain; fails when at the end:
+If <pos> is unloaded or out of the world.
+If test doesn't pass.
+When at the end of the subcommands chain, if the command is successful, both success value and result value are 1.
+
+Compares the block at a given position to a given block ID.
+Syntax
+Java Edition:
+(if|unless) block <pos> <block> -> [execute]
+Bedrock Edition:
+<subcommand: Option_If_Unless> block <position: x y z> <block: Block> [chainedCommand: ExecuteChainedOption_0]
+<subcommand: Option_If_Unless> block <position: x y z> <block: Block> <blockStates: block states> [chainedCommand: ExecuteChainedOption_0]
+Arguments
+JE: <pos>: block_posBE: position: x y z: CommandPosition
+Position of a target block to test
+In Java Edition, must be a block position composed of <x>, <y> and <z>, each of which must be an integer or a tilde and caret notation. In Bedrock Edition, must be a three-dimensional coordinates composed of <x>, <y> and <z>, each of which must be a floating-point number or tilde and caret notation.
+JE: <block>: block_predicateBE: block: Block: enum
+Specifies the block to test for
+In Java Edition, must be in the format of block_id[block_states]{data_tags}(accepts block tags), in which block states and data tags can be omitted when they are not needed. In Bedrock Edition, must be a block id.
+BE: blockStates: block states: BlockStateCommandParam
+Specifies the block state for the specified block to test for
+Must be a blockstate argument as ["<state1>":<value1>,"<state2>":<value2>,...]. For example: ["old_leaf_type":"birch","persistent_bit":true].
+Result
+Unparseable if the argument is not specified correctly.
+In following conditions, terminates when this subcommand is not at the end of the subcommands chain; fails when at the end:
+If <pos> or position: x y z is unloaded or out of the world.
+If test doesn't pass.
+In Java Edition, when at the end of the subcommands chain, if the command is successful, both success value and result value are 1.
+
+Compares the blocks in two equally sized volumes.
+Syntax
+Java Edition:
+(if|unless) blocks <start> <end> <destination> (all|masked) -> [execute]
+Bedrock Edition:
+<subcommand: Option_If_Unless> blocks <begin: x y z> <end: x y z> <destination: x y z> <scan mode: BlocksScanMode> [chainedCommand: ExecuteChainedOption_0]
+Arguments
+JE: <start>: block_posBE: begin: x y z: CommandPosition
+JE: <end>: block_posBE: end: x y z: CommandPosition
+Positions of any two diagonal corners of the source volume (the volume to compare)
+In Java Edition, must be a block position composed of <x>, <y> and <z>, each of which must be an integer or a tilde and caret notation. In Bedrock Edition, must be a three-dimensional coordinates composed of <x>, <y> and <z>, each of which must be a floating-point number or tilde and caret notation.
+JE: <destination>: block_posBE: destination: x y z: CommandPosition
+Position of the lower northwest corner of the destination volume (the volume to compare to)
+Assumed to be of the same size as the source volume
+In Java Edition, must be a block position composed of <x>, <y> and <z>, each of which must be an integer or a tilde and caret notation. In Bedrock Edition, must be a three-dimensional coordinates composed of <x>, <y> and <z>, each of which must be a floating-point number or tilde and caret notation.
+JE: (all|masked)
+BE: scan mode: BlocksScanMode: enum
+Specifies whether all blocks in the source volume should be compared, or if air blocks should be masked/ignored
+Must be either all or masked.
+Result
+Unparseable if the argument is not specified correctly.
+In following conditions, terminates when this subcommand is not at end of the subcommands chain; fails when at the end:
+If <start> / begin: x y z, <end> / end: x y z, or <destination> / destination: x y z is unloaded or out of the world.
+If the volume of the source region is greater than 32768 (the equivalent of 8 chunk sections).
+If test doesn't pass.
+In Java Edition, when at the end of the subcommands chain, if the command is successful:
+The success value is 1.
+For if mode, result value is the number of matching blocks (the total number of blocks in all mode, or the number of source region non-air blocks in masked mode).
+For unless mode, result value is 1.
+
+                                                                           
+Checks whether the targeted block, entity or storage has any data tag for a given path.
+Syntax
+(if|unless) data block <pos> <path> -> [execute]  for data checking a block
+(if|unless) data entity <target> <path> -> [execute]  for data checking an entity
+(if|unless) data storage <source> <path> -> [execute]  for data checking a storage
+Arguments
+Option: (if|unless) data block <pos> <path>
+<pos>: block_pos
+Position of the block for data testing
+Must be a block position composed of <x>, <y> and <z>, each of which must be an integer or a tilde and caret notation.
+<path>: nbt_path
+Data path to check whether the block has
+Must be an NBT path.
+Option: (if|unless) data entity <target> <path>
+<target>: entity
+A single entity for data testing
+Must be a player name, a target selector or a UUID.  And the target selector must be in single type.
+<path>: nbt_path
+Data path to check whether the entity has
+Must be an NBT path.
+Option: (if|unless) data storage <source> <path>
+<source>: resource_location
+The resource location of the storage for data testing
+Must be a resource location which will be resolved during command execution into unregistered content or client-side content.
+<path>: nbt_path
+Data path to check whether the storage has
+Must be an NBT path.
+Result
+Unparseable if the argument is not specified correctly.
+In following conditions, terminates when this subcommand is not at the end of the subcommands chain; fails when at the end:
+If <pos> is unloaded or out of the world.
+If block at <pos> isn't a block entity.
+If <target> fails to resolve to one or more valid entities (named players must be online).
+If test doesn't pass.
+When at the end of the subcommands chain, if the command is successful:
+The success value is 1.
+For if mode, result value is the number of matching data tags.
+For unless mode, result value is 1.
+
+                                                                           
+Checks if the execution is in a matching dimension.
+Syntax
+(if|unless) dimension <dimension> -> [execute]
+Arguments
+<dimension>: dimension
+Dimension to test for
+It must be the resource location, which will be resolved during command execution into a dimension.
+Result
+Unparseable if the argument is not specified correctly.
+In following conditions, terminates when this subcommand is not at the end of the subcommands chain; fails when at the end:
+If test doesn't pass.
+When at the end of the subcommands chain, if the command is successful, both success value and result value are 1.
+
+ 
+Checks a function or function tag and matches the return value(s). If a tag is given, all functions run regardless of the results of prior functions.
+Syntax
+(if|unless) function <function> -> [execute]
+Arguments
+<function>: function
+Function to test for
+It must be a resource location, which refers to a single function, or one prefixed with a #, which refers to a function tag.
+Result
+Unparseable if the argument is not specified correctly.
+In following conditions, terminates when this subcommand is not at the end of the subcommands chain; fails when at the end:
+If the function or function tag doesn't exist.
+If test doesn't pass.
+
+Checks whether one or more entities exist.
+Syntax
+Java Edition:
+(if|unless) entity <entities> -> [execute]
+Bedrock Edition:
+<subcommand: Option_If_Unless> entity <target: target> [chainedCommand: ExecuteChainedOption_0]
+Arguments
+JE: <entities>: entityBE: target: target: CommandSelector<Actor>
+The target entity/ies to test for
+Must be a player name, a target selector or a UUID. 
+Result
+Unparseable if the argument is not specified correctly.
+In following conditions, terminates when this subcommand is not at the end of the subcommands chain; fails when at the end:
+If test doesn't pass.
+In Java Edition, when at the end of the subcommands chain, if the command is successful:
+The success value is 1.
+For if mode, result value is the number of matching entities.
+For unless mode, result value is 1.
+
+                                                                           
+Checks if chunks at a given position is fully loaded (Entity Ticking).
+Syntax
+(if|unless) loaded <pos> -> [execute]
+Arguments
+<pos>: block_pos
+Position to test
+Must be a block position composed of <x>, <y> and <z>, each of which must be an integer or a tilde and caret notation.
+Result
+Unparseable if the argument is not specified correctly.
+In following conditions, terminates when this subcommand is not at the end of the subcommands chain; fails when at the end:
+If <pos> is out of the world.
+If test doesn't pass.
+When at the end of the subcommands chain, if the command is successful, both success value and result value are 1.
+
+                                                                           
+Checks whether the predicate successes. See Predicate for more information.
+Syntax
+(if|unless) predicate <predicate> -> [execute]
+Arguments
+<predicate>: resource_location
+The predicate to be checked whether it evaluates to a positive result
+Must be a resource location which will be resolved during command execution into unregistered content or client-side content.
+Result
+Unparseable if the argument is not specified correctly.
+In following conditions, terminates when this subcommand is not at the end of the subcommands chain; fails when at the end:
+If the predicate doesn't exist.
+If test doesn't pass.
+When at the end of the subcommands chain, if the command is successful, both success value and result value are 1.
+
+Check whether a score has the specific relation to another score, or whether it is in a given range.
+Syntax
+Java Edition:
+(if|unless) score <target> <targetObjective> (<|<=|=|>=|>) <source> <sourceObjective> -> [execute]  for comparing two scores
+(if|unless) score <target> <targetObjective> matches <range> -> [execute]  for comparing one score against a range
+Bedrock Edition:
+<subcommand: Option_If_Unless> score <target: target> <objective: string> <operation: compare operator> <source: target> <objective: string> [chainedCommand: ExecuteChainedOption_0] - for comparing two scores
+<subcommand: Option_If_Unless> score <target: target> <objective: string> matches <range: integer range> [chainedCommand: ExecuteChainedOption_0] - for comparing one score against a range
+Arguments
+JE: <target>: score_holderBE: target: target: CommandSelector<Actor>
+A single score holder
+In Java Edition, must be a selection of score holders. It may be either a target selector, a player name, a UUID, or * for all score holders tracked by the scoreboard. Named player needn't be online, and it even needn't be a real player's name.
+In Bedrock Edition, must be a player name or a target selector. It can also be quoted unique id to specified non-player entities in the objective.
+JE: <targetObjective>: objectiveBE: objective: string: basic_string
+The scoreboard objective to check under. The score of <target> or <target: target> in this objective is checked
+In Java Edition, it must be a valid scoreboard objective name.  In Bedrock Edition, it must be a single word that has no space or a quoted string.
+Option: (if|unless) score ... (<|<=|=|>=|>) ... and <subcommand: Option_If_Unless> score ... <operation: compare operator> ...
+JE: (<|<=|=|>=|>)
+BE: operation: compare operator: enum
+Specifies a compare operator
+Must be one of <, <=, =, >=, and >.
+JE: <source>: score_holderBE: source: target: CommandSelector<Actor>
+A single score holder to compare against
+In Java Edition, must be a selection of score holders. It may be either a target selector, a player name, a UUID, or * for all score holders tracked by the scoreboard. Named player needn't be online, and it even needn't be a real player's name.
+In Bedrock Edition, must be a player name or a target selector. It can also be quoted unique id to specified non-player entities in the objective.
+JE: <sourceObjective>: objectiveBE: objective: string: basic_string
+A scoreboard objective. The score of <source> or <source: target> in this objective is checked
+In Java Edition, it must be a valid scoreboard objective name.  In Bedrock Edition, it must be a single word that has no space or a quoted string.
+Option: (if|unless) score ... matches ... and <subcommand: Option_If_Unless> score ... matches ...
+JE: <range>: int_rangeBE: range: integer range: CommandIntegerRange
+Range to compare score against
+Must be a range acceptable for integer values. (e.g. 0 - exact match of 0. ..0 - less than or equal to 0. 0.. - more than or equal to 0. 0..1 - between 0 and 1, inclusive.)
+Result
+Unparseable if the argument is not specified correctly.
+In following conditions, terminates when this subcommand is not at the end of the subcommands chain; fails when at the end:
+In Java Edition, if <target> / target: target or <source> / source: target is *.
+If test doesn't pass.
+In Java Edition, when at the end of the subcommands chain, if the command is successful, both success value and result value are 1.
+
+Kill all players standing on a wool:
+execute as @a at @s if block ~ ~-1 ~ #wool run kill @s
+execute as @a at @s if block ~ ~-1 ~ wool run kill @s
+Check whether scores A and B are equal: execute if score @s A = @s B
+
+                                                                           
+Store the final subcommand's result or success value somewhere. It is first processed along with other subcommands, recording the location to store in. After the last subcommand (may be a condition subcommand or a run subcommand) is executed, return values are stored in the recorded location. Note that the return values of commands must be an integer. If a decimal, it is rounded down.
+There are five different modes of storage:
+
+store (result|success) block  Store return value under one of a block's NBTs
+store (result|success) bossbar  Store return value as a bossbar data
+store (result|success) entity  Store return value under one of an entity's NBTs
+store (result|success) score  Store return value under a target's score on an objective
+store (result|success) storage  Store return value under one of a storage's NBTs
+
+Saves the final command's return value as tag data within a block entity. Store as a byte, short, int, long, float, or double. If the return value is a decimal, it is rounded first and then multiplied by <scale>.
+Syntax
+store (result|success) block <targetPos> <path> <type> <scale> -> execute
+Arguments
+<targetPos>: block_pos
+Position of target block
+<path>: nbt_path
+Location of the desired tag to hold the value in
+<type>
+Desired data size/type
+Must be one of byte, short, int, long, float, and double.
+<scale>: double
+Multiplier to apply before storing value, may be negative
+Result
+Unparseable if the argument is not specified correctly.
+Does not store anything when the path does not exist.
+
+Saves the final command's return value in either a bossbar's current value or its maximum value
+Syntax
+store (result|success) bossbar <id> (value|max) -> execute
+Arguments
+<id>: resource_location
+ID of the bossbar to target for saving
+(value|max)
+Whether to overwrite the bossbar's current value or its max value
+Result
+Unparseable if the argument is not specified correctly.
+
+Save the final command's return value in one of an entity's data tags. Store as a byte, short, int, long, float, or double. If the return value is a decimal, it is rounded first and then multiplied by <scale>. Like the /data command, "/execute store <arguments>" cannot modify player NBT.
+Syntax
+store (result|success) entity <target> <path> <type> <scale> -> execute
+Arguments
+<target>: entity
+A single entity to store under
+<path>: nbt_path
+Location of the desired tag to hold the value in
+<type>
+Desired data size/type
+Must be one of byte, short, int, long, float, and double.
+<scale>: double
+Multiplier to apply before storing value, may be negative
+Result
+Unparseable if the argument is not specified correctly.
+Does not store anything when the path does not exist.
+
+Overrides the score held by <targets> on the given <objective> with the final command's return value.
+Syntax
+store (result|success) score <targets> <objective> -> execute
+Arguments
+<targets>: score_holder
+Specifies score holder(s) whose score is to be overridden
+<objective>: objective
+A scoreboard objective
+Result
+Unparseable if the argument is not specified correctly.
+
+Uses the <path> within storage <target> to store the return value in. Store as a byte, short, int, long, float, or double. If the return value is a decimal, it is rounded first and then multiplied by <scale>. If the storage does not yet exist, it gets created.
+Syntax
+store (result|success) storage <target> <path> <type> <scale> -> execute
+Arguments
+<target>: resource_location (Single word)
+Target storage container, as a resource location
+<path>: nbt_path
+Location of the desired tag to hold the value in
+<type>
+Desired data size/type
+Must be one of byte, short, int, long, float, and double.
+<scale>: double
+Multiplier to apply before storing value, may be negative
+Result
+Unparseable if the argument is not specified correctly.
+
+The run command's single argument is the command to be executed, the context variables of which may be modified by the subcommands used.
+
+Syntax
+Java Edition:
+run --><command>
+Bedrock Edition:
+run <command: command>
+Arguments
+JE: <command>
+BE: command: command
+Can be any command
+Technical
+Resets the command node to the root of the command dispatcher
+Information on modelling commands as chat text:
+The command dispatcher is what starts when the player begins a message with a forward-slash (/).
+A command node is the specific word/entry the cursor is editing, either a command or an argument.
+The root node comes before the first word in the current command.
+Result
+Execute this command. Fails if <command> or command: command is failure.
+
+Teleport all players who have an item enchanted with Efficiency in their first hotbar slot to coordinates (0, 64, 0):
+/execute as @a if data entity @s Inventory[{Slot:0b}].tag.Enchantments[{id:"minecraft:efficiency"}] run tp @s 0 64 0
+Create a smoke particle three blocks in front of all players:
+/execute as @a at @s anchored eyes run particle smoke ^ ^ ^3
+Place a saddle on pigs located within 5 blocks of the executing player, and remove saddles from pigs located over 5 blocks away from the executing player:
+/execute as @e[type=pig] at @s store success entity @s Saddle byte 1 if entity @p[distance=..5]
+Make a player say "My feet are soaked!" in chat if they are located in a block of water:
+/execute as @a at @s if block ~ ~ ~ water run say "My feet are soaked!"
+Make a player say "Score is reset" in chat if the score 'test' is not set, eg by doing "scoreboard players reset @s test":
+/execute as @a unless score @s test = @s test run say "Score is reset"
+Hurl all pigs skyward who are within 3 blocks of the nearest player:
+/execute at @p as @e[type=pig,distance=..3] run data merge entity @s {Motion:[0.0,2.0,0.0]}
+Kill all zombies who have no headgear:
+/execute as @e[type=zombie] unless data entity @s ArmorItems[3].id run kill @s

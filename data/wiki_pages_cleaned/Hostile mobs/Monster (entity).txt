@@ -1,0 +1,20 @@
+Monsters were hostile mobs that look identical to the players with the default skin.
+
+Monsters were only spawnable using mods and map editors, but otherwise were not available in vanilla Minecraft.
+
+Monsters did not drop anything when they die.
+
+Monsters would hurt and kill the player, dealing the same damage to the player as the player does with their fist. Strangely, they did not use the punching animation that a normal player would use; they would only run into the player like a zombie would.
+
+Monsters, when spawned, may head to the left for half a second, before turning around to attack the player. Zombified piglins may also do this on occasion.
+If a monster spawner with monster is placed in Java Edition Beta 1.8 or later, it appears blank and no monsters spawn.
+Coding for monsters was still present until Java Edition 1.8. Only the monster model was removed in Beta 1.8.
+Monsters use the old player model, so they are actually slightly taller than the player.
+Despite being taller than the player, monsters looked up at the player when chasing them. This is because their actual hit-box and eye height were shorter than the player's hit-box and eye height.
+Notch also used the name "monster" for the green moboids in his unfinished game: Legend of the Chambered.
+
+Character - mobs (in general) or mobs that have names given to them.
+Villager  mob-like mobs that move around their village.
+Player  the Minecraft character that is controllable, with the same model as monsters.
+Mob  any entity in Minecraft that has the ability to move around, such as monsters or animals.
+Java Edition removed features  features that have been in Java Edition but were later removed.

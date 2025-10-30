@@ -1,0 +1,59 @@
+A backstabber is a melee weapon that can be found within the echoing void DLC of Minecraft Dungeons. Its unique variant is called the swift striker.
+
+
+== Lore ==
+The item description states that rogues such as thieves and assassins prefer to use backstabbers in their pack over any other blade.
+
+
+== Obtaining ==
+Missions
+End Wilds
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+The Swarm
+
+
+== Usage ==
+Backstabbers possess low power, moderate speed, and low area. They have a combo consisting of two quick strikes, and one stronger strike. The first two hits deal the weapon's minimum damage, and the third hit deals the weapon's maximum damage.
+
+
+=== Properties ===
+X melee damage
+Extra damage on unsuspecting enemies (Ambush tier I)
+
+
+=== Stats ===
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Backstabber" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===

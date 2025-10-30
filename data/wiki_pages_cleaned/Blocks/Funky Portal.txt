@@ -1,0 +1,17 @@
+The funky portal is a joke block introduced in Java Edition 20w14 that allows entry into randomly generated dimensions. It is a colored variant of the nether portal block with the color being determined by the destination dimension.
+
+The funky portal block cannot be obtained as an item even by using the /give command. The funky portal block can be placed using commands such as /fill or /setblock and is generated when throwing a book into a nether portal. Using /setblock ~ ~ ~ neither_portal sets the block and give it randomized block data as to its destination dimension.
+
+Funky portal blocks cannot be broken by tools except in Creative mode, but can be destroyed by breaking the portal frame, by explosions, or by placing a liquid inside the portal.
+
+If any book, whether obtained from the box of infinite books or written by a player, is thrown into a nether portal, the portal blocks changes to be funky portal blocks. Entering this new portal teleports the player into a new, randomized dimension, unless the text leads to an Easter Egg dimension.
+After throwing the book into the portal, the book is destroyed. It does not go through the portal after having changed it. Each book generates its own dimension, and books with the same page content generate the same dimension.
+Running /data get block on funky portal blocks returns the data that includes the name of the dimension. Portals for the same dimension have the same color. Rarely, when throwing the book into the portal, the nether portal turns into multiple funky portal colors.
+
+The color of a funky portal is determined by its destination dimension. The color of any portal can be found by converting its dimension ID into hexadecimal. The last six digits of that number is the RGB color.
+
+Java Edition:
+
+A funky portal has a block entity associated with it that holds additional data about the block.
+
+Funky portal blocks are an unsupported item due to being an April Fools' joke, and therefore such issues relating to them will not be fixed.

@@ -1,0 +1,8 @@
+A pile is a feature that generates only inside villages.
+
+There are five variants of pile: hay, ice, melon, pumpkin, and snow. Hay piles generate with hay bales, ice piles generate with packed ice and sometimes blue ice, melon piles generate with melons, pumpkin piles generates with pumpkins and sometimes jack o'lanterns, and snow piles generate with snow. Piles can generate only in villages.
+The pile variants spawn naturally in the indicated villages:
+
+Java Edition:
+
+Bedrock Edition:

@@ -1,0 +1,17 @@
+Lets your agent returns the data value of the block in the specified direction.
+
+inspectdata <direction: string>
+
+direction: string
+
+Specifies the direction of Agent to verify the data value of the block.
+Must be one of:
+forward to inspect the block on the front.
+back to inspect the block on the back.
+left to inspect the block on the left-hand side.
+right to inpect the block on the right-hand side.
+up to inspect the block on the top-hand side.
+down to inspect the block on the bottom-hand side.
+
+Fails if the arguments are not specified correctly.
+On success, returns the data value of the block in the specified direction. See block id for the complete list.

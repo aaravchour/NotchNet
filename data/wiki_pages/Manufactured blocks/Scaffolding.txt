@@ -1,0 +1,108 @@
+Scaffolding is a climbable semi-solid block that can be stood on without falling as well as be placed and broken easily.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Scaffolding is broken instantly, and no tools are required. Scaffolding requires support and drops as an item if it loses this support.
+In Bedrock Edition, scaffolding takes a small amount of time to break. An axe is the fastest method of obtaining it.
+It can also be found in trial chamber chests
+
+
+=== Crafting ===
+
+
+== Usage ==
+
+When the bottom block of scaffolding is destroyed, all scaffolding blocks above it break, similar to chorus plants and bamboo; this makes it easier for players to make temporary structures. 
+The placement of scaffolding is different from any other blocks in the game. When pressing use on the side of a scaffolding, the scaffolding is added on top of the highest scaffolding in that location, allowing the player to build the scaffolding structure higher on the ground.‌ Pressing use on the top face of the scaffolding adds the scaffolding to the side, depending on the direction the player is facing.‌ When trying to place a scaffolding inside of another scaffolding, the scaffolding is added on top of the highest scaffolding in that location, allowing the player to build the scaffolding structure higher on the ground. While sneaking, pressing use on a face of the scaffolding places the new scaffolding on that face like placing other blocks; the scaffolding may then fall if not adequately supported.
+
+Scaffolding has no collision detection. The player can climb up or down by jumping or sneaking respectively.
+A scaffolding block can be moved by pistons, allowing them to be broken easily.
+Scaffolding can be placed up to 6 blocks out from its base of support; any further scaffolding placed falls to the ground.
+Scaffolding can be waterlogged.
+In Bedrock Edition, scaffolding cannot be placed inside lava; if scaffolding is placed next to lava or fire, the scaffolding is destroyed. If it falls into lava or fire, it is destroyed immediately.
+In Java Edition, scaffolding is not ignited by lava, and can be placed inside. It will be destroyed by fire.
+
+When holding scaffolding, the hitbox of scaffolding in the world is a full block.‌ Otherwise, a player can interact with other blocks through the scaffolding.
+Mobs don't spawn on scaffolding. In Bedrock Edition mobs can spawn inside of scaffolding if the block below the scaffolding is spawnable. In Java Edition very small mobs such as chickens can spawn in the empty space inside of a scaffolding block if the block below is spawnable.
+
+
+=== Fuel ===
+Scaffolding can be used as a fuel in furnaces, smelting 0.25 items per block.
+
+
+== Sounds ==
+
+
+=== Generic ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Unique ===
+Java Edition: None
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Falling block entity ===
+
+
+== Achievements ==
+
+
+== History ==
+
+		
+			
+			
+		
+
+
+== Issues ==
+Issues relating to "Scaffolding" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External links ==
+Block of the Week: Scaffolding – Minecraft.net on April 16, 2020

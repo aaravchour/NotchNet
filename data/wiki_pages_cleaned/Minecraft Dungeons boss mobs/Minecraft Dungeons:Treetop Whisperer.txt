@@ -1,0 +1,81 @@
+The Treetop Whisperer is a natural boss whisperer, a remnant of the corruption of the shard of the Orb of Dominance, that can be found within the Treetop Tangle of Minecraft Dungeons.
+
+The Treetop Whisperer looks like an enchanted whisperer, but has a darker color scheme as well as a purple color within.
+
+Treetop Tangle
+
+The Treetop Whisperer acts almost exactly like a whisperer would, with the only difference being that the Treetop Whisperer possesses the following attributes:
+
+Altruistic level 3
+Huge
+Body scaling size: 1.5
+Regeneration level 3
+Base health regeneration: 5 per seconds.
+Two enchanted leapleaf henchmen
+Protection
+Thorns
+Basic attack
+The Treetop Whisperer has long arms which can hit the hero at close range.
+
+Summon (Attack A)
+The Treetop Whisperer summons quick growing vines at a distance to surround the hero in a trapping pattern. When quick growing vines are summoned, the Treetop Whisperer waves their arms, and a pink mist emanates from their hands, while pink cracks appear on the ground where quick growing vines proceed to appear. Used more commonly.
+
+Poison-quill vines (Attack B)
+The Treetop Whisperer is capable of punching the ground, summoning one poison-quill vine to appear from the pink cracks. Used sparsely. Each poison-quill vine summoned has two times more HP than the Treetop Whisperer.
+
+Grapple vines (Attack C)
+The Treetop Whisperer stretches their arms forward, closing their palms, summoning a small patch of entangle vines which can trap heroes and mobs for three seconds, before disappearing.
+
+The Treetop Whisperer shares sound files with whisperers.
+
+The death sounds of the treetop whisperer is pitched to 0.5 multiple from get hit sounds.
+
+In the game files, The Treetop Whisperer is categorized under the Whisperer folder, and is referred to internally by the name BP_TreetopWhispererCharacter_C.
+Base data
+Enemy lock radius: 13 blocks distance
+Base health: 900
+Base attack damage: 60
+Flee range: 7.5 blocks distance
+Flee speed: 1.2
+approach-range :15 blocks distance
+Max Speed: 4 blocks per seconds
+Offensive Range: 13 blocks distance
+Capsule Half Height: 105.0
+Capsule Radius: 48.0
+Max Walk Speed: 8 blocks per seconds
+Stun Multiplier: 1.0
+Melee attack
+Target Attack Range Margin : 2.5 blocks distance
+Attack Range: 2.5 blocks distance
+Damage Delay Seconds: 0.3 seconds
+Cone Angle Degrees: 30
+CooldownSeconds: 0.5 seconds
+Attack Animation Time Duration Seconds: 0.665 seconds
+Effects Pushback Multiplier: 1
+Push back Z Factor: 1
+Summon attack
+attack-delay-A: 1 seconds
+attack-delay-B: 1.4 seconds
+attack-delay-C: 0.1 seconds
+anim-duration-A: 1.72 seconds
+anim-duration-B: 3.125 seconds
+anim-duration-C: 3.708 seconds
+Attack probability (1)
+attack-probability-A1: 0.5
+attack-probability-B1: 0.15
+attack-probability-C1: 0.35
+Attack probability (2)
+attack-probability-A2: 0.15
+attack-probability-B2: 0.1
+attack-probability-C2: 0.75
+BP_Altruistic_C Properties
+Level: 3
+BP_Huge_C Properties
+Scale: 1.5
+Treat As Inherrent: true
+BP_Regeneration_C Properties
+Mob Regeneration Amount Per Second: 5.0
+Level: 3
+
+The Treetop Whisperer is not actually a boss, despite having the health bar of one. Defeating the Treetop Whisperer does not reward heroes with 600 Adventure points.
+In an article on Minecraft.net, the Treetop Whisperer was identified as being a golem and possessing he/him/his pronouns. He was described as being massive, nightmarish, and smelling bad.

@@ -1,0 +1,42 @@
+A moss block is a natural block that can be spread to some other blocks by using bone meal. There are two different variants of moss blocks: normal moss and pale moss.
+
+Normal green Moss generates on the floor and ceiling within the lush caves biome, whereas Pale moss generates on the grounds of the pale garden biome.
+
+Both Normal and Pale Moss blocks can be obtained by trading with a wandering trader, who may sell 2 moss blocks for 1 emerald.
+
+Moss blocks can be mined using any tool or by hand, but a hoe is the fastest way to break it.
+
+In Java Edition, using bone meal on a moss block causes nearby blocks with the base_stone_overworld, cave_vines and dirt tags to be converted to moss blocks. 
+Moss spreads to any blocks with 2 air blocks above them in a corner-less 7117 volume centered on the original moss block in Java Edition, and centered a few blocks below the original moss block in Bedrock Edition. Foliage can replace air on any of these blocks.
+
+In Java Edition, all plants can be placed on moss except for cactus. Nether fungi can also be placed on moss, but mushrooms can be placed only at light level 12 or below. In Bedrock Edition, cactus, bamboo, dead bush, and sugar cane are the only plants that cannot be placed on moss.
+Using bone meal on moss blocks causes certain types of adjacent blocks to be replaced with moss blocks. To allow moss to spread to them, blocks need to have air above.
+
+When a normal moss block generates with air above it, it has a chance to have grass, an azalea, or a moss carpet growing on it.
+
+However, when a Pale moss block generates with air above it, it has a chance to have grass, or a pale moss carpet growing on it.
+
+In Java Edition, when bone meal is used on a moss block, first it is checked that the block directly above the moss block is air. If successful, maximum X and Z distances are chosen (independently from each other) with a 50% chance of being either 2 or 3. Then, in a rectangular area centered on the moss block restricted by those maximum distances, it is decided independently for each vertical column whether a block is converted to moss. This chance is 0% for the corners of the chosen area, 75% for the edges and 100% for the other columns. If this check succeeds a scan is started at a y-level one above the moss block to find a block with air above it. If the scan starts in an air block, it searches up to 6 blocks downward. If it starts in a non-air block, it searches up to up to 4 blocks upward. Both scans stop on the first block with air above it, even if it can not be converted to moss. The chosen block is converted to moss if it can be, and if it can (or already was a moss block) there is a 60% chance vegetation generates above it.
+So for every bonemeal that is used, you get on average 27 moss blocks (varies widely though), which gives about 2.5 bonemeal when put through a composter.
+
+Moss blocks are destroyed and dropped as items when pushed by pistons. They do not stick to sticky pistons, slime blocks or honey blocks.
+
+Placing a moss block into a composter has a 65% chance of raising the compost level by 1.
+
+A sniffer egg hatches twice as fast as normal when on top of a normal moss block.
+
+Placing an eyeblossom on a pale moss block emits its own ambience during the night.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Pale Moss has a few extra grey pixels more than normal moss.
+
+Issues relating to "Moss Block" are maintained on the bug tracker. Report issues there.
+
+Block of the Week: Moss  Minecraft.net on July 1, 2021

@@ -1,0 +1,11 @@
+Information sign was a decorative block used to inform nearby students about something.
+
+
+== Usage ==
+Information signs could be used to show informational facts about things.
+
+
+== Data values ==
+
+
+== History ==

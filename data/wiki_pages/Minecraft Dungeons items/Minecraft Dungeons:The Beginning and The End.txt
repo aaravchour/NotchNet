@@ -1,0 +1,67 @@
+The beginning and the end is a unique void touched blades variant that can be found within the echoing void DLC of Minecraft Dungeons.
+
+
+== Appearance ==
+The weapon has a resemblance to void touched blades, the only difference is that it now possess a purplish color with golden edges and a slight chip on each sides of the blade. Additionally, the bottom of the swords seemingly resembles the shaft of a Golden Sword from the original game; having a golden handguard and pommel, and a dark purplish hilt, albeit with a slightly darker tone.
+
+
+== Lore ==
+The item description mentions that the beginning and the end are two twin blades which carry dark secrets of the survivors of a doomed past expedition to the End.
+
+
+== Obtaining ==
+Missions
+Broken Citadel (DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Watcher of The End
+
+
+== Usage ==
+The beginning and the end possess moderate power, low speed, and low area. It has a combo consisting of three slashes, and one stronger spin attack. The first three hits deal the weapon's minimum damage, and the fourth hit deals the weapon's maximum damage.
+
+
+=== Properties ===
+X melee damage
+Applies rising damage multiplier (Void Strike tier I)
+Leeches health from mobs (Leeching tier I)
+
+
+=== Stats ===
+
+
+== Sounds ==
+
+
+== Data values ==
+In the game files, the beginning and the end are referred to internally by the name VoidTouchedBlades_Unique1.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "The Beginning and The End" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icon ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===

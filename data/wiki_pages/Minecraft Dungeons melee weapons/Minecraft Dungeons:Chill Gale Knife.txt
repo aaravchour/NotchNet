@@ -1,0 +1,74 @@
+The chill gale knife is a unique tempest knife variant that can be found within the howling peaks DLC of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Windswept Peaks (DLC)
+Gale Sanctum (Adventure, DLC)
+Colossal Rampart (DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Windbeard
+
+
+== Usage ==
+The chill gale knife possesses moderate power, moderate speed, and low area. It has a combo consisting of a thrust and two side slashes. The first two hits deal the weapon's minimum melee damage, while the third, the second slash, deals the maximum melee damage.
+
+
+=== Properties ===
+X melee damage
+Speed burst after mob defeated (Rushdown)
+Slows mobs (Freezing tier I)
+
+
+=== Stats ===
+
+
+== Sounds ==
+
+
+== Achievements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Chill Gale Knife" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===

@@ -1,0 +1,9 @@
+The only difference between these wooden blacksmiths is that the plains ones have oak wood, taiga blacksmiths have spruce wood, and savanna villages have acacia wood; therefore, they are all treated as one.
+
+First layer is 10 blocks by 7 blocks, and has one extra row at the bottom for the optional stairs with no blocks ever above them in higher construction. Note the atypical stair placement, due to the fact that the front door doesn't border the street (this is the only building that does that). Blacksmiths sometimes generate mirrored.
+The wooden pressure plate is replaced with a brown carpet in Bedrock Edition.
+
+First layer has one extra row at the bottom for the optional stairs with no blocks ever above them in higher construction. Note the atypical stair placement, due to the fact that the front door doesn't border the street (this is the only building that does that).
+
+The following commands list can be used to automate building this structure.
+Note: Summon a villager blacksmith instead of black wool using /summon villager (the location of the black wool) {Profession:3} and don't place black wool.

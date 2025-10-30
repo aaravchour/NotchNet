@@ -1,0 +1,41 @@
+Clears items from player inventory, including items being dragged by the player. Can also detects and queries the amount of specified items.
+
+Java Edition
+clear [<targets>] [<item>] [<maxCount>]
+Bedrock Edition
+clear [player: target] [itemName: Item] [data: int] [maxCount: int]
+
+JE: <targets>: entityBE: player: target: CommandSelector<Player>
+
+Specifies the player(s) whose items are cleared. If not specified, defaults to the player who executes the command.
+Must be a player name, a target selector or a UUID.  And the target selector must/should be of player type.
+JE: <item>: item_predicateBE: itemName: Item: enum
+
+Specifies the item to be cleared. If not specified, all items are cleared.
+In Java Edition, it must be in the format of item_id{data_tags}(accepts item or block tags), in which data tags can be omitted when they are not needed. In Bedrock Edition, it must be an item id or a block id for which items exist.
+data: int: int
+
+Specifies the data value of the item to be cleared. If not specified, or if -1, all items that match itemName: Item are cleared, regardless of their data. Values (bitwise AND 0xFFFF) that are invalid for the specified item id revert to 0.
+Must be a  32-bit integer number. Should be between -1 and 2,147,483,647 (inclusive, without commas).
+JE: <maxCount>: integerBE: maxCount: int: int
+
+Specifies the maximum number of items to be cleared. If not specified, or if -1, all items that match item, or itemName: Item and data: int are cleared. If 0, instead of clearing of items, detects and queries the amount of specified items.
+Must be a  32-bit integer number. In Java Edition, it must be between 0 and 2147483647 (inclusive). In Bedrock Edition, it should be between -1 and 2147483647 (inclusive).
+
+Items in the inventory and items from container (chest, crafting table, etc.) dragging over the cursor can be cleared.
+In Bedrock Edition, items dragging from the inventory can also be cleared, while in Java Edition only if not in creative mode can these be cleared.
+In Java Edition, items in players' four crafting slots can also be cleared.
+
+To clear your entire inventory: clear
+To clear all items from Alice's inventory: clear Alice
+To clear all wool items from Alice's inventory: clear Alice minecraft:wool
+To clear all orange wool items from the inventory of all players: clear @a minecraft:wool 1 or  clear @a minecraft:orange_wool
+To clear all golden swords with the "Sharpness I" enchantment from the nearest player
+clear @p minecraft:golden_sword{Enchantments:[{id:"minecraft:sharpness",lvl:1s}]}
+To test if a random player has stone in their inventory: clear @r minecraft:stone -1 0 or  clear @r minecraft:stone 0
+
+/data  can change or remove items in block or entity inventories
+/give  give items to player
+/kill  can destroy item entities
+/item  can manipulate items in block or entity inventories
+/replaceitem  can replace items in block or entity inventories

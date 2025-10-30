@@ -1,0 +1,7 @@
+Unpowered unlocked repeaters
+
+Powered unlocked repeaters
+
+Unpowered locked repeaters
+
+Powered locked repeaters

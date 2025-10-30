@@ -1,0 +1,14 @@
+Weird pistons were extreme metadata variants of pistons which could be used as update suppression agents.
+
+Weird pistons can be broken in the same way normal pistons can. They cannot be obtained as an item, instead dropping normal pistons.
+
+Weird pistons of metadata value 7 could be created if a placed piston updates a BUD-powered piston, such that it pushes or pulls the placed piston.
+
+Multiple block transmutation methods can be used to create weird pistons in Java Edition.From Beta 1.7.2 to Beta 1.9 Prerelease 5, weird pistons can be created using moving piston merge transmutation, from Beta 1.7.3 to 1.2.3, can be created using water transmutation, and from 13w36a-1 to 1.7.5 and 14w02a to 14w11b, can be created using arrow transmutation.
+
+When powered, weird pistons of metadata 6 will immediately crash the game. This game crash happens so quick that block updates are not processed correctly, and this can allow for otherwise-impossible arrangements of blocks to be achieved.
+Every time the weird piston is updated while receiving power, the game will crash again, so having it be in a position where it receives constant updates is not recommended due to effectively softlocking the world. Depowering the weird piston should make it safe again.
+It is worth noting that this has a possibility of corrupting singleplayer worlds, and it is much safer to perform this on a hosted server as while this does still cause a server crash, there have been no recorded cases of world corruption originating from use of this method.
+Analysis of the behaviour of metadata 6 weird pistons using 1.7 releases and 1.8 snapshots seems to reveal that they remain at data value 6 permanently, even upon loading a world, as opposed to converting to data value 14 - if they do indeed convert, this conversion is not saved.
+
+Weird Pistons effectively were issues themselves, due to resulting from a quirk of block metadata handling at the time. As they have since been removed with several reworkings of block metadata, they can be considered already fixed.

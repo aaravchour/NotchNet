@@ -1,0 +1,24 @@
+Colored torches are torches colored by metal chlorides, available in blue, red, purple, and green.
+
+Colored torches break instantly and drop as items when mined using any tool or by hand. Tools do not lose any durability after mining them.
+Colored torches are also broken if pushed by a piston.
+
+Torches can be placed on the top or the sides of most solid blocks, although some require sneaking (see placement for exceptions). Being non-solid, torches have no collision box.
+Gravity-affected blocks like sand and gravel do not fall if the block below them has a torch on it and break when falling onto a torch.
+
+Torches emit a light level of 14. Torches also melt snow layers within 2 blocks and ice within 3 blocks (taxicab distance). Colored torches emit normal light, not colored light, and therefore the coloring is purely aesthetic.
+
+In general, torches can be placed only on solid, opaque, full blocks; exceptions are listed below.
+
+Colored torches have the following data values:
+Colored torch (red/green)
+
+Colored torch (blue/purple)
+
+As with sparklers, the flame colors correspond to results from a flame test performed on these chloride salts.
+The torch's stick uses the pre-Texture Update texture.
+
+Torch
+Underwater Torch
+Redstone Torch
+Redstone Lamp

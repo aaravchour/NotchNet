@@ -1,0 +1,67 @@
+Polished blackstone is the stone-like polished variation of blackstone.
+ Chiseled polished blackstone is the chiseled variation of polished blackstone.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+
+Polished blackstone has a slightly higher hardness (thus takes slightly longer to break) than its chiseled variant.
+
+
+=== Natural generation ===
+Polished blackstone can generate as part of bastion remnants and ruined portals in the Nether.
+
+
+=== Crafting ===
+
+
+== Usage ==
+
+
+=== Crafting ingredient ===
+
+
+=== Stonecutting ===
+
+
+=== Note Blocks ===
+Polished blackstone can be placed under note blocks to produce "bass drum" sound.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Polished Blackstone" or "Chiseled Polished Blackstone" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Similarly to chiseled sandstone, red sandstone, nether bricks and deepslate, chiseled polished blackstone has a face/symbol in its texture - in this case, a piglin snout.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+
+
+== References ==

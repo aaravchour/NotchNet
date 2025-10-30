@@ -1,0 +1,105 @@
+The wither is a player-constructed and highly destructive undead hostile boss mob that can hover in mid-air and fire barrages of explosive wither skulls at its target (which happens to be everything living). It is the only source of nether stars, which are used to craft beacons.
+
+The wither is spawned by placing 4 blocks of soul sand and/or soul soil in a T shape (see image on the right in the "Behavior" section), and putting 3 wither skeleton skulls on top of the three upper blocks. The last block placed must be one of the three skulls and can be placed by the player or a dispenser. Air blocks are required on either side of the base soul sand or soul soil under the upper blocks (non-solid blocks such as grass and flowers prevent the wither from spawning). The building pattern can have any orientation (including horizontal and upside-down) as well as the skulls; the wither always spawns at the foot of the pattern. When the wither has successfully spawned, it is angered and creates an explosion around itself.
+Like all other hostile mobs, the wither despawns when the difficulty is changed to Peaceful. Building the wither spawning structure in Peaceful difficulty does not spawn anything.
+
+The wither always drops one nether star upon death. The Looting enchantment does not increase this drop. A wither also drops 50 experiences when killed by a player or a tamed wolf. In Java Edition, nether stars dropped by withers take 10 minutes to despawn and are immune to explosions. In Bedrock Edition, nether star items never despawn, neither by time nor by explosions. However, it can still be destroyed by a falling anvil,[Java Edition only] fire, lava, cacti, or the Void.
+
+When spawned, the wither grows larger in size as its health bar fills up. While in this state, the wither is invulnerable, and neither moves nor attacks. When this state ends (after 11 seconds), the wither creates a large explosion centered on itself, destroying nearby blocks and dealing up to 68  34 damage to nearby mobs and players, depending on difficulty. This explosion has a blast power of 7, more than that of a charged creeper or an end crystal. It is accompanied by a loud gruesome sound that can be heard equally from across the map and in all dimensions. After this, the wither attacks nearby mobs and can take damage.
+The wither has the greatest natural health of all mobs in Minecraft (exceeded by the warden, while Bedrock Edition's wither still has the highest health), at 300  150 in Java Edition or 600  300 in Bedrock Edition. The wither is immune to fire, lava, drowning damage, and freezing. Like other undead mobs, the wither is harmed by the Instant Health effect and healed by the Instant Damage effect as well as affected by weapons with the Smite enchantment. It is immune to all other status effects, like the ender dragon.
+Upon taking damage, the wither breaks all blocks within a 343 area around it, including blast-resistant blocks like obsidian, crying obsidian, and ancient debris, dropping them as items if possible. The wither is the only mob in the game that can destroy obsidian.
+The wither cannot break the following blocks: 
+
+Barrier
+Bedrock
+End Portal
+End Portal Frame
+End Gateway
+   Command Block
+Structure Block
+Jigsaw Block
+Light Block
+Moving Piston
+Moving Block
+Reinforced Deepslate
+In Java Edition, these blocks are listed under the wither_immune tag. 
+The wither's block-breaking behavior makes suffocation ineffective under most circumstances. However, the blocks listed above, as well as some natural structures that include them, can be used to suffocate the wither due to their wither immunity.
+The wither is hostile toward all mobs except:
+
+Undead mobs
+    Zombies and their variants
+   Skeletons and their variants
+Zombified piglins
+Skeleton horses and zombie horses
+Phantom
+Zoglin
+ Other withers
+Ghasts
+Mobs with the Invulnerable NBT tag.
+If the wither is idle, it simply hovers and is unable to gain altitude. On Normal or Hard difficulty, it fires blue skulls in random directions until it finds a target.
+The wither's boss health bar color depends on the edition: Dark purple on Java Edition, or pink on Bedrock Edition. It appears only when a player is looking in the wither's direction, including through walls. All withers display a boss bar on the screen. Renamed withers display the changed name above its boss bar.
+The sky darkens when the wither spawns (a kind of fog).
+
+Upon noticing a mob, the wither hovers above it and rapidly shoots black wither skulls. Each head fires independently, allowing a wither to attack up to three different mobs/players at the same time. The main head controls the wither's movement and has a 0.1% chance to shoot a blue wither skull instead of the default black one.
+Whenever a wither kills another mob, a wither rose is planted if the ground is grass block, dirt, coarse dirt, moss block, mud, netherrack, soul sand, or soul soil on Java Edition, or otherwise dropped as an item at that mob's location; however, it may be destroyed by other wither skulls. Wither roses are planted/dropped even when the game rule doMobLoot is set to false.
+The wither has a passive regeneration rate of 1 every 20 ticks (1 second), and a direct killing blow on a target instantly heals 5.
+When its health drops below half (150  75), the wither gains a natural "wither armor" effect, which makes it immune to damage from arrows and thrown tridents and causes it to fly at the same height as the target. The armor disappears if it regenerates above half health.
+
+Upon noticing a player or mob, the wither flies to a random location and hovers in place. It shoots 3 black wither skulls and one blue wither skull before flying to another location. The time between each shot decreases as the wither loses health. On Normal difficulty or higher, if the wither has targeted an entity but cannot find a location to pathfind to, it shoots random blue skulls in a random direction along with the skulls directed toward the target.
+When a wither reaches halfway of its total health, it causes a large explosion that spawns 3 wither skeletons (except on Easy difficulty), as well as gaining wither armor. Instead of flying to a random location, it dashes toward its target, destroying blocks and damaging mobs in its path. It also fires up to 4 skulls per burst: three black skulls followed by one blue skull. 
+It has different spawn and death animations, both of which involve the wither exploding. Wither roses always drop as an item when the wither kills a mob. Wither roses are dropped even when the game rule doMobLoot is set to false. The wither rose inflicts the Wither effect for a couple of seconds when stepped on.
+The sky light level drops to 11 and dark clouds appear from the moment the wither spawns until it is dead, preventing zombies, skeletons, and drowned from burning in sunlight.
+On Easy difficulty, the wither does not inflict the wither effect or summon wither skeletons.
+Withers will retain their anti-projectile armor after healing it over 1/2 of its total HP (301  150.5), though it disappears after the game is restarted.
+
+When attacking, the wither rapidly fires explosive projectiles called wither skulls, which look like its own heads, at its target. There are two types of wither skulls: a fast-moving black one, and a slower blue one.
+
+Black wither skulls explode with a blast power of 1, the same as a ghast's fireball, and cannot break blocks with a blast resistance above 4.
+Blue wither skulls have the same explosion strength, but move slower and are more destructive to terrain. Blue wither skulls break all breakable blocks (including obsidian, ancient debris, and blocks of netherite), but cannot break unbreakable blocks like bedrock, end portal frames, and reinforced deepslate. In Minecraft Education, blue wither skulls deal increased damage, but with the same explosion radius.
+If either type of wither skull hits a player or mob, it does 8 damage on Normal difficulty. It also inflicts Wither II for 10 seconds on Normal difficulty and 40 seconds on Hard, which turns the player's hearts black () and drains health, similarly to Poison. However, unlike Poison, it can kill the player.
+Like other status effects, the Wither effect can be cured by drinking milk.
+In Bedrock Edition and Legacy Console Edition, the blue skull can be deflected by hitting it with an empty hand, weapon, tool, or throwable projectiles such as tridents, arrows, snowballs, and throwable potions.
+
+Java Edition:
+Withers use the Hostile Creatures sound category for entity-dependent sound events. Wither skulls use the Friendly Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Withers have entity data associated with them that contain various properties.
+
+Wither skulls have entity data associated with them that contain various properties.
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+Issues relating to "Wither" are maintained on the bug tracker. Report issues there.
+
+According to Jeb, the wither was inspired by Terraria, which has a summonable boss mechanic. The name itself is inspired by a poison spell in another game made by Jeb called Whispers in Akarra.
+There is a painting showing the soul sand and wither skeleton skull formation needed to spawn a wither.
+If the wither is damaged by the Void, it frantically attempts to fire blue skulls.
+Above half health, the wither always attempts to stay a few blocks above the mob it is targeting. This means that attempting to build or climb up to hit the wither using a sword is essentially impossible.
+If the wither is after a blaze and the blaze tries to fly up to it, the wither attempts to keep rising above the blaze, thus making both of them rise higher until they hit a ceiling or until the blaze despawns or dies.
+Although the wither is 3.5 blocks tall, 3 blocks wide, and 1 block thick, its hitbox is only 3.5 blocks tall, 1 block wide, and 1 block thick.
+The true dimensions of the wither are: 2.844 blocks tall (varies), 3 blocks wide, and 1.719 blocks long (also varies).
+The wither appears on the four sides of chiseled red sandstone.
+The wither's smaller heads shoot targets slightly slower than the main head. The interval for smaller heads is 23 seconds, while the main head's always 2.
+An enemy called the wither storm appears in Minecraft: Story Mode. It was created by replacing the center block of soul sand with a command block.
+Despite not having visible feet, withers are still capable of making footstep sounds.
+In Java Edition 3D Shareware v1.34, withers drop red keys.
+According to Quinn Richter, Marketplace Partner Manager, the wither's name is "Simmons?", similar to the ender dragon's name being "Jean?".
+A wither skull can be deflected by shooting an arrow at it. If a deflected wither skull hits the wither, the wither takes damage.
+A wither and an ender dragon can engage in combat, but neither one damages the other.
+Despite being immune to projectiles when it has "wither armor", it is still able to be hit by the warden's sonic boom attack.
+This is because the warden's sonic boom attack is not a projectile, but an instant damage attack. Therefore, the wither is unable to defend against it with the "armor".
+
+Ender dragon, the other boss mob in Minecraft
+Tutorials/Defeating the wither, a tutorial explaining different tactics to fight and kill the wither
+
+Meet the Wither  Minecraft.net on February 13, 2017

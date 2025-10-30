@@ -1,0 +1,55 @@
+The term arthropod refers to an in-game classification regrouping all bug or bug-like mobs.
+
+
+== Classification ==
+Arthropods take extra damage and receive Slowness IV when hit with a weapon enchanted with Bane of Arthropods enchantment.
+All naturally hostile arthropods (that is, all except bees) have a unique death animation in that they flip 180 degrees instead of the usual 90 degrees. This can prove useful when trying to find what mobs the Bane of Arthropods enchantment affects.
+
+
+== List of mobs ==
+
+
+== History ==
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Trivia ==
+All arthropods will despawn in Peaceful difficulty (with the exception of bees).
+
+
+== References ==

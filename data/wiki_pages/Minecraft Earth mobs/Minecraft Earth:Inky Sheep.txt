@@ -1,0 +1,34 @@
+The inky sheep was a passive mob and a variant of the sheep found only in Minecraft Earth.
+
+
+== Appearance ==
+Inky sheep were a beige-white variant of the sheep. The wool near their face consisted of two black stripes running from the back toward the side of their face, separated by a white patch of wool. Their rear end and legs were completely black in color, hence the name. Unlike other sheep, their face was rather lightly brown in color.
+
+
+== Behavior ==
+
+Similar to ordinary sheep, inky sheep had the same AI behavior, wandering aimlessly, avoiding lava and cliffs high enough to cause fall damage.
+
+
+== Obtaining ==
+Inky sheep were an uncommon mob drop from sheep tappables, with a 4.7% chance of obtaining it. It was also previously obtainable as a reward in Season 7.
+
+
+== Drops ==
+When sheared, inky sheep dropped 1-2 black wool.
+Upon death, inky sheep dropped:
+
+1 Black Wool
+1 Raw Mutton (Cooked Mutton if killed while on fire)
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Gallery ==

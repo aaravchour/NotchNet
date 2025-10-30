@@ -1,0 +1,236 @@
+A geomancer is an elderly hostile illager that can be found within the various missions of Minecraft Dungeons.
+
+
+== Appearance ==
+
+Geomancers have thick beards and eyebrows. They wear dark brown ragged clothing and amethyst necklaces around their neck. They are often seen with walking sticks, which they use to summon walls of stone. Unlike other illagers, geomancers have purple eyes instead of the normal blue or green eyes.
+
+
+== Spawning ==
+Pumpkin Pastures
+Arch Haven
+Cacti Canyon (In canyon)
+Fiery Forge
+Frosted Fjord
+Lost Settlement
+Colossal Rampart
+Radiant Ravine (Secret area)
+Tower
+
+
+== Behavior ==
+
+Geomancers try to stay away from the hero between creating pillars by slowly walking. Geomancers raise two types of pillars out of the terrain using magic to assist other mobs.
+
+Basic attack
+Geomancers summon geomancer walls strategically to assist the other enemies and block heroes. After six seconds, it descends back into the ground.
+
+Strong attack
+Geomancers summon geomancer bombs close to the hero. After five seconds of continually sprouting orange cracks, it explodes with high damage within a small radius.
+
+
+== Geomancer wall ==
+
+A geomancer wall is a non-attackable entity that can be summoned by geomancers within the various missions of Minecraft Dungeons.
+
+
+=== Appearance ===
+It is simple, rusty, stone-like, and has a creeper face. If summoned underground, it glows red.
+
+
+=== Behavior ===
+Geomancer walls can block mobs that happen to walk through it.
+
+
+== Geomancer bomb ==
+
+A geomancer bomb is a non-attackable entity that can be summoned by geomancers within the various missions of Minecraft Dungeons.
+
+
+=== Appearance ===
+Geomancer bombs are dark and stone-like. They have four faces, a happy and angry side, with a rune on its head.
+
+
+=== Behavior ===
+Geomancer bombs may be disarmed with a chunk of ice from the ice wand. Geomancer bomb can also damage other mobs.
+
+
+== Sounds ==
+
+
+=== Geomancer (current) ===
+
+
+=== Geomancer (Old) ===
+
+
+=== Walls ===
+
+
+=== Bomb ===
+
+
+== Frostwarden ==
+
+The frostwarden is an ancient geomancer that can be encountered during ancient hunts with the minimum offering of the following runes:
+
+This ancient resides within a Frosted Fjord-themed arena and possesses, at minimum, the following enchantments:
+
+Chilling
+Deflect
+Seven enchanted iceologers act as the ancient's minions, possessing the following enchantments:
+
+Thorns
+Upon defeating the frostwarden, a gilded variant of the following items drops as a reward:
+
+Snow Armor
+Frost Armor
+Snow Bow
+Winter's Touch
+
+
+== Data value ==
+In the game files, geomancers are referred to internally by the name Geomancer and the name IllagerGeomancer.
+In the game files, geomancer bombs are referred to internally by the name GeomancerBomb and the name Geomancer_Pillar_Bomb.
+In the game files, geomancer walls are referred to internally by the name GeomancerWall and the name Geomancer_Pillar_Wall.
+Geomancers have unused "get hit" animations and summon pillars animation, "basic attack".
+Summon Cooldown:
+"Options": {
+
+       "WallCooldown": 3.0,
+       "BombManyCooldown": 6.0,
+       "BombSoloCooldown": 5.0,
+       "RandomCooldown": 3.0,
+       "AttackedCooldown": 2.5
+     },
+
+
+== History ==
+
+
+== Trivia ==
+Geomancers have a incomplete summoning walls animation in the game files. This animation is unused within Minecraft Dungeons. However, this animation is used within the Arcade edition. 
+
+
+== Relations ==
+Lightning rod — Crafted by illager geomancers, this item is enchanted with the power of a storming sky.
+
+
+== Issues ==
+Issues relating to "Geomancer" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Renders ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Animations ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Other ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

@@ -1,0 +1,34 @@
+Beetroot seeds are items that can be used to plant beetroot crops.
+Beetroot crops are planted in farmland and used to grow beetroot and beetroot seeds.
+
+Village farms have a chance of growing beetroot. The exact chance depends on the village:
+
+Harvesting fully-grown beetroot yields from 1 to 4 seeds per crop harvested (2 57 seeds per crop harvested on average). The Fortune enchantment can be used to improve the drop rate.
+
+Beetroot seeds are sold by wandering traders for one emerald.
+
+Beetroot seeds can be placed on farmland. After being placed, it goes through four stages of growth. When fully grown it can be broken to produce beetroot seeds and beetroots.
+While beetroot crops have only four growth stages compared to eight for wheat, carrots, and potatoes, each growth tick has a 13 chance of not advancing the growth stage and therefore beetroot grows slightly faster than other crops.
+Crops grow faster if the farmland they are planted in is hydrated. One application of bonemeal has a 75% chance of advancing growth by one stage. This is less effective than for other crops: an average of 5 13 are needed to fully grow beetroot compared to 2 27 for other crops.
+
+Like other seeds, beetroot seeds can be used to breed chickens, lead chickens around, and make baby chickens grow up faster by 10% of the remaining time.
+
+Like other seeds, beetroot seeds can be used to tame parrots.
+
+Placing beetroot seeds into a composter has a 30% chance of raising the compost level by 1.
+
+Wandering traders may offer to sell beetroot seeds for one emerald.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Beetroot Seeds" are maintained on the bug tracker. Report issues there.

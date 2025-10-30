@@ -1,0 +1,13 @@
+Glowstone dust is an item obtained from mining glowstone, and is mainly used to create potions with increased strength and decreased duration.
+
+When broken using anything other than a Silk Touch-enchanted tool, a glowstone block drops 2-4 glowstone dust. A Fortune enchantment increases the chances of higher drops, with Fortune III allowing an average yield of 3.5 glowstone dust per block.
+
+Witches have a chance of dropping 06 glowstone dust upon death. This is increased by 3 per level of Looting, for a maximum of 0-15 glowstone dust. 
+
+In Bedrock Edition, journeyman-level cleric villagers sell one glowstone dust for 4 emeralds as part of their trades.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Glowstone Dust" are maintained on the bug tracker. Report issues there.

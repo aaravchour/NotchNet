@@ -1,0 +1,27 @@
+The encrusted anchor is the unique anchor variant that can be found within the hidden depths DLC of Minecraft Dungeons.
+
+The encrusted anchor is an incredibly rusty version of the anchor, giving most of it golden look, and making some of the edges brown. It is covered and wrapped with seaweed, which makes a zigzag pattern in the middle of the anchor. It is also noticeably larger than the regular anchor at the top, with sharper and stronger edges. Despite its large size, it is wielded by the hero with just one hand.
+
+Missions
+Abyssal Monument
+Radiant Ravine
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Vengeful Mariner
+
+The encrusted anchor possesses high power, low speed, and high range, and attacks only with one massive strike.
+
+X melee damage
+Slow but powerful
+Absorbs some knockback
+Pulls in enemies (Gravity tier I)
+Inflicts Poison (Jungle Poison)
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+Issues relating to "Encrusted Anchor" are maintained on the bug tracker. Report issues there.

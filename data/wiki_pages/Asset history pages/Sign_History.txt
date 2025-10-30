@@ -1,0 +1,83 @@
+This page documents the history of signs.
+
+
+== Assets ==
+
+
+==== Java Edition ====
+
+
+== Sign "items" ==
+The following content is transcluded from Technical blocks/Signs.
+
+
+==== Appearances ====
+
+
+===== Oak Sign =====
+
+
+===== Oak Wall Sign =====
+
+
+===== Birch Wall Sign =====
+
+
+===== Spruce Wall Sign =====
+
+
+===== Jungle Wall Sign =====
+
+
+===== Acacia Wall Sign =====
+
+
+===== Dark Oak Wall Sign =====
+
+
+==== Names ====
+
+
+===== Oak Sign =====
+Java Edition
+Item names did not exist prior to Beta 1.0.
+
+Beta 1.0 - 13w36b: Sign
+Bedrock Edition
+? - ?: Sign
+
+
+===== Oak Wall Sign =====
+Java Edition
+Item names did not exist prior to Beta 1.0.
+
+Beta 1.0 - 13w36b: Sign
+(As block name, item does not exist) 13w37a and onwards: Sign
+
+Bedrock Edition
+? - ?: tile.wall_sign.name
+
+
+===== Birch Wall Sign =====
+Bedrock Edition
+? - ?: tile.birch_wall_sign.name
+
+
+===== Spruce Wall Sign =====
+Bedrock Edition
+? - ?: tile.spruce_wall_sign.name
+
+
+===== Jungle Wall Sign =====
+Bedrock Edition
+? - ?: tile.jungle_wall_sign.name
+
+
+===== Acacia Wall Sign =====
+Bedrock Edition
+? - ?: tile.acacia_wall_sign.name
+
+
+===== Dark Oak Wall Sign =====
+Bedrock Edition
+? - ?: tile.darkoak_wall_sign.name

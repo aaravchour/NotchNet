@@ -1,0 +1,54 @@
+A conduit is a consumable that appears in the Hidden Depths DLC that acts as a portable oxygen tank.
+
+
+== Obtaining ==
+Conduits can be obtained from Arena Battles dropping from certain pillars.
+
+
+== Usage ==
+Conduits can be picked up and used as a portable oxygen carrier instead of going to multiple bubble columns. They can also be placed on the ground and can be used as keys for certain doors. They also grant the player Swiftness for an unlimited duration as long as the conduit is with the player. If a player drops the conduit in multiplayer, other players can pick it up also.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Extra Textures ====

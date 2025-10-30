@@ -1,0 +1,18 @@
+A nautilus is an upcoming neutral tamable mob that will be added in Mounts of Mayhem. It can be tamed using pufferfish, can be bred and fed using any fish or any type of fish bucket, equip with Nautilus Armor, and can be ridden on using a saddle. It was revealed in Minecraft Live - September 2025.
+
+Nautili usually spawn in all ocean biomes.
+
+Tamed nautili can be equipped with a Nautilus Armor and can be ridden on by using a saddle. When ridden, it gives a "Breath of the Nautilus" effect, which pauses the player's oxygen bar and prevents the player from drowning.
+
+Nautili use their mouths to propel forward. It cannot survive on land. When attacked, it can use its dash attack to inflict damage on the player
+
+Nautili can be tamed by feeding them pufferfishes.
+
+Nautili can be bred and fed on by using any fish or any type of fish in a bucket.
+
+Issues relating to "Nautilus" are maintained on the bug tracker. Report issues there.
+
+Nautili are inspired by ammonites, an extinct aquatic mollusc species that lived in shells.
+They were referred to as being extinct in Minecraft once.
+The size of the Nautilus in-game, while dramatically oversized compared to the real animal, seems comparable to the real-life ammonite species Parapuzosia seppenradensis, known as the largest known ammonite in the fossil record.
+According to Wikipedia, pufferfish are poisonous to all nautili.

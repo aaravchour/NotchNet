@@ -1,0 +1,5 @@
+A piglin cage is a piglin-built structure within Minecraft Legends.
+
+Piglin cages spawn in piglin outposts.
+
+Piglin cages are used by piglins to trap mobs such as villagers, animals and allied mobs. They can be opened by the Hero to release the mobs trapped inside.

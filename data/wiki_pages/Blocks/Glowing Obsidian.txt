@@ -1,0 +1,57 @@
+Glowing obsidian is an unobtainable decorative block that emits light.
+
+
+== Obtaining ==
+Glowing obsidian drops itself only when mined with a diamond pickaxe or netherite pickaxe; otherwise, it drops nothing.
+
+
+== Usage ==
+Glowing Obsidian can be used for decoration, though add-ons or inventory editors are the only ways to obtain it.
+
+
+=== Light ===
+Glowing obsidian emits a light level of 12.
+
+
+== Sounds ==
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Issues ==
+Glowing obsidian is an unsupported block, and as such, issues relating to them may not be fixed.
+
+
+== Trivia ==
+Glowing obsidian makes an appearance in Minecraft: Story Mode - Season Two, spawning around the observer when Jesse places the structure block and on the bottom of the obsidian cages Vos was in.
+Glowing obsidian has no name assigned to it, so its in-game name appears as tile.glowingobsidian.name, although it can be assigned a custom name using a resource pack with a language file.
+Glowing obsidian is 2 levels brighter than crying obsidian. However, at the time when the glowing obsidian was available, the crying obsidian was not implemented until the release of the Nether Update.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Nether Reactor
+Nether Reactor Core
+Obsidian
+Crying Obsidian
+
+
+== References ==

@@ -1,0 +1,71 @@
+The powershaker is an artifact that can be found within the flames of the nether DLC of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Nether Fortress (Adventure)
+Warped Forest
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+
+== Usage ==
+Using the power shaker artifact applies the effect Party Starter, which causes the hero's next melee attacks to have a chance to detonate mobs, akin to the Exploding enchantment.
+
+
+=== Properties ===
+X artifact damage
+10 second cooldown
+
+
+== Sounds ==
+
+
+== Data values ==
+In the game files, the powershaker is referred to internally by the name MobMasher and the name Powershake.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Powershaker" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+
+
+=== Others ===
+
+		
+			
+			
+		
+
+
+== References ==

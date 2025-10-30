@@ -1,0 +1,29 @@
+End stone is a block that appears in the End and, apart from generated structures, makes up all of the solid ground that exists in that dimension.
+
+End stone can be obtained using any pickaxe. If mined without a pickaxe, it drops nothing.
+
+End stone is found only in the End, where it makes up all the floating islands that generate in the dimension.
+
+The 16 end stone blocks under the edge of the exit portal are replaced when the ender dragon is respawned, and again when it is killed. Because end crystals, which are used to respawn the dragon, are renewable, this does make end stone renewable.
+End gateways generate a small floating island of end stone when an entity travels through, for the entity to land on if there are no valid locations.
+If an exit portal exists at a different position from the world origin (for example, an old exit portal from before 1.9), it will be completely converted into end stone if the ender dragon is re-summoned.
+
+End stone has a blast resistance of 9, which is 3 more than that of ordinary stone. This is the highest blast resistance of any block movable by pistons besides anvils, ancient debris and block of netherite. It also cannot be picked up by endermen and cannot be destroyed by the ender dragon. In addition, it is the only block on which chorus flowers can be planted.
+
+End stone can be placed under note blocks to produce "bass drum" sound.
+
+This block can be replaced by sculk both upon world generation and from a Sculk Catalyst. This is the only block that is both replaceable with Sculk AND cannot be destroyed by the Ender Dragon.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "End Stone" are maintained on the bug tracker. Report issues there.
+
+End stone's texture is an inversion, geometric translation, and recoloration of the cobblestone texture. (Specifically, the texture is shifted 3 pixels up, and 8 pixels to the right.)
+
+Block of the Week: End Stone  Minecraft.net on May 5, 2017

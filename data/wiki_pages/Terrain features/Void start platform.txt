@@ -1,0 +1,46 @@
+Void start platforms are a feature of 33×33 square of stone with a single block of cobblestone in the center. One can generate at the origin of Superflat and Buffet worlds if in the_void biome.
+
+
+== Generation ==
+Void start platforms spawn from block positions (-8, -61, -8) to (24, -61, 24), and thus the player spawns at Y=-60. This feature is most easily accessible through "The Void" preset but it still generates if different layers are specified, even if it gets engulfed.  Void start platforms replace any blocks such as even Bedrock when generated underground.
+
+
+== Construction ==
+
+Void start platforms are large platforms made up of stone and cobblestone.
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Trivia ==
+The player first spawns right above the platform, even if there are layers of full opaque blocks above it, causing suffocation.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Obsidian platform
+
+
+== References ==

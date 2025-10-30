@@ -1,0 +1,131 @@
+A potato is a food item obtained from potato crops that can be used to plant them, consumed raw or cooked to make baked potatoes.
+Potato crops are planted in farmland and used to grow potatoes and, rarely, poisonous potatoes.
+
+
+== Obtaining ==
+
+
+=== Natural generation ===
+Village farm plots have a chance of being planted with potatoes. The exact chance depends on the style of the village:
+
+Fully grown potato crops drop 2 to 5 potatoes (3 5⁄7 per crop harvested on average) and have a 2% chance of dropping an additional poisonous potato. Potato yield can be increased using a tool enchanted with Fortune, with Fortune III harvesting an average of 5 3⁄7 potatoes. Bone meal can be used to mature the potato to its last stage of growth.
+The first two potatoes always drop, and then three more attempts are made to drop a potato with a success rate of 57.14286% to yield the extra 0–3 drops. Each level of Fortune enchantment increases the number of attempts by one.
+
+
+=== Mob loot ===
+Zombies, husks, and zombie villagers have a 2.5% (1⁄40) chance of dropping either an iron ingot, carrot, or potato when killed by a player or tamed wolf. This is increased by 1% (1⁄100) per level of looting. This gives potatoes the following chances of dropping:
+
+1⁄120 (about 0.83%)
+7⁄600 (about 1.17%) with Looting I
+9⁄600 (1.50%) with Looting II
+11⁄600 (about 1.83%) with Looting III
+If a zombie, husk, or zombie villager is killed with fire, it drops a baked potato instead.
+
+
+=== Chest loot ===
+
+
+== Usage ==
+
+
+=== Farming ===
+
+When farmed, potatoes require 8 stages to grow. However, there are four visible stages due to having only four distinct textures: every two stages have the same texture, except that growth stage 7 keeps the same appearance as stages 5–6, so that only stage 8 has the final, mature appearance. Planted potatoes require a light level of 9 or greater to continue growing. If the light level is 7 or below, the crops instantly un-plant themselves ("pop off"). It is not possible to plant potatoes if the light level is too low.
+Crops grow faster if the farmland they are planted in is hydrated. Using bone meal on crops also increases the speed of growth by randomly increasing their growth stage by 2 to 5.
+Crops break if pushed by a piston or if their supporting farmland breaks or turns to dirt (i.e. by being trampled), dropping their usual drops.
+
+
+=== Food ===
+To eat a potato, press and hold use while it is selected in the hotbar. Eating a potato restores 1 () hunger and 0.6 saturation.
+
+
+=== Breeding ===
+Pigs follow and can be bred by a player holding a potato.
+Villagers can pick up potato items to become willing, which allow them to breed. Villagers require 12 potatoes to become willing.
+
+
+=== Smelting ingredient ===
+
+
+=== Trading ===
+Novice-level farmer villagers have a 25%‌ or 40%‌ chance to buy 26 potatoes for an emerald as part of their trade.
+
+
+=== Composting ===
+Placing a potato into a composter has a 65% chance of raising the compost level by 1. This is less efficient than composting with baked potatoes, which has a higher success chance of 85%.
+
+
+== Sounds ==
+
+
+=== Block ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Item ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+
+Bedrock Edition:
+
+
+== Advancements ==
+
+
+== History ==
+
+
+=== Potatoes "item" ===
+The following content is transcluded from Technical blocks/Potatoes.
+
+
+==== Appearances ====
+
+
+==== Names ====
+Java Edition
+12w34a - 14w21b: Potatoes
+
+
+== Issues ==
+Issues relating to "Potato" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External links ==
+Taking Inventory: Potato – Minecraft.net on December 16, 2021

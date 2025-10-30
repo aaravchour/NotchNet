@@ -1,0 +1,53 @@
+A bell is a transparent, animated block entity that produces a sound when used. Unlike most utility blocks, bells cannot be crafted.
+
+Bells can generate naturally in all village variants, usually near the center of the village in the meeting point.
+
+A bell can be mined by hand or with any tool, but using a pickaxe is fastest.
+
+In Java Edition, apprentice-level armorer villagers have a 50% chance to sell a bell for 36 emeralds. Apprentice-level toolsmith and weaponsmith villagers always offer to sell a bell for 36 emeralds.
+In Bedrock Edition, apprentice-level armorer villagers have a 13 chance to sell a bell for 36 emeralds. Apprentice-level toolsmith villagers sell bells for 36 emeralds. Journeyman-level weaponsmith villagers sell bells for 36 emeralds.
+
+When a bell is placed near a claimed bed, the bell is claimed, which is displayed by green particles appearing above the bell. A claimed bell defines a gathering site of a village. If the bell is broken, angry particles will appear above the village leader's head.
+When the side of a bell is used, it produces a sound as well as a "swaying" animation. A bell can be rung using a redstone signal, by any projectile, by right clicking, or by dropping an item on it. Bells can be anchored to the side of blocks, ceilings, and floors. Also, if the player uses the bell while villagers are sleeping, all of the villagers wake up. Bells can be rung only from certain angles; trying from an incorrect angle does not cause the bell to ring.
+If a player rings a bell, the villagers run to their houses even if there is no raid.
+
+When the bell is rung, villagers within a distance of 32 blocks run into their houses immediately.
+When a raid's first wave appears, in Java Edition, at least one villager rushes to ring the bell in the center of the village (if they are close enough) to warn the other villagers of an incoming raid before going into their house. In Bedrock Edition, bells in the corresponding village ring automatically at the start of a raid, warning villagers to return to their houses.
+
+Additionally, in Java Edition, if a bell is rung and there is a raid mob within a 32 block spherical range, the Glowing effect is applied to all raid mobs within 48 blocks, and  particles appear. It produces a resonating sound once this process is complete. The raid mobs don't have to be actively participating in a raid to receive the Glowing effect: the effect applies to illagers in woodland mansions, or witches that naturally spawns in the Overworld.
+
+Piglins admire bells as golden items. However, breaking a bell does not aggravate them.
+
+When a bell is rung (either by a player or villager), it produces a Sculk Sensor vibration with a frequency of 11.
+With the use of a Calibrated Sculk Sensor, it is possible to make a device which automatically detects when a raid starts by having a villager ring a bell.
+
+Java Edition:
+
+Bedrock Edition: 
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+A bell has a block entity associated with it that holds additional data about the block.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Block entity format.
+
+For a history of changes to textures and models for each block state, see /Asset history
+
+Issues relating to "Bell" are maintained on the bug tracker. Report issues there.
+
+In Bedrock Edition, bells deflect any projectile that does not disappear when hitting a surface (arrows or tridents).
+In Bedrock Edition, when holding down right-click while looking at a bell and holding an item with a right-click action, the bell rings once and then the player uses the item.
+If a villager tries to give another villager food near a bell, there is a chance it might hit the bell with the food and cause all the villagers to run, thrower included.

@@ -1,0 +1,63 @@
+A bucket of aquatic mob is a small aquatic mob (a fish, axolotl, or tadpole) inside of a water bucket, obtained by using a water bucket on one of these mobs.
+
+A bucket of aquatic mob can be obtained by using a water bucket on an applicable mob. Once a water bucket is used, the mob is picked up along with the water source block. The mob bucket obtained corresponds to the mob picked up.
+
+Wandering traders have 16 chance to either sell a bucket of pufferfish or a bucket of tropical fish for 5 emeralds.
+Novice-level Fisherman villagers have a 50% chance to sell a bucket of cod for 3 emeralds.
+
+Pressing use with a bucket of aquatic mob places a water source block, and spawns the mob back into the world, leaving an empty bucket in the player's inventory. For buckets of tropical fish, the fish and its details (color, size, name) are kept. Placing a bucket of aquatic mob in the Nether causes the same particles to appear that generate when a normal water bucket is placed in the Nether, and the fish is spawned alone. 
+Mobs caught in buckets then released do not despawn, unlike mobs that spawn naturally in their aquatic environments.
+If a bucket of aquatic mob is inside a dispenser, the dispenser spawns the mob and water block in front of it upon activation, leaving an empty bucket inside. Dispensers cannot pick up mobs even if they have water buckets inside; the bucket is simply emptied when it is activated.
+If a bucket of aquatic mob is given a name through an anvil, the mob inside displays that name as if it were named using a name tag, making fish, axolotls, and tadpoles the only mobs that can be named without a name tag. Alternatively, if a named mob is captured with a bucket of water, the resulting mob bucket shares a name with the captured mob. If a named mob is captured in Bedrock Edition, the item is called "Bucket of <Name>".
+
+Tropical fish also have assigned names that can be seen after capture. In Java Edition, the smaller text under the item name is displayed showing the fish name, similar to the text that displays enchantments under enchanted items. In Bedrock Edition, the item name is displayed showing "Bucket of <fish name>". Their colors are mostly named according to the colored block names, though with a few exceptions:
+
+The base color comes first, and if the pattern color is different, it comes after that. Lastly, the fish bucket is given a name according to the shape and pattern of the fish:
+
+Some tropical fish do not follow the normal naming system, and instead reference real-life fish species. Apart from these names, these types of fish are not different from regular tropical fish in terms of design or behavior.
+These varieties are:
+
+A bucket of tropical fish purchased from a wandering trader or pulled from the Creative inventory spawns random tropical fish when used, due to it having no associated NBT.
+Additionaly, buckets of tropical fish may be used to lead and breed axolotls. It can also speed up the growth of a baby axolotl.
+
+In Bedrock Edition, if an axolotl is picked up with a bucket, the bucket appears in the player's inventory as "Bucket of <Baby/Adult> <Color> Axolotl" based on the age and color of the axolotl. These varieties are:
+
+Bucket of Baby Leucistic Axolotl
+Bucket of Adult Leucistic Axolotl
+Bucket of Baby Brown Axolotl
+Bucket of Adult Brown Axolotl
+Bucket of Baby Gold Axolotl
+Bucket of Adult Gold Axolotl
+Bucket of Baby Cyan Axolotl
+Bucket of Adult Cyan Axolotl
+Bucket of Baby Blue Axolotl
+Bucket of Adult Blue Axolotl
+When the player spawns in an axolotl using a bucket of axolotl from the creative inventory, it is always a leucistic adult. Buckets containing other variants will always spawn that variant when used in Creative mode.
+
+When a tadpole is picked up using a bucket, the bucket appears in the player's inventory as "Bucket of tadpole". The bucket can be emptied again like any other bucket of aquatic mob, depositing the tadpole and water on the targeted location.
+The water in the bucket of tadpole appears to be a dark teal color, unlike the other buckets of aquatic mobs, in which water appears blue.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Normal buckets of fish use only the BucketVariantTag tag to store the variant of any tropical fish that is picked up, and the item's display name to store the fish's custom name.
+Bedrock Edition:
+
+See Bedrock Edition level format/Item format.
+
+Issues relating to "Bucket of Fish", "Bucket of Mob", "Bucket of Cod", "Bucket of Salmon", "Bucket of Pufferfish", "Bucket of Tropical Fish", or "Bucket Of Tadpole" are maintained on the bug tracker. Report issues there.
+
+When a water bucket is transformed into a bucket of aquatic mob, it actually pushes the bucket texture down one pixel. According to Dinnerbone, JAPPA says this is due to the "weight of the fish".
+Buckets of tropical fish always appear to contain a clownfish, regardless of whatever tropical fish is actually inside.
+The bucket of axolotl does not change textures in the inventory to reflect the captured axolotl's color; it always appears leucistic.
+The bucket of cod and bucket of tropical fish are actually re-colorations of each other.
+
+Taking Inventory: Bucket of Fish  Minecraft.net on March 26, 2020
+Taking Inventory: Bucket of Axolotl  Minecraft.net on July 14, 2022

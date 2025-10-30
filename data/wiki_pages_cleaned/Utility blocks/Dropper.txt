@@ -1,0 +1,65 @@
+A dropper is a low-capacity storage block that can eject its contents into the world or into other containers when given a redstone signal.
+
+A dropper can be mined with a pickaxe, in which case it drops itself and its contents. If mined without a pickaxe, the dropper drops only its contents.
+
+A dropper can be used as a container or as a redstone component to move objects.
+A dropper can be placed so that its output faces in any direction, including up or down. When placed, the dropper's output faces toward the player. With default textures, the droppers output side looks like a face when positioned for horizontal output. Otherwise, the output side has a square hole.
+A dropper cannot be moved by pistons in Java Edition.
+
+A dropper has 9 slots of inventory space.
+To open the dropper GUI, use the Use Item control. To move items between the dropper inventory and the player inventory or hotbar while the dropper GUI is open, drag or shift-click the items. To exit the dropper GUI, use the Esc control.
+By default, the GUI of a dropper is labeled "Dropper". A dropper's GUI label can be changed by naming the dropper in an anvil before placing it, or by using the /data command (for example, to label a dropper at (0,64,0) "Alice's Dropper", use /data merge block 0 64 0 {CustomName:'"Alice's Dropper"'}).
+A dropper can be "locked" (or subsequently unlocked) by setting the dropper's Lock tag with the /data command. If a dropper's Lock tag is not blank, the dropper cannot be accessed except by players holding an item with the same name as the Lock tag's text. For example, to lock a dropper at (0,64,0) so that only players holding an item named "Alice's Key" can access the dropper, use /data merge block 0 64 0 {Lock:"Alice's Key"}.
+
+A dropper can be used to eject items, or push items into another container.
+
+Activation
+A dropper can be activated by:
+an adjacent active power component (Exceptions: a redstone torch does not turn ON a dropper it is attached to)
+an adjacent powered opaque block (strongly-powered or weakly-powered)
+a powered redstone repeater or redstone comparator facing the dropper
+powered redstone dust configured to point at the dropper, or on top of it, or a directionless "dot" next to it; a dropper is not activated by adjacent powered redstone dust that is configured to point in another direction.
+In addition to the methods above, droppers can also be activated by quasi-connectivity. A dropper activates if one of the methods above would activate a mechanism component in the block above the dropper, even if there is no mechanism component there (even if the block above the dropper is air or a transparent block), but only when the dropper receives a block update (including a redstone update within two blocks of the dropper).
+A dropper has a 2 redstone tick (4 game ticks, or 0.2 seconds barring lag) delay between activation and a response. During this time, additional inputs are ignored.
+Behavior
+
+When activated, a dropper waits 2 redstone ticks (4 game ticks, or 0.2 seconds barring lag) and then ejects one item from its inventory. The dropper does not continue to eject items while activated  ejection occurs only on the initial activation (the rising edge of an input signal). To eject multiple items, repeatedly activate the dropper with a clock circuit.
+If multiple slots are occupied by items, a random occupied slot is chosen for ejection. The slot is chosen when an item is ejected, not when the dropper is initially activated, thus it is possible to move items into or out of a dropper between its activation and item dispensing.
+If the dropper is facing a container, the ejected item is transferred into the container. If the container it is facing is full the dropper does not activate. Otherwise, the item is ejected in the direction the dropper is facing, as if a player had used the Drop control. Even items that would be treated differently by a dispenser (such as arrows) are simply ejected by a dropper.
+Dispensers and droppers that are powered directly (or "strongly powered") are treated as full containers. That is, a dropper will not activate to transfer its ejected item into a container if that container is a strongly powered dropper or dispenser.
+A dropper makes a clicking noise (the random.click sound event) when activated empty, when ejecting items into air, or when ejecting items into any block other than a chest type container or barrel or another dropper. It is silent when it successfully transfers an item into any kind of chest or barrel, or another dropper.
+A dropper is an opaque block, so powering it directly can cause adjacent mechanism components (including other droppers) to activate as well.
+A line of droppers, each pushing items into the next dropper, is known as a dropper pipe. A dropper pipe must be clocked to move items, but can be clocked to move items faster than a hopper pipe's transfer rate. When a dropper pipe pushes items upward, it is known as a droppervator (short for "dropper elevator").
+Every dropper activated by the same redstone signal will process its activity during the same game tick. However, the dropper that is directly powered will eject its item first, and then the adjacent droppers will eject their items. The result is that, in a dropper pipe or droppervator, the item in the dropper that gets directly powered by redstone will move 2 spaces down the pipe. This item will first get ejected by the directly powered dropper and then, on the same game tick, it will get ejected by the adjacent dropper.
+
+Droppers can be placed under note blocks to produce "bass drum" sounds.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+A dropper has a block entity associated with it that holds additional data about the block.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Block entity format.
+
+Issues relating to "Dropper" are maintained on the bug tracker. Report issues there.
+
+Dispenser
+Hopper
+
+Block of the Week: Dropper  Minecraft.net on October 8, 2020

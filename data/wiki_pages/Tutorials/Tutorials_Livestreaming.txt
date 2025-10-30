@@ -1,0 +1,42 @@
+This tutorial will show you how to livestream through Java and Bedrock editions.
+
+
+== Java Edition ==
+
+
+=== Any version ===
+Software vision mixers such as Open Broadcaster Software (OBS) can be used for streaming.
+Tutorials for streaming can be found on their wiki.
+
+
+=== 1.10 to 1.12.2 ===
+Mixer Interactivity & broadcasting was recommended for streaming because mobile users could interact with it through Mixer. The download link is available here. Mixer has been shut down as of July 23, 2020 and the mod is no longer functional. The mod required Forge.
+
+
+=== Older versions ===
+
+
+==== 1.7.2 to 1.8.9 ====
+To start using Twitch, visit https://account.mojang.com, go to your account settings, then select the option to connect to your Twitch account. If you sign into Minecraft with your username, you'll need to use the newer account format. Information on migrating to a Mojang account can be found here. If you don't have a Twitch account, you can create one at http://twitch.tv/signup.
+Twitch settings in Minecraft can be found by clicking the Options button, then the Broadcast Settings button.
+System requirements:
+
+Windows 7 (32- or 64-bit) or Mac OS X 10.8 (64-bit only) or later. Linux is not currently supported.
+Macs require the application Soundflower.
+OpenGL 1.5 or later.
+If your computer doesn't support streaming via Minecraft, you may want to try the tutorial below.
+Controls:
+
+Pause/Unpause Stream: F7
+Push To Talk/Mute: NONE
+Show Stream Commercials: F8
+Start/Stop Stream: F6
+
+
+==== Other ====
+In 1.9, the Broadcast Settings button was removed. Open Broadcaster Software (OBS) became the recommended software for streaming.
+Tutorials for streaming can be found on their wiki.
+
+
+== Bedrock Edition ==
+Users would have been able to download Mixer Create, which was available for Google Play, App Store, and Windows 10 Store. The app was retired on August 28, 2019, and Mixer was shut down entirely on July 22, 2020. Users must now use Streamlabs or other third-party software such as OBS Studio and Xsplit Gamecaster.

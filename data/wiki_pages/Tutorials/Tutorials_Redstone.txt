@@ -1,0 +1,43 @@
+Redstone mechanics provide Minecraft with a loose analogue to electricity, which is useful for controlling and activating a variety of mechanisms. Redstone circuits and devices have many uses including automatic farms, controlling doorways, changeable or mobile buildings, transporting players and mobs, and more. 
+Redstone construction can range from fairly simple to deeply complex.  While there is not a single overarching tutorial, there are many relevant pages under both the "Mechanics" and "Tutorials" trees. Some relevant pages include: 
+
+Redstone dust:  The core material that enables most redstone devices, being crafted into many of them and also placed to carry signals.
+Mechanics/Redstone:  The basic game mechanics for redstone power and signals.
+Mechanics/Redstone/Components:  The blocks that are used in and with redstone contraptions.
+Tutorials/Redstone tips:  Hints and advice for building your redstone devices.
+Mechanics/Redstone/Circuit:  Lists various types of reusable circuits that can be used to manipulate signals, with sub-pages giving examples of the various types.
+Help:Schematic:  The "modern" way for redstone circuits to be represented on this wiki.
+MCRedstoneSim schematics:  An older method for displaying redstone circuits.
+Some pages dealing with specific blocks:
+
+Mechanics/Redstone/Piston circuits: A list of circuits making use of piston mechanics.
+Tutorials/Quasi-connectivity: Discusses the special mechanic of Quasi-connectivity.
+Tutorials/Hopper:  All about how to use hoppers, including for item sorting.
+Tutorials/Observer stabilizer:  Getting a better signal out of an observer
+Tutorials/Daylight detector, Tutorials/Day and night detector:  Daylight sensors
+Tutorials/Automatic Respawn Anchor Recharger:  Respawn Anchors
+Circuits can be built into more complex devices:
+
+Tutorials/Mechanisms:  Lists an assortment of complete devices using redstone.
+Tutorials/Minecarts:  Large railway systems can benefit from redstone at the terminals.
+Tutorials/Redstone music:  Creating music with Note Blocks and redstone circuits.
+Tutorials/Rube Goldberg machine:  Complexity and spectacle!
+Tutorials/Block update detector: A specialized class of circuit; BUDs are mostly but not completely rendered obsolete by the Observer.
+Tutorials/Comparator update detector:  An extension of BUDs that also spots inventory changes.
+Tutorials/Shulker box storage: Systems for loading and unloading shulker boxes.
+Tutorials/Zero-ticking: Exploiting a notable bug for rapid circuits.
+Tutorials/Combination locks: Creating combination locks
+Tutorials/Elevators:  Vertical transportation
+Tutorials/Telegraph:  Long-range signaling (through loaded chunks only)
+Tutorials/Command block:  Use of creative-mode Command blocks
+Tutorials/Flying machines: Mobile machinery!
+Tutorials/Note block music: A working music machine!
+Perhaps the most ambitious redstone project of all is to build a working computer within Minecraft!
+
+Tutorials/Logic gates:  Arithmetic logic.
+Tutorials/Advanced redstone circuits
+Tutorials/Redstone computers:
+Tutorials/Calculator:  Build a calculator within Minecraft.
+Tutorials/Printing:  And a printer/3D printer.
+
+Most of the farming tutorials also include complete devices, including Tutorials/Egg farming and Tutorials/Cobblestone farming.  Many traps also use redstone.

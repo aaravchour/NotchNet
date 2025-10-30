@@ -1,0 +1,28 @@
+A gate is a defensive structure in Minecraft Legends.
+
+
+== Obtaining ==
+Gates can be placed by using a build allay and spending 150 wood.
+
+
+== Usage ==
+Campaign
+Gates will open when the hero and allied units are close by. Gates will not open if an enemy is close by.
+
+PVP
+Gates function exactly as above with the addition that they will open when a team member of the player who placed the gate is close by.
+
+
+== Quotes ==
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Gallery ==
+
+
+=== Screenshots ===

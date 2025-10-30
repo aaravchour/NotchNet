@@ -1,0 +1,182 @@
+A snow golem is a buildable passive mob that throws snowballs at monsters, which provokes them into attacking it. Depending on the biome temperature it will also either produce a trail of snow, or take heat damage and die.
+
+
+== Creation ==
+
+Snow golems are created by placing 2 snow blocks in an I shape (as shown in the image), and then placing a carved pumpkin or jack o'lantern on top. The pumpkin may be placed by the player, a dispenser, or an enderman. The building pattern also works when arranged sideways or upside-down, as long as the pumpkin is the last block placed. The player can place the snow blocks in any pattern and then place an uncarved pumpkin.‌
+The snow golem spawns at the location of the snow block as its feet when created horizontally.
+
+
+== Drops ==
+A snow golem drops between 0 to 15 snowballs upon death and a carved pumpkin when sheared.
+
+
+== Behavior ==
+
+A snow golem wanders aimlessly and tries to avoid water, obstacles and environmental hazards, but is immune to damage from powdered snow.
+
+A snow golem wears its carved pumpkin like a helmet. Its actual head is hidden beneath the pumpkin. Shearing a snow golem removes the pumpkin, revealing its face and making it drop the pumpkin. The pumpkin is stored using the Pumpkin tag instead of ArmorItems; a snow golem does not display its HandItems or its ArmorItems. After shearing the pumpkin, the player can give a snow golem a new pumpkin only by using a command, such as /data‌.
+As a snow golem moves, it leaves a trail of snow on the ground if the blocks can support it in any biome regardless of the temperature, unless you are in a mushroom field biome, in which it does not spread snow. If the mobGriefing game rule is false, a snow trail does not appear.
+Snow golems are damaged in contact with rain or water and in biomes with a temperature greater than 1.0. Examples include savannas, badlands, deserts or biomes in the Nether. The Fire Resistance effect allows them to survive in these biomes.‌
+
+Snow golems move toward all monsters (except ghasts) and throw snowballs at them up to 10 blocks away, provoking them, regardless of whether they attack the player. When captured, they throw snowballs up to 16 blocks away. They throw one snowball per second. Thrown snowballs do not deal damage except to blazes and wolves, but the snowballs knock back any mobs that they hit.
+Additionally, snow golems also attack creepers and never intentionally attack the player. 
+The snow golem's snowballs can set other mobs on fire in addition to knockback, if the shot flies through a lava block or a block that is on fire.‌
+A snow golem is not provoked by another golem (snow or iron) attacking it, although an iron golem that is hit accidentally by a snow golem's snowball attacks the snow golem.
+
+
+=== Provocation by other mobs ===
+
+
+==== Java Edition ====
+
+
+==== Bedrock Edition ====
+
+
+== Sounds ==
+Java Edition:
+Snow golems use the Friendly Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Snow golems have entity data associated with them that contain various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+
+== History ==
+
+		
+			
+			
+		
+
+
+== Issues ==
+Issues relating to "Snow Golem" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+
+Snow golems cannot be made by pistons because the code for generating snow golems are found in the pumpkin’s OnBlockPlace ("placed by a player") event.
+Snow golems rarely spawn naturally in snow biomes; if two snow blocks happen to spawn naturally with a patch of pumpkins, a snow golem may spawn naturally.‌
+
+
+== Gallery ==
+
+
+=== Videos ===
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Cosmetics ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

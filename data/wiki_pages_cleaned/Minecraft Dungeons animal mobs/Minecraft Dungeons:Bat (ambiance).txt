@@ -1,0 +1,14 @@
+A bat is a non-attackable mob in Minecraft Dungeons that spawn in some missions for decoration.
+
+Bats in Minecraft Dungeons look similar to their appearance in the main Minecraft game with the difference of having lighter brown fur and dark areas on their belly and neck. They also have a smaller mouth.
+
+Creeper Woods
+Overgrown Temple
+Frosted Fjord
+
+Despite being passive in-game, the non-attackable bats are listed under enemies in the game files.
+
+Bat swarm
+Bats appear in dark areas and start flying around when the hero gets close.
+
+In the game files, bats are referred to internally by the name Bat.

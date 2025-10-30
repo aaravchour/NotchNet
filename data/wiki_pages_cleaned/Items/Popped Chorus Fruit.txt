@@ -1,0 +1,7 @@
+Popped chorus fruit is an item obtained by smelting chorus fruit, and used to craft end rods and purpur blocks. Unlike raw chorus fruit, the popped fruit is inedible.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Popped Chorus Fruit" are maintained on the bug tracker. Report issues there.

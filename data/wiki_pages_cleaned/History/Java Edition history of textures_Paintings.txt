@@ -1,0 +1,1 @@
+This page documents the history of painting textures in Java Edition.

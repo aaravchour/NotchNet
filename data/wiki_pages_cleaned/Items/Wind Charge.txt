@@ -1,0 +1,11 @@
+A wind charge is a projectile that is crafted from breeze rod. Wind charges knock mobs back when thrown and deal 6 damage (3). When thrown at a player, it deals no damage and players won't receive fall damage when they land.
+
+Wind charges can be used to make players jump higher, which can be useful for parkour. Aside from that, they can be used to activate Redstone items (exception being iron door and trapdoor), such as doors, trapdoors, levers, and buttons. Such technique can be used to build more complex contraptions that make use of wind charges dispensed from dispensers (e.g. redstone doors).
+
+Like fireballs, wind charges can be rebound when shot from dispenser or by player.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Wind Charge" are maintained on the bug tracker. Report issues there.

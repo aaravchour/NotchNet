@@ -1,0 +1,7 @@
+These connect to corridors. The chest is optional (naturally spawns with 33% chance).
+
+
+==== Materials ====
+
+
+==== Blueprints ====

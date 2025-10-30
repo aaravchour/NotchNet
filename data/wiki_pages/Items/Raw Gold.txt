@@ -1,0 +1,47 @@
+Raw gold is a raw metal resource obtained from mining gold ore.
+
+
+== Obtaining ==
+
+
+=== Mining ===
+Gold ore or deepslate gold ore mined using an iron pickaxe or higher drops 1 unit of raw gold. If the pickaxe is enchanted with Fortune, it can drop an extra unit per level of Fortune, allowing for a maximum of 4 with Fortune III. If the ore is mined using a pickaxe enchanted with Silk Touch, it drops the ore block instead.
+
+
+=== Crafting ===
+
+
+== Usage ==
+The primary usage of raw gold is smelting it into gold ingots.
+
+
+=== Crafting ===
+
+
+=== Smelting ingredient ===
+
+
+=== Piglins ===
+Piglins are attracted to raw gold. They run toward any raw gold on the ground, and inspect it for 6 to 8 seconds before putting it in their inventory.
+
+
+== Advancements ==
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Raw Gold" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==

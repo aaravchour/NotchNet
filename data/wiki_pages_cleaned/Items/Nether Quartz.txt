@@ -1,0 +1,18 @@
+Nether quartz is a white mineral found in the Nether.
+
+Nether quartz ore mined using a pickaxe drops one unit of Nether quartz. If the pickaxe is enchanted with Fortune, it may drop an extra unit per level of Fortune, up to a maximum of four with Fortune III. If the pickaxe is enchanted with Silk Touch, the ore drops itself.
+
+Piglins may barter 512 Nether quartz when given a gold ingot.
+
+Expert-level stone mason villagers have a 133 chance to trade one emerald for 12 Nether quartz in Java Edition. This trade is always offered in Bedrock Edition.
+
+Trim color palette
+The following color palette is shown on the designs on trimmed armor:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Nether Quartz" are maintained on the bug tracker. Report issues there.
+
+All of the sensor related items that are craftable (comparator, daylight sensor, observer) are crafted with some Nether quartz involved.

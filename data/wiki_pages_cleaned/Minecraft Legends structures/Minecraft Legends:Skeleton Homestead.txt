@@ -1,0 +1,7 @@
+A skeleton homestead is an ally structure in Minecraft Legends.
+
+The skeleton homestead is populated by large bone structures, and features the skeleton of a large dinosaur-like creature as its centre-piece.
+
+Skeleton homesteads will spawn in one of the tundra biomes in the overworld.
+
+Issues relating to "Skeleton Homestead" are maintained on the bug tracker. Report issues there.

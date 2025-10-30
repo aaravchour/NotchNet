@@ -1,0 +1,2 @@
+In Bedrock Edition, biome-affected items use textures which are already colored, rather than tinting the block texture.
+Later images upcoming.

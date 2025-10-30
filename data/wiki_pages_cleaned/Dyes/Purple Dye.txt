@@ -1,0 +1,26 @@
+Purple dye is a secondary dye color created by combining red dye and blue dye in a crafting grid.
+
+Wandering traders sometimes sell 3 purple dye for an emerald.
+
+Like all other dyes, purple dye can be:
+
+Applied to sheep to dye their wool, which can then be sheared for 13 blocks of purple wool.
+Applied to tamed wolves and cats to dye their collars.
+Used to dye or stain wool, carpets, candles, leather armor, leather horse armor, wolf armor, beds, glass, glass panes, terracotta, shulker boxes, and bundles.
+Combined with gunpowder to make a firework star.
+Combined with a firework star to create a fade-to-color effect.
+Used to add patterns to banners.
+Used to dye shulkers in Bedrock Edition and Minecraft Education.
+Used to dye water contained in cauldrons in Bedrock Edition and Minecraft Education.
+Combined with sand and gravel to craft concrete powder.
+Combined with compounds to craft balloons or glow sticks in Bedrock Edition and Minecraft Education.
+Used to change the color of the text on signs or hanging signs.
+
+Apprentice-level Shepherd villagers have a 20% chance to buy 12 purple dye for an emerald as part of their trades.
+Expert-level Shepherd villagers have a 27 chance to buy 12 purple dye for an emerald.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Purple Dye" are maintained on the bug tracker. Report issues there.

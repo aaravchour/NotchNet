@@ -1,0 +1,201 @@
+Light blocks (in Bedrock Edition) or lights (in Java Edition) are invisible blocks, primarily intended for map makers, that can produce any light level from 0 to 15. The light block is also the only light-emitting block capable of producing light level 8.
+
+
+== Obtaining ==
+Light blocks cannot be mined, similar to air, and can be targeted only if the player is holding a Light item in the main hand. Light blocks with a light level of 0 are functionally identical to air.
+They do not attach to any block, meaning that breaking an adjacent block does not remove the light block. However, they can be broken by replacing them with another block. The exception is water (including, in Bedrock Edition, flowing water), which can occupy the same space as a light block. See Waterlogging for more information.
+In Java Edition, light blocks are available in the Creative inventory. Across both Java and Bedrock editions, they can also be obtained by using commands such as /give. In Bedrock Edition, specifying the data value from 0 to 15 determines the block's light level; if the data value is not specified, the light block emits a light level of 0. The command is: /give <target> light_block [amount: int] [data: int (0 - 15)] [components: json]. In Java Edition, using /give <target> minecraft:light{BlockStateTag:{level:"<int>"}} can give a light block with a specific light level and corresponding texture. If the level is below 0, the non-bulb texture is used, and above 15 the level 15 texture. If the block state is not specified or not between 0 and 15, the light block emits a light level of 15.
+
+
+== Usage ==
+
+A light block is intended for use in adventure maps.
+Each light block (as a block or as an item) has an associated light level, which can be anything from 0 to 15. In the player's inventory, light blocks display their light level in the top-left corner and appear "brighter" at higher light levels.
+In Bedrock Edition, light blocks appear to be slippery, much like ice. This can be seen by walking over the top of one with the help of another block.
+Light blocks have a hitbox only when a light block is selected in the main hand; the particle appears only when selected in the main hand in creative mode, similar to barriers.
+When pressing use on a light block while a light block is held in the main hand, the light level of the light block increases by one, if the light level is already 15, it resets to 0.
+Light blocks are detected by observers and can be waterlogged. It can be pushed and pulled by pistons.‌
+
+
+=== Light source ===
+Light blocks produce their associated light level.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Renders ==
+Light
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+Light Block
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Issues ==
+Issues relating to "Light Block" are maintained on the bug tracker. Report issues there.
+
+
+== References ==

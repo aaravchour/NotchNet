@@ -1,0 +1,13 @@
+The wolf armor is an armor item for tamed wolves. It is a dyable armor that can be is crafted with armadillo scutes.
+
+Using wolf armor on a tamed wolf will cause the wolf to equip it, in a similar manner to horse armor. While a wolf is using wolf armor, it gains 11 (  5.5) armor points. In order to remove armor from the wolf, the player has to right click the wolf using shears, which grants the "Shear Brilliance" achievement.
+
+Wolf armor can be dyed using the crafting table. Similar to dying of leather armor, several colors can be used at once to create various shades.
+
+Java Edition:
+
+Bedrock Edition:
+
+When wolf armor is dyed, it has the following NBT:
+
+Issues relating to "Wolf Armor" are maintained on the bug tracker. Report issues there.

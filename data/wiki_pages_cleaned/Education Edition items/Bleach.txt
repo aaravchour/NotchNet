@@ -1,0 +1,7 @@
+Bleach is an item used to dye things white. It is a compound, as it is made using a lab table.
+
+Bleach is not obtainable in the creative inventory or /give. The only way to obtain it is using a lab table.
+
+ There is an unused bleach texture in the compounds folder of the chemistry resource pack, which is slightly different from the one used in the game.
+
+Issues relating to "Bleach" are maintained on the bug tracker. Report issues there.

@@ -1,0 +1,49 @@
+The mooshroom monstrosity is a redstone monstrosity variant that can be found within the various missions of Minecraft Dungeons.
+
+The mooshroom monstrosity appears to be the remnants of an ancient redstone monstrosity somehow reactivated by mushroom spores. It is a golem made of stone and redstone patches, as well as mushroom spores sprouting out of it's body. The mushrooms are the same as the "Red Mushroom" from the original Minecraft game. It appears to have multiple cracks within the body and red outlines within its torso. It has two black eyes and a third empty eye socket on its forehead, and a red jaw. It is about 5.4 blocks tall.
+
+??? (Boss)
+Tower (Boss)
+
+The mooshroom monstrosity has three behaviors.
+
+Slam attack
+The mooshroom monstrosity smashes both of its fists on the ground, creating a large four block shockwave in a radius that does heavy damage to and knocks back any other entities in its range. This attack is the one used most often when a hero gets in range.
+
+Mooshroom summon
+The mooshroom monstrosity pounds the ground with both fists as its body glows. Twelve fissures appear around the arena, each spawning a mooshroom. The mooshroom monstrosity has a twenty second cooldown after using this pattern. Each mooshroom has 1/80ths of the boss's health pool.
+
+Strong attack
+The mooshroom monstrosity's most powerful attack is to shoot out a line of seven flaming mushroom projectiles from its both hands. When the mushroom hits an object, it explodes in a small radius which deals 90% damage per flaming mushroom. It is commonly used when the hero is in a certain range from the mooshroom monstrosity.
+
+The mooshroom monstrosity has 25,000 HP in the code, the most of any mob in the game. On Default I, all mobs have 9.6% health and 12% damage of what is set in the code.
+
+Armor
+Wolf Armor
+Black Wolf Armor
+Fox Armor
+Artifacts
+Enchanted Grass
+Harvester (Drops from boss)
+Melee gear
+Claymore
+Broadsword
+Heartstealer
+Great Axeblade
+Soul Scythe
+Jailor's Scythe
+Frost Scythe
+Mace
+Sun's Grace
+Flail
+Ranged gear
+Exploding Crossbow
+Imploding Crossbow
+Firebolt Thrower
+Soul Crossbow
+Feral Soul Crossbow
+Voidcaller
+
+The mooshroom monstrosity cannot be the same redstone monstrosity as the one fought in fiery forge due to the hero taking the redstone monstrosity's head as a trophy and hanging it over the fire place within the house at the camp.
+Due to the mooshroom monstrosity being a secret boss, it does not have a LEGO variation. It was also not shown within the Minecraft Livestream.
+The mooshroom monstrosity uses the corrupted cauldron's boss music.

@@ -1,0 +1,23 @@
+A spore blossom is a ceiling-hanging decorative block that emits green particles.
+
+Spore blossoms can be found only on the ceiling of lush caves.
+
+Spore blossoms can be broken instantly using any item or by hand. Harvesting a spore blossom using shears consumes the durability of the shears for no additional benefit.
+
+Spore blossoms can be placed only on the underside of any block except for leaves.
+They emit two kinds of particles: one falling straight downwards, disappearing after a certain distance; the other spreading to a large area, floating around in the air, spreading further away as they slowly fall down.
+Spore blossoms can be pollinated by bees.
+
+Spore blossoms can be put into a composter with a 65% chance of raising the compost level by 1.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Spore Blossom" are maintained on the bug tracker. Report issues there.
+
+Spore blossoms are the only related block from lush caves that are not renewable.

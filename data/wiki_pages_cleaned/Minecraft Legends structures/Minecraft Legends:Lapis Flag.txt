@@ -1,0 +1,9 @@
+A lapis flag is a structure that provides lapis within Minecraft Legends.
+
+Lapis flags can be placed by using a build allay, which costs 25 lapis, 100, prismarine, and 300 stone.
+
+Campaign
+Lapis flags provide the hero with more lapis over time. If more than one lapis flag is created, then the hero would gain more lapis.
+
+PVP
+Lapis flags function the same as they do within the campaign, however, they provide all of the players on the team with more lapis over time.

@@ -1,0 +1,24 @@
+The boots of swiftness are an artifact that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Creeper Woods
+Creepy Crypt
+Desert Temple
+Soul Sand Valley (DLC)
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+The boots of swiftness provide a short speed boost to the hero lasting for four seconds. Activating the artifact grants the hero the Swiftness buff, which doubles the hero's movement speed and stacks with the buff from Swiftness Potion. The duration of the buff is based on the power stat of the artifact. 
+There is a cooldown of five seconds after activating the artifact. This can be reduced with the Cool Down enchantment and certain armors that give artifact cooldown reduction, such as the evocation robe. 
+
+25% Cooldown Reduction = 3.75 sec
+50% Cooldown Reduction = 2.5 sec
+75% Cooldown Reduction = 1.25 sec
+
+X second duration
+5 second cooldown
+
+Issues relating to "Boots of Swiftness" are maintained on the bug tracker. Report issues there.

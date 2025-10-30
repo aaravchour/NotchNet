@@ -1,0 +1,6 @@
+The giant clock is a device built by Romeo which can manipulate time. It can be used to freeze or alter the day-night cycle of the Overworld to the user's will.
+
+In "Giant Consequences", the Prismarine Colossus uses the clock to change the cycle to nighttime after invading Beacontown. Later, Romeo challenges Jesse to secure the clock as to prevent the world from being in eternal night. It is later destroyed by Petra or Jack, depending on who is assigned to reach it.
+In "Above and Beyond", the clock can be seen in the distance in the Terminal Space, alongside other elements of the previous episodes.
+
+In vanilla Minecraft, the day-night cycle can be changed or stopped with the use of commands.

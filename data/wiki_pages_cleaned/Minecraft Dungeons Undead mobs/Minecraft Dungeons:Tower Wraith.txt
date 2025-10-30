@@ -1,0 +1,28 @@
+A tower wraith is a hostile tower keeper wraith variant that can be found within the Tower of Minecraft Dungeons.
+
+Tower wraiths have the appearance of partial floating skeletons whose mouth and eyes glow bright blue. They wear gilded cloaks, like tower guards, and a color-shifting robe that appears as black or pink.
+
+Tower
+
+Tower wraiths attack using soul fire or noxious gas, depending on the color of their robe.
+They are unaffected by the smiting enchantment.
+Tower wraiths have four different behaviors.
+
+Mode change
+Tower wraiths occasionally will spin in place, changing the color of their robe. 
+
+Teleport
+Tower wraiths teleport away when a target gets too close. Attacking or stunning a tower wraith while it is teleporting cancels the teleport, though the tower wraith remains invisible for a few seconds. 
+
+Basic attack
+Black tower wraiths summon an Ice Bouquet like regular wraiths, the only difference being that the overall area of the flames is greater.
+
+Poison cloud attack
+Pink tower wraiths summon noxious gas clouds on the hero. 
+
+Tower wraiths has 300 HP in the code. On Default I, all mobs have 9.6% health and 12% damage of what is set in the code.
+
+Wretched Wraith
+Wraith
+
+The magenta tower wraith was originally planned to be green, as shown in prerelease footage. The magenta tower wraith is referred to as green within the game files.

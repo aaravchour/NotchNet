@@ -1,0 +1,60 @@
+Controls text displayed on the screen.
+
+A screen title is displayed to players as a single line of large center-aligned text in the middle of their displays, and can include a subtitle; a second, separate line of text displayed just below the title. Text can also be printed to the action bar, the space just above the player's hotbar. All of them are specified using raw JSON text components in Java Edition. In Bedrock Edition, the /title command uses plain text while /titleraw uses raw JSON text components. Screen titles can be set to fade in and fade out, and the duration they are displayed can also be specified. Screen titles scale in size with the GUI Scale, and screen titles that are too big to fit on the screen are not line-wrapped (they just overflow off the screen on both sides).
+Note that "fadeIn", "stay", and "fadeOut" values of each player are only stored on their own client side, and these values can be changed only when executing this command. If unchanged, defaults to 10 game ticks (0.5 seconds), 70 game ticks (3.5 seconds), and 20 game ticks (1 second).
+
+Java Edition
+title <targets> (clear|reset)
+title <targets> (title|subtitle|actionbar) <title>
+title <targets> times <fadeIn> <stay> <fadeOut>
+Bedrock Edition (plain text)
+title <player: target> <clear|reset>
+title <player: target> <title|subtitle|actionbar> <titleText: message>
+title <player: target> times <fadeIn: int> <stay: int> <fadeOut: int>
+Bedrock Edition (JSON)
+titleraw <player: target> <clear|reset>
+titleraw <player: target> <titleLocation: TileRawSet> <raw json titleText: json>
+titleraw <player: target> times <fadeIn: int> <stay: int> <fadeOut: int>
+
+... clear
+Clears the screen title from the screens of the specified player(s).
+... reset
+Resets the subtitle text for the specified player(s) to blank text, and the fade-in, stay and fade-out times to their default values (defaults to 10 gt, 70 gt, and 20 gt).
+... subtitle ...
+If a screen title is currently being displayed to the specified player(s), changes the current subtitle to the specified text; otherwise, specifies the subtitle for the next screen title to be displayed to the specified player(s).
+... title ...
+Displays a screen title to the specified player(s), or changes the current screen title to the specified text. After fading out, resets the subtitle back to blank text, but does not reset fade-in, stay, and fade-out times.
+... actionbar ...
+Displays text on the action bar to the specified player(s), or changes the current action bar title.
+... times ...
+Changes the fade-in, stay, and fade-out times (measured in time durations) of all current and future screen titles for the specified player(s).
+
+JE: <targets>: entityBE: target: target: CommandSelector<Player>
+
+Specifies the player(s) to display a screen title to.
+Must be a player name, a target selector or a UUID.  And the target selector must/should be of player type.
+JE: <title>: component
+BE: titleText: message: CommandMessage or raw json titleText: json: Json::Value
+
+Specifies the text to display as a title, subtitle, or on the action bar.
+In Java Edition, must be a raw JSON text.
+In Bedrock Edition,
+For titleText: message, must be a plain text. Can include spaces as well as target selectors. The game replaces entity selectors in the message with the list of selected entities' names, which is formatted as "name1 and name2" for two entities, or "name1, name2, ... and namen" for n entities.@here can be used to mention all players.
+for raw json titleText: json, must be a JSON Object.
+JE: <fadeIn>: time, <stay>: time and <fadeOut>: time
+BE: fadeIn: int: int, stay: int: int, and fadeOut: int: int
+
+Specifies the time for the screen title to fade in, stay, and fade out. In Bedrock Edition, it's specified in game ticks (1/20ths of a second), and values below 0 are treated as 0.
+In Java Edition, it must be a single-precision floating point number suffixed with a unit. Units include:d: an in-game day, 24000 gameticks;s: a second, 20 gameticks;t (default and omitable): a single gametick; the default unit.The time is set to the closest integer tick after unit conversion. For example. .5d is same as 12000 ticks.In Bedrock Edition it must be a  32-bit integer number. And it must be between -2147483648 and 2147483647 (inclusive).
+
+All of the following displays a bold screen title "Chapter I" with a gray italic subtitle "The story begins" to all players.
+
+In Java Edition:
+/title @a subtitle {"text":"The story begins...","color":"gray","italic":true}
+/title @a title {"text":"Chapter I","bold":true}
+In Bedrock Edition using plain text:
+/title @a subtitle 7oThe story begins...
+/title @a title lChapter I
+In Bedrock Edition with raw text variants:
+/titleraw @a subtitle {"rawtext": [{"text":"7oThe story begins..."}]}
+/titleraw @a title {"rawtext": [{"translate":"lChapter %%s","with":["I"]}]}

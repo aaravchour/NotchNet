@@ -1,0 +1,30 @@
+The broadsword is a unique claymore variant that can be found within the various missions of Minecraft Dungeons.
+
+The Broadsword has a wide, double edged blade, light bluish handguard and pommel and a black hilt.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Obsidian Pinnacle
+???
+Gauntlet of Gales
+Gale Sanctum (DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+First Enchanter
+Unbreakable One
+
+The broadsword possesses high power, low speed, and moderate range, and has a combo consisting of a slash, thrust, and a slam. The slash deals the weapon's minimum melee damage, the thrust does about 20% more damage, and the slam does the weapon's maximum melee damage.
+
+X melee damage
+Powerful pushback
+Extra damage (Sharpness tier I)
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+Issues relating to "Broadsword" are maintained on the bug tracker. Report issues there.

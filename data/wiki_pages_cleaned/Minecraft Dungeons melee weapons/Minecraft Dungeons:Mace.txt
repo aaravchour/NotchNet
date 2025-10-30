@@ -1,0 +1,32 @@
+A mace is a melee weapon that can be found within the various missions of Minecraft Dungeons, as well as wielded by royal guards and guardian vexes. Its unique variants are called the sun's grace and the flail.
+
+The Mace features a grey, red, and brown handle that connects to a grey cube with a single spike coming out of each side. It is a short hand held weapon.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+A  before a mission name indicates that the item is only obtainable in Daily Trials of that mission.
+
+Highblock Halls
+Underhalls
+???
+Lost Settlement (Adventure, DLC)
+Nether Fortress (Apocalypse, DLC)
+ Crimson Forest (DLC)
+The Stronghold (DLC)
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Vigilant Scoundrel
+
+Maces possess above average power, low speed, and low range. They have a combo consisting of two side swings and an overhead slam. The first two hits deal the weapon's minimum damage, while the overhead slam deals the weapon's maximum damage.
+
+X melee damage
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+Issues relating to "Mace" are maintained on the bug tracker. Report issues there.

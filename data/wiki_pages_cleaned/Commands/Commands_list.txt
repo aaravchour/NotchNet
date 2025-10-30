@@ -1,0 +1,12 @@
+Lists players on the server.
+
+Java Edition
+list
+Shows the names of all currently-connected players.
+list uuids
+Player UUIDs are shown alongside names.
+Bedrock Edition
+list
+Shows the names of all currently-connected players.
+
+Always succeeds.

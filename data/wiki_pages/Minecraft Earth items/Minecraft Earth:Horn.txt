@@ -1,0 +1,20 @@
+A horn was a rare item dropped by a horned sheep.
+
+
+== Obtaining ==
+Horns were obtainable by killing horned sheep when they were wearing their full coat of wool. 
+They were also obtainable from tappables.
+
+
+== Usage ==
+Horns had no use in crafting, or anything useful, other than being decorative items.
+
+
+== History ==
+
+
+== Trivia ==
+In the horned sheep's loot table, the drop for the horn contained the function: "minecraft:set_data_from_color_index", implying that the color of the horned sheep's wool had an effect on the horn that dropped from it.
+
+
+== Gallery ==

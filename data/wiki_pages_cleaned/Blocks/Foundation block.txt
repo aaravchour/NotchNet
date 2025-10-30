@@ -1,0 +1,3 @@
+The foundation block was a block used to measure distances.
+
+Foundation blocks measured distances to other foundation blocks.

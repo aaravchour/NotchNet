@@ -1,0 +1,17 @@
+Causes a player in Spectator mode to spectate another entity or stop spectating.
+
+spectate <target> [<player>]
+
+Causes a player to spectate another entity.
+spectate
+
+Stops spectating.
+
+<target>: entity
+
+Specifies the target to be spectated.
+Must be a player name, a target selector or a UUID.  And the target selector must be in single type.
+<player>: entity
+
+Specifies the spectating player. If unspecified, defaults to the executor.
+Must be a player name, a target selector or a UUID.  And the target selector must be of single-player type.

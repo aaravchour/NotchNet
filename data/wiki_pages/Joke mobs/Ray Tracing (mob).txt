@@ -1,0 +1,43 @@
+Ray Tracing is a humanoid entity that spawns within the Overworld of Minecraft.
+
+
+== Spawning ==
+Ray Tracing can be allowed into the world by activating the vote minecraft:ray_tracing and waiting for the message "Ray Tracing has joined the game".
+
+
+== Behavior ==
+Throwing a splash bottle of ray tracing at any mob can disguise it as Ray Tracing.
+Ray Tracing wanders randomly in the world, sending random chat messages to the player. Upon death, Ray Tracing sends a random chat message.
+When the vote minecraft:ray_tracing is repealed "Ray Tracing has left the game" will be sent on the chat and the entity will despawn.
+
+
+== Sounds ==
+Ray Tracing uses the Friendly Creatures sound category for entity-dependent sound events.
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+=== Entity data ===
+Ray Tracings have entity data associated with them that contain various properties.
+
+
+== History ==
+
+
+== Gallery ==
+
+		
+			
+			
+		
+
+
+== Trivia ==
+It is impossible to summon Ray Tracing with the /summon command.
+Ray Tracing is always in Survival Mode.
+If any mob is disguised as Ray Tracing, hostile mobs will attack the disguised target.
+If French Mode is on, Ray Tracing will also have the clothing of French Mode.

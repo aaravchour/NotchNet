@@ -1,0 +1,48 @@
+The totem of soul protection is an Unused artifact within Minecraft Dungeons.
+
+
+== Obtaining ==
+The totem is currently unobtainable, and can only be obtained or used using third party software.
+
+
+== Usage ==
+The totem of soul protection works somewhat similarly to the Totem of Undying from the original game, where it creates a square space around the totem which revives the user and any allies who are within its vicinity.
+
+
+=== Abilities ===
+X health healed
+1 second cooldown
++1 Soul Gathering
+Requires Souls
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===
+
+		
+			
+			
+		
+
+
+== References ==

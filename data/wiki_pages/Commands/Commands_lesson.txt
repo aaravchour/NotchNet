@@ -1,0 +1,14 @@
+/lesson starts a lesson.
+
+
+== Syntax ==
+
+
+== Arguments ==
+
+
+== Result ==
+Starts a lesson with players on the server.
+
+
+== History ==

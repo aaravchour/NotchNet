@@ -1,0 +1,37 @@
+An exploding crossbow is a ranged weapon that can be found within the various missions of Minecraft Dungeons. Its unique variants are the imploding crossbow and the firebolt thrower.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Fiery Forge (Adventure)
+Underhalls (Adventure)
+??? (Adventure)
+Dingy Jungle (Adventure, DLC)
+Treetop Tangle (Adventure)
+Colossal Rampart (Adventure, DLC)
+Broken Citadel (Adventure, DLC)
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Ancient Terror
+
+Exploding crossbows possess very high power, very low speed, and a very small ammo supply. The quiver starts with 20 arrows, normal arrow bundles give 10 arrows, supply chest bundles give another 20 arrows, and surprise gift bundles give 5 arrows. The exploding crossbow is a little smaller than most crossbows.
+Damage caused by the arrows can be increased with enchantments, the Strength buff, and certain armor have ranged damage increases, such as hunter's armor. Also, it is the only ranged weapon in the game that is unaffected by the Deflect enchantment.
+
+X ranged damage
+Explodes on Impact
+
+Multiplier: 1.2
+Quiver: 20
+Fire Rate: 1 shot per second
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+Issues relating to "Exploding Crossbow" are maintained on the bug tracker. Report issues there.
+
+Including the Jungle Awakens, exploding crossbows are the only ranged weapon to appear in four DLCs.
+Exploding crossbows and it's variants are used often in speed-runs for a quick and effective route through large mobs.

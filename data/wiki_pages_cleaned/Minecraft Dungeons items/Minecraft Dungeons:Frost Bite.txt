@@ -1,0 +1,26 @@
+The frost bite is a unique phantom armor variant that can be found within the various missions of Minecraft Dungeons.
+
+The frost bite is similar to its common variant but it has more surface area. A snowball floats around the armor, stunning nearby enemies.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Creepy Crypt (Adventure)
+Soggy Cave (Adventure)
+Redstone Mines (Adventure)
+Frosted Fjord (Adventure, DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Cursed Presence
+
++X health
++50% souls gathered
+30% ranged damage
+Spawns a snowy companion (Snowball tier I}})
+
+Issues relating to "Frost Bite" are maintained on the bug tracker. Report issues there.

@@ -1,0 +1,29 @@
+The doom crossbow is a unique heavy crossbow variant that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Cacti Canyon
+Obsidian Pinnacle
+Lone Fortress (DLC)
+Crimson Forest (DLC)
+Broken Citadel (DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Pestilent Conjurer
+
+X ranged damage
+Powerful shots
+Additional knockback (Punch tier I)
+
+Multiplier: 2.7
+Quiver: 20
+Fire Rate: 1 shot per second
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+Issues relating to "Doom Crossbow" are maintained on the bug tracker. Report issues there.

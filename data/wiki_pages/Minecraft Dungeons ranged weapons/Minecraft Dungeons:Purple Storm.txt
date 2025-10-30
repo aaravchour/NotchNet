@@ -1,0 +1,92 @@
+The purple storm is a unique shortbow variant that can be found within the various missions of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Cacti Canyon (Adventure)
+Desert Temple
+Frosted Fjord (DLC)
+Gale Sanctum (Adventure, DLC)
+The Stronghold (DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Oozing Menace
+
+
+== Usage ==
+
+
+=== Properties ===
+X ranged damage
+Increased fire rate (Rapid Fire tier I)
+
+
+=== Stats ===
+Charge Multiplier: 1.65
+Quiver: 160
+Fire Rate: 4 shots per second (uncharged)
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+
+== Sounds ==
+
+
+== Data values ==
+In the game files, the purple storm is referred to internally by the name purple rain.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Purple Storm" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===

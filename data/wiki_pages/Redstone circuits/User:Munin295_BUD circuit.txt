@@ -1,0 +1,77 @@
+
+== Stuck-piston BUD ==
+Stuck-Piston BUD
+
+1×3×5 (15 block volume), 1-wide, flush
+circuit delay: 1.5 ticks
+output pulse: 1 tick
+Earliest Known Publication: 12 June 2013
+
+Stuck-Piston BUD
+
+1×4×3 (12 block volume), 1-wide, flush
+circuit delay: 1 tick
+output pulse: 3 ticks
+Earliest Known Publication: 17 March 2013
+
+Keyhole Slime-Block Piston BUD
+
+1×4×2 (8 block volume)
+circuit delay: 1 tick.
+Make sure there are no movable blocks next to the slime blocks both when extended and retracted.
+Variations: If the output is taken from the topmost block of redstone (for example, from the side), then the rightmost block of redstone can be replaced with any movable block (removing it will cause the circuit to cycle repeatedly like a clock circuit).
+
+
+== Quasi-connectivity BUD ==
+A quasi-connectivity BUD (QC BUD) puts a piston or dropper into a state where it should be activated by quasi-connectivity but hasn't been updated of this state yet. When it does get updated, it reacts then returns to its original state.
+
+
+=== Piston QC BUD ===
+Tower Slime-Block Piston BUD
+
+1×1×4 (4 block volume)
+circuit delay: 1 tick.
+Make sure there are no movable blocks next to the slime block both when extended and retracted.
+
+
+=== Dropper QC BUD ===
+Like pistons, droppers can also be activated by quasi-connectivity, allowing the creation of silent BUDs.
+For all dropper BUDs, the fastest output comes directly from the comparator (as shown in the schematics below). However, the comparator's output will only have a signal strength of 1 or 3 depending on the item used in the dropper (1 for a stackable item, 3 for a non-stackable item), so a repeater may be required to boost the signal strength.
+The earliest known publication of a silent dropper BUD was on 18 March 2013, but better designs have been published since.
+
+Dropper QC BUD
+
+1×3×5 (15 block volume)
+1-wide, flush, silent
+circuit delay: 3 ticks
+output pulse: 4 ticks
+Earliest Known Publication: 12 April 2013
+
+Tileable Dropper QC BUD
+
+1×5×5 (25 block volume)
+1-wide, flush, silent, tileable (alternating)
+circuit delay: 3 ticks
+output pulse: 4 ticks
+Earliest Known Publication: 12 April 2013
+
+
+== Dust-Reconfiguration BUD ==
+A dust-reconfiguration BUD (aka "DR-BUD") works by using dust reconfiguration to put other redstone components into an invalid state which will correct itself when updated.
+When redstone dust reconfigures itself due to changing adjacent blocks, it doesn't update its neighbors of the change unless it changed its power level as well. Redstone dust can be reconfigured by moving power components (blocks of redstone or detector rails) or by opaque blocks which cut or allow its connection to other redstone dust.
+
+Dust-Cut DR-BUD
+
+2×5×3 (30 block volume)
+output pulse: 2 ticks
+The repeater is in an invalid state and will change state when updated. The lever is used only to power the dust and make it point towards the repeater while the piston is extended (it shouldn't be activated by a player) -- a block of redstone could be used instead.
+
+Off-Pulse DR-BUD
+
+2×5×2 (20 block volume)
+flat
+output pulse: 2 ticks (off)
+The repeater is in an invalid state and will change state when updated. The lever is used only to power the dust and make it point towards the repeater while the piston retracts (it shouldn't be activated by a player) -- a block of redstone could be used instead.
+
+
+== References ==

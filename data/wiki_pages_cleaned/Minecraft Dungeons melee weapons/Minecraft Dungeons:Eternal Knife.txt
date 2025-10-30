@@ -1,0 +1,25 @@
+The eternal knife is a unique soul knife variant that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Soggy Swamp (Adventure)
+Desert Temple
+Lone Fortress (Adventure, DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+The Seeking Flame
+
+The eternal knife possesses high power, low speed, and low range, and attacks only with single thrusts.
+
+X melee damage
+Thrust attack
+Chance to Gain Souls (Soul Siphon tier I)
++2 Soul gathering
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+Issues relating to "Eternal Knife" are maintained on the bug tracker. Report issues there.

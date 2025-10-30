@@ -1,0 +1,68 @@
+Mushroom fields, commonly referred to as mushroom islands, are rare biomes which always generate as islands surrounded by deep oceans. They are the only place in the game where mycelium and mooshrooms are found, and have the special property that no hostile mobs normally spawn in them.
+
+
+== Description ==
+Mushroom fields generate in areas where the continentalness values are the lowest, meaning they always generate as islands very far away from major landmasses, and are bordered by deep ocean biomes (which have the second-lowest continentalness values) of any temperature. Though in outdated versions, sometimes it connects landmasses. The islands have the occasional tendency to be close to one another, resulting in multiple mushroom fields separated by only a few hundred blocks.
+The mushroom fields generate in usually flat islands and have mycelium instead of grass blocks on the surface. Grass blocks that are placed by the player in this biome take on a bright green color, similar to the grass found in jungles. A large amount of brown and red mushrooms cover the land. It is one of the only biomes, along with swamps‌ and dark forests, where huge mushrooms generate naturally. Sugar cane and grass sometimes generate by the ocean.
+The huge mushrooms generate with a density high enough to be a reliable source of mushroom blocks, but low enough not to significantly obstruct vision. Here, mushrooms can grow in full sunlight. Water is a light gray color in Bedrock Edition. This is the only biome where mooshrooms naturally spawn. Red mooshrooms, bats‌ and glow squids are the only mobs that spawn naturally in this biome; this also applies in caves, mineshafts, and other dark structures under the island, meaning the biome is mostly safe.
+However, monster spawners (found in mineshafts, dungeons, or strongholds) still spawn mobs, raids still can spawn illagers, wandering traders along with trader llamas can still spawn here, and the player can still breed animals, use a fish bucket to spawn fish, and spawn mobs using spawn eggs. Additionally, lightning strikes in this biome still carry the small chance of spawning skeleton traps, and can transform red mooshrooms into brown mooshrooms or vice versa. If the player hasn't slept in three nights, phantoms spawn in the biome as well. Also, lush caves can sometimes generate underground allowing for monsters to spawn naturally.
+The following mobs are naturally spawned here：
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Trivia ==
+The vanilla Mushroom Fields JSON data includes the pumpkin patch feature, but it fails to generate because the pumpkin patch configured feature specifies placement on grass blocks only.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Plains
+Forest
+Ocean
+River
+Beach
+
+
+== References ==

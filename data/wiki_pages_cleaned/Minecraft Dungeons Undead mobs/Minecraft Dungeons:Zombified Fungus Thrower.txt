@@ -1,0 +1,10 @@
+A zombified fungus thrower is an undead fungus thrower variant found within the Flames of the Nether DLC of Minecraft Dungeons.
+
+Zombified fungus throwers possess blue armbands, purple headbands, and leather bags containing blue nethershrooms. Unlike living fungus throwers, however, their leather bag has a small rip running alongside it.
+
+Warped Forest
+Crimson Forest
+
+Zombified fungus throwers are identical to their non-zombified counterparts, able to throw two fungi that explode, leaving behind a poisoning cloud, and then stay a distance, then throw again, except they are slower and deal slightly more damage (Unconfirmed).
+
+In the game files, zombified fungus throwers are referred to internally by the name ZombifiedPiglinFungusThrower.

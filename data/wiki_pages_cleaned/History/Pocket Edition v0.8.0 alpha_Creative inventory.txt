@@ -1,0 +1,1 @@
+This is how the creative inventory was organized in Pocket Edition v0.8.0 alpha. Blocks and items that were added in 0.8.0 are colored purple. Blocks and items that were not legitimately accessible before 0.8.0 are colored red. Blocks and items that were not in it in 0.7.6 are colored green.

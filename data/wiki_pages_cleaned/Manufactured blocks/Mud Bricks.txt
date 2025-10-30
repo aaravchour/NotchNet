@@ -1,0 +1,19 @@
+Mud bricks are a block obtained by crafting 4 packed mud.
+
+Mud Bricks can be obtained by mining it with any pickaxe. When mined using any other tool, it drops nothing.
+
+Mud bricks can be found in trail ruins.
+
+Mud Bricks can be placed under note blocks to produce "bass drum" sounds.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Mud Bricks" are maintained on the bug tracker. Report issues there.
+
+In real life, mud bricks are made with mud mixed together with straw, similar to packed mud in Minecraft, and then heated to increase their toughness. They have a long history of being used as building materials, dating back at least 5,000 years.

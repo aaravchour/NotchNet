@@ -1,0 +1,5 @@
+A potion of Water Breathing is a DLC potion that was added in the Hidden Depths DLC that allows extended time underwater.
+
+It can be dropped by killing random mobs in the Hidden Depths levels.
+
+The potion of Water Breathing grants the player the Water Breathing effect for 30 seconds.

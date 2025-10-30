@@ -1,0 +1,9 @@
+Large rooms hold complex staircases that often lead up to another tower or a loot room.
+
+Materials
+
+All slabs are lower
+
+Materials
+
+All slabs are lower except Layer 5 and Layer 8 where they are higher

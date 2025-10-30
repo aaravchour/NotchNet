@@ -1,0 +1,78 @@
+Cooked porkchop is a food item that can be eaten by the player.
+
+
+== Obtaining ==
+
+Cooked porkchops can be obtained by cooking raw porkchops or by trading with butchers, and is a drop from pigs and hoglins that die while on fire.
+
+
+=== Mob loot ===
+
+
+==== Pigs ====
+Adult pigs drop 1–3 cooked porkchop if killed while on fire. The maximum amount is increased by 1 per level of Looting, for a maximum of 1-6 with Looting III.
+
+
+==== Hoglins ====
+Adult hoglins drop 2–4 cooked porkchop if killed while on fire. The maximum amount is increased by 1 per level of Looting, for a maximum of 7 with Looting III.
+
+
+=== Cooking ===
+Raw porkchop can be cooked in a furnace, smoker, or campfire. Each piece of cooked porkchop removed from a furnace output slot gives 0.35 experience (22.4 experience per stack).
+
+
+=== Trading ===
+In Java Edition, apprentice-level butcher villagers have a 2⁄3 chance of selling 5 cooked porkchop for 1 emerald.
+Butcher villagers may give players with the Hero of the Village effect a cooked porkchop.‌
+In Bedrock Edition, apprentice-level butcher villagers have a 25% chance to sell 5 cooked porkchop for 1 emerald.
+
+
+=== Chest loot ===
+
+
+== Usage ==
+
+
+=== Food ===
+
+To eat cooked porkchop, press and hold use while it is selected in the hotbar. Eating one restores 8 () hunger and 12.8 saturation.
+
+
+=== Wolves ===
+Cooked porkchops can be used to breed and heal tamed wolves, lead them around, and make baby tamed wolves grow up faster by 10% of the remaining time.
+
+
+=== Piglins ===
+Piglins pick up any cooked porkchops in their item form. However, they do not eat it.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Cooked Porkchop" are maintained on the bug tracker. Report issues there.
+
+
+== External Links ==
+Taking Inventory: Porkchop – Minecraft.net on February 13, 2020

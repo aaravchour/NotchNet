@@ -1,0 +1,27 @@
+The spellbound crossbows is a unique dual crossbows variant that can be found within the various missions of Minecraft Dungeons. It is one of the rarest ranged weapons in the game.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Lower Temple (Adventure)
+Windswept Peaks (DLC)
+Abyssal Monument (Apocalypse, DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+?????
+
+The spellbound crossbows acquire moderate power, speed, and ammo capacity.
+
+X ranged damage
+Double Projectiles
+Strong vs Enchanted Mobs (Unchanting tier I)
+
+Quiver: 46
+Fire Rate: 1.44 shots per second (2.88 projectiles per second)
+
+Issues relating to "Spellbound Crossbows" are maintained on the bug tracker. Report issues there.

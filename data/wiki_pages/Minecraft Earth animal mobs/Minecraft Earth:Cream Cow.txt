@@ -1,0 +1,53 @@
+The cream cow was a creamy-colored variant of the cow, exclusively found in Minecraft Earth.
+
+
+== Appearance ==
+Cream cows were a creamy-colored variant of the cow. Its fur was honey-yellow in color, and possessed unique spot and stripe patterns unseen in other cow variants, being persistent and small blotches in a wavy pattern. These spots were white and appeared all throughout its body and legs, appearing as small spots near its hooves and stripes just above them. Unlike normal cows, they possessed blue horns, a light bluish muzzle, and caramel-colored hooves.
+
+
+== Behavior ==
+
+Similar to normal cows, cream cows wandered around, mooing and breathing occasionally. They avoided water, lava, and walking off cliffs high enough to cause fall damage. They fled for a few seconds when harmed.
+
+
+== Obtaining ==
+Cream cows were an uncommon mob drop in cow tappables. They were also obtainable as a reward in Season 17.
+
+
+== Drops ==
+When killed, cream cows dropped:
+
+0-2 Leather
+1-3 Raw Beef (Cooked Beef if killed while on fire)
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Trivia ==
+Before Cream Cows were added, they were referred to in the game files as the Brule Cow.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

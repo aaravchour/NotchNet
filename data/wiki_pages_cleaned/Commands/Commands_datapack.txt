@@ -1,0 +1,21 @@
+Controls the loading/unloading of data packs.
+Note that feature flags can be enabled through data pack only when creating the world. Data packs requiring a feature flag that is not enabled cannot be loaded by this command.
+
+datapack disable <name>
+datapack enable <name>
+Enable the specified pack.
+datapack enable <name> (first|last)
+Load this pack before (lowest priority) or after (highest priority) all others (lowest or highest priority).
+datapack enable <name> (before|after) <existing>
+Load this pack just before (lower priority) or after (higher priority) an existing pack.
+datapack list [available|enabled]
+List all data packs, or list only the available/enabled ones. Hovering over the data packs in the chat output shows their description defined in their pack.mcmeta.
+
+<name>: string
+
+Specifies the name of the data pack.
+Must be a string. And it must be a quotable phrase, which is either a single word (allowed characters: -, +, ., _, A-Z, a-z, and 0-9) or a double-quoted string.
+<existing>: string
+
+Specifies the name of an existing enabled data pack.
+Must be a string. And it must be a quotable phrase, which is either a single word (allowed characters: -, +, ., _, A-Z, a-z, and 0-9) or a double-quoted string.

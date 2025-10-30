@@ -1,0 +1,417 @@
+This guide is intended to show players how to obtain all 80 advancements in Minecraft: Java Edition. Three advancement guides are in need of cleanup. For more information about advancements in general, see the advancement page. For a guide on Bedrock Edition's achievements, see the page Tutorials/Achievement guide.
+
+
+== Basics ==
+Advancements are basically tasks to complete that will help guide you in advancing further into the game. Some of the more advanced advancements will also give you experience as a reward. Advancements are organized into five categories: Minecraft, Nether, The End, Adventure, and Husbandry.
+Even though many advancements have parents and are parents of other advancements, it does not matter which order you complete the advancements; the parents of advancements are just a guide of the easiest order to work through the advancements. For example, the advancement "Husbandry" is the parent of "The Parrots and the Bats", but this does not mean that "Husbandry" must be completed before "The Parrots and the Bats". Each advancement is independent of one another, despite them having parents. For more information, see the advancement page.
+
+
+== Minecraft ==
+
+
+=== Minecraft ===
+The heart and story of the game
+Requirements: Have a crafting table in your inventory.
+Get a crafting table in your inventory to get this advancement. This one is easy, but requires some prerequisites. First, just hold down the attack on a log until it breaks, then collect the dropped block by walking over it.
+Logs are found on trees, which are very easy to find (as long as you didn't start out in an ocean or desert biome). Just look around when you spawn.
+Use the log you just got from the tree and open your inventory. You will see a 2×2 grid near the top right-hand corner; place your wood log in any of those grids. Then, click on the planks that appear to obtain them.
+
+If you turned on a bonus chest when you created your world, there is a good chance that it will contain logs, planks, or both. If you have these, you probably won't need to get any wood to create a crafting table.
+Finally, put one of the four planks you got into each container of your grid (a 2×2 square of planks). You can use to place a single plank into the grid, instead of all four.
+
+Once you have the crafting table in your inventory, you will get the advancement.
+Parent of: Stone Age
+
+
+=== Stone Age ===
+Mine stone with your new pickaxe
+Requirements: Have cobblestone, cobbled deepslate or blackstone in your inventory.
+First, place your crafting table on the ground by holding the crafting table in your hand and use the ground. Follow the crafting recipe below to make sticks (note that this can also be done in your inventory crafting grid):
+
+Now arrange your sticks and some planks in the crafting table to make a wooden pickaxe:
+
+Note that you may need to get more wood in order to have enough to make a wooden pickaxe.
+To get the advancement, you must find stone (which is easy, you don't need to find a cave for this), and mine it with your wooden pickaxe to get cobblestone (stone will become cobblestone if you mine it without a Silk Touch pickaxe). Exposed stone can be found on the sides of hills and in ravines/caves. If you find a cave or ravine, do not go deep into it, because you will encounter mobs (such as zombies and skeletons). 
+If you are in the Nether or below Y = 8, you can also mine blackstone or cobbled deepslate to get this advancement although the chances of you getting to the Nether or finding a deepslate blob without picking up any cobblestone are very slim. Blackstone is located in the basalt deltas biome. You may also find blackstone in other biomes near the lava ocean.
+Parent of: Getting an Upgrade
+
+
+=== Getting an Upgrade ===
+Construct a better pickaxe
+Requirements: Have a stone pickaxe in your inventory.
+You need to make a stone pickaxe to get this advancement. Using your wooden pickaxe, mine three stone blocks so you have three cobblestone blocks. If you are deep underground, you can also mine deepslate which turns into cobbled deepslate, which is suitable for crafting.
+If you are in the Nether, you can also make a stone pickaxe using blackstone. Blackstone is located in the basalt deltas biome. You may also find blackstone in other biomes near the lava ocean.
+Now arrange your sticks and cobblestone/blackstone /deepslate blocks in the crafting table to make a stone pickaxe:
+
+Stone pickaxe also spawn in bonus chest, bought by novice-level toolsmith villagers, or by toolsmith villager gifts.
+Parent of: Acquire Hardware
+
+
+=== Acquire Hardware ===
+Smelt an iron ingot
+Requirements: Have an iron ingot in your inventory.
+The intended method for attaining this advancement is to find iron ore. Iron ore is found at almost any height in the world, but is most common at altitudes 15 to 232. It does not generate at all between layers 73 to 79, so you shouldn't look there for it. The two main ways to find iron ore are to find it in a cave, or to find it in an exposed stone surface either on the ground or in the side of a hill/mountain. Because caves often have monsters in them, they are not recommended to go into until you have some armor and weapons, so finding an exposed surface in the ground with iron in it is much safer. If you find iron in the side of a hill, you may need to place blocks to make a tower or staircase up to it, especially if the hill is very high. If there are no caves or exposed stone surfaces near you, you could start a mineshaft. If you are feeling very daring and adventurous, make a stone sword and a few torches, and go ahead and search a cave. Torches can be made once you find coal, which is spawn very common in level 0 to 320 in the Overworld. You can also smelt the log to make charcoal, which can turn into torches. The way turn make furnace and smelt will be below. The torch recipe will be below. You can usually find iron in caves very quickly, because the walls of the caves will expose a lot of blocks.
+
+If you are lucky, you can find iron ingots in chests in village blacksmiths, armorer's house, toolsmith's house; desert temples, dungeons, mineshafts, jungle pyramids, shipwrecks, buried treasures, pillager outpost, woodland mansion, stronghold, nether fortress, bastion, and end city. Iron nuggets can also spawn in ruined portals, bastions, shipwrecks, and village taiga houses, which if you have 9 iron nuggets could be turn into 1 iron ingot.
+
+Bastion can also generate block of iron, which can turn into 9 iron ingot.
+
+Once you find iron ore, mine it with your stone pickaxe (don't mine it with a wooden pickaxe since it won't drop anything). It will drop raw iron (unless you mined it with the Silk Touch enchantment, in which case it will drop an iron ore). Block of raw iron can also generate in ore vein, which can turn into 9 raw iron.
+
+Then make a furnace using cobblestone, blackstone, and cobbled deepslate and put the raw iron or iron ore in it along with a fuel source, such as log, planks, or coal. After 10 seconds, it yields an iron ingot.
+
+Iron golem can spawn in villages, and pillager outpost; which when kill drops 3-5 iron ingot. Zombie, husk and zombie villager also have a chance to drops 1 iron ingot. Iron nugget also can be obtain by smelt an iron tools, weapon, armor, horse armor, or a chainmail armor; and by bartering. The way to get gold ingot will be below.
+
+You will get the advancement once you transfer the iron ingot from the furnace to your inventory. Iron ingots can further be made into many useful tools, weapons, and armor.
+Parent of: Suit Up | Hot Stuff | Isn't It Iron Pick
+
+
+=== Suit Up ===
+Protect yourself with a piece of iron armor
+Requirements: Have any type of iron armor in your inventory.
+You need to collect at least four iron ingots.
+Arrange the iron ingots in the crafting table to make at least one piece of the following armor:
+
+Iron armors can also spawn in chest in village armorer's house, and blacksmith; ancient city, stronghold, and end city; in armor stand in taiga village outdoor armory; by having a small chance to drop when killing zombie, husk, drowned, zombie villager, skeleton, or stray; can be bought from armorer villagers, or by bartering.
+You will get the advancement when you put one of the pieces of armor in your inventory.
+Parent of: Not Today, Thank You
+
+
+=== Hot Stuff ===
+Fill a bucket with lava
+Requirements: Have a lava bucket in your inventory.
+Gather 3 iron ingots, and arrange them in the crafting table to make a bucket:
+
+Bucket can also be found in chests in savanna village houses, monster rooms, and woodland mansions. Water bucket can also be found in village fisherman's houses. Bucket of aquatic mob can also bought from novice-level fisherman villagers and from wandering traders.
+Now, all you have to do is find lava and use your bucket to fill it up. Lava lakes can be found rarely on the surface in the Overworld, and sometimes underground above Y=0. They often light the surrounding grass and trees on fire, which makes them easy to spot from a distance, especially at night. However, lava is most common at Y=-55 and below, where it fills all of the caves in place of air. If you are in the Nether, getting lava can be very easy because it is found in the lava sea there. If you are high up in the Nether, getting down to the lava ocean could be quite difficult though. Lava can also generate as a spring block in both Overworld and the Nether, or spawn in village blacksmith, ruined portal, nether fortress, bastion, woodland mansion, stronghold, and delta.
+Notice that you have to use the bucket on the source of lava. Normally, if the lava you see is not flowing, you can use the bucket anywhere, because every block of lava is a source block. But if you see a stream of flowing lava, you have to trace the lava flow to its source, and use the bucket on it.
+Parent of: Ice Bucket Challenge
+
+
+=== Isn't It Iron Pick ===
+Upgrade your pickaxe
+Requirements: Have an iron pickaxe in your inventory.
+This advancement can be achieved by making an iron pickaxe, which requires 3 iron ingots.
+Arrange the iron ingots and 2 sticks in the crafting table to make the iron pickaxe:
+
+Iron pickaxe can also spawn in mineshafts; village blacksmith, and toolsmith's chest; and end city; or trade from journeyman-level toolsmith villagers.
+Parent of: Diamonds!
+
+
+=== Not Today, Thank You ===
+Deflect a projectile with a shield
+Requirements: Block an incoming projectile using a shield.
+First, you need to craft a shield:
+
+Then you need to find a skeleton, a pillager, a stray, a shulker, a blaze, a drowned with a trident, another player to help you, or anything else that fires projectiles. Holding the shield in either hand, hold use, and let the projectile shoot toward you. The shield should block it (except if an arrow was shot from a crossbow with Piercing), therefore rewarding you the advancement.
+
+
+=== Ice Bucket Challenge ===
+Obtain a block of obsidian
+Requirements: Have an obsidian block in your inventory.
+Use three diamonds to make a diamond pickaxe:
+
+Diamond pickaxe can also spawn in bastion and end city.
+You also need a bucket of water: find a water source and use it with your bucket.
+Next, you need to go down to the bottom of a cave, at below Y-level 11. Find a lava lake (you cannot use flowing lava, or else it will become cobblestone) or any structures that have lava, and pour the bucket of water next to the lava. An alternative method is to find a flat biome (plains, desert, etc.) and search for a lava lake there, and do the same thing. The water should flow onto the lava, turning it into obsidian. If you find naturally occurring obsidian, that works as well. Mine the obsidian with your diamond pickaxe, and pick it up. Note: This doesn't work in the Nether, since water vaporizes in the Nether.
+Obsidian can also in the chest in village blacksmith, ruined portal, nether fortress, and bastion; as a block in ruined portal, woodland mansion, ocean ruins, end spike, obsidian platform, and end ship; and by bartering.
+Parent of: We Need to Go Deeper
+
+
+=== Diamonds! ===
+Acquire diamonds
+Requirements: Have a diamond in your inventory.
+Get a diamond in your inventory to get this advancement. 
+First of all, you must find diamond ore. Diamond ores are very rare, but by either branch mining deep down in the world or exploring caves that go very low, you will eventually find one. Diamond ore generate below level 15, most commonly between level -50 and -64. Mine it with your iron pickaxe, and collect the dropped diamond.
+Diamonds can also spawn in village blacksmith, toolsmith's house; shipwrecks, desert temple, jungle pyramid, mineshafts, buried treasure, and end city. Block of diamond can also generate in woodland mansion, which can be turn into 9 diamonds.
+
+Parent of: Cover Me With Diamonds | Enchanter
+
+
+=== We Need to Go Deeper ===
+Build, light, and enter a Nether Portal
+Requirements: Enter the Nether dimension.
+First of all, you will need to build a nether portal, or find a ruined portal and fix it. To make a portal, you need at least 10 obsidian. Make your portal using the obsidian like so (build it upright, or else it will not work): 
+
+Budget version
+Alternatively, you could build it like this, but it uses more obsidian:
+
+Full version
+If you find a ruined portal, you wouldn't need to build an entire portal on your own, but you do need to fix it up to be complete. Depending on how broken (and large) the ruined portal is, it might be easier to fix it than to make your own, but it could also be a lot harder, making it not worth to try fixing. To fix a ruined portal, you need to mine any crying obsidian in the portal (except for the corners because these don't count) with a diamond pickaxe, then complete the portal by placing regular obsidian in the gaps. There is a chest near the portal that may contain some obsidian to help you with this, but it's likely that you will have to get some on your own anyway. The chest also may contain a fire charge or flint and steel, which is very useful because this will light the portal, even if you can't fix the ruined portal and decide to make your own.
+Now you need a way to light the portal to activate it. This could be a flint and steel or a fire charge. If you don't have either of these, you need to get an iron ingot and a piece of flint and place these anywhere in your 2×2 crafting grid to make a flint and steel.
+
+Flint can be obtain by breaking gravel, or generate in village fletcher's house, and ruined portal. Light your portal by using the flint and steel or fire charge on the top surface of one of the bottom blocks. You can also light the nether portal using lava next to flammable blocks, or lightning. If the portal doesn't light up, make sure that it is complete and the correct size, does not contain any crying obsidian (only regular obsidian), and does not have blocks inside the frame, then try again. Your portal will now look like this:
+
+Or like this:
+
+Once you stand inside the portal for a few seconds, you will be teleported to the Nether and you will get the advancement. If you are not prepared to go into the Nether, go back to the Overworld the moment you set foot in the Nether. To return, step out of the portal and step back in again.
+Parent of: Zombie Doctor | Eye Spy
+
+
+=== Cover Me With Diamonds ===
+Diamond armor saves lives
+Requirements: Have any type of diamond armor in your inventory.
+Craft any piece of diamond armor. You will need to collect at least four diamonds.
+
+Diamond armor can also spawn in bastion, end city, woodland mansion, and ancient city; by having a super small chance to drop when killing zombie, husk, zombie villager, skeleton, or stray; or can be bought from armorer villagers.
+Once you have one of those four pieces of diamond armor in your inventory, you will be rewarded the advancement.
+
+
+=== Enchanter ===
+Enchant an item at an Enchanting Table
+Requirements: Enchant an item at an enchanting table.
+To get this advancement, you must build an enchanting table and enchant an item:
+
+To obtain books, you need to have a leather and 3 papers. Leather can be obtain by killing cows, mooshrooms, horses, donkeys, mules, llamas, trader llamas, hoglins, and foxes (a fox can sometimes spawn holding a leather, which always drops upon death); by fishing, by bartering with piglins, or by crafting from 4 rabbit hide.
+
+Rabbit hide can be obtain by killing rabbits, foxes (a fox can sometimes spawn holding a rabbit hide, which always drops upon death); or by cat gifts. Leather also spawn in village tanner's house, and bastion. Paper can be obtain by crafting from 3 sugar cane.
+
+Sugar cane can generate naturally near water. Paper can also generate in village cartographer's house, shipwreck, and stronghold library. When you have enough materials, you can make a book.
+
+A bookshelf drops 3 books without using Silk Touch. Bookshelves generate as a block in village library houses, woodland mansions, and stronghold libraries. Book can also be obtain by disenchanting an enchanted book at a grindstone. And finally, book can generate in village plains and desert house, shipwreck, stronghold library, and ancient city. Now when you have a book, you make an enchanting table.
+To enchant, you will need a tool, weapon, or a piece of armor. You will also need between 1 and 3 lapis lazulis, which can be found in ore form between levels -64 and 64, being much more common in underwater caves than in dry caves. Lapis can also be found in item form in desert village temples, mineshafts, and shipwrecks. A block of lapis lazuli can generate in a woodland mansion, which can be turned into 9 lapis lazulis.
+
+Also, make sure you have plenty of experience levels, as you will need them to enchant an item.
+
+
+=== Zombie Doctor ===
+Weaken and then cure a Zombie Villager
+Requirements: Turn a zombie villager into a villager.
+Throw a splash potion of Weakness at a zombie villager and give it a golden apple (by facing the zombie and pressing the use key with a golden apple in your hand). Then, wait a few minutes. Don't let the zombie burn in the daylight. You can do this by having something blocking the zombie overhead, giving it Fire Resistance, or a helmet to keep the zombie from burning. Alternatively, you can do this at night.
+First, you need to have a brewing stand. To make a brewing stand, you need to have 1 blaze rod and 3 cobblestone, blackstone, and cobbled deepslate. To obtain blaze rod, you need to kill blaze, this is the only way to obtain blaze rod. Blaze rod not only use to craft brewing stand but also use as a fuel of brewing stand. Just turn a blaze rod into blaze powder.
+
+Now you need to craft a brewing stand.
+
+Brewing stand also generate as a block in village church, igloos, and end ship.
+Next to brew a splash potion of Weakness, you will first need a fermented spider eye:
+
+Spider eye drops from killing spiders, cave spiders, and witches; from generate in desert temple. Sugar can be crafted from sugar cane and honey bottle. The way to obtain honey bottle will be below.
+
+Sugar can also drops from witches. Brown mushroom generate in the dark in the Overworld, in swamp, old growth taiga, and mushroom fields biome; and generate almost everywhere in the Nether. Brown mushroom also generate in woodland mansion. Brown mushroom can also drops from brown mushroom block, which generate in huge mushroom. Huge mushroom generate in dark forest and mushroom fields biome.
+Next, you need to have a water bottle. To have a water bottle, to use a glass bottle in the main hand or in the off hand on water. Glass bottles can be obtained by crafting, drinking potion or honey bottle, fishing, or from witch drops. To craft glass bottles, you need to have 3 glass (not stained glass). Glass obtain from smelting sand, or red sand, which is generate in desert, badlands, beach; disk near river, pond; in the ocean floor, in warm ocean ruin, desert village, generate in chest in desert temple, or trade by wandering trader. Glass also generate in woodland mansion and ancient city. You need to have Silk Touch to obtain glass otherwise, it drops nothing.
+
+Water bottles can also obtain by fishing or bartering.
+The following steps are performed in the brewing stand.
+
+To turn a potion of Weakness to splash potion of Weakness. You need to have a gunpowder, which is drops from killing creepers, ghasts, and witches. Gunpowder also generate in dungeon, desert temple, shipwreck, and woodland mansion. So now, back to the brewing section:
+
+For more information about brewing, see the pages "Potion" and "Brewing".
+Splash Potion of Weakness also generate in brewing stand in igloo. Witches also throw splash potion of weakness if somehow you can't go to the Nether or don't spawn near the igloo. Moreover, zombie villager also spawn in igloo.
+Alternatively, you can shoot the zombie villager with an arrow of Weakness. It can be crafted by 8 arrow and 1 Lingering Potion of Weakness (the way to obtain arrow and dragon's breath will be below), but it's hard to obtain dragon's breath. The easier way to obtain it is to buy it from master-level fletcher villagers.
+
+You can craft a golden apple using 1 apple and 8 gold ingots.
+
+Apple drops from oak leaves and dark oak leaves, which generate in oak and dark oak tree. Dark oak leaves also generate in woodland mansion. Apple also generate in village plains house and blacksmith, igloo, bonus chest and stronghold. Apprentice-level farmer villagers selling 4 apples for 1 emerald. Gold ingot can be obtain by smelting raw gold, gold ore and nether gold ore.
+
+Gold ore generate from level -64 to 32 in Overworld. It drops 1 raw gold without Silk Touch, and itself with Silk Touch. Nether gold ore generate from level 10 to 117 in the Nether. It drops 2-6 gold nugget without Silk Touch, and itself with Silk Touch. Gilded blackstone also have a chance to drops 2-5 gold nuggets, which generate both in chest and as a block in bastion. Zombified piglin also drops both the gold ingot and the gold nugget. Gold nuggets also can be obtain by smelt gold tools, weapon, armor and horse armor.
+
+Gold nugget also in village plains and savanna house, igloo, ruined portal, shipwreck, ocean ruins, and bastion. If you have enough 9 gold nuggets, you can make 1 gold ingot.
+
+Block of gold also generate as a block in ocean monument, ruined portal, and bastion; in the chest in bastion and ruined portal, which can be turn into 9 gold ingot.
+
+Gold ingot also generate in village blacksmith, toolsmith's and temple house; dungeon, mineshaft, buried treasure, bastion, desert temple, end city, jungle pyramid, nether fortress, ruined portal, shipwreck, stronghold, woodland mansion, and end city.
+Golden apple also generate in dungeon, mineshaft, bastion, desert temple, igloo, ancient city, ruined portal, stronghold, ocean ruins, and woodland mansion.
+Once the zombie villager turns into a villager, you will be rewarded the advancement.
+
+
+=== Eye Spy ===
+Follow an Eye of Ender
+Requirements: Enter a stronghold.
+Enter a stronghold to get this advancement. Strongholds can be found by using eyes of ender. Eye of ender can be craft using 1 ender pearl and 1 blaze powder. Ender pearl can be obtain by killing endermen, bartering, trading with expert-level cleric villagers, or can be found in "fake end portal" room of woodland mansions. A very feasible way to obtain ender pearls in early game is to find a warped forest biome in the Nether, and kill as many endermen there as possible. Blaze powder is crafted from blaze rods, which only drop from blazes; this means you will have to find a nether fortress and kill a few blazes to obtain their rods.
+Although the player usually needs 10-12 eyes of ender to activate the end portal, much less are needed to find a stronghold. Usually, 4 eyes of ender is a good amount to start, given that the player doesn't throw the eyes too often and lose all of them before reaching the strnghold. 
+Use to throw eyes of ender up in the air and following which direction they go. When you throw them and they go into the ground, dig where they went underground, until you reach stone bricks, which is the stronghold.
+
+For more tips on finding the stronghold, see this part of the tutorial on defeating the ender dragon.
+Parent of: The End?
+
+
+=== The End? ===
+Enter the End portal.
+Requirements: Enter the End dimension.
+Jump into an end portal, which is found in end portal rooms in strongholds. You may need to fill the eye into the end portal to go to the End, which mean you need a maximum of 12 eyes of ender to go to the End. Ender pearl also spawn in stronghold chest, which can turn into eye of ender and can fill the end portal. When you go to the End, you will get the advancement before the actual terrain loads. Once the End's terrain loads, you will get "The End" advancement (the difference is the question mark). Make sure you come prepared before going to the End, because the only way out is to either defeat the ender dragon, or die in the attempt. In Hardcore mode, to beat the ender dragon, you must not die otherwise you cannot respawn.
+
+
+== Nether ==
+
+
+=== Nether ===
+
+Bring Summer Clothes
+Requirements: Enter the Nether dimension.
+To get this advancement, you will need to enter the Nether dimension. Do this by walking into a nether portal, and then you will appear in the Nether.
+Parent of: Return to Sender | Those Were the Days | Hidden in the Depths | Subspace Bubble | A Terrible Fortress | Who is Cutting Onions? | Oh Shiny | This Boat Has Legs
+
+
+=== Return to Sender ===
+Destroy a Ghast with a fireball
+Requirements: Kill a ghast with a ghast fireball. Other fireballs do not work.
+Kill a ghast using its own fireball to get this advancement. When a ghast shoots a fireball at you, wait until it comes towards you, and then attack the fireball to send it flying back to the ghast and kill it. The reflected fireball will roughly go in the direction the player's crosshair is pointing in, so the player can aim at the position where the ghast is about to fly to.
+To reflect the fireball without endangering themselves too much, the player should face the fireball, stand slightly to the side, and start spam-clicking the attack button as the fireball comes close. The fireball can be attacked slightly outside its hitbox, so even if the player fails to hit the fireball, it flies past the player without hitting them. The spam-clicking is beneficial because the time window to hit the fireball is very short, and that the fireball can be reflected regardless of attack cooldown.
+The above method is, however, very dangerous for unskilled players. A safer method is to shoot a projectile, such as an arrow or a snowball, at the fireball.
+Completing this advancement will reward the player 50 experience.
+Parent of: Uneasy Alliance
+
+
+=== Those Were the Days ===
+Enter a Bastion Remnant
+Requirements: Go inside a bastion remnant.
+To get this advancement, the player needs to enter a bastion remnant. They are hard to miss, since they are enormous and made of blackstone (and all of its variants). Bastion remnants spawn in every biome in the Nether except for the basalt deltas. When you enter the bastion, you will be rewarded the advancement.
+Parent of: War Pigs
+
+
+=== Hidden in the Depths ===
+Obtain Ancient Debris
+Requirements: Have ancient debris in your inventory.
+In order to get this advancement, the player must find ancient debris. It can be found in the Nether, at levels 8 to 119 and mainly at levels 8 to 22. On average, level 15 has the most ancient debris. Ancient debris can also rarely found in chests in bastion remnants. To mine it, you need a diamond pickaxe or better. Once you have the ancient debris in your inventory, you will be rewarded the advancement. Ancient debris also generate in bastion. For a tutorial on how to find ancient debris, see the pages "Ancient Debris" and "Tutorials/Ancient Debris".
+Parent of: Country Lode, Take Me Home | Cover Me in Debris
+
+
+=== Subspace Bubble ===
+Use the Nether to travel 7 km in the Overworld
+Requirements: Travel at least 875 blocks horizontally from your original nether portal in the Nether, and then create and enter another nether portal in that location.
+To get this advancement, you will need to use the Nether to travel between two points in the Overworld with a minimum horizontal distance of 7000 blocks between each other. 
+Horizontal distances are scaled down in the Nether by a ratio of 8:1 for travel in the Nether. This essentially means that for every one block you travel in the Nether, you travel eight blocks in the Overworld. This also means that you must travel at least 875 blocks in the Nether in order to travel 7000 blocks in the Overworld.
+Completing this advancement will reward the player 100 experience.
+
+
+=== A Terrible Fortress ===
+Break your way into a Nether Fortress
+Requirements: Enter a nether fortress.
+Enter a nether fortress to get this advancement. Look for a dark brown structure with many rooms, hallways and pillars, made of nether bricks. Sometimes one may have to travel a long way in the Nether in order to find a nether fortress.
+For tips on finding a nether fortress, see this part of the tutorial on defeating a nether fortress.
+Parent of: Spooky Scary Skeleton | Into Fire
+
+
+=== Who is Cutting Onions? ===
+Obtain Crying Obsidian
+Requirements: Have crying obsidian in your inventory.
+To get this advancement, you will need to obtain crying obsidian. Crying obsidian can be obtained from bartering with piglins, from finding it as part of ruined portals, or from loot chests in bastion remnants. You will need a diamond pickaxe or better to mine it. Once you have the crying obsidian in your inventory, you will be rewarded the advancement.
+Parent of: Not Quite "Nine" Lives
+
+
+=== Oh Shiny ===
+Distract Piglins with gold
+Requirements: Throw a gold-related item at a piglin while not wearing golden armor.
+To complete this advancement, you will first need to get a piglin to become aggressive toward you (it must not be a baby piglin) while you are not wearing any golden armor. Attacking the piglin while wearing any golden armor will not trigger the advancement. Then, you have to either throw or use one of the following items item at the piglin:
+
+Bell
+Block of Gold
+Block of Raw Gold
+Clock
+Deepslate Gold Ore
+Enchanted Golden Apple
+Gilded Blackstone
+Glistering Melon Slice
+Gold Ingot
+Gold Ore
+Golden Apple
+Golden Axe
+Golden Boots
+Golden Carrot
+Golden Chestplate
+Golden Helmet
+Golden Hoe
+Golden Horse Armor
+Golden Leggings
+Golden Pickaxe
+Golden Shovel
+Golden Sword
+Light Weighted Pressure Plate
+Nether Gold Ore
+Raw Gold
+Any other items, even if they are gold-related, will not unlock this advancement.
+Once the piglin gets the item, you will be rewarded the advancement.
+
+
+=== This Boat Has Legs ===
+Ride a Strider with a Warped Fungus on a Stick
+Requirements: Ride and boost a strider with a warped fungus on a stick.
+To get this advancement, you will need two items: a warped fungus on a stick and a saddle. A warped fungus on a stick can be crafted using the recipes below. A saddle can be found in loot chests, from fishing, or it can be obtained by trading with master-level leatherworker villagers.
+
+Once you have those items, you have to find a strider. They can be found in the lava seas and lakes throughout the Nether. Because of this, you may have to bridge across a sea of lava to get to the strider. If you are in the endgame and have an elytra, you can fly to a body of lava and find some striders easily. Alternatively, you could attract them with warped fungus.
+Once you have a strider in range of you, use it with the saddle to saddle it. If there is a zombified piglin or a baby strider on top of the strider, then you will have to choose a different strider. However, zombified piglins are good, because the strider which is riding the zombified piglin will have a saddle already equipped on it. There is a 1 in 30 chance of a zombified piglin riding a strider. If that is the case, try killing the zombified piglin. Then, you will have an already saddled strider. 
+Afterwards, use the strider to ride it. Then, select the warped fungus on a stick and ride the strider. Then, once again use the warped fungus on a stick to boost the strider. This will use up one durability on your warped fungus on a stick. Once you have boosted the strider, you should be rewarded the advancement.
+Parent of: Hot Tourist Destinations | Feels Like Home
+
+
+=== Uneasy Alliance ===
+Rescue a ghast from the Nether, bring it safely home to the Overworld... and then kill it
+Requirements: Kill a ghast in the Overworld.
+This advancement is rather difficult. The hardest part is getting the ghast through a nether portal. Soul sand valley biomes are the best places to get the ghast but the amount of skeletons might be dangerous.
+The first step is building the biggest nether portal possible (23x23). Before attempting to move the ghast through it you should enter the portal to load the chunks and remove any block which might suffocate the ghast. Then you can use fishing rods (prepare a lot of them because they break really fast) to move a ghast through the portal. Keep a flint and steel in the hotbar in case the ghast breaks the portal. Elytra and fire resistance potions are not necessary but really helpful.
+Once the ghast is in the Overworld, you will have to kill it. Once you have successfully killed the ghast, you will be rewarded the advancement.
+Completing this advancement will reward the player 100 experience.
+
+
+=== War Pigs ===
+Loot a chest in a Bastion Remnant
+Requirements: Open a chest in a bastion remnant.
+For this advancement, the player needs to enter a bastion remnant and find a chest. Then, open the chest. The advancement will be rewarded as soon as you open the chest.
+However, it should be noted that any nearby piglins that can see you will attack you when you open the chest. So to safely open the chest, you should either find a chest with no piglins around, or block the piglins off so they can't get to you.
+
+
+=== Country Lode, Take Me Home ===
+Use a compass on a Lodestone
+Requirements: Use a compass on a lodestone.
+To complete this advancement, you will need a lodestone. To obtain a lodestone, you can craft one with an iron ingot and chiseled stone bricks.
+
+One lodestone always generates in the bridge chest in the bridge bastion remnant. Lodestones can also be found in Ruined Portal chest loot.
+Once you have your lodestone, you need to get a compass. Once you have your compass, place the lodestone and use it with the compass. The advancement will be rewarded to you as soon as you use the compass on the lodestone.
+
+
+=== Cover Me in Debris ===
+Get a full suit of Netherite armor
+Requirements: Have every piece of netherite armor in your inventory.
+To get this advancement, you will need a full set of netherite armor. To first acquire this, you will need a full set of diamond armor, four netherite ingots, a smithing table, and four netherite upgrade smithing templates.
+Netherite ingots and diamond gear can be crafted or found in bastion remnant chests. Diamond gear can also be obtained by trading with villagers, killing mobs for drops (rarely), and it can also generate in end city and woodland mansion chests. Smithing tables can also naturally generate in toolsmith houses in villages. Netherite upgrade smithing templates can be found in bastion remnant chests but guaranteed only in treasure rooms there. Alternatively, given seven diamonds and a netherrack, they can be duplicated in the crafting table.
+
+You can then place down your smithing table and make a full set of netherite armor:
+Once you make all of the armor, you will be rewarded the advancement.
+Completing this advancement will reward the player 100 experience.
+
+
+=== Spooky Scary Skeleton ===
+Obtain a Wither Skeleton's skull
+Requirements: Have a wither skeleton skull in your inventory.
+Get a wither skeleton skull. Wither skeletons, found in nether fortresses, have a small chance of dropping one upon death. Wither skeletons have a 2.5% chance of dropping their skull, a 3.5% chance of dropping with Looting I, a 4.5% chance with Looting II, and a 5.5% chance with Looting III.
+Once you have obtained the skull, you will be rewarded the advancement.
+Parent of: Withering Heights
+
+
+=== Into Fire ===
+Relieve a Blaze of its rod
+Requirements: Have a blaze rod in your inventory.
+Acquire a blaze rod in your inventory to earn this advancement. A blaze may drop a blaze rod when killed by the player. When you have obtained the blaze rod, you will get the advancement.
+Parent of: Local Brewery
+
+
+=== Not Quite "Nine" Lives ===
+Charge a Respawn Anchor to the maximum
+Requirements: Charge a respawn anchor with glowstone four times (to the limit).
+To complete this advancement, you will need a respawn anchor. To make a respawn anchor, you need 6 blocks of crying obsidian and 7 blocks of glowstone.
+
+Then, place your respawn anchor and use glowstone on it four times to fully charge the respawn anchor, and you will get the advancement.
+It is strongly recommended that this is performed in the Nether dimension. Although respawn anchors can be charged in the Overworld and the End, the moment you click on a charged respawn anchor, it will explode.
+
+
+=== Feels Like Home ===
+ Take a Strider for a loooong ride on a lava lake in the Overworld
+Requirements: While riding a strider, travel 50 blocks on lava in the Overworld.
+To complete this advancement, you must bring a strider to the Overworld. You can get the strider to follow you into a nether portal by holding a warped fungus, or ride it into a nether portal then dismount it, and the strider will be transported to the Overworld. Make sure that there is no water or rain on the Overworld side, as the strider takes damage from them.
+After the strider is in the Overworld, you need to ride it continuously on lava until you're 50 blocks from where you started. The lava can either be a natural lava aquifer, or a long lava track you made yourself. Because this advancement only accounts for horizontal displacement, going in a circle for more than 50 blocks doesn't count. Once you're horizontally 50 blocks away from where you mounted the strider, you are granted the advancement.
+
+
+=== Hot Tourist Destinations ===
+Explore all Nether biomes
+Requirements: Find every biome in the Nether.
+This advancement is achieved by setting foot in all five biomes in the Nether: the basalt deltas, the crimson forest, the nether wastes, the soul sand valley, and the warped forest.
+If you go to the advancement tab, you can see a progress bar, showing how many of the five biomes you have visited. However, it does not show which of the five biomes have been visited. 
+A way to check which biomes a player has visited is introduced in the "Adventuring Time" section, which also applies to this advancement; the only difference is that the entry to look for is minecraft:nether/explore_nether.
+Once you have entered all of these biomes, you will be rewarded the advancement.
+Completing this advancement will reward the player 500 experience.
+
+
+=== Withering Heights ===
+Summon the Wither
+Requirements: Be in a 101×101×104 (approximate) range from a wither when the wither explodes.
+Summon the wither. Place 4 soul sand or soul soil in a T shape, in any direction, and place 3 wither skeleton skulls on the line of 3 soul sand/soul soil.

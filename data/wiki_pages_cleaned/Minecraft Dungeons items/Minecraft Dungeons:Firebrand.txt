@@ -1,0 +1,29 @@
+The firebrand is a unique axe variant that can be found within the various missions of Minecraft Dungeons. It is commonly used by red piglins and zombified piglins.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Creeper Woods
+Highblock Halls
+Overgrown Temple (DLC)
+Colossal Rampart (DLC, Adventure)
+Tower
+Merchants
+Gift Wrapper
+Luxury Merchant
+Mystery Merchant
+Piglin Merchant
+Ancients
+The Seeking Flame
+
+The firebrand possesses moderate power, low speed, and moderate area. It has a combo consisting of two slashes, and one stronger spin attack. The first two hits deal minimum damage, while the third hit deals maximum damage.
+
+X melee damage
+Spin attack move
+Burns Mobs (Fire Aspect tier I)
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+In the game files, the firebrand is referred to internally by the name Axe_Unique1.
+
+Issues relating to "Firebrand" are maintained on the bug tracker. Report issues there.

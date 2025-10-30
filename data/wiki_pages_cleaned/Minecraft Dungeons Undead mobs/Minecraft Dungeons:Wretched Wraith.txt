@@ -1,0 +1,62 @@
+The wretched wraith is the undead wraith boss variant that can be found within the various missions of Minecraft Dungeons.
+
+The wretched wraith was once a normal wraith that dwelled within the grand chamber of a lonely fortress located on the island where the Creeping Winter takes place. After the shattering of the orb of dominance, one of the the shards of the orb landed on the island. It was found by the wraith in the grand chamber. As a result of the shards corruption, the wraith became colder and more powerful. The wretched wraith gained abilities to proceed to cover the entire island in snow and a creeping winter that devastated the local villagers living on the once-prosperous island.
+Upon reaching the grand chamber of the lone fortress, the hero comes across an icy crown with the shard on a pedestal. Attempting to take it causes the Wretched Wraith to rise up and grab the crown. It then tries to fend off the hero. Once it is defeated, the shard inside its crown shatters and the wretched wraith picks it up and shakes it. Upon realizing that the shard is gone, the wretched wraith screams as beams of light shine on it, ending its undead existence. The crown then falls to the ground and cannot be interacted with. The hero then leaves the fortress, knowing the land can now recover from the wraith's icy grip.
+
+The wretched wraith is an unusually large, oversized wraith with small purple markings around its glowing eyes, glowing mouth, and tattered hood. It also has frost-coated hands and shoulders. An icy crown-like formation with a shard of the orb of dominance floating above it. It is the smallest DLC boss mob in the game.
+
+Frozen Fjord (Arcade)
+Lone Fortress (Boss)
+Tower (Boss)
+
+The wretched wraith has five different behaviors. In between them, it randomly hovers and teleports around the arena.
+
+Basic attack
+The wretched wraith uses its melee attack to knock the hero back, then it teleports away.
+
+Ghostfire
+The wretched wraith moves one of its arms and simply fires a fast-moving icy projectile toward the hero.
+
+Row projectile attack
+The wretched wraith teleports to one side of the arena, becomes invulnerable to damage and fires rows of many pink projectiles (five for spread and eight for cone per second) that cover both sides of the arena, and also projectiles in the middle.
+
+Vulnerable stun
+The wretched wraith may become stunned for five seconds after taking damage and does not move or attack. Its defense is also reduced by 60% during this.
+
+Summon minions
+The wretched wraith summons either two strays and one wraith or one wraith, one stray, one icy creeper and one frozen zombie.
+
+The Wretched Wraith has 11,000 HP in the code. On Default I, all mobs have 9.6% health and 12% damage of what is set in the code. This is the second health of all bosses than the Redstone Monstrosity.
+
+Armor
+Champion's Armor
+Hero's Armor
+Plate Armor
+Full Metal Armor
+Snow Armor
+Frost Armor
+Soul Robe
+Souldancer Robe
+Artifacts
+Ice Wand
+Torment Quiver
+Totem of Shielding
+Melee Weapons
+Glaive (Daily Trial)
+Grave Bane (Daily Trial)
+Venom Glaive (Daily Trial)
+Soul Knife
+Eternal Knife
+Truthseeker
+Ranged Weapons
+Heavy Crossbow
+Doom Crossbow
+Slayer Crossbow
+Rapid Crossbow
+Auto Crossbow
+Butterfly Crossbow
+Scatter Crossbow
+Harp Crossbow
+Lightning Harp Crossbow
+
+In the game files, the wretched wraith is referred to internally by the name WickedWraith.

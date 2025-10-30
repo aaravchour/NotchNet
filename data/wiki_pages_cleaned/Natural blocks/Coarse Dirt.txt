@@ -1,0 +1,34 @@
+Coarse dirt is a variation of dirt on which grass block cannot spread.
+
+Coarse dirt drops itself as an item when mined using any tool or by hand, but a shovel is the quickest.
+
+Coarse dirt can be found as large patches in the windswept savanna, wooded badlands, and two variants of old growth taiga biomes. 
+It also generates in mushroom farm rooms in woodland mansions and in trail ruins.
+
+An enderman holding coarse dirt drops the block upon death.
+
+Coarse dirt has the ability to grow saplings, sugar canes, mushrooms, bamboo, flowers, and sweet berries, which can be planted directly under appropriate conditions.
+Neither mycelium nor grass can spread onto coarse dirt.
+Coarse dirt can be tilled using a hoe to become normal dirt. There must be an empty space above the coarse dirt for it to be tilled.
+Using any type of shovel on coarse dirt turns it into a dirt path.
+
+Using a water bottle, splash water bottle or lingering water bottle will convert the coarse dirt into mud.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+In Bedrock Edition, coarse dirt uses the following data values:
+
+In Bedrock Edition, dirt uses the following block states:
+Bedrock Edition:
+
+Issues relating to "Coarse Dirt" are maintained on the bug tracker. Report issues there.

@@ -1,0 +1,3 @@
+Infested is an effect that gives a 5% chance to spawn 1-3 silverfish when a mob with that effect takes damage.
+
+Issues relating to "Infested" are maintained on the bug tracker. Report issues there.

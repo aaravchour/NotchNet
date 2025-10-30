@@ -1,0 +1,13 @@
+Invalid data value wool is a specific item form of wool with damage values outside of the usual range which wool can usually be obtained in, resulting in an unusual appearence.
+
+Invalid data value wool is currently not known to be obtainable without the use of commands, inventory editors or other such tools, in any version.
+
+Invalid data value wool is particularly notable due to its use of block textures in unexpected ways. From Beta 1.2 to Beta 1.8.1, as well as in early versions of Xbox 360 Edition, the item used the block placeholder texture, a texture only very rarely encountered in the unmodified game without the use of texture packs. From Beta 1.9 Prerelease to 13w01b, the item used the texture of newly-planted nether wart.
+This bizarre texture usage can be easily be explained via analysis of terrain.png, a texture atlas used to store the texture of all blocks in the game prior to 1.5. All 15 textures used by colored wool blocks can be found in a 28 rectangle at the bottom left. This rectangle, however, contained a sixteenth texture that was initially unused. Wool with a damage value of 0 is white, and white wool's texture is located above this rectangle somewhat, and the game's code regards a damage value of 0 as a special case. However, if a wool item with a metadata value of 16, 32, 48, 64, ... is obtained as an item, which cannot be done in normal Survival gameplay or in Creative without commands, the game does not special-case these values due to them not being intentionally obtainable, resulting in this sixteenth texture in the rectangle being selected as the item's texture.
+In Beta 1.9's development, the then-new nether wart required a texture to be used in-game. Where exactly a texture is in terrain.png is ultimately arbitrary, as the game's code can be made to point at any desired region. Ultimately, the textures used by nether wart were placed at a position in terrain.png which resulted in the first stage's texture being within the 28 rectangle used by most wool items, resulting in the invalid cases using the newly-planted nether wart texture as if it were any other texture.
+
+When placed, invalid data value wool will place normal white wool blocks. As these placed blocks are proper white wool, they will drop white wool when broken, rather than invalid data values of wool.
+
+Invalid data value wool items are an issue, and due to their removal, can be considered already fixed.
+
+The first known mention of invalid data value wool is from January 23, 2011, ten days after it properly came into existence in Beta 1.2.

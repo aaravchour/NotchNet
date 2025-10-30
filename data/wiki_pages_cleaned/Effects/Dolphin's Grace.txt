@@ -1,0 +1,9 @@
+Dolphin's Grace is a status effect that increases the player's swimming speed when a dolphin is nearby.
+
+Dolphin's Grace significantly decreases the amount of "friction" from moving through water. This causes the player to swim significantly faster and lose speed at a slower rate, but also makes changing directions slower. Dolphin's Grace on its own allows you to travel 9.8 m/s underwater without Depth Strider, making it faster than a boat. Combining it with Depth Strider, players are able to travel at much higher speeds, adding 8.983 m/s per level. Potentially higher speeds are possible by adding soul soil underwater and using Soul Speed-enchanted boots, along with Speed II.
+
+Dolphin's Grace only affects horizontal movement speed. Vertical movement is not affected.
+This status effect is exclusive to Java Edition. Although players in Bedrock Edition are also able to experience a significant gain in speed if the same conditions as in Java Edition are met, it is not considered a status effect as no effect icon is shown.
+Dolphins do not give this effect to players with the Invisibility effect, unless their invisibility is reduced by having at least one armor piece or headgear equipped. So wear at least one armor piece to have Dolphin's Grace and Invisibility effect at the same time for the advancement "How Did We Get Here?".
+
+Issues relating to "Dolphin's Grace" are maintained on the bug tracker. Report issues there.

@@ -1,0 +1,31 @@
+Shulker shells are items dropped by shulkers that are used solely to craft shulker boxes.
+
+
+== Obtaining ==
+
+
+=== Mob loot ===
+In Bedrock Edition, shulkers drop 0-1 shulker shells. The maximum can be increased by 1 per level of Looting, which is 0-4 shells with Looting III.
+In Java Edition, shulkers have a 50% chance of dropping a shulker shell when killed. This is increased by 6.25% per level of Looting, for a maximum of 68.75% with Looting III.
+
+
+== Usage ==
+
+
+=== Crafting ingredient ===
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Shulker Shell" are maintained on the bug tracker. Report issues there.

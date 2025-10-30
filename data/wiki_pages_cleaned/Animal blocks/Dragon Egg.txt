@@ -1,0 +1,39 @@
+The dragon egg is a decorative block or a "trophy item", and is an item obtainable in the game, as it generates only once and cannot be generated again using end crystals in the portal after defeating the dragon.
+
+In Java Edition, the dragon egg is available through the creative inventory across both Java and Bedrock editions, it can be obtained with pick block or the /give command, or placed in the world with commands such as /setblock and /fill.
+
+In Java Edition and Bedrock Edition single dragon egg is generated on the highest block at the y-axis at 0,0 above the exit portal when the ender dragon is defeated. 
+
+The dragon egg usually cannot be mined directly, as trying to do so causes it to teleport within a 311531 volume centered on the egg, with locations toward the center more likely. If all air blocks in that area are filled so there is nowhere for the egg to teleport to, or if it fails to find an air block after 1,000 attempts at teleporting, it can be mined. The dragon egg is a gravity-affected block, and drops as an item when pushed by a piston or when it falls onto a block less than a full block tall, such as a torch or a bottom slab.
+When destroyed by an explosion, the block always drops as an item.
+The dragon egg is not immune to destruction by the ender dragon, despite being produced by it.
+
+The dragon egg, if there is no block below it, falls until it lands on the next available block. When it is being affected by gravity and falling, it exhibits a smooth falling animation.
+It does not suffocate mobs or players when it falls and covers them, nor does it crush mobs or players like anvils and stalactites do.
+The dragon egg can be placed on a non-solid block without falling.
+Like other falling blocks, when the dragon egg is floating, it has black particles falling from it.
+
+The dragon egg emits a light level of 1.
+
+To cause the egg to teleport, press attack while in Survival or Adventure mode (press use in Creative). It teleports to an air block nearby (up to seven blocks vertically and fifteen blocks horizontally), creating the same particles as an enderman. It may teleport into the air and subsequently fall to the ground since it forcefully obeys gravity.
+If all available air blocks are filled, it is possible to break the block.
+Dragon egg teleportation lacks teleportation sounds.
+
+In the case that egg teleportation finds an invalid location such as a negative y value, it makes an additional attempt to find a valid location, centered on the invalid location rather than the original position.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Dragon Egg" are maintained on the bug tracker. Report issues there.
+
+The writer of the Minecraft comic WonderCraft, Samcube, was requested by Mojang to create official Minecraft posters. In a part of these works, one can see an area with an ender dragon and a chicken on top of a huge mushroom. In the same scene, the dragon egg is visible near the chicken.
+If the dragon egg teleports and falls into the portal, it spawns in the Overworld at the world spawn.
+Unlike most egg blocks (Sniffer Egg, Turtle Egg and Frogspawn), the Dragon Egg is the only block that doesn't hatch into an Ender Dragon. However, it may happen in the future.
+
+The End
+Ender Dragon

@@ -1,0 +1,10 @@
+Returns the average tick time.
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

@@ -1,0 +1,97 @@
+A loom is used to apply patterns to banners. It also serves as a shepherd's job site block.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+A loom can be mined using any tool or by hand, but axes are the quickest. It always drops as an item.
+
+
+=== Crafting ===
+
+
+=== Natural generation ===
+Looms can be found in village shepherd houses.
+
+
+== Usage ==
+
+
+=== Applying banner patterns ===
+
+Using on a loom opens its interface. It has 3 slots for a banner, a dye and an optional banner pattern item. When a banner is put in, a list of patterns appears in the center part. 6‌ or 8 patterns require the following banner patterns: Flower Charge, Creeper Charge, Skull Charge, Thing, Snout, Globe, Field Masoned,‌ and Bordure Indented.‌ Putting a banner pattern in its respective slot makes the loom show only that pattern.
+Selecting a pattern or using a banner pattern on the list shows the preview of the banner after applying, if a dye is present. To finish, the player must take the banner in the slot beneath the preview. The original banner and the dye disappear from their respective slots, but the banner pattern is not consumed.
+
+
+=== Changing profession ===
+If a village has a loom that has not been claimed by a villager, any villager who hasn't already chosen a job site block has a chance to change their profession to shepherd.
+
+
+=== Fuel ===
+A loom can be used as fuel in a furnace to smelt 1.5 items.
+
+
+=== Note Blocks ===
+Looms can be placed under note blocks to produce "bass" sounds.
+
+
+== Sounds ==
+
+
+=== Generic ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Unique ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Loom" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Renders ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== External Links ==
+Block of the Week: Loom – Minecraft.net on December 10, 2020

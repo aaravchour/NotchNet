@@ -1,0 +1,27 @@
+Mud is a block found abundantly in mangrove swamps or created by using a water bottle on a dirt block. It can be used for crafting or converted into clay using pointed dripstone.
+
+Mud can be broken by hand, but using a shovel speeds up the process.
+
+Mud generates in the mangrove swamp biome.
+
+Using a water bottle on dirt, coarse dirt, or rooted dirt transforms it into mud. This process can be automated using a dispenser.
+
+Mud is not a full block, and as such, it has some unique properties; entities standing on mud sink slightly into it, similar to soul sand. Unlike soul sand, however, mud does not slow the movement speed of mobs or players that walk on it. Falling blocks such as sand also drop as an item when landing on it, and a hopper that is under a mud block can collect items dropped on top of it.
+
+If mud is placed directly above a block that has pointed dripstone underneath, it eventually turns into clay. This conversion does not happen in the Nether.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Mud" are maintained on the bug tracker. Report issues there.
+
+Block of the Month: Mud  Minecraft.net on September 11, 2022

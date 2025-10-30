@@ -1,0 +1,11 @@
+Although the Diamond Dust remains as an unused currency within the current version of Minecraft Dungeons it can still be found and used in the Minecraft Dungeons Alpha.
+
+Nitwit
+Mason
+Diamond Dust was at one point going to be obtainable through the unused Mason.
+In Minecraft Dungeons Alpha, Diamond Dust can be easily bought (from now unused) Nitwit Villager in exchange for some Emeralds. At the start of the campaign, one Diamond Dust always costs 25 emeralds. However every time we buy another piece, the price goes exactly 10 emeralds up.
+Diamond dust can also be found in one of the Lobby Chests located in our Camp that can be unlocked after reaching level 10 in the game.
+
+In order to use the Diamond Dust, player needs to locate it in their own Inventory and then press the activate button. Once done, player can select any item available in their menu to increase it's power by a few levels. After clicking on the chosen item, the upgraded piece of Gear glows for a split second, the Diamond Dust immeadiatly disseapears and the power of the item is increased by a couple of levels.
+
+Originally in the game files, the mason would have sold diamond dust for 1000 emeralds. This was likely a test, and was never replaced due to it being scrapped for the time being.

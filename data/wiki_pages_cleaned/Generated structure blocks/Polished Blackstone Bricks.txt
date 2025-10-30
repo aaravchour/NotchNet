@@ -1,0 +1,25 @@
+Polished blackstone bricks are a decorative version of polished blackstone.
+ Cracked polished blackstone bricks is the cracked version of polished blackstone bricks.
+
+Both variants generate as part of bastion remnants and ruined portals.
+
+Polished blackstone bricks and cracked polished blackstone bricks can be placed under note blocks to produce "bass drum" sound.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Polished Blackstone Bricks" are maintained on the bug tracker. Report issues there.
+
+"Cracked Polished Blackstone Bricks" is the current longest name for a block (excluding Education Edition), tied with Polished Blackstone Pressure Plate (34 characters with spaces, 31 without)
+It briefly lost its place between Java Edition 1.17 snapshots 20w45a and 21w05a, where it was surpassed by variants of the Copper Block:
+Waxed Lightly Weathered Cut Copper Stairs (41 characters with spaces, 36 without in first place)
+Waxed Lightly Weathered Cut Copper Slab (39 characters with spaces, 34 without in second place)
+Waxed Semi-Weathered Cut Copper Stairs (38 characters with spaces, 34 without in third place)
+Waxed Semi-Weathered Cut Copper Slab (36 characters with spaces, 32 without in fourth place)
+The record holders in the Education Edition are "Hardened Light Blue Stained Glass Pane" and "Hardened Light Gray Stained Glass Pane", both at 33 characters excluding spaces (38 including spaces).
+The texture of polished blackstone bricks features a very subtle skull pattern. This is intentional.

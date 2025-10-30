@@ -1,0 +1,28 @@
+Skywars is a multiplayer minigame where each player starts off on a separate island that is floating in the Void and tries to battle each other like in Player vs. Player (PvP). The main goal is to be the last person or team alive to win. in the Bedrock server The Hive, the islands are destroyed one-by-one, killing any players still on them.
+Often there is a middle, larger island that has better loot, an enchantment table, and sometimes several anvils. Although insane and other modes can occur and benefit the overall chest items (including your own chests) the center island chests have the most powerful items relative to whatever mode the game occurs in.
+
+On many multiplayer servers, there are many perks that players can purchase that can aid them in Skywars. Here is a list of some of the perks:
+
+Creeper Kit: A player spawns in-game with TNT and flint and steel to set off the TNT. This is useful for blowing up other opponents.
+Teleporter Kit: The player spawns in-game with ender pearls. This is useful for teleporting to someone else's island right away, though some servers do have a wait time for the ender pearl to be used (so no one is being cheap).
+Builder Kit: The player spawns in-game with some sort of building block and a speed potion.
+Troll Kit: The player spawns in-game with Cobweb X16, A Knockback weapon, and/or a Note Block or Jukebox
+Players can also rush into the middle island, coming first there can grant the player better items to kill other players. However, the middle islands are often contested by other players, so there is a risk of death from using this tactic. But if you enjoy fighting then going to the center island first is a smart choice. Doing so also allows you to be able to fight any players attempting to come to the center island and therefore can allow you to win, get great stuff, and get the most kills. But as the next paragraph says, you may end up having to battle a camper who could knock you into the void.
+Another tactic is camping, where the player stays in their starting island while watching other players kill each other. Then, the final surviving player is often knocked into the void by the camper. This tactic is sometimes considered cheap and can be easily countered by ender pearls. Another downside is the lack of kills the camper gets after the game.
+
+The chests on the spawn island give armor that is either leather or iron, which gives the player 1 to 15 armor. The chests also contain 1 to 3 swords ranging from a stone sword, a stone Sharpness 1 sword, and an iron sword. Wooden Planks and stone are randomized in the chests and give 8 to 16 in one slot, which gives anywhere from 8 blocks to over 64.
+
+The chests on the spawn island give at least 3 pieces of armor that are either iron or diamond, which gives the player 9 to 20 armor. The chests also contain 1 to 3 swords ranging from a stone Sharpness 1 sword, a diamond sword, and a diamond sword with Sharpness 1. Wooden Planks and stone are randomized in the chests and give 8 to 16 in one slot, which gives anywhere from 8 blocks to over 64.
+Other random items by chance are:
+
+Water bucket
+Lava bucket
+Diamond pickaxe
+Diamond axe
+Splash potion of Regeneration (0:40)
+Splash potion of Speed (around a minute)
+Potion of Fire Resistance (3 minutes)
+Bow enchanted with Power I or Power III, 15 arrows (if the bow is Power I) or 20 arrows, if it's a Power III
+Fishing rod
+Eggs or snowballs
+]

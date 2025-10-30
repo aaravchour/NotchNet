@@ -1,0 +1,45 @@
+More often than not, Minecraft automatically closes itself after a crash rather than displaying an error report. Here are some methods to find the error report.
+
+
+=== Windows ===
+
+
+==== Method 1 ====
+Browse to the folder that contains your minecraft.exe launcher
+With no files selected (left click on background to deselect), Shift+Right Click anywhere in background of the window, and choose "Open command window here"
+Copy the following code: "%ProgramFiles%/Java/jre7/bin/java" -Xms1G -Xmx1G -cp Minecraft.exe net.minecraft.LauncherFrame
+Right click in the command window, select Paste and then press enter
+Login, start Single or Multiplayer and reproduce the crash
+Once you have obtained the crash report, right click on it, select all and press Enter to copy, then paste it to the proper mod thread for assistance
+
+
+==== Method 2 ====
+Open notepad and paste this code: "%ProgramFiles%/Java/jre7/bin/java" -Xms1G -Xmx1G -cp Minecraft.exe net.minecraft.LauncherFrame > log.txt
+Click "save as", name the file minecraft-report.bat
+Underneath where you put the file name there will be a pull down menu named file type, select the file type as All Files, and click save.
+Run the bat file that you just created.  Try to duplicate the crash.  Upon crashing, an error report will be created, named "log.txt".  Congratulations, you have just created an error report.
+Open the log.txt file
+Once you have obtained the crash report, right click on it, select all and press Enter to copy, then paste it to the proper mod thread for assistance.
+
+
+=== macOS ===
+
+
+==== Method 1 ====
+Go to Macintosh HD/Applications/Utilities and open Console.app
+Run minecraft and when it crashes the java log will be added to the console, which you can then select and copy
+
+
+==== Method 2 ====
+This method is similar to Windows' method 2 in that you can use a separate file to launch Minecraft.
+
+Create a new text file and open it
+Make it a plain text file (In TextEdit, use ⇧ Shift+⌘ Command+T)
+Copy and paste the following code: cd ~/Library/Application\ Support/minecraft/bin; java -Xms512M -Xmx1024M  -Xincgc -cp "minecraft.jar:jinput.jar:lwjgl.jar:lwjgl_util.jar" -Dorg.lwjgl.librarypath="$(pwd)/natives" -Dnet.java.games.input.librarypath="$(pwd)/natives" net.minecraft.client.Minecraft
+Save the file with any name you like, but uncheck both "Hide extension" and "If no extension is prvided, use '.txt:'.". Use extension ".command"
+Run the file (which will open a Terminal window), and the next time Minecraft crashes, the log will be spit out into Terminal
+
+
+=== Linux ===
+Open a terminal (on distributions such as Ubuntu/Linux Mint, this is done with Ctrl + Alt + T)
+Run java -Xms512m -Xmx1024m -jar minecraft.jar and watch the console output. You can select and copy it after making the game crash.

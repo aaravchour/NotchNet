@@ -1,0 +1,46 @@
+A copper bars is a copper variant block that acts similarly to iron bars, and oxidizes like normal copper blocks.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Copper bars can be broken with any pickaxe. Otherwise, it drops nothing.
+
+
+=== Crafting ===
+
+
+== Usage ==
+Copper bars shares the same functionality as its iron counterpart.
+
+
+=== Oxidation ===
+Like most copper blocks, unwaxed copper bars undergo 4 stages of oxidation:
+
+Unoxidized - Normal stage
+Exposed
+Weathered
+Oxidized
+Only lightning and axes can reverse the oxidation process. Using a honeycomb on an unwaxed copper bars prevents the oxidation.
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Trivia ==
+The crafting recipe for the copper bars was originally made for copper trapdoors since the Tricky Trials update.
+
+
+== Issues ==
+Issues relating to "Copper Bars" are maintained on the bug tracker. Report issues there.
+
+
+== See also ==
+Iron Bars

@@ -1,0 +1,10 @@
+
+==== Blueprint ====
+Java Edition
+
+Bedrock Edition
+
+Note that the Oak Fences in Layer 0 should be waterlogged. In Bedrock Edition, the two Barrels in Layer 1 are not generated unlike in Java Edition.  A barrel generates in Layer 2 inside the cottage  and the chest is replaced with a crafting table.
+
+
+==== Materials ====

@@ -1,0 +1,30 @@
+The harp crossbow is a unique scatter crossbow variant that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Soggy Swamp
+Highblock Halls
+Lone Fortress (DLC)
+Soul Sand Valley (DLC)
+The Stronghold (DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Pestilent Conjurer
+
+The harp crossbow has the same basic abilities of its more common variant, the scatter crossbow, but fires 5 projectiles instead of 3, at a faster rate.
+The arrows of the harp crossbow are each considered individually, meaning that if the hero has a 40% chance, for example, to shoot five arrows instead of one, then on average two of the arrows multiply. With multishot and other enchantments, the hero can fire more arrows.
+
+ X ranged damage
+ Even more projectiles
+
+Quiver: 53
+
+Issues relating to "Harp Crossbow" are maintained on the bug tracker. Report issues there.
+
+In a Twitter video, the harp crossbow was seen being used by the hero, Elaine, along with the troubadour within the pumpkin pastures, the soggy swamp, and the frosted fjord.

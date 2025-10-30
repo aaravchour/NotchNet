@@ -1,0 +1,45 @@
+End cities are castle-like structures found on the outer islands of the End. They are inhabited by shulkers and hold loot among the most valuable in the game.
+
+End cities naturally generate all over the End's outer islands. They can easily be accessed by entering the end gateway portal, but it is possible to cross the gap between the islands in other ways. They generate on the large islands, where chorus trees grow. If the end gateway portal teleports the player to a small island, the player can get to the nearest large island by building, using elytra, or throwing ender pearls.
+End cities usually generate in flat areas, in "midlands" or "highlands" biomes, which are found on larger islands. One may find several cities clustered together, or travel for thousands of blocks before finding one. Unlike other structures, End cities are generated in a noticeable grid. They are located only in chunks numbered 0-8  a multiple of 20. For example one possible "cell" for an End city to be generated in is x_chunks=0-8 and z_chunks=80-88 which is equivalent to the coordinates x=0-128 and z=1280-1408. There can never be an End city at for example z=961-1279 or z=1409-1599 because it is outside any "cell".
+
+End cities consist of tall skyscraper-like towers constructed out of end stone bricks and purpur blocks. An End city may generate as a single tower by itself, or as a sprawling complex of inter-connected towers and pathways branching from a main tower. End rods and ender chests are the only source of light. Many shulkers spawn around the city, and guard its various treasures. Decorative banners hang at the tops of some towers.
+Several types of rooms can be found in an End city, and several different floors, including:
+
+Base floors, which are empty floors found at the base of every city; they are three stories tall, with each room wider than the one below it.
+Banner rooms that have banners hanging on the outside, and a shulker attached to the ceiling.
+Small rooms that have nothing in them at all.
+Large rooms that have precarious parkour-like staircases often leading up to another tower or a loot room.
+Loot rooms that consist of two chests with valuable loot at the end of a small parkour area; some rooms may have one normal chest next to an ender chest instead.
+There are two types of towers:
+
+Small towers that are hollow, consisting of a single purpur slab spiral staircase of sorts.
+Skyscrapers that consist of a treacherous double spiral staircase made of purpur slabs and end rods; many shulkers spawn here.
+
+An end ship is a floating, boat-like structure found alongside End cities. It is relatively small, but holds even more valuable treasure than the city itself.
+
+Each direction of every tower of the End city has a 50% chance of generating a bridge, and the bridge itself has a 12.5% chance to generate an end ship.
+When generated, the stern of the ship always faces toward the city and the bow always faces away. It generates in front of a bridge with a gated arch at the end, from which one can throw an ender pearl to reach the ship, or build a bridge.
+
+The end ship is made of end stone bricks and purpur blocks, just like the city's main towers. Their design resembles that of European square rig sailing ships, commonly seen during the golden age of exploration. Three shulkers spawn on the ship; one on the main deck, one behind the stern of the ship, and one in the treasure room.
+
+The ship's main deck amounts to less than half of the walkable space on the ship. A ladder leads up the mast to an empty crow's nest, about 20 blocks high. There are no sails connected to the mast. 
+A dragon head sits at the bow of the ship, making this the only way to obtain the dragon head in Survival mode. There are two small staircases on the outside; one that leads up to the empty upper deck, and one that leads to the cabin below.
+
+The aftercastle contains a brewing stand sitting on a small table, with two Instant Health II potions. Another staircase leads below deck to the ship's "hotspot"; the treasure room.
+
+The floor of the treasure room is lined with obsidian. There are four small windows on the sides. It contains two loot chests and an item frame holding a pair of elytra wings; this is the only way to obtain elytra in Survival mode. A shulker guards the elytra and the two loot chests. 
+
+One may access the individual structures of an End city by utilizing structure blocks to manually load city structures from the data/minecraft/structures/end_city folder in minecraft.jar. To do so, set a structure block to Load mode, enter end_city/StructureName and press LOAD. The names of these structures and a small description is provided below:
+
+In Java Edition, each end city chest contains  items drawn from 2 pools,  with the following distribution: 
+
+In Bedrock Edition, each end city chest contains  items drawn from 2 pools,  with the following distribution: 
+
+Issues relating to "End City" are maintained on the bug tracker. Report issues there.
+
+Some End city rooms are structured similarly to traditional Asian pagodas. Jeb had visited the Summer Palace before the release of 15w31a.
+The banners atop the towers have a magenta and black pattern that resembles the missing texture: 
+End cities can be over 100 blocks tall.
+End cities, ancient cities, and bastion remnants are the only places where players can find enchanted diamond gear, and one of only two ways to obtain them other than by enchanting, the other being trading with a weaponsmith, toolsmith, or armorer villager.
+On the end ship, there is a hole in the crow's nest atop of the mast, which is directly above a piece of magenta stained glass on the ship's deck. This is a relic feature from the early days of the ship's development, when the main loot inside the ship was a beacon that shoots its beam through the magenta glass and the hole in the crow's nest, creating a magenta beam. Although the beacon was replaced with the elytra, the magenta glass and the hole remained unchanged.

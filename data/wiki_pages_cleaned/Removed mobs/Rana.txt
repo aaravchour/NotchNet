@@ -1,0 +1,14 @@
+Rana was a passive mob that existed for the majority of Java Edition Indev 0.31.
+
+Rana spawned randomly in the world in groups with other Ranas. They could spawn at any light level as long as there was enough space.
+
+Rana was a passive mob. It had no animation, so it aimlessly glided and jumped around the world in the same, still pose, and never stopped moving around. Rana, along with Beast Boy, Steve, and Black Steve acted in this identical manner. Depending on the version, upon death, Rana would not fall over to the ground or flash red or white and appear to die, as most mobs do. It would just disappear shortly thereafter, and drop no items or the items it was designated to drop.
+
+Rana was created by Dock for a project of his own years ago. When he joined the Minecraft development team, he recreated her in a new style for the game as a test. She was never intended to be a permanent addition. 
+Rana means "frog" in Latin, and, through linguistic evolution, Spanish and Italian.
+Rana is actually the name of a genus including 50 to 100 extant species of frogs, commonly known as Holarctic true frogs, pond frogs, or brown frogs.
+The filename for Rana's model was test2.md3.
+
+Steve
+Black Steve
+Beast Boy

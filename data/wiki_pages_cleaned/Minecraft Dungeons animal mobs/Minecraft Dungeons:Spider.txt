@@ -1,0 +1,49 @@
+A spider is a common hostile mob that can be found within the various missions of Minecraft Dungeons.
+
+Spiders in Minecraft Dungeons look exactly how they do within the original game, with the only difference being that it raises its abdomen to shoot spider webs.
+
+Spiders spawn when night falls, regardless of the following missions, when at least one hero is defeated in multiplayer.
+
+Spiders are hostile toward heroes and their companions. Within the arcade edition, they can drop from the ceiling using their silk.
+
+Basic attack
+Spiders do not attack directly at first, instead, they shoot spider webs.
+
+Walk
+Spiders flee when an un-webbed hero approaches.
+
+Stun
+Spiders run to repeatedly bite targets if one is caught within a spider web.
+
+Strong attack
+Spiders have a sound file named "Call" that they use to call other spiders. This sometimes happens when a spider sees a hero suddenly and gets scared. The spider would tighten its legs and jump a little bit, like arthropod animals in real life.
+
+A spider web is a projectile that can be used exclusively by spiders within the various missions of Minecraft Dungeons.
+
+A spider web in Minecraft Dungeons looks like its counterpart within the original game.
+
+The abominable weaver is an ancient spider that can be encountered during ancient hunts with the minimum offering of the following runes:
+
+The ancient resides within a Spider Cave-themed arena and possesses, at minimum, the following enchantments:
+
+Frenzied
+Mob Resurrection Aura
+Multishot
+Regeneration
+Eight enchanted creepers act as the ancient's minions, possessing the following enchantments:
+
+Deflect
+Quick
+Upon defeating the abominable weaver, a gilded variant of the following items drops as a reward:
+
+Battle Robe
+Splendid Robe
+Double Axe
+Cursed Axe
+Whirlwind
+Trickbow
+The Green Menace
+The Pink Scoundrel
+Wolf Armor
+Black Wolf Armor
+Fox Armor

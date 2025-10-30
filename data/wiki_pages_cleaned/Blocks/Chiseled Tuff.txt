@@ -1,0 +1,11 @@
+Chiseled tuff is a chiseled variant of tuff.
+
+Chiseled tuff drops as an item if mined by any pickaxe. If mined without a pickaxe, it drops nothing.
+
+Chiseled tuff blocks naturally generate in trial chambers.
+
+Chiseled tuff blocks can be obtained by using a normal tuff block on a Stonecutter.
+
+Chiseled Tuff has intricate, winding spirals on both the top and the sides of the block. These spirals symbolize the Breeze's wind-charged attacks and the Wind Charged potion effects.
+
+Issues relating to "Chiseled Tuff" are maintained on the bug tracker. Report issues there.

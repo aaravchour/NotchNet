@@ -1,0 +1,54 @@
+Wool is a block obtained from sheep that can be dyed in any of the sixteen different colors. It can be used as a crafting material and to block vibrations.
+
+Wool can be broken using any tool, but shears are the fastest tool to use.
+
+Woodland Mansion
+All wool colors (except magenta, light blue, pink, and purple) generate naturally as part of structures within woodland mansions.
+
+Village
+White and yellow wool generate in shepherd houses, fletcher houses, and meeting points in plains villages.
+A block of light gray wool generates under the door in one type of small house in snowy tundra villages.
+
+Pillager outpost
+White wool generates as tents outside pillager outposts.
+
+Ancient city
+Gray wool appears on some walls and on the floors of long corridors at the corners of an ancient city. The wool damps vibrations, preventing activation of nearby sculk blocks. Ancient cities can also generate blue, cyan, and light blue wool.
+
+Using shears on an adult sheep yields 1-3 wool. If unshorn, sheep drop 1 wool upon death. The wool dropped is the same color as the sheep. The drop rates are not affected by the Fortune or Looting enchantments. Baby sheep cannot be sheared.
+White, light gray, gray, black, brown, and (rarely) pink wool can be found naturally on sheep. Getting a sheep of a different color requires dyeing the sheep.
+
+In Bedrock Edition, apprentice-level shepherd villagers have a 50% chance to sell one colored wool for an emerald, giving each wool color a 132 (3.125%) chance of being offered.
+In Java Edition, apprentice-level shepherd villagers have a 27 chance of selling one or two colored wool for an emerald, giving each wool color a 156 (roughly 1.786%) chance of being offered.
+
+in Java Edition, a shepherd villager may throw a block of wool of random color at a player under the Hero of the Village effect.
+
+Wool comes in sixteen colors, which are white, orange, magenta, light blue, yellow, lime, pink, gray, light gray, cyan, purple, blue, brown, green, red, and black. Unlike stained glass and terracotta, the white variant serves as the undyed block. Wool of any color can be re-dyed into any other color.
+Wool is weak, highly flammable, and offers little resistance against explosions.  
+
+Novice-level Shepherd villagers offer to buy 18 wool for an emerald, with the color being sold chosen randomly from white, gray, brown, or black. 
+The villager has a 34 chance of offering the trade again with a different color.
+
+Wool can be used to block vibrations from reaching nearby sculk sensors. If a wool block is placed between a sensor and a vibration source, the sensor is not able to detect vibrations behind it. Similarly, if a wool block is placed between a sensor and a sculk shrieker, the sensor is unable to alert the shrieker. 
+Sculk sensors are not able to detect the placing and breaking of wool, as well as entities walking, sprinting, or jumping on top of it. They are also unable to detect items dropped on wool, or wool itself dropped in item form.
+Similar to sculk sensors, wardens are also unable to detect everything wool-related as listed above.
+
+Wool blocks can be placed under note blocks to produce guitar sounds.
+
+Any color of wool or wood can be used for paintings but it has no effect on the product's final appearance.
+
+In Java Edition, wool can be used as fuel in furnaces and their variants, smelting 0.5 items per wool block.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Wool" are maintained on the bug tracker. Report issues there.
+
+In Bedrock Edition, the data values for wool and their respective dyes are the inverse of each other. This is also true for stained glass, terracotta, shulker boxes, beds, banners, concrete powder, and concrete.
+
+Block of the Week: Wool  Minecraft.net on November 17, 2017

@@ -1,0 +1,72 @@
+The soul fists are a unique gauntlets variant that can be found within the various missions of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Soggy Cave (Adventure)
+Cacti Canyon (Adventure)
+Dingy Jungle (Adventure, DLC)
+Coral Rise (DLC)
+The Stronghold (Apocalypse, DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+?????
+
+
+== Usage ==
+The soul fists possess low power, high speed, and low area, and has a combo consisting of four alternating punches, a left hook, an uppercut, and a lunge punch. The first five hits deal the weapon's minimum melee damage, the uppercut does around 40% more damage, and the lunge punch deals the maximum melee damage.
+
+
+=== Properties ===
+X melee damage
+Relentless combo
+Souls critical boost (Enigma Resonator tier I)
++2 soul gathering
+
+
+=== Stats ===
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Soul Fists" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===

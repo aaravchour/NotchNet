@@ -1,0 +1,16 @@
+Rabbit hide is an item dropped by rabbits.
+
+Rabbits drop 01 rabbit hide(s) upon death. The maximum number of drops can be increased by 1 per level of Looting used, for a maximum of 04 rabbit hides with Looting III.
+Some foxes spawn holding rabbit hides, which always drop upon death. Alternatively, the player can drop a food item, which causes the fox to drop the rabbit hide.
+
+Tamed cats have a 70% chance of giving the player a gift when they wake up from a bed, and the gift has a 16.13% chance to be a rabbit hide.
+
+Rabbit hides can be crafted into leather, or into bundles to store stacks of items.
+
+Journeyman-level leatherworker villagers buy 9 rabbit hides for an emerald as part of their trades.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Rabbit Hide" are maintained on the bug tracker. Report issues there.

@@ -1,0 +1,244 @@
+A pressure plate is a non-solid block that produces a redstone signal when stood on by an entity, with four variants:
+Wooden pressure plates can detect all entities, producing the maximum signal strength of 15.
+Stone pressure plates can detect only players and mobs, also producing a strength of 15.
+Light weighted pressure plates can detect all entities, and the signal strength equals the number of entities stood on one.
+Heavy weighted pressure plates are similar to light weighted pressure plates, but measure groups of 10 entities.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+A wooden pressure plate can be mined using any tool, or without a tool, and drops itself as an item. However, axes are the fastest way to break one. All other types can be obtained only by using a pickaxe.
+
+A pressure plate is removed and drops itself as an item if:
+
+the block beneath it is moved, removed, or destroyed
+a piston tries to push it or moves a block into its space
+
+
+=== Natural generation ===
+One stone pressure plate is generated naturally in each desert pyramid. Stone pressure plate also generate as part of ancient city.
+Oak pressure plates can generate in some plains village houses.
+Acacia pressure plates can generate in some savanna village houses.
+Spruce pressure plates can generate in some snowy tundra village houses.
+
+
+=== Chest loot ===
+
+
+=== Crafting ===
+
+
+== Usage ==
+
+
+=== Crafting ingredient ===
+
+
+=== Redstone component ===
+
+A pressure plate can be used to detect entities on top of it (players, mobs, items, etc.).
+
+Placement
+
+To place a pressure plate, use it while aiming at the face of a block adjacent to the destination space.
+A pressure plate can be attached to:
+
+the top of any full solid opaque block (stone, dirt, blocks of gold, etc.), including full-block mechanism components (command blocks, dispensers, droppers, note blocks, and redstone lamps)
+the top of a hopper, fence, nether brick fence, an upside-down slab, or upside-down stairs.
+A pressure plate cannot be attached to the side or bottom of any block, but attempting to make such an attachment may cause the plate to attach to the top of a block under the destination space. For example, if a fence is on the ground, attempting to attach a plate to the side of the fence causes the plate to be attached to the top of the ground next to the fence instead.
+More information regarding placement on transparent blocks can be found at Opacity/Placement.
+
+Activation
+A pressure plate activates when an entity is on top of it (specifically, when the entity's collision mask intersects the bottom quarter-block of the pressure plate's space, which may include entities flying close to the ground), with a minimum activation time of 1 second.
+A stone pressure plate is activated only by mobs, players and armor stands, while a wooden pressure plate or a weighted pressure plate is activated by all entities (including players, mobs, items, arrows, experience orbs, fishing bobs, etc.) besides snowballs.
+Heavy or light weighted pressure plates deactivate 5 redstone ticks (10 game ticks or 0.5 seconds, barring lag) after no entities are on top of it, while stone or wooden pressure plates deactivate 10 redstone ticks (20 game ticks or 1 second, barring lag) after no entities are on top of it.
+A minecart traveling on rails activates a pressure plate next to a diagonal track but not one next to a straight track (stone pressure plates are activated only if the minecart contains a mob or player).
+
+Behavior
+
+While active, a pressure plate:
+
+powers adjacent redstone dust, and adjacent redstone comparators or redstone repeaters facing away from the plate
+strongly powers any full solid opaque block beneath it
+activates adjacent mechanism components, including above or below, such as pistons, redstone lamps, etc.
+For stone and wooden pressure plates, the power level is always 15. For weighted pressure plates, the power level varies depending on the number of entities.
+The signal strength from a weighted pressure plate does not vary with the type of entity: all entities have the same "weight", so two mobs produce the same strength as two dropped items. An item stack counts as a single entity, no matter how many items are in the stack. When multiple items of the same type fall on a weighted pressure plate, they may initially be separate item entities and the weighted pressure plate counts them separately, but if they then collapse into a single item stack entity the signal strength from the weighted pressure plate may go down.
+Water and lava flow around a pressure plate without affecting it.
+A pressure plate is not solid (it is not a barrier to entity movement). A block under a pressure plate can provide a solid barrier underneath it (for mobs to walk across, items to fall on, etc.), but when a pressure plate is placed on a block with a small collision mask, such as a fence or nether brick fence, it is possible for entities to move through the pressure plate while still activating it (walking through it horizontally, or falling through it vertically). Thus, a pressure plate on a fence can be used to detect entities without stopping them (more compactly than a tripwire circuit).
+Pressure plates are 0.0625 blocks high (1⁄16 of a block) when inactive and 0.03125 blocks high (1⁄32 of a block) when active, but because they are not solid they do not affect the position of entities "on top" of them, so a player on top of a pressure plate is actually standing on the block beneath it.
+Pressure plates can also open doors, activate TNT, and power command blocks.
+
+
+=== Fuel ===
+Wooden pressure plates can be used as a fuel in furnaces, smelting 1.5 items per pressure plate.
+
+
+=== Note Blocks ===
+Wooden pressure plates can be placed under note blocks to produce "bass" sounds.
+Stone pressure plates can be placed under note blocks to produce "bass drum" sounds.
+
+
+== Sounds ==
+
+
+=== Generic ===
+
+
+==== Metal ====
+
+Java Edition:
+
+Bedrock Edition:
+
+
+==== Stone ====
+Java Edition:
+
+Bedrock Edition:
+
+
+==== Normal wood ====
+Java Edition:
+
+Bedrock Edition:
+
+
+==== Cherry wood ====
+Java Edition:
+
+Bedrock Edition:
+
+
+==== Bamboo wood ====
+Java Edition:
+
+Bedrock Edition:
+
+
+==== Nether wood ====
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Unique ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+Stone and wooden pressure plates
+
+Weighted pressure plates
+
+Bedrock Edition:
+Stone and wooden pressure plates
+
+Weighted pressure plates
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== History ==
+
+
+=== Pre-1.7.2 requirements ===
+Before Java Edition 1.7.2, weighted pressure plates could be activated only by drops, and they required larger quantities.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Trivia ==
+"Polished Blackstone Pressure Plate" is the current longest name for a block tied with Cracked Polished Blackstone Bricks (34 characters with spaces, 31 without)
+It briefly lost its place between Java Edition 1.17 snapshots 20w45a and 21w05a, where it was surpassed by variants of the Copper Block:
+Waxed Lightly Weathered Cut Copper Stairs (41 characters with spaces, 36 without in first place)
+Waxed Lightly Weathered Cut Copper Slab (39 characters with spaces, 34 without in second place)
+Waxed Semi-Weathered Cut Copper Stairs (38 characters with spaces, 34 without in third place)
+Waxed Semi-Weathered Cut Copper Slab (36 characters with spaces, 32 without in fourth place)
+
+
+== Issues ==
+Issues relating to "Pressure Plate" or "Weighted Pressure Plate" are maintained on the bug tracker. Report issues there.
+
+
+== References ==

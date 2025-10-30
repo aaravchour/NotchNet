@@ -1,0 +1,41 @@
+Reinforced deepslate is a block that generates exclusively in ancient cities. It has high hardness, is immune to explosions, and cannot be obtained in Survival mode.
+
+
+== Obtaining ==
+Reinforced deepslate is not obtainable in Survival, even with Silk Touch, and is only available through the Creative inventory or commands. It cannot be pushed by a piston, is highly blast resistant, has higher hardness than obsidian, and cannot be destroyed by the wither or the ender dragon.
+Reinforced deepslate has no tool associated with it, meaning it is mined at the exact same speed regardless of the tool and level of efficiency.
+
+
+=== Natural generation ===
+56 blocks of reinforced deepslate are found in the central part of each ancient city, creating a portal-like frame structure.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Reinforced Deepslate" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+According to Brandon Pearce, reinforced deepslate's job is to add mystery.
+Despite being unobtainable in-game, in Craft Your Own Adventure: Wild Tales there is a path where the player is able to mine and obtain it.
+In China Edition, reinforced deepslate is referred to as “Mysterious Frame” and has a slotted version.
+
+
+== References ==

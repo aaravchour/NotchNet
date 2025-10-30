@@ -1,0 +1,207 @@
+This is a glossary of game terms used by the Minecraft community, but are not officially in the game. Some of these game terms are used as shortenings, while others are terms exclusive to Minecraft, and may not be familiar to people who are new to the game. 
+Underlined words represent terms that are further described in this list. Terms that exist on other dedicated pages are not listed here.
+
+admin/operator
+A player who is listed on the OP (operator) list, having access to most or all of the commands on a server.
+Adminium
+Bedrock. Back in the days of Classic Creative, bedrock was referred to as "Adminium" because the admins were the only ones who could use it.
+AFK
+Away From Keyboard: when a player is away from their computer.
+AFK farm
+A farm that requires a player to function by making the player perform tasks automatically, exploiting interacting mechanics in a way that the player doesn't have to be actively involved due to the fact it requires only one, more or even no keys to be held indefinitely, which can be done by a weight placed on the keyboard/mouse or by exploiting an alt-tabbing glitch.
+AFK farming
+When an AFK player runs an AFK farm.
+
+beef
+Shortening of raw beef. Can also refer to steak which is called Cooked Beef in Bedrock Edition.
+block verb
+To obstruct something; to block with the sword (pre 1.9) / shield.
+blacksmith
+
+A name generally used for the Weaponsmith, as it was the name for it before the Village and Pillage Update. If used for the villager's building, it commonly describes the Weaponsmith plains house, although it can be used to describe any of its other types of houses.
+block clutch
+The act of quickly placing blocks on a vertical wall below the player's feet. This can be used to prevent fatal falls, hold onto a certain place, or move along the side of the wall.
+Bolan diamonds/diamond-clay trick
+A trick that allowed you to mathematically locate blobs of ore using clay or gravel disks in rivers or swamps, typically used to efficiently mine for diamonds. Named after Minecraft content creator Matthew Bolan, who first discovered and showcased the method. This trick no longer works as of 1.18.
+bridge verb
+The act of crouching on a ledge and placing blocks while moving.
+buff noun
+A special ability, granted by modded servers (modified attributes, e.g. flying in Survival mode, or higher speed than usual, not to be confused with the potion effect here), or granted in vanilla, like status effects. Debuff refers to a negative effect. In video game balancing, the term buff also refers to a change that increases the value of a certain element.
+butter
+Jargon or a joke term for gold. Most likely due to the appearance of gold ingots in-game. It was common around the early to mid-2010's. However, it is rarely used in modern Minecraft.
+
+Cave Noises/Sounds
+Refers to ambient sounds that occasionally play in dark or underground areas based on the mood algorithm.
+cheater/griefer/hacker
+The toxic part of the community; sometimes typed differently to avoid chat censoring (e.g. Haxor), it describes someone using modified clients to gain unfair advantages. Most servers forbid the use of those clients, and their use is not moral as well. However, some servers also forbid accusing players of being hackers on chat and whisper, but do provide an alternative method of reporting to staff like forums or dedicated in-game commands.
+cheese
+Any strategy that removes most, if not all danger from fighting a mob. An example of a cheese strategy is a 2-block tall roof, which prevents endermen and wither skeletons from reaching you.
+cobble
+A shortening for cobblestone.
+combat log verb
+To disconnect from a server during combat to avoid death, usually in PvP.
+cracked / non-premium
+Pirated, unofficial access to Minecraft. Cracked launchers allow people to play Minecraft without an official account and cracked servers accept these players. Non-premium is sometimes used as a euphemism.
+crafting bench
+A crafting table.
+crit
+Short for a critical hit.
+crystal
+Short for End Crystal, which can be used as a powerful weapon. To crystal (or crystallize) a player is to attack them with end crystals.
+
+defend
+Sometimes a miscalling for blocking rather than defending something.
+DLC
+Abbreviation for "downloadable content", which is a standard feature of Minecraft Dungeons.
+dog
+A tamed wolf.
+dupe/duped/duping
+A method of duplicating items, often as a result of a bug or an oversight. Duped items are items that are produced by duping.
+
+eye
+Eye of ender. Can also be used to describe the completeness of an end portal, for example, an end portal with 3 end portal frames containing eyes of ender is called a 3-eye portal, or simply 3-eye.
+EZ
+"Easy", depending on context (at the end of a game, and/or like in GG EZ), some servers (completely) forbid the use of this word because it might be "not respectful to the players".
+
+Fire res
+Short for Fire Resistance or Potion of Fire Resistance.
+FnS
+Flint and Steel.
+fully automatic farm
+A farm that works without any player intervention (except for being nearby to load the chunks).
+Full Netherite/Diamond/Iron/Chain/Gold/Leather
+Full set of armor made of one material.
+
+gapple/gap
+Golden Apple; may refer to the enchanted one too, however, a term for those is also Notch Apple (official until 1.12, as seen on achievements), God Apple, E-Gapple, E-Gap, or Enchanted Golden Apple (now official, as seen by its in game item name).
+gamemode
+Gamemode may refer to Creative mode, being used synonymously, ex. "I am in gamemode." Not to be confused with the space-separated term game mode, which is the playing state of the game (Creative, Survival, Adventure).
+gear
+Armor; may refer to the removed block: Gear, however chances of seeing a player talk about it are extremely rare. Geared means "having armor equipped" and Gearing up means to equip armor. Can also mean tools, weapons and armor in general.
+GG
+Good Game. Goes with EZ too, as GG EZ (Good game, it was easy).
+golem
+Snow golem or iron golem.
+Green Top
+When a dirt house has grown grass on top. Normally used jokingly to deride lazy players who build grass homes and never upgrade them.
+
+House/Hut/Shack
+An enclosed construction of blocks built by player(s) for practical or aesthetical use, or both. Also refers to buildings in villages.
+
+ice boat
+A transportation technique in which the player rows on top of ice, which causes the boat to drift at high speeds.
+Invis
+Short for Invisibility or Potion of Invisibility.
+
+Jitter/Butterfly clicking
+A quick ways of mouse clicking used in 1.8 PvP.
+
+Microlens/E Ray verb
+A technique used to locate bastion remnants or fortresses by setting the field of view setting to the minimum, focusing on a certain area, and then checking the entity count on the debug screen. A high entity count usually confirms the location of the aforementioned structures.
+MLG
+Acronym for "major league gaming". In Minecraft this refers to the act of placing a block or using an item just before hitting the ground after falling. For example, MLG water bucket means to use a water bucket on the ground and take no fall damage when jumping off from a high place.
+mob cage
+A spawner.
+Modded
+Client/server with mods. A modded server might still be able to host vanilla clients, otherwise they are supposed to host clients that have the same mods applied.
+
+Neo
+A jump involving going around a block in parkour maps.
+Noob
+A player who is new to a game, and a shortening for newbie.
+
+Obi/Obby
+A shortening for obsidian. Crying obsidian can be named crying obby/crying obi. Not to be confused with the same term commonly used in the context of "obstacle course" in Roblox games.
+OP
+Depending on context: operator (admin) most of the time, over-powered: too powerful (equipment only, a term used mostly on modded servers and in other games), original poster (forums and sites, not necessary Minecraft related) or end-game equipment and gear.
+
+pearl
+Ender pearl. Could be a verb as well (i.e. teleporting with an ender pearl). To "pearl away" (from something, someone, etc) is to flee a conflict, for example, an unwanted PvP battle, by throwing an ender pearl away from, for example, a fight.
+perimeter
+A large area where all blocks are removed from the surface down to (or close to) bedrock level. Often used on technical Minecraft servers to allow mob farms to be built as low down as possible while removing all other mob spawning spaces, and around the world spawn point to reduce lag in the spawn chunks.
+pick noun
+A shortening for pickaxe.
+pigman
+This term is almost never used to describe Pigmen (the scrapped removed mob), and is seldom used as a short for piglins. Instead, it is used as a common short term for zombie pigmen. This term was used long before the Nether Update. Even after zombie pigmen have been renamed to zombified piglins, the term "Pigman" is still used for zombified piglins.
+Pillager/Illager Base
+Pillager Outpost or Woodland Mansion can be named "Pillager base" or "Illager base". Also Witch Hut can be rarely named "Illager base" or "Illager home" even though the witch is not an illager.
+Pillar jumping, Pillaring/Pillar/Tower verb
+When a player repeatedly jumps followed by quickly placing a block beneath. This is helpful when getting high off the ground in a short amount of time, and it can be done by just looking down and holding jump and use with a proper block selected.
+pop verb
+When a Totem of Undying is used. Usually used in PvP, though can be used in other situations as well.
+pot
+A shortening for Potion. E.g. Invis Pot
+pro
+A player who is good at the game and is the opposite of a noob. A shortening for professional.
+prot
+A shortening for Protection, and may also be used to describe other damage-reducing enchantments (e.g. Projectile Protection).
+pumpkin vision
+The effect of wearing a Carved Pumpkin on your head.
+
+Quad (jump)
+When a player has to sprint-jump over a 4-block gap horizontally, which is the furthest a player can jump while sprinting without any  (de)buffs. This term is often used when playing on parkour maps.
+
+raiding
+While similar to the destructive form of griefing, the most notable difference is that raiding is done with the purpose of gaining material assets (i.e. items) or strategic advantages toward an enemy and in most cases, it is on a relatively large scale. This term is mostly used on Factions servers.
+Regen
+Short for Regeneration or Potion of Regeneration.
+Relog/Log verb
+To disconnect from the server and rejoin the server, usually to fix glitches.
+rod
+Blaze Rod or Fishing Rod, also can be used as a verb to hook onto something with a fishing rod.
+run noun
+In a speedrunning context, refers to an attempt to defeat the ender dragon in a freshly generated world as fast as possible.
+
+sea
+All types of ocean can be named "sea".
+semi-automatic farm
+A farm that requires active player intervention in order to produce but has an enhancing mechanism to help the player plant/harvest crops or spawn/kill mobs (depending on the type) and/or they feature enhancement for collecting items.
+semivanilla
+Any modded server that accepts vanilla clients. This is because the term "modded" for servers usually mean servers that do not accept vanilla clients at all, despite that semivanilla servers use modified server software, use third-party plugins, and/or run on systems like Bukkit and PaperMC. Semivanilla may simply mean "between modded and vanilla."
+skelly
+Short for a skeleton.
+slimestone
+Moving redstone contraptions. Often uses large numbers of slime blocks and honey blocks.
+splash
+Splash potion or now more commonly, splash text (also known as Splash Screen).
+Spam verb/Spam clicking
+The act of clicking a key repeatedly in quick succession. Spam may also refer to filling the chat by copy-pasting a line or holding a key.
+speedrun
+The act of completing a certain goal in a video game as fast as possible. In Minecraft, it usually refers to defeating the ender dragon in a newly-generated world.
+sprint-jumping
+Sprinting and (continuously) jumping. It is the fastest way a player can run without the use of status effects, Spectator Mode, enchantments, or client modification. One can run faster in spaces 2 blocks tall, on stairways or on ice and its variants, by manually spamming or holding the jump key.
+staff
+Players that were granted additional commands to use compared to regular players, in order to help administrate the server. Staff members aren't necessarily Admins as they might not have even nearly full access to all of the commands, just like the real-life meaning of the term, where a staff member might not be on top of the hierarchy.
+sub preposition
+In a speedrunning context, sub-number refers to a run that takes a total time less than that number of minutes. For example, a 14:37 run is a sub-15.
+sus gravel
+Suspicious gravel
+sus sand
+Suspicious sand
+sus stew
+Suspicious stew
+
+totem
+A shortening of totem of undying.
+trading hall
+A player-made building where an array of villagers are lined up for easy access to trades.
+troll
+A player who messes with people, though not as bad as a griefer. To some people, the two terms are synonymous.
+
+Vanilla
+An unmodified Minecraft client. This term can be used for any piece of software. This term is now somewhat official, as it is shown on the Java Edition debug screen.
+
+XP/EXP
+Abbreviation for "experience points", or just "experience".
+
+zombie flesh
+An alternative name for rotten flesh.
+zombo/zomb
+A shortening for zombie. Zombified piglins, piglins, or zoglins can be named "zombo pig".
+zombie pigman
+The old name of the Zombified piglin.
+
+Tutorials/Architectural terms
+Tutorials/Griefing prevention
+Controls
+Glossary of video game terms in Wikipedia

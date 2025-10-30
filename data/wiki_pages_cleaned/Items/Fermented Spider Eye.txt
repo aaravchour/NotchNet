@@ -1,0 +1,9 @@
+A fermented spider eye is a brewing ingredient.
+
+They can be used to brew potions with negative effects, as well as the Potion of Invisibility. 
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Fermented Spider Eye" are maintained on the bug tracker. Report issues there.

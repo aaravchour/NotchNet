@@ -1,0 +1,31 @@
+The frost scythe is a unique soul scythe variant that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Pumpkin Pastures (Adventure)
+Arch Haven (Adventure)
+??? (Adventure)
+Frosted Fjord (Adventure, DLC)
+Lone Fortress (Adventure, DLC)
+Abyssal Monument (Adventure, DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+First Enchanter
+
+The frost scythe possesses above average power, low speed, and high area. It has a continuous attack of two sideways slashes.
+
+X melee damage
+Slows mobs (Freezing tier I)
++1 Soul gathering
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+900
+
+Issues relating to "Frost Scythe" are maintained on the bug tracker. Report issues there.

@@ -1,0 +1,9 @@
+Vine farming is a way to harvest large quantities of vines. Since vines can only be obtained when using a shear, you should be farming some iron too if you really need a lot of vines.
+
+
+== Designs ==
+
+
+=== Niondil's design ===
+Pretty easy design, all you have to do is hold down the attack button and you'll get vines.
+Uses water to move the player and the vines dropped.

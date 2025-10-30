@@ -1,0 +1,38 @@
+The long-nosed sheep was a dark-faced variant of the sheep only found in Minecraft Earth.
+
+
+== Appearance ==
+The long-nosed sheep was a dark-faced variant of the sheep. Their face was dark brown in color, and the wool surrounding its face was a mix of dark shades of brown and black. Its wool was beige in color and the wool surrounding near its legs also applied the same shades of dark brown and black. It possessed black hooves. Unlike the normal sheep, its eyes were more placed upwards rather than at the center of the face.
+
+
+== Behavior ==
+
+Similar to normal sheep, long-nosed sheep had the same AI behavior. They wandered aimlessly, avoiding lava and cliffs high enough to cause fall damage.
+
+
+== Obtaining ==
+Long-nosed sheep were an uncommon mob drop found in sheep tappables.
+
+
+== Drops ==
+When sheared, long-nosed sheep dropped 1-6 Brown Wool.
+When killed, long-nosed sheep dropped:
+
+1 Brown Wool
+1 Raw Mutton (Cooked Mutton if killed while on fire)
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Trivia ==
+The long-nosed sheep was actually based on an actual breed of sheep with the same appearance, being the Valais Blacknose.
+
+
+== Gallery ==

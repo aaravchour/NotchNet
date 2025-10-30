@@ -1,0 +1,50 @@
+A name tag is an item used to name mobs in the world and prevent them from despawning naturally.
+
+Name tags can be caught from fishing as part of the treasure category with a 16 chance after the 5% chance of being a treasure catch. The chance of catching treasure increases with the Luck of the Sea enchantment.
+
+Master-level librarian villagers offer to sell a name tag for 20 emeralds as one of their available trades.
+
+To use a name tag, it must first be renamed with an anvil, costing 1 experience level. 
+If it is not renamed, it has no effect when used on a mob. After the name tag is renamed, the player can use it on a mob to give it the name given to the name tag from the anvil. Mobs and name tags can be renamed any number of times. Name tags with the same name are stackable. 
+Once a mob is named, it keeps its name, and the name tag is consumed.
+When a mob is named, it is excluded from the mob cap count.
+Effects on various mobs:
+
+A named silverfish that goes into a block appears to lose its name because it is replaced by a newly generated unnamed silverfish when the block is broken.
+A baby (animal or villager) keeps its name when becoming an adult.
+A named villager keeps its name when transformed into a zombie villager.
+A named zombie villager keeps its name when cured.
+Wandering traders still despawn even if they are named, or in a minecart or boat.
+A named wither's boss bar displays its name instead of "Wither".
+Naming an ender dragon with commands also displays the name in the boss bar.
+
+Any mob can be named except for the ender dragon and players.
+A name tag can rename an armor stand, though it does not show the nameplate above its head until CustomNameVisible:1b is set as an extra step.
+Using a name tag on a villager renames the villager instead of opening the trading interface. A saddled pig is renamed instead of being ridden. Using a name tag on any other mob that can be interacted with performs the use action instead of being named. These mobs can be renamed if the player uses the name tag while crouching or standing in a nether portal because the portal suppresses the use action.
+Once a name tag is used on a mob, it is impossible to remove the name of that mob without the use of commands or external modifications.
+
+Renamed mobs have their name displayed over their head in the same fashion as a mob named through a renamed spawn egg. Their names can be seen only if they are aimed at from four or fewer blocks away.
+Mobs that are named using the name tag never despawn in the world, similar to tamed mobs. The exceptions are wandering traders or if the mob is hostile and the difficulty is switched to "Peaceful", causing any hostile mobs or any named hostile mobs to despawn immediately. 
+If a renamed mob kills a player, the custom name is used in the death message in place of the mob type name. For instance, if a vindicator named "Johnny" kills a player, the death message is "Player was slain by Johnny". 
+A renamed wither also has a renamed health bar, and the boss bar doesn't regenerate.
+
+Any mob that receives the name "Dinnerbone" or "Grumm" is rendered upside down. This even includes the player in early versions of Bedrock Edition if the username is set to either of these and you are not signed into Xbox Live.
+Naming a sheep "jeb_" causes its wool to fade between the dye colors, producing a rainbow effect. The wool that drops when the sheep is sheared or killed is the original color of the sheep before the sheep was named.
+Naming a rabbit "Toast" causes it to have a special memorial skin of user xyzen420's girlfriend's missing rabbit.
+Naming a vindicator "Johnny" causes it to be aggressive and attack all mobs including the wither (except ghasts and other illagers). The hostility even extends to ravagers in Java Edition, as the "Johnny" vindicator can also attack the ravager while it's riding it.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Name Tag" are maintained on the bug tracker. Report issues there.
+
+Name tags were added at the request of Paulsoaresjr.
+A stack of up to 64 name tags can be renamed at once. The cost is 1 experience level per stack, regardless of how many name tags were stacked.
+To name a mob Name Tag the player must give the name tag a random name, then rename it back to Name Tag.
+A villager with a name tag turned into a zombie villager by a zombie with a name tag does not despawn, but a villager with a name tag turned into a zombie by a zombie without a name tag does despawn.
+It is impossible to have a rainbow sheep upside-down, because it is impossible for it to be named Jeb_ and Dinnerbone at the same time.
+
+Spawn Egg
+
+Taking Inventory: Name Tag  Minecraft.net on March 15, 2019

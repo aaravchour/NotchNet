@@ -1,0 +1,9 @@
+The golden axolotl is a cosmetic pet mob that can be found within the Luminous Night seasonal adventure of Minecraft Dungeons.
+
+The golden axolotl is a golden yellow variant of the axolotl from the original game, possessing yellow fins and gills.
+
+Adventure Hub
+
+The wild axolotl follows heroes around. It is purely cosmetic and does not attack any mobs.
+
+In the game files, the golden axolotl is referred to internally by the name GoldAxolotl.

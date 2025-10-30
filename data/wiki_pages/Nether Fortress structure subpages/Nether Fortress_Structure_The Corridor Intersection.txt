@@ -1,0 +1,7 @@
+These connect to four corridors.
+
+
+==== Materials ====
+
+
+==== Blueprint ====

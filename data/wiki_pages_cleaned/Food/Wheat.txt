@@ -1,0 +1,24 @@
+Wheat is an item primarily obtained by harvesting fully-grown wheat crops. It is used for crafting as well as to feed certain animals.
+
+When a fully-grown wheat crop is harvested, it drops 1 wheat and 1 to 4 wheat seeds (2 57 per crop harvested on average). A wheat crop has a total of eight stages (0-7) from the time it is planted until it can be harvested. If a crop is harvested before it is fully grown, it just drops one seed. Wheat needs light to grow; a seed is destroyed if planted without light. Harvesting with a Fortune-enchanted tool increases the number of seeds dropped but does not increase the yield of wheat.
+
+A fox sometimes spawns holding wheat, which it always drops upon death. Alternatively, the player can drop a food item, causing the fox to drop the wheat.
+
+When wheat is held, it causes nearby cows, sheep, goats and mooshrooms to follow the player, until either the player stops holding the wheat or goes too far away from the animal, thus leading them to lose interest.
+Wheat may be used to breed cows, sheep, goats, and mooshrooms by first herding two of them together and then using the wheat on them to begin "Love Mode."
+Wheat can heal a horse 1 health or lower its temper by 3% when attempting to tame it. It can also decrease the time it takes for a foal to grow by 20 seconds.
+Similarly, wheat can heal a llama 2 health, and it decreases the time it takes a baby llama to grow by 10 seconds.
+
+Novice-level farmer villagers have a 25% or 40% chance to buy 20 wheat for one emerald.
+
+Placing wheat into a composter has a 65% chance of raising the compost level by 1. A stack of wheat yields an average of 5.94 bone meal.
+
+Java Edition:
+
+Bedrock Edition:
+
+Note: the narrator demonstrates at 0:56 that walking over wheat can destroy the crop and un-till the land. This is outdated: since version JE 1.1, wheat can be destroyed only by a player or mob jumping on it or falling on it.
+
+Issues relating to "Wheat" are maintained on the bug tracker. Report issues there.
+
+Taking Inventory: Wheat  Minecraft.net on April 21, 2022

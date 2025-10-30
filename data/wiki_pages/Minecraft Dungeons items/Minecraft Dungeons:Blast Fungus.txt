@@ -1,0 +1,75 @@
+The blast fungus is an artifact that can be found within the flames of the nether DLC, of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Warped Forest (Adventure)
+Crimson Forest
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+
+== Usage ==
+When used, the blast fungus sprout out, spread in different directions, and explode, dealing damage to any target within its range. It acts similarly to the MCD:Scatter Mines, with the exception that they detonate faster.
+
+
+=== Properties ===
+X artifact damage
+6 second cooldown
+
+
+== Sounds ==
+
+
+== Data values ==
+In the game files, the blast fungus is referred to internally by the name NetherWartSporeGrenade and the name BlastFungusMushroom.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Blast Fungus" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===
+
+		
+			
+			
+		
+
+
+== References ==

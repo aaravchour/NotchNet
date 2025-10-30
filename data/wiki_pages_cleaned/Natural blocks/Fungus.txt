@@ -1,0 +1,36 @@
+A fungus is a mushroom-like block that generates in the Nether. There are two types of fungi: crimson and warped.
+
+A fungus can be mined instantly using any tool or with no tool, and always drops itself as an item. Mining a flower pot containing a fungus drops the flower pot along with the fungus.
+
+Fungi naturally generate in the crimson forest and warped forest biomes. Crimson fungi most commonly generate in the crimson forest biome and warped fungi most commonly generate in the warped forest biome. Warped fungi can generate in crimson forests and crimson fungi in warped forests but this is uncommon.
+
+An enderman holding a fungus drops the fungus upon death.
+
+Applying bone meal to nylium causes fungi to appear nearby, similarly to flowers on grass blocks. While fungi of both types and other Nether vegetation generate this way, they are more likely to be the same type as the nylium.
+
+Fungi can be placed on grass blocks, dirt, coarse dirt, podzol, farmland, rooted dirt, moss blocks, nylium, mycelium, soul soil, mud, and muddy mangrove roots. Fungi requires a solid block underneath it, and pops off and drops itself if it is no longer supported.
+Fungi can also be placed in flower pots.
+
+When bone meal is used on a fungus that is planted on matching nylium, it has a 40% chance to grow into its tall equivalent (similarly to saplings and mushrooms). Crimson and warped fungi grow into crimson and warped huge fungi, respectively. The stem, shroomlight, or nether wart block may replace certain blocks including slabs and torches.
+
+Crimson fungus can be used to breed hoglins and keep them from despawning, but it does not stop the hoglin from attacking the player. Warped fungus can be used to breed striders and lead them around if crafted as a warped fungus on a stick.
+
+All hoglins, regardless of age, avoid and run up to 7 blocks away from warped fungus when it is placed on a block or inside of a flower pot. Held warped fungi and warped fungi on sticks do not have this effect.
+
+An enchanted fishing rod can be used in crafting as well, although the enchantment will not be passed onto the warped fungus on a stick. It will also not be counted by the counter in the crafting interface for how many warped fungus on a stick can be crafted.
+
+Placing a fungus into a composter has a 65% chance of raising the compost level by 1.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Crimson Fungus" or "Warped Fungus" are maintained on the bug tracker. Report issues there.
+
+Crimson Forest
+Warped Forest
+Huge fungus

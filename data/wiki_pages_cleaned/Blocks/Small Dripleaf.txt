@@ -1,0 +1,28 @@
+A  small dripleaf is a plant which generates in lush caves, and is used to grow big dripleaves, a platforming block.
+
+Small dripleaves naturally generate within the lush caves biome.
+
+Small dripleaves can be obtained by trading with a wandering trader, who sometimes may sell 2 small dripleaves for 1 emerald. Note that small dripleaves cannot be farmed as such:  Bone meal converts them to a big dripleaf, which can be grown/duplicated with bonemeal, but that does not produce small dripleaves.
+
+A small dripleaf can be obtained by mining it using shears. A small dripleaf drops nothing when mined using any other tool, pushed with a piston or sticky piston, or broken by destroying or moving the block under it. It breaks instantly in all cases.
+
+Small dripleaf can be placed on top of clay and moss blocks. They can also be placed on dirt, coarse dirt, farmland, grass blocks, podzol, rooted dirt, mycelium, and mud if these blocks are underwater.
+
+Using bone meal on a small dripleaf causes it to grow into a big dripleaf, from two to five blocks tall. The small dripleaf is consumed in the process, and cannot be retrieved.
+Small dripleaves do not grow on their own.
+
+Small dripleaf can be placed into composter and increase compost level by 1 with 30 % chance.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Small Dripleaf" are maintained on the bug tracker. Report issues there.

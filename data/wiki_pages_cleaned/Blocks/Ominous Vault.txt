@@ -1,0 +1,10 @@
+The ominous vault is a less common variant of the Trial Vault. They are found in Trial Chambers and can only be opened with an ominous trial key depending. Ominous vaults can only be used once per player.
+
+Mining an ominous vault with any items will drop nothing, even if mined with Silk Touch, this makes ominous vault unobtainable in Survival without glitches. Ominous vault takes a long time to be mined, and will take the same amount of time regardless of the items used to mine.
+
+Ominous vaults usually generate higher up than Trial vaults, and are embedded in the chamber's walls.
+
+Ominous Vaults appear to resemble a Trial Vault, but with the top looking like it consists of tuff, and deepslate. In the center of the metal shutters, there is a hole, presumably where the loot comes out from. There is also a three-headed skull face (similar to a wither) on the front of the block, and its Bad Omen red eyes are desaturated while "dormant", but saturate and gleam when a player comes within its radius. It then "opens", where it makes a sound as the skull's mouth opens up, seemingly expecting an Ominous Trial key. When in this state, the loot available will flash and rotate inside of the cage within the block, displaying the possible loot the player will receive.
+When unlocked with the right key, the skull's mouth shuts close, as its top metal shutters flap out, ejecting the loot from the hole.
+
+Issues relating to "Ominous Vault" are maintained on the bug tracker. Report issues there.

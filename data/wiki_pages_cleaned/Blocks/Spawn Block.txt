@@ -1,0 +1,5 @@
+Spawn Block is block that can be used to set the spawn point.
+
+The last placed spawn block that is placed defines the spawn point of the world. When some new player login into the world, the player will be on spawn block. Also when player uses the "Teleport me to spawn" function, the player will be teleported to the last placed spawn block. This also applies for player death.
+
+Introduction of spawn block.

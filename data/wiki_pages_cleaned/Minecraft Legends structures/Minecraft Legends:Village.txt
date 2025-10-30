@@ -1,0 +1,7 @@
+A village is a structure in Minecraft Legends. 
+
+Fountain
+House
+Roads
+
+Fountain chests, also known as village chests, produce basic materials, such as wood, stone and lapis. They also produce the ore that spawns in the biome that the village spawns in. The improvement "linked chests" makes you collect the village chest materials of every village.

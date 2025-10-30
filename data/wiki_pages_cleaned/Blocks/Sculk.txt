@@ -1,0 +1,33 @@
+Sculk is a bioluminescent block found abundantly in the deep dark or converted from other blocks by a sculk catalyst. Like most of the rest of the sculk family it drops experience when broken by a tool that is not enchanted with Silk Touch.
+
+Sculk blocks can be mined with any tool, but hoes are the quickest. It always drops 1 experience if mined without Silk Touch.
+
+Sculk are naturally generated in patch formations within the deep dark biome.
+
+Sculk blocks generate when a mob dies within 8 blocks of a sculk catalyst, replacing blocks in the area with the sculk_replaceable tag, which includes the surface materials of most biomes in all three dimensions.
+
+Sculk blocks are primarily used for decoration. They have an animated texture that consists of glowing spots, but they do not illuminate the surroundings. It has a similar texture of an end portal viewed from above.
+Sculk blocks near sculk catalyst are also used for sculk growth, which can produce more sculk blocks, sculk sensors and sculk shriekers.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Sculk" or "Sculk Block" are maintained on the bug tracker. Report issues there.
+
+"Sculk" is derived from the word "skulk," meaning "keep out of sight, typically with a sinister or cowardly motive".
+During the prototype phase, sculk was much easier to trigger; simply stepping on in would make a lot of noise and attract the Warden. This ended up being deemed unfair, resulting in the creation of the Sculk Sensor.
+The old trypophobia shrieker was a combination of the modern day shrieker and scrapped sculk jaw as it would both scream and show teeth
+
+Images are sorted by their approximate creation date.
+
+Deep dark
+Warden

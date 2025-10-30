@@ -1,0 +1,25 @@
+A soul crossbow is a ranged weapon that can be found within the various missions of Minecraft Dungeons. It's unique variants are the voidcaller and the feral soul crossbow.
+
+Missions
+Arch Haven
+Obsidian Pinnacle
+???
+The Stronghold (DLC)
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Cursed Presence
+
+X ranged damage
++1 Soul Gathering
+
+Quiver: 40
+Fire Rate: 1.67 shots per second
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+Issues relating to "Soul Crossbow" are maintained on the bug tracker. Report issues there.

@@ -1,0 +1,126 @@
+This is a tutorial on how to make songs or special sounds with note blocks and redstone. Once you know the basics of redstone music, you can make an infinite number of songs.
+
+Use a redstone signal to play the sound
+Right-click to change the pitch of the note block
+Remember that redstone dust activates all of the blocks around it, not just one.
+Always remember that you need a block of space above a note block.
+
+Be careful with water as it destroys redstone on contact.
+If you have a lot of redstone, it might be helpful to color code or label what part does what in case it breaks.
+You can use pistons to start/stop the song.
+You can use buttons to start/stop instead of levers.
+It is possible to make a song with a certain section that keeps repeating until a signal comes through and moves to the next thing. This is achievable by making a closed circuit using redstone, repeaters, and note blocks, and use a hopper timer to time when to open the circuit and continue the song.
+
+By placing repeaters and note blocks in lines, it is possible to play multiple times.
+Another way is to put note blocks under detector rails, so as you ride along you can play the song of your choice!
+
+When making redstone music in vanilla Minecraft, it's very helpful to know how you can translate sheet music you find online into an actual note block circuit. The main two factors of music are rhythm and pitch. Rhythm is determined by how many repeaters you put before/after a note block, and how many ticks you set them to, and pitch is determined by how many times you right click a note block. Once you know how rhythm and pitches relate to ticks and note blocks, you can make an infinite number of songs.
+
+Pitch is one of the most important factors of music. Here is a table of how all notes in music that are able to be played on Minecraft can be simulated with note blocks. The table shows how many times to press the noteblock to get the desired pitch.
+
+Rhythm is another important factor of music, which is basically how long a note is held for. The next table shows how many redstone ticks, using repeaters, must go after a note block, depending on the tempo of the music, and what kind of rhythm the note is. Remember; the maximum number of ticks for one repeater is 4, so if you need more than 4 ticks, you need more than one repeater. Also, the numbers you see on top is the tempo of the music, which is how many beats there are in a minute.
+
+If you must have your song in a tempo where triplets have no exact match, you can substitute for 2 sixteenth notes followed by an eighth note, which sound similar to triplets at faster tempos.
+
+Different sounds can be made on note blocks by putting different types of blocks under note blocks. Here is a list of what block(s) you need to put under a note block to make it have a specific sound.
+
+Bass = Wood (any type), mushroom (block), daylight sensor, banner, sign, note block
+Bass drum = Stone (any type), bricks, netherrack, magma block, purpur block, concrete, nether quartz
+Bell = Block of gold
+Chime = Packed ice
+Clicks and sticks = Glass (any type), sea lantern
+Flute = Clay block
+Guitar = Wool
+Snare drum = Sand, gravel, concrete powder
+Xylophone = Bone block
+Piano (harp) = Any other block (e.g. dirt, piston, rail, leaves)
+Iron Xylophone = Block of Iron
+Cowbell = Soul Sand
+Didgeridoo = Pumpkin
+Bit = Block of Emerald
+Banjo = Hay Bale
+Pling = Glowstone
+
+Note blocks can be used to make sounds that may benefit playing, or to make your favorite songs.
+Note: All of the songs listed here that can be made into note blocks are in the public domain, meaning their copyright has expired.
+
+Follow these steps so that you can make a sound similar to a train whistle:
+
+Place a button on the ground. Place redstone behind the button. Then, place a redstone piece on either side of the first redstone; one on the left, and one on the right.
+Place 3 repeaters, set to no delay, behind the redstone, facing away from you, so that if the redstone were to be powered, the repeaters would pick up the signal.
+Dig out the 3 blocks behind the repeaters and replace them with clay, so that when the note block is on top of the block, it emits a flute sound.
+Place note blocks on top of the clay. Right-click one 8 times, another 12 times, and the final one 16 times.
+Place 3 repeaters, side by side behind the note blocks, and set them to full delay, or 4 ticks. Place another row of repeaters behind them, and right-click them once, setting them to 2 ticks.
+Repeat steps 3 and 4 for the three blocks behind the repeaters. When you press the button, now you have a train whistle sound.
+If you want, you can turn this into a railroad crossing sound. When a minecart runs over a detector rail near the crossing, have redstone wiring connected to the note block circuit.
+
+If you follow these steps, you can produce the basic melody for the song: "Twinkle Twinkle Little Star."
+
+Choose which note block sound you would like to use. Piano/harp is probably the easiest sound to use, because the Overworld is naturally made up of grass and dirt.
+Place a note block, and right-click it 6 times. Attach a button to the front of the note block. Behind the note block, place a repeater set on full 4-tick delay, and another one behind that set on 2-tick delay. Repeat again, behind the structure you have made so far.
+Repeat step 2, including the part where you repeat the same pattern again, except this time, right-click the note blocks 13 times. Repeat this same thing yet again, this time right-clicking the note blocks 15 times. So far, you should have 6 note blocks. Try pressing the button. If it does not sound, make sure the repeaters are facing the right way. If it is out of tune, make sure you have tuned the note blocks correctly.
+Place a note block behind the last repeater, and right-click it 13 times. To conserve more space, the next 3 repeaters actually go to the right of the note block. Place a repeater to the right of the note block, and then 2 more to the right of that repeater. All of the repeaters should be set to full 4-tick delay.
+Place a note block to the right of the repeater furthest to the right, and right-click it 11 times. Then, place a repeater in front of the note block, on full 4-tick delay, and another one in front of that one, on 2-tick delay, both repeaters facing toward you. Repeat, with the repeaters, like before, facing toward you.
+Repeat all of step 5, including the part where you repeat the same pattern again, except this time, right-click the note blocks 10 times. Then, repeat again, but this time, right-click the note blocks 8 times. Finally, place one final note block in front of the repeater closest toward you, and right-click it 6 times.
+Press the button, and it should sound like "Twinkle Twinkle Little Star." This is only the first part of the song, so if you want the rest of it, look up sheet music (which is easy to find). Here is the pitch/rhythm guide to Twinkle Twinkle Little Star:
+C: Right-click note block 6 times
+D: Right-click note block 8 times
+E: Right-click note block 10 times
+F: Right-click note block 11 times
+G: Right-click note block 13 times
+A: Right-click note block 15 times.
+Quarter note (exclusively "Twinkle Twinkle Little Star"): 4 tick repeater + 2 tick repeater (6 redstone ticks)
+Half note (exclusively "Twinkle Twinkle Little Star"): 4 tick repeater + 4 tick repeater + 4 tick repeater (12 redstone ticks)
+
+The following song is the first part of The United States National Anthem. Exact instructions are not included this time, so use your knowledge from the previous two songs, and look up notes/rhythms on the chart in the section titled "Translating Real Music to Minecraft Note Blocks," so that you can figure out how to tune the note blocks, how many repeaters go in between the note blocks, and what delay they are set to.
+Tip: The tempo is 75, meaning that a quarter note is equal to 8 ticks, or 2 repeaters, both set to full delay.
+The only instrument that has the full range of the song is harp/piano. This means that the block under each note block must be something other than wood, sand, gravel, soul sand, concrete, glass, stone, brick, gold, clay, packed ice, wool, or a bone block.
+Follow the steps, in order, and use the chart in the section titled "Translating Real Music to Minecraft Note Blocks" to translate the pitches and rhythms into redstone music.
+
+F4, Eighth note
+D4, Eighth note
+B3, Quarter note
+D4, Quarter note
+F4, Quarter note
+B4, Half note
+D5, Eighth note
+C5, Eighth note
+B4, Quarter note
+D4, Quarter note
+E4, Quarter note
+F4, Half note
+F4, Eighth note
+F4, Eighth note
+D5, Quarter note
+C5, Quarter note
+B4, Quarter note
+A4, Half note
+G4, Eighth note
+A4, Eighth note
+B4, Quarter note
+B4, Quarter note
+F4, Quarter note
+D4, Quarter note
+B3, Quarter note
+
+One of the many ways to create note block songs is to use external software.
+
+You can convert any song you want into a set of note blocks using an external application called Note Block Studio created by Davve.
+This method also requires MCEdit to import the result into your world.
+
+First of all you need a midi version of your song. A specifically-made midi version is preferred; if there are no available midi versions, you can try certain converters to convert your mp3 files to midi, but the result is often not satisfactory.
+Second, you should open your song in Note Block Studio, which can be done by pressing 'Load' then find your .midi file and import it.
+Then play it to see how it sounds. If, in the top right, it mentions that the input is 'Not compatible', you can fix this by clicking the button and then pressing 'Fix'.
+Now go to File  Export as Schematic, and choose your own options there.
+Open your world in MCEdit and Import the Schematic you just exported and place it wherever you want in your world. Wait for it to load.
+Press Ctrl+S to save your world. Close MCEdit, and open up your Minecraft world.
+
+Video by Familycraft:
+
+Video by Amosdoll Music:
+
+Tutorials/Redstone music/Doorbell
+Note Block
+Redstone Dust
+Redstone Repeater
+Button

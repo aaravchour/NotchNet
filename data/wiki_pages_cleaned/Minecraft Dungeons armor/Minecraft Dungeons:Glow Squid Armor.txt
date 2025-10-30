@@ -1,0 +1,23 @@
+The glow squid armor is a unique squid armor variant that can be found within the hidden depths DLC of Minecraft Dungeons.
+
+When worn, the glow squid armor glimmers with light green sparkles, just like its namesake mob.
+
+Missions
+Abyssal Monument
+Radiant Ravine
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Abyssal Eye
+
+The squid armor has the ability to squirt ink upon dashing, blinding nearby enemies. This armor is mainly good for quick and speedy escapes due to the ink clouds when rolling and Invulnerability, allowing protection while escaping hordes of mobs. Enchantments like Acrobat and Swiftfooted pair well with this armor.
+
++X health
+Brief invulnerability when rolling
+Release an ink cloud when rolling
++15% movespeed aura
+
+Issues relating to "Glow Squid Armor" are maintained on the bug tracker. Report issues there.

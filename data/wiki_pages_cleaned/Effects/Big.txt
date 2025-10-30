@@ -1,0 +1,2 @@
+Big is an effect that makes entities bigger. Big I makes the entity bigger by 1.5x, while Big II makes it 2x bigger (confirmation needed).
+It is the counterpart to Small.

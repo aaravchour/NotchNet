@@ -1,0 +1,21 @@
+A copper lantern is a copper variant block that was added in The Copper Age. Like normal lanterns, it gives off light when exposed to darkness and oxidizes like most copper blocks.
+
+Copper lanterns can be easily broken by hand, but using any pickaxe can break it faster.
+
+A copper lantern also drop as an item if:
+
+The attachment block is removed or destroyed.
+Water or lava flows into it.
+a piston tries to push it or moves a block into its space.
+
+Like lanterns, copper lanterns can be placed on top or bottom portion of any solid blocks.
+
+Like most copper blocks, unwaxed copper lanterns undergo 4 stages of oxidation:
+
+Unoxidized - Normal stage
+Exposed
+Weathered
+Oxidized
+Only lightning and axes can reverse the oxidation process. Using a honeycomb on an unwaxed copper lantern prevents oxidation.
+
+Issues relating to "Copper Lantern" are maintained on the bug tracker. Report issues there.

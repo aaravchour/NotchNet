@@ -1,0 +1,3 @@
+This house has the walk-on roof. Never spawns with a door (confirmed using a custom flatland level with village size and proximity set to extremes, giving tons of examples of every building to examine). Sometimes spawns as a variant with no ladders and no fences.
+
+The following commands list can be used to automate building this structure.

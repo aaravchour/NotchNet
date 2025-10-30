@@ -1,0 +1,43 @@
+Bread is a food item found within Minecraft Dungeons. When consumed, it heals 100% over thirty seconds.
+
+
+== Obtaining ==
+Bread is mainly obtained by defeating mobs, and opening chests. 
+It is also dropped from supply chests as the guaranteed food item. 
+The common armor enchantment Food Reserves has a chance to create bread as well as other food items. 
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+
+
+=== In-game ===
+
+		
+			
+			
+		
+
+
+== References ==

@@ -1,0 +1,15 @@
+A bamboo mosaic is a decorative block crafted out of bamboo slabs.
+
+Bamboo mosaics can be broken with any tool, but an axe is the quickest.
+
+When used in a furnace as fuel, bamboo mosaics last 15 seconds (smelting up to 1.5 items).
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Bamboo Mosaic" are maintained on the bug tracker. Report issues there.

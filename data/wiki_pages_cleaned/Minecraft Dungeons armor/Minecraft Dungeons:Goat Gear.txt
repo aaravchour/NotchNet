@@ -1,0 +1,21 @@
+The goat gear is a unique climbing gear variant that can be found within the howling peaks DLC of Minecraft Dungeons.
+
+Missions
+Windswept Peaks
+Colossal Rampart
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Windbeard
+
+-40% artifact cooldown
+Resists any form of knockback by 75%
+Gives an extra roll (Multi-Roll tier I)
+
+In-game, health numbers can vary even in the same power level, and may not be exactly as seen below.
+
+Issues relating to "Goat Gear" are maintained on the bug tracker. Report issues there.

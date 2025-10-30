@@ -1,0 +1,19 @@
+The blueprints for all of the old (pre 1.14) village buildings and tutorials showing how to build them.
+
+The only structure a village is guaranteed to have is one and only one well. Villages usually spawn with multiple farms and houses. The rarest buildings are blacksmiths, butchers, churches, and libraries. Small villages may not even have one of each, but large villages can spawn with multiples of each.
+Streets are made with grass path if replacing grass blocks, planks or (in desert villages) sandstone if replacing water or lava, otherwise gravel with cobblestone under. Streets are 3 blocks wide and lead away from the well in any of the 4 cardinal directions.  All streets are straight with intersections at right angles.  Streets dont need to be flat across.
+Entry stairs are optional for all buildings, and do not spawn if the door/entrance is at street level. A building is spawned above street level has stairs leading straight out from its entrance down to the street level, with cobblestone blocks as a foundation extending below the first floor if the building did not spawn on a flat spot. Also, all asymmetrical buildings can spawn as shown below or as a horizontal mirror image.
+A fraction of buildings in a new village generate without doors. Some buildings never spawn with doors; for example, blacksmith and small house V1.
+Building roofs and interior benches have not yet made use of corner stairs.   Instead they still use Wooden Planks.
+
+Villages have 4 types: 
+
+Plains
+Desert
+Savanna
+Taiga
+Taiga villages use spruce wood, Savanna villages use acacia wood. There are acacia logs instead of cobblestone in savanna villages except the blacksmith, church, and around the well. Desert villages have sandstone based variants of all the buildings substituting regular sandstone for cobblestone or wooden logs, and smooth sandstone for wooden planks. Wooden doors and fence posts are still used despite the lack of wood sources. Desert blacksmiths still use stone slabs on the roof. Also cobblestone in the church, the blacksmith and around the well is not replaced with sandstone.
+
+There are also zombie villages, but is almost identical to the normal village; with the exception that no doors or torches are generated, zombie villagers would be generated in the village instead of villagers. Everything else would generate the same as a normal village.
+
+Designs from 1.14+ villages are documented on Village/Structure/Blueprints.

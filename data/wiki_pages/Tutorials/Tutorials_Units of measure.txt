@@ -1,0 +1,55 @@
+This tutorial is designed to compare units of measurement in Minecraft to real life units and to compare different units used in-game.
+
+
+== Time ==
+To convert time in Minecraft to time in real life, simply divide by 72, and vice versa. To measure ticks in Minecraft, multiply the real time (seconds) by 20 (this doesn't factor in lag and assumes a constant 20tps).
+
+
+== Amount of items ==
+1 item is the most basic measurement in quantity.
+
+1 block = 9 items. Used for resources that can be crafted into storage blocks and back (most kinds of processed minerals, slimeballs, bone meal, melon slices, wheat, dried kelp)
+1 stack = 64 items = 7 blocks, 1 item. Note that some items like banners, signs, eggs, and ender pearls only stack to 16. So if someone says they have a stack of eggs, they have 16. For unstackable items, a stack is just 1.
+One stack of a fully-stackable material (e.g. stone, diamond) will fully occupy one slot in one's inventory.
+1 full hopper = 5 stacks = 320 items.
+1 stack of blocks = 9 stacks = 576 items when completely uncrafted.
+1 full dispenser or dropper = 9 stacks = 576 items.
+Mining capacity of an unenchanted diamond pickaxe = 24 stacks 25 items = 1561 items.
+1 full chest = 27 slots or 27 stacks = 1,728 items.
+Mining capacity of an unenchanted netherite pickaxe = 31 stacks 47 items = 2031 items
+1 inventory = 37 stacks = 2,368 items, when the offhand is included.
+1 full double chest = 2 chestfuls = 54 stacks = 3,456 items.
+Note: The phrase "double chest" is often shortened to "dub"; e.g. "a dub of cobblestone", meaning 54 stacks.
+1 chestful of shulker boxes = 27 chestfuls = 729 stacks = 46,656 items.
+1 double-chestful of shulker boxes = 54 chestfuls = 1458 stacks = 93,312 items.
+A useful tool to convert different units in the game can be found on https://gamertools.net/tools/1.
+
+
+== Health ==
+
+The basic measure of health is one health point (1). One heart (2) is also commonly used when talking about health.
+
+
+== Hunger ==
+
+Similarly, the basic unit in hunger is a food point—1 ()—displayed as a chicken drumstick.
+A full hunger bar (20 ( × 10)) contains 20 food points.
+Additionally there are another 20 saturation points, which are invisible but are used when performing actions before hunger, so the maximum value is 40.
+
+
+== Speed ==
+
+
+== Distance ==
+Minecraft's worlds are a voxel grid where each block represents a voxel which is one cubic meter (1m3) in real life.
+Knowing that one block is one cubic meter,we can derive that:
+
+
+=== Metric units ===
+
+A "Terameter" is unneeded, because of the value exceeds the 32-Bit Integer, of 2,147,483,648 meters (2.147 Billion Meters, [2.147e09]), Let alone, that you can't even teleport past 30 million meters, horse-ride to 8,388,608 meters, or even walking past 4,194,304 meters.
+
+Note that a water block is 0.9 m3 beacuse it is 0.9 meters high.
+
+
+=== Imperial/U.S customary units ===

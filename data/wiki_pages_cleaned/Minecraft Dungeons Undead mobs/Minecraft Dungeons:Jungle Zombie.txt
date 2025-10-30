@@ -1,0 +1,20 @@
+A jungle zombie is an undead hostile zombie variant that can be found within the various missions of Minecraft Dungeons. They have three direct variant that can be exclusively found within the Arcade edition.
+
+Jungle zombies resemble a normal zombie with the addition of vines and moss covering its head, feet, and shoulders. A cloud of poison surrounds it. It also appears to be wet or moist, as splashes can be heard in its sound files.
+
+Dingy Jungle
+Panda Plateau
+Overgrown Temple
+Tower
+Treetop Tangle
+
+Jungle zombies act the same as normal zombies. It slowly approach the hero and attacks, but when it attacks, it can inflict a Poisoned effect. It has a little bit more health than normal zombies.
+
+Jungle zombies within the Arcade edition use a zombie model without the vine-covered layer. It also has a slightly different texture, especially the top of the head. Jungle zombies have three direct variants within the arcade.
+
+Dingy Jungle (Arcade)
+
+Basic attack
+Jungle zombies attack the hero via melee using their spawned weapons as well as having increased defense.
+
+Jungle zombie textures are named with the suffix "V4" fourth version. Means it was reworked several times before the official launch.

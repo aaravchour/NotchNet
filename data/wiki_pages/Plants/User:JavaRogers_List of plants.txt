@@ -1,0 +1,119 @@
+Entries in this list of plants all share names with real-world plants, or they have obvious features unique to the plant kingdom (such as flowers and fruits). Some can be found in water, some on land. This is meant to be a list of plants, not their related items and blocks. Most are renewable in some way.
+Included at the end are several lists of non-plants, which may be perceived as plants.
+
+
+=== Plants ===
+Azalea
+Bamboo
+Beetroots – root, seeds
+Cactus
+Carrots – root
+Chorus tree – flower, fruit, stem
+Dead Bush
+Fern
+Flowers
+Grass
+Grass Block
+Hanging Roots
+Lily Pad
+Melon – fruit, sliced fruit, seeds
+Moss Block – Moss Carpet
+Potatoes – tuber, poisonous tuber
+Pumpkin – fruit, seeds
+Seagrass
+Sugar Cane – cane
+Sweet Berry Bush – berries
+Tree – Apple, Cocoa, Cocoa Beans
+Leaves, Logs, Rooted Dirt, Saplings
+Wheat – sheaf, seeds
+Vines
+
+
+=== Dubious plants ===
+These fictitious organisms might be perceived as plants, but none of their names or features can confirm that they're plants, algae, fungi, or animals.
+
+Cave Vines
+Dripleaf, Big
+Dripleaf, Small
+Glow Berries
+Nether Sprouts
+Nether Wart
+Nether Wart Block
+Nylium
+Roots
+Sculk Sensor
+Shroomlight
+Spore Blossom
+Twisting Vines
+Weeping Vines
+
+
+=== Algae (non-plants) ===
+Glow Lichen
+Kelp – blade
+
+
+=== Animals (non-plants) ===
+These sedentary animals can seem like plants.
+
+Coral
+Coral Fan
+Coral reef – block
+Sea Pickle
+Sponge (wet)
+
+
+=== Fungi (non-plants) ===
+Glow Lichen
+Huge fungus – Stems
+Mushrooms – huge caps, blocks
+Mycelium
+
+
+== Minecraft Dungeons Plants ==
+
+
+=== Items ===
+Blast Fungus
+Corrupted Pumpkin
+Corrupted Seeds
+Enchanted Grass
+Wonderful Wheat
+Death Cap Mushroom
+
+
+=== Consumables ===
+Apple
+Melon
+Sweet Berries
+
+
+=== Mobs ===
+Abomination Vine
+Creeper
+Creeper, Charged
+Creeper, Icy
+Jack o' Lantern Trap (Unused)
+Jungle Abomination
+Leapleaf
+Mooshroom
+Mooshroom Monstrosity
+Poison-Quill Vine
+Quick Growing Vine
+Whisperer
+
+
+== Minecraft Earth Plants ==
+Moobloom
+Moolip
+Cluckshroom
+
+
+== See also ==
+Bush
+Vegetation patch
+
+
+== Trivia ==
+Grass blocks are the first plants to be in the game as seen in Cave game tech test.
+Some plants can generate in underground dirt patches.

@@ -1,0 +1,11 @@
+Prismarine crystals are items obtained by defeating guardians or elder guardians. They are used along with prismarine shards to craft sea lanterns.
+
+Guardians and elder guardians have a 40% chance and 13 chance, respectively, of dropping prismarine crystals upon death. The maximum drop count is increased by one per level of Looting.
+
+Prismarine crystals are dropped by sea lanterns when not using a Silk Touch tool. They drop 23 crystals each time, which can be increased to a maximum of 5 using the Fortune enchantment.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Prismarine Crystals" are maintained on the bug tracker. Report issues there.

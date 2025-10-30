@@ -1,0 +1,59 @@
+Flint is a mineral obtained from gravel.
+
+
+== Obtaining ==
+
+
+=== Mining ===
+When a block of gravel is mined, there is a 10% chance for a single piece of flint to drop instead of the gravel block. When mined with a Fortune-enchanted tool, this chance increases to 16% at Fortune I, 25% at Fortune II, and 100% at Fortune III. Gravel mined using a tool with Silk Touch or gravel that fell on a non-solid block never produces flint.
+
+
+=== Trading ===
+Novice-level fletcher villagers have a 50%‌ or 2⁄3‌ chance to offer 10 pieces of flint for 10 blocks of gravel and an emerald.
+
+
+=== Chest loot ===
+
+
+== Usage ==
+
+
+=== Crafting ingredient ===
+
+
+=== Trading ===
+Apprentice-level fletcher villagers buy 26 flint for an emerald.
+Apprentice-level leatherworker villagers have a 2⁄3 chance to buy 26 flint for an emerald in Java Edition, and always offer the trade in Bedrock Edition.
+Journeyman-level toolsmith villagers have a 2⁄5 chance to buy 30 flint for one emerald in Java Edition, and always offer the trade in Bedrock Edition.
+Journeyman-level weaponsmith villagers buy 24 flint for an emerald.
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Flint" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External Links ==
+Taking Inventory: Flint – Minecraft.net on October 31, 2019

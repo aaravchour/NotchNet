@@ -1,0 +1,77 @@
+Teleports entities (players, mobs, etc.).
+Although most commands can affect only chunks that have already been generated, /teleport can send entities into chunks that have yet to be generated. If this happens to a player, then the chunks around and including that player's destination are newly generated.
+
+Java Edition
+teleport <destination>
+teleport <targets> <destination>
+Teleports the executor or the specified entity(s) to the position of an entity, and makes its rotation the same as the specified entity's.
+teleport <location>
+Teleports the executor to a certain position (and changes its rotation to the command's execution rotation).
+teleport <targets> <location>
+Teleports the entity(s) to a certain position (without changing their rotation).
+teleport <targets> <location> <rotation>
+teleport <targets> <location> facing <facingLocation>
+teleport <targets> <location> facing entity <facingEntity> [<facingAnchor>]
+Teleports the entity(s) to a certain position and changes their rotation to the specified rotation.
+Bedrock Edition
+teleport <destination: target> [checkForBlocks: Boolean]
+teleport <victim: target> <destination: target> [checkForBlocks: Boolean]
+Teleports the executor or the specified entity(s) to the position of an entity, and makes it face horizontally and its horizontal rotation the same as the specified entity's.
+teleport <destination: x y z> [checkForBlocks: Boolean]
+teleport <victim: target> <destination: x y z> [checkForBlocks: Boolean]
+Teleports the executor or the specified entity(s) to a certain position (without changing its rotation).
+teleport <destination: x y z> [yRot: value] [xRot: value] [checkForBlocks: Boolean]
+teleport <destination: x y z> facing <lookAtPosition: x y z> [checkForBlocks: Boolean]
+teleport <destination: x y z> facing <lookAtEntity: target> [checkForBlocks: Boolean]
+teleport <victim: target> <destination: x y z> [yRot: value] [xRot: value] [checkForBlocks: Boolean]
+teleport <victim: target> <destination: x y z> facing <lookAtPosition: x y z> [checkForBlocks: Boolean]
+teleport <victim: target> <destination: x y z> facing <lookAtEntity: target> [checkForBlocks: Boolean]
+Teleports the executor or the specified entity(s) to a certain position and changes their rotation to the specified rotation.
+
+JE: <targets>: entityBE: victim: target: CommandSelector<Actor>
+
+Specifies the entity(s) to be teleported. If not specified, defaults to the command's executor.
+Must be a player name, a target selector or a UUID. 
+JE: <location>: vec3BE: destination: x y z: CommandPositionFloat
+
+Specifies the coordinates to teleport the target(s) to.
+Must be a three-dimensional coordinates with floating-point number elements. Accepts tilde and caret notations.
+JE: <destination>: entityBE: destination: target: CommandSelector<Actor>
+
+Specifies the entity to teleport the target(s) to.
+Must be a player name, a target selector or a UUID.  In Java Edition, the target selector must be in single type.
+JE: <rotation>: rotation
+BE: yRot: value: RelativeFloat and <xRot: value>: RelativeFloat
+
+Specifies the rotation.
+Must be a rotation with double or float number elements, including yaw and pitch, measured in degrees.For the horizontal rotation (yaw), -180.0 for due north, -90.0 for due east, 0.0 for due south, 90.0 for due west, to 179.9 for just west of due north, before wrapping back around to -180.0.For the vertical rotation (pitch), -90.0 for straight up to 90.0 for straight down.Tilde notation can be used to specify a rotation relative to the execution rotation.
+JE: <facingLocation>: vec3BE: lookAtPosition: x y z: CommandPositionFloat
+
+Specifies the coordinates to make the target(s) facing to.
+JE: <facingEntity>: entityBE: lookAtEntity: target: CommandSelector<Actor>
+
+Specifies the entity to make the target(s) facing to.
+Must be a player name, a target selector or a UUID. 
+JE: <facingAnchor>: entity_anchor
+
+Specifies whether the entity'eyes or feet to make the target(s) facing to. If not specified, defaults to feet. In Java Edition, the anchor of the targets can be changed with /execute anchored. In Bedrock Edition, always facing the entity's feet from the targets' feet.
+Must be either eyes or feet.
+BE: checkForBlocks: Boolean: enum
+
+Must be a  boolean (either true or false).
+If set to true, teleports the target(s) only if the target(s) would not collide with a block it cannot be inside (Note: this allows teleporting into flowers as well as midair). If false or not specified, the default behavior applies (do no check; just teleport the target(s)).
+
+To teleport the executing player to Alice: teleport Alice
+To teleport all players to the executing player: teleport @a @s
+To teleport the executing player to x=100 and z=100, but three blocks above their current position: teleport 100 ~3 100
+To rotate the nearest player 10 degrees to the right without changing their position:  execute as @p at @s run teleport @s ~ ~ ~ ~10 ~
+When used via the execute command, can teleport between the Overworld, the Nether and the End:
+To teleport the executing player to the same coordinates, but in the Nether:
+execute in minecraft:the_nether run teleport ~ ~ ~
+execute in nether run teleport ~ ~ ~
+To teleport all players to x=84 y=57 z=79 in the End:
+execute as @a in minecraft:the_end run teleport 84 57 79
+execute as @a in the_end run teleport 84 57 79
+To teleport Alice to x=251 y=64 z=-160 in the Overworld:
+execute as Alice in minecraft:overworld run teleport 251 64 -160
+execute as Alice in overworld run teleport 251 64 -160

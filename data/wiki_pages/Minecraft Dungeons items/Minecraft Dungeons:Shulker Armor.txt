@@ -1,0 +1,58 @@
+Shulker armor is an armor set that can be found within the echoing void DLC of Minecraft Dungeons. It has a unique variant called the sturdy shulker armor.
+
+
+== Obtaining ==
+Missions
+End Wilds
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+The Swarm
+
+
+== Usage ==
+
+
+=== Properties ===
+X health
+Mobs target you more often
+Deflect enemy projectiles (Deflect tier I)
+Take less damage when swarmed (Thrive Under Pressure).
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Shulker Armor" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===

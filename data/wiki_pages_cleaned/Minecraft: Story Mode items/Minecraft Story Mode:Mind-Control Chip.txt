@@ -1,0 +1,10 @@
+Mind-Control Chips are small redstone devices used by PAMA to control the Mind-Controlled Citizens and hostile mobs.
+
+When activated, they are gray with a glowing red dot (presumably redstone) in the middle with small gray spikes that stick into the victims head. A deactivated Mind Control Chip's center is dark red in appearance and doesn't glow.
+
+A sticky piston pushes a dispenser-looking block onto the victims head in order to chip them.
+When a human/mob is chipped, the Mind-Control Chips will make them stronger, tougher and faster. They also change the eye color to red and allow PAMA to freely control their minds and memories. If a mind control chip is submerged in water, it will short out and detach.
+
+According to Petra/Lukas, their "chipping" made them become one with PAMA, sharing every piece of information with everybody else who was chipped. Their experience was described as "a fuzzy dream".
+Entities wearing the Mind Control Chips can be hacked using the Mind-Control Headset, which changes the red eyes into a blue color.
+When Jesse removes the Redstone Heart from PAMA's core, all Mind Control Chips are destroyed, or at least deactivated, as Petra/Lukas was seen wearing one despite being in control of themselves.

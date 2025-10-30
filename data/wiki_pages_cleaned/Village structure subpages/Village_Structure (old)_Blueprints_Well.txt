@@ -1,0 +1,7 @@
+It is possible for villagers to become stuck in the well.
+
+Note: If the village is generated on a Superflat world, repeat Shaft only twice. If not, repeat Shaft ten times. The bottom is Layer -3 on Superflat worlds. The shaft is Layer -2 - 0 on Superflat worlds
+
+Desert Wells are the center point of a desert village which all other building spawn off of.
+
+Note: If the village is generated on a Superflat world, repeat Shaft only twice. If not, repeat Shaft ten times.

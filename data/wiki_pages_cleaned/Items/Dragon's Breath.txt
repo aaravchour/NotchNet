@@ -1,0 +1,22 @@
+The dragon's breath is a brewing item that is used solely to make lingering potions.
+
+The dragon's breath can be obtained by scooping  up the ender dragon's breath attack or the purple effect clouds caused by dragon fireballs in an empty glass bottle.
+
+Dragon's breath may be added to any splash potion to upgrade it to a lingering potion, which can be used to create a lasting area effect cloud, or to craft tipped arrows.
+
+When put 2 or more dragon's breath in the brewing stand, after the brewing process, a glass bottle will drop as an entity. However, if put only 1 dragon's breath in the brewing stand, after the brewing process, the glass bottle is consumed and cannot be retrieved.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Dragon's Breath" are maintained on the bug tracker. Report issues there.
+
+If the dragon's breath is used in a crafting recipe (using a mod or a data pack), it becomes an empty bottle instead of being entirely consumed.
+The advancement you get from collecting dragon breath is called You Need a Mint, a stock phrase used to complain about halitosis.
+
+Taking Inventory: Dragon's Breath  Minecraft.net on June 9, 2023

@@ -1,0 +1,88 @@
+A rampart captain is a hostile illager that can be found within the Howling Peaks DLC for Minecraft Dungeons.
+
+Rampart captains have an attire that is quite similar to a mountaineer variant 2. However, the attire of rampart captains is slightly larger, lacks leather armor, and has a diamond buttoned coat with a dark brown strap. Rampart captains also possess black eyes, as well as having an ominous banner strapped onto the back of the coat, similar to raid captains.
+
+Colossal Rampart (Final ambush)
+Ancient Hunt
+
+Rampart captains cannot be stunned by normal attacks, except some artifacts such as the shock powder and any weapon with the stunning enchantment. They have more health, do much more damage, and are rather sluggish.
+
+Basic attack
+Rampart captains behave like any mountaineer, running toward the hero for a melee attack.
+Ranged damage deals only 20% damage to rampart captain.
+
+An ominous banner is a banner equipped exclusively by rampart captains that can be found within the howling peaks DLC of Minecraft Dungeons.
+
+Ominous banners equip on the raid captain chestplate slot like Minecraft:Bedrock edition instead of on the helmet slot like Minecraft:Java edition.
+
+In the game files, rampart captains are referred to internally by the name RampartCaptain.
+In the game files, ominous banners are referred to internally by the name Rampart_Captain_Banner.
+Melee Attack Component (1.16.2.0):
+
+{
+   "Type": "MeleeAttackComponent",
+   "Name": "MeleeAttack_GEN_VARIABLE",
+   "Outer": "BP_RampartCaptainCharacter_C",
+   "Template": "MeleeAttack_GEN_VARIABLE",
+   "Properties": {
+     "TargetAttackRangeMargin": 100.0,
+     "bAllowSameTeamSplashDamage": false,
+     "ConfiguredAttackVariants": [
+       {
+         "Name": "None",
+         "AttackSequence": {
+           "ObjectName": "AnimSequence Mountaineer_Attack",
+           "ObjectPath": "Dungeons/Content/Content_DLC3/Actors/Characters/Enemies/Illagers/Mountaineer/Animations/Mountaineer_Attack.3"
+         },
+         "Slot": "UpperBody",
+         "pushback": {
+           "enablePushback": true,
+           "pushbackStrength": 5.0,
+           "pushbackZFactor": 0.75,
+           "useForwardDirection": false,
+           "pushbackMultiplierRespectFactor": 1.0,
+           "pushbackTimeToCallFinish": 1.0
+         },
+         "AttackVariantType": "EMeleeAttackVariantType::TargetAndSplash",
+         "AttackAnimationTimeDurationSeconds": 1.0,
+         "ConeAngleDegrees": 50.0,
+         "ConeOffsetUnits": -15.0,
+         "MinRange": 0.0,
+         "AttackRange": 180.0,
+         "AttackActivationRangeMultiplier": 1.0,
+         "MaxZDiff": 100.0,
+         "DamageDelaySeconds": 0.5,
+         "Damage": 300.0,
+         "DamageType": {
+           "TagName": "None"
+         },
+         "DamageSplashMultiplier": 1.0,
+         "EffectsPushbackMultiplier": 1.0,
+         "StunMultiplier": 2.0,
+         "CooldownSeconds": 2.0,
+         "AttackVariantResetMultiplier": 1.0,
+         "HitSoundCue": {
+           "ObjectName": "SoundCue sfx_item_axeImpact",
+           "ObjectPath": "Dungeons/Content/AudioForce/04_playback_soundCue/04_sfx_player_hit/sfx_item_axeImpact.0"
+         },
+         "VariantLoopAmount": 1,
+         "VariantActiveEffect": null,
+         "VariantChangeEffect": null,
+         "ContinuousDamageInterval": 0.0,
+         "EnchantmentTriggerSettings": {
+           "bTriggerEnchantmentsOnVariantChange": false,
+           "bTriggerEnchantmentsAfterDamage": true,
+           "bTriggerEnchantmentsOnRelease": false
+         },
+         "bOverrideCancelPoint": false,
+         "CancelPointOverride": 0.0
+       }
+     ],
+     "attackRateSeconds": 3.0,
+     "activeCancelPoint": 0.0,
+     "passiveCancelPoint": 0.0
+   }
+ },
+
+Due to the being non-boss mob, rampart captains may spawn enchanted, therefore spawning in a group of three with multiple enchantments.
+Rampart captains may spawn in Colossal rampart at the end of the ambush and Ancient hunts that do not appear in Creeping Winter.

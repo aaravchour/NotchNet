@@ -1,0 +1,52 @@
+Glowing is a status effect that shows entity positions through blocks.
+
+
+== Effect ==
+ The Glowing effect causes entities to glow with an outline that can be seen through blocks and entities. This outline is white by default, but can be set to display other colors if the entity is part of a team. The outline displays around any holes in a mob's texture or model, though only when that part of the model can be seen all the way through. If multiple entities with glowing are near each other, the outlines merge to prevent overlapping.
+This does not affect mob models as seen in the inventory, of either the player or ridden mobs.
+
+
+== Causes ==
+
+
+== Immune mobs ==
+Withers, ender dragons, dropped items and display entities are unaffected by Glowing.
+
+
+== Advancements ==
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Glowing" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

@@ -1,0 +1,42 @@
+Invisibility is a status effect that turns entities invisible. It has one potency level (active), but its duration can be extended.
+
+Invisibility, like its name suggests, causes the affected mob or player to disappear from view.
+
+The following features are displayed on all mobs. The only exceptions are mobs without the capability to naturally display equipped items even without invisibility (e.g. villagers):
+
+Worn gears (saddles, armor, items, etc...).
+Held items.
+The fire sprites of entities that were set on fire.
+Stuck arrows on players. 
+Emitted particles of effects.
+
+The following features are uniquely displayed on certain mobs or groups of mobs, and thus cannot be applied universally:
+
+Shulker heads.
+Llama's carpet decorations.
+Charged creeper's auras.
+The eyes of cave spiders, spiders, endermen, and phantoms.
+Withers and ender dragons are immune to Invisibility.
+
+Mobs do not attack or sense the player until the player is a lot closer than normal.
+A player with no armor can be detected at 7% of the usual detection distance.
+Each piece of armor increases this by another 17.5% of the usual distance. Full armor thus results in a 70% detection range.
+After detecting the player, a mob continues to follow as if the player is visible.
+Cats behave as though the entity affected is visible.
+Additional methods of reducing detection by mobs include:
+Sneaking reduces the detection range to 80% of usual, and stacks with Invisibility.
+Wearing the corresponding mob head reduces the detection range of skeletons, zombies, and creepers to 50% of usual, and stacks with Invisibility.
+Players in Spectator mode see invisible entities as translucent instead. The same applies to invisible players within a team against other players in all game modes. Their names are displayed as if without invisibility in both cases.
+Invisibility prevents players from getting the Dolphin's Grace effect naturally.
+Endermen have a reduced provocation range if the player looking at them is invisible.
+In multiplayer and in third-person view, an invisible player's name and model become invisible, although their armor and held items do not.
+Attacking any hostile or neutral mob while under the Invisibility effect causes it to attack the player as though the player is not under the Invisibility effect. Pillagers point their crossbows and look at invisible players instead of shooting them.
+Invisibility also prevents the rendering of entity hitboxes by pressing F3+B.
+Players with Invisibility can still be detected by sculk sensors and wardens, as they rely on vibration instead of sight.
+The attack indicator still shows up when facing an invisible entity.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Invisibility" are maintained on the bug tracker. Report issues there.

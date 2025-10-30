@@ -1,0 +1,132 @@
+Coal ore is a mineral block that drops coal when mined.
+Deepslate coal ore is a variant of coal ore that rarely generates at the top of the deepslate layer.
+
+
+== Obtaining ==
+
+
+=== Natural generation ===
+
+Coal ore can generate in the Overworld in the form of ore blobs. It generates in two batches per chunk. The first batch attempts to generate 30 times per chunk in blobs of 0-37, evenly from levels 136 to 320. The second batch attempts to generate 20 times per chunk in blobs of 0-37, from levels 0 to 192, being most common at Y=96, and being less common as towards either end of the range. Coal ore in this second batch is also less likely to be exposed to air: 50% of ore blocks that would generate exposed do not generate. In Bedrock Edition, coal ore also has the third batches, which attempts to generate 20 times per chunk in blobs of size 0-37, evenly from levels 128 to 256, within any type of mountains biomes.
+Coal ore can replace stone, andesite, diorite, granite, tuff‌, and deepslate. Deepslate coal ore generates when replacing tuff or deepslate, which is a rare occurrence due to the rarity of coal blobs below Y=8 where deepslate generates.
+Coal ore is also found in small amounts alongside underground fossils.
+
+
+=== Breaking ===
+Coal ore itself can be obtained by mining it with any pickaxe enchanted with Silk Touch. When mined without Silk Touch, it drops one coal. It is affected by the Fortune enchantment, dropping 1–2, 1–3, or 1–4 coal respectively with Fortune I, II, and III.  It also drops 0–2 when mined without Fortune.
+
+
+== Usage ==
+
+
+=== Smelting ingredient ===
+
+
+=== Note Blocks ===
+Coal ore can be placed underneath note blocks to make a "bass drum" sound.
+
+
+== Sounds ==
+
+
+=== Coal ore ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Deepslate coal ore ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+=== Data history ===
+
+
+== Issues ==
+Issues relating to "Coal Ore" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+The Minecraft mechanic that diamond ore replaces coal ore that generate in deepslate layers, is in accordance with the common misconception in real life that diamonds form from highly compressed coal.
+In fact, diamonds mostly form from carbon that comes from carbonate rocks, and are completely unrelated to coal which form from dead plants.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External Links ==
+Block of the Week: Coal Ore – Minecraft.net on December 8, 2017

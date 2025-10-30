@@ -1,0 +1,5 @@
+A terror horn is a piglin-built structure within Minecraft Legends.
+
+Terror horns spawn in piglin bases.
+
+Terror horns poison the ground with Netherrack that spreads to nearby blocks and allows only piglins to build structures on it. Terror horns can upgrade nether spreaders to emit orange lightning particles and have a wider range when spreading Netherrack and deal more damage.

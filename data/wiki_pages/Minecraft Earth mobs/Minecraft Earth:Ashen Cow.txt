@@ -1,0 +1,65 @@
+The ashen cow was a variant of the cow with a gray coat of fur found only in Minecraft Earth.
+
+
+== Appearance ==
+Ashen cows were a gray-colored variant of the cow. Their fur was light-gray in color with a gray underbelly. Their back had a dark-gray stripe running from the head toward the rear. Unlike the normal cow, their nose was a slightly darker gray and they had grayish tips on their horns. They also possessed dark hooves.
+
+
+== Behavior ==
+
+Similar to normal cows, ashen cows wandered around, mooing and breathing occasionally. They avoided water, lava and walking off cliffs high enough to cause fall damage. They fled for a few seconds when harmed.
+
+
+== Obtaining ==
+Ashen cows were uncommon mobs found in cow tappables, with a 8.1% chance of getting one.
+
+
+== Drops ==
+When killed, ashen cows dropped:
+
+0-2 Leather
+1-3 Raw Beef ( Cooked Beef if killed while on fire)
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

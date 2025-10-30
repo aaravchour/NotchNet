@@ -1,0 +1,10 @@
+Lets your agent collect all items within a one block from Agent in three dimensions.
+
+collect <item: string>
+
+item: string
+
+Specifies the item to be collected on the block to the Agent's inventory. Must be an item ID, or a block ID for which an item exists (for example, golden_sword).
+
+Fails if the arguments are not specified correctly or no items of the same name were collected.
+On success, returns if any items of the same name were collected.

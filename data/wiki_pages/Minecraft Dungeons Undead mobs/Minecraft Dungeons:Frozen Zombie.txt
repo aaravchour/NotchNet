@@ -1,0 +1,108 @@
+A frozen zombie is an undead zombie variant  that can be found within the creeping winter DLC of Minecraft Dungeons. It is also included in the third DLC Howling Peaks. Frozen zombies have three direct variants in arcade edition.
+
+
+== Appearance ==
+Frozen Zombies resemble normal Zombies, but they appear to have light blue skin. Upon further investigation, Frozen Zombies are seen to have multiple small piles of snow covering their head, arms, chest, hands, and feet.
+
+
+== Spawning ==
+Frosted Fjord
+Frozen Fjord (Arcade)
+Lone Fortress
+Lost Settlement
+Windswept Peaks
+Gale Sanctum (Rune pillars)
+Gauntlet of Gales (Rune pillars)
+Colossal Rampart
+Tower
+
+
+== Behavior ==
+Snowball attack
+The frozen zombie can attack a hero from a distance with snowballs to inflict them with Slowness for a short duration. If the snowball successfully hits, all nearby frozen zombies will walk towards the hero and attack them via melee. After the slowness effect ends, they move away from the hero and repeat the cycle.
+
+
+== Minecraft Dungeons Arcade ==
+
+
+== Appearance ==
+
+
+== Spawning ==
+Frozen Fjord (Arcade)
+
+
+== Behavior ==
+
+
+== Sounds ==
+
+
+== Data values ==
+In the game files, frozen zombies are referred to internally by the names FrozenZombie and the IceZombie.
+
+
+== History ==
+
+
+== Gallery ==
+
+
+=== Renders ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+
+
+== References ==

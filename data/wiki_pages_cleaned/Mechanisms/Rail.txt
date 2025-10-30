@@ -1,0 +1,84 @@
+Rails are non-solid blocks that provide a path along which minecarts can travel.
+
+Rails can be mined with anything, but pickaxes are the quickest.
+
+A rail also drops as an item when the block beneath it is removed, or a piston moves it into a space with no block below it, or when water flows across it.
+Rails are destroyed by flowing lava.
+
+Rails can be found naturally running along the floors of mineshafts, and in the "pumpkin ring room" of woodland mansions.
+
+A rail can be used as a minecart track and as a redstone component. A sequence of rails (including regular rails, activator rails, detector rails, and powered rails) is called a track.
+
+To place a rail, use a rail item while pointing at a surface facing the space the rail should occupy. A rail can be placed on:
+
+the top of any full block (stone, dirt, blocks of gold, glass, etc.), including full-block mechanism components (command blocks, dispensers, droppers, note blocks, and redstone lamps)
+the top of an upside-down slab, upside-down stairs, or trapdoor.
+any of the above underwater (making the rail waterlogged)
+Rails visually float 116 blocks above the ground, with an outline 216 blocks high.
+A rail cannot be attached to the side or bottom of any block, but attempting to make such an attachment may cause the rail to attach to the top of a block under the destination space. For example, if a fence is on the ground, attempting to attach a rail to the side of the fence causes the rail to be attached to the top of the ground next to the fence instead.
+More information regarding placement on transparent blocks can be found at Opacity/Placement.
+A placed rail configures itself to be straight or curved according to rail blocks around it. 
+
+If there are no other rails adjacent, or if placed beside an existing stretch of track of any type, then in Bedrock Edition the new rail orients itself as a straight north-south track, and in Java Edition the new rail orients itself in the direction the player is facing.
+A new rail placed at the end of an existing stretch of track continues the existing track in the same direction, either east-west or north-south.
+If there are two adjacent rails on its level, or one level up or down, the newly placed rail configures itself as straight or curved as needed to connect the other two.
+If placed between three adjacent rails (forming a T-junction) the newly placed rail configures itself as curved to join two of the sides.
+
+Existing tracks one block up and down are considered for adjacency in the same manner, and the new piece of track gets laid as a curve, but unless space is left for sloping track sections, minecarts can continue past the curve only on level or one-block-down corners. In one-block-up corners, the cart ends up buried in the ground.
+
+Some placement of rails produces track layouts that cause minecarts to collide and enter blocks.
+
+If placed to form a 4-way intersection with no curved section, it does not form a cross-roads connection.
+If placed between four adjacent rails to form a curved intersection it always curves south-to-east.
+
+Existing sections of track may be re-oriented, become sloping, or even change into curved sections when the new rail is placed adjacent to it:
+
+An existing straight, north-south rail re-orients to east-west when a new rail is placed at the east or west sides.
+If placed next to an existing rail that is one block up or down, the new rail slants up or down to join it. Rail "prefers", in order: west, east, south, and north. Other configurations can be created by placing and removing rails.
+If a track is placed perpendicular to an existing length of track, it appears as a straight rail, but in fact, it is curved according to the patterns for tee junctions as seen above; mine carts going through the intersection turn the corner. Breaking and re-laying track so that the intersection block is laid last causes the intersection block to be updated as a curved section.
+
+Rails can be pushed and pulled by pistons.
+
+The intersection rail at a T-intersection may be made to change its direction of curvature by applying redstone power using a redstone torch, lever, or button.
+If a rail is not in its most preferred available state, it will change to that preferred state as its default when the rail is updated via redstone power.
+
+Separate tracks are laid adjacent, but at the next level, lower or higher can sometimes cause issues. However, normally they do not interact with the switched rail.
+
+A minecart travels straight through a T-shaped intersection when entering from the "back of" the curved rail. It follows the curve when entering from either of the other two legs.
+A minecart passes straight through a 4-way intersection constructed to have no curved rail. When entering the 4-way from east or west a cart turns according to the south-east rule.
+
+At non-curve track intersections, minecarts always travel downhill if they can. This is known as the downhill rule and overrides the south-east rule.
+
+A block placed above the track at the downhill end of a ramp prevents minecarts from traveling down the slope, but not up. For a minecart to move down a diagonal tunnel, there must be clearance sufficient for a player to walk it.
+
+If a straight track piece leads to a curve block and isn't attached to the curve, a minecart runs over the gap and continues to go straight over the curve. This is not applicable to other types of rails.
+Notably, the minecart can exceed the normal 8 m/s speed limit while it jumps over the gap. For example, by placing intersections on every other block of a straight track, it is possible to travel (uncomfortably) at 10 m/s in a straight direction.
+As with straight T-intersections and 4-way intersections, the practice of making a minecart jump track can be used to make one-way entries onto a track. On curve intersections the behavior is more intuitive because the cart simply proceeds in the direction it is already going, allowing designs that don't rely on knowledge of the south-east rule.
+
+A minecart with no rider at full speed can climb 10 blocks on an unpowered track. This suggests that a powered track is needed at a height of only 10 blocks to keep a cart climbing. However, the cart slows so much that it can reach only another 5 blocks high with 2 lengths of powered track starting at 9 blocks high. The minimum number of powered rails to keep the cart climbing perpetually is 3 every 6 blocks.
+Carts with a rider, or minecarts with chests, have more momentum and so climb higher than carts that are unloaded. With a rider, a minecart can climb at least 24 blocks before needing powered rails to go higher. Also, to ascend from 0 to max speed, the player needs 7 powered rails.
+
+In Java Edition, some mobs (such as pillagers, zombies, sheep and many others) avoid walking on rails, and walk off rails when pushed onto them.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Rail" are maintained on the bug tracker. Report issues there.
+
+When walking on a block that has a rail on top, the player hears the sound of the block they are walking on, but if they jump (while still walking), they hear the sound of iron.
+Rails are 750 mm (approx. 2-foot 5-inch) narrow gauge (the gauge is the distance between the rails).
+A chest of rails has a total length of 64  27 = 1728 meters, which is slightly more than 1 mile (1.074 miles, 0.933 nautical miles).
+Rails do not touch the block they are placed on. The flat texture can actually be seen to hover over their supporting block.
+
+Powered Rail
+Activator Rail
+Detector Rail

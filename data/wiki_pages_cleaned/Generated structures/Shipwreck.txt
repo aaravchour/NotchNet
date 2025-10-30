@@ -1,0 +1,21 @@
+A shipwreck is a structure found in oceanic biomes resembling a sunken sailing ship.
+
+Shipwrecks generate in all ocean biomes rarely. On rarer occasions, they generate above sea level nearby the water, in beaches, snowy beaches or inside an iceberg, underwater ruin, monument or ravine.
+
+Shipwrecks generate in one of three ways: upright, keeled sideways or upside-down. In many cases, they are missing their bow (front) or stern (rear), mast or multiple other blocks, giving them a damaged appearance; however, it is also possible, but rare, to find them completely intact. They consist solely of wooden materials, including logs/stripped logs, planks, fences, slabs, stairs, trapdoors, a door (if the ship is upright), and up to 3 chests, depending on rotation and intact sections of the ship. The bow is supposed to generate one chest (unless upside-down) while the stern should generate two, and the whole ship generates a maximum of three chests, regardless of the ship's rotation or condition. However, there are some instances in which chests that usually generate in a shipwreck section are missing. All variants of Overworld wood are used in the shipwreck's structure (except acacia, mangrove, cherry, or pale), but only two wood types are used per ship. Warped wood and crimson wood are not used in shipwrecks, as they are only found in the Nether. 
+
+Shipwrecks contain up to 3 loot chests, depending on the sections still intact. Supply chests generate in the bow of the ships, treasure chests generate in the upper section of the stern, and map chests in the lower section. In the case of certain shipwrecks, especially those that intersect other structures, the chests that would normally be present in the corresponding section may be absent, resulting in some shipwrecks holding no chests at all. Although chests don't usually generate for missing sections, map chests from shipwreck sterns may generate in upside-down bows even if the stern is missing. Furthermore, each shipwreck with at least 2 chests always contains its map chest.
+
+In Java Edition, each shipwreck supply chest contains  items drawn from 2 pools,  with the following distribution: 
+
+In Bedrock Edition, each shipwreck supply chest contains  items drawn from 2 pools,  with the following distribution: 
+
+In Java Edition, each shipwreck treasure chest contains  items drawn from 3 pools,  with the following distribution: 
+
+In Bedrock Edition, each shipwreck treasure chest contains  items drawn from 3 pools,  with the following distribution: 
+
+In Java Edition, each shipwreck map chest contains  items drawn from 3 pools,  with the following distribution: 
+
+In Bedrock Edition, each shipwreck map chest contains  items drawn from 3 pools,  with the following distribution: 
+
+Issues relating to "Shipwreck" are maintained on the bug tracker. Report issues there.

@@ -1,0 +1,21 @@
+The shock powder is an artifact that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Cacti Canyon
+Desert Temple
+Lower Temple
+Obsidian Pinnacle
+Lost Settlement (DLC)
+Warped Forest (DLC)
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+The shock powder is an artifact that can be used to stun nearby enemies for a certain amount of seconds, depending on the Power Level of the item. As stated in the description for this item, it is useful for escaping difficult situations, such as large crowds of enemies. It has a cooldown of 15 seconds, which can be shortened with certain armor sets and the Cool Down enchantment.
+
+X seconds stun duration
+15 seconds cooldown
+
+Issues relating to "Shock Powder" are maintained on the bug tracker. Report issues there.

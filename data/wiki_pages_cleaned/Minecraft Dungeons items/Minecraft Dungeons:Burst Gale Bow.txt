@@ -1,0 +1,27 @@
+The burst gale bow is a unique wind bow variant that can be found within the howling peaks DLC of Minecraft Dungeons.
+
+Missions
+Gale Sanctum
+Colossal Rampart
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Windbeard
+
+Charging a burst gale bow will turn the arrows into "gale arrows". Hitting an enemy with a gale arrow will cause a helix of wind to form around the hit enemy, and the wind will pull the enemy closer to the player.
+
+X ranged damage
+Charged arrows pull in enemies
+Rolling charges next arrow (Roll Charge tier I)
+
+Charge Multiplier: 2.75
+Quiver: 73
+Fire Rate: 2.2 shots per second (uncharged)
+
+In the game files, the burst gale bow is referred to by the name BurstGustBow.
+
+Issues relating to "Burst Gale Bow" are maintained on the bug tracker. Report issues there.

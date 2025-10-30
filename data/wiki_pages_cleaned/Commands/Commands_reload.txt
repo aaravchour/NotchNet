@@ -1,0 +1,8 @@
+Reloads data packs in Java Edition and functions in behavior packs in Bedrock Edition.
+
+reload
+
+Always success, reloads the current data packs in Java Edition or behavior pack functions in Bedrock Edition.
+If a data pack or behavior pack has invalid data (such as an invalid recipe format), changes are not applied and the game continues using the previous data.
+
+The /datapack enable and /datapack disable commands can also be used to reload data packs.

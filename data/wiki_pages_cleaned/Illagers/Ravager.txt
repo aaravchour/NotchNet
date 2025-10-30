@@ -1,0 +1,57 @@
+Ravagers are large hostile mobs that only spawn alongside illagers in raids. They attack players, adult villagers, wandering traders and iron golems by running at them and biting them. They can be briefly stunned by being blocked with a shield, but after recovering they will roar, damaging and knocking away all nearby entities.
+
+Ravagers spawn starting at wave 3 as part of a raid.
+
+Unridden ravagers spawn at wave 3, a ravager ridden by a pillager spawns at wave 5, and a ravager ridden by a vindicator spawns at wave 7. A ravager ridden by an evoker also spawns at wave 7.
+
+Up to 5 ravagers spawn as part of a raid. Unridden ravagers spawn at waves 3 and 5, a ravager ridden by a pillager spawns at waves 5 and 7, and a ravager ridden by an evoker spawns at wave 7.
+Ravagers can be summoned with riders by using spawn event commands.  /summon ravager ~ ~ ~ minecraft:spawn_with_pillager_rider.
+
+Upon being killed, a ravager drops:
+
+A saddle, unaffected by Looting
+20 experience orbs
+Ravagers, as well as piglin brutes, drop the most amount of experience orbs out of all non-boss entities.
+
+Ravagers are hostile toward players, iron golems, adult villagers, and wandering traders within a 32-block radius. They attack by ramming enemies with their head, dealing a knockback of 5 blocks. Ravagers also attack by opening and closing their mouths, similar to biting their target.
+When ravagers see a villager and an iron golem together, they always prioritize villagers unless they are already attacking an iron golem.
+They can also destroy certain block types by charging into them. In Java Edition, ravagers can only break leaves and crops. In Bedrock Edition, they can break leaves, all crops, any other non-tree plants, mushrooms, and turtle eggs. Here is the complete list:
+
+Although ravagers are equipped with saddles, they cannot be ridden by the player. Ravagers will only naturally appear ridden by an illager. However, another mob can be allowed to ride a ravager using the /ride command.
+In Bedrock Edition ravagers have delayed hits hit_delay_pct: 0.5. When set to 0.0, ravager hits wouldn't be delayed to match Java Edition.
+When its bite attack is blocked by a shield, no damage is dealt and knockback is halved. A ravager also has a 50% chance to become stunned and unable to move or attack for 2 seconds. After this period, it will open its mouth and roar, dealing 6 damage and a knockback of 5 blocks to nearby entities. The roar knocks back nearby illagers without damaging them and has no effect on other ravagers (note that vexes and witches are not treated as illagers and will take both damage and knockback). Illagers that are knocked back by a ravager's roar can still take fall damage.
+Ravagers do not attack pillagers who shoot at them by accident, and do not attack evokers when evoker fangs accidentally hit them. When a vindicator riding a ravager has been named "Johnny" it may attack the ravager while it is riding it, but the ravager does not attack the vindicator for any reason. When a ravager gets shot by a mob that battles with a projectile while it is attacking the player, the ravager first attempts to kill who shot it, then goes back to attacking the player once the deed is done. Any mob that doesn't battle with projectiles requires a ravagers to roar in order to aggro on it. 
+In Java Edition, a ravager who gets attacked by a mob (excluding illagers or goats) or player will alert other ravagers to target the attacker unless the ravager was killed in one hit. 
+Ravagers take 75% less of knockback, but they still float in water. A ravager being ridden dismounts its rider if it moves into water two blocks deep. Riders cannot mount ravagers again after being dismounted.
+In Java Edition, any ravager can join a patrol if sufficiently near a patrol captain.
+
+Java Edition:
+Ravagers use the Hostile Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Ravagers have entity data associated with them that contains various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+Issues relating to "Ravager" or "Illager beast" are maintained on the bug tracker. Report issues there.
+
+When the ravager was first revealed at Minecon Earth 2018, it had the placeholder name of "illager beast", and kept this name for multiple snapshots and betas as Mojang listened for name suggestions from the community. In Java Edition 19w05a and Bedrock Edition beta 1.11.0.1, illager beasts were named ravagers, although "behemoth" was also considered.
+Ravagers were mainly inspired by the manticore, particularly the version from Dungeons & Dragons.
+Ravagers have a vaguely bovine appearance, and are jokingly described as "a spicy cow" on the Minecraft.net page. However, they cannot be milked.
+Several ravager sounds are altered versions of the sounds of other mobs:
+The first and third ravager death sounds ( and ) are versions of the first pillager death sound () but lower pitched.
+The fourth ambient ravager sound () is the third evoker ambient sound () but lower pitched.
+The fifth ambient ravager sound () is the third villager "trade denial" sound () but lower pitched.
+The third stunned ravager sound () is the first zombie villager ambient sound () but slightly edited.
+Unlike most rideable mobs (like pigs, Happy Ghasts and horses), Ravagers cannot be ridden by players, although they drop saddles upon death.
+Unlike most illagers, they do not flee from the Creaking.
+
+Meet the Ravager  Minecraft.net on May 11, 2019

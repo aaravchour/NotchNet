@@ -1,0 +1,10 @@
+Toggles the display of AI and pathfinding info of mobs.
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

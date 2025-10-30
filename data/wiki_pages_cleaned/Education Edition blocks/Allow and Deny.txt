@@ -1,0 +1,11 @@
+Allow and deny blocks can be used to create restricted building areas or areas where users can build.
+
+Allow and deny blocks can either be obtained by using the pick block control, or by using various commands, such as /give or /setblock, or the Creative inventory.
+
+When placed, allow blocks let users without world builder status place or destroy blocks in the area above them if immutable world in on, while deny blocks prohibit users without world builder, and their agents, from placing or destroying blocks in the area above them. This area covers an infinite distance above the block but does not cover the area below the block. If two allow or deny blocks are placed on top of one another, the block that is highest takes precedence. The deny block does not prevent the placing of blocks through commands or endermen.
+In Bedrock Edition, when placed, allow blocks let users in Adventure status place or destroy blocks in the area above, while deny blocks prohibit Members in Survival and even in Creative from placing or destroying blocks in the area above them.
+Both blocks are extremely resistant to explosions, even though they can still be destroyed by the ender dragon.
+Users with world builder (or Permission level 1) status are able to place and destroy blocks regardless of where any allow or deny blocks are placed and can also destroy and place the blocks themselves.
+Allow blocks do not enable players without building/destroying permissions to not build of them. 
+
+Allow and deny blocks cannot be moved by pistons or sticky pistons.

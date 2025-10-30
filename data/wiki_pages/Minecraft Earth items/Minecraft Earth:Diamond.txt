@@ -1,0 +1,25 @@
+Diamonds were mineral items praised for their rarity and strength in tools. They were mainly used to craft diamond tools.
+
+
+== Obtaining ==
+Diamonds were obtainable from smelting a diamond ore or crafting a diamond block. They were found inside rare and epic adventure chest with 0.2% and 1.1% chance respectively. Diamonds were also obtainable as login bonuses, three at a time.
+
+
+=== Crafting ===
+
+
+=== Smelting ===
+
+
+== Usage ==
+Diamonds can only be used to craft diamond tools and diamond block.
+
+
+=== Crafting ===
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Diamond" are maintained on the bug tracker. Report issues there.

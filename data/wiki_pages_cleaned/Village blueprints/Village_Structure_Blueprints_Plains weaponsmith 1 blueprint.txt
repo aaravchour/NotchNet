@@ -1,0 +1,1 @@
+This structure resembles the old Blacksmith seen in pre-1.14 villages, with some changes like the addition of a roof.

@@ -1,0 +1,23 @@
+A bone is an item primarily obtained from skeletons and similar mobs. It can be crafted into bone meal or used to tame wild wolves.
+
+Skeletons, wither skeletons, skeleton horses, and strays may drop 02 bones upon death. The maximum drop is increased by 1 per level of Looting, for a maximum of 0-5 bones with Looting III.
+In Bedrock Edition, salmon, cod, pufferfish, and tropical fish have 25% chance to drop 1-2 bones upon death. The maximum drop is increased by 1 to 2 per level of Looting, for a maximum of 2-8 bones with Looting III.
+Salmon (small and medium size) have 25% chance to drop 1 bone upon death, The maximum drop is increased by 1 to 2 per level of Looting, for a maximum of 2-7 bones with Looting III. The chance of dropping bones increases by 1% per looting level, so with Looting III there is up to a 28% chance of bones dropping.
+
+Bones can also be obtained by fishing as part of the junk category. The best chance of catching a bone is achieved without the Luck of the Sea enchantment, yielding a 1.1% chance.
+
+While a bone cannot be equipped in the head slot in Survival mode, equipping it using commands causes it to appear in the player's mouth.
+
+Using a bone on a wild wolf has a 13 chance of taming it. Bones cannot tame a hostile wolf or a wolf that has already been tamed. However, bones can be used to attract the attention of the tamed ones.
+
+A bone can be crafted into 3 bone meal.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Bone" are maintained on the bug tracker. Report issues there.
+
+Bone meal
+Wolf
+Dyeing

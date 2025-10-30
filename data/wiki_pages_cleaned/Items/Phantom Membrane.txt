@@ -1,0 +1,17 @@
+Phantom membranes are items obtained from killing phantoms. They are used to repair elytra and brew potions of Slow Falling.
+
+Phantoms drop 01 phantom membrane when killed by a player or tamed wolf. Looting increases the maximum drops by 1 per level, for a maximum of 4 with Looting III.
+
+Tamed cats have a 70% chance to bring the player a gift when they wake up from a bed, and the gift has a 3.22% chance to be a phantom membrane.
+
+Phantom membranes can be used in an anvil to repair elytra, restoring 108 durability points (25% of the pair's total durability) per membrane while preserving their enchantments.
+
+Phantom membranes are used to brew slow falling potions from an awkward potion.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Phantom Membrane" are maintained on the bug tracker. Report issues there.
+
+Taking Inventory: Phantom Membrane  Minecraft.net on August 2, 2019

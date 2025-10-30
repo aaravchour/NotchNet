@@ -1,0 +1,28 @@
+Gauntlets are a melee weapon that can be found within the various missions of Minecraft Dungeons. Its unique variants are  the soul fists, the maulers, and the fighter's bindings.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Soggy Cave (Adventure)
+Cacti Canyon (Adventure)
+Dingy Jungle (Adventure, DLC)
+Coral Rise (DLC)
+The Stronghold (Apocalypse, DLC)
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+?????
+
+Gauntlets possess low power, high speed, and low area, and have a combo consisting of four alternating punches, a left hook, an uppercut, and a lunge punch. The first five hits deal the weapon's minimum melee damage, the uppercut does around 40% more damage, and the lunge punch deals the maximum melee damage.
+
+X melee damage
+Relentless combo
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+Issues relating to "Gauntlets" are maintained on the bug tracker. Report issues there.

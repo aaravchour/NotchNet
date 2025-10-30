@@ -1,0 +1,11 @@
+Raw copper is a raw metal resource obtained from mining copper ore.
+
+Copper ore and deepslate copper ore mined using a stone pickaxe or better drops 25 units of raw copper. If the pickaxe is enchanted with Fortune, it can drop extra raw copper, allowing for a maximum of 20 units per ore block with Fortune III, or an average of 7.7 units of raw copper per ore block. If the ore is mined using a pickaxe enchanted with Silk Touch, it drops the ore block instead.
+
+The primary usage of raw copper is smelting it into copper ingots.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Raw Copper" are maintained on the bug tracker. Report issues there.

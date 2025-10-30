@@ -1,0 +1,21 @@
+Muddy mangrove roots are a decorative variant of mangrove roots.
+
+Muddy mangrove roots can be broken by hand, but using a shovel speeds up the process. Muddy mangrove roots drop themselves when broken with any tool.
+
+Muddy mangrove roots naturally generate in mangrove swamps where mud blocks intersect with normal mangrove roots at the bottom of mangrove trees.
+
+When a mangrove propagule grows into a tree, if the tree roots intersect with nearby mud blocks, those mud blocks are converted into muddy mangrove roots.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Muddy Mangrove Roots" are maintained on the bug tracker. Report issues there.

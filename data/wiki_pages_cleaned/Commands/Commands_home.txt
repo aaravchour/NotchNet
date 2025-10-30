@@ -1,0 +1,5 @@
+Teleports a player to the world spawn.
+
+home
+
+Always succeeds. Teleports the player to the world spawn (beds didn't exist yet so players didn't have individual spawn points).

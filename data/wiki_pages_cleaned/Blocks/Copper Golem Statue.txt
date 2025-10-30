@@ -1,0 +1,28 @@
+A copper golem statue is a copper variant decorative block that was added in The Copper Age. It is created when a copper golem gets fully oxidized. It also undergoes oxidation process, just like all copper blocks.
+
+Copper golem statues can be broken by hand, but using any pickaxe can break it faster.
+
+Copper golem statues are created when a copper golem gets fully oxidized. It will freeze in any pose and drop any items that it holds.
+
+Copper Golem Statues can change its pose by interacting with it. It cycles through four poses:
+
+Standing - Normal/Default
+Sitting
+Running
+Star
+
+Like most copper blocks, unwaxed copper golem statues undergo 4 stages of oxidation:
+
+Unoxidized - Normal stage
+Exposed
+Weathered
+Oxidized
+Only lightning and axes can reverse the oxidation process. Using a honeycomb on an unwaxed copper golem statue prevents the oxidation.
+Using an axe on an unwaxed unoxidized copper golem statue reverts it back to a normal unwaxed unoxidized copper golem.
+
+Redstone Comparators can read the state of a copper golem statue. It emits a redstone signal strength based on its pose.
+
+Issues relating to "Copper Golem Statue" are maintained on the bug tracker. Report issues there.
+
+Waxed Weathered Copper Golem Statue will be the longest name of a block, at 35 characters including spaces and 31 without, surpassing polished blackstone pressure plate and cracked polished blackstone bricks.
+When in a star pose, the statue seemed to be a bit off-centred from the block selection outline. However, it has been fixed in Snapshot 25w34b

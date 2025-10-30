@@ -1,0 +1,10 @@
+Runs a GetInteractionPositionForBlock behavior tree.
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

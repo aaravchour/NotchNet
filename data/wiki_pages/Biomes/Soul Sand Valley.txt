@@ -1,0 +1,107 @@
+A soul sand valley is a dry barren biome located in the Nether. It is formed of large caverns with nether fossils and different blocks, mainly including soul sand and soul soil.
+
+
+== Description ==
+The soul sand valley is mostly composed of soul sand and soul soil, with gravel found on its coastlines. Soul fire is scattered throughout the valley and nether fossils poke out of the terrain. It lacks a diverse set of plants, with the only native vegetation being crimson roots and mushrooms, although fungi, nether sprouts, various roots and huge fungi may spawn where the valley borders a crimson forest or warped forest. Its fog is cyan and the air particles are gray as the sounds of winds and the voices of ghosts fill the air. Giant columns of basalt called basalt pillars can be found stretching from the floor to the ceiling. Caverns, fortresses and bastions can be found in the soul sand valley.
+The nether fossils found scattered and poking around this biome have a rare chance to generate with a Dried Ghast, an ash colored, dehydrated baby ghast block.
+Glowstone blobs can be found in this biome, although they are significantly rarer than in other Nether biomes, since the ceiling of this biome is made of soul sand or soul soil, below which glowstone blobs cannot generate; they can still occasionally generate in caves and canyons in this biome, because the ceiling is made of netherrack.
+The following mobs are naturally spawned here：
+
+
+== Sounds ==
+
+
+=== Music ===
+These music tracks play while the player is in the Soul Sand Valley.
+
+
+=== Ambience ===
+Nether ambience plays while the player is in the Nether.
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Soul Sand Valley" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Despite its name, the soul sand valley is not actually a valley due to its cave-like generation.
+In the official artwork of the Nether Update, a wither skeleton can be seen in the soul sand valley instead of normal skeletons, despite wither skeletons not naturally spawning there.
+Warped Forest biomes never share their border with Soul Sand Valley biomes.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Crimson Forest
+Warped Forest
+Nether Wastes
+Basalt Deltas
+
+
+== References ==
+
+
+== External Links ==
+Around the Block: Soul Sand Valley – Minecraft.net on July 23, 2020

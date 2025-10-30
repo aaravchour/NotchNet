@@ -1,0 +1,17 @@
+Phantom farming is a method of farming phantoms by not sleeping for a while, then afking in a phantom trap which is designed to kill the phantoms but allow you to obtain phantom membranes.
+
+
+== Concept ==
+You will need to build a trap that when phantoms will spawn, they will come to attack you, but instead fly up into a trap that will kill them. Phantoms are scared of cats, so placing one a few blocks under the trap will make them fly up into a trap. You can trap them using boats or minecarts if you are paranoid of them attacking you. You can then kill them however you want, using a sword strong enough to one hit them, using an observer connected to dispensers which will dispense lava for one second (which is enough to take them down to a one hit with an iron sword or higher). It is recommended you also use Looting 3 since that will give you more phantom membranes from the farm.
+Tip:
+If you don't need an automated phantom farm, you can instead just build a 3x3 platform in the air, and grab an axe (at least stone) enchanted with at least a smite IV (or if you can afford it, a netherite sword with smite V) (Since they can kill a phantom in 1 hit) and wait on the platform. Once the phantoms spawn, they will attempt to attack you, and right before they touch you, kill them. If you can't afford anything smite enchantment yet, you need to be careful. Make sure to kill the phantom before it kills you. You can build a collection platform around or below the platform you are standing on to collect the membranes.
+This method is easy to afford, and does not require any redstone stuff.
+
+
+== Videos ==
+
+
+=== Bedrock Edition ===
+
+
+=== Java Edition ===

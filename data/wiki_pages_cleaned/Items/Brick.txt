@@ -1,0 +1,15 @@
+A brick is an item used to craft brick blocks, flower pots, and decorated pots.
+
+A brick can be obtained by smelting a clay ball.
+
+When breaking a decorated pot with a tool without Silk Touch on the main hand, the decorated pot can drops 0-4 brick(s) depend on the material that the decorated pot make of.
+
+Novice-level stone mason villagers sell 16 or 10 bricks for one emerald.
+
+Brick can be used to craft bricks, flower pots, and decorated pots.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Brick" are maintained on the bug tracker. Report issues there.

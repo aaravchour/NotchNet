@@ -1,0 +1,25 @@
+Reinforced mail is an armor set that can be found within the various missions of Minecraft Dungeons. Its unique variant is called the stalwart armor.
+
+Missions
+Fiery Forge
+Lower Temple
+Panda Plateau (DLC)
+Nether Fortress (DLC)
+Broken Citadel (DLC)
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Vigilant Scoundrel
+
+35% damage reduction
+30% chance to negate hits
+100% longer roll cooldown
+
+Minimum health expected for power level
+
+Issues relating to "Reinforced Mail" are maintained on the bug tracker. Report issues there.

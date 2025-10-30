@@ -1,0 +1,59 @@
+A shulker box is a dyeable block that stores items, and, unlike all other storage blocks, keeps its contents in item form when broken.
+
+Shulker boxes can be mined with any tool or by hand, but using a pickaxe is the most effective. Shulker boxes drop themselves when mined. Unlike other containers, the contents of shulker boxes are stored within the dropped item, and not dropped separately. When instantly mined in Creative mode, shulker boxes drop as an item if there are items stored within, unless /gamerule doTileDrops is set to "false".
+
+A shulker box has 27 inventory slots, the same as a chest.
+Shulker boxes are portable chests: they keep their items when broken, which can be retrieved when placed again. This is different from other containers, which drop their contained items as item entities when broken. A shulker box drops itself as an item if pushed by pistons or destroyed by an explosion. Unlike most blocks with inventory, shulker boxes always drop themselves when destroyed by explosions. When a shulker box with items inside is being held or is in a container's inventory, the items are listed on the tooltip as properties.
+
+A shulker box's items can be fed or removed by a hopper.
+Shulker boxes can be stored in all containers except for other shulker boxes and bundles.
+When placed on a wall or ceiling, shulker boxes face and open sideways or upside-down, respectively. Shulker boxes cannot be opened if a solid opaque block is on their top surface, similar to a chest. For example, if a shulker box is facing upside-down and a solid opaque block is below it, the shulker box cannot be opened. A shulker box can also be placed using dispensers.
+Like a chest, a shulker box requires a transparent area above to be opened, and it opens only if the hitbox of the top of the open shulker box does not intersect with another hitbox. This way, a shulker box can be opened with an upside-down slab or an upper trapdoor on top of it. It is also unique in that when opened, its hitbox expands to 1.5 blocks high/wide, physically pushing entities where it is facing.
+By default, the GUI of a shulker box is labeled "Shulker Box", which can be changed by naming it in an anvil or by changing the CustomName tag using the /data command.
+When a shulker box item is destroyed, the contents of the shulker box are dropped.
+
+Dyed shulker boxes can be undyed using a cauldron. To do this, use a dyed shulker box on a cauldron that has water in it. This causes the cauldron's water level to decrease by 1, and the shulker box loses its dye color.
+
+Piglins become hostile toward players who open or mine shulker boxes.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+ 
+Java Edition:
+
+Bedrock Edition:
+Dyed shulker box:
+
+A shulker box has a block entity associated with it that identifies its contents.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Block entity format.
+
+Java Edition:
+
+Shulker boxes, as items, use an NBT tag BlockEntityTag to indicate the contents and details of the box when it is placed.
+The following NBT structure is provided to show how the BlockEntityTag tag is organized, and is not comprehensive above the tag tag.  The full NBT for an item can be found here.
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Item format.
+
+Issues relating to "Shulker Box" are maintained on the bug tracker. Report issues there.
+
+With 37 shulker boxes in a player's inventory, hotbar, and off-hand slot, 999 stacks of up to 64 items (up to 63,936 total items; 63,973 if counting shulker boxes themselves) can be held. With 37 shulker boxes and an ender chest with 27 shulker boxes in one of the shulker box slots, 1,727 stacks (up to 110,528 items; 1,728 stacks with up to 110,592 items if counting stacked ender chests) can be held.
+When the camera is far enough from a shulker box, the shulker box is invisible, even though it is still within the render distance, this is because the shulker box is still considered a mob.
+Before they were added to Minecraft, storage objects that keep their inventory when picked up were already present in Minicraft.
+
+Block of the Week: Shulker Box  Minecraft.net on November 19, 2020

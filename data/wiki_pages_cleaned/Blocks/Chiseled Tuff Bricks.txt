@@ -1,0 +1,9 @@
+Chiseled tuff bricks is a chiseled variant of tuff bricks.
+
+Chiseled tuff bricks drops as an item if mined by any pickaxe. If mined without a pickaxe, it drops nothing.
+
+Chiseled tuff bricks blocks generate naturally in trial chambers.
+
+Other than being a decorative building block, chiseled tuff bricks has no other uses.
+
+Issues relating to "Chiseled Tuff Bricks" are maintained on the bug tracker. Report issues there.

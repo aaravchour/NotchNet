@@ -1,0 +1,208 @@
+A desert pyramid is a structure found in desert biomes and built mostly of sandstone. The desert temple contains four loot chests hidden under the floor in the center protected by a TNT trap, and a secret buried room to the side where archaeology can be performed. Even though it is officially called desert pyramid, colloquially it is referred to as desert temple.
+
+
+== Generation ==
+Desert pyramids generate in desert biomes. Desert pyramids have a lower generation frequency in Java Edition than in Bedrock Edition.
+
+
+== Structure ==
+
+Desert pyramids are intended to represent an excavation site. The structure is constructed with normal, chiseled and cut sandstone, orange and blue terracotta, sandstone slabs and sandstone stairs.
+
+The pattern of orange terracotta on the towers of desert pyramids is an Ankh; the ancient Egyptian symbol for life and the Nile (river) key. There is one main entrance in the front, two more entrances in the back on both the left and right sides near the top of the pyramid, and a one-block wide window at the top. Even if the rest of the pyramid generates mostly buried by sand, the top of the pyramid is almost always above ground. A mostly buried pyramid can still be accessed by the window in the top if necessary, though fall damage is likely. In the center of the pyramid's 21×21 ground floor is a checkerboard pattern of terracotta and sandstone in a wind rose symbol, with a block of blue terracotta in the center.
+
+Underneath this terracotta is a secret fosse containing four chests, which are rigged by a stone pressure plate directly under the blue terracotta block. The pressure plate is connected to a 3×3 grid of TNT, which means that if a player or mob unintentionally steps on the plate, it sets off the nine TNT blocks, which destroy the chests and their loot. As there is no light in the chest room, mobs sometimes spawn inside it and trigger the TNT trap, destroying the chests and loot before any player can reach it.
+As of update 1.20, desert pyramids also generate with a lower room situated in the back (either on the left or right), and buried in sand, some of it being suspicious. This room is 5x5 blocks in length, has another instance of the sandstone wind rose pattern on the ground, and is connected to the main floor with collapsed stairs.
+When a desert pyramid generates above a ravine, the foundation extends downward until it reaches the bottom.
+
+
+=== Chest Loot ===
+
+In Java Edition, each desert pyramid chest contains  items drawn from 3 pools,  with the following distribution: 
+
+In Bedrock Edition, each desert pyramid chest contains  items drawn from 3 pools,  with the following distribution: 
+
+The loot chances above are per chest. As each chest has a 2.6% chance to contain an enchanted golden apple for example, with four chests, each pyramid has about a 10% chance overall of having at least one.
+
+
+=== Archaeological Loot ===
+In Java Edition, each desert temple's suspicious sand contains 1 item stacks,  with the following distribution: 
+
+In Bedrock Edition, each desert temple's suspicious sand contains 1 item stacks,  with the following distribution: 
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Desert pyramid" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Odd generation ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Trivia ==
+
+
+== See also ==
+Tutorial on defeating desert pyramids
+Jungle pyramid
+Minecraft Dungeons:Desert Temple
+Beacon
+Brick pyramid
+
+
+== References ==

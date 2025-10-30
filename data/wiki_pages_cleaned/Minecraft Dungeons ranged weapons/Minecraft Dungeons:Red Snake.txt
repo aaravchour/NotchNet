@@ -1,0 +1,30 @@
+The red snake is a unique longbow variant that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Arch Haven
+Cacti Canyon
+Pumpkin Pastures
+Windswept Peaks (Adventure, DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Haunted Caller
+
+The red snake possesses relatively high damage and has moderate speed and ammo.
+
+X ranged damage
+Strong charged attacks
+Chance for arrows to explode (Fuse Shot tier I)
+
+Quiver: 53
+Charge Multiplier: 3
+Fire Rate: 2.2 shots per second (uncharged)
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+Issues relating to "Red Snake" are maintained on the bug tracker. Report issues there.

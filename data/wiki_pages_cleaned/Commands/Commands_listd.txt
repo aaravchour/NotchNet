@@ -1,0 +1,5 @@
+Lists detail infomation about players on the server.
+
+listd
+
+Lists players on the server and returns details in JSON format if possible.

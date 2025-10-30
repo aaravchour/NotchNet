@@ -1,0 +1,96 @@
+This tutorial is about farming witches to get their incredibly diverse loot.
+
+
+== Purpose ==
+Witches are hostile mobs that drop all kinds of loot. Their normal drops are redstone, glowstone, sugar, gunpowder, glass bottles, spider eyes, and sticks. The sticks are dropped twice as often as the others. Players can cause a witch to drop the potion they are currently using, usually instant health. The Looting enchantment increases the chances and output of each drop. 
+
+
+== Mechanics ==
+Witches spawn as part of normal hostile mob spawning, exclusively in swamp huts, as part of pillager raids, or when lightning strikes a villager. They have 26 health, which is higher than the typical hostile mob. They can regenerate their health and throw potions to attack. The best way to farm them is to kill them instantly, since working with player kills can end up being time-consuming.
+In mob spawning, witches spawn individually at light level 0. They do not spawn that often, and it is more worthwhile to allow witches to spawn alongside other mobs in a traditional hostile mob farm.
+In witch huts, witches are the only mobs that are able to spawn in the small area around a hut. Witch huts are one of the best places to farm witches, but they require spawning platforms and light levels of 7 or lower. One single witch hut can support a maximum of three spawning platforms. Witch huts spawn in swamp biomes, but the witch-exclusiveness depends on the entire hut being inside a swamp biome. Sometimes, the player can be extraordinarily lucky and have up to 4 witch huts within 128 blocks of a central point. This allows for 4 witch huts to be active at the same time.
+In pillager raids, it is more worthwhile to simply build a pillager farm and deal with witches as they spawn. If they are spawned in a pillager raid, they may throw regeneration potions to the other illagers.
+Witches can be artificially spawned using a trident enchanted with Channeling. A villager breeder can provide the villagers, so when a thunderstorm comes around, the player can strike them with lightning and kill them to get their loot.
+
+
+== Designs ==
+All of these designs work with witch huts, since they are the most efficient way to farm witches.
+
+
+=== Bedrock Edition ===
+This Witch is has remained functional since creation. All tweaks required are in the comment section.
+
+
+=== Simple ===
+This design originally comes from FastJaz. This simple design uses a minimum of redstone resources and is relatively cheap to build. The farm itself requires the following (Regardless of killing method used):
+
+9 Stacks of Building Blocks
+2 Stacks of Slab Blocks
+27 Trapdoors of any type
+54 Redstone Dust
+3 Redstone Torches
+42 Tripwire hooks
+3 Stacks of String
+2 Water Buckets
+18 Buttons (for Spawn Protection)
+1 Sign
+The Entity Cramming Grinder Requires:
+
+2 Rails
+1 Hopper Minecart
+1 Hopper
+2 Chests
+24 Minecarts
+The Looping Fall Damage Grinder Requires:
+
+1 Soul Sand
+3 Signs
+2+ stacks of building blocks
+1 Hopper
+1 Carpet
+2 Chests
+Water
+
+
+==== Preparation ====
+The basic design starts as most Witch farms do, marking out the spawning platforms. Start 1 block below the lowest Witch hut blocks, which will be log blocks that mark the corners of the hut, and place 1 of your building blocks of choice on each corner exactly 1 block diagonally away from the log blocks towards the outside of the hut. Space the next spawn platform two blocks above the first and put permanent corner blocks there. Do the same thing for the third spawn platform. Due to the spawning mechanics of Witch huts you cannot place any more spawning platforms. Now that you have the basic corners of each spawn platform, carefully take down the witch hut proper with your axe and pickaxe. If you knock out any of the spawning area corner blocks by mistake, as long as the bottom-most one is there, you can measure and replace them easily. Once the Witch hut is taken down you are left with the markers for the Witch hut spawnable area for Witches. Remove 4 blocks around the hut's original area down to the level of the first level of the farm to make space for the farm's circuitry. This will make things easier to work with later. 
+
+
+==== Spawn Platforms and Flushing System ====
+Connect the four corner blocks of the first spawnable level with your building block of choice and fill in that platform with your block of choice. On only one of the 9 block faces of the spawning platform, which will become the "back" of the farm, place an extra row of blocks on the same level as your existing spawnable area. Mark one block above that area on either side of the 9 blocks you just placed and place one block each side, then place another row of blocks 1 block behind and upward from the 9 block row you just placed so there is a trough that water can flow from the trough to the end of the spawnable platform. Next, put trapdoors on all 9 blocks that are on the same level as the spawnable level and close them so that when you put water in, it will not flood the area. Put your two water buckets in with a space in between so all three will become water source blocks. Repeat this process with one water bucket after the initial source to fill up the trough. Extend the two blocks you put on the sides of the trough until they are at the same block as the corner of the spawnable area you made earlier. Count 1 block away from the trough on the sides you just completed and place one block diagonally outward from the initial wall. This should look like an L shape on the left side of the farm and a backwards L on the right side of the farm with the temporary block you placed to assist the process. Repeat the wall process again, drawing out both those blocks that you just placed in a straight line to the end of the spawnable platform. Place your tripwire hooks on the second block up from the spawning floor that now appears recessed. Then place your string so that the tripwire hooks are connected. Place a row of blocks on top of the tripwire hooks on every layer except the top layer where you will place slabs. Place blocks on top of the trough to seal it. Choose one side of the tripwire hooks to become the trigger side of the farm. Place Redstone dust on top of the block that the tripwire hooks are connected to and continue until you get to each end. On the end block, place a Redstone torch. Extend the back row of trough blocks so that Redstone dust placed there would connect to the Redstone torch. Finally place Redstone dust on the blocks you placed for the back of the trough and connect it up to the Redstone torch using the new blocks you placed. 
+
+
+==== The Other Spawn Platforms ====
+Spawn Platform two is identical to the first platform. Repeat the above process. Spawn plaform three is also identical except to leave the blocks that cover the tripwire hooks off. For spawn platform three you should cover the tripwire hooks and the row of blocks above the waterlogged trap doors with slabs. Continue to the end of the spawnable area. Then, count one block inward from the outermost slab on the front of the farm and place a slab in front of that. Do the same thing on the other side of the farm. Repeat this process from both sides and you should have a two block wide overhang of slab blocks.
+
+
+==== The Trench (Getting the Mobs into a 1x1 area) ====
+Dig a trench 2 deep by 9 wide and 1 long. Place water source blocks at either end of the trench. Where the sources meet put 1 sign to prevent the water from flowing downward.
+
+
+==== The Entity Minecart Grinder Tutorial ====
+One Option for grinding Witches is to use 24 Minecarts as an entity crammer trap. The downside is that Minecarts, especially 24 of them updating when the witches get killed create a lot of noise. In order to make this form of grinder, dig straight down 4 blocks and hollow out 4 blocks ahead of you to create a 2 tall, 4 block long corridor. Hollow everything except the block directly under the water streams by one block downward and place a rail on the block left behind. Place all 24 minecarts, then a full block in front of the rails so the minecarts cannot escape when the farm is closed up. Take the block underneath the block with the rail and 24 minecarts on it out. Dig 2 blocks down on every block except for the one where the 24 minecarts are now resting. Place the chests one block away and two blocks below the one that is holding the minecarts above. Place another rail on the hopper and a slab on each side of the rail. Place the hopper minecart on the rail. Place an upside down stair in front of the rail and there you have it.
+
+
+==== The Tube style Fall Grinder Tutorial ====
+The other option for grinding Witches is a tube style fall trap. This removes the noisy minecarts, but at the cost of being able to see the sometimes ugly pipeline the witches go through before they take their fall and die. To make this grinder, dig 4 blocks straight down and dig out the bottom most block on the two tall pair facing the front of the farm. Place one water source there and hollow out 2 tall openings for three blocks ahead of you facing away from the farm. Put two signs and then hollow out two tall area 1 block in front of those signs. Dig 1 block straight down after the signs and put the soul sand in its place. Dig 32 blocks upward, adding water source blocks as you go, if you encounter the surface, put blocks around you until you reach 32 blocks. Then put 5 more blocks in front of you, facing away from the farm and encase the area with your building block of choice in a 2 high fashion so witches can get through and without drowning. Place a water source block on the 32nd block so water flows until the end of the 5 blocks you placed earlier. Break the 5th block and ride the water down to the surface. Place four blocks approximately where the bottom of the water column is and ride the water upward. On the 4th side block of the pipe's "elbow" section, use a sign to cut the water off. Ride the water blade downward to the land. Close up the pipe to the surface except for a two tall area to get back in. Make sure you count the blocks from that 32nd block downward to let you know how many more blocks you need to dig downward. If you did this right, you should only need to dig down 4 blocks below the surface to make a 32 block drop for the Witches. On the 4th block Hollow out a 3 long tunnel away from the farm and dig one down for all blocks except the one that should be 32 blocks down from the elbow part of the pipeline. Make sure you replace the two blocks on the surface you needed to get into the pipe earlier. Place a double chest sideways on and then take out the 32nd block and then take a hopper and put it in its place, place a carpet on top of the hopper to prevent witches from falling directly into the hopper. Close the pipe up, Hollow out the area around the chest, light it up and you should be good.
+
+
+==== Closing up the farm, spawn-proofing and the AFK Room ====
+Look around the farm for any bare and exposed blocks without Redstone dust on it and that are not holes in the farm's structure. If you did the job right with your layers, you should have no air gaps between layers and only the front of the farm to seal up. For all exposed full blocks, place any kind of button on top of the block to prevent spawning there. Once all 18 buttons are put in their places, go to the front of the farm and seal it up with your building block of choice. It should be a tight seal where there is no light peaking in the farm. Also make sure that the building blocks line up with the slabs on the roof.
+Once the farm is closed up you need to figure out where to set your AFK room. This is to ensure the highest amount of spawns and drops from the Witches without having to clear out a perimeter. This can be best found by finding the block above the upside down stairs and recording the Y value using the F3 Debug screen and looking at the coordinates of the "looking at block" space, when you hover over the block in question. If you are using the Tube style grinder, The hopper itself is the target you need to find the Y value coordinates. Finally add 128 to that Y value and create an accessible AFK room at that exact resulting Y coordinate number. For best results it is better to put your AFK hut in the middle of your farm so the spawning circle will be most effective at that farm.
+
+
+=== Selective flush design ===
+This design by xisumavoid uses tripwire hooks to detect when a witch spawns and flush it off with water. Unlike some other designs, this one only flushes part of the platform. As witches cannot spawn in water, this makes the design slightly more efficient.
+
+
+=== Shifting floors design ===
+This design by ilmango uses pistons, soul sand, and trapdoors to cause the witches to fall through the floor. This has an advantage over water flush designs as the movement of the floors completes more quickly than the movement of water.
+
+
+=== Tripwire shifting designs ===
+This design by JL2579 also uses shifting floors, but the design for the floors is outdated and no longer works. However, it should be possible to take design aspects from the previous video to make it work again. The use of tripwire to immediately shift the floor helps to ensure that the mob cap doesn't limit the efficiency of the farm. The video also provides recommendations for lighting caves to empty the mob cap further.
+Note that the information in the video to transport the drops upwards is out of date; for alternatives see item transportation.
+
+This other design is by ilmango, and it combines tripwire shifting design and the traditional shifting floor design (in case there is a problem with the tripwire shifting).

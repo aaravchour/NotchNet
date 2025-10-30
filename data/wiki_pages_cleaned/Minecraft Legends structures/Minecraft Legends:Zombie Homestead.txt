@@ -1,0 +1,7 @@
+A zombie homestead is an ally structure in Minecraft Legends.
+
+Zombie homesteads generate with a giant corpse flower in their center, which blooms repeatedly, spreading foul smelling pollen that is enjoyable to zombies. Smaller corpse flowers with no collision also generate as decoration scattered across the structure at large. The main structure is surrounded by zombie huts that appear to be cobbled together from dirt and rotting plants, decorated with vines, large corpse flower petals, and an unknown light source. These huts are overgrown with moss, grass and flowers, and have multiple holes which an unknown plant growns from.
+
+Zombie homesteads will spawn in one of the jungle biomes in the overworld.
+
+Issues relating to "Zombie Homestead" are maintained on the bug tracker. Report issues there.

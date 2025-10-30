@@ -1,0 +1,57 @@
+Teleportation robes are an armor set that can be found within the echoing void DLC of Minecraft Dungeons. Its unique variant is the unstable robes.
+
+
+== Obtaining ==
+Missions
+Broken Citadel
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Scuttling Torment
+
+
+== Usage ==
+
+
+=== Properties ===
++X health
+Roll to teleport
++50% souls gathered
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Teleportation Robes" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===

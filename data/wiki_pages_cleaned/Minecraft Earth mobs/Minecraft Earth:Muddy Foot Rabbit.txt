@@ -1,0 +1,13 @@
+The muddy foot rabbit was a variant of the rabbit with brown-colored feet and ears, found only in Minecraft Earth.
+
+Muddy foot rabbits were a brown-tipped variant of the rabbit. It had a white body, with dark brown-tipped ears, feet, tail, and muzzle. It also had hazel eyes and a black nose. They are based off of the Californian Rabbit.
+
+Muddy foot rabbits had the same behavior as normal rabbits, wandering around aimlessly, avoiding lava and cliffs.
+
+Muddy foot rabbits were an uncommon mob drop found in grass and pond tappables, with it having a 0.7% chance of being obtained from both grass and pond tappables.
+
+When killed, the muddy foot rabbits dropped:
+
+01 Rabbit hide
+01 Raw Rabbit (Cooked Rabbit if killed while on fire)
+Rabbit's foot (10% chance of dropping)

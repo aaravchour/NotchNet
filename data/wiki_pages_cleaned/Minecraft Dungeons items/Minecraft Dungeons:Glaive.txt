@@ -1,0 +1,31 @@
+A glaive is a melee weapon that can be found within the various missions of Minecraft Dungeons. It is commonly used by skeleton vanguards. Its unique variants are the grave bane, the venom glaive, and in the Spookier Fall event, the cackling broom.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+A  before a mission name indicates that the item is only obtainable in Daily Trials of that mission.
+
+Soggy Swamp
+Desert Temple
+Panda Plateau (DLC)
+ Lone Fortress (DLC)
+Basalt Deltas (DLC)
+The Stronghold (Adventure, DLC)
+Tower
+Treetop Tangle
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Pestilent Conjurer
+
+Glaives possess high power, low speed, and moderate range, and have a combo consisting of two overhead strikes and a sweep attack. The first two hits deal the weapon's minimum melee damage, while the sweep attack deals the maximum melee damage.
+
+X melee damage
+Longer melee reach
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+Issues relating to "Glaive" are maintained on the bug tracker. Report issues there.

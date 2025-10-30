@@ -1,0 +1,49 @@
+Polar bears are neutral mobs that live in icy biomes.
+
+Polar bears spawn above grass or ice in snowy plains, ice spikes, regular and deep frozen ocean biomes in groups of up to two at light level 7 or higher. If there is a group, the second polar bear is a cub.
+They can also spawn in frozen rivers, legacy frozen oceans, snowy slopes, also sometimes at the jagged peaks, and the frozen peaks in Bedrock Edition.
+
+An adult polar bear drops one of the following when killed:
+
+13 from player or tamed wolves kills.
+There is a 34 chance of dropping 0 to 2 raw cod (cooked cod if killed by fire). The maximum amount can be increased by 1 per level of Looting, for a maximum of 0 to 5 with Looting III.
+There is a 14 chance of dropping 0 to 2 raw salmon (cooked salmon if killed by fire). The maximum amount can be increased by 1 per level of Looting, for a maximum of 0 to 5 with Looting III.
+Killing a baby polar bear yields no items or experience.
+
+Polar bears can exist in a passive or hostile state. The cubs are passive; adults are hostile when with cubs or provoked (unless it's killed in one hit), adults also attack if a player gets near cubs in Bedrock edition.
+If a cub is attacked, unless killed in one hit, all adults within a 412141 area become hostile toward the player or mob, regardless of difficulty, although in Peaceful difficulty their attacks do zero damage to players. 
+Attacking an adult who is within a 16816 area of a cub also provokes other adults within a 212121 area of the attacked adult. 
+Polar bears also attack foxes.
+
+In Java Edition, adult polar bears attack any fox that stays near it for a while, hitting it once every few seconds. Cubs are more aggressive and attack foxes within 16 blocks.
+In Bedrock Edition, adult polar bears attack foxes within 16 blocks. Cubs do not attack foxes.
+Polar bears attack by rearing on their back legs and mauling down with their front paws. Their swimming speed is equal to the player's, making them difficult to get away from if they are attacking in water.
+Polar bears cannot breed and cubs' growth cannot be sped up.
+They do not take freezing damage from powder snow.
+
+Java Edition:
+Polar bears use the Friendly Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Polar bears have entity data associated with them that contains various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+Issues relating to "Polar Bear" are maintained on the bug tracker. Report issues there.
+
+Adding polar bears to Minecraft was a request by Jeb's wife, she was told they'd be added "if they ever had a bear of their own". Once their son was born, he was named "Bjrn" (Swedish for "bear"), and polar bears were added.
+Unlike most other baby mobs, polar bear cubs have a unique sound effect that is not just a sped-up version of the regular polar bear sound effects; this is also reflected in subtitles.
+Polar bears are the first bears added into the game, later followed by pandas.
+During the development of the frozen ocean biome, polar bears were removed from spawning, due to being deemed too "sad". They were added back in because it is more accurate to the polar bear's real life status.
+in Java Edition, the polar bear is the only mob whose baby variant can grow up, but the adults cannot breed or be bred.
+
+Mob Menagerie: Polar Bear  Minecraft.net on February 9, 2023
+Meet the Polar Bear  Minecraft.net on January 10, 2017

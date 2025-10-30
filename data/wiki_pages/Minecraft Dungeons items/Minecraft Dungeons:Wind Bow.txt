@@ -1,0 +1,88 @@
+A wind bow is  a ranged weapon that can be found within the howling peaks DLC of Minecraft Dungeons. It has a unique property when it fires fully charged arrows, known as "gale arrows". Its unique variants are the burst gale bow and the echo of the valley.
+
+
+== Obtaining ==
+Missions
+Gale Sanctum
+Colossal Rampart
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Windbeard
+
+
+== Usage ==
+Charging a wind bow will turn the arrows into "gale arrows". Hitting an enemy with a gale arrow will cause a helix of wind to form around the hit enemy, and the wind will pull the enemy closer to the player.
+
+
+=== Properties ===
+X ranged damage
+Charged arrows pull in enemies
+
+
+=== Stats ===
+Charge Multiplier: 2.75
+Quiver: 73
+Fire Rate: 2.2 shots per second (uncharged)
+
+
+== Sounds ==
+
+
+== Data values ==
+In the game files, wind bows have a hidden enchantment referred to internally by the name WindBowEnchantment, which fully changed charged arrows into gale arrows.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Wind Bow" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===

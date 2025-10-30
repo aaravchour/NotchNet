@@ -1,0 +1,12 @@
+Drops 4 saplings.
+
+
+== Syntax ==
+wood
+
+
+== Result ==
+Succeeds only once in 12000 ticks. Drops 4 saplings on the ground, as if the player had dropped them.
+
+
+== History ==

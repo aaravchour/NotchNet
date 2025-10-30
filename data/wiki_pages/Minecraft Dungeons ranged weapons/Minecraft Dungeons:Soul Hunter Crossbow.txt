@@ -1,0 +1,72 @@
+The soul hunter crossbow is a unique burst crossbow variant that can be found within the various missions of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+A  before a mission name indicates that the item is only obtainable in Daily Trials of that mission.
+
+ Fiery Forge
+ Underhalls
+ Panda Plateau (DLC)
+ Colossal Rampart (DLC)
+ Soul Sand Valley (DLC)
+Tower
+Merchants
+Gift Wrapper
+Ancients
+Solemn Giant
+
+
+== Usage ==
+
+
+=== Properties ===
+X ranged damage
+Fast Multiple Projectiles
+Souls Critical Boost (Enigma Resonator tier I)
++2 Soul Gathering
+
+
+=== Stats ===
+Quiver: 53
+Fire Rate: 1 shot per second (3 projectiles per second)
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Soul Hunter Crossbow" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===

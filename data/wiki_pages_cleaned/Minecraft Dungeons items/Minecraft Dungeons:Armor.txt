@@ -1,0 +1,9 @@
+The term armor refers to the category of equippable items in Minecraft Dungeons that increase the hero's health, apply additional properties, and appear graphically on the hero once equipped. Armor can be obtained opening chests, defeating mobs, exchanging Emeralds with village merchant, luxury merchant, mystery merchant, piglin merchant, and from Gifts provided by heroes made by other players through the gift wrapper. Armor can have up to three player selected enchantments applied to apply additional properties.
+The mystery armor can have any combination of Mainland armor properties along with armor properties from DLC content if owned thus permitting unique combinations that otherwise cannot be provided by other armors.
+The obtainable Power level for armor has a maximum of 263. Gilded armor can be obtained by completing the Tower with a maximum power of 263 or by completing an Ancient Hunt and from the piglin merchant with a maximum power of 251.
+There are currently 73 armors, 71 of which are obtainable. 41 of these armors are unique rarity. All are obtainable except the curious armor and the vanguard armor.
+
+Artifacts
+Drop Locations
+Enchantments
+Weapons

@@ -1,0 +1,25 @@
+Transfers a specified quantity of items from one slot to another of your Agent's inventory.
+
+
+== Syntax ==
+transfer <srcSlotNum: int> <quantity: int> <dstSlotNum: int>
+
+
+== Arguments ==
+srcSlotNum: int
+
+Specifies the source of slot number to be transferred, slots are numbered from 1 to 27.
+quantity: int
+
+Specifies the number of items to be transferred from the Agent's inventory slot.
+srcSlotNum: int
+
+Specifies the destination of slot number to be transferred, slots are numbered from 1 to 27.
+
+
+== Result ==
+Fails if the arguments are not specified correctly, or returns false if the destination already has items of a different type, and if the source slot was empty.
+On success, returns true if there was a room for the items to be transferred.
+
+
+== History ==

@@ -1,0 +1,14 @@
+Hunger is a status effect which causes the hunger bar to deplete faster than normal.
+
+Hunger increases food exhaustion by 0.005  level per game tick (removes 1 () saturation point every (40  level) seconds). It also turns the hunger bar a yellow-green color(). Negative levels decrease food exhaustion, although they do not increase saturation or the hunger bar.
+The status effect does not decrease hunger level on Peaceful, although it does re-color the hunger bar.
+
+Hunger inflicted by eating rotten flesh, raw chicken or by being attacked by a husk adds 3.0 to the player's exhaustion level over the course of 30 seconds, draining 3/4 of a saturation point. When a pufferfish is eaten, 4.5 exhaustion points are added over the course of 15 seconds, draining 1 () and 18 (0.125) saturation points.
+
+Only withers and ender dragons are immune. Only players are affected, as all other mobs do not have hunger.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Hunger" are maintained on the bug tracker. Report issues there.

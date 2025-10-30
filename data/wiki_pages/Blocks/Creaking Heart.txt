@@ -1,0 +1,43 @@
+A Creaking heart is a "living" block that rarely generates in natural pale oak trees of the pale garden. This block summons and puppeteers the creaking, when it is active in the night.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+The Creaking heart can be broken using any tool, however the axe is the quickest. It can be obtained using a tool enchanted with Silk Touch, otherwise it drops 1-3 resin clumps; Fortune can increase the maximum drops by 1 per level (up to 6 with Fortune 3).
+Destroying a naturally-generated creaking heart drops 20-24 experience, only in Survival mode.
+
+
+=== Crafting ===
+
+
+== Usage ==
+The creaking heart can be activated by placing a creaking heart between 2 pale oak logs, which will spawn creaking at night as long as there is a valid spawn area in a 32 block radius of the creaking heart. The creaking heart also generates resin clumps on nearby pale oak logs upon a player hitting the creaking spawned by the creaking heart.
+
+
+== Appearance ==
+(More info TBA here)
+
+
+== Advancement ==
+Heart Transplanter:
+Requires placing a creaking heart in between 2 pale oak logs (stripped or normal).
+Monster Hunter:
+Unlike all hostile mobs, destroying the creaking heart kills the creaking.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Issues ==
+Issues relating to "Creaking Heart" are maintained on the bug tracker. Report issues there.

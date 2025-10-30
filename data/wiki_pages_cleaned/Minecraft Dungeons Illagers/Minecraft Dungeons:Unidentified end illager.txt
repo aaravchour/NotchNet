@@ -1,0 +1,10 @@
+The mystic illager, or simply mystic is an unimplemented illager that was scrapped prior to Minecraft Dungeons' release, its files can only be found in a prototype from early 2019. It was later reused for a cinematic which is shown when the hero fills all of the end portal frames in the stronghold with eyes of ender. 
+
+The mystic illager wears a long dark greyish robe that resembles a mage robe, but lacks a hood. The robe has greyish outlines on its front and elevated collars. The unidentified end illager also wears black pants.
+
+The Stronghold  (cinematic)
+End Wilds  (cinematic)
+
+In the cinematic at the end of the stronghold mission, a mystic illager is seen walking around in the end wilds, making the idle noises of an illusioner after being teleported. The mystic illager is also shown within the picture for the divers dozen achievement.
+
+In the game files, mystic illagers are referred to internally by the names Mystic and IllagerMystic.

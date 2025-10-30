@@ -1,0 +1,7 @@
+Toggles the weather.
+
+toggledownfall
+
+Always succeeds. If weather is currently clear, rain or snow will start. If weather is currently rain, snow, or a thunderstorm, it will become clear. Can be overridden by the /weather command.
+
+Commands/weather

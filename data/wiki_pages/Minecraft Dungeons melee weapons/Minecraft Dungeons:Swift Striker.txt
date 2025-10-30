@@ -1,0 +1,55 @@
+The swift striker is a unique backstabber variant that can be found within the echoing void DLC of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+End Wilds
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+The Swarm
+
+
+== Usage ==
+The swift striker possesses low power, moderate speed, and low area. It has a combo consisting of two quick strikes, and one stronger strike. The first two hits deal the weapon's minimum damage, and the third hit deals the weapon's maximum damage.
+
+
+=== Properties ===
+X melee damage
+Extra damage on unsuspecting enemies (Ambush tier I)
+Sometimes attacks twice (Echo tier I)
+
+
+=== Stats ===
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Swift Striker" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===

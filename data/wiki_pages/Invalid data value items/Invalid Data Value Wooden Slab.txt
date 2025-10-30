@@ -1,0 +1,34 @@
+Invalid data value wooden slabs are item forms of the wooden slab block with damage values outside of the usual range which wooden slabs can usually be obtained in.
+
+
+== Obtaining ==
+Without the use of commands, invalid data value wooden slabs are unobtainable in the last versions in which they existed without inheriting them from a prior version in which they were obtainable.
+
+
+=== Transmutation ===
+Block transmutation with doors can be used to obtain wooden slabs with metadata 6 to 7, and with arrows can be used to obtain blocks with metadata 6, 7, 14 and 15. These blocks can be mined in 14w21b or earlier to obtain wooden slabs with values 6 and 7.
+
+
+== Usage ==
+
+
+=== Conversion to future versions ===
+
+
+== History ==
+
+Inventory appearances (values marked in red are not known to be obtainable in survival mode)
+
+Placed form
+As invalid data blocks were effectively deleted in 1.8, considerably before invalid data value items, the block form is documented in the section below.
+
+
+== Issues ==
+Invalid data value wooden slabs are an issue, and due to their removal, can be considered already fixed.
+
+
+== References ==
+
+
+== External links ==
+Invalid Data Value Wooden Slab at the Minecraft Discontinued Features wiki

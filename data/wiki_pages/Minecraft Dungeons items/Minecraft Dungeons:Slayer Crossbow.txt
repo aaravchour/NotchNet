@@ -1,0 +1,60 @@
+The slayer crossbow is a  unique heavy crossbow variant that can be found within the various missions of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Cacti Canyon
+Obsidian Pinnacle
+Lone Fortress (DLC)
+Crimson Forest (DLC)
+Broken Citadel (DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Pestilent Conjurer
+
+
+== Usage ==
+
+
+=== Properties ===
+X ranged damage
+Powerful shots
+Hits multiple targets (Ricochet tier I)
+
+
+=== Stats ===
+Multiplier: 2.7
+Quiver: 20
+Fire Rate: 1 shot per second
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Slayer Crossbow" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+
+
+=== Textures ===

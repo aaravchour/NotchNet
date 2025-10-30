@@ -1,0 +1,25 @@
+The feral soul crossbow is a unique soul crossbow variant that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Arch Haven
+Obsidian Pinnacle
+???
+The Stronghold (DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Cursed Presence
+
+X ranged damage
+Souls Critical Boost (Enigma Resonator tier I)
++2 Soul Gathering
+
+Quiver: 40
+Fire Rate: 1.67 shots per second
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+Issues relating to "Feral Soul Crossbow" are maintained on the bug tracker. Report issues there.

@@ -1,0 +1,35 @@
+The enchanted grass is an artifact that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+???
+Radiant Ravine (Apocalypse, DLC)
+
+When used, the hero can summon one of the three enchanted sheep, which all have their own unique ability. Green sheep can poison mobs, red sheep can burn mobs, and blue sheep can increase the speed of the hero.
+
+X summon damage
+30 second cooldown
+
+The enchanted sheep is a summonable mob that can be summoned within the various missions of Minecraft Dungeons when enchanted grass is used. It can appear in several colors and behave like most summoned mobs, attacking enemies and staying nearby the hero.
+
+Enchanted sheep appear in only three colors, with each color correspondent to a certain effect, with green sheep being capable of kicking and poisoning, red sheep capable of burning mobs, and the blue sheep only increasing the speed aura of the hero. Unlike the blue and green sheep, the red sheep is the only sheep with distinct eye color, with its pupils being a bright glowing yellow. Unlike non-enchanted sheep, they are dyed and have different eye colors.
+
+Among the three sheep, only the green sheep are capable of directly attacking mobs.
+
+Basic attack
+The green sheep is capable of punching them with their front legs, similar to mooshrooms.
+
+Strong attack
+A more powerful version of the basic attack.
+
+Blue
+The blue sheep is passive where they only increase the speed aura of the hero.
+
+Red
+The red sheep's attack is rather small and walks around, burning mobs around it. It is passive, unlike the green sheep.
+
+Green
+The green sheep are capable of summoning a poison cloud upon hitting mobs.
+
+Issues relating to "Enchanted Grass" are maintained on the bug tracker. Report issues there.
+
+It is the only artifact that cannot be obtained from the camp merchants.

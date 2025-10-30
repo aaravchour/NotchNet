@@ -1,0 +1,78 @@
+Manipulate or copy items in the inventories of blocks (chests, furnaces, etc.) or entities (players or mobs).
+
+
+== Syntax ==
+item modify (block <pos>|entity <targets>) <slot> <modifier>
+Modifies the items in the specified slot with the specified modifier.
+item replace (block <pos>|entity <targets>) <slot> with <item> [<count>]
+Replaces the items in the specified slot with the specified items.
+item replace (block <pos>|entity <targets>) <slot> from (block <sourcePos>|entity <sourceTarget>) <sourceSlot> [<modifier>]
+Copies the source items to the target slot and optionally modifies it with the modifier.
+Syntax displayed in various ways
+
+
+== Arguments ==
+<pos>: block_pos
+
+Specifies the position of the block to be modified.
+Must be a block position composed of <x>, <y> and <z>, each of which must be an integer or a tilde and caret notation.
+<targets>: entity
+
+Specifies one or more entities to modify.
+Must be a player name, a target selector or a UUID. 
+<slot>: item_slot
+
+Specifies the inventory slot to be modified. Valid values depend on whether a block or an entity is being modified.
+Must be a string notation that refer to certain slots in the inventory, which consists of "slot type" and optional "slot number", in the format of <slot_type> or <slot_type>.<slot_number>. See Slot for details.
+<modifier>: resource_location
+
+Specifies the item modifier to apply on the chosen item.
+Must be a resource location which will be resolved during command execution into unregistered content or client-side content.
+<item>: item_stack
+
+Specifies the item to be placed in the block or entity's inventory slot.
+It must be in the format of item_id{data_tags}(accepts item and block tags), in which data tags can be omitted when they are not needed.
+<count>: integer
+
+Specifies the number of items to be placed in the block or entity's inventory slot.
+Must be a  32-bit integer number. And it must be between 1 and 64 (inclusive).
+<sourcePos>: block_pos
+
+Specifies the position of the block to copy items from.
+Must be a block position composed of <x>, <y> and <z>, each of which must be an integer or a tilde and caret notation.
+<sourceTarget>: entity
+
+Specifies an entity to copy items from.
+Must be a player name, a target selector or a UUID.
+<sourceSlot>: item_slot
+
+Specifies the inventory slot to copy the items from. Valid values depend on whether the source is block or an entity. See <slot> argument above for more information.
+
+
+== Result ==
+
+
+== Output ==
+
+
+== Examples ==
+To replace the items in the bottom-right slot of a single chest two block above with four spruce saplings:
+/item replace block ~ ~2 ~ container.26 with minecraft:spruce_sapling 4
+To replace the items in the rightmost hotbar slot of the nearest player with four spruce saplings:
+/item replace entity @p hotbar.8 with minecraft:spruce_sapling 4
+To replace the item in the offhand of the selected player with the item in their main hand:
+/item replace entity @s weapon.offhand from entity @s weapon.mainhand
+To put a brown banner on a player's head
+/item replace entity @s armor.head with minecraft:brown_banner
+To increase the count of the item in your main hand:
+/item modify entity @s weapon.mainhand example:increase_count
+file in a datapack: data/example/item_modifiers/increase_count.json
+
+
+== History ==
+
+
+== See also ==
+/data — can also replace items in a container's or mob's inventory, or modify the drop chances of armor and weapons
+/give — give items to players without specifying specific inventory slots or overwriting other items
+/replaceitem — The Bedrock Edition equivalent

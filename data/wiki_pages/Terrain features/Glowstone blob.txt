@@ -1,0 +1,39 @@
+Glowstone blobs (also known as the glowstone clusters) generate on the underside of terrain blocks in the Nether.
+
+
+== Description ==
+These are typically blobs (clusters) of glowstone that can be among the hardest natural materials to harvest that don't require digging. They form in coral-like structures on the underside of hanging netherrack, so they are often found on the ceilings of the Nether, where they provide light along with the ever-present lava.
+Glowstone blobs consist of one block-wide tendrils extending from a central clump. Being found in caves, hanging above an ocean of lava and even within nether fortresses, they are the main source of charges of glowstone for respawn anchors. 
+Glowstone blobs can be found in every Nether biome, although they are significantly rarer in soul sand valleys, because the ceiling of this biome is made of soul sand or soul soil below which glowstone blobs cannot generate; they can still occasionally generate in caves and canyons in this biome, because the ceiling is made of netherrack.
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Glowstone (disambiguation)
+Nether Fortress
+
+
+== References ==

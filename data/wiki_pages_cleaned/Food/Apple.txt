@@ -1,0 +1,24 @@
+Apples are food items that can be eaten by the player.
+
+Oak and dark oak leaves have 0.5% (1200) chance of dropping an apple when decayed or broken, but not if burned. Breaking leaves with a tool enchanted with the Fortune enchantment increases the chances of dropping an apple: 0.556% (1180) with Fortune I, 0.625% (1160) with Fortune II, and 0.833% (1120) with Fortune III.
+
+Apprentice-level farmer villagers have a 50% (12) or 66.7% (23) chance of selling 4 apples as part of their trades.
+
+To eat an apple, press and hold use while it is selected in the hotbar. Eating one restores 4 () hunger and 2.4 saturation.
+
+Placing an apple into a composter has a 65% (1320) chance of raising the compost level by 1.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Apple" are maintained on the bug tracker. Report issues there.
+
+Prior to the texture update in Java Edition 1.4.2, the sprite of the apple was the same one used in Notch's game Legend of the Chambered.
+Before it was added to Minecraft, apples dropping from trees was already a feature in Minicraft.
+
+Taking Inventory: Apple  Minecraft.net on November 23, 2018

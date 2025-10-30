@@ -1,0 +1,114 @@
+While Minecraft is a huge game with endless possibilities, there will always be a time where a player may believe they've done everything, or built everything possible in the game. Here is a list of ideas for players who are bored and may be looking for something fun to do in the game, although most players will have already done many of these.
+
+A quarry is a big project, but the rewards are huge. You just dig a big hole down to bedrock and put a chest under it.
+In hardcore mode, a quarry is a very big push to help you survive. This might be hard to do because you have to make tools and gather wood.
+
+Most players have played normal Survival mode, but Hardcore is a much more difficult variant of it. When in hardcore mode, the player is not only restricted to hard difficulty, meaning that mobs deal greater damage, the player can starve to death, and multiple other game features making the game mode much more challenging. Furthermore, if the player dies, they can only return to the world in Spectator mode, meaning they can never interact with that world again (unless cheats are used).
+
+Similar to hardcore mode, this game mode only gives the player one life. However, this game mode also removes the ability to naturally regenerate health, meaning that golden apples, potions, or even beacons have to be used to regenerate health. This is a game mode even harder than regular hardcore, which only the best players will be able to complete. So if you are new to the game, I don't recommend this mode, but if you are to play this watch your surroundings!
+
+Try changing some rules! Here are some examples:Level system: Rookie (Beginner Level): You can't use tools or craft an item. New player (Levels 14): You can use only wooden and gold tools, only wood, planks, cobblestone, and dirt. You can't wear armor at the same time. Introduction (Levels 58): You can only use wooden and gold tools. Only wood, planks, cobblestone, flower, dirt, coal, and gold can be used. Citizen (Levels 912): You can use stone tools or redstone.Knight (Levels 1215): You can do anything a citizen can do, and use iron tools, and wear iron armor and gold armor. Technician (Levels 1619): You can do anything a knight can do, and you can create with diamonds and use diamond tools and armor. Mage (Level 20+): You can do what any technician can and create with anything.
+
+You cannot build a home. In this case, a "house" is defined as having four walls and a door.
+Not only that, but you cannot feed animals.
+You cannot cook food, but you can smelt ore.
+Likewise, you cannot build or use a bed. For a better game experience, see Tutorials/Nomadic experience.
+
+If you're in a server and there's a lot of people there, why not start a war? Build up your own army, feed your warriors, give them arms and armor, and rush to destroy enemies bases, while defending your own.
+
+Build a giant statue of anything, whether it is in-game or real life, using Minecraft blocks. Examples include an ender dragon, a real-life piano, or the player's in-game skin. If playing in multiplayer, it is recommended to not build with something flammable, to prevent your structure from being torched by griefers.
+
+Similar to statues, pixel art uses dyed wool or other textures to create spectacular 2D mosaics! Find a low resolution image and assign a material to each pixel. The image can then be recreated in Minecraft.
+
+Rails and minecarts can be combined with blocks to create roller coasters. These can have drops, sharp turns, and scenery. Although they are usually built in the Overworld, they can also be built in the Nether, or a portal could even be used to make a roller coaster that travels through both dimensions interchangeably. There are infinite possibilities. See Tutorials/Building a rollercoaster for more info.
+
+It's easy in superflat creative mode. It's time-consuming but it's also fun. You can make a village look like the Nether! If you want to build a village that looks like it's in The Nether, you need nether brick, nether brick stairs and fences, glowstone, netherrack, soul sand, a bucket of lava, crimson or warped hyphae, and nether warts.
+Step 1: Manufacturing farm: use soul sand to replace farmland, lava to replace water, nether warts to replace crops such as wheat, and nether bricks to replace wood.
+Step 2: Build nether buildings: nether bricks or nether crimson hyphae/warped hyphae to replace overworld wood, nether brick stairs to replace ordinary stairs, use nether brick fences instead of glass, the soul sand to replace wood and cobblestone, the ground of indoor use nether bricks. You can also use crimson doors instead of regular wooden doors. 
+Step 3: Streetlights: Destroy all street lights in the village and replace them with nether brick fences and glowstone.
+Step 4: Lava wells: As above. Use soul sand to replace cobblestone, lava to replace water.
+Step 5: L - shaped house: The structure is the same, but the roof should be replaced by nether bricks and nether brick stairs.
+Step 6: Blacksmith: The structure is also the same, but chests should fill with nether bricks and items that nether mobs drop.
+Step 7: Build a large netherrack cube wrapped around the village and add lava, fire, and add caves, to make it look really like in the Nether!
+
+Redstone circuits will open up new areas of Minecraft that are both complex and creative. Almost anything can be made from automatic mob traps to machines that can play music or tell you the time.
+
+Why not build some real world buildings in Minecraft? Choose some buildings in the real world (for example: your home, your school, McDonald's) and build them to the best of your ability. Once created, send the world of these buildings or pictures to your friends. Good luck!
+
+Spleef is an interesting game that can be played on some Minecraft servers. This game is played on top of a lava pool, which has a platform above the lava pool, usually made of snow block, because snow block is destroyed very quickly and cannot be rearranged. Players take the shovel and use them to destroy blocks under other players' feet so they can fall into the lava or defend themselves. Some servers use TNT instead of snow block, and the player holds the flint and steel in his hand and ignites at the TNT under the other player's feet.
+
+Dig down to bedrock and build a tower of TNT all the way up, with layers of solid blocks in between(due to TNT becoming an entity when lit). Dig a quick hole down the side for access purposes, then light it all the way up! You can blow up a village and harass the villagers. Note: make sure you're not on other's servers, these actions may be considered griefing.
+
+Make sure that you are in creative mode. First, make a 3-block tall, 1212 box with an open top, and then use spawn eggs to spawn some villagers and zombies. Finally, watch the villagers try to survive.
+
+Circle one area, summon 100 creepers, and defeat all the creepers without letting them explode. This will take some time to kill all of them. These will help you in multiplayer, and you can find people who have creative mode, who can use spawn eggs to summon mobs that you want.
+
+The command /summon can be used to spawn unique and interesting mob types. Examples of what a player could create with the command may be an upside-down spider jockey on top of a skeleton or an enderman with bedrock in its hand and a minecart on its head. Other useful commands used to place or modify blocks automatically are /setblock and /fill. The player could use these to create a giant wall or building without having to manually place everything.
+
+Note: This only works properly in Bedrock Edition.
+Did you know that you can make mobs fly by repeatedly punching them while they have Slow Falling and Regeneration? Probably not! Here is how: 
+Step 1: Type in the command /summon minecraft:pig ~ ~ ~. This will summon a pig. 
+Step 2: Type in the command /effect @e[type=minecraft:pig] slowness 500 100. This will prevent the pig from moving. 
+Step 3: Type in the command /effect @e[type=minecraft:pig] slow_falling 500 3. This will prevent the pig from falling at a normal speed and will instead fall slowly. 
+Step 4: Type in the command /effect @e[type=minecraft:pig] regeneration 500 100. This will make the pig regenerate almost instantly after every punch. 
+Step 5: Type in the command /effect @s speed 500 2. The speed will make you reach the pig. If you don't type in the command, then you wouldn't reach the pig to punch it anymore and it would likely touch the ground before you would even hit it. 
+Step 6: Begin punching the pig with an empty fist. Once you've started punching, don't stop. After a few hits, you will notice that the pig is in mid-air while you keep punching it to constantly be in that state, looking like it's flying. How long can you keep hitting until the pig touches the ground?
+Alternatively, if you prefer to do something simpler, you could go to build limit, perform step 3, equip a saddle on the pig, and try to make it 'fly' by using a carrot on a stick.
+
+If you live not far from a village, why not try to attack it? Blow up the houses, lock up the villagers and take over the whole village. If you're in singleplayer, though, watch out for the iron golems.
+
+This is best done in the superflat map creative mode. Fence an area, summon a bunch of mobs (don't summon flying mobs or mobs that are immune to fall damage) with spawn eggs, equip a fishing rod and fly as high as you want, but don't fly more than 34 blocks off the ground, and then start fishing for these mobs. If the fishing rod hooks a mob, "release" it and make it fly. You could also organize a race with your friends to see who is the best.
+You could dig a hole in the ground and pour lava into it and build a tower out of spider webs. Summon a bunch of mobs from the top of the tower (again don't summon mobs that can fly, mobs that are immune to fall damage, or spiders, as all can manage out of the cobwebs) and watch them fall into the lava!
+You could also build a small ring rail with powered rails, put in some minecarts and load them with mobs, and get them moving at high speed. Finally, place the block one block high from the rail.
+You could also dig a hole at least 3 blocks deep (1x1), summon a bunch of mobs in the hole with a spawn egg, and then put sand or gravel in the hole, watch them suffocate to death!
+You could also build a completely enclosed room (with a roof that is closed and dark), fill it with villagers, then put zombies in and watch them get killed.
+It wouldn't be so nice though...
+
+Note: It only works on Java Edition.
+With commands, the player can obtain a diamond sword enchanted with an enchantment level 32767. Try it on and go kill some boss mobs.
+Command for an overpowered Diamond Sword:
+/give @s diamond_sword{display:{Name:"\"OP sword!\""},Enchantments:[{id:sharpness,lvl:32767},{id:knockback,lvl:10},{id:fire_aspect,lvl:32767},{id:looting,lvl:10},{id:sweeping,lvl:32767},{id:mending,lvl:32767}]}
+With commands, it's possible to obtain an overpowered stick that knockback entities so far back. Try and beat the game with it!
+=== Command for Knockback stick (and other enchantments)
+/give @s stick{display:{Name:"\"Knockback Stick\""},Enchantments:[{id:sharpness,lvl:1000},{id:fire_aspect,lvl:10},{id:knockback,lvl:1000},{id:looting,lvl:1000}]} ===
+
+Most of the time, you always nestle up in one biome, this can be fun, say you always build up in the Plains, try living in the sides of Mountains. if you make home base in the forest, Try the desert! The new challenges of the location such as water freezing, no wood, etc. can be quite fun.
+
+Note: This only works on Java Edition. If you intend to do in Bedrock Edition, you will have to use third-party tools which is used for version management.
+In order to do this, open the launcher and select an older version that you would like to play. There are a lot of older versions of Minecraft you can play. Here are some versions you could try:
+
+Pre-Classic consists of the earliest versions of Minecraft. They are nice and simple, and closely resemble the original "Cave Game" demo.
+Classic
+Indev and Infdev
+Alpha and Beta versions prior to Beta 1.8
+The first version of Minecraft that you have ever played, to give yourself nostalgia.
+Beta 1.8 and Beta 1.8.1
+Full releases from Java Edition 1.0.0 until Java Edition 1.7.2
+Full releases from Java Edition 1.7.2 until Java Edition 1.13
+Development versions of the full release, including snapshots, pre-releases, and release candidates, to explore some bugs you interested.
+The April Fools' versions, such as Java Edition 2.0 and Java Edition 20w14. See the next section for some ideas.
+
+Note: It only works on Java Edition.
+2.0, 15w14a, 1.RV-Pre1, 3D Shareware v1.34, 20w14, 22w13oneBlockAtATime and Java Edition 23w13a_or_b, are Minecraft versions that were created solely for April Fools' Day, containing multiple jokes unique to these versions. Features in 2.0 include silverfish made from redstone (called "redstone bugs" in-game), the pink friendly wither, extinguished torches, and "Etho Slabs," which are essentially slabs of TNT. In 15w14a, the player is unable to directly attack entities, obsidian boats will sink and drown the player, and like in 2.0, the pink wither is present. Features present in 3D shareware include barrels with overpowered items, cheat codes, and various 90s gaming references. 20w14 is a version with over two billion dimensions, including several Easter egg dimensions. These April Fools versions can create a fun and interesting experience for players.
+
+Although some servers require online registration, others can be joined at any time without any prerequisites. Numerous activities can be done in servers, such as showing your work to others (buildings, skills, etc.), viewing other people's work, and making friends with the players in the server or just having fun on all types of minigames that servers offer.
+
+Custom maps can be fun, and many have a creative storyline, challenging battles, and beautiful buildings. Map time can range from 15 minutes to 100 hours! For those who like to take risks, there are plenty of adventure maps for you to manipulate heroes and fight with countless mobs, and for those who like to take on intellectual challenges, there are plenty of maze maps for you to challenge.
+
+Various types of maps can be made in Minecraft, including challenge maps, parkour maps, and survival maps, and there are endless ways to build these. Some ideas would include using command blocks or redstone circuits to make a decryption or puzzle map, or using blocks to make a parkour or island map. Sky castles are also great. You can also do pvp maps and play with your friends.
+
+With software (such as OBS) that allows you to record your screen, videos can be made of Minecraft gameplay. Some common categories of Minecraft videos are Survival Let's Plays, playing custom maps, and building tutorials. These videos can be put up on any website that allows for video uploading; YouTube is the most common of these, but there are alternatives available.
+
+Changing the resource pack won't provide new blocks or items, but it will give Minecraft a fresh look that can be exciting when the first world is created, so you can pick one on the Web and have a look at Minecraft with a new eye.
+You can also make your very own resource pack and replace some textures, sounds, subtitles, etc. with yours!
+
+Try mods! Some large ones take time to be fully explored.
+There are many Minecraft mods. Try them out slowly. See Curse Forge and Minecraft Forums for details.
+
+Install a computer mod (ComputerCraft mod), create "mining turtles" or "advanced" mining turtles, use the built-in mining program (tunnel length). Turtles need fuel, if it can't move, fill in the inventory with coal or other kinds of fuel, type in "refill all" to supplement the fuel. This will make you more secure because they're diamond pickaxes with infinite durability, can instantly dig, and are not afraid of lava or monsters. However, it can't be equipped with an enchanted pickaxe.
+
+Sometimes it's difficult to make a mod (for some people or some types of mod), but you can make the game the way you want it to be, such as a new dimension, some new blocks, and mobs. If you can't program, you can also try to use some visual tools (e.g. MCreator).
+You can use Mod Coder Pack (MCP) to modify the source code of the game for versions a1.1.2 up to 1.12.2. If you want to mod for 1.13 and onwards, you can try MCP Reborn. 
+If you intend to modify the source code, but you want it is compatible with loader mods, you can try making coremods.  
+
+Play other games- Sure, you can go do something active, and be sure to play video games other than Minecraft.

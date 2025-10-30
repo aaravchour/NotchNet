@@ -1,0 +1,12 @@
+Blindness is a status effect that impairs the player's vision. It can be cast by illusioners or by consuming suspicious stew made with an Azure Bluet.
+
+Blindness impairs the player's vision as if a thick black fog were surrounding them, with only the immediate area being visible (this means that only a few blocks directly around the player are visible to them). However, the sun and moon can be seen as normal, but it has to be during clear weather. Additionally, liquids do not fade into the fog perfectly. The effect also prevents the player from sprinting or inflicting critical hits but does not stop an ongoing sprint.
+The effect can be removed by drinking milk. In  Minecraft Education and Bedrock Edition when education options are enabled, drinking eye drops also removes blindness.
+Additionally, wardens are only naturally blind mobs even without requiring the Blindness status effect, and they can be found in ancient cities.
+Blindness does not effect mobs.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Blindness" are maintained on the bug tracker. Report issues there.

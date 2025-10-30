@@ -1,0 +1,10 @@
+This page attempts to document the full history of the textures of items, their additions, changes and removals. This page only documents items which have specific item textures (such as cauldrons and hoppers) - items which use 3D models of the block they represent, as well as items which are the 2D texture of the block in question, are not documented here but rather at Java Edition history of textures/Blocks.
+
+
+== List ==
+
+
+=== Used item textures ===
+
+
+== Unused textures ==

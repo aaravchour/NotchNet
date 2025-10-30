@@ -1,0 +1,81 @@
+Potions are bottled substances designed to inflict effects. They are created by brewing and when drunk give the player an effect for a limited time. All potions are brewed from a water bottle, which is considered a type of potion but has no effects.
+
+Witches can drop potions of Healing, Fire Resistance, Swiftness, or Water Breathing if they die while drinking that potion.
+
+Wandering traders have a chance to drop a Potion of Invisibility if they die while drinking the potion.
+
+Water bottles can be fished up as junk items.
+
+Almost all potions are obtained by brewing.
+The Potion of Luck and the Potion of Decay cannot be brewed. A command to give a Luck Potion is /give @s minecraft:potion{Potion:luck}, while a Potion of Decay can be obtained via /give @s potion 1 36. Both are also available in the creative inventory.
+
+Two Health II potions can be found in the brewing stand on ships in end cities, and one splash potion of Weakness can be found in a brewing stand in igloo basements.
+in Bedrock Edition, the cauldron in a swamp hut contains a random potion.
+
+Piglins may barter a potion or a splash potion of Fire Resistance when given a gold ingot.
+
+Potions are used by pressing and holding use with the potion bottle in hand, as with all consumable items. When drunk they bestow the corresponding status effect to the player.
+Drinking a potion while already under the effects of the same potion does not add onto the effect's duration, but simply resets it. A potion effect does not "downgrade" if a lower level is activated. For example, if a player has Regeneration II, drinking a regular potion of Regeneration does not have any effect.
+Using a potion on a cauldron does not transfer the potion to the cauldron, but begins to play the drinking animation.
+
+Potions can be modified in five ways. 
+
+Brewing glowstone dust into certain potions will enhance their level of effect.
+Adding redstone will extend the duration of the effect.
+Brewing gunpowder into a potion makes it into a splash potion (area effect).
+Adding dragon's breath to a splash potion creates a lingering potion (area effect that lingers on the ground).
+Brewing a fermented spider eye into specific potions modifies their effect, usually inverting it, which is referred to as "corruption".
+The modifications of Enhancement and Extension are mutually exclusive. 
+Enhancing most potions trades some of its duration for a bigger effect. For example, the base Regeneration works for 44 seconds whereas Regeneration II lasts for only 22 seconds but heals more per tick during that time. 
+Extending a potion generally makes it last 83 as long as its base potion, so a duration of 3 minutes becomes 8 minutes. 
+
+The usual result of corruption is to invert the potion's effect (for example Swiftness becomes Slowness). Interestingly, corrupting Poison (continuous damage effect) creates a Potion of Harming, an instant damage effect, instead of the continuous healing effect (regeneration) one would normally expect. Corrupting a Potion of Night Vision turns it into a Potion of Invisibility rather than an inverse effect that might be something like blindness.
+Corrupting an extended or enhanced potion results in a corrupted potion with the same modifier, if it is supported by the corrupted effect. All of the "corrupted" potions except Harming can be extended, but it is the only one that can be enhanced. In Bedrock Edition, the corruption of Healing II or Poison II potions results in a potion of Harming I.
+
+Base potions are potions that have no effect when the player drinks them, but are necessary as the basis for other potions.
+
+In Java Edition, the Uncraftable Potion is a potion with no effect that is unobtainable in regular gameplay.
+It is also available in splash potion and lingering potion forms, as well as for tipped arrows.
+It can be obtained using the following command: /give @s minecraft:potion{Potion:"minecraft:empty"}. It is also obtained any time a potion has invalid or missing potion effect tags, and thus serves as a placeholder.
+
+The effects given by Potions of Healing and Harming are opposite on undead mobs, which includes skeletons and zombies. Potions of Healing cause harm, and Harming heals them. In addition, undead mobs are not affected by Poison or Regeneration. 
+In Bedrock Edition, hitting an undead mob with a Regeneration Potion will always register as Regeneration I, no matter the level of the used potion.
+
+Using a water bottle, splash water bottle, or lingering water bottle on dirt, coarse dirt, or rooted dirt will convert it into mud, returning a glass bottle with it. This process can be automated with a dispenser. 
+
+In Bedrock and Legacy Console editions potion bottles may be used on a cauldron to fill it. Using a glass bottle on a cauldron filled with a potion drains it and fills the bottle. Potions cannot be combined in a cauldron, nor can they be mixed with water, but as an added bonus if you use a stack of arrows in a full cauldron you get a stack of tipped arrows. for 1 layer you get 16, 2 layers 32.
+
+In Java Edition, potions can also be obtained with any status effect using /give and the tag custom_potion_effects, which is an array of effects for the potion. See Item format#Potion Effects for more information, and status effect for a list of effects and IDs.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+In Bedrock Edition, potions use the following item data values to indicate the kind of potion:
+
+Normal potions use an NBT "Potion" tag to indicate the potion type. The values of the tag (to be prefixed with minecraft:) are:
+
+See Bedrock Edition level format/Item format.
+
+Issues relating to "Potion" are maintained on the bug tracker. Report issues there.
+
+A potion can reach a maximum tier of 127, but using the /effect command, effect levels can reach 255.
+When a player drinks two potions by quickly switching to another potion immediately after drinking one, the second drinking animation is not shown.
+A potion of Poison II lasts for 22.5 seconds, but it is displayed as 22 seconds because the item hover display shows rounded-down integer values.
+The "Local Brewery" advancement uses the Uncraftable Potion texture for its icon.
+
+Bedrock Edition has unused potion textures for several effects, along with their splash variants. These effects are: Absorption, Blindness, Haste, Health Boost, Hunger, Mining Fatigue, Nausea, Resistance, Saturation, and Levitation, as well as the Luck potion textures also present in Java Edition. These unused textures were added along with the other potion textures in Pocket Edition v0.12.1 alpha, except for the potion of levitation, which was added in Pocket Edition 1.0.0. The textures were changed along with the other potion textures during the texture update in Bedrock Edition 1.10.0. Strangely, the potion of levitation texture is a duplicate of the splash potion of levitation texture.
+
+Java Edition
+
+Glass Bottle
+Medicine
+Splash Potion
+Lingering Potion
+
+Taking Inventory: Potion  Minecraft.net on May 11, 2022
+Minecraft Potions - A Visual Guide (version 1.9)

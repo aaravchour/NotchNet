@@ -1,0 +1,10 @@
+Clears the player's inventory.
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

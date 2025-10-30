@@ -1,0 +1,17 @@
+Modmemc is a Minecraft launcher where you can Install mods and add modpacks. You can 
+it here.
+
+
+== What is Modmemc? ==
+Modmemc is a Minecraft launcher. You can add mods to it, but it won't break
+the Minecraft you have now, because you can have more Minecraft folders and it installs mods automatically for you
+(multiple installations of Minecraft and install automatic mods).
+This program run on .NET Framework! (Download .NET Framework here)
+
+
+== How to install ==
+It only works on Windows (Mac and Linux will come soon).
+First check if you have .NET Framework (Download .NET Framework here).
+Download modmemc installer.exe [1]
+Open Modmemc installer.exe and follow the instructions there.
+Open Modmemc and enjoy it.

@@ -1,0 +1,79 @@
+A button is a non-solid block that produces a temporary redstone signal when pressed, with two variants.
+Stone buttons can only be pressed by players.
+Wooden buttons remain pressed for longer, and can also be pressed by arrows and tridents.
+
+A wooden button is easily broken with an axe, but drops itself as an item if broken using any tool. A stone button must be mined with a pickaxe to drop as an item.
+
+In Java, you don't need to have a pickaxe to mine a stone/polished blackstone button. But in Bedrock, you need to have a pickaxe to mine a stone/polished blackstone button
+A button is removed and drops as an item if:
+
+its attachment block is moved, removed, or destroyed.
+water or lava flows into its space.
+a piston tries to push it or moves a block into its space.
+
+Stone buttons are naturally generated in strongholds, next to iron doors.
+Stone buttons also generate in desert armorer houses attached to granite.
+Jungle buttons generate naturally on house walls in desert villages.
+
+Buttons can be crafted from planks for a matching wood-type button, or stone for a stone button.
+
+A button can be used as a monostable power source (albeit it automatically deactivates shortly after being activated).
+
+Placement
+Buttons can be placed by using it on a surface.
+They can be attached to the side, bottom and top of any full opaque block.
+If placed on the top or bottom of a block, the button can face any direction.
+It can also be attached to the top of a fence in Bedrock Edition.
+More information about placement on transparent blocks can be found at Opacity/Placement.
+
+Activation
+Buttons are usually in an inactive state, but can be temporarily activated by players. A button can be activated by using it. A wooden button can also be activated by a fired arrow or a thrown trident if its collision box touched the button.
+Mobs cannot activate buttons directly, but arrows fired by skeletons or dispensers can activate wooden buttons.
+
+Behavior
+When activated, a wooden button remains active for 15 redstone ticks (1.5 seconds, barring lag), while a stone button remains active for 10 redstone ticks (1 second, barring lag). A wooden button activated by a fired arrow or a thrown trident remains active until the arrow or trident despawns (after one minute) or is picked up by a player.
+While active, a button:
+
+powers any adjacent redstone dust to power level 15, including beneath the button
+powers any adjacent redstone comparators or redstone repeaters facing away from the button to power level 15
+strongly powers its attachment block to power level 15
+activates any adjacent mechanism components, including above or below, such as pistons, redstone lamps, etc.
+When a button changes state it provides a redstone update to all redstone components adjacent to itself (including above and below), and to all redstone components adjacent to its attachment block.
+
+Wooden buttons can be used as a fuel source in furnaces, smelting 0.5 items per button.
+
+Buttons can be used to prevent mobs from spawning on blocks (ie on ice paths). See: Tutorials/Spawn-proofing.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Button" are maintained on the bug tracker. Report issues there.

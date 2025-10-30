@@ -1,0 +1,10 @@
+The baby pig is a cosmetic pet mob that can be summoned within the various missions of Minecraft Dungeons. It was released on February 24, 2021 to all heroes as part of a free update to commemorate 10 million Dungeons players.
+
+The baby pig is similar to the baby pig in the original game, with its disproportionately large head compared to its body.
+
+The baby pig is purely cosmetic and does not attack any mobs.
+
+Issues relating to "Baby Pig" are maintained on the bug tracker. Report issues there.
+
+The baby pig, referred to as the young cruncher of apples, was featured in a Twitter post, greedily eating apples before napping on a map.
+The baby pig's files and textures were incorrectly named "Baby Chicken".

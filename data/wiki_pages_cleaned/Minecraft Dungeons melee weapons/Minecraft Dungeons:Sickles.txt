@@ -1,0 +1,29 @@
+Sickles are melee weapons that can be found within the various missions of Minecraft Dungeons. Its unique variants are the last laugh and the nightmare's bite.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Pumpkin Pastures
+Arch Haven
+Desert Temple (Adventure)
+Lost Settlement (Adventure, DLC)
+Warped Forest (Apocalypse, DLC)
+End Wilds (Adventure, DLC)
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Haunted Caller
+
+Sickles possess low power, moderate speed, and low range. They have a combo consisting of four alternating quick strikes, and two stronger strikes. The first four hits deal the weapon's minimum melee damage, the fifth does 100% more damage, and the sixth deals the maximum melee damage.
+
+X melee damage
+Dual wield
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+Issues relating to "Sickles" are maintained on the bug tracker. Report issues there.

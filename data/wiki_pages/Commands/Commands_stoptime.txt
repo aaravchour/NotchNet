@@ -1,0 +1,10 @@
+Stop/continue time.
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

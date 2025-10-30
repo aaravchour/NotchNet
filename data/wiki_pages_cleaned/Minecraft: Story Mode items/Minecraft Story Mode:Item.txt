@@ -1,0 +1,93 @@
+An item is an object used to complete tasks, fulfill a narrative, or for crafting other items and tools.
+
+Minecraft Story Mode:Anvil
+Minecraft Story Mode:Cake
+Minecraft Story Mode:Cobblestone
+Minecraft Story Mode:Command Block
+Minecraft Story Mode:Daylight Sensor
+Minecraft Story Mode:Diamond Minecart
+Minecraft Story Mode:Dirt
+Minecraft Story Mode:Dragon Egg
+Minecraft Story Mode:Egg
+Minecraft Story Mode:Enchanted Flint and Steel
+Minecraft Story Mode:Ender Crystal
+Minecraft Story Mode:Firework Rocket
+Minecraft Story Mode:Fish
+Minecraft Story Mode:Flint and Steel
+Minecraft Story Mode:Formidi-Bomb
+Minecraft Story Mode:Giant Clock
+Minecraft Story Mode:Ladder
+Minecraft Story Mode:Lever
+Minecraft Story Mode:Minecart
+Minecraft Story Mode:Obsidian
+Minecraft Story Mode:Painting
+Minecraft Story Mode:Potato
+Minecraft Story Mode:Pumpkin
+Minecraft Story Mode:Redstone Dust
+Minecraft Story Mode:Redstone Heart
+Minecraft Story Mode:Redstone Repeater
+Minecraft Story Mode:Sand
+Minecraft Story Mode:Sea Lantern
+Minecraft Story Mode:Slime Block
+Minecraft Story Mode:Spawn Egg
+Minecraft Story Mode:Structure Block
+Minecraft Story Mode:Super TNT
+Minecraft Story Mode:TNT
+Minecraft Story Mode:Torch
+Minecraft Story Mode:Wither Skull
+Minecraft Story Mode:Wood Planks
+Minecraft Story Mode:Wool
+
+Minecraft Story Mode:Amulet
+Minecraft Story Mode:Apple
+Minecraft Story Mode:Armor
+Minecraft Story Mode:Arrow
+Minecraft Story Mode:Arrow of Poison
+Minecraft Story Mode:Axe
+Minecraft Story Mode:Book
+Minecraft Story Mode:Bow
+Minecraft Story Mode:Bread
+Minecraft Story Mode:Bucket
+Minecraft Story Mode:Carrot
+Minecraft Story Mode:Command Block Enchanted Book
+Minecraft Story Mode:Command Block Tools
+Minecraft Story Mode:Compass
+Minecraft Story Mode:Cookie
+Minecraft Story Mode:Diamond
+Minecraft Story Mode:Elixir
+Minecraft Story Mode:Elytra
+Minecraft Story Mode:Ender Pearl
+Minecraft Story Mode:Enderman Suit
+Minecraft Story Mode:Eversource Crown
+Minecraft Story Mode:Feather
+Minecraft Story Mode:Fishing Rod
+Minecraft Story Mode:Flint
+Minecraft Story Mode:Fred's Gauntlet
+Minecraft Story Mode:Fred's Journal
+Minecraft Story Mode:Ghast Tear
+Minecraft Story Mode:Gunpowder
+Minecraft Story Mode:Hoe
+Minecraft Story Mode:Invitation
+Minecraft Story Mode:Lapis Lazuli
+Minecraft Story Mode:Lukas' Journal
+Minecraft Story Mode:Mind-Control Chip
+Minecraft Story Mode:Pickaxe
+Minecraft Story Mode:Porkchop (Item)
+Minecraft Story Mode:Portal Atlas
+Minecraft Story Mode:Potion
+Minecraft Story Mode:Prismarine Shard
+Minecraft Story Mode:Pumpkin Pie
+Minecraft Story Mode:Record
+Minecraft Story Mode:Romeo's Gauntlet
+Minecraft Story Mode:Rotten Flesh
+Minecraft Story Mode:Shears
+Minecraft Story Mode:Shield
+Minecraft Story Mode:Shovel
+Minecraft Story Mode:Slimeball
+Minecraft Story Mode:Spider Eye
+Minecraft Story Mode:Stick
+Minecraft Story Mode:String
+Minecraft Story Mode:Sword
+Minecraft Story Mode:Transmigrational headset
+Minecraft Story Mode:Wheat
+Minecraft Story Mode:Withered Nether Star

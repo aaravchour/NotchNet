@@ -1,0 +1,20 @@
+The totem of shielding is an artifact that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Cacti Canyon
+Desert Temple
+Underhalls
+Lone Fortress (DLC)
+Crimson Forest (DLC)
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+The totem of shielding is used to block enemy projectiles. When placed, a hexagon of yellow light forms around its position. Enemy projectiles are blocked from all directions, including the heart of ender's laser beams. Projectiles fired by heroes will pass through, with the exception of the Corrupted Beacon's laser beam, and mobs are not blocked from walking into the hexagon. Projectiles are only blocked, not deflected.
+
+X seconds duration
+20 second cooldown
+
+Issues relating to "Totem of Shielding" are maintained on the bug tracker. Report issues there.

@@ -1,0 +1,7 @@
+A redthorn is an obstacle that slows down and damages entities in Minecraft Legends.
+
+Redthorn can be found in badlands and jungle biomes. They spawn in twisting lines.
+
+When an entity move into redthorn its movement speed and jump height is reduced, and it takes small damage quickly over time.
+
+Issues relating to "Redthorn" are maintained on the bug tracker. Report issues there.

@@ -1,0 +1,6 @@
+This village spawn in the desert biomes. It can be spawned into the zombie villager.
+
+
+== Blueprints ==
+
+This desert village is work in progress, of a given generated structure of terrain feature.

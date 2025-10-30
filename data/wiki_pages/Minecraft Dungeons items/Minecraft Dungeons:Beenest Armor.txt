@@ -1,0 +1,57 @@
+Beenest armor is an armor set that can be found within the various missions of Minecraft Dungeons. Its unique variant is the beehive armor.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+A  before a mission name indicates that the item is only obtainable in Daily Trials of that mission.
+
+ Soggy Cave
+ Pumpkin Pastures
+ Lost Settlement (DLC)
+ Warped Forest (DLC)
+Tower
+Merchants
+Gift Wrapper
+Ancients
+The Tower
+
+
+== Usage ==
+
+
+=== Properties ===
+X health
+30% chance to summon a bee when hit (max 3)
+Health potions heal nearby allies
+
+
+== Sounds ==
+
+
+== Achievements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Beenest Armor" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===

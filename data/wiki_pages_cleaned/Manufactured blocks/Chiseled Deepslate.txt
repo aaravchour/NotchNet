@@ -1,0 +1,18 @@
+Chiseled deepslate is the chiseled version of deepslate.
+
+Chiseled deepslate generate naturally in ancient cities.
+
+Chiseled deepslate can be obtained only by mining it with a pickaxe. When mined using any other tool, it drops nothing.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Chiseled Deepslate" are maintained on the bug tracker. Report issues there.
+
+In version 1.17, the Chiseled Deepslate block was misspelled as "Chiselled Deepslate" while playing with the US English language.
+Chiseled deepslate blocks have the symbol of a Warden on them.

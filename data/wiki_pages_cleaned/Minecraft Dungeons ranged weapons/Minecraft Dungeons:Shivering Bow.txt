@@ -1,0 +1,19 @@
+The shivering bow is a unique soul bow variant that can be found within the various seasonal trials of Minecraft Dungeons.
+
+Missions
+Tower
+Events
+Chills and Thrills (ended)
+Festival of Frost (ended)
+Merchants
+Gift Wrapper
+
+X ranged damage
+Steals speed (Tempo Theft tier I)
++1 soul gathering
+
+Quiver: 66
+Charge Multiplier: 2.5
+Fire Rate: 2.2 shots per second
+
+Issues relating to "Shivering Bow" are maintained on the bug tracker. Report issues there.

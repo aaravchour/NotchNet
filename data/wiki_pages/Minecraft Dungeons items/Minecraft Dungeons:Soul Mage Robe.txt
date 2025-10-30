@@ -1,0 +1,21 @@
+The soul mage robe is an unused unique armor variant that was scrapped during the development of Minecraft Dungeons. Due to its name, it is possible that it was to be a unique soul robe variant, however this is not confirmed.
+
+
+== Obtaining ==
+The soul mage robe is currently unobtainable, it is unknown if it will be added in the future or not.
+
+
+== Usage ==
+
+
+=== Abilities ===
++X health
++50% soul gathering
++50% artifact damage.
+Grants 2 artifacts charges
+
+
+== History ==
+
+
+== References ==

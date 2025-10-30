@@ -1,0 +1,14 @@
+Stronghold large rooms can have up to four exits (including the entrance to the room) and come in four variants: empty room, stone pillar room, fountain room and storeroom. Therefore, each variant will be shown in the build.
+
+NOTICE: Since there is multiple exits possible, the build will show multiple variants as "Layer 2a" and "Layer 2b." "a" is for no entrance, "b" for wooden doors, "c" for iron doors, "d" for iron bars, and "e" for a plain entrance. The sides can be mixed and matched.
+
+Empty Room
+
+Pillar Room
+This room is exactly like the empty room but with a decoration in the middle, so for simplicity's sake, the entrances is not shown.
+
+Fountain Room
+This room is exactly like the empty room but with a decoration in the middle, so for simplicity's sake, the entrances is not shown.
+
+Storeroom
+This room is separated into two levels by a layer of oak planks and cobblestone, with a cobblestone structure in the middle connecting the two. The second floor contains a single loot chest, and can be accessed by ladders placed against one side of the wall. For simplicity's sake, the entrances is not shown.

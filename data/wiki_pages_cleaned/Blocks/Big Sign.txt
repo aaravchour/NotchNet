@@ -1,0 +1,3 @@
+Big Sign is a three block wide sign.
+
+When you place a sign it gives you a choice if you would like a small or big sign.

@@ -1,0 +1,19 @@
+The shrieking crossbow is a unique veiled crossbow variant that could be found within the Spooky Fall 2022 event of Minecraft Dungeons.
+
+Missions
+Tower
+Events
+Spooky Fall 2022 (ended)
+Merchants
+Gift Wrapper
+
+The shrieking crossbow functions identically to the veilded crossbow.
+
+X ranged damage
+Chance of Shadow Form on kills (Shadow Shot)
+First shot won't break Shadow Form (Shadow Barb)
+
+Quiver: 53
+Fire Rate: 1.67 shots per second
+
+Issues relating to "Shrieking Crossbow" are maintained on the bug tracker. Report issues there.

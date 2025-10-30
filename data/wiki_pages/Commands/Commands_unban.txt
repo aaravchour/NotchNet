@@ -1,0 +1,8 @@
+Pardons a banned player.
+The Classic equivalent of /pardon.
+
+Syntax
+unban <name>
+
+
+== History ==

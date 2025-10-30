@@ -1,0 +1,1 @@
+The spruce slabs in layer 4 and 2 spruce slabs in layer 6 are all bottom slabs. The other spruce slabs and the smooth stone slabs in layer 1 are all top slabs.

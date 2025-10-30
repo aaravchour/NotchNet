@@ -1,0 +1,297 @@
+A log or stem is a naturally occurring block found in trees or huge fungi, primarily used as a building block, and to create planks, a versatile crafting ingredient. It comes in eleven types: oak, spruce, birch, jungle, acacia, dark oak, mangrove, cherry blossom, crimson, warped, and pale oak.
+A stripped log or stripped stem is a variant obtained by using an axe on a log or a stem respectively. Once stripped, it cannot be reversed.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Logs and stems can be broken by hand, but using an axe speeds up the process. Logs and stems drop themselves when broken with any tool.
+
+
+=== Chest loot ===
+
+
+=== Natural generation ===
+
+
+==== Trees ====
+Logs generate naturally as part of trees. Especially, a jungle log generate for each jungle bush.
+
+
+==== Huge fungi ====
+Stems generate naturally as part of huge fungi.
+
+
+==== Structures ====
+ Oak
+Oak logs generate as part of houses and at some meeting points in plains villages, and as supporting beams of swamp huts and normal mineshafts.
+Stripped oak logs generate in plains villages.
+ Spruce
+Spruce logs generate as part of houses in taiga and snowy plains villages.
+Stripped spruce logs generate in snowy plains villages.
+ Acacia
+Acacia logs and stripped acacia logs generate as part of houses in savanna villages.
+ Dark oak
+Dark oak logs can generate in pillager outposts as a pile of logs, and as part of watchtowers. They also generate as supporting beams badlands mineshafts.
+They are also generated in woodland mansions in the walls and borders and in ancient cities.
+Mixed
+Oak, spruce, jungle, and dark oak logs generate as masts in shipwrecks.‌
+Stripped oak, spruce, jungle, and dark oak logs also generate as masts in shipwrecks.‌
+
+
+=== Post-generation ===
+
+
+==== Logs and stems ====
+Trees can also be grown using saplings or azalea and huge fungi can also be grown using small fungi.
+
+
+==== Stripped logs and stems ====
+Using an axe on a log or stem turns it into a stripped log or a stripped stem, which act the same as regular logs.
+
+
+== Usage ==
+
+
+=== Crafting ingredient ===
+
+
+==== Further crafting ====
+The following table presents the amount of logs or stems needed to produce an even multiple of a given item with no waste left over, and the quantity produced:
+
+
+=== Smelting ingredient ===
+
+
+=== Fuel ===
+Logs, but not stems, can be used as a fuel in furnaces, smelting 1.5 items per block.
+
+
+=== Cocoa beans ===
+Cocoa beans can be placed on the side of both jungle logs and stripped jungle logs to grow a new cocoa pod.
+
+
+=== Note blocks ===
+Logs and stems can be placed under note blocks to produce "bass" sounds.
+
+
+== Sounds ==
+
+
+=== Other logs ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Cherry log ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Stems ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+Note that when a log or stem is placed, it changes its facing parameters, placing in the direction relative to the block it is placed on.
+Logs and stems consider only the axis; a sideways log or stem placed while facing north does not have a top texture rotated 180 degrees from a log or stem placed south.
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+
+Bedrock Edition:
+
+
+== Achievements ==
+
+
+== History ==
+For a more in-depth breakdown of changes to textures and models, including a set of renders for each state combination, see /Asset history
+
+
+=== Data history ===
+
+
+== Issues ==
+Issues relating to "Log", "Stripped log", "Stem", or "Stripped stem" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+In Bedrock Edition, dark oak and acacia logs share a block ID separate from the old logs, called log2, because all the other data values on the previous log block were occupied by rotated variants (red sandstone slabs suffered a similar fate). There are still 8 remaining data values on the block that cannot be obtained. This was also the case in Java Edition prior to 1.13.
+Even if stems or their plank variants cannot be used as fuel or made into charcoal, the player can bypass this by crafting them into crafting tables or sticks, which can be used as a fuel.
+Crimson and Warped stems are the only logs that have an animation.
+
+
+== Gallery ==
+
+
+=== Renders ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

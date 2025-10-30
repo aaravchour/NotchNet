@@ -1,0 +1,6 @@
+The Smarter Watch was a joke offhand item.
+
+Smarter watches were "equipped" by having them placed into the offhand slot. Upon equipping, they would display the current time above the hotbar, in minutes and seconds, with one minute of in-game time being 5/6 of a real-time second, and one in-game hour being 5/6 of a real-time minute or 50 seconds.
+The smarter watch would also notify the player of statistics milestones, alongside taken damage, item specific info, crafting items and more.
+
+Smarter Watches are an unsupported item due to being an April Fools' joke, and therefore issues relating to them will not be fixed.

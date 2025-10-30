@@ -1,0 +1,33 @@
+A saddle is an item required to ride pigs and striders or control ridden camels, horses, donkeys, and mules.
+
+(This is changed in Chase the Skies game drop, since they are now craftable. However, the village chest loot remains untouched.)
+
+Saddles can be obtained as a "treasure" item from fishing with a base chance (without fishing rod enchantments) of 0.8%.
+
+Master-level leatherworker villagers have a 50% chance to sell a saddle for 6 emeralds as their trade. This trade is always offered in Java Edition.
+
+Any mob that the player equips with a saddle drops the saddle upon death.
+A strider may spawn being ridden by a zombified piglin, which causes it to spawn wearing a saddle. This saddle always drops when the strider is killed.
+A ravager always spawns with a saddle and always drops the saddle upon death. Looting does not affect the drop.
+
+While camels, horses, donkeys, mules, and skeleton horses can always be ridden, a saddle is required to control them. These mobs (only after being tamed, in the case of equine mobs) can be equipped with a saddle by placing it in their inventory, which can be opened by pressing use while holding a saddle or sneaking. The saddle can be unequipped by removing it from  the specific inventory slot, or using a pair of shears.
+Saddles are required to ride pigs and striders, but even with a saddle their movement cannot be controlled like other mobs. A carrot on a stick (for pigs) or a warped fungus on a stick (for striders) is required to direct these mobs. Using a saddle on one of these mobs equips them with the saddle, and, since they have no inventory, there is no way to retrieve the saddle without killing the mob.
+Animals can also be equipped with saddles by a dispenser.
+Although ravagers appear equipped with saddles and sometimes ridden by other mobs, players are unable to ride ravagers. Ravagers' saddles cannot be sheared off.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Saddle" are maintained on the bug tracker. Report issues there.
+
+A saddle is considered "armor" by the game, but the value of protection to the animal is zero.
+A saddle on a pig can still be seen if the pig is afflicted with Invisibility.
+When riding a saddled mob, the hunger bar is replaced by hearts (representing the mounted mob's health) resembling the look of the saddle.
+The saddle was not able to be crafted until the update 1.21.6
+
+Transportation

@@ -1,0 +1,188 @@
+The list below contains tutorials describing various factors of Minecraft.
+
+
+== Newcomers ==
+These tutorials are designed to help newcomers to Minecraft get a basic ground beneath their feet.
+
+Menu screen
+Game terms
+
+
+=== Newcomer survival ===
+The first day/Beginner's guide
+Your first 10 minutes
+The second day
+The third day
+Hunger management
+Navigation
+Things not to do
+Simple tips and tricks
+Best biomes to play
+
+
+=== Shelters ===
+Building and construction
+Shelters
+Shelter types
+Best biomes for homes
+Best building materials
+Desert shelter
+
+
+== Essential ==
+These tutorials are intended for right after you have a roof over your head and a renewable food source. These tutorials shed light on some of the core fixtures of Minecraft gameplay. As such, you should consider reading them all.
+
+
+== General ==
+Getting to know the game better. These are for when the player is comfortably established.
+
+
+== Construction ==
+
+
+== Challenges ==
+
+
+=== Non-standard survival ===
+
+
+=== Challenge maps ===
+
+
+== Exploiting bugs ==
+These tutorials rely on bugs to work and may be fixed at any time. Some servers may consider the use of these bugs as bannable.
+
+Bedrock farming
+Block and item duplication
+Breaking bedrock
+Headless pistons
+Indestructible end crystals
+X-ray glitches
+Update suppression
+
+
+== Farming ==
+These tutorials provide information on crop and mob farming.  In most cases, the player has a choice among a variety of farming methods and designs.  While a huge automatic farm may be useful where large supplies of something are needed, it's important to remember that a small, simple farm can easily provide enough resources for an early-game player, or casual use in general.
+
+
+=== Items ===
+
+
+=== Mobs ===
+
+
+=== OP farms ===
+This section is for farms which are extremely overpowered and produce much more drops than the casual Minecraft player needs, and require their own article to explain it in detail.
+
+
+== Enchanting and smelting ==
+These tutorials provide information on how the furnaces and the enchantment system work.
+
+ Enchanting mechanics
+ Anvil mechanics
+ Automatic smelting
+ Smelting
+
+
+== Block breaking ==
+These tutorials provide information on how to break blocks automatically, usually by an explosion.
+
+Blast chamber
+Igniting TNT underwater
+Wither cage
+
+
+== Redstone and mechanisms ==
+These tutorials provide information on redstone mechanisms.
+
+
+=== Redstone basics ===
+Redstone tutorials:  Roundup of all redstone-related tutorials (some are also linked below)
+Redstone dust:  The core material that enables most redstone devices, being crafted into many of them and also placed to carry signals.
+Mechanics/Redstone:  The basic game mechanics for redstone power and signals.
+Mechanics/Redstone/Components:  The blocks that are used in and with redstone contraptions.
+Tutorials/Redstone tips:  Hints and advice for building your redstone devices.
+Mechanics/Redstone/Circuit:  Lists various types of reusable circuits that can be used to manipulate signals, with sub-pages giving examples of the various types.
+
+
+=== Various devices ===
+Tutorials/Hopper:  Hoppers are key for item handling and sorting.
+Tutorials/Item sorting: Sorts items.
+Tutorials/Mechanisms:  Lists an assortment of complete devices using redstone.
+Tutorials/Minecarts:  Large railway systems can benefit from redstone at the terminals.
+Tutorials/Redstone music:  Creating music with Note Blocks and redstone circuits.
+Tutorials/Rube Goldberg machine:  Complexity and spectacle!
+Tutorials/Storage minecarts:  Loading and unloading chests and hopper minecarts.
+
+
+=== Traps ===
+ TNT cannons
+ Trapdoor uses
+Traps and Trap design
+ Zombie villager sorting
+
+
+=== Redstone (advanced) ===
+Flying machines
+Advanced redstone circuits
+Redstone computers
+Hourly clock
+Morse code
+Redstone telegraph
+
+
+== Servers ==
+These tutorials provide information on how servers work and how to set up one.
+
+Setting up a server
+Setting up a LAN world
+Hamachi connection LAN
+Setting up a Minecraft Forge server
+Setting up a Spigot server
+Ramdisk enabled server
+Server maintenance
+Griefing prevention
+Multiplayer survival
+Playing on servers
+Spawn jails for multiplayer
+
+
+== Technical ==
+These tutorials provide information on technical matters, such as mods and snapshots.
+
+
+=== Creating Minecraft media ===
+Videos
+Livestreaming
+
+
+=== Bedrock Edition only ===
+Achievement guide
+Joining and leaving the beta
+Propelling boats uphill
+
+
+== Other ==
+Minecraft help FAQ
+Minecraft in education
+
+
+== Outdated tutorials ==
+The following tutorials are obsolete and intended for older versions of Minecraft. They are kept here for historical purposes.
+
+Custom texture packs — texture packs are no longer used, resource packs use new file structure
+How to get a crash report (Outdated) — no longer works with the current launcher
+Water tram - Boat mechanics have been overhauled
+Repeater reboot system — a glitch that existed in Beta only
+Update LWJGL (Legacy) — current launcher automatically updates libraries
+Custom lake — these methods are no longer needed since water is more obliging
+Water ladder — no longer works as given, water behavior has changed a lot since Beta
+Installing mods - Modloader — ModLoader is no longer supported by its creator
+Far Lands — Only existed before Beta 1.8
+Instant wire — a glitch that existed in Beta
+Update Minecraft — updating and downgrading Minecraft is automatic in the new launcher
+Minecart booster — Minecart boosters were fixed shortly after the introduction of powered rails.
+Survival with no enabled data packs - Blocks no longer drop items when data packs are disabled with the Village & Pillage update.
+Door-based iron golem farming - Villages are no longer based around doors with the Village & Pillage update.
+Village chaining - Villages are no longer based around doors with the Village & Pillage update.
+Potion farming - This method of potion farming was patched in version 1.17.30 as a result of being too overpowered. Witch farms can still give potions however.

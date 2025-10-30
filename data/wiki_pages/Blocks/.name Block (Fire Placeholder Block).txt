@@ -1,0 +1,18 @@
+Template:InvEdit
+Template:Infobox
+.name (AKA the Fire Placeholder Block) is a Block that was added in Update 0.3.3.
+
+
+== Obtaining ==
+Currently, it is only obtainable through Inventory Editing in Template:Mc.
+
+
+== Usage ==
+The .name Block served as a placeholder for Fire till Update 0.6.1, as in Update 0.7.0, Fire was re-added to the game.
+
+
+== Trivia ==
+The old texture was a Stone block.
+Some Players have seen it as a block with all items, including unimplemented ones.
+In Update 0.15.0, the .name block's texture was changed to the Info update's texture.
+Template:BlocksNav}

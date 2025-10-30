@@ -1,0 +1,348 @@
+Creating a proper and safe Mac OS X daemon is a relatively hard task. Note that this document is a work in progress. 
+
+When creating a Mac OS X startup daemon, it may work for some people, but not for others. Therefore, it is strongly recommended not to create one unless you know your way around Terminal and Console, and you have a good analytical mind that will tell you whenever you are doing mistakes. This article is more of a helping hand, so if you have no background knowledge on Terminal and Console, this article may not be very helpful.
+This page will help you make your Minecraft server securely run without having to log in as a user. It has been tested on Mac OS X Server Snow Leopard and Mac OS X Snow Leopard. Your mileage will vary elsewhere, as the commands have changed a little bit.
+Before even attempting this, you should run a server instance by hand, to make sure everything works. If you are able to run your server and actually connect to it from a remote computer, you can start thinking about creating a daemon.
+
+It's best to always use sudo for each command needed to do as root. Many people believe that sudo su - is the best option. Although this may be easier, it's also much more dangerous to do so. Forgetting you're as root and doing something awkward gives you more chances to destroy your computer.
+It is much safer and therefore strongly recommended to first move to the proper folder and then do the action for a precise file or folder. This is becausemany people who have tried to create this without moving it to the proper folder, have mistakenly pressed return while doing a nasty command and applied it to their whole computer. It's preferable that you don't learn to move it to the proper folder first the hard way.
+The final reason that it's better to use sudo, is because every sudo command is logged in your Console, meaning you know what happens, and if you made something incorrect, you can review your log and know what you did to try to repair it. Doing a sudo su - will only show that. However, it's your computer, it's your habits, do whatever you want with it!
+
+Port mapping is not supported in this version
+The server doesn't properly close at system shutdown. This will need to be investigated
+Backup should have its user, have trap, and actually suggest one backup scheme, like a rsync incremental backup or something.
+
+This section is technically optional, but for security considerations, you should do it, preferably the "hard and correct way".
+It is very important to do one of the following methods, specifically the hard and correct way, as if you don't do anything, anybody who hacks your computer through Minecraft will be able to do anything they want. Therefore, if you don't want this to happen, you should do it the hard and correct way.
+
+Click on Apple menu item
+Open System Preferences
+Click on System: Accounts
+Click on the lock in order to unlock the page
+Enter your administrator password
+Click on the Plus button
+Create a new Standard user, named Minecraft (Please make sure to modify the launchd plist file saying you are using a different user) with a password
+Click "Ok"
+Once you have finished these steps, you are done! However, this creates a full-fledged user, whilst Mac OS X expects a daemon user. As a side bonus, you can run this as your own personal user, or any other possibilities for users. However, if your Minecraft user gets hacked, the hacker will have a full account to have fun, accessing all your software, and be able to modify everything that's public. Therefore, although this method may be easy, it is not entirely safe, which is why it is recommended to create the _minecraft daemon user and group the hard way.
+
+The user will be created with an underscore first, denoting it's a daemon and should be hidden from user view. It will also be created with a daemon UID.
+We will use dscl to create a user and group. Obviously, it needs to be done with privileges. Open Terminal and type
+
+MyMac:~ myuser$ sudo dscl
+Password: (your password)
+Entering interactive mode... (type "help" for commands)
+Let's move to the base folder for what we need to do (less typing)
+
+ > cd /Local/Default/
+/Local/Default >
+If you are running a Mac OS X Server use Apple's supplied Workgroup Manager [WGM] to create the user, group and home folders with minimal effort.  Make sure you use ID numbers less than 1024 (300 is used in this example).
+If you have other directory authentication, you might have to move to an other folder instead of Local. Use the ls command to view the different folders. To know if you are in the good place, you should have a Users folder with different underscore-prefixed names (like _coreaudiod, _softwareupdate and _www).
+
+/Local/Default > ls Groups gid
+This will show up a list of all the created groups on your computer, along with their GIDs. It doesn't matter what they are, just an empty GID is wanted, potentially in the daemon range (less than 500). Verify if 300 is unused.
+
+/Local/Default > create Groups/_minecraft
+/Local/Default > create Groups/_minecraft PrimaryGroupID 300
+At this point, your group should be created, and assigned the 300 (or any number you chose) GID. You can verify it with the ls Groups gid command and you can compare it to others with the read Groups/_minecraft command.
+
+/Local/Default > ls Users uid
+This will show up a list of all the created users on your computer, along with their UIDs. Again, it doesn't matter what they are, but an empty UID is necessary, again in the daemon range (less than 500). Verify if 300 is unused. You can select a different UID and GID, they need not to be identical, but it's certainly tidier if they are.
+
+/Local/Default > create Users/_minecraft UserShell /bin/bash
+/Local/Default > create Users/_minecraft UniqueID 300
+/Local/Default > create Users/_minecraft PrimaryGroupID 300
+/Local/Default > create Users/_minecraft NFSHomeDirectory /Users/_minecraft
+This created your user. Obviously you need to modify the UniqueID (UID) for the one you chose in this step, and the PrimaryGroupID for the one you chose in the previous section. You can also choose a different home directory. You can put your Minecraft folder with the other users, but it's fine to put this anywhere you want, really.
+Like for the GID, you can use ls Users uid and read Users/_minecraft to make sure everything is all right.
+Now, we said to the user we have a group (PrimaryGroupID) but we need to tell the group it has users:
+
+/Local/Default > append Groups/_minecraft GroupMembership _minecraft
+And we're done!
+
+/Local/Default > exit
+Goodbye
+
+You might want something like this to prevent the user from showing up in the login dropdown:
+sudo dscl . delete /Users/_minecraft AuthenticationAuthority
+sudo dscl . create /Users/_minecraft Password "*"
+
+We now need to create the home folder. Assuming you previously described it as /Users/_minecraft, please type:
+
+MyMac:~ myuser$  cd /Users
+MyMac:Users myuser$ sudo mkdir _minecraft
+MyMac:Users myuser$ sudo chown _minecraft:_minecraft _minecraft 
+
+or simply sudo createhomedir -u _minecraft
+source: 
+
+MyMac:Users myuser$ ls -la
+Whoa, there are many _minecraft here! Here is a version where you can understand something (don't go run this, that said!)
+
+cd /Users
+sudo mkdir UserFolder
+sudo chown UserName:GroupName UserFolder
+ls -la
+Here ... better! If these commands go through, it means your user and group were properly created in the previous steps. At this point, the ls -la should give you something like
+
+total 0
+drwxr-xr-x   5 root        admin        170 15 jui  2010 .
+drwxrwxr-x@ 34 root        admin       1224  6 jan 23:33 ..
+-rw-r--r--   1 root        wheel          0  1 jul  2009 .localized
+drwxrwxrwt   5 root        wheel        170 30 sep 20:18 Shared
+drwxr-xr-x+ 27 _minecraft  _minecraft     0 26 feb 12:54 _minecraft
+drwxr-xr-x+ 27 sakamura    staff        918 10 nov 21:48 sakamura
+
+That's a walk in the park compared to what we went through. First, make sure your Minecraft server is not actually running, or you'll definitely lose data! Then...
+
+MyMac:~ myuser$  cd /Users/_minecraft
+MyMac:_minecraft myuser$ sudo mv ~/Desktop/Minecraft\ Server/* .
+MyMac:_minecraft myuser$ sudo chown -R _minecraft:_minecraft *
+Of course, you want to adjust as needed, with the starting path being where you actually installed your Minecraft server in the first place, and please look-up the previous section for an explanation of the chown command. And please don't forget the dot at the end of the mv command, it's barely visible but it's there, it means the destination is our current folder! Otherwise, command will fail
+Tip #1: If you press Tab once, it will auto-complete the name of the file/folder for you. That's very useful for quickly writing special characters like the evil space bar that needs to be written with a backslash first.
+Tip #2: If you press Tab twice, it will show you all possible auto-completion possibilities, to give you a quick choice if you forgot how it's actually written.
+Tip for the astute reader: Instead of doing a chown once in the previous step, and a chown at this step, it's quicker to simply move the folder, and chown -R the resulting folder. One less command. The reason why it is recommended to do it twice is to make sure your User and Group are properly created in the previous step. But no reason.
+
+You need a few files in order to make this work adequately. It could be done with less files, but it's more readable that way. Please copy them carefully and modify what has to be modified accordingly. One good option is to use vim as a text editor since it keeps my carriage returns at their proper places and doesn't try to be intelligent with me. However, it's also (with emacs) one of the hardest editor to use, from another era. GUI-wise, Apple TextEdit should be fine for this, as long as you follow the instructions from the Mac OS X Setting up a server page (IE: Make as Plain Text).
+Note: these should be created in a temporary location, like your desktop. Instructions for moving to the final location are further below.
+
+#!/bin/bash
+trap 'echo "$(date) Killing Minecraft."; ./stop.sh; exit' TERM
+ipconfig waitall
+echo "$(date) Starting minecraft."
+./start.sh &
+wait
+echo "$(date) Minecraft done."
+
+Back in school, I'm doing so much learning.
+
+Mac OS X Launchd sends a SIGTERM (control-c or signal 15) to kill a daemon. Java plain returns when it receives one. Hence you need to trap it before it reaches java. The whole stop.sh code could be added to the trap line (with many ; and \, but it'd be messy.)
+The start script needs to be asynchronously started and wait upon, as trap needs to exit wait to execute properly See trap examples and explanation here.
+
+#!/bin/bash
+touch stdin.commandlist
+tail -n 0 -f stdin.commandlist | java -Xmx1G -Xms1G -jar minecraft_server.jar --nogui
+
+#!/bin/bash
+PID=`lsof -i -P | grep ':25565 (LISTEN)' | awk '{print $2}'`
+if [ "$PID" != "" ]; then
+  echo "Killing MineCraft Server PID=$PID"
+  kill -TERM $PID
+else
+  echo "MineCraft not running"
+fi
+
+In the other Unix-like systems, the screen command is used to create a separate screen TTY to execute the java system in. The main advantage being to be able to switch to that screen if someone wants to directly interact with the server. That would work if you were to put the launchd plist in your personal user folder, but it will not work in the startup daemon, and it's specifically not supported by launchd, although you can get an up-to-date screen that won't cause problems.
+There are multiple ways to send out commands, including a mkfifo that will work well, but will cause problems with carriage returns. So, it is preferable to use a file, and append the commands you want to send to the java through a pipe.
+
+The tail command will automatically terminate once java terminates.
+
+minecraft.command: 
+#!/bin/bash
+trap 'echo "$(date) Killing Minecraft."; . ./stop.sh' HUP INT TERM
+ipconfig waitall
+echo "$(date) Starting minecraft."
+. ./start.sh
+wait `cat minecraft.pid`
+echo "$(date) Minecraft done."
+In the above we source start.sh and stop.sh, rather than running them in subshells.  We need java to run in the background though, so start.sh is changed to do that.  It also saves the PID in minecraft.pid.  Because tail wasn't exiting, I used a fifo too.
+start.sh:
+#!/bin/bash
+rm -f command-fifo
+mkfifo command-fifo
+java -Xmx1G -Xms1G -jar craftbukkit.jar --nogui <> command-fifo &
+echo $! >| minecraft.pid
+Note that if you do not use craftbukkit, but rather the regular server. where it reads "craftbukkit.jar" it should read "minecraft_server.jar" Finally stop is changed to stop the server cleanly.
+stop.sh:
+#!/bin/bash
+PID=`cat minecraft.pid`
+if [ "$PID" != "" ]; then
+  echo "Stopping MineCraft Server PID=$PID"
+  echo save-all >> command-fifo
+  echo stop >> command-fifo
+  wait $PID
+  rm minecraft.pid
+  echo "MineCraft shutdown complete."
+else
+  echo "MineCraft not running"
+fi
+
+It is not necessary to maintain multiple shell script files to launch and terminate Minecraft. The single script file below will suffice:
+
+#!/usr/bin/env -i bash
+
+MinecraftServer ()
+{
+/usr/sbin/ipconfig waitall
+
+Status "Starting Minecraft server..."
+
+# Environment to be passed to Evacuate
+export MC_SIO # fifo for server i/o
+export MC_PID # server process id
+trap Evacuate HUP INT TERM
+
+MC_SIO="$(mktemp -d -t minecraft)/server"
+mkfifo "$MC_SIO"
+java -Xms1G -Xmx1G -jar minecraft_server.1.8.1.jar --nogui <> "$MC_SIO" &
+MC_PID=$!
+Status "Minecraft PID: ${MC_PID}"
+wait
+rm -rf "$(dirname $MC_SIO)"
+
+Status "Server has shut down."
+}
+
+Evacuate ()
+{
+Status "Stopping Minecraft..."
+echo "stop" >> "$MC_SIO"
+wait $MC_PID
+Status "Minecraft has stopped."
+}
+
+Status ()
+{
+# Log messages to syslog so they are visible in Console.app
+logger -t Minecraft "$@"
+}
+
+MinecraftServer
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC -//Apple Computer//DTD PLIST 1.0//EN  >
+<plist version="1.0">
+<dict>
+<key>Label</key>
+<string>net.minecraft.server</string>
+<key>ProgramArguments</key>
+<array>
+<string>./minecraft.command</string>
+</array>
+<key>RunAtLoad</key>
+<true/>
+<key>WorkingDirectory</key>
+<string>/Users/_minecraft</string>
+<key>UserName</key>
+<string>_minecraft</string>
+</dict>
+</plist>
+Please modify your UserName accordingly, or remove that section altogether if you wish to run it as root. You should also modify your WorkingDirectory to point to the proper path. The label is what will be shown in the Console tool.
+
+Once you have created your files on your desktop, you can copy them:
+
+MyMac:~ myuser$  cd /Users/_minecraft
+MyMac:_minecraft myuser$ sudo cp ~/Desktop/minecraft.command ~/Desktop/start.sh ~/Desktop/stop.sh .
+MyMac:_minecraft myuser$ sudo chmod 755 minecraft.command start.sh stop.sh
+MyMac:_minecraft myuser$ sudo chown _minecraft:_minecraft minecraft.command start.sh stop.sh
+Again, don't forget the dot at the end of cp command.
+You can try executing them (since you are in the good folder, it will work):
+
+MyMac:_minecraft myuser$ sudo -u _minecraft ./minecraft.command
+The command itself should never return, that's all right, but the server should properly start without any error messages, and you should see the java environment being started. You can do control-c to terminate the server. Although it seems inviting, you cannot really run any commands from that console, as stdin was redirected from a file, But if you wish, you can start a 2nd terminal and issue commands like sudo echo save-all >> /Users/_minecraft/stdin.commandlist and they should execute.
+
+We need to tell Mac OS X we wish to start the daemon with the computer when it starts, before you get to the login screen. That's a mere copy away from that point:
+
+MyMac:~ myuser$ cd /Library/LaunchDaemons
+MyMac:LaunchDaemons myuser$ sudo cp ~/Desktop/net.minecraft.server.plist .
+MyMac:LaunchDaemons myuser$ sudo chmod 755 net.minecraft.server.plist
+MyMac:LaunchDaemons myuser$ sudo chown root:wheel net.minecraft.server.plist
+At this point, when you reboot your computer, it should automatically start your server! You can try it out immediately using the following line:
+
+MyMac:LaunchDaemons myuser$ sudo launchctl load net.minecraft.server.plist
+That should load your Minecraft server in its proper user. You should verify it's there and without errors by going to Console and looking at the System Log. You should also verify in the Activity Monitor tool the process was started, and is running under the _minecraft user. Obviously, trying to run a Minecraft game might be a nice thing to do.
+At any time, you can unload the server (but remember it will start automatically when you reboot your computer unless you move away the file:
+
+MyMac:LaunchDaemons myuser$ sudo launchctl unload net.minecraft.server.plist
+
+You may wish to not have your server running all the time if no one is connected to it.  This can be accomplished with just one more script :)
+Before setting this up, get the 'Variant' method above working, as this will work best with it.
+
+Instead of setting the launchd net.minecraft.server.plist file to run minecraft_server.command, set it to run server_daemon.command instead, after placing it in the server directory.
+
+#!/bin/bash
+
+# main loop
+while :
+do
+# listen for connections
+ipconfig waitall
+nc -l 25565 | grep -a -o -E "\b(\w+)$" > user.txt
+
+MATCHES=$(grep -f user.txt whitelist.json | wc -l | tr -d ' ')
+rm user.txt
+
+# if not, listen for connections
+if [ $MATCHES -eq 0 ]
+then
+continue
+fi
+
+# launch server control script
+./minecraft_server.command &
+commandPID=$!
+
+# check periodically for activity
+while :
+    do
+sleep 15
+connections=$(lsof | grep 25565 | grep -v -e LISTEN | wc -l | tr -d " ")
+# if none detected, terminate control script, and listen for connections
+if [ $connections -eq 0 ]
+then
+kill -TERM $commandPID
+wait $commandPID
+break
+fi
+done
+done
+
+This script listens for activity on the default Minecraft port, 25565 and runs the server when a connection is made.  Because Minecraft clients send the username upon first contact, this script uses that to check if the player has access to the server, and ignores them if they don't. This could be changed to allow anyone to remotely start the server by removing the 'if' statement.  Note that users must connect twice on a cold run: once to launch the server, and again once it is up and running.
+Next, the script simply checks periodically to see if there are any active connection on the Minecraft port, and if not, it waits for the server to shutdown before listening again for more connections.
+
+This script creates a lot of temporary files in the server directory, maybe they could be put in /tmp or in a temporary subdirectory?
+This script does not use environment variables to customize settings such as port number and timeout interval.
+
+It's quite easy to start up regular backups. By extension, adding a backup launchd.plist and command file is nearly a no-brainer. The following code will execute every hour, only when Minecraft is actually running, will stop the save, wait for the console to show saving was done, and start it back after you're done backing it up.
+Tip #1: add your own backup code at the comment, or else, it will do nothing :)
+Tip #2: this code runs as root. You can make it run as another user if you wish, like creating a second user in the same _minecraft group, meaning the backup system will be able to read the files but not modify them. That's left to the reader!
+Tip #3: this code might receive a shutdown request, so there really should be a trap command or else it could get interrupted while it's backing up.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC -//Apple Computer//DTD PLIST 1.0//EN  >
+<plist version="1.0">
+<dict>
+<key>Label</key>
+<string>net.minecraft.server.backup</string>
+<key>ProgramArguments</key>
+<array>
+<string>./backup.command</string>
+</array>
+<key>RunAtLoad</key>
+<true/>
+<key>StartInterval</key>
+<integer>3600</integer>
+<key>WorkingDirectory</key>
+<string>/Users/_minecraft</string>
+</dict>
+</plist>
+
+#!/bin/bash
+ps -u _minecraft >/dev/null 2>/dev/null
+if [ $? != 0 ]; then
+echo $(date) Minecraft off: cannot backup.
+exit
+fi
+
+echo save-off >> stdin.commandlist
+echo save-all >> stdin.commandlist
+tail -n 3 -f /var/log/system.log | while read line
+do
+if echo $line | grep -q 'CONSOLE: Save complete.'; then
+# add up your backup commands here, like svn or rsync
+echo save-on >> stdin.commandlist
+exit 0
+fi
+done
+
+= Tying it up =
+This article is rather loose, so please help clean this article up, or if you know much about this subject, add information or clarify existing information.

@@ -1,0 +1,49 @@
+A tower guard is a heavily-armored tower keeper royal guard variant that can be found within the Tower of Minecraft Dungeons.
+
+Tower guards are illagers similar in appearance to royal guards with the difference of them being exclusive to the tower and having unique armor and weapons. Firstly, they wear a unique hood with yellow outlines in the back, they also wear red underclothing under their armor, and lastly, they wear capes and don a unique shield. The same pattern on their shield is seen on their capes. Their eyes are also seen glowing a bright blue.
+
+Tower
+
+Tower guards have strength that is equivalent of the Arch-Illagers royal guards, capable of overwhelming the hero with both damage and numbers, they also like to circle the hero blocking them.
+Tower guards are usually protected by their heavy armor, with their shield and glaive. The shield can deflect all ranged attacks unlike shields of royal guards which can be broken with ranged attacks, so it must be destroyed first, so the hero can damage it. Tower guards are slower than most mobs, but extremely strong, capable of dealing heavy damage to the hero. They can be stunned by normal attacks like royal guard.
+Tower guards chase and attack the hero who attracted them first and ignore other heroes. 
+Tower guards have six attack behaviors:
+
+Basic attack
+Tower guards are capable of swinging their glaive at the hero, dealing heavy damage and knock hero back.
+
+Shield broken
+When the tower guards loses their shield, they stomps angrily and black smoke appears above its head, then disappears.
+
+Charge attack
+Tower guards without shield are capable of charging at the hero if they are within range. Have five seconds cooldown.
+
+Charging
+Tower guard have charging and particle effects whiling charging. Similar to Vengeful Heart of Ender.
+
+Charge collide stop
+If the tower guards misses the hero or hits a wall while charging, they will "collide stop".
+
+Charge normal stop
+If the tower guards catch up to the hero while charging, they will "normal stop" themselves and slash the hero with their spear. Deals knockback and few damage.
+
+A tower guard shield is a royal guard shield variant that can be found exclusively equipped by tower guards within the cloudy climb seasonal adventure of Minecraft Dungeons.
+
+Tower guard shields are red with golden outlines, one on every edge of the shield and one square outline in the interior of the shield. There are four additional outlines inside of the interior outline. These have dark gray squares inside. The weird shape of the squares almost resembles the tower where the tower guards spawn but this is currently unconfirmed. There is an additional dark gray square on top of the shield.
+
+Tower guard shields deflect all ranged attacks, unlike royal guard shields. Similar to deflect enchantment.
+
+A tower guard spear is a spear variant that can be found exclusively equipped by tower guards within the cloudy climb seasonal adventure of Minecraft Dungeons.
+
+Tower guard spears are long dark gray spears that resemble a glaive. The blade on the edge of the spear is a diamond like color however it is currently unknown if the blade is actually made of diamond. This diamond color also appears on the other edge of the spear in the form of two small pieces that decorate the weapon.
+
+In the game files, tower guards are referred to internally by the name IllagerTowerGuard.
+In the game files, tower guard shields are referred to internally by the name TowerGuardShield.
+In the game files, tower guard spears are referred to internally by the name TowerGuardSpear.
+
+Tower guards have an unused gold line boots in their texture file and season 3 game launcher artwork. However the in-game tower guards shares boots texture with royal guard.
+
+Issues relating to "Tower Guard" are maintained on the bug tracker. Report issues there.
+
+Royal Guard
+Vigilant Scoundrel

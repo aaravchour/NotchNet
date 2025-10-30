@@ -1,0 +1,69 @@
+Packed ice is an opaque solid block variant of ice. Unlike regular ice, it does not melt near bright light sources.
+
+
+== Obtaining ==
+Packed ice can be obtained using any tool enchanted with Silk Touch, though a pickaxe is the fastest. Without Silk Touch, breaking it drops nothing. Unlike normal ice, packed ice never turns into water when broken.
+
+
+=== Natural generation ===
+Packed ice is found in the rare ice spikes biome. It also forms icebergs found in frozen oceans. Packed ice also generates in frozen peaks biome and in ice patch.
+Packed ice generates as windows in igloos.‌
+Packed ice generates as piles (and in some houses or meeting points) in snowy plains villages.
+Packed ice also generates in ancient cities.
+
+
+=== Crafting ===
+
+
+=== Chest loot ===
+
+
+=== Trading ===
+Wandering traders have 1⁄6 chance to sell packed ice for 3 emeralds.
+
+
+== Usage ==
+
+
+=== Crafting ingredient ===
+
+Packed ice is slippery, causing most entities to slide, including items. This also allows for increased speed of items in water currents by placing the packed ice under the water current. Mobs do not travel faster in water currents on packed ice.
+In Java Edition, when a non-full block of half-block or less in height is placed on top of packed ice, the block inherits the same 'slipperiness' as the ice below it for most entities, not including boats due to a bug. Additionally, any non-full block inherits the 'slipperiness' for items.
+Boats can travel on packed ice with a top speed of 40 m/s. Ice tracks built from blue ice, packed ice, or a combination are useful for long-range travel in all three dimensions.
+Mobs can spawn on packed ice. This can allow for compact mob farms that rely on the tendency of pushed mobs to slide off the ice in some way. 
+Packed ice is a completely solid block, and allows placement of any objects on top.
+Unlike normal ice, packed ice does not melt if placed near light sources.
+Packed ice is not a storage block, as it cannot be crafted back into ice.
+
+
+=== Note block ===
+Packed ice can be placed under note blocks to produce chime sounds.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Packed Ice" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Packed Ice is displayed as "Compressed Ice" in clients that use English (United Kingdom).
+
+
+== Gallery ==

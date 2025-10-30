@@ -1,0 +1,1 @@
+Send a request to show players the store offer.

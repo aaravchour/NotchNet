@@ -1,0 +1,154 @@
+Bastion remnants are large, castle-like generated structures found in the Nether in all of the biomes except basalt deltas. They generate in four distinct variants, each with a unique structure and set of loot. Piglins and piglin brutes spawn in these structures on generation, and hoglins may also spawn on generation in the bridge and hoglin stables variants. Bastion remnants are the only place to find gilded blackstone, Pigstep music disc, snout banner patterns, armor trims, etc.
+
+
+== Generation ==
+
+Bastion remnants generate in all Nether biomes except basalt deltas, although a bastion may extend into one. If a bastion tries to generate in a basalt delta, the bastion does not generate, leaving the region empty. To generate the structure, the game splits the Nether into regions, in which either a nether fortress or a bastion remnant can generate. The regions are 432×432 blocks in Java Edition and 480×480 blocks in Bedrock Edition. Each region has a 4-chunk separation located on the south and east borders of the region in which neither a fortress nor a bastion can generate. This leaves only a 368×368 block section in Java Edition or 416×416 block section in Bedrock Edition where a structure can generate. Two structures never generate in the same region, although they might overlap if they generate close to the separation border. In Java Edition, the chance of a bastion generating instead of a fortress is 3⁄5 (60%), while in Bedrock Edition the chance of a bastion generating instead of a fortress is 2⁄3 (66.6%).
+Piglins, piglin brutes, and hoglins that spawn upon generation in bastion remnants neither despawn naturally nor do they hunt each other. Piglin brutes also spawn exclusively here upon structure generation, and do not despawn unless killed, or if difficulty is set to Peaceful in Java Edition (they remain in Bedrock Edition but become passive in Peaceful difficulty). Like shulkers in end cities, once these mobs are killed, they do not respawn, though the bastion continues to spawn normal mobs depending on the biome it is located in.
+
+
+== Structure ==
+
+Bastion remnants generate as 4 types of structures: bridges, hoglin stables, housing units, and treasure rooms. Each type has its own set of structures that compose it. These structures may be supported by ramparts that contain cave-like paths. Piglins, piglin brutes, and hoglins spawn frequently throughout.  Unlike nether fortresses, when over the lava ocean, they do not generate pillars of solid blocks down to the solid terrain beneath, but float above, entirely even.
+All bastion remnant structures found below are located in the folder client.jar/data/minecraft/structures/bastion.
+
+
+=== File structure ===
+
+
+=== Bridge ===
+The bridge consists of a large ruined rampart structure with a piglin face carved into it. The inside of the "mouth" consists of multiple levels of walkways surrounded by lava. A damaged bridge goes out from the mouth, with a support pillar on the far side. 
+
+
+=== Hoglin stables ===
+The hoglin stables consist of a three-part rampart with damaged hoglin stables on either side. Hoglin stables' pieces are contained in the subfolder hoglin_stable. They contain the hoglin stable chests.
+
+
+=== Housing units ===
+The housing unit consists of multiple ruined two-part ramparts arranged around a central courtyard with nether wart growing in the middle. Housing unit pieces are contained in the subfolder units.
+
+
+=== Treasure room ===
+The treasure room structure consists of a large rampart supported by buttresses, with a bridge going between it and the treasure room itself. The rampart contains several treasure chests and a handful of blocks of gold.
+The treasure room consists of many bridges suspended above a lava floor. At the bottom of a treasure room, there is a magma cube monster spawner, and a center loot area consisting of blocks of gold,  as well as 1 or 2 treasure chests. Additional chests generate in the bastion, but they use the "generic" loot table instead of the "treasure" loot table. Treasure room pieces are contained in the subfolder treasure.
+
+
+=== Blocks ===
+
+
+== Loot ==
+
+
+=== Bridge ===
+This loot appears in some structures in bridge bastion remnants.
+In Java Edition, each bastion bridge chest contains  items drawn from 5 pools,  with the following distribution: 
+
+In Bedrock Edition, each bastion bridge chest contains  items drawn from 5 pools,  with the following distribution: 
+
+
+=== Generic ===
+This loot appears in chests throughout all types of bastion remnants.
+In Java Edition, each bastion generic chest contains  items drawn from 5 pools,  with the following distribution: 
+
+In Bedrock Edition, each bastion generic chest contains  items drawn from 5 pools,  with the following distribution: 
+
+
+=== Hoglin Stable ===
+This loot appears in some structures in hoglin stable bastion remnants.
+In Java Edition, each bastion hoglin stable chest contains  items drawn from 4 pools,  with the following distribution: 
+
+In Bedrock Edition, each bastion hoglin stable chest contains  items drawn from 4 pools,  with the following distribution: 
+
+
+=== Treasure ===
+This loot appears in some structures in treasure bastion remnants.
+In Java Edition, each bastion treasure chest contains  items drawn from 4 pools,  with the following distribution: 
+
+In Bedrock Edition, each bastion treasure chest contains  items drawn from 4 pools,  with the following distribution: 
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Bastion Remnant" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+
+The structure bastion/hoglin_stable/starting_pieces/stairs_1_mirrored, despite containing the word "mirrored", it is not stored as mirrored like the other mirrored stairs. This has no effect on generation due to the placement of jigsaw blocks in the structure.
+In Bedrock Edition, there are multiple unused structure files. Unlike the unused structures in Java Edition, these structures are more technical.
+Two files named bastion/units/wall_units/edge_0, and bastion/treasure/ramparts/lava_basin contain blocks that have not been added to the game, including blackstone_bricks, blackstone_brick_stairs, cracked_blackstone_bricks, and chiseled_blackstone_bricks.
+A test structure file, bastion/jigsaw_test, contains two oak signs, some jigsaw blocks, stained glass, and stone.
+Buried sections can exist within the bastion and alongside it. Ore may generate alongside or within netherrack, but glowstone blobs can do so within its air.
+Ghasts can spawn in the treasure room if the room is in the correct biome, leading to a surprising ramp-up in difficulty.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

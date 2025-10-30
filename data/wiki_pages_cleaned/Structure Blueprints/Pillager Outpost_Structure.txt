@@ -1,0 +1,11 @@
+Layer 2 - All slabs=top, stairs facing birch planks.
+Layer 4 - Dark oak stair blocks face the corners and are upside down.
+Layer 4 & 5 - All slabs = bottom.
+Layer 6 - Cobblestone stair face inside and upside down. Slabs = top. Logs in the middle of the sides of the floor (just inside the cobblestone balcony) are laid horizontally.
+Layer 9 - Slabs = Top
+Layer 10 to 12 - Logs in the wall (not the corners) must be facing outwards.
+The hole for the stair in Layer 6 is 100% accurate.
+
+The space inside the cage is not enough to spawn an iron golem manually. The /summon command could be used instead.
+
+All logs are facing east/west, as shown.

@@ -1,0 +1,11 @@
+A melon golem was a variant of a snow golem with a melon as the head as opposed to a carved pumpkin, found only in Minecraft Earth.
+
+Melon golems resembled normal snow golems except for having a carved melon in place of a carved pumpkin. The red interior of the melon was visible through the mouth hole, and they had the ability to change their facial expression. It has the same head under its melon as a snow golem has under its melon.
+
+Melon golems functioned nearly the same as snow golems by placing snow wherever they walked and attacking hostile mobs with projectiles. In fact, the only differences between the two are that the melon golem had face animations, a different head which wasn't able to be snipped off with shears, and it launched melon seed projectiles instead of snowballs at enemies. Additionally, they shot a burst of 4 melon seed projectiles when attacking. They also moved by hopping around. They weren't hostile toward tropical slimes.
+
+Melon golems shot melon seed projectiles at mobs. The entity took 1 of projectile damage upon being hit.
+
+Melon golems were found in grass and pond tappables with an uncommon rarity and a chance of 1.1% from grass tappables, and 1.8% from pond. They weren't able to be created by placing a full melon on top of two vertically stacked snow blocks, differing them from their snow golem counterparts.
+
+The biome category of the journal revealed that melon golems spawned in snowy tundras.

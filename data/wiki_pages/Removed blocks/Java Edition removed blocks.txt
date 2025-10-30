@@ -1,0 +1,9 @@
+Due to there currently not being a wide variety of blocks removed from any edition, all such cases are listed on the main Removed blocks page. This page lists all Java Edition block ID conversions, as well as linking to diverse lists of removed data variants of blocks.
+
+/Metadata variants - Variants of blocks specified by metadata which have been removed
+/Metadata variants/Recontinued - Variants of blocks specified by metadata which eventually became used by intentionally-available blocks
+/Data variants - Variants of blocks specified by block entities and NBT
+
+
+== Numeric ID replacements ==
+Prior to 17w47a, block IDs were stored internally as integer values. As a result, certain removed blocks would end up having their numeric IDs used by another block from a future version. The table below lists all such conversions.

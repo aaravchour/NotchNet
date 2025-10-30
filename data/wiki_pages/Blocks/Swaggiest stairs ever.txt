@@ -1,0 +1,37 @@
+The swaggiest stairs ever is a joke block introduced in Java Edition 20w14∞ which is the stair variant for the Block of Netherite.
+
+
+== Obtaining ==
+This block is available in the creative inventory, and naturally generate in the "missing" dimension. It is also seen in other dimensions, one of which is the "gallery" dimension, although it is difficult to find the stairs hidden among thousands of other blocks.
+
+
+=== Breaking ===
+This block requires a diamond or netherite pickaxe to mine. If it is mined with anything else, it drops nothing.
+
+
+=== Natural generation ===
+This block naturally generates in the "missing" dimension as the stairs leading up to the chest containing the footprints. 7 stairs generate here.
+
+
+== Sounds ==
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Issues ==
+Swaggiest Stairs Ever blocks are an unsupported item due to being an April Fools' joke, and therefore such issues relating to them will not be fixed.
+
+
+== Trivia ==
+Despite being an April Fools' joke block, it made an appearance in Minecraft Dungeons as part of the Nether Portal structure on Ancient Hunts.
+It is often mistakenly called as "Netherite stairs" or "Block of Netherite Stairs" due to its similar appearance to the Block of Netherite
+
+
+== Gallery ==

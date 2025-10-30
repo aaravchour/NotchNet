@@ -1,0 +1,5 @@
+Wood is a resource used to build structures in Minecraft Legends.
+
+Wood can be obtained by using gather allays in areas with trees.
+
+Wood can be used to build many structures and spawn plank golems.

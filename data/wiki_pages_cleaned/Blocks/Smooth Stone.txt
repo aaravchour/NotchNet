@@ -1,0 +1,17 @@
+Smooth stone is a variant of stone made by smelting regular stone.
+
+Smooth stone requires a pickaxe to be mined, in which case it drops itself. When mined without a pickaxe, it drops nothing.
+
+Smooth stone generates inside some houses in plains, savanna, and snowy plains villages in the Butcher's house in the form of slabs and blocks. They can also spawn in trail ruins.
+
+Smooth stone can be smelted from stone.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Smooth Stone" are maintained on the bug tracker. Report issues there.

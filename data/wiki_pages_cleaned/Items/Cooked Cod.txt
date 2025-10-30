@@ -1,0 +1,28 @@
+Cooked cod is a food item obtained by cooking raw cod.
+
+Cod always drops 1 raw cod when killed, unaffected by Looting. If it is killed while on fire, it drops 1 cooked cod instead.
+
+When killed, dolphins drop 01 raw cod. The maximum amount is increased by 1 per level of Looting, for a maximum of 0-4 with Looting III. If killed while on fire, they drop cooked cod instead.
+
+Guardians and elder guardians have a 40% and 50% chance, respectively, to drop raw cod when killed. In Java Edition, cooked cod is dropped if a guardian is on fire when killed.
+Guardians and elder guardians also drop a 2.5% chance to drop a random fish, with 60% of them being raw cod, which drops as cooked if the guardian was on fire. The chance of getting the fish drop is increased by 1% per level with Looting (for a maximum of 5.5% with Looting III), but the type of fish is not affected.
+
+Polar bears have a 75% chance of dropping 02 raw cod when killed. The maximum amount can be increased by 1 per level of Looting, for a maximum of 0-5 with Looting III. If killed while on fire, they drop cooked cod instead.
+
+Cooked cod can be obtained by cooking raw cod in a furnace, smoker, or campfire. 
+
+Novice-level Fisherman villagers have a 50% chance to sell 6 cooked cod for 6 raw cod and 1 emerald.
+
+To eat cooked cod, press and hold use while it is selected in the hotbar. Eating one restores 5 () hunger and 6 hunger saturation.
+
+In Bedrock Edition, cooked cod can be used to feed a wolf not at full health, healing by 5. However, unlike other wolf food, cooked cod cannot be used to speed up the growth of baby wolves nor used to breed them.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Cooked Cod" are maintained on the bug tracker. Report issues there.

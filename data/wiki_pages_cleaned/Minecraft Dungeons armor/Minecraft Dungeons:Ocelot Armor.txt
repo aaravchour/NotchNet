@@ -1,0 +1,21 @@
+Ocelot armor is an armor set that can be found within the jungle awakens DLC of Minecraft Dungeons. Its unique variant is the shadow walker.
+
+Missions
+Dingy Jungle
+Overgrown Temple
+Tower
+Treetop Tangle
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Thundering Growth
+
++X health
+50% faster roll
+35% damage reduction
+
+Issues relating to "Ocelot Armor" are maintained on the bug tracker. Report issues there.

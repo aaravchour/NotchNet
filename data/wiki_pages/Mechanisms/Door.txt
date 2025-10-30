@@ -1,0 +1,418 @@
+A door is a block that can be used as a barrier that can be opened by hand or with redstone.
+
+
+== Obtaining ==
+Doors can be found in any Overworld biome, and can also be crafted from any type of wood as well as materials found in the Nether. Some have built-in openings that are useful for determining the time of day.
+
+
+=== Breaking ===
+Wooden doors can be broken with anything, but axes are fastest. An iron door can only be broken with any pickaxes, otherwise it will drop nothing. Copper doors can only be broken with a stone pickaxe or higher, once again, they will drop nothing if broken with anything else. All doors drop themselves if they no longer have a block beneath them that can support them.
+
+A door is removed and drops itself as an item:
+
+if the block beneath the door is moved, removed, or destroyed
+if a piston tries to push the door (trying to pull a door does nothing) or moves a block into its space
+
+
+=== Natural generation ===
+Doors generate in some generated structures, forming the entrances to the majority of buildings. Doors do not generate in zombie villages.
+
+Oak
+Oak doors generate as part of:
+
+Plains villages
+Strongholds
+Right-side-up shipwrecks
+Spruce
+Spruce doors generate as part of:
+
+Taiga, snowy tundra and snowy taiga villages
+Right-side-up shipwrecks
+Jungle
+Jungle doors generate as part of:
+
+Desert villages
+Right-side-up shipwrecks
+Acacia
+Acacia doors generate as part of:
+
+Savanna villages
+Dark oak
+Dark oak doors generate as part of:
+
+Master bedroom closets in woodland mansions
+Right-side-up shipwrecks
+Iron
+Iron doors generate as part of:
+
+Prison rooms in woodland mansions
+Strongholds with a stone button to open‌
+
+
+=== Crafting ===
+
+
+=== Waxing ===
+Copper doors can be turned into the respective waxed copper doors by using a honeycomb item on them. Waxed copper doors do not oxidize and are identical to the non-waxed version.
+
+
+=== Scraping ===
+Using an axe on a waxed copper door turns it into the respective non-waxed copper door. In addition, using an axe on an exposed, weathered, or oxidized copper door reverts it one stage to a regular, exposed, or weathered copper door respectively.
+
+
+=== Lightning strike ===
+Non-waxed copper doors are completely deoxidized when struck by lightning, and other non-waxed copper doors nearby are deoxidized randomly.
+
+
+== Usage ==
+Wooden doors and copper doors can be opened and closed by players, villagers, wandering traders‌, vindicators‌, and piglins. Wooden doors can be broken by all variants of zombies (except drowned) and vindicators in Hard difficulty.
+Iron doors can be opened only with redstone power.
+
+
+=== Placement ===
+Doors must be "attached" to a block beneath them. To place a door, use a door item while pointing at the top of the block it should be attached to. A door can be attached to:
+
+the top of any full solid opaque block (stone, dirt, blocks of gold, etc.)
+the top of an upside-down slab or upside-down stairs
+the top of a slime block or downward-facing piston
+More information about placement on transparent blocks can be found at Opacity/Placement.
+When placed, a door occupies the side of the block facing the player, or behind a player if placed in the player's own space.
+By default, a door's "hinge" appears on the side of the half of the block that the player pointed at when placing and its "handle" on the opposite side‌, but the hinge is forced to other side by:
+
+Placing a door besides another door (creating a double door where both doors open away from each other)
+Placing a door between a full solid and any opaque block (top or bottom), making the hinge appear to attach to the solid block.
+
+
+=== Behavior ===
+Water and lava flow around doors. Lava can create fire in air blocks next to wooden doors as if the wooden doors were flammable, but the doors do not burn (and cannot be burned by other methods either, except throwing them into lava).
+Mobs can spawn in a space occupied by a door.
+The sound of opening and closing of a door can be heard up to 16 blocks away, like most mob sounds.
+When placed using the /setblock command, only one half of a door is placed, because doors are actually two separate blocks. The lower half still works, but with graphical bugs, and the upper half does not. Redstone cannot be used because it updates the half, breaking it. The upper half does not drop anything when broken, the lower half drops a normal door. This implies that the upper half is dependent on the lower.
+
+
+=== Barrier ===
+A door can be used as a switchable barrier to entity movement. Although primarily used to block movement by mobs and players, a door can also be used to control the movement of boats (for example, a door placed in a two-wide water flow stops a boat when perpendicular to the flow, but allow it to move again when parallel), items and minecarts (a door can stop a falling item or minecart, then allow it to drop again when the door moves), etc.
+In Java Edition, doors provide a breathable space if placed underwater. In Bedrock Edition, doors in water source blocks are waterlogged and do not displace water source blocks.
+Doors are 0.1875 (3⁄16) blocks thick (0.1825 in Bedrock Edition). The rest of a door's space can be moved through freely. A door occupies two block spaces and both halves normally act as a single barrier, although doors can be opened or closed with a player or mob occupying the bottom block of the door, in which case the player can jump up to land on the bottom half of the door and then again to land on top of the door.
+To open or close a wooden door, use the Use Item/Place Block control. When a door opens or closes, it immediately changes its orientation without affecting anything in the space it "swings through". Moving doors do not push entities the way that pistons do.
+Villagers, wandering traders,‌ vindicators‌, piglins and piglin brutes can open and close wooden doors when pathfinding.
+Some zombies can break wooden doors in Hard difficulty. Zombies have a 5% chance to spawn with the ability to break doors. Vindicators spawned from a raid in Normal and Hard difficulty can also break wooden doors, but they do so only to reach targeted players, villagers, or wandering traders. Some vindicators may sometimes open a wooden door instead of breaking it.‌ Both zombies and vindicators attempt to break wooden doors only when in their "closed" state, even if a door is placed so that its "open" state blocks access (for example, by facing sideways when placing a door so that it allows passage when closed and blocks passage when open).
+Iron doors can be opened only with redstone power (a button, a redstone circuit, etc.). Any mob can activate an iron door by stepping on a pressure plate or by triggering a tripwire.
+
+
+=== Redstone component ===
+
+Both wood and iron doors can be controlled with redstone power.
+A door is a redstone mechanism component and can be activated by:
+
+an adjacent active power component, including above or below: for example, a redstone torch, a block of redstone, a daylight sensor, etc.
+an adjacent powered block (for example, a block with an active redstone torch under it), including above or below
+a powered redstone comparator or redstone repeater facing the door
+powered redstone dust configured to point at the door or a directionless "dot" next to it; a door is not activated by adjacent powered redstone dust that is configured to point in another direction.
+All methods of activating a door can be applied to either the top or bottom parts of a door.
+When activated, a door immediately rotates around its hinge side to its open state. When deactivated, a door immediately returns to its closed state.
+An activated wood door can still be closed by a player or villager and does not re-open until it receives a new activation signal (if a door has been closed "by hand", it still needs to be deactivated and then reactivated to open by redstone).
+
+
+=== Fuel ===
+Overworld wooden doors can be used as a fuel in furnaces, smelting 1 item per door.
+
+
+=== Note blocks ===
+Wooden doors can be placed under note blocks to produce "bass" sound.
+
+
+== Sounds ==
+
+
+=== Generic ===
+
+
+==== Iron ====
+Java Edition:
+
+Bedrock Edition:
+
+
+==== Normal wood ====
+Java Edition:
+
+Bedrock Edition:
+
+
+==== Cherry wood ====
+Java Edition:
+
+Bedrock Edition:
+
+
+==== Bamboo wood ====
+Java Edition:
+
+Bedrock Edition:
+
+
+==== Nether wood ====
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Unique ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+
+Bedrock Edition:
+Lower Door Block:
+
+Upper Door Block:
+
+
+== Video ==
+Note: The videos do not mention or state Crimson, Warped, Bamboo, or Cherry doors, since the videos were uploaded before 1.16.
+
+
+== History ==
+For a history of changes to textures and models for each block state, see /Asset history
+
+		
+			
+			
+		
+
+Historical sounds:
+
+
+=== Door "items" ===
+The following content is transcluded from Technical blocks/Doors.
+
+
+==== Appearances ====
+
+
+===== Oak Door =====
+
+
+===== Iron Door =====
+
+
+==== Names ====
+
+
+===== Oak Door =====
+'Java Edition'
+Item names did not exist prior to Beta 1.0.
+
+Beta 1.0 - 13w36b: Wooden Door
+(As block name, item does not exist) 13w37a - ?: Wooden Door
+(As block name, item does not exist) ? and onwards: Oak Door
+Java Edition
+Item names did not exist prior to Beta 1.0.
+
+Beta 1.0 - 13w36b: Iron Door
+
+
+== Issues ==
+Issues relating to "Door" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Door models have an extra hinge on the opposite side of the actual functional hinge.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Concept art ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External links ==
+Taking Inventory: Door – Minecraft.net on September 29, 2022

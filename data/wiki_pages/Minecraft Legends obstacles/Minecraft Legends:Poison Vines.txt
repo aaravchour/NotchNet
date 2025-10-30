@@ -1,0 +1,15 @@
+Poison vines are obstacles that damage entities of Minecraft Legends.
+
+
+== Spawning ==
+Poison vines can occasionally be found in jungles.
+
+
+== Usage ==
+Upon being touched, poison vines inflict a poison effect which deals damage over time.
+
+
+== History ==
+
+
+== Gallery ==

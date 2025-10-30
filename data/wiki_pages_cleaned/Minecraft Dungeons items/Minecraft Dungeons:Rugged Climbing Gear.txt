@@ -1,0 +1,23 @@
+The rugged climbing gear is a unique climbing gear variant that can be found within the howling peaks DLC of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Windswept Peaks
+Colossal Rampart
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Windbeard
+
++X health
+-40% artifact cooldown
+Environmental damage resistance (Environmental Protection)
+
+In-game, health numbers can vary even in the same power level, and may not be exactly as seen below.
+
+Issues relating to "Rugged Climbing Gear" are maintained on the bug tracker. Report issues there.

@@ -1,0 +1,18 @@
+A first of brick spawner is a spawner that spawns the First of Brick within Minecraft Legends.
+
+
+== Obtaining ==
+
+
+== Usage ==
+The first of brick spawner spawns the First of Brick when a player interacts with it.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "First of Brick Spawner" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==

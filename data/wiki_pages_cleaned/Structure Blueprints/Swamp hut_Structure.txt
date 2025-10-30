@@ -1,0 +1,1 @@
+You can change the height of the first layer and for example go up to 3 blocks, then build the 2nd layer as 4th, and etc. In natural generation, the height of the first layer depends on where the witch hut spawns. In a superflat world, it's 1 block tall.

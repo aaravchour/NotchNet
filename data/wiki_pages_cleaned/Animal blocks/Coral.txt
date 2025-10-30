@@ -1,0 +1,35 @@
+Coral is a type of non-solid block that comes in five variants: tube, brain, bubble, fire, and horn.
+ Dead coral is the dead variants of coral.
+
+Coral and dead coral can be mined instantly but can be obtained only when mined with a Silk Touch enchanted tool.
+Dead coral can only be obtained with a Silk Touch pickaxe.
+
+Coral naturally generates in coral reef structures found in warm ocean biomes.
+
+When using bone meal on dirt, coarse dirt, sand, red sand, gravel, or clay in warm ocean biomes, coral generates in place of some of the seagrass. In Bedrock Edition, the same can happen in any biomes as long as bone meal is used in a water source above the aforementioned solid blocks.
+Dead coral is created when coral is placed out of water.
+
+Coral can be used as a building or decoration block.
+
+In order for coral to stay alive, at least one of the blocks surrounding it must be water or a waterlogged block. If placed outside of water, it dies and transforms into its respective dead coral after 3 to 5 seconds. Coral dies even when the game rule randomTickSpeed is set to 0.
+Dead coral cannot be turned back into living coral.
+
+All types of coral and dead coral can be placed under note blocks to produce "bass drum" sounds.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Issues relating to "Coral" are maintained on the bug tracker. Report issues there.
+
+In real life, coral are colonies of sessile (immobile) animals.

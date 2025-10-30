@@ -1,0 +1,22 @@
+Beast Boy was a humanoid mob that was used for testing purposes, available during Java Edition Indev 0.31 20100130.
+
+Beast Boy spawned randomly in the world.
+
+Beast Boy was a passive mob. It had no animation, so it aimlessly glided and jumped around the world in the same, still pose, and never stopped moving around. Beast Boy, along with Rana, Steve, and Black Steve acted in this identical manner.
+Upon death, Beast Boy would not fall over to the ground or flash red or white and appear to die, as most mobs do. It would just disappear shortly thereafter, and drop the items it was designated to drop.
+
+Upon death, Beast Boy drops:
+
+String (02) (most common)
+Feather (02)
+Gunpowder (02)
+Flint and Steel (01) (extremely rare)
+
+Beast Boy did not make any sounds.
+
+"Beast Boy" was named and modeled after the character of the same name from DC Comics, most well known as a member of the Teen Titans.
+Beast Boy, as well as all the other mobs made by Dock, Is meant to animate, but the game appears to just pick a random frame and doesn't animate any further. They just glide around in the same pose. However, the MD3 model itself contains a 22 frame animation of it walking.
+
+Rana
+Steve (mob)
+Black Steve

@@ -1,0 +1,48 @@
+Phantoms are flying undead hostile mobs that spawn in the night sky when the player has not laid in a bed or died for three or more in-game days. They attack by diving at the player from the sky to bite them. Usually, they appear in trios.
+
+Phantoms spawn unless the game rule doInsomnia is set to false. The spawning mechanics differ between Java and Bedrock editions. In both editions, they spawn in the Overworld above the player if the "Time Since Last Rest" statistic is at least 1 hour (72000 ticks or 3 in-game days). This statistic is reset when the player dies or enters a bed. Furthermore, the player must not have a block overhead that blocks light in any way; for example, leaves prevent phantoms from spawning as they have a light opacity of 2, but glass does not, as its light opacity is 0. Phantoms do not spawn in Spectator mode, but they do spawn in Creative mode.
+
+Phantom spawning is similar to other monsters spawning: the spawn location must have a light level of 7 or less, and spawns are limited by the monster population cap. Phantoms are also subject to a density cap of 5. Phantom spawn attempts are made on surface blocks throughout the same spawn radius as other monsters. However, when a phantom spawn attempt succeeds the phantom appears somewhere in a 211521 cube centered 28 blocks above the player instead of at the block where the spawn attempt occurred.
+
+Phantoms attempt to spawn every 12 minutes. They spawn only if it is night or a thunderstorm is happening, the player is above sea level (y=64) with sky access, and the local difficulty is greater than a randomly chosen value between 0.0 and 3.0. The chance of a successful spawn is x72000x, where x is the number of ticks since the player last entered a bed or died. This roughly comes to a 14 (25.0%) chance on day 4, a 25 (40.0%) chance on day 5, a 36 (12) (50.0%) chance on day 6, 47 (about 57.1%) chance on day 7, and so on.
+If all conditions are met, a group of phantoms attempt to spawn 2034 blocks above the player, and off to the side by a taxicab distance of up to 10 blocks. The number of phantoms spawned is 1-2 in Easy difficulty, 1-3 in Normal, and 1-4 in Hard. Phantoms can spawn inside buildings, if the player is outside and the building is both near enough and the building has a large enough cavity for them to spawn inside.
+Phantoms are counted toward the hostile mob cap, but they don't adhere to it when spawning. Their spawning mechanic is based on the location of players in the world rather than by chance, unlike regular mob spawning. Phantom spawning is completely independent of the biome, meaning they can spawn in biomes that normally prevent hostile mob spawning such as mushroom fields and the void. Phantoms increase in number every consecutive night a player hasn't entered a bed and stop spawning when the player lies down in bed.
+
+Phantoms drop when killed:
+
+01 phantom membranes when killed by a player or tamed wolf. Looting increases the maximum drops by 1 per level, for a maximum of 4 with Looting III.
+5 when killed by the player or a tamed wolf.
+
+When idle, phantoms fly around in a roughly circular pattern within 15 to 25 blocks of a player horizontally and within 24 to 35 blocks of a player vertically, leaving a trail of gray smoke while doing so. Their movement speed is one of the fastest of any mob, up to 20 blocks per second. They have a large search radius, targeting and following players from 64 blocks away. Once every 10-20 seconds they swoop down or up quickly to attack. If stopped or hurt during this action, the phantom retreats back to its original elevation. When a path to its original elevation is obstructed by a block, the phantom continues attempting to return to its original elevation until it either attacks or moves out from under the block. Phantoms do not attack an exposed player sleeping in a bed. 
+Phantoms can move through water at their normal speed. In Bedrock Edition, a phantom underwater attempts to fly to the surface, and dies from drowning after 20 seconds if trapped underwater. Phantoms do not drown in Java Edition.
+A phantom's body disappears when under the Invisibility effect, but its eyes and smoke particles are still visible.
+Cats hiss at phantoms that are currently attacking players, and phantoms try to stay at least 64 blocks away from them. In Bedrock Edition, phantoms also avoid ocelots in the same manner.
+
+Like other undead mobs, phantoms are harmed by the Instant Health effect, healed by the Instant Damage effect, immune to the Poison and Regeneration effects, ignored by the wither, and affected by the Smite enchantment.
+Like zombies and skeletons, phantoms burn in sunlight. They burn even when equipped with helmets through commands.
+
+Java Edition:
+Phantoms use the Hostile Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Phantoms have entity data associated with them that contains various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+Issues relating to "Phantom" are maintained on the bug tracker. Report issues there.
+
+At one point before the release of 18w10a, the phantom texture was made red, but it was decided that it appeared too much like a Nether mob.
+The phantom was originally going to have a mouth, like the drawing shown during MINECON Earth, but it was eventually scrapped because "it looked so much like a muppet". Earlier designs can be seen on Minecraft's Instagram account.
+The sounds of the phantom were taken from Samuel berg's baby son screaming.
+Despite having the ability to fly, phantoms can destroy turtle eggs when on top of them.
+The game rule that modifies Phantom spawning (doInsomnia) is probably a reference to the condition of spawning Phantom since "Insomnia" means "the state of being unable to sleep".
+
+Meet the Phantom  Minecraft.net on March 12, 2018

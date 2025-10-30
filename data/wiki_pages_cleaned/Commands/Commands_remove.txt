@@ -1,0 +1,18 @@
+Has the same function as /kill.
+
+remove [target: target]
+
+target
+
+Specifies the target to be removed. Must be a target selector.
+
+Fails if the arguments are not specified correctly, or if the executor is not a worldbuilder while targeting other people's agents.
+
+To remove the executor's agent.
+/remove @c
+To remove all agents.
+/remove @v
+To remove all entities.
+/remove @e
+
+/kill  kill any entity

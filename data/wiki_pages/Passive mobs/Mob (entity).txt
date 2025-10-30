@@ -1,0 +1,182 @@
+Mobs were passive mobs that look identical to the players with the default skin.
+
+
+== Spawning ==
+Mobs would generate in random places when a world was generated at Pre-classic. Later, they could be manually spawned by pressing G while playing in Classic mode. After approximately 1 minute, they would despawn. After both of these features were removed, they were only spawnable using mods and map editors, but otherwise were not available in vanilla Minecraft.
+
+
+== Drops ==
+Mobs did not drop anything upon death.
+
+
+== Behavior ==
+
+Mobs could not change blocks; they would just move around the map aimlessly, walking in slightly imperfect circles and jumping occasionally. While walking, they would flail their arms around and move their head randomly. Mobs were affected by solid blocks, but they were able to walk right through liquids, as if they were air. If the player had a custom skin, any mobs created would still use the default skin and would not assume the look of the player. They would not notice dangers, and because of this they would sometimes jump into the void.
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Trivia ==
+Mobs were the first mob ever added to the game.
+The Mob named Beast Boy is a reference to a character from the animated series "Teen Titans".
+If a monster spawner with mob is placed in Java Edition Beta 1.2 or later, it appears blank and no mobs spawn.
+Coding for mobs was still present until Java Edition Beta 1.6.6. Only the mob model was removed in Beta 1.2.
+Mobs use the old player model, so they are actually slightly taller than the player.
+Despite being taller than the player, mobs looked up at the player when chasing them. This is because their actual hit-box and eye height were shorter than the player's hit-box and eye height.
+
+
+== Gallery ==
+
+
+=== Renders ===
+
+		
+			
+			
+		
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Development images ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Artwork ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Character - mobs (in general) or mobs that have names given to them.
+Villager – mob-like mobs that move around their village.
+Player – the Minecraft character that is controllable, with the same model as mobs.
+Mob – any entity in Minecraft that has the ability to move around, such as monsters or animals.
+Java Edition removed features – features that have been in Java Edition but were later removed.
+
+
+== References ==

@@ -1,0 +1,1 @@
+All oak slabs are bottom slabs. Some of grass blocks are not included, therefore some of the those blocks could be replaced by other blocks such as sand.

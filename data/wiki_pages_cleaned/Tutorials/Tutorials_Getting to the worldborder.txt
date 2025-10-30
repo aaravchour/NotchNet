@@ -1,0 +1,38 @@
+Getting to the world border is a daunting task. In vanilla Minecraft, the world border is situated 30,000,000 blocks from the world spawn point in each direction. There are numerous methods to help the player get there, for example, using the Nether to divide the distance needed to be covered by 8.
+
+Since the distance is 30,000,000 blocks this is not recommended, but if you walk non-stop then at an average walking speed of 4,317 blocks you can get there in 80 days
+
+Sprinting to the world border is a very tedious task. The average speed you can go is 5.6 blocks per second so it would take around 62 days to go to the world border assuming you go non-stop and you encounter flat terrain for the entirety of your journey. However, walking does have its perks, as you can gain recognition for manually walking such a large distance. An example is Fig's journey to the border.
+
+In Minecraft, 1 block in the nether is equal to travelling 8 overworld blocks. This meant that you travel 8x faster in the nether than in the overworld. You only need to travel X/Z: 3,749,998.
+
+[Can only be applied on the late game where you have nothing much to do]
+Before starting the operation, we need to collect all the materials. The essential materials are:
+
+An efficient gunpowder farm. It can either be a creeper or a ghast farm. All it needs is it will supply all the gunpowder we need for the expedition.  If you have a creeper farm but it doesn't give you many gunpowder, either expand it by adding more layers or make a new one from scratch.
+A good sugarcane farm. Don't use those types of sugarcane farm that waits for the sugarcane to grow. Use an automatic and more powerful one.
+A trading hall with zombie discounts. Zombie discounts are very great, as they can reduce trades up to 1 emerald only. The books needed are only Unbreaking III and Mending I. The other essential item you must get are XP bottles (to mend your elytra) which you can get from cleric villagers.
+A bunch of elytras. In case your elytra breaks and you want to skip the XP bottle acquisition, then backup elytras are great.
+An ender pearl stasis chamber. We don't want to travel a 3,750,000 block journey again so having a stasis chamber is very helpful to instantly teleport.
+A powerful XP farm. Since you're gonna enchant a lot of elytras, you'd need a powerful XP farm to get XP fast.
+Some shulker boxes. Shulker boxes are very helpful. You can either store here your backup elytras, your XP bottles, etc.
+Totems in case your elytra breaks mid-air and you can't water bucket clutch in the nether.
+Some food. Just in case you ran out of food.
+The first phase of Operation World Border is we need to go to the nether roof. This is because below the roof is a lot of disruptions, such as landmasses.
+The second phase is fly up high. This is what SB737 did. By flying up super high, you'll soon passively fall and reach the border in 3 days.
+When you finally reached X/Z: 3,750,000, make a nether portal and you will find the world border. 
+
+When you go to the nether roof and make a portal and right before entering the overworld and throw a pearl and get out of the portal, the game will get confused and multiply your distance. This is an incredibly powerful glitch that allows you to reach the border in under a minute.
+
+Since boats travel faster when on ice and you have a silk touch pickaxe and an ice farm, you can make an ice road and reach the border in around 15 hours if you don't stop.
+
+Soul speed comes in 3 different enchantment values, I, II, and III, with speeds of 7.9, 8.5, and 9.1 blocks per second respectively. With these enchantments, it would take around 44, 41, and 38 days respectively. This is remarkably faster than just sprinting.
+
+The fastest flying machine record travelled at a speed of 4.4 blocks per second. With this speed, it would take around 79 days to reach the world border. No input would be required after the making of the flying machine. See this video for instructions on how to build the machine.
+
+Metword made a video about his speedrun to the world border. His technique consists of a redstone TNT machine and 5 elytras, with the TNT serving as his rockets to boost him up.
+What Metword did is beat the game, collect 5 elytra and trade with his villagers for 10 stacks of XP bottles. While he wait for his villagers to restock, he collected the required materials to construct this machine.
+When he was ready to go to the world border, he constructed the machine near a chunk border, set his difficulty to peaceful and put his render distance to the lowest, threw an ender pearl and started the machine. The reason for this is because the machine is constructed near a chunk border and the machine started producing multiple copies of TNT, the TNT gets pushed outside the chunk border and is considered by the game as "frozen". Due to this, the TNT isn't exploding, the same with the ender pearl, as it was outside the chunk border and hit a cobweb which was one of the materials of the machine.
+The more TNT produced, the farther you'll get thrown at. Metword always wait for around 10,000 TNT (can be determined using the entity counter) to be produced before he get set off to air. You would need around 25 machines to build and this technique requires constant player checking, as you can die from fall damage and have to restart all over again.
+
+The classic minecart railway technique is not too efficient in going to the world border, as you'd need a ton of wood, iron and gold to acquire the necessary materials, not counting the axes and pickaxes you must consume. This is fairly an expensive process and you'd need to constantly build the railway to go to the world border.

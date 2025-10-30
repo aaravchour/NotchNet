@@ -1,0 +1,7 @@
+
+==== Blueprint ====
+
+All spruce slabs are bottom slabs. Also, the looms are put faces to the left.
+
+
+==== Materials ====

@@ -1,0 +1,69 @@
+Speed is a status effect that increases an entity's walking speed by 20% multiplied by the effect level.  It expands a player's field of view (FOV) accordingly.  Negative levels decrease speed.
+
+
+== Causes ==
+
+
+== Brewing ==
+
+
+== Unaffected mobs ==
+Withers and ender dragons are immune to the Speed effect. While not immune, flying mobs are unaffected by the Speed effect. Shulkers are also unaffected by, though not immune to, Speed.
+
+
+== Notes ==
+Alternative methods of traveling more quickly include: sprinting; walking on ice, packed ice or blue ice; riding a horse, pig, or minecart; riding a boat on ice, packed ice, or blue ice; throwing ender pearls; walking on soul soil or soul sand while wearing soul speed boots; or being near a dolphin to gain Dolphin's Grace.
+
+
+== Data values ==
+
+
+=== ID ===
+
+Java Edition:
+
+Bedrock Edition:
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Speed" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+When the player has Speed level 255, the player moves 500 blocks per tick.
+Speed allows slimes to jump farther. High levels of speed can make slimes bounce out of view with just one jump.
+Even With Speed Level 2 The Player Cannot Out Run a Wither
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Slowness
+Jump Boost
+
+
+== References ==

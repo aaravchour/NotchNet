@@ -1,0 +1,46 @@
+Shroomlights are light-emitting blocks that generate in huge fungi.
+
+
+== Obtaining ==
+Shroomlight blocks can be broken using any tool, but a hoe is the fastest. They always drop themselves as an item
+
+
+=== Post-generation ===
+Both crimson and warped huge fungi can generate shroomlights near their tops. This includes both naturally generated huge fungi and huge fungi grown with bone meal.
+
+
+== Usage ==
+
+
+=== Light source ===
+Shroomlights provide a light level of 15, the highest level in the game. Unlike Glowstone, Shroomlights also allows redstone signals to pass through them, as they are treated like a solid block. 
+
+
+=== Composting ===
+Placing a shroomlight into a composter has a 65% chance of raising the compost level.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Shroomlight" are maintained on the bug tracker. Report issues there.
+
+
+== External Links ==
+Block of the Week: Shroomlight – Minecraft.net on January 28, 2021

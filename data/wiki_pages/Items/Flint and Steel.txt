@@ -1,0 +1,73 @@
+Flint and steel is a tool used to create fire or to ignite certain blocks, structures and mobs.
+
+
+== Obtaining ==
+
+
+=== Crafting ===
+
+
+=== Chest loot ===
+
+
+== Usage ==
+
+
+=== Igniting ===
+When used on the space above any solid top surface, on any side of any flammable block or any side of any obsidian block within a valid unlit nether portal frame regardless of if there is a solid top surface available, the flint and steel places a fire there.
+Flint and steel can be used to light unlit campfires, candles and cakes with candles.
+Flint and steel can be used to light nether portals, as any fire existing within an appropriate obsidian frame will instantly be replaced with nether portal blocks that occupy the entirety of the frame.
+Using flint and steel on TNT ignites it. The explosion damage dealt by TNT ignited with flint and steel in this specific way counts as the player's attack. If the player is sneaking a fire is instead placed on the side of the TNT the flint and steel was used on.
+A flint and steel can be used on a creeper to force it to explode. Explosions initiated in this way cannot be cancelled.
+When powered, a dispenser containing flint and steel can place fires or ignite relevant blocks such as TNT or campfires in the space directly in front of it. This reduces the flint and steel's durability. A dispenser containing a flint and steel cannot detonate creepers.
+
+
+=== Enchantments ===
+Flint and steel can receive the following enchantments:
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition;
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== Video ==
+
+
+== History ==
+
+Historical sounds:
+
+
+== Issues ==
+Issues relating to "Flint and Steel" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+In Adventure mode, flint and steel cannot light fires, nor can it ignite nether portals (unless it has the tag CanPlaceOn:obsidian). However, it can still ignite TNT and creepers.
+The name "Flint and Steel" may be misleading and is inaccurate considering the game doesn’t have and possibly will have steel in the game and it's crafted with iron instead. This is similar to the Old Growth Pine Taiga, as there are no pines in the game and they have Spruce Trees instead.
+In real life, Iron can’t be used as a fire striker, so Mojang had to rename it to Flint and Steel so it makes more sense. This explains why it is called Flint and Steel, but there is no steel in the game.
+Steel was mentioned by Mojang, as a “stronger” iron, but shortly rejected, and there are no currently no plans to add it to the game.
+Flint and steel cannot light end portals.
+Flint and Steel is the first item to mention another item that is not in the game.
+In the April Fools Snapshot, Java Edition 23w13a or b, one of the possible voted was “Flint and Steel can ignite any block”.
+A clip of a trailer of A Minecraft Movie of Steve saying "Flint and Steel!" became very popular due to the comical way the actor Jack Black said it. Multiple edits of Steve saying Flint and Steel have surfaced as such. In Java Edition 1.21.6, Mojang adds "Flint and Steel!" as a splash text to refer from the film.
+
+
+== References ==

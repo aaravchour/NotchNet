@@ -1,0 +1,1 @@
+Returns the average percentage of calculating time.

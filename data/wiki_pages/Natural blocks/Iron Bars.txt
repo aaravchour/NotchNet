@@ -1,0 +1,179 @@
+Iron bars are blocks that serve a similar purpose to glass panes, but made of iron instead of glass.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Iron bars can be mined using any pickaxe. If mined without a pickaxe, it drops nothing.
+
+
+=== Natural generation ===
+Iron bars can be found in parts of strongholds, woodland mansions, desert and plains villages, igloo basements, ruined portals, and trail ruins.
+In the End, 2–3 obsidian pillars have iron bars around their end crystals.
+
+
+=== Post-generation ===
+Iron bars regenerate on end pillars when the ender dragon is respawned.
+
+
+=== Crafting ===
+
+Iron bars are not a source of iron. Once crafted, iron bars cannot be smelted into iron nuggets or ingots.
+
+
+== Usage ==
+
+As with glass panes and fences, iron bars can be used to create narrow slits when placed between a door and a solid block. Mobs can see through and attack through these gaps, and arrows may be shot through them. Also as with fences and glass panes, arrows cannot be shot through iron bars themselves.
+Endermen seen through iron bars do not become angry. The ender dragon cannot destroy iron bars (some of the end crystals are protected by them), which makes them a useful material in the End.
+
+
+=== Placement ===
+Iron bars can be placed in much the same way as fences or glass panes. If no solid block is adjacent to the bars, they have appearance of a slim, tall column. If something is placed next to iron bars, they appear either flat,  shaped,  shaped or  shaped, depending on the blocks surrounding it.
+
+
+=== Curing ===
+Iron bars speed up the curing process of zombie villagers.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Iron Bars" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+In Java Edition, a 2×2 area made of iron bars can make a square-shaped hole big enough for the player and most mobs to fit through, but not rain, water, etc. that can be used as an easy entrance for an underwater house, and even an exit if pistons are used. Glass panes work in the same way.
+If a sign or a painting is placed on iron bars, it appears to float in the air.
+Despite apparently being thin enough to do so, iron bars do not let a ghast's explosion touch the block beneath them as long as the block is protected from other angles of the explosion affecting it.
+If an iron bar is connected to a block and a rail is placed on the block, the top texture of the iron bar disappears.
+While curing a zombie villager, iron bars placed nearby speed up the healing process. The same happens with beds, and both these things occur in the stereotypical prison cell.
+Arrows cannot be shot through iron bars.
+Because iron bars are 1 block high, the player can normally jump over iron bars, unlike fences.
+
+
+== Gallery ==
+
+
+=== Renders ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

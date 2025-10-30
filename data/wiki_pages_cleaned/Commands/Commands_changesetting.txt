@@ -1,0 +1,20 @@
+Changes a setting on the dedicated server (BDS) while it's running.
+Can be executed only on BDS console.
+
+changesetting allow-cheats <value: Boolean>
+changesetting difficulty <value: Difficulty>
+changesetting difficulty <value: int>
+
+value: Difficulty: enum and value: int: int
+
+Specifies the new difficulty level. Must be one of the following:
+peaceful (can be abbreviated as p or 0) for peaceful difficulty
+easy (can be abbreviated as e or 1) for easy difficulty
+normal (can be abbreviated as n or 2) for normal difficulty
+hard (can be abbreviated as h or 3) for hard difficulty
+value: Boolean: enum
+
+Specifies whether allowing cheats.
+Must be a  boolean (either true or false).
+
+Changes a setting. Note that this does not change values in the server.properties file.

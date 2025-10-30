@@ -1,0 +1,24 @@
+
+== Small Farm ==
+
+All of these small farms are the same except that the taiga variant has spruce wood, the savanna variant has acacia wood, the plains variant has oak wood, and the desert variant has sandstone.
+
+
+=== Blueprint ===
+
+
+=== Materials ===
+
+
+== Large Farm ==
+
+The large farm follows the same pattern as the small farm, just doubled with a walkway in the middle.
+
+
+=== Blueprint ===
+
+
+=== Materials ===
+
+
+== Gallery ==

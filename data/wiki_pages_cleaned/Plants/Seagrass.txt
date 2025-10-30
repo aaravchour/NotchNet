@@ -1,0 +1,41 @@
+Seagrass is a non-solid plant block that generates in all oceans, except frozen oceans.
+Tall seagrass is a two-block high variety of seagrass.
+
+Seagrass can be harvested only with shears. Using any other tool, item, or the player's fist destroys seagrass and causes it to drop nothing. When harvested with shears, regular seagrass drops itself as an item, and tall seagrass drops 2 seagrass items.
+Tall seagrass cannot be obtained in item form without using creative mode.
+
+Seagrass generates in either its tall or small form in rivers, non-frozen oceans, underwater caves and swamps, replacing ice and planks as necessary. To generate seagrass, the water column it is in must have access to the sky.
+
+Using bone meal on a non-transparent block, or dirt, coarse dirt, sand, red sand, gravel, or clay that is underwater generates seagrass on that block and its surrounding blocks. In order for this to work, there must be 2 water blocks above the block the bone meal is being used on, and the lower one must be non-flowing water. 
+
+Turtles drop 02 seagrass when killed. Looting increases the maximum number of possible seagrass drops by 1 per level.
+
+The seagrass item can be placed only on non-transparent blocks. It breaks when non-transparent blocks move into its hitbox.
+Like grass, snow layers, and other such blocks, placing blocks inside seagrass deletes the seagrass. However, seagrass prevents coral fan placement.
+Tall seagrass has a hitbox considerably more appropriate for its size than other two-block-tall plants such as tall grass.
+Seagrass is completely resistant to lava trying to flow into it, allowing for lava to be floating on top of the water.
+
+Seagrass can be used to lead and breed turtles.
+
+Applying bone meal to a regular seagrass transforms it to tall seagrass if there is enough space. The bone meal is wasted if insufficient space exists.
+
+Placing seagrass into a composter has a 30% chance of raising the compost level by 1.
+
+Using seagrass on a baby turtle accelerates its growing time. When the turtle becomes an adult, it drops one scute.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+Tall
+
+Bedrock Edition:
+
+Issues relating to "Seagrass" are maintained on the bug tracker. Report issues there.
+
+wikipedia:Seagrass

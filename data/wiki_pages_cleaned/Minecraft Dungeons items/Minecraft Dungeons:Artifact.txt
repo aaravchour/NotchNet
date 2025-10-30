@@ -1,0 +1,16 @@
+The term artifact refers to a category of items that can equipped by the hero to temporarily summon pets, enhance or heal themselves or other heroes, or attack and weaken mobs. The hero can have up to three artifacts equipped at any one time. 
+There are currently 46 known artifacts. This includes a single unique, the Corrupted Pumpkin, which is a unique Corrupted Beacon which is only obtainable during the Spooky Fall event. All are obtainable except for the Totem of Soul Protection, which was an unused artifact seen in the game's trailer.
+There are two types of artifacts: ones that require (and grant) souls, and ones that do not. Soul-based artifacts generally have shorter cooldown times, and always come with +1 soul gathering.
+
+Ways artifacts can be obtained:
+
+Village Merchant
+Luxury Merchant
+Mystery Merchant
+During missions
+Obsidian chests
+Piggy Banks
+When a mission is completed.
+
+Artifacts have a cooldown period between uses, during which they cannot be used, unequipped, or switched with a different Artifact from the inventory. Artifact cooldowns are independent from one another. For example, equipping two Corrupted Beacons and using one of them will only cause a cooldown on the one that was used.
+Cooldowns can be reduced by equipping armor with cooldown reduction properties, such as the Evocation Robe, Battle Robe and their unique variants, or enchanting armor with Cool Down or Cooldown Shot, which can be used to trim down cooldown time on artifacts that are already on cooldown.

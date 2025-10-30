@@ -1,0 +1,66 @@
+The sparkler is a unique cutlass variant that could be found exclusively within the anniversary missions of Minecraft Dungeons. It behaves identically to the dancer's sword.
+
+
+== Obtaining ==
+Missions
+Tower
+Events
+First Anniversary (ended)
+Second Anniversary (ended)
+Merchants
+Gift Wrapper
+
+
+== Usage ==
+The sparkler possesses moderate power, low speed, moderate area, and a continuous attack of two sideways slashes.
+
+
+=== Properties ===
+X melee damage
+Reliable combo
+Increased attack speed (Rampaging tier I)
+
+
+=== Stats ===
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Sparkler" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===

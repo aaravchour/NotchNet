@@ -1,0 +1,14 @@
+Paper is an item crafted from sugar cane.
+
+In Java Edition, cartographer villagers may give paper to players with the Hero of the Village effect.
+
+In Bedrock Edition, novice-level librarian and cartographer villagers buy 24 paper for an emerald as part of their trades.
+In Java Edition, novice-level cartographer villagers always offer to buy 24 paper for an emerald, while novice-level librarians have a 23 chance of offering the same trade.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Paper" are maintained on the bug tracker. Report issues there.
+
+Taking Inventory: Paper  Minecraft.net on August 4, 2023

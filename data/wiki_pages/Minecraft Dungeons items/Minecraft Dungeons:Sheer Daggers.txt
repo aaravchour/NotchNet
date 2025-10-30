@@ -1,0 +1,70 @@
+The sheer daggers are a unique daggers variant that can be found within the various missions of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Soggy Swamp
+Soggy Cave
+Redstone Mines
+Gauntlet of Gales (Adventure)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+The Tiny Scourge
+
+
+== Usage ==
+The sheer daggers possess low power, high speed, and low area, and have a continuous attack of six sideways slashes.
+
+
+=== Properties ===
+X melee damage
+Dual wield
+Last Attack Deals Area Damage (Swirling tier I)
+
+
+=== Stats ===
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Sheer Daggers" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===

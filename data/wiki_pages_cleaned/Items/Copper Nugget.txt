@@ -1,0 +1,6 @@
+A copper nugget is an item that was added in The Copper Age. It can be used to craft copper ingots
+
+Copper nuggets can also be obtained by smelting copper tools, gear and copper horse armor.
+
+Gold Nugget
+Iron Nugget

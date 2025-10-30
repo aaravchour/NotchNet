@@ -1,0 +1,18 @@
+This tutorial shows how to create a headless piston ("null-state" piston) in Vanilla Survival, and what to use it for.
+
+An extended piston is composed of two blocks: the piston base and the piston head. Removing the head involves carefully manipulated explosions and perfect timing.
+In order to remove the head, the player must set up a mechanism in which the piston extends at exactly the same time an explosion occurs. When using TNT, this can be done with 10 repeaters set to four ticks. The power of the explosion must also be manipulated, which can be done using other blocks between the explosion and the piston, such as cobblestone walls.
+Once the piston is headless, powering it will ensure that it stays headless. Once unpowered, it will retract, gain its head back  -  however, anything placed where the head would be before it is retracted is immediately destroyed, due to how pistons are coded.
+
+The best use of a headless piston is to destroy blocks, including bedrock. When a headless sticky piston gains its head back, it acts like any normal sticky piston: it retracts the block two blocks in front of it. In order to retract, it must have a piston head, so it will briefly show an extended piston head before retracting.
+A property only found in headless pistons is that if there is a block where the head would be, the block is destroyed and replaced with the piston head and the piston arm blocks.
+This technique can even be used to break bedrock or other unmovable blocks. This includes barrier blocks, which can make it difficult to make retaining walls for players on vanilla servers. First, place a sticky piston adjacent to the block you want to break, with the head end facing it. Next, place any movable block on the other side of said block. Finally, unpower the piston. The block on the other side replaces the target block and the headless piston gets its head back, as normal.
+
+Using Debug Sticks, and a Block of Redstone, the player can place down the piston, then power it with the redstone block.
+The player can then set the pistons extended state to true using the debug stick, then do the usual procedures with headless pistons.
+
+Run command: /give @p command_block, then run command: /give @p redstone_block. Place the command block on the ground. Set the command block mode to repeating. Set the command to /summon falling_block ~4 ~-.5 ~ {BlockState:{Name:piston_head},Time:1}
+place the Redstone block next to the command block
+4 blocks away from the command block, you have your piston head!
+Note: put the command block on the ground for the best result. make sure you placed this on a 5x5 flat plane.
+Also, do not remove the Redstone block.

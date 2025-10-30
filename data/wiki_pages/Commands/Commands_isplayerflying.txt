@@ -1,0 +1,10 @@
+Check if the player is flying
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

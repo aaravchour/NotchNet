@@ -1,0 +1,11 @@
+A piglin builder is a piglin  within Minecraft Legends.
+
+Piglin builders drop lapis.
+
+Grenade Mortar
+Piglin builders shoot a grenade from their backpack that does AOE damage.
+
+Build
+Piglin builders can construst Blaze Rod Towers and Piglin Pits.
+
+Issues relating to "Piglin Builder" are maintained on the bug tracker. Report issues there.

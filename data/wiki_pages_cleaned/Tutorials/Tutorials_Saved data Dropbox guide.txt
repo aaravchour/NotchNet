@@ -1,0 +1,114 @@
+This tutorial explains how to migrate your saved games to Dropbox so you can play your levels on multiple computers. BE WARNED that you can only play on one computer at a time, and you must allow Dropbox to completely finish syncing before starting to play on a different computer.  If you do not, you risk losing your progress or possibly corrupting your save.
+
+The first step is to download Dropbox. Dropbox automatically syncs content to their servers and allows you to access it both online and through a client on your PC. Dropbox is cross-platform, plus available on the web and web-enabled smartphones.
+Go to  register for a free account, download the application and install it. You automatically get 2GB for free.
+Once you have installed Dropbox, you'll need to know where the Dropbox folder is:
+
+On Windows XP, the Dropbox folder is located inside the user's "My Documents" folder. The easiest way to reference this is using the environmental variables, as follows: "%HomeDrive%%HomePath%\My Documents\Dropbox". Because "My Documents" contains a space, the quotation marks are required.
+On Windows 7 and 8, the default Dropbox folder location is C:\Users\username\Dropbox. Use the environmental variables %HomeDrive%%HomePath%\Dropbox.
+On Windows 10, the Dropbox folder is labeled as its own item in the sidebar of the File Explorer window.
+On Linux, the default location is in the user's home folder. For example, in Ubuntu, that folder is located at ~/Dropbox
+On MacOS, it should also be in the user's home folder.
+Whichever operating system you are using, Dropbox has very good documentation and can assist you in finding help: 
+
+Next, we will need to make a copy of your Minecraft data on the Dropbox server and then rename the original.
+
+On Windows, your Minecraft data is saved in your application data (AppData) folder. You can access this by holding Windows+R or hitting Start > Run and then typing %AppData%\.minecraft in the box. If the folder doesn't open, click on the Tools menu on Windows Explorer, click the View tab, and under Advanced Settings, make sure "Show hidden files, folders and drives" is selected.
+Copy all the files in this folder to your Dropbox folder. For organization sake, I usually create a subfolder inside my Dropbox folder and title it "Minecraft".
+Once these files are done copying, navigate back up to your AppData folder, and rename the .minecraft folder to .minecraft2 (for files that begin with a "." such as ".minecraft" Windows may give an error message when renaming and refuse to rename. If this happens try to rename the file to ".minecraft2."; this will rename the file to ".minecraft2" without the previously typed period at the end of the title.)
+This step ensures that you:
+
+Have a backup of your files in case of a catastrophe, and
+Allows us to make the symbolic link to the correct location in a later step.
+
+xcopy /I /E %AppData%\.minecraft %HomeDrive%%HomePath%\Dropbox\Minecraft
+cd %AppData%
+rename .minecraft .minecraft2
+Note: attempting to use rename %AppData%\.minecraft %AppData%\.minecraft2 will give the error The syntax of the command is incorrect., as should be: rename %AppData%\.minecraft .minecraft2 
+
+In macOS, the Minecraft data folder is located in your Username > Library > Application Support folder. You can get here quickly by opening Finder > Go > Go To Folder > type ~/Library/Application Support/minecraft. For future reference, it's best to make an alias for this folder and copy it to your desktop. NOTE: Mountain Lion hides the user's Library folder. Hold down the option key and see the Library item appear in the GO menu.
+Now, copy the saves directory (~/Library/Application Support/minecraft/saves/) to your Dropbox's Minecraft folder (~/Dropbox/Minecraft/), unless you already have saves from Windows or Linux there.
+
+mkdir ~/Dropbox/Minecraft/
+cp -r ~/Library/Application\ Support/minecraft/saves ~/Dropbox/Minecraft/
+mv ~/Library/Application\ Support/minecraft/saves ~/Library/Application\ Support/minecraft/saves.old
+
+In Linux, your Minecraft data folder is located in your user home folder. However, it may be hidden from view. If you are using a GUI, ensure that you choose View > Show Hidden Files.
+Copy the contents of the .minecraft folder to your Dropbox folder. As mentioned above, I usually create a folder inside the Dropbox called "Minecraft".
+Once the copy is complete, rename the .minecraft folder to .minecraft2
+
+Open the Terminal and type in:
+
+cp -r ~/.minecraft ~/Dropbox/Minecraft
+mv ~/.minecraft ~/.minecraft2
+
+This is the final step that will allow us to create links to the online versions of your files.
+
+Symbolic links are similar to shortcuts but are much more powerful. In Windows, the command mklink or junction will allow us to create a symbolic link. 
+Open an elevated command prompt. In Windows 7 and 8, you can do this by searching for "Command Prompt", right-clicking it and selecting "Run as administrator." This is necessary even if you are the administrator on your machine. Otherwise, you will receive the response "You do not have sufficient privilege to perform this operation", and creation of the symbolic link will fail.
+Type the following command to set up the symbolic link:
+
+WARNING: Use caution when creating or deleting hardlinks on Vista and before! Hardlinks create an alias reference to file data. Deleting a hardlink on Vista or XP will also delete the associated data.
+Java Edition:
+mklink /d "%AppData%\.minecraft" "%HomeDrive%%HomePath%\Dropbox\Minecraft"
+If you get the error Cannot create a file when that file already exists, make sure the .minecraft folder in %AppData% has been deleted or renamed. mklink tries to make a "folder" named .minecraft and, if a file or folder of the same name already exists, can't replace it.
+Bedrock Edition:
+mklink /J "%UserProfile%\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftWorlds" "%HomeDrive%%HomePath%\Dropbox\Minecraft"
+Deleting a Hardlink
+To disconnect a hardlink on Vista or XP use this command instead of delete:
+
+fsutil reparsepoint delete <path>
+
+This will remove the link but leave an empty file of the same name in its place which you can then safely remove. (Verify the folder is empty before you delete it.)
+On Windows 7 and 8 you can safely delete a hard link with windows explorer.
+
+If you are running Windows XP, you first need to download junction.exe from SysInternals and place it in your root folder in order to enable symbolic links. 
+Open the command prompt and type in:
+junction "%AppData%\.minecraft" "%HomeDrive%%HomePath%\My Documents\Dropbox\Minecraft"
+If you are successful, the .minecraft folder should reappear in your AppData folder. When you start Minecraft after this, you should have all your previously generated worlds!
+
+Creating symbolic links in macOS is easy thanks to a free application called SymbolicLinker, which will allow you to create a symbolic link via right-click in the Finder. 
+Download and install SymbolicLinker, available here: [1] (free). 
+Once installed, move your Minecraft folder (located in ~/Library/Application Support/) to a folder in your Dropbox. Rightclick on this new folder and choose Make symbolic link. This will create a symbolic link in the same folder. Move this back to your Minecraft folder's original destination (make sure it has the same name as the original) and you are all set to pull your game data off the internet.
+
+Open the Terminal and type in:
+
+ln -s ~/Dropbox/Minecraft/saves ~/Library/Application\ Support/minecraft/saves
+
+To create the symbolic links in Linux, open up the terminal and type the following commands.
+
+ln -s ~/Dropbox/Minecraft ~/.minecraft
+
+Now, the .minecraft folder should be listed in your home directory and your saved worlds should all be there when you start Minecraft.
+In order to link any additional computers you wish to play on, you just need to follow these steps - install Dropbox, and create the symbolic links. Voil!
+
+If you wish to sync your Minecraft files between different operating systems, you need to add a few extra steps to the method above. This is because the bin folder inside your minecraft folder, which contains binary files which run the program (as opposed to data files, like your saved games) has different files depending on your operating system. These files, however, have no overlap, and you can have a fully operational Minecraft folder for all operating systems (Windows, Mac OS and Linux). There are no known problems arising from different versions of the same operating system.
+To make this work, take a look at the subfolder bin/natives. It has different contents depending on your Operating System.
+
+Windows
+OpenAL32.dll
+jinput-dx8_64.dll
+OpenAL64.dll
+lwjgl64.dll
+jinput-raw_64.dll
+jinput-dx8.dll
+lwjgl.dll
+jinput-raw.dll
+Linux
+libopenal64.so
+liblwjgl64.so
+libjinput-linux64.so
+libopenal.so
+liblwjgl.so
+libjinput-linux.so
+macOS
+liblwjgl.jnilib
+libjinput-osx.jnilib
+openal.dylib
+libopenal.dylib
+All you have to do is to go through your different installations (in the operating systems you use) and put these files all together in the same existing natives folder, like so:
+
+Then sync it away with Dropbox, it works no problem! :)
+If you use third-party mods to the game, you must install all desired mods only once, and then synchronize the patched result. In the unlikely (but possible) case that you run into problems, you should NOT share the bin folder (with its natives subfolder) anymore. Mods known to work cross-platform seamlessly include Zombe's modpack, Mine Little Pony, and MCPatcher.
+
+Go to this link and follow the directions, but instead of putting the "minecraft" folder on the thumb drive, move it to your Dropbox folder. Just run the .bat file when you want to play, and you're done! To install mods, texture packs, or maps, you must use the .minecraft folder in the Dropbox folder.

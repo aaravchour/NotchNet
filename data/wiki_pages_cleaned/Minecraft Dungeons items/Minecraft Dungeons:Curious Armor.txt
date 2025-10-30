@@ -1,0 +1,10 @@
+Curious Armor is an armor set in Minecraft Dungeons Arcade. It is the unused unique variant of the Guard's Armor. Little is known about this item as it never made it into the full release. It was intended to have a 5% chance to teleport the player when hit, but this ability does appear on the item when edited in using a third-party software. In Minecraft Dungeons Arcade, it appears with the name Ender Armor.
+
+Without editing game files or using third-party software, it is unobtainable normally, however, it appears in Minecraft Dungeons: Arcade. 
+
+5% chance to teleport away when hit
+25% artifact cooldown
++10 arrows per bundle
+
+It uses the Ender Dragon's hurt sound as its equip sound.
+In the Minecraft Dungeons Arcade - Official Trailer, a character can be seen wearing Curious Armor, though it is referred to as Ender Armor.

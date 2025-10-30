@@ -1,0 +1,207 @@
+A cactus is a plant block that generates naturally in dry areas and causes damage.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+A cactus can be mined by hand without taking damage. The tool used to mine the cactus does not affect mining speed.
+
+When the spot a cactus is placed in becomes unsuitable, such as when a solid block is placed next to it or its supporting block is removed, the cactus block uproots and drops as an item. 
+A cactus also removes and drops itself as an item if a piston tries to push it, or moves a block into its space. Trying to pull it with a sticky piston does nothing. 
+Using a sign on the side of a cactus causes both the sign and the cactus to drop as items.
+
+
+=== Natural generation ===
+Cacti naturally occur in desert and badlands biomes (twice more common in desert than in badlands). They generate as one (11⁄18 chance), two (5⁄18 chance), or three (2⁄18 chance) blocks tall. Rarely taller cacti can be found if generation chooses to generate another on top of one already generated (although not as commonly as sugar cane).
+A potted cactus can also be found in an igloo with a basement.
+Potted cacti and 3 block cactus can also be found in some desert village buildings.
+Some cacti also generate naturally with Cactus Flowers on top of them.
+
+
+=== Mob loot ===
+Endermen can pick up cacti. When they die, they drop the cacti they're holding.
+
+
+=== Chest loot ===
+
+
+=== Trading ===
+Wandering traders can sell a cactus for three emeralds.
+
+
+== Usage ==
+A cactus block may be placed only on sand, red sand, suspicious sand, or another cactus block. A cactus breaks itself (and drops as an item) if any block with a solid material, or lava, occupies any of the 4 horizontally adjacent blocks. It also breaks if on the sand and the block above is water or lava.
+When any entity, including players and mobs, touches a cactus, 1 damage is taken every 0.5 seconds. Damage from touching a cactus is reduced by armor, but touching it also damages the armor. Mobs do not avoid cacti when they pathfind.
+A cactus destroys any item that come into contact with it, including other cactus in item form. Falling blocks such as sand and gravel are not destroyed when falling onto cactus; instead, they are transformed into item form (as happens when it falls into any block with a hitbox that has a height less than 1, such as slabs). The item created in this case will sometimes (though not always) be destroyed by the cactus. The conversion to an item applies even when the falling block is a cactus (which is possible with /summon).
+When a minecart hits a cactus block, the minecart drops as an item and is often destroyed, although a hopper can pick it up faster.
+A cactus can also be placed in a flower pot, where it is rendered harmless.
+A cactus (excluding its spikes) is 7⁄8 of a block in width (the same as chests) and a full block in height, however the collision box is 15⁄16 of a block high.
+
+
+=== Farming ===
+
+Cacti naturally grow to a height of three blocks, adding a block of height when the top cactus block has received 16 random ticks (i.e. on average every 18 minutes, but the actual rate can vary widely). Bone meal does not work on cacti to speed their growth. A cactus does not need light to grow and is non-flammable. If a cactus has space directly above it, it grows even if the newly-grown block would immediately break due to adjacent blocks.
+
+
+=== Smelting ingredient ===
+
+
+=== Breeding ===
+Cacti can be used to breed camels and reduce the remaining growth duration of baby camels by 10%. Camels also follow a player holding a cactus.
+
+
+=== Composting ===
+Placing a cactus into a composter has a 50% chance of raising the compost level by 1.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition
+
+Bedrock Edition
+
+
+== History ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Issues ==
+Issues relating to "Cactus" or "Cacti" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Cacti can be placed underwater, provided they are placed on sand, and they grow if they break the surface.
+Cacti can be placed next to saplings, but the cactus breaks when the tree grows.
+Endermen could move and place cacti. Thus, they can increase the cactus population in deserts by moving cactus blocks as they grow.
+Signs can be placed on top of cacti. Paintings can also be placed on the sides of cacti, creating a nasty trap for anyone that tries to go through paintings.
+It is possible for cacti to generate on blocks other than sand due to terrain generation; refer to the gallery for examples.
+Cactus can be used in the desert to see if the player is in a newly generated area. If most of the cacti around the player is only one block high, then it is most likely new land.
+Dying from touching a cactus displays "[playername] was pricked to death" in the chat messages.
+Blocks can be placed on top of a cactus, including other cactus blocks.
+It is possible to place redstone next to a cactus block without destroying it.
+A 20 block tall cactus can be found on the seed 43931985876593125 at coordinates (-9711824 , ~ , 7726416) and more recently a 22 block tall one on seed 11343195073417814 at coordinates (14955936 , ~ , -3750655) and even a 23 block tall one on the seed 184693195438010998 and coordinates (16274576 ~ 10230656). All these seeds, found by the Minecraft@home research project, work on Java Edition 1.14.4.
+Top snow can be placed next to cacti without breaking the cacti, no matter how many top snow layers stack.
+In some of the Trial Chamber entrance rooms, a small mangrove tree generates inside a 4 x 4 block copper ring, on mud blocks and water.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Heights ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External Links ==
+Block of the Week: Cactus – Minecraft.net on February 10, 2017

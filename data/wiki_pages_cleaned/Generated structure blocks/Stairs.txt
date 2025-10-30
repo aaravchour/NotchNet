@@ -1,0 +1,93 @@
+Stairs are blocks that allow mobs and players to change elevation without jumping.
+
+Wood stairs drop themselves as items when broken with any tool, or with no tool, but an axe is fastest. Non-wood stairs drop themselves as items only if broken with a pickaxe. Compared to slabs, the hardness values (and thus, breaking time) of stairs better reflect the blocks they are made from.
+
+  Cobblestone and stone brick stairs generate naturally in strongholds.
+ Nether brick stairs generate naturally in nether fortresses.
+ Spruce stairs generate naturally in witch huts and in igloo basements.
+ Purpur stairs generate naturally in end cities.
+    Oak, birch, and dark oak stairs as well as cobblestone stairs generate naturally in woodland mansions.
+      Oak, spruce, birch, jungle, acacia, and dark oak stairs can generate naturally in shipwrecks.
+   Dark oak, cobblestone, and mossy cobblestone stairs can generate in pillager outposts.
+  Blackstone and polished blackstone brick stairs can generate in bastion remnants.
+    Cobbled deepslate, polished deepslate, deepslate brick and deepslate tile stairs can generate in ancient cities.
+  Brick stairs and mud brick stairs generate in trail ruins.
+Ruined portals
+  Stone brick and mossy stone brick stairs generate in Overworld ruined portals.
+   Blackstone, polished blackstone, and polished blackstone brick stairs generate in Nether ruined portals.
+ Nether brick stairs generate in Nether ruined portals.
+Ocean ruins
+ Sandstone stairs generate naturally in some warm ocean ruins.
+ Stone brick stairs generate naturally in some cold ocean ruins.
+Villages
+  Oak and cobblestone stairs generate naturally in plains villages.
+ Acacia stairs generate naturally in savanna villages.
+   Sandstone, smooth sandstone, and granite stairs generate in desert villages.
+  Spruce and diorite stairs generate in snowy tundra villages.
+  Spruce and cobblestone stairs generate in taiga and snowy taiga villages.
+
+Wood stairs must be crafted entirely from one type and color of wood, and they retain the style of that wood's type and color.
+
+To place stairs, use a stairs item while pointing at a surface facing the space the stairs should occupy. When placed, a stair orients itself with the half-block side closest to the player.
+Stairs can be placed either right side up or upside-down:
+
+Pointing at a block top or the bottom half of a block side places the stairs right side up.
+Pointing at a block bottom or the top half of a block side places the stairs upside-down.
+Stairs change their shape to join with adjacent stairs (of any material):
+
+When a stairs' half-block side is adjacent to the side of another stairs, the stairs' full-block side wraps into an "L" shape to join the other stairs (it creates an "inner corner").
+When a stairs' full-block side is adjacent to the side of another stairs, the stairs' full-block side shortens to join the other stairs' full-block side (it creates an "outer corner").
+Right side up stairs do not join with upside-down stairs and vice versa.
+
+Walking up stairs is faster than jumping up the same distance. Walking up a stairway doesn't cost any exhaustion from the player's hunger bar, compared to 0.2 exhaustion per jump. Therefore, walking up stairs doesn't make the player hungry at all.
+
+Generally, the solid faces of stairs are handled as solid blocks. Due to this, transparent blocks that need to placed on an opaque surface can be placed on these faces.
+
+Overworld wood stairs can be used as fuel in furnaces, smelting 1.5 items per block.
+
+Wood stairs can be placed under note blocks to produce "bass" sounds.
+Non-wood stairs can be placed under note blocks to produce "bass drum" sounds.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+Brick, purpur, quartz, red sandstone, sandstone, stone brick, and cobblestone stairs):
+
+All other stairs:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Stairs" are maintained on the bug tracker. Report issues there.
+
+Between Java Edition 1.17 snapshots 20w45a and 21w05a, "Waxed Lightly Weathered Cut Copper Stairs" was the longest name for any block in Minecraft, at 41 characters with spaces, or 36 without.
+The April Fools snapshot 20w14 included a block called "Swaggiest stairs ever", which was a stair variant for the netherite block.

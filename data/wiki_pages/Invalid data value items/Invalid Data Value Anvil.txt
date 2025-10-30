@@ -1,0 +1,33 @@
+Invalid data value anvils are item forms of the anvil with damage values outside of the usual range which anvils can usually be obtained in.
+
+
+== Obtaining ==
+Without the use of commands, invalid data value anvils are unobtainable in the last versions in which they existed without inheriting them from a prior version in which they were obtainable.
+Currently, the item form with damage value 3 is the only invalid anvil variant known to be obtainable as an item in Survival with normal techniques.
+
+
+=== Transmutation ===
+Block transmutation with arrows can be used to obtain anvils with metadata 12, 13, 14 and 15. These blocks can be mined in 14w21b or earlier to obtain the item form with a damage value of 3. The initial block being transmuted must be an south-facing undamaged anvil, i.e. an anvil block with metadata value 0. Chipped and damaged anvils, as well as anvils facing any direction other than south, cannot be transmuted.
+
+
+== Usage ==
+Only three different types of anvil are intended to be accessible in normal gameplay. The anvil item with a damage value of 3 corresponds to a fourth variant which would theoretically be even more broken than the "damaged" state. This is the type of anvil that the item places from 12w41a up to 14w25b (excluding versions from 13w02a to 13w05a, in which the lack of a defined texture causes the block to crash the game). From 14w26a to 17w46a, due to metadata being superseded by block states, attempting to place this item will cause a game crash due to it not being able to place a valid block state.
+
+
+=== Conversion to future versions ===
+
+
+== History ==
+
+Inventory appearances (values marked in red are not known to be obtainable in survival mode)
+
+
+== Issues ==
+Invalid data value anvils are an issue, and due to their removal, can be considered already fixed.
+
+
+== References ==
+
+
+== External links ==
+Invalid Data Value Anvil at the Minecraft Discontinued Features wiki

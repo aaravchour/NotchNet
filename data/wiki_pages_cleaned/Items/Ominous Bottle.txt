@@ -1,0 +1,21 @@
+An Ominous bottle is a unique potion bottle obtained from defeating raid captains or unlocking vaults in the Trial Chambers. They inflict Bad Omen effect when drunk.
+Unlike other potions, Ominous Bottles are stackable, with each stack holding over 64 bottles of the same level of Bad Omen.
+
+Ominous Bottles are usually dropped by raid captains, which always spawn in pillager outposts in groups of 1-3, as part of patrols, and as part of raids. The bottle dropped by the captain gives the player Bad Omen I-V.
+
+Ominous Bottles can be obtained in Trial Chambers as rewards from both normal vaults and ominous vaults. A normal vault has a 18.6% chance of containing an Ominous Bottle, and an ominous Vault a 13.9% chance.
+
+Ominous bottles can be found in loot chests in pillager outposts and woodland mansions.
+
+Unlike normal potions, ominous bottles disintegrate when drunk by a player. There are 2 main events that take place when the player drinks the bottle at certain locations.
+
+When a player drinks the ominous bottle in the Trial Chambers, any nearby Trial Spawners (especially the non-activated ones) will reactivate, turning from normal orange particles to soul blue trial omen particles. Trial Omen particles will look like miniature soul blue skulls. This event is called Ominous Trials, as the Bad Omen is changed to Trial Omen. This event is only possible in survival mode and when the difficulty is not set to peaceful.
+
+When a player drinks the ominous bottle in a Village, the Bad Omen changes into Raid Omen, thus summoning a Village Raid. This event is possible in both Survival and Creative Modes.
+Raid Omen particles will look like miniature crimson red skulls floating.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Ominous Bottle" are maintained on the bug tracker. Report issues there.

@@ -1,0 +1,26 @@
+The stalwart armor is a unique reinforced mail variant that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Fiery Forge
+Lower Temple
+Panda Plateau (DLC)
+Nether Fortress (DLC)
+Broken Citadel (DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Vigilant Scoundrel
+
++X health
+35% damage reduction
+30% chance to negate hits
+100% longer roll cooldown
+Potion use boosts defense (Potion Barrier tier I)
+
+Minimum health expected for power level
+
+Issues relating to "Stalwart Armor" are maintained on the bug tracker. Report issues there.

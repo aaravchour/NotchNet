@@ -1,0 +1,21 @@
+A smooth quartz block is a mineral block used only for decoration. It is made by smelting blocks of quartz.
+
+Smooth quartz blocks can be mined using any pickaxe. If mined without a pickaxe, it drops nothing.
+
+2 smooth quartz blocks generate naturally as part of each bridge bastion remnant.
+
+Smooth quartz blocks can be placed under note blocks to produce "bass drum" sounds.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+In Bedrock Edition, smooth quartz blocks use the following data values:
+
+Bedrock Edition:
+
+Issues relating to "Smooth Quartz Block" or "Smooth Quartz" are maintained on the bug tracker. Report issues there.

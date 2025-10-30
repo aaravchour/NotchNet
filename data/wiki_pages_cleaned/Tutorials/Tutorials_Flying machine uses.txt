@@ -1,0 +1,4 @@
+A flying machine can be used for things other than flying. Currently, these things can be done with it:
+Elevator. Build a vertical flying machine to work as an elevator.
+Automated Lumberjack. Stick slime underneath the flying machine, then send it into a tree. It should then have wood logs stuck to the slime, meaning you can gather wood from the flying machine directly.
+If there are any more uses you can think of, edit the page and add them in.

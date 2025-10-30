@@ -1,0 +1,41 @@
+The acacia tree is found in the savanna biome. Acacia trees are around 8 blocks tall and feature distinct diagonal trunks, and may occasionally have multiple canopies.
+
+The way the tree forms is distinct. Acacia tree branches do not grow the same way as on other multi-branch trees (dark oak and giant jungle trees). Some acacia trees have many straight logs and a curve at the top, some at the bottom, and some curve from bottom to top. Typically, the canopy consists of just two layers of leaves, sometimes three. Three types of acacia can be found in the game:
+
+The common acacia tree, which has a diagonal trunk and a single canopy.
+The multi-canopy acacia, where the trunk forks around the middle of the plant and each end ends in a canopy.
+Another form of multi-canopy acacia tree, where a straight trunk is topped with a small canopy, out of which grows additional trunk ending in a second, higher canopy. These trees often grow taller than the common acacia tree.
+
+Acacia trees spawn naturally only in the Savanna biome.
+
+These items can be obtained from all variants of acacia:
+
+Acacia Leaves (harvested with shears)
+Acacia Log (harvested with any tool including hands)
+Acacia Planks (created from a log in the inventory crafting grid)
+Acacia Sapling (120 chance of dropping when leaves decay or are broken)
+Stripped Acacia Log (created by using an axe on a log)
+Stick (chance of dropping when breaking leaves)
+
+Acacia saplings can be planted on:
+
+Dirt
+Grass Block
+Coarse Dirt
+Podzol
+Mycelium
+Rooted Dirt
+Moss Block
+Farmland
+Mud
+Muddy Mangrove Roots
+An acacia tree requires a 33 column of unobstructed space at least 6 blocks above the sapling (7 blocks including the sapling itself). Additionally, the tree requires 55 layers without obstruction for the top 3 layers of its final height. No horizontal clearance is needed at the base of the tree (a sapling planted in a hole 1 block deep can still grow).
+Acacia trees can be grown on farmland, but will turn it into dirt when they do so.
+
+Depending on where the tree generates, the color of the leaves may differ. For example, if an acacia tree is in a colder biome, such as a taiga or mountains biome, it has a blue-green hue.
+Leaves are checked individually for biome coloration rather than as part of a larger tree; as such, trees that were grown between biomes usually have multiple shades on each side.
+
+Issues relating to "Acacia" are maintained on the bug tracker. Report issues there.
+
+In real life, Acacia is a genus of tree.
+The acacia sapling's color is different from the fully grown tree, as acacia bark is gray while the sapling's bark is brownish orange like the interior of the grown trees log.

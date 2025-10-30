@@ -1,0 +1,28 @@
+Monoliths were glitched areas of terrain that happened in the later versions of Infdev and early Alpha eras of the game. These monoliths would cause the terrain to abruptly generate up to the height limit, with natural grass block and ore generation.
+
+
+== Generation ==
+Monoliths would generate in seemingly random locations throughout the world. They tended to generate around flattish terrain. They were caused by an error in the Perlin noise generator. Specifically, the hilliness of the terrain (the "terrain scale") was controlled by a noise map. The reciprocal of the value of this noise was then used as the intensity of a gradient applied to the terrain. Because the reciprocal is used, flatter terrain is caused by lower values (where the terrain bias gradient drops off faster), and hillier terrain is caused by higher values. Because the reciprocals of small negative numbers are very large negative numbers, the terrain abruptly changes when zero is crossed, causing the gradient to bias higher elevations towards being ground, and lower elevations towards being air. Thus, when terrain scale becomes negative, terrain generates upside-down, generating monoliths. This was possible in early Alpha because the noise map that determined terrain scale could return a negative value.
+
+
+== Structure ==
+The monoliths would cause the terrain to abruptly generate up to the height limit, with natural grass block and ore generation. They could theoretically generate infinitely upward, being stopped only by the height limit, which at this point in the game's development, was 128 blocks. The area below the monoliths was completely hollow, except for water generating at sea level and a layer of bedrock at the bottom, making the normal terrain seem like inverse monoliths. It is possible to find small crevices in large monoliths, where normal terrain was generated.
+
+
+== History ==
+
+
+== Issues ==
+Monoliths are an issue, and due to their removal, can be considered already fixed.
+
+
+== Trivia ==
+By setting "Biome Scale Weight" to negative values in old customized worlds, they could generate from snapshot 14w17a for 1.8 to snapshot 18w05a for 1.13, but with the removal of the "Customized" world type altogether in snapshot 18w06a for 1.13, this can no longer be recreated.
+This works because terrain scale is determined by biomes in those versions, and those biome terrain scale values are affected overall by "biome scale weight".
+Monoliths could once again be generated from snapshot 20w28a for 1.16.2 to 1.17.1 using customized worlds by setting a biome's depth value to a negative number.
+It is not known if the reworked terrain generation in 1.18 is capable of harboring monoliths.
+Beginning in 1.19, it is once again possible to generate monoliths using customized worlds by multiplying the terrain density function by a negative number. The area underneath is no longer completely flooded with water, and now contains lava at the bottom. The remaining cavity is populated with aquifers, and some noise caves that intersect it invert, becoming solid stone and/or deepslate.
+In between Java Edition Infdev 20100624 and Java Edition Infdev 20100629 the bedrock layer directly underneath the monolith was raised to sea level, making the void easily accessible underneath the monolith.
+
+
+== Gallery ==

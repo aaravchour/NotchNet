@@ -1,0 +1,2 @@
+Note: The endspike' diameters can vary from 4 to 9 blocks. The heights can vary too from 6 blocks to 37 blocks.
+Note: Only the 2nd and 3rd smallest endspike have Iron Bars.

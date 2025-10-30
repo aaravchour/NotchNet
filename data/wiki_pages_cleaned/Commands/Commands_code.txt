@@ -1,0 +1,6 @@
+Used to access code connection.
+
+code
+
+Fails if there is no code connection installed.
+On success, code connection connected successfully.

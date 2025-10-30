@@ -1,0 +1,135 @@
+Since pistons were introduced in Beta 1.7, players have been experimenting with their potential uses. Below are some demonstrations and guides. The interest in pistons is their ability to manipulate the position of other blocks.
+Please however keep in mind that as of the "Better Together" update on console editions that "Quasi-connectivity" has been removed and its function replaced with the observer block. In doing so, many of the contraptions listed below might have been made non-functional.
+
+A flush door is a piston door that is completely hidden in the wall that it is in. Unfortunately, due to the lack of quasi-connectivity, the first two designs do not work in Bedrock Edition, though there are other designs that work.
+Pros:
+
+Easy to build.
+Simple.
+Requires few materials compared to hidden piston stairs.
+Easy to modify. For example, you can modify it to open with a self-destructing lever, or you can use mods like OpenComputers and use the computer to request a password to open the door.
+Cons:
+
+To blend in well into the environment, you need a stone or dirt wall. Stone walls can be found on the mountains biome (and its variants).
+If you need to build it on a plains biome or other flat terrain, you need to somehow blend the door on the environment. If this is impossible for some reason, the only choice is the hidden piston stairs.
+Players can accidentally mine the door, as no one knows there's a door on the wall.
+
+Many of the smallest double and triple extenders in all directions, including expandable ones. Note that the smallest horizontal triple extender is out of date.
+
+This video showcases a small tileable horizontal double extender in this design everything but the input is flush as well.
+
+Here we have a tileable ceiling double extender.
+
+This is a Double extender. This time its directed downward.
+
+Here we have a small Double extender, which is horizontal and directed upward.
+
+== Secret Entrances
+
+Below are examples of hidden piston stairs.
+
+Uses pistons and different repeater timings to create a wavy motion that can propel the player up a number of levels.
+
+Good combination of compact and fast.
+
+Stack up two horizontal pistons. Put a block next to the top one. Put a lever on this block. On Java Edition, you're done! On Bedrock Edition you need to add a piece of dust below the block, due to lack of quasiconnectivity.
+Another version of a 1x2 piston door can be seen here:
+
+Uses observer blocks for a design that can be easily scaled to any size up to 15 wide and 7 tall. The design is resource efficient enough to allow for the creation of larger doors even in survival mode.
+
+A lava door that allows for safe entry to rooms without the player getting burnt, uses pistons, redstone and pressure plates to accomplish this!
+
+This design is fully hidden, no pistons or redstone visible. Also, this design can be activated from both sides, and still, everything is hidden. The design isn't too complicated and doesn't take up a whole lot of resources either.
+
+The improved hidden piston door is a flush 2x2 door that can be opened through the use of a redstone torch on a wall. PearSquirrel improved this by compacting it and configuring it with pressure plates on the inside.
+
+This is the smallest possible 3x3 seamless piston door, made by SacredRedstone. It has a size of 56 blocks.
+
+This is a piston door that cannot be seen on the outside, and no wiring/pistons are exposed when the door is open. The video below includes a demo and how to build it.
+
+For a door that is completely hidden except the lever/pressure plate/button to power it, you can use a hidden door. A tutorial for one can be found below.
+
+If you really want it to be invisible, remove the button or lever, and instead carry a redstone torch. Place it where the button was when you are ready to enter. It stays open until you exit but hey, who carries those things around randomly anyway?  
+The button or lever can be hidden by putting it underground in a specific place, and it cannot be opened from the outside. An example of that is below.
+
+A redstone operated "Sticky Piston Draw Bridge" that can be used to cross a lava pit, it also acts as a moat as it can expand and contract to reveal or hide a secret path.
+
+By placing an upward-facing piston on top of a redstone torch, one can easily and effectively create a 1x1 table.
+
+An example of a piston table with chairs below!
+
+This makes a columns of blocks move in sync. Make two rows of a movable material (it cannot be longer than 13 blocks because the piston can move it only that far, but can be as tall as desired) and make your image or message built into it. Use pistons to move the blocks across, then back, the across the other way, back to the front/beginning.
+
+By placing a row of three cobble, then on top of it, cobblestone on the left one, and piston (facing right) on the middle one, nothing on the third one and a hole in the ground at the end, one could create a lava garbage disposal. After following those steps, put a lava bucket in the 2 block deep hole at the end, and place a button on the top left block. Unwanted blocks can be 'dropped', using the Q button (by default), onto the top middle block, then, after pushing the button the little blocks are pushed into the lava. This device does not destroy placed blocks, only dropped icons of blocks. While it does demonstrate concepts of using pistons, and looks cool, this device is not as practical as most other incinerators and garbage disposals, which are much simpler. For example, you could make a small pit of lava and drop items in it manually. After adding a trapdoor, it is a safe efficient way to dispose of unused items. You could also clear out a plus 2 blocks down. Put sand in the center place a cactus and trapdoor and one that if you fall in, you can save yourself.
+
+A dry dock can be made by reversing a Floodgate: instead of controlling the liquid, the player is controlling a solid. Place a piston facing upward in a 1 block deep pool of water and wire this piston to a lever. When a boat comes over the piston, flip the lever to raise the boat out of the water. This prevents the boat from being influenced by currents or being bumped.
+A dry dock with an water powered launcher feature: 
+
+As an upgrade, using soul sand for the parts that come in direct contact with the boat helps conserve its durability.
+
+This design has three settings - low-level, medium-level, high-level. You can choose a level range depending on how much levels you have. 
+
+Self-repairing structures use a piston cobblestone generator to endlessly create blocks that get pushed into place by pistons. The following video shows how to create a cobblestone generator, a simple clock and connect it all together to push cobblestone.
+
+The following video shows a bigger, self-generating floor. By removing some blocks the same machine can also generate a wall, as shown in the video.
+
+Self-repairing structures are not limited to cobblestone, however, it is by far the easiest material to manipulate as its generation can be fully automated.
+Pistons can push up to 12 blocks, which limits the scale of the structure. Pistons cannot push chests, note blocks, obsidian, bedrock, spawners, or furnaces, so these can be used to stop a line of blocks before the 12 block limit is reached.
+
+Moving vehicles are a result of Java Edition 1.8 adding the capability to slime blocks and pistons, allowing adjacent blocks to attach to the slime block.
+
+When triggered, the section of the floor is withdrawn from below the target. This design is best used inside to hide the pistons and circuitry.
+This can easily be added to a tunnel. Under the floor, dig out a 2-block deep pit for each of the trap blocks you want to move. Mine out two blocks horizontally from each space where the trap floor goes and put a sticky piston at the back of each hole. In front of the sticky piston, replace the floor blocks (make sure that the trap block is the same as the regular floor blocks so as not to cause suspicion. In the space beneath the floor can be a long drop, lava, dispensers filled with arrows. For simplicity, we chose lava.
+
+Triggering this is best done with a pressure plate, however, this can be difficult to hide from other players. You need to wire the pressure plate to the input of a NOT-gate and the pistons to the output. A delay can be helpful to ensure the player is over the right blocks when the trap triggers, which can be accomplished by putting in redstone repeaters. Stone pressure plates triggers only when players or mobs walk over, whereas wooden pressure plates trigger also for dropped items. Metal pressure plates act differently still.
+This trap is reset once the signal from the pressure plates is disabled. 
+Alternatively, the pistons could be connected to a lever. This requires input from the player, but can be activated when the target is above the trap, which removes the need for a delay.
+You could also use sand or gravel to make a refillable trap, as well. Make sure to hide the refilling station for secrecy!
+If you think this is bad, feel free to revert to the previous "version".
+
+Simple Floor Trap Tutorial!!
+
+Like disappearing floors, but in reverse, hidden bridges show an impassible obstacle (usually lava or a long fall) to hinder other players or kill mobs. These bridges can be activated by lever to allow a player to cross, then deactivated on the other side or by a set delay, done by placing redstone repeaters and setting the second redstone torch to any four positions (Right clicking it).
+Adding multiple repeaters can make a longer delay if necessary.
+
+When a piston moves a block into the same space, as the head of a mob or the player, the entity takes damage from suffocation. Tunnels work well for this type of trap because the area is small and can hide the components.
+In a tunnel, mine out the ceiling an additional two blocks high. At the top of every part of the tunnel, place a sticky piston, then replace the ceiling with the same material used in the tunnel. This trap can be triggered in a number of ways, the simplest being a pressure plate or lever. If you choose to use a lever, this trap can also act as a door, because aggressive non-baby cannot enter. For this example, we use a pressure plate.
+Since players are pushed into the nearest air pocket to avoid suffocation, the trigger should be in the middle of a series. To ensure the trap doesn't reset too early, add an RS-NOR latch that is either reset manually or by an automatic delay.
+You can also make a piston door, mine two blocks down and place a slab on the bottom block(s), so the thief or griefer who activates it can't escape, but can still be suffocated.
+
+One of the piston's most important uses is its ability to stop fluids. A floodgate is a device that does just that. Fluids don't destroy pressure plates, which makes them ideal for triggering this trap. In a tunnel, have a pressure plate activate an RS-NOR latch that blocks the player into that tunnel, which also minimizes other damage caused by the fluid. From the same output, have the floodgates open, dropping lava on the target.
+
+A redstone operated "Sticky Piston Hidden Room" that is ideally big enough to hold a large chest, furnace and a crafting table, easily hidden, but bulky, remove lever to leave just a bare wall!
+
+Easy To Follow Tutorial
+
+To see the uses of pistons in farming, see the respective farming tutorial.
+
+Pistons can be used to cover and uncover holes with light sources. This can be triggered by a lever or a button on a T flip-flop.
+Players tend to use glowstone for lighting, however, lava is another viable method. A lava light uses an opaque block to hold the source block of lava from the area it flows into (generally a glass tube). Since lava can flow, it can be a space-efficient light source. However, lava takes a long time to dissipate. If you need to flip a switch for immediate darkness, flowing lava lamps are not recommended. However, you may want to consider using a redstone lamp, as it tends to be more resource friendly.
+Since light levels affect mob spawning, light switches can activate and deactivate a mob farm.
+
+Caution: This video uses the piston mod, which was released before it was implemented in the game. They function identically though.
+
+Pistons can be used to locate caves through solid rock. In order to do so, one places the piston on the ground facing the ground, on the ceiling facing the ceiling, or facing straight into any wall. The piston is then powered. If the piston extends, it indicates an opening within 12 blocks. If it does not extend, then there are at least 12 blocks in that direction. This allows a player to find caves from nothing more than a 2x2 tunnel.
+The effectiveness of this technique is limited. Close caves have sounds (either mobs or ambient sounds) to indicate whether or not a cave is nearby. The limit of 12 blocks can also hinder this method.
+A variation can be used in a 1x2 passage, 
+
+is a video of it in action. The basic idea is the same except the torches are placed on the wall above the pistons, and you use a piston facing to each side not just one. There are two positions to place the torches: above the side-facing piston that touches the sticky piston, and above the forward facing piston. As they are wall mounted, placing the torch above the side-facing piston powers both side-facing pistons as well as the sticky piston, saving time.
+
+This small device is a shifter for minecart tracks.
+Using this device, you can choose to ride your minecart AFK or switch tracks as desired.
+Showcase: Track Switcher
+
+A chest with an opaque block above it cannot be opened. A sticky piston can be used to replace or remove that block, effectively locking the chest and its contents. Note that chests themselves cannot be moved by pistons. This can be combined with a combination lock for added security.
+There is a disadvantage, though, griefers or theifs may just break the block protecting the chest or the chest itself.
+
+Tutorial for a locking chest below!
+
+This video showcases an anvil setup for easy access. It is huge, but flush with the floor and easily usable.
+Anvil system
+
+This video showcases a Modular Button speedlock, in which one must press the buttons in a limited time and in a strange way to open the door.
+Button speedlock
+
+In this video, the creator shows an easy design for an upgrade system with various uses in minigames or adventure maps.

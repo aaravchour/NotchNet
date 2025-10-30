@@ -1,0 +1,25 @@
+Mud was a fluid in Minecraft Earth that slowed down entities.
+
+
+== Obtaining ==
+Mud was able to be picked up or deposited via a bucket. When picked up, the player obtained a bucket of mud. A bucket of mud was obtainable rarely from certain tappables, as well as from crafting using a bucket of water and 8 dirt blocks.
+
+
+== Behavior ==
+Using a bucket of mud on a solid block deposited a source block of mud that flowed outward by one block on all sides. Water was able to flow over mud, destroying the source block if it reached it.
+Muddy pigs were often seen playing or rolling in mud.
+If flowing lava came into contact with flowing mud, it created dirt.
+
+
+== Uses ==
+Mud could be used to make a muddy pig muddy again after the mud was washed off from the pig getting wet, and muddy pigs would seek out mud for this purpose. Mud also slowed down mobs and players that entered it. Mud, like other fluids, wasn't able to be destroyed by explosions. It flowed slowly, in a very similar manner to lava.
+
+
+== History ==
+
+
+== Trivia ==
+In Minecraft Live 2021, it was announced that mud would be added to the base game in The Wild Update, albeit as a solid block rather than a fluid.
+
+
+== Gallery ==

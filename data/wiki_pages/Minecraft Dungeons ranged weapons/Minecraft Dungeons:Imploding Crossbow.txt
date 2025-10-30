@@ -1,0 +1,76 @@
+The imploding crossbow is a unique exploding crossbow variant that can be found within the various missions of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Fiery Forge (Adventure)
+Underhalls (Adventure)
+??? (Adventure)
+Dingy Jungle (Adventure, DLC)
+Treetop Tangle (Adventure)
+Colossal Rampart (Adventure, DLC)
+Broken Citadel (Adventure, DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+
+Ancients
+Ancient Terror
+
+
+== Usage ==
+The imploding crossbow when combined with the dynamo enchantment is capable of massive damage an as a bonus one shot will not lose the effect like on an exploding crossbow or the fire bolt thrower. This attack can be pushed one step further with torment arrows. The torment arrows add their own damage (affected by dynamo) 3 times applied after the dynamo damage is the crossbow itself, the resulting damage is catastrophic and can one hit kill almost any enemy.
+
+
+=== Properties ===
+X ranged damage
+Explodes on impact
+Pulls in enemies (Gravity tier I)
+
+
+=== Stats ===
+Multiplier: 1.2
+Quiver: 20
+Fire Rate: 1 shot per second
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Imploding Crossbow" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===

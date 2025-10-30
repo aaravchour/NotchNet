@@ -1,0 +1,2 @@
+This file represents the Grass Block as it was at a particular point in the game. It should be used in areas such as history sections where the file should not change to match the latest version of the game. Do not overwrite it with changes made in later versions of the game, instead upload it as a separate file and add it to the table below.
+For areas which should always show the latest version, use the redirect (File:Grass Block.png), which should be updated to point to the latest revision.

@@ -1,0 +1,20 @@
+The smiling creeper was a "hostile" mob present in the April Fool's Love and Hugs Update.
+
+
+== Spawn ==
+Smiling creepers spawn under normal creeper spawning conditions.
+
+
+== Behavior ==
+
+A smiling creeper behaved like a normal creeper, except that the explosion of a smiling creeper did not break blocks or cause damage. Instead, the smiling creeper dropped poppies that the player could not pick up.
+
+
+== Data values ==
+ID
+
+
+== History ==
+
+
+== Gallery ==

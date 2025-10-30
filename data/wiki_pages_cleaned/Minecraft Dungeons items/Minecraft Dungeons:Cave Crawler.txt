@@ -1,0 +1,24 @@
+The cave crawler is a unique variant of spelunker armor that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+Redstone Mines
+Cacti Canyon
+Lost Settlement (DLC)
+Windswept Peaks (Adventure, DLC)
+The Stronghold (DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Haunted Caller
+
++X health
++50% artifact damage
++20% weapon damage boost aura
+Gives player a pet bat
+
+Issues relating to "Cave Crawler" are maintained on the bug tracker. Report issues there.

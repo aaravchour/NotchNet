@@ -1,0 +1,13 @@
+A skeleton wolf was a type of wolf that had a skeletal texture, found only in Minecraft Earth.
+
+Skeleton wolves resembled a skeletal form of normal wolves. Like normal wolves, their eyes turned red upon becoming hostile.
+
+Similar to wolves, skeleton wolves had the same AI behavior. They wandered aimlessly, avoiding lava and cliffs high enough to cause fall damage. However, they weren't tameable, were hostile, and were able to howl. If a skeleton wolf howled, nearby skeleton-themed mobs gained a damage boost effect, but the howling wolf wasn't affected, although it could've been affected by another skeleton wolf. Additionally, skeleton wolves did not attack skeletons. Their melee attacks dealt 4 and they sunk in water, just like other undead mobs.
+
+Skeleton wolves were a rare mob drop found in stone tappables, with a low 0.2% chance of obtaining it.
+
+When killed, an adult skeleton wolf dropped:
+
+1-2 Bone
+
+In the biome category of the journal, it said that they spawned in the desert.

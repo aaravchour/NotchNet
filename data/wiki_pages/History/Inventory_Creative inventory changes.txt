@@ -1,0 +1,86 @@
+This page describes the history of the layout and availablity of blocks and items in the Creative Inventory.
+
+
+== Java Edition ==
+
+
+=== 22w42a bug fixes ===
+In 22w42a, with the overhaul of the Creative inventory, numerous "bugs" were fixed. The list of bug reports that were resolved with the changes in 22w42a are as follows below:
+
+Moved netherite ingot to come after netherite scrap in the Creative inventory instead of before.
+Grouped nether wart blocks to be right after leaves in the Natural Blocks tab.
+Grouped torches and soul torches together in the Functional Blocks tab.
+Grouped obsidian and crying obsidian together in the Natural Blocks tab.
+Grouped polished blackstone and basalt with other polished blocks in the Building Blocks tab.
+Grouped shroomlight and nether wart blocks together in the Natural Blocks tab.
+Grouped blackstone stairs and slabs with other stone stairs and slabs in the Building Blocks tab.
+Grouped beds and respawn anchors together in the Functional Blocks tab.
+Grouped dripstone and pointed dripstone together in the Natural Blocks tab.
+Grouped moss block with dirt in the Natural Blocks tab.
+Grouped block of emerald with other ore blocks in the Building Blocks tab.
+Grouped frogspawn and turtle egg to be next to each other in the Natural Blocks tab.
+Grouped muddy mangrove roots to be near mud blocks in the Natural Blocks tab.
+
+
+=== 22w43a bug fixes ===
+Restored water bottle, awkward, thick, and mundane potion variants; of regular, splash, and lingering potions; to the Creative inventory; after their removal in 22w42a.
+Grouped vines with weeping vines and twisting vines together in the Natural Blocks tab.
+Moved netherrack to be next to nylium blocks in the Natural Blocks tab.
+Added milk buckets to the Consumables tabs in the Creative inventory.
+Added nether wart to the Natural Blocks tab in the Creative inventory.
+Added bone meal to the Tools & Utilities tab in the Creative inventory.
+
+
+== Bedrock Edition ==
+
+
+== Legacy Console Edition ==
+
+
+== New Nintendo 3DS Edition ==
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Notes ==
+
+
+== References ==

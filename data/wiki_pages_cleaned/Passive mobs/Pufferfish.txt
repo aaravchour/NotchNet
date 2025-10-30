@@ -1,0 +1,50 @@
+Pufferfish are bucketable aquatic mobs found in oceans. Although they never seek out mobs to attack, they will defensively inflate themselves when approached too closely by players, axolotls or non-aquatic mobs, dealing damage and inflicting Poison on them.
+
+In Java Edition, pufferfish spawn in groups of 1-3 in warm, lukewarm, and deep lukewarm ocean biomes, subject to fish spawning requirements. If trying to spawn inside a waterlogged solid block, the pufferfish uses the bigger "puffed" size to determine if it collides with anything solid.
+In Bedrock Edition, fish spawn underwater at around 1232 blocks away from the player in groups of 35 in warm ocean biomes, and only on the surface; that is, there must not be a spawnable block above the spawn location with a non-solid block on top. They are considerably rarer than tropical fish, with only 15 of fish groups or 29 individual fish (within the warm ocean biome) spawning as pufferfish.
+
+Pufferfish drop 1 of their item form when killed: 
+
+1 pufferfish, unaffected by Looting.
+1 bone meal (5% chance)
+1-2 bones (25% chance)
+13 when killed by a player or a tamed wolf.
+
+Pufferfish inflate themselves when approached by the player, most mobs, and armor stands.
+The player may collect a fish by using a water bucket on it, giving the player a bucket of pufferfish. Fish placed with buckets do not despawn naturally. When that fish bucket is used against a block, it empties the bucket, placing water with that fish swimming in it. An empty bucket may be used as well.
+Unlike other fish, pufferfish don't swim in schools.
+
+Like other fish, pufferfish cannot survive out of water. Outside of water, they flop around like guardians for a while until they start suffocating, and then die like squid. In Bedrock Edition they rotate when flopping. Fish cannot swim or breathe in cauldron water.
+All fish are vulnerable to weapons that have the Impaling enchantment, which also affects squid, turtles, guardians, elder guardians, and dolphins.
+
+A pufferfish inflates when approached by a player in Survival or Adventure mode, a drowned, an axolotl, or any non-water mob within a 555 volume around the fish, going from unpuffed, then semi-puffed, to fully puffed. Pufferfish are technically passive mobs but going near one when semi-puffed or fully puffed inflicts the player/mob with three or six seconds of Poison based on the inflation level, and touching one in its puffed or semi-puffed form deals damage separate from the Poison. 
+Pufferfish also instantly inflate to their fullest form after taking any kind of damage. After inflating, they slowly deflate to their normal shape as long as a threat is out of range. If the player/mob leaves the radius while the pufferfish is in its semi-puffed stage, it deflates back to normal.  
+Undead mobs are unaffected by the Poison effect but still take damage when they come into contact with pufferfish.
+A pufferfish inflicting damage to a mob other than creeper and ghast via touching provokes that mob to retaliate.
+In Peaceful difficulty, pufferfish do not inflict damage or Poison to player.
+
+Java Edition:
+Pufferfish use the Friendly Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Pufferfish have entity data associated with them that contains various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+Issues relating to "Pufferfish" are maintained on the bug tracker. Report issues there.
+
+In real life, pufferfish use their spikes for intimidation purposes and not to inject venom. Their flesh is toxic, which is reflected accurately in-game.
+Pufferfish's damage and Poison time are directly related to its current PuffState data value, which can be changed using the /data command.
+There are three textures for the three different PuffState data values in Minecraft. A PuffState value greater than 2 does not visually increase the pufferfish size, but does create a bigger shadow on the ground. All sizes of pufferfish textures are contained in the same texture file.
+
+Cod
+Salmon
+Tropical Fish

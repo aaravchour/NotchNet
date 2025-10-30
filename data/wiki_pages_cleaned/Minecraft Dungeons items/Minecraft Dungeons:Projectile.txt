@@ -1,0 +1,3 @@
+The term projectile refers to a type of non-attackable entity in Minecraft Dungeons that is are launched, shot, or thrown by mobs and heroes in some way or form.
+
+Blue nethershroom can appear as individual features in the Warped Forest.

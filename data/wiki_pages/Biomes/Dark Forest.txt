@@ -1,0 +1,93 @@
+A dark forest is a forested biome. It is known for its thick, dense leaf canopies that block light sufficiently to allow hostile mobs to spawn during the daytime.
+
+
+== Description ==
+Dark forest is almost exactly the same as the regular forest biome, except that the trees generated are different. Dark forests feature a much higher density in trees compared to other forest biomes, which often times block direct views of the sky entirely. Oak, dark oak, and sometimes birch trees generate in these biomes; it is the only place where dark oak trees naturally generate. Beehives are not generated with trees. Additionally, both types of huge mushrooms generate among the trees, though the red variants are more common.  Unlike regular forests, wolves do not spawn in dark forests.
+Unique to dark forests are woodland mansions, enormous dungeon-like structures that rarely generate within the trees. Woodland mansions are home to the dangerous illager mobs and are one of the only places where said mobs spawn. Mansions contain various rooms and valuable loot for the player to plunder.
+Although players are unlikely to run out of wood in dark forests, survival can still be more difficult compared to other forest biomes. The dense leaf canopy can diffuse skylight sufficiently for hostile mobs to spawn during the day in some spots. Additionally, hostile mobs can spawn atop huge mushrooms and suddenly fall near to the player. Woodland mansions are dangerous to explore without adequate preparation, due to their large size and the difficult Illager and other hostile mobs inside. The high density of trees can easily lead to players getting lost unless trails are marked using torches or other distinct markers. Using flint and steel in these biomes can help to clear out some trees due to their flammability.
+Dark forests generate in areas with very high humidity values and are usually bordered by birch forests and old growth taigas, but can also border jungles. Due to their high humidity value, dark forests are almost guaranteed to have lush caves generate below them.
+The following mobs are naturally spawned here：
+
+
+== Sounds ==
+
+
+=== Music ===
+These music tracks play while the player is in the Dark Forest.
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Forest
+Birch Forest
+Jungle
+
+
+== References ==
+
+
+== External Links ==
+Around the Block: Dark Forest – Minecraft.net on June 17, 2021

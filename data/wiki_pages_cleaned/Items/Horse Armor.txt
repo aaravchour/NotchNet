@@ -1,0 +1,45 @@
+A horse armor is a special type of armor that can be given to a horse to wear.
+
+Only leather horse armor can be crafted; other horse armor can be obtained only from chest loot from some generated structures.
+
+Expert-level leatherworker villagers sell leather horse armor for 6 emeralds as part of their trade.
+
+Only normal adult horses can wear armor; foals, donkeys, mules, and undead variants such as skeleton horses and zombie horses cannot be equipped with armor.
+
+Horse armor has leather, iron, gold, copper and diamond variants. However, horse armor does not have netherite or chainmail variants.
+
+Horse armor can be equipped to horses either by manually placing it in its respective slot by pressing E while riding the horse (), or by right-clicking the horse with it.
+There is a gradual increase in the defense given from a horse wearing the different types of armor. Note that golden horse armor provides more protection than iron horse armor, whereas the opposite is true for player armor.
+
+When a horse dies while equipped with any horse armor, it drops its normal loot, saddle (if it had one), and the horse armor.
+Leather horse armor protects horses from freezing in powder snow, but it does not negate other powder snow effects (e.g., falling through, inability to jump).
+
+Unlike player armor, horse armor does not have durability. This means a single horse armor can be used infinitely unless destroyed.
+
+Unlike player armor, horse armor cannot be enchanted in survival mode. However, in Java Edition Creative mode, horse armor can be used with an anvil to enchant with Depth Strider, Thorns, Respiration, Feather Falling, and Curse of vanishing. Other enchantments can be applied, but they have no effect.
+
+Leather horse armor can be dyed 12,326,391 different colors (using lone dyes or dye combinations) and put onto a horse to display that color. These changes can be reverted by using a filled cauldron with dyed leather horse armor.
+
+Piglins are attracted to golden horse armor and run toward any golden horse armor on the ground, inspecting it for 6 to 8 seconds before putting it in their inventory.
+
+Iron horse armor appears silver metallic gray, with some chainmail-like material covering the neck, and a black banner cover for the saddle with red stripes.
+Golden horse armor appears bright golden yellow, with a maroon red [banner cover for the saddle with silver gray stripes on it.
+Diamond horse armor appears bright light blue, with a mustard yellow [banner cover for the saddle with gray stripes on it.
+Copper horse armor appears bright copper orange, with an oxidized copper green [banner cover for the saddle with gray stripes on it.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+When leather horse armor is dyed, it has the following NBT:
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Item format.
+
+Issues relating to "Horse Armor" are maintained on the bug tracker. Report issues there.

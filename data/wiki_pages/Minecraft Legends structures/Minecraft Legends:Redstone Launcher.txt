@@ -1,0 +1,21 @@
+A redstone launcher is an explosive defence that requires manual firing in Minecraft Legends.
+
+
+== Obtaining ==
+The redstone launcher can be placed with a build allay, which will cost:
+
+Campaign: 50 wood, 100 stone and 100 redstone.
+PVP: 600 stone and 400 redstone.
+
+
+== Usage ==
+The redstone launcher is able to launch explosives at targeted areas. The target can be moved by interacting with the launcher and using the camera control. After firing, the redstone launcher have a cooldown time to reload.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Gallery ==

@@ -1,0 +1,94 @@
+A 1-high circuit is a redstone circuit which is exactly one block high. This limits the redstone components which can be used primarily to pistons and blocks of redstone, with the occasional lever, button, dispenser, etc.
+1-high circuits cannot use redstone components which require support blocks, including redstone dust, redstone repeaters, redstone comparators, etc. Redstone torches can be attached to the side of a block, but there's no way to power the block it's attached to in a 1-high circuit except for buttons or levers, limiting the use of redstone torches to the beginning of a player-activated circuit (or activated by arrows hitting a wooden button).
+1-high circuits currently have limited practical use. The fact that pistons can be activated by quasi-connectivity from diagonally above means that most 1-high circuits cannot be stacked on top of each other, but need a 1-block gap in between them -- and in a 2-high space, regular circuits with dust, repeaters, etc. are usually more horizontally compact (smaller footprints). 1-high circuits can be useful, however, underwater (due more to the components used than the height), or where do you do not want to waste vertical space on support blocks (such as in a multi-floor mob system).
+
+
+== BUD circuit ==
+1-High Wall Stuck-Piston BUD
+
+2×9×1 (18 block volume), 1-high, flat, flush
+…
+Earliest Known Publication: 21 June 2013
+
+1-High Wall Stuck-Piston BUD
+
+3×7×1 (21 block volume), 1-high, flat, flush
+…
+Earliest Known Publication: 29 March 2013
+
+1-High Wall Stuck-Piston BUD
+
+5×7×1 (35 block volume), 1-high, flat, flush
+…
+Earliest Known Publication: 21 June 2013
+
+
+== Clock circuit ==
+…
+
+
+== Logic circuit ==
+…
+
+
+== Memory circuit ==
+ 1-High SR Latch
+
+1×4×1, 1-high, 1-wide, instant (reset only)
+circuit delay: 1.5 ticks (set) and 0 ticks (reset)
+Unlike most other 1-high circuits which use sticky pistons, this circuit requires regular pistons.
+
+ 1-High RS NOR Latch
+
+2×4×1, 1-high, instant (reset only)
+circuit delay: 1.5 ticks (rising edge) and 0 ticks (falling edge)
+Earliest Known Publication: 6 January 2013
+
+ 1-High Dropped-Block T Flip-Flop
+
+3×8×1 (24 block volume), 1-high
+circuit delay: 1.5 ticks
+Uses a 0.5-tick rising edge detector to force a sticky piston to drop its block at the output.
+
+
+== Pulse circuit ==
+1-High Pulse Generator
+
+2×5×1 (10 block volume), 1-high
+circuit delay: 2.5 ticks, output pulse: 0.5 ticks
+Earliest Known Publication: 5 January 2013
+
+1-High Rising-Edge Detector
+
+3×7×1 (21 block volume), 1-high
+circuit delay: 1.5 ticks, output pulse: 0.5 ticks
+Earliest Known Publication: 5 January 2013
+
+1-High Falling-Edge Detector
+
+2×4×1 (8 block volume), 1-high
+circuit delay: 1.5 ticks, output pulse: 0.5 ticks
+Earliest Known Publication: 5 January 2013
+
+1-High Dual-Edge Detector
+
+4×4×1 (16 block volume), 1-high
+circuit delay: 1.5 ticks, output pulse: 0.5 ticks (rising edge) or 1.5 ticks (falling edge)
+Earliest Known Publication: 5 January 2013
+
+
+== Transmission circuit ==
+Basic 1-High Transmission
+
+1×N×1, 1-high, 1-wide, instant (falling edge only)
+circuit delay: 1.5 ticks per 3 blocks (rising edge) and 0 ticks (falling edge)
+
+Fast 1-High Transmission
+
+2×N×1, 1-high
+circuit delay: 1.5 ticks (rising edge) and 0 ticks (falling edge)
+This circuit uses the instant falling edge behavior of a secondary line to activate the primary line all at once. This circuit inverts the input, so an additional inverter will be required if this is not desired.
+Earliest Known Publication: 2 August 2013
+
+
+== References ==

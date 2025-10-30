@@ -1,0 +1,25 @@
+A redstone bug was a hostile mob present in Java Edition 2.0, similar in form to a silverfish.
+
+
+== Spawn ==
+Redstone bugs have a 1% chance to spawn when a redstone wire increases in strength. The chance increases by 5% for every redstone bug in a 7x7x7 area around the initial piece of redstone. The Color value of the bug can reach from 33292288 to 66846720.
+
+
+== Behavior ==
+Redstone bugs, effectively having been reskinned silverfish, shared all of their behavior.
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+=== Entity data ===
+Redstone bugs used the ID of silverfish, different from them only by a newly-added Color NBT, which could have any color applied to it via editing. The first byte defines the alpha value and the other three the rgb color.
+
+
+== History ==
+
+
+== Gallery ==

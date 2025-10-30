@@ -1,0 +1,25 @@
+Gets pixels for a specific chunk.
+
+Syntax
+getchunkdata <dimension: string> <chunkX: int> <chunkZ: int> <height: int>
+Arguments
+dimension: string
+The dimension name.
+chunkX: int
+Specifies the coordinates of the chunk in X-axis.
+chunkZ: int
+Specifies the coordinates of the chunk in Z-axis.
+height: int
+Specifies the height of the chunk.
+Result
+returns data about each level in a chunk. example usage
+getchunkdata overworld -1 1 12
+Examples
+AAAAAA*255
+YGBgAQ*170,AAAAAA,0*13,171*4,0*8,T09PAA,171*1,200FAQ,171*1,0*9,cHBwAQ,171*4,0*10,171*2,YGBgAA,216,0*10,236,216,0,216,0*2
+
+This information appears to be some type of dictionary encoding
+e.g. PmZ7ZA,SHePZA,0,1,0,1,0*249
+the first two entries are different blocks, then the entry at position 0 is repeated, then the item at position 1, then the 0th item again, then the 1th item again, then the 0th item and then 249 other 0th items. This seems to work to bring the total count to 256 (16 x 16 layer of a chunk)
+the last two values of the 6 digit block identifier are the height of the block in base64 encoding.
+the data returned is the block id and height of the first available block in a position below the given y-value. e.g. it gives data that is essentially a height map with block ids for a given chunk below the provided y-value

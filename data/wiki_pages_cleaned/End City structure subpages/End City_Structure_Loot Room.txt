@@ -1,0 +1,4 @@
+Loot rooms consist of two chests with valuable loot; some rooms may have an ender chest as well as a normal chest.
+
+If the block is Green Wool the stair next to it is flipped upside-down and if it's Red Wool, then it's not.
+DON'T add any wool to the structure.

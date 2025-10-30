@@ -1,0 +1,45 @@
+A mushroom is a variety of fungus that grows and spreads in dark areas. Mushrooms generate as red or brown in color, and small or huge in size.
+
+Mushrooms can be instantly mined with anything. Mining a huge mushroom block drops up to 2 mushrooms of the same color. Fortune does not affect the drop rate of mushrooms in any form.
+A mushroom also breaks instantly and drops as an item if:
+
+the block below it is moved or destroyed;
+a fluid flows over it;
+a block next to it changes state, but only when it is not on podzol, mycelium, or nylium and light level is 13 or higher.
+
+Mushrooms naturally generate in poorly lit areas (light level of 12 or less). If this condition is met, each chunk has 18 (12.5%) chance to generate red mushroom and 14 (25.0%) chance to generate brown mushroom, in the form of random patches.
+Mushrooms also generate on surface in swamp, old growth taiga, mushroom fields biomes, and anywhere in the Nether. Unlike most plants, they seem to be able to generate on top of nearly any block types.
+In Java Edition, they are commonly found in patches on the bedrock ceiling of the Nether, and are the only blocks that can generate there. 
+Witch huts have a flower pot with a red mushroom inside. Mushrooms are also supposed to generate inside "mushroom farm" rooms in woodland mansions, although in Java Edition they do not generate there due to a bug.
+
+In Bedrock Edition, fallen oak, birch, spruce, and jungle trees have 02 mushrooms generated on them.
+
+Shearing a red or brown mooshroom drops 5 mushrooms of the corresponding color and turns it into a normal cow.
+
+Mushrooms can be bought from wandering trader for an emerald.
+
+Mushrooms can be planted and grown on blocks that have a full top surface in light levels below 13 and not directly underneath the sky. They cannot be planted on the top surfaces of slabs or stairs. For more information, see Opacity/Placement. If planted on mycelium, podzol, or nylium, they can stay planted in any light level, including be planted and remain under light from sky above. Both brown and red mushrooms grow at the same rate regardless of the light level.
+
+When bone meal is applied to a mushroom, the mushroom has a chance to grow into a huge mushroom of the same color, provided that it is on a proper block (grass block, dirt, coarse dirt, rooted dirt, or moss block at a light level of 12 or below; on podzol, mycelium, or nylium at any light level) and has enough space (778).
+
+When receiving a random tick, a mushroom has a chance of spreading to a nearby block (including even above and below diagonally) if there are fewer than five mushrooms of the same type in a 993 volume around the original mushroom.
+
+Brown mushrooms emit a barely visible light level of 1. However, they do not emit light in flower pots.
+
+Either type of mushroom can be planted in a flower pot.
+
+Placing a mushroom into a composter has a 65% chance of raising the compost level by 1.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Mushroom" are maintained on the bug tracker. Report issues there.
+
+The red mushroom is based on the poisonous Amanita muscaria (fly agaric), while the brown mushroom is based on the edible Boletus edulis (penny bun).
+
+Taking Inventory: Mushroom  Minecraft.net on December 21, 2018

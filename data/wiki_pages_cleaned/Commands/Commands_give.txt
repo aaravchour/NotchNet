@@ -1,0 +1,50 @@
+Gives an item to one or more players.
+
+Java Edition
+give <target> <item> [<count>]
+Bedrock Edition
+give <player: target> <itemName: Item> [amount: int] [data: int] [components: json]
+
+JE: <targets>: entityBE: player: target: CommandSelector<Player>
+
+Specifies the target(s) to give item(s) to.
+Must be a player name, a target selector or a UUID.  And the target selector must/should be of player type.
+JE: <item>: item_stackBE: itemName: Item: enum
+
+Specifies the item to give.
+In Java Edition, it must be in the format of item_id{data_tags}(accepts item and block tags), in which data tags can be omitted when they are not needed. In Bedrock Edition, it must be an item id or a block id for which items exist.
+JE: <count>: integerBE: amount: int: int
+
+Specifies the number of items to give. If not specified, defaults to 1.
+Must be a  32-bit integer number. In Java Edition, it must be between 1 and 2147483647 (inclusive). In Bedrock Edition, it should be between 1 and 32767 (inclusive).
+BE: data: int: int 
+
+Specifies the item data value of the given item(s). Values that are invalid for the specified item id revert to 0. If not specified, defaults to 0.
+Must be a  32-bit integer number. It should be between 0 and 32767 (inclusive).
+BE: components: json: Json::Value 
+
+Specifies the item components of the given item(s). Like data tags but supports only minecraft:can_place_on, minecraft:can_destroy, minecraft:item_lock, and minecraft:keep_on_death functions (see Examples).
+Must be a JSON Object.
+
+On success, summons the specified item(s) at the location(s) of the target(s). If <targets> or player: target resolves to multiple targets, each receives the specified number of items. If there is room in the player's inventory, or the player is in creative mode, the item entity summoned is "fake", with its PickupDelay tag set to 32767 and its Age tag set to 5999, which would normally make it impossible to pick up the item, and have it despawn within a tick. If the player's inventory is full and they are not in creative mode, the item entity's Owner tag is set to the target and its PickupDelay tag set to 0 so that it can be picked up only by that player until within 10 seconds of it despawning, at which time other players may pick it up.
+
+To give the nearest player a diamond sword with Lore that says "A legendary weapon":
+/give @p minecraft:diamond_sword{display:{Lore:["\"A legendary weapon\""]}} 1
+To give all players a potion that has the Night Vision effect:
+/give @a potion{Potion:"minecraft:night_vision"} 1
+/give @a potion 1 5
+To give a random player a Sharpness X diamond sword:
+/give @r diamond_sword{Enchantments:[{id:"minecraft:sharpness",lvl:10}]} 1
+To give the player executing the command a block of diamond that can be placed on dirt and can break quartz blocks, even in adventure mode.
+/give @s minecraft:diamond_block{CanPlaceOn:["minecraft:dirt"],CanDestroy:["minecraft:quartz_block"]} 1
+/give @s diamond_block 1 0 {"minecraft:can_place_on":{"blocks":["dirt"]},"minecraft:can_destroy":{"blocks":["quartz_block"]}} 
+To give all players a level 2 Wither Potion with Knockback X:
+/give @a potion{Enchantments:[{id:"minecraft:knockback",lvl:10}],CustomPotionEffects:[{Id:20,Amplifier:1}]} 1
+To give the nearest player a diamond sword that will not be dropped on death:
+/give @p diamond_sword 1 0 {"keep_on_death": {}}
+To give all players a stick that cannot be dropped or crafted with:
+/give @a stick 1 0 {"item_lock": {"mode": "lock_in_inventory"}}
+To give a random player a wooden shovel that cannot be moved from its slot, dropped, or crafted with:
+/give @r wooden_shovel 1 0 {"item_lock": {"mode": "lock_in_slot"}}
+
+/summon  summon any entity at any location

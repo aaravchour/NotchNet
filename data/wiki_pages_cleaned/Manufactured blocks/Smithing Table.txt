@@ -1,0 +1,52 @@
+A smithing table is a utility block used to alter tools and armor at the cost of a smithing template and the appropriate material, a process that keeps all enchantments. This is the only way to obtain trimmed armor or upgrade diamond equipment with netherite. It also serves as a toolsmith's job site block.
+
+Smithing tables can be obtained from a village or crafting.
+
+Smithing tables can spawn naturally inside toolsmith houses in villages. They can also spawn in trail ruins.
+
+Smithing tables can be broken using any tool or by hand, but an axe is fastest.
+
+While upgrading, the newly crafted netherite gear retains the enchantments, prior work penalty and number of durability points lost (instead of the remaining durability) from the diamond gear.
+Upgrading gear does not remove incompatible enchantments, such as multiple different Protection enchantments.
+Unlike anvils, using a smithing table to upgrade diamond gear to netherite gear costs no experience and does not increase the prior work penalty.
+Smithing table recipes use the data pack system.
+
+If a village contains a smithing table that has not been claimed by a villager, any villager who hasn't already chosen a job site block has a chance to change their profession to toolsmith. If a villager with this profession has already been traded with, it cannot change jobs.
+
+Trimming requires an armor piece, a smithing template and the mineral/crystal for the color the player desires (listed below).
+
+Amethyst Shard
+Copper Ingot
+Diamond
+Emerald
+Gold Ingot
+Iron Ingot
+Lapis Lazuli
+Nether Quartz
+Netherite Ingot
+Redstone Dust
+Resin Brick
+After trimming, the armor will have the pattern according to the smithing templates. The color of the pattern is determined by the materials color.
+
+Smithing tables can be used as fuel in furnaces, smelting 1.5 items per block.
+
+Smithing tables can be placed under note blocks to produce "bass" sounds.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Smithing Table" are maintained on the bug tracker. Report issues there.
+
+Like with the crafting table, none of the tools seen on the side of the smithing table are real tools in-game.
+Even though the armor stand does not show arms when placed in Java Edition, the armor stand in the GUI has arms.
+
+Block of the Month: Smithing Table  Minecraft.net on August 24, 2023

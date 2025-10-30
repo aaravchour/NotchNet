@@ -1,0 +1,41 @@
+The calico cat is a cosmetic pet mob that can be found in the upcoming Fauna Faire Seasonal Adventure.
+
+
+== Appearance ==
+The calico cat is a variant of the cat possessing three fur colors on its body, namely white, light brown, and dark brown. It also has different colored eyes, one yellow and one blue and appears to have a red collar on its neck.
+
+
+== Obtaining ==
+Adventure Hub
+
+
+== Behavior ==
+The calico cat follows heroes around. It is purely cosmetic and does not attack any mobs.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Gallery ==
+
+
+=== Renders ===
+
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+
+
+== References ==

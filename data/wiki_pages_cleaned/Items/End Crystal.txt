@@ -1,0 +1,43 @@
+An end crystal is an entity that can be crafted or found on the End's main island, where it heals the ender dragon. It can only be placed on obsidian or bedrock and explodes instantly when attacked or damaged in most ways.
+
+An end crystal is found atop each obsidian pillar on the central island of the End, each on top of a piece of bedrock. There are 10 end crystals in total, of which two are protected in "cages" of iron bars. All end crystals respawn one after another as the respawning process of the ender dragon starts.
+
+Their primary purpose is to recharge the health of the ender dragon, who gains a charge from the nearest crystal within a cuboid extending 32 blocks from the dragon in all directions. The dragon is healed 1 each half-second. If multiple ender dragons are spawned, an end crystal can affect multiple dragons at the same time. The healing beam is neither obstructed nor is its power diminished by entities or blocks.
+
+As items, end crystals may be placed on bedrock and obsidian, if the two blocks above the bedrock or obsidian block are air or replaceable blocks and no other entities intersect the area. When an end crystal is placed in the End, a fire block is created at the end crystal location. If four are placed on the end exit portal, one on each of the flat sides, the crystals respawn the original end crystals on the obsidian pillars, as well as resurrect the dragon itself, before exploding. The top of each pillar also explodes, destroying any player-placed blocks. This happens even if TNT explosions are turned off in settings.
+If the exit portal is ever broken for any reason, end crystals can still be placed on obsidian blocks with the same location as the exit portal.
+
+End crystals explode when attacked or damaged in most ways, even by attacks that normally do zero damage. They are not affected by exploding fireworks, and if damaged by an explosion, they disappear instead of exploding. The end crystal's explosion has an explosion strength of 6, the same as a charged creeper. The end crystal's fire often remains after the crystal explodes. Any ender dragon charging from the crystal when it is destroyed takes 10 damage.
+In Java Edition, an end crystal's explosion can be blocked by a shield.
+Although an ender dragon damages most blocks and entities in its path, it cannot destroy end crystals simply by going near them.
+Placing water on the end crystal will neutralize the blast effect, damage and knockback.
+End crystals with obsidian or bedrock below them will not damage blocks below them when they explode.
+In Bedrock Edition, having the game rule mobGriefing to false will prevent the End Crystal from destroying any blocks. While in Java Edition the same game rule will not prevent the End Crystal from destroying any blocks.
+
+The end crystal naturally shoots a beam at the ender dragon and heals it when the dragon is within range. This beam can be manually created using the command /data merge entity @e[type=end_crystal,limit=1] {BeamTarget:{X:0, Y:0, Z:0}} or /data merge entity @e[type=end_crystal,limit=1] {beam_target:[I;0,0,0]} for versions 1.20.5 and onwards. The beam can be pointed in any direction, allowing it to mark locations or objects.
+
+  
+End crystals are of two kinds: the ones with a base beneath them are created either by game mechanism or by the /summon command; while the base-less ones are created by players by manually placing the crystal items on top of obsidian or bedrock.
+The base appears to be made of bedrock, with a crystal hovering over it. While in the End, a crystal continually generates fire at its current position, one block above the base (directly on top of the block the base is embedded in), replacing any other block at that location. This fire is capable of spreading.
+The end crystal entity is not solid and can be walked through freely. End crystals can be pushed by pistons, but they explode if moved while on fire. Because fire is checked only when an entity moves, end crystals do not normally take damage from their own fire unless moved.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+End crystals have entity data that define various properties of the entity.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+Issues relating to "End Crystal" are maintained on the bug tracker. Report issues there.
+
+According to Jeb, the reason behind the current crafting recipe using glass as opposed to chorus fruit or any materials introduced in 1.9 is as a means for players to craft end crystals in older worlds that the dragon has already been killed in.
+A historical rendition of the beacon block featured an animated entity within it, which resembled a yellow miniaturized end crystal. The bedrock platform of the end crystal entity would also render below the beacon, though this would normally be hidden within the block below.
+Using a piston to push an end crystal's fire into an end portal block deletes the end portal block. However, natural portal blocks regenerate if the end crystal is moved.

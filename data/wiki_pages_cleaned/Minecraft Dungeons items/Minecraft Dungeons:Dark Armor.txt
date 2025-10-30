@@ -1,0 +1,27 @@
+Dark armor is an armor set that can be found within the various missions of Minecraft Dungeons. The unique variant of dark armor is the titan's shroud. Another variant, with gold highlights, is worn by illager royal guards and tower guards.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty, the item is obtainable on unless stated otherwise.
+A   before a mission name indicates that the item is only obtainable in Daily Trials of that mission.
+
+Fiery Forge (Apocalypse)
+Underhalls (Apocalypse)
+Lost Settlement (Apocalypse, DLC)
+ Coral Rise (DLC)
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Grim Guardian
+
++X health
+35% damage reduction
++50% souls gathered
+
+In the game files, dark armor is referred to internally by the name DarkArmor.
+
+Issues relating to "Dark Armor" are maintained on the bug tracker. Report issues there.

@@ -1,0 +1,124 @@
+The tasty bone is an artifact that can be found within the various missions of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Creeper Woods
+Creepy Crypt
+Redstone Mines (Adventure)
+Dingy Jungle (DLC)
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant (Adventure)
+
+
+== Usage ==
+The tasty bone can be used to summon a wolf to fight alongside the hero.
+
+
+== Properties ==
+X summon damage
+30 second cooldown
+
+
+=== Stats ===
+The amount of summon damage dealt depends on the power level of the bone.
+
+
+== Wolf ==
+
+A wolf is a non-attackable mob that can be found within the various missions of Minecraft Dungeons.
+A pet wolf is a summonable pet that can be summoned within the various missions of Minecraft Dungeons.
+
+
+=== Appearance ===
+Wolves look like their Minecraft counterparts.
+
+
+=== Spawning ===
+Camp
+Creeper Woods (Ancient Hunts)
+
+
+=== Behavior ===
+Wolves seem to sit idly in position, being unable to be attacked. The wolf sitting next to the tower, is able to be interacted with, which provides the hero with the pet the dog achievement.
+Pet wolves follow the hero that summoned it and can be summoned repeatedly thirty seconds after the current summoned wolf has been defeated.
+
+Basic attack
+Pet wolves attack any hostile mob in sight by slightly leaning forwards to bite it.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Tasty Bone" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+The wolf sitting next to the tower is described in a Twitter post as being a polite pup, despite being an adult wolf.
+
+
+== Gallery ==
+
+
+=== Renders\Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

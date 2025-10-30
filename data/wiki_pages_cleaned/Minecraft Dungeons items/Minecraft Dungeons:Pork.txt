@@ -1,0 +1,7 @@
+Pork is a consumable food that can be found within the various missions of Minecraft Dungeons.
+
+Pork is mainly obtained by defeating mobs and opening chests. 
+The common Food Reserves armor enchantment has a chance to create pork, as well as other food items.
+Hoglins drop a large amount of pork when defeated.
+
+When consumed, pork heals 50% of the hero's max health over a period of ten seconds.

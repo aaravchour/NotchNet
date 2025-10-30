@@ -1,0 +1,12 @@
+This page documents the history of texture files used in Education Edition.
+
+This page will be created once Java Edition history of textures/Entities and its planned Bedrock Edition equivalent are considered sufficiently complete.
+Exclusive Entities:Minecraft Education history of textures/Exclusive Entities
+
+This page will be created once Java Edition history of textures/Particles and Bedrock Edition history of textures/Particles are considered sufficiently complete.
+
+This page will be created once Java Edition history of textures/Paintings and Bedrock Edition history of textures/Paintings are considered sufficiently complete.
+
+This page will be created once Java Edition history of textures/Effects and its planned Bedrock Edition equivalent are considered sufficiently complete.
+
+This page will be created once Java Edition history of textures/Map icons and its planned Bedrock Edition equivalent are considered sufficiently complete.

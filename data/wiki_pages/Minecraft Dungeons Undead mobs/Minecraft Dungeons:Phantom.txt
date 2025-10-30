@@ -1,0 +1,41 @@
+A phantom is a undead hostile mob that can be found within the various missions of Minecraft Dungeons.
+
+
+== Appearance ==
+
+
+== Spawning ==
+Phantoms are summoned at Night when a hero is defeated in multiplayer. Unlike their counterparts in the original game, phantoms are immune to all attacks and can be stopped only by reviving all defeated heroes and ending the night status.
+
+
+== Behavior ==
+Phantoms swoop down to heroes vertically instead of horizontally. They first start with one hero, then groups of them swoop on other heroes until all the heroes are defeated, or until the night ends due to all defeated heroes being revived. The first bite deals 8% of the hero's HP, 10% for the 2nd bite, 12% for the 3rd, and so on and the damage keeps increasing over time.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Trivia ==
+The attack and flying behavior of phantoms in Dungeons is similar various species of hawks in reality instead of the original game, which used the Ender dragon's behavior.
+For reasons unknown, the Phantom's wing texture has been flipped.
+
+
+== Gallery ==
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

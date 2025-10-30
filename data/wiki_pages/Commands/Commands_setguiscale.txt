@@ -1,0 +1,10 @@
+Sets the GUI scale for walking, jumping etc. It was removed and replaced by the setting for GUI scale in the Settings menu (or it was removed because the setting was already there making it obsolete).
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

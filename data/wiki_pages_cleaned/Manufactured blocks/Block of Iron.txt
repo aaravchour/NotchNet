@@ -1,0 +1,21 @@
+A block of iron is a precious metal block equivalent to nine iron ingots.
+
+Blocks of iron can be mined only with a stone pickaxe or better. If a block of iron is mined without the use of a pickaxe, it drops nothing.
+
+Blocks of iron can be used to store iron ingots in a compact fashion.
+
+Blocks of iron can be used to "power" a beacon. The beacon can be powered by a 33 square of iron blocks underneath it, and can optionally also include a 55, 77 and 99 layer in the shape of a pyramid under the original layer to increase the effects from the beacon. The layers do not have to be entirely blocks of iron, as they may also contain blocks of gold, blocks of diamond, blocks of netherite or blocks of emerald.
+
+Blocks of iron and pumpkins, carved pumpkins or jack o'lanterns are used to build iron golems. The pumpkin, carved pumpkin or jack o'lantern must be placed last, and the golem spawns immediately after placing it.
+
+Blocks of iron can be placed under note blocks to produce iron xylophone sounds.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Block of Iron" are maintained on the bug tracker. Report issues there.

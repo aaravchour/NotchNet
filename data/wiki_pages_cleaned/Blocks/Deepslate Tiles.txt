@@ -1,0 +1,20 @@
+Deepslate tiles are a decorative variant of deepslate.
+Cracked deepslate tiles are a cracked variant of deepslate.
+
+Deepslate tiles and cracked deepslate tiles generate naturally in ancient cities.
+
+Deepslate tiles can be obtained only by mining it with a pickaxe. When mined using any other tool, it drops nothing. Mining deepslate tiles takes longer than mining deepslate.
+
+Deepslate Tiles and its slab, stair and wall variants can also be obtained directly from stonecutting Deepslate Bricks or Cobbled Deepslate.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Deepslate Tiles" are maintained on the bug tracker. Report issues there.
+
+When originally added to the game, deepslate tiles did not have a crafting recipe. This was a mistake by developer Brandon Pearce.

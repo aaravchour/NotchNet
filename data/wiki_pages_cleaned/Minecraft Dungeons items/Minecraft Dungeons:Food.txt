@@ -1,0 +1,18 @@
+The term food refers to the edible items that can heal heroes over time when consumed. There are a total of eight food items in the game, including those in DLCs. All provide regeneration for a specified duration, with sweet berries also providing five seconds of swiftness.
+
+Apple, Bread, and Pork appears in the base game
+Melon appears in the Jungle Awakens DLC
+Cooked Salmon appears in the Creeping Winter DLC
+Sweet Berries appears in the Howling Peaks DLC
+Tropical Fish appears in the Hidden Depths DLC
+Chorus Fruit appears in the Echoing Void DLC
+Dried Kelp unused food item for the Hidden Depths DLC (likely replaced by the Tropical Fish)
+
+Apple (Restores 20% of the hero's max hp over three seconds)
+Bread (Restores 100% of the hero's max hp over thirty seconds)
+Pork (Restores 50% of the hero's hp over ten seconds)
+Melon (Restores 75% of the hero's max hp over fifteen seconds)
+Cooked Salmon (Restores 35% of the hero's max hp over eight seconds)
+Sweet Berries (Restores 20% of the hero's max hp over eight seconds and five seconds of swiftness)
+Tropical Fish (Restores 10% of the hero's oxygen and provides restores 20% heros hp over two seconds)
+Chorus Fruit (Restores 30% of the hero's hp over one second)

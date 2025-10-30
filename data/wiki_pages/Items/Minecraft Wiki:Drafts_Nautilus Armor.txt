@@ -1,0 +1,76 @@
+The nautilus armor is a special type of armor that can be worn by a nautilus or a zombie nautilus. They cannot be crafted and can only be obtained via treasure chests and ocean ruins.
+
+
+== Obtaining ==
+Nautilus Armor can be obtained via looting Buried Treasure and ocean ruins. They can also be obtained by shearing them off of a zombie nautilus jockey, if the zombie nautilus spawns armored.
+Copper nautilus armor does not oxidize, unlike most copper variants.
+
+
+=== Upgrading ===
+Like any diamond equipments, a diamond nautilus armor can be upgraded to a netherite nautilus armor via a netherite upgrade.
+
+Netherite Upgrade +Diamond Nautilus Armor +Netherite Ingot
+
+
+== Usage ==
+Tamed nautili and zombie nautili can wear nautilus armor, but baby nautili cannot be equipped with nautilus armor.
+
+
+=== Types ===
+Nautilus armor has iron, gold, copper, diamond and netherite variants. However, nautilus armor does not have a chainmail variant.
+
+
+=== Protection ===
+Nautilus armor can be equipped to nautiluses by right-clicking the nautilus with it.
+There is a gradual increase in the defense given from a nautilus wearing the different types of armor. Note that golden nautilus armor provides more protection than iron nautilus armor, whereas the opposite is true for player armor.
+
+When a nautilus dies while equipped with any nautilus armor tier, it drops its normal loot, saddle (if it had one), and the nautilus armor.
+
+
+=== Durability ===
+Unlike player armor, nautilus armor does not have durability. This means a single nautilus armor can be used infinitely unless destroyed.
+
+
+=== Flammability ===
+Unlike all nautilus armor tiers, netherite nautilus armor is inflammable. So it floats in lava.
+
+
+=== Piglins ===
+Piglins are attracted to golden nautilus armor and run toward any golden nautilus armor on the ground, inspecting it for 6 to 8 seconds before putting it in their inventory.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Nautilus Armor" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Item sprites ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Other ===

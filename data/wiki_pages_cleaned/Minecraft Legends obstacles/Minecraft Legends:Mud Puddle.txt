@@ -1,0 +1,7 @@
+A mud puddle is an obstacle that slows down entities within Minecraft Legends.
+
+Mud puddles can be found in meadow and forest biomes.
+
+Mud puddles will slow down any entity that travels through them. 
+
+Issues relating to "Mud Puddle" are maintained on the bug tracker. Report issues there.

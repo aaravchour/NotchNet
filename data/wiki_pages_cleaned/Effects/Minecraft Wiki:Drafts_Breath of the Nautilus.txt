@@ -1,0 +1,8 @@
+Breath of the Nautilus is an upcoming status effect that will be added in Mounts of Mayhem. It only activates when a player mounts a nautilus or zombie nautilus, which freezes the oxygen bar, preventing a player from drowning.
+
+The following mobs are immune to "Breath of the Nautilus":
+
+Wither
+Ender Dragon
+
+Issues relating to "Breath of the Nautilus" are maintained on the bug tracker. Report issues there.

@@ -1,0 +1,20 @@
+A bottle o' enchanting is a throwable item that releases experience orbs on impact.
+
+Master-level cleric villagers sell bottles o' enchanting for 3 emeralds as part of their trade.
+
+A bottle o' enchanting can be thrown by pressing use. On impact, it drops experience orbs worth 311 (average 7.0) and sends out blue particles.
+
+Java Edition:
+Bottles o' enchanting use the Friendly Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Thrown bottles o' enchanting have entity data that define various properties of the entity.
+
+Issues relating to "Bottle o' Enchanting" or "Experience Bottle" are maintained on the bug tracker. Report issues there.
+
+-In all editions of Java, setting right click to a keyboard hotkey through 'Controls -> Keyboard Controls' can make it so EXP is hurled much faster.

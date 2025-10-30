@@ -1,0 +1,29 @@
+Cooked chicken is a food item that can be eaten by the player.
+
+When a chicken dies while on fire, it drops one cooked chicken. The maximum is increased by 1 per level of Looting, for a maximum of 14 cooked chicken with Looting III.
+
+Raw chicken can be cooked in a furnace, smoker, or campfire. Each piece of cooked chicken removed from a furnace output slot gives 0.35 experience (22.4 experience per stack).
+
+In Java Edition, apprentice-level butcher villagers have a 23 chance to sell 8 cooked chicken for an emerald. 
+Butcher villagers may give cooked chicken to players with the Hero of the Village effect.
+In Bedrock Edition, apprentice-level butcher villagers have a 25% chance to sell 8 cooked chicken for an emerald as part of their trades.
+
+To eat cooked chicken, press and hold use while it is selected in the hotbar. Eating one restores 6 () hunger and 7.2 hunger saturation.
+
+Cooked chicken can be used to breed and heal tamed wolves, lead them around, and make baby tamed wolves grow up faster by 10% of the remaining time.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+In A Minecraft Movie, Lava Chicken is a similar variant to cooked chicken, however it involves dumping Lava on Chickens. This technique is clearly seen in the film, where Steve (enacted by Jack Black) pulls down a lever, which drops a chicken in a lava chamber.
+This technique is possible in-game, and could be a reference to automated chicken farms in game, where dispensers with lava are used to burn a chicken and take back the lava as it dies.
+How this machine would work is chickens are stored on top, redstone staircases up and activates both a trapdoor and a dispenser, lava falls on the chicken, and steve sings the song, however in game this cooking process would be instantaneous. Seeing as the lava is not removed as the cooked chicken comes out, there must be a slab with hopper under. Then a hopper pipe transports it into a dropper, which drops it on a oak plank,then the garbage man eats it.
+When a player eats a Lava Chicken, flame or smoke comes out of the mouth or nose. This doesn't happen in game.
+The "Lava Chicken" song became a popular hit, when the film came out in the theaters. Because of this, Mojang added the Lava Chicken Music Disc, a remix of the original song by HyperPotions.
+
+Issues relating to "Cooked Chicken" are maintained on the bug tracker. Report issues there.

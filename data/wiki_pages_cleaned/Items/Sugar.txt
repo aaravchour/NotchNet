@@ -1,0 +1,15 @@
+Sugar is a food ingredient and brewing ingredient made from sugar canes.
+
+Witches have a chance of dropping 02 sugar upon death. This is increased by 1 per level of Looting, for a maximum of 05 sugar.
+
+Sugar can be created from its base elements, using the compound creator.
+
+Sugar can be fed to horses to heal 1, speed growth by 30 seconds, and increase taming probability by 3%.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Sugar" are maintained on the bug tracker. Report issues there.
+
+Taking Inventory: Sugar  Minecraft.net on January 27, 2022

@@ -1,0 +1,26 @@
+Equippable, enchantable items obtained throughout the game are collectively known as Gear in Minecraft Dungeons and are sub-categorized as Melee Weapons, Ranged Weapons, and Armor.
+Gear can appear with one of three rarities: Common, rare, and unique. Additionally, gear can also appear with labels such as being Gifted, if obtained from another player via the gift wrapper, or Gilded.
+Currently, there are a total of 232 known items in the game, 225 of which are currently obtainable. This includes 145 Uniques. The highest currently known power level is 263.
+
+
+== Melee weapons ==
+Melee weapons are gear that can be used to damage nearby entities. 
+There are currently 88 known melee weapons, of which 82 are obtainable. This includes 56 uniques, of which 1 is unused and 7 are seasonal event exclusive.
+
+
+== Ranged weapons ==
+
+Ranged weapons are weapons that can be used to damage entities from a distance away. Each use consumes 1 arrow.  If the arrow hits a wall, they will disappear within 10 seconds.
+There are currently 71 known ranged weapons, all of which are obtainable. This includes 48 uniques, and 7 seasonal event exclusive. 
+
+
+== Armor ==
+
+Armors are used to increase the player's maximum health and provide additional benefits.
+There are currently 73 known armors,  71 of which are obtainable. This includes 41 uniques, 1 of which is unused and 7 are seasonal event exclusive.
+
+
+== See also ==
+Artifact
+Consumable
+Cosmetic

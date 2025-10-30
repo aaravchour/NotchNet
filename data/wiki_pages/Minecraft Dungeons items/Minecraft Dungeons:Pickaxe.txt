@@ -1,0 +1,75 @@
+A pickaxe is a melee weapon that can be found within the various missions of Minecraft Dungeons. Its unique variant is the diamond pickaxe and an unused variant called the monkey motivator.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+A  before a mission name indicates that the item is only obtainable in Daily Trials of that mission.
+
+Creepy Crypt
+Redstone Mines
+Dingy Jungle (DLC)
+ Frosted Fjord (DLC)
+Radiant Ravine (Adventure, DLC)
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+The Tower
+
+
+== Usage ==
+Pickaxes possess high power, low speed, and range, and attack only with an overhead strike.
+
+
+=== Properties ===
+X melee damage
+
+
+=== Stats ===
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Pickaxe" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icon ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===

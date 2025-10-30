@@ -1,0 +1,15 @@
+A cluckshroom was a mushroom-covered variant of the normal chicken, found only in Minecraft Earth.
+
+Cluckshrooms were chickens that were red with white spots on their body like red mushrooms (and red mooshrooms). They had a white wattle and two red mushrooms growing out of them, one on the head and one on the back.
+
+Cluckshrooms left a trail of red mushrooms when they walked in the dark. Otherwise, they mostly had the same AI behavior as chickens, walking aimlessly, avoiding lava and cliffs enough to give fall damage, although it wasn't affected by fall damage. Contrary to normal chickens, cluckshrooms sought darker areas. If a cluckshroom was under direct sunlight, it ran around wildly until it was out of the sun.
+
+Cluckshrooms were of rare rarity and were obtainable by buying the Cluck House buildplate, or from chicken tappables, with a low chance of 2% to get one.
+
+When a cluckshroom was killed, it had a chance of dropping the following:
+
+Red Mushroom
+0-2 Feather
+1 Raw Chicken (Cooked Chicken if killed while on fire)
+
+The biome category of the journal revealed that cluckshrooms spawned in the forest, as opposed to mushroom fields.

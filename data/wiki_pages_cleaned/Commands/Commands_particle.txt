@@ -1,0 +1,47 @@
+Creates particles.
+
+Java Edition
+particle <name> [<pos>]
+particle <name> <pos> <delta> <speed> <count> [force|normal] [<viewers>]
+Bedrock Edition
+particle <effect: string> [position: x y z]
+
+JE: <name>: particleBE: effect: string: basic_string
+
+Specifies the particle to create.
+In Bedrock Edition, must be a string. And it must be a single word that has no space or a quoted string. And it should be the namespaced identifier of the particle (namespace cannot be omitted).
+In Java Edition, it must be a resource location of a particle followed by particle parameters that are particle-specific.block, block_marker, and falling_dust has a parameter in block_id[block_state=foo] format to specify a block, in which block states can be omitted when unneeded. For example: /particle block minecraft:grass_block[snowy=true]dust requires three color channel parameters to be set along with the name, representing red, green, and blue, each being a value in the range 0 to 1; and an additional parameter representing size. For example: /particle dust 1.0 0.5 0.5 1.0 creates a pink particle at regular size. If one or more values are greater than 1, the particles change their colors. The greater the values the greater is the range of different colors.dust_color_transition requires three color channel parameters like dust representing the start color, a number parameter representing size, and another three color channel parameters representing the end color. For example: /particle dust_color_transition 1.0 0.0 0.0 1.0 0.0 0.0 1.0 creates a particle transitioning from red to blue at regular size.item requires an item as a parameter in the format of item_id{NBT}, in which NBT can be omitted when unneeded. It appears, however, that NBT values do not change anything in how the particle looks. For example: /particle item minecraft:applesculk_charge requires a float parameter specifying the angle the particle displays at in radians.shriek requires an int parameter specifying the delay in ticks. For example: /particle shriek 100 creates a shriek particle that doesn't show up until 100 game ticks (5 seconds) in.vibration requires a position parameter representing the destination, and an integer parameter representing the duration of the move. For example: /particle vibration 5.0 64.0 0.0 200 creates a particle taking 200 ticks moving from the current position to 5.0 64.0 0.0.
+JE: <pos>: vec3BE: position: x y z: CommandPositionFloat
+
+Specifies the position at which to create the particle. If not specified, defaults to the position of the executor.
+Must be a three-dimensional coordinates with floating-point number elements. Accepts tilde and caret notations.
+JE: <delta>: vec3
+
+Must be a three-dimensional coordinates with floating-point number elements. Accepts tilde and caret notations.
+Specifies the size of the 3-dimensional cuboid volume to spawn particles in, centered on position <pos>, and multiplied by about 8 (using 1 1 1 specifies a cuboid of about 888 in size). Negative values may be used, but have the same effect as their positive counterparts (using -1 -1 -1 still equates to an 888 cuboid). Note that the generated particles aren't evenly distributed over the cuboid, instead it uses a Gaussian distribution resulting in a particle-gradient most dense at the center. Tilde and caret notation may be used, the resulting coordinates are then used as delta.
+Exception 1: When <name> is entity_effect or ambient_entity_effect, a <count> of 0 causes the <delta> and <speed> to act like RGBE values instead, ranging from 0.0 to 1.0.  The three <delta> values give red, green, and blue components for the color; the <speed> provides an exponent that makes the colors brighter or dimmer, with 128 being a default.
+Exception 2: When <name> is note, a <count> of 0 causes the first value of <delta> to specify the note's color, ranging from 0.0 to 1.0. The values of 0.0 and 1.0 produce green particles, and the values in between produce colors according to the table on Note block  Notes.
+Exception 3: When <count> is set to 0, the <delta> instead acts as motion values for the particle, with <speed> acting as a multiplier. <dx>, <dy> and <dz> instead becomes <motion:x>, <motion:y> and <motion:z> respectively. Particles that don't have any motion to begin with are not affected by this (Example: barrier).
+JE: <speed>: float
+
+Specifies the speed of the particle. Does not work on all particles (Example: angry_villager).
+Must be a  Single-precision floating-point format number. And it must be greater than or equal to 0.0.
+JE: <count>: integer
+
+Specifies the number of particle effects to create. If 0, it results in a single particle. See the exceptions on <delta> for why having a <count> of 0 can be useful.
+Must be a  32-bit integer number. And it must be between 0 and 2147483647 (inclusive).
+JE: force|normal
+
+Specifies the display mode: normal or force.
+normal: the particle(s) will be sent to players within 32.0 blocks (exclusive).
+force: allows the particle(s) to be sent to players within 512.0 blocks (exclusive).
+Defaults to the normal mode.
+JE: <viewers>: entity
+
+Allows control of which player should view this particle instead of everyone in the viewing range of the particle.
+Must be a player name, a target selector or a UUID.  And the target selector must be of player type.
+
+To create a stationary huge explosion particle 10 blocks to the east:
+
+Java Edition: /particle minecraft:explosion_emitter ~10 ~ ~
+Bedrock Edition: /particle minecraft:huge_explosion_emitter ~10 ~ ~

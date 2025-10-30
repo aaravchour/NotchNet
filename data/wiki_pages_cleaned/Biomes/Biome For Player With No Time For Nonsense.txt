@@ -1,0 +1,5 @@
+Biome For Player With No Time For Nonsense is a joke biome introduced in Java Edition 20w14. It generates in the "busy" dimension.
+
+The biome seems like a normal snowy taiga, although mineral blocks and redstone components generate instead of ores. Unlike in normal snowy taigas, no igloos or mobs spawn here.
+
+Java Edition:

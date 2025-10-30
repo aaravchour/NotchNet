@@ -1,0 +1,247 @@
+Paintings are decorative entities that hang on walls.
+
+
+== Obtaining ==
+
+
+=== Crafting ===
+
+Paintings can be crafted with any color of wool. The color of the wool used does not influence the picture chosen when the painting is placed. Once placed, it displays a random painting.
+
+
+=== Breaking ===
+To remove a painting from a wall, the player can attack it, break one of its supporting blocks, cover one square of it with a block, hit it with an arrow, egg, ender pearl, snowball, or fire charge, or subject it to an explosion. The painting then drops as an item. Arrows that hit paintings disappear.
+
+
+=== Trading ===
+Master-level shepherd villagers sell 3 paintings for 2 emeralds.
+
+
+== Usage ==
+
+
+=== Placement ===
+Paintings can be placed on the sides of solid blocks, signs, banners, or sculk veins. A small gap is visible between the painting and attachment surface. There are several different sizes of paintings (see below). When placed, a painting checks for the largest amount of space it has. It then chooses a random painting of that size. The player can add blocks around the painting to ensure it is the size wanted. When the supporting blocks are removed, the painting breaks after 20 game ticks (1 second) if no supporting blocks are replaced during that interval.
+
+
+=== Properties ===
+Being an entity, paintings can simultaneously exist in the same space as blocks such as water or torches. Specifically, they can share the space with any block whose collision box does not intersect its hitbox.
+Players and mobs are able to walk through paintings, as long as the blocks supporting the painting allow it. Secret doorways can be created this way. Light propagates through paintings as well.
+If a player is concealed behind a painting, the player's name is also concealed from other players.
+Paintings are non-flammable.
+
+
+== Canvases ==
+ 
+There are 31 paintings in the game. These are mostly based on paintings by Kristoffer Zetterstrand, who also created the Minecraft versions.
+
+
+=== Unused paintings ===
+In v0.5.0 alpha, with the addition of paintings to Pocket Edition, four unused 32×32 paintings were present in kz.png which remained unused. See Bedrock Edition unused features § Paintings for more information. They were also added to Java Edition in snapshot 22w16a. They are now only accessed through the Creative inventory.
+According to Helen Zbihlyj, these paintings were originally added "as part of a Pocket Edition promo map" (no footage found) which was planned to be a part of Pocket Edition promotion at MINECON 2012 or 2013 and have never been used in game. The artist of these paintings remains unknown.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Paintings have entity data that defines various properties of the entity.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+
+== Video ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Painting" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+On April 26, 2011, Notch stated that the automapping code can be used to share custom paintings and books in the future.
+The texture on the back of a painting is the same as the wooden planks texture, but with a yellowish color similar to that of chests (but slightly darker).
+The "Skull on Fire" painting contains a Minecraft world in the background, which is based on a screenshot taken by the artist in Alpha 1.1.2_01 (or earlier) on October 12, 2010, at 13:22:49 (UTC+2).
+The seeds for this world are -1044887956651363087 and -6984854390176336655 (both are the same), standing at X=-249.65, Y=91, Z=-29.04.
+The "Skull on Fire" painting's texture was added in Beta 1.3. However, the code for paintings to randomly display the part of the Kz.png texture that was to be occupied by the Burning Skull painting was added earlier, in Beta 1.2_01. As there was nothing on this part of the texture except for a purple background grid, this is what would be displayed if the painting was randomly chosen, until the Burning Skull painting texture was actually added.
+The original "Skull on Fire" painting was given to the winner of an official texture pack competition by Mojang.
+The "Dennis" painting was added as a reference from A Minecraft Movie, where the exact same painting was found in Steve's Sceret Stash.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Renders ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Item Frame
+Unused paintings
+Kz.png
+Kristoffer Zetterstrand
+
+
+== References ==
+
+
+== External links ==
+Taking Inventory: Painting – Minecraft.net on January 18, 2019

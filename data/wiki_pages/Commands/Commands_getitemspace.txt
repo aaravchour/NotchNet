@@ -1,0 +1,16 @@
+Lets your agent return the number of spaces remaining in the specified slot, as in the number of items you could add before it would be full.
+
+
+== Syntax ==
+getitemspace <slotNum: int>
+
+
+== Arguments ==
+slotNum: int
+
+Specifies the slot number of items to be counted, slots are numbered from 1 to 27.
+
+
+== Result ==
+Fails if the arguments are not specified correctly.
+On success, returns the remaining number of the item in the specified slot.

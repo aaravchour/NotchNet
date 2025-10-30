@@ -1,0 +1,95 @@
+This tutorial will help you locate and extract the sound directory, where the sounds and music for Java Edition are stored.
+
+The sound file for versions after 1.7.2 is located in the indexes directory:
+1.8 macOS: ~/Library/Application Support/minecraft/assets/indexes/1.8.json
+1.11 macOS: ~/Library/Application Support/minecraft/assets/indexes/1.11.json
+The sound files in version 1.7.2 (specifically 13w42a) and above are scattered and hashed into different folders, which are located in:
+
+Windows: %AppData%\.minecraft\assets\objects
+macOS: ~/Library/Application Support/minecraft/assets/objects
+Linux: ~/.minecraft/assets/objects
+
+Find the folder indexes, which is found under the same assets folder as objects, where the sound files are indexed and logged in the sounds.json file. Select the version you want and open the sounds.json file with a program that supports it, such as Notepad. Programs such as Notepad++ are recommended to help make the file more readable. Once opened, you may find something that looks like this:
+
+"sounds/music/menu/menu1.ogg": {
+    "hash": "c157c56846f0e50620f808fecd9d069423dd6c41",
+    "size": 1744657
+},
+From this, we can determine that menu1.ogg is hashed (or labeled) as c157c56846f0e50620f808fecd9d069423dd6c41. Perform a search in the directory objects under assets and you should find a file with the same exact string; this is the file "menu1.ogg", one of the pieces of music that plays on the menu screen. The first two letters of the file name ("c1") will match the folder that the file is in as well; knowing this can help locate specific files faster.
+After locating the file, you can test it to make sure it is the right one by playing it with a media player that is able to play .ogg sound files. If the media player you have cannot play the file, try renaming it with ".ogg" at the end. If this fails too, then it either means the media player you use does not have a proper .ogg extension to play the sound, or the file you found is not a sound file.
+Note: If you accidentally edit or remove the file from the original directory, the launcher will automatically re-download it again the next time you launch the game. (You must be connected to the Internet when you launch the game. If not, then the sound directory will not be reset and could potentially lead to errors.)
+
+This is probably the simplest way to extract the sound files with original effections.
+
+Script 1
+
+Script 2 to run Script 1
+
+First of all, install Node.js onto your computer.
+Create a new text file inside .minecraft/assets called extract-music.js and paste the first script into it.
+Create another new text file inside .minecraft/assets called Extract.bat and paste the second script into it.
+Rename both text files by removing ".txt" from both of them.
+Now you can run it by double clicking the Extract.bat file. It will create a new sounds folder with all the sounds in it.
+By default it will extract 1.19 files. To change the version, go into the extract-music.js file and on the 3rd line, change 1.19.json to any version you want (you need to have actually played the version at least once).
+Note
+Make sure the file extensions are .js and .bat and not .txt when you rename it! In other words, remove your old file extension. You may be warned that changing a file name extension could make the file unusable. However, this actually indicates that you have renamed it correctly. It will work if you keep it .txt as example, but it's probably nicer to have it for what it is for.
+If you are using Microsoft Windows and can't see file extensions, for Windows 10, you can turn them on by going to the View menu of the file explorer and checking the check box for file name extensions. For Windows beneath Windows 10, you can uncheck "hide extensions" in folder settings.
+
+This method may be by far the most simple and requires no third-party application, but may require admin permission on your computer to pull off. The instructions listed below apply for Windows systems only.
+
+Open File Explorer on your system and select the view tab.
+Locate the "File name extension" and check the box; this will make it so the file type can now be seen and even edited.
+Go to the audio file you extracted and open the context menu by right clicking the file.
+Select "Rename".
+Add ".ogg" to the very end of the file name (no spaces) and save; this cause the file to become a .ogg format file.
+Important Note: putting MP4 or other media file types in place of ogg are not guaranteed to work and should only be done if you know what you are doing; failure to do so may result in the file becoming corrupted.
+
+Create a new file (for example from the terminal): vi minecraft-music-extractor.sh
+Paste the following into the file: (when you run the file, it'll ask you what your Windows username is and Minecraft version, the rest is automatic, and outputs to the desktop)
+Update the variables (e.g. MINECRAFT_ASSETS_DIR) with your correct directory paths
+If you want all sounds, replace "grep music" with "grep sounds", if you want the records, replace "grep music" with "grep records", these are shown commented out above the line of code.
+Run the script from terminal with "bash minecraft-music-extractor.sh".
+
+Create a new file (for example from the terminal): vi minecraft-music-extractor.sh
+Paste the following into the file: (when you run the file, it'll ask you what Minecraft version, the rest is automatic, and outputs to the desktop)
+
+If you want all sounds, replace "grep music" with "grep sounds".
+You may need to run `chmod u+x minecraft-music-extractor.sh` if the script isn't executing.
+Run the script from terminal with "./minecraft-music-extractor.sh".
+
+Create a new file (for example from the terminal), type in and hit enter: vi minecraft-music-extractor.sh
+Paste the following into the file:
+
+Update the variables (i.e. YOURUSERNAMEHERE and YOURJSON) with your correct directory paths.
+If you want all sounds, replace "grep music" with "grep sounds".
+Hit esc to quit edit mode, then type ":wq" to save and quit the script.
+Start a new line and run the script just saved by typing and hitting enter: "bash minecraft-music-extractor.sh".
+
+If you play the game before 1.7.2, the sound directory is located as follows:
+
+Windows: %AppData%\.minecraft\assets or %AppData%\.minecraft\assets\virtual\legacy
+macOS: ~/Library/Application Support/minecraft/assets
+Linux: ~/.minecraft/assets
+If you have played both the old and new versions, then both the old and new directories will exist in the game files. The old directory is only used for pre-1.7 versions.
+
+In .minecraft\assets\virtual\legacy\sounds, there are 13 sub folders:
+
+ambient: Ambiance and rain/thunder
+damage: Sounds of the player taking damage
+dig: Breaking blocks
+fire: Fire sounds
+firework: Fireworks sound effects
+liquids: Sounds made by liquids such as water and lava
+minecart: Sounds created by moving minecarts
+mob: Mob sounds
+music: Background music by C418
+random: Various sound effects from eating to explosions
+records: Music on the record discs found
+step: Footsteps
+tile: Pistons
+
+If you edit, add, or remove sounds directly in the sound directory, executing the launcher and then launching Minecraft while connected to the Internet will automatically re-download and revert any changes you've made to the sound directory, deleting your work. This applies for both the new and old sound directories. Disconnecting from the Internet before launching the game will not revert the files, but this is not recommended. The best method to safely store custom sounds is to create your own resource pack.
+
+Minecraft Tutorial: Locate the Minecraft Sound Directory and Convert Audio Files (Old sound directory only)
+
+Sounds.json

@@ -1,0 +1,29 @@
+Concrete is a block created when concrete powder touches water. It comes in the sixteen dye colors.
+
+Concrete requires a pickaxe to be mined. When mined without a pickaxe, it drops nothing.
+
+Red and cyan concrete can be found in trail ruins.
+
+Concrete is formed when concrete powder comes into contact with a block of water (source block, flowing or waterlogged). If next to a waterlogged block, it must be adjacent to the sides where water can flow out from, such as the open sides of stairs, but not the back side of stairs or any sides of waterlogged leaves.
+
+Concrete is renewable as all of the crafting ingredients of concrete powder are renewable. However, sand is only renewably obtained through the wandering trader, which spawns infrequently and only allows a limited number of trades per spawn, making it impractical to obtain it (and by extension, concrete) through only renewable means.
+
+The bright and solid colors of concrete make it useful for decoration. It has more pronounced colors than terracotta, and unlike wool, is not flammable.
+As a building material, its hardness is slightly higher than stone, but its blast resistance is significantly lower.
+
+Concrete can be placed under note blocks to produce "bass drum" sound.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Concrete" are maintained on the bug tracker. Report issues there.
+
+In real life, a 1-cubic-meter concrete block (the size of a Minecraft block) is practically blast-proof, while the blast resistance of concrete in Minecraft is quite low.
+Also in real life, concrete is made of Portland cement, apart from sand, gravel and water, and might be why it's blast resistance in Minecraft is so low. Cement serves as a binding material, that binds sand and gravel together. It may also be possible that cement is made at the same time from sand and gravel, if the gravel contains limestone, because limestone and sand are real life ingredients for cement.
+
+"Block of the Week: Concrete"  Minecraft.net, March 9, 2018

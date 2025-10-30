@@ -1,0 +1,122 @@
+The desert is an expansive arid biome mainly consisting of sand.
+
+
+== Description ==
+The surface is made entirely of sand, with sandstone generating underneath the sand. Deserts are more likely to generate in areas with high erosion values, which means that the terrain in which they generate is generally flat but with occasional hills, similar to the ones found in windswept hills biomes. Deserts can also generate in lower erosions but usally as a separation between a badlands biome and the oceans. Deserts are often found bordering mangrove swamps or stony shores. Deserts can also generate at any humidity value, and at high humidities, lush caves can sometimes generate underneath deserts.
+Desert biomes are quite barren. Among the animals that can spawn in the desert, only rabbits spawn in the wild, while villagers, cats, cows, sheep, pigs, and camels appear in desert villages. Cactus and dead bushes generate frequently across the landscape. Sugar canes may generate along water. Lava ponds may still generate; water may still generate if the altitude dips low enough. Deserts make up for their barrenness by featuring a relatively large number of structures, such as pillager outposts, villages, desert pyramids, fossils, and desert wells. Villages and desert temples may offer refuge and valuable loot, desert wells may serve as a rare source of water, and fossils can provide large numbers of bone blocks and bone meal, or simply a neat paleontological find, while pillager outposts are the only source of wood on the desert surface.
+Despite the structures, survival in deserts can still be difficult if one does not bring sufficient resources, as the desert has virtually no resources of its own. Wood logs can be obtained only from pillager outposts, mineshafts, or azalea trees if there's a lush cave underground, though dead bushes provide a source of sticks. Wood can also be obtained by growing a sapling, which can be bought from the wandering trader or found in weaponsmith village chests. The only desert water sources are villages, desert wells, rivers, and aquifers. At night, most zombies that spawn in deserts and variants are replaced by husks, variants of zombies that inflict the hunger effect and do not burn in the sun, resulting in more hostile mobs present during daytime.
+The following mobs are naturally spawned here：
+
+
+== Sounds ==
+
+
+=== Music ===
+These music tracks play while the player is in the Desert.
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Video ==
+
+
+== History ==
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Badlands
+Savanna
+
+
+== References ==
+
+
+== External links ==
+Around the Block: Desert Lakes – Minecraft.net on March 30, 2021

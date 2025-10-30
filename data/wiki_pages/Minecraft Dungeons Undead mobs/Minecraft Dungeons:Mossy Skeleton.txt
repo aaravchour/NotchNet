@@ -1,0 +1,143 @@
+A mossy skeleton is an undead skeleton variant that can be found within the jungle awakens DLC of Minecraft Dungeons. Mossy skeletons have three variants as well as a melee variant that can be found exclusively within the arcade edition.
+
+
+== Appearance ==
+Mossy skeletons have vines and moss covering the entirety of their body. Small patches of moss can be found surrounding their head, and vines entangled around their ribcage. They have smaller moss patches on their legs and arms and also emit a green cloud of poison from their ribcage. This poison can affect the hero from the arrows they shoot, which inflicts the poisoned effect upon a direct hit.
+
+
+== Spawning ==
+Dingy Jungle
+Panda Plateau
+Overgrown Temple
+Tower
+Treetop Tangle
+
+
+== Behavior ==
+Mossy skeletons behave like their normal counterparts and are hostile towards heroes.
+
+Bow action
+Mossy skeletons fire arrows that inflict the poisoned effect upon impact.
+
+
+== Minecraft Dungeons Arcade ==
+
+
+=== Ranged mossy skeleton ===
+
+
+==== Appearance ====
+Mossy skeletons are slightly taller than average. They have noticeably more health due to their armor. They have three variants, variant 1 and 2 wield the power bow and wear reinforced mail helmets and chestplates, or just helmets.
+
+
+==== Spawning ====
+Dingy Jungle (Arcade)
+
+
+==== Behavior ====
+Mossy skeletons are hostile towards heroes and will shoot them on sight, just like their normal counterparts, with the difference being unable to poison the hero even with their arrows.
+
+
+=== Melee mossy skeleton ===
+
+A melee mossy skeleton is a defensive mossy skeleton variant that can be found exclusively within the arcade edition of Minecraft Dungeons.
+
+
+==== Appearance ====
+Melee mossy skeletons spawn wearing the scale mail and sometimes the reinforced mail helmet giving them increased defense. Unlike mossy skeletons though, they primarily use melee, utilizing swords and daggers instead of ranged.
+
+
+==== Spawning ====
+Dingy Jungle (Arcade)
+
+
+==== Behavior ====
+Like its normal variant, they attack the hero when seen but instead of ranged, they walk to the hero and attack them via melee.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Gallery ==
+
+
+=== Renders ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Arcade renders ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Other ===
+
+		
+			
+			
+		
+
+
+== References ==

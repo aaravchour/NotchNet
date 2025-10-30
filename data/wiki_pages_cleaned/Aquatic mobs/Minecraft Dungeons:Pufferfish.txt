@@ -1,0 +1,15 @@
+A Pufferfish is a passive aquatic animal  that can be found within the various missions of Minecraft Dungeons.
+
+Pufferfish are a yellow fish with spikes and bluish-white fins, similar to its real-life counterpart, the Long-spined porcupinefish (Diodon Holocanthus).
+
+Coral Rise
+Abyssal Monument
+Radiant Ravine
+
+A pufferfish inflates when a hero or mob get too close. At close range, the pufferfish can deal damage and inflict Poison. It then reverts into a small form when no mob is near. When a pufferfish is killed, it emits a poison cloud that inflicts up to 6 damage.
+
+It is similar to Diodon Holocanthus, a real species of Porcupine fish.
+In the arcade version, your pet WILL attack the pufferfish, even though it is a passive-defensive animal.
+Also in the arcade version, you do not need to kill pufferfish to pass a raided area.
+
+When deflated, it swims around in small circles.

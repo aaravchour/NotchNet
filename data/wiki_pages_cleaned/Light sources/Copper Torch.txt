@@ -1,0 +1,18 @@
+A copper torch is a torch variant that was added in The Copper Age. Like normal torches, it gives light when exposed to darkness.
+
+Copper torches can be easily broken with any tool.
+
+A copper torch also drop as an item if:
+
+The attachment block is removed or destroyed.
+Water or lava flows into it.
+a piston tries to push it or moves a block into its space.
+
+Like torches, copper torches can be placed on any solid blocks. It gives a light level of 14.
+Unlike most copper blocks, copper torches do not oxidize.
+
+Issues relating to "Copper Torch" are maintained on the bug tracker. Report issues there.
+
+Torch
+Redstone Torch
+Soul Torch

@@ -1,0 +1,23 @@
+The soul healer is an artifact that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Soggy Swamp
+Soggy Cave
+Fiery Forge
+Overgrown Temple (DLC)
+Crimson Forest (DLC)
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+The amount of health healed is determined by the amounts of souls used to activate the artifact. Up to twenty souls (Fifty souls today) can be used at a time, with each soul being equal to the minimum healing value of the item.
+The soul healer can be activated even when the hero is at full health.
+
+X health healed
+5 second cooldown
++1 Soul Gathering
+Requires souls
+
+Issues relating to "Soul Healer" are maintained on the bug tracker. Report issues there.

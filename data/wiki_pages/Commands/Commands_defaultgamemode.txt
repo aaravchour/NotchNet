@@ -1,0 +1,29 @@
+Sets the default game mode (Creative, Survival, etc.) for new players entering a multiplayer server. If in multiplayer and force-gamemode in the server.properties file is true, or if in LAN world, all online players are set to this game mode.
+
+
+== Syntax ==
+defaultgamemode <gamemode>
+
+
+== Arguments ==
+<gamemode>: gamemode
+
+Specifies the default game mode.
+Must be one of the following:survival for Survival modecreative for Creative modeadventure for Adventure modespectator for Spectator modeNote that "hardcore" is not a valid option, as it is technically not a game mode.
+
+
+== Result ==
+
+
+== Output ==
+
+
+== Examples ==
+To set the default game mode to survival: defaultgamemode survival
+
+
+== See also ==
+/gamemode – changes a player's game mode
+
+
+== History ==

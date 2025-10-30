@@ -1,0 +1,20 @@
+A command that can be embedded inside a function to control the execution of the function. Terminate the execution of the function and set the return value of the invoked function to an arbitrary integer value. By setting the return value to an arbitrary value, it can be used to record the execution results of /function commands with conditional branches and reflect them in subsequent function executions.
+
+By placing this command at the end of a function , especially a function with a conditional branch. You can terminate the function and record which branch the function followed as a return value. The return value can be recorded using The recorded return value can be referenced. And can be reflected in the execution of other commands and functions.
+
+/return <value>
+Terminate the function to which it belongs and /function set the return value of the command to an arbitrary integer value.
+/return run <command>
+Executes the command specified in , terminates the function /function to which it belongs, and uses the return value of that command as the return value of the command that executed that function. If the executed command fails, the return value will be 0.
+
+<value>: integer
+
+An integer value to use as the return value of the function.
+Must be a  32-bit integer number.
+<command>
+
+A command that provides the return value of the function.
+
+/return <value> uses <value> as its return value, which is also used as the return value for the function. On the other hand, /return run ... only sets the return value of the function, and does not have a return value itself.
+
+Note: /return run <command> has not been officially added yet. Behavior may change.

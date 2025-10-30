@@ -1,0 +1,31 @@
+Barrier is an invisible block used to create solid boundaries.
+
+Barriers can be obtained only using commands such as /give, /item on Java Edition, and /replaceitem on Bedrock Edition and cannot be broken in survival mode.
+In Java Edition, barriers are available in the creative inventory when the "Operator Items Tab" is enabled in control settings.
+
+In normal worlds, barriers don't generate naturally. They only generate in debug mode worlds, where barriers generate as the floor exclusively on Java Edition as the Debug mode world type is not on Bedrock Edition. However, due to a glitch, barrier blocks used to generate on Java Edition snapshot 20w16a in Treasure Room Bastion Remnants, specifically in Lava pools.
+
+Barrier blocks are mainly used to build an impenetrable barrier that cannot be broken in standard survival mode play but can be placed in survival. For example, they can be used to protect a reserved area from entry by players, mobs, and other entities. Unlike other kinds of unbreakable blocks that could be used for this purpose (such as bedrock), barrier blocks are unobtrusive because they are invisible. Barrier blocks cannot be destroyed by TNT, creeper explosions, or any other explosions.
+In the player's inventory, the block is displayed as a red box with a slash through it, but when placed it is completely invisible.
+Barriers are transparent to light and do not block a beacon. Fences, iron bars, glass panes, and similar blocks do not visually connect with barriers. Barriers interact with blocks and mobs as a solid block. All dependent blocks can be placed on a barrier, such as torches or redstone, and it can suffocate mobs. Mobs cannot spawn on barriers. The red cross texture, however, is revealed as particle effects when falling or sprinting on them, regardless of what game mode the player is in.
+In Creative mode, if a player is holding a barrier block in their hand, all placed barrier blocks display the barrier icon as a particle. This effect is client-side, and if a player holds a barrier block in survival, the particle does not appear. Barrier blocks are not shown if the particle setting is set to "minimal". Furthermore, they have a greater amount of blast resistance than any other unbreakable block.
+
+Barrier blocks can be waterlogged by being placed into water source blocks on Bedrock Edition. See waterlogging for more details on what blocks can be waterlogged.
+Barrier blocks are the most resistant blocks in Minecraft.
+
+Barriers cannot be pushed by pistons. They also cannot be pushed nor pulled by sticky pistons.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Barrier" are maintained on the bug tracker. Report issues there.
+
+The symbol used is not compliant with ISO 3864-1, as the diagonal line is mirrored.
+Invisible bedrock, a technical block in Bedrock Edition, shares many features with the barrier block.
+The barrier's vanilla block model defines only what texture to use for block breaking particles, and doesn't have a parent model or anything that would give the block a physical shape.
+Barriers are hardcoded to not render any block model.

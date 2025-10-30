@@ -1,0 +1,63 @@
+Clones blocks from one region to another.
+
+Java Edition
+clone . . .
+clone from <sourceDimension> . . .
+... <begin> <end> . . .
+... <destination> . . .
+... to <targetDimension> <destination> . . .
+... [replace|masked] [force|move|normal]
+Clones all blocks or only non-air blocks.
+... filtered <filter> [force|move|normal]
+Clones only blocks with the block id specified by <filter>.
+Syntax displayed in various ways
+
+Bedrock Edition
+clone <begin: x y z> <end: x y z> <destination: x y z> [maskMode: MaskMode] [cloneMode: CloneMode]
+Clones all blocks or only non-air blocks.
+clone <begin: x y z> <end: x y z> <destination: x y z> filtered <cloneMode: CloneMode> <tileName: Block> [blockStates: block states]
+Clones only blocks with the block id specified by <tileName: Block>.
+
+JE: <sourceDimension>: dimension
+
+Specifies the dimension to clone the blocks from. If unspecified, defaults to current execution dimension.
+It must be the resource location, which will be resolved during command execution into a dimension.
+JE: <begin>: block_pos and <end>: block_pos
+BE: begin: x y z: CommandPosition and end: x y z: CommandPosition
+
+Specifies the coordinates of two opposing corner blocks of the source region.
+In Java Edition, must be a block position composed of <x>, <y> and <z>, each of which must be an integer or a tilde and caret notation. In Bedrock Edition, must be a three-dimensional coordinates composed of <x>, <y> and <z>, each of which must be a floating-point number or tilde and caret notation.
+Block position is the coordinates of the point at the lower northwest corner of a block. Because of this, the lesser coordinates of each axis falls right on the region boundary, but the greater coordinates are one block from the boundary, and the block volume of the source region is (xgreater - xlesser + 1)  (ygreater - ylesser + 1)  (zgreater - zlesser + 1). For example, 0 0 0 0 0 0 has a 1-block volume, and 0 0 0 1 1 1 and 1 1 1 0 0 0 both identify the same region with an 8-block volume.
+JE: <targetDimension>: dimension
+
+Specifies the dimension to clone the blocks to. If unspecified, defaults to current execution dimension.
+It must be the resource location, which will be resolved during command execution into a dimension.
+JE: <destination>: block_posBE: destination: x y z: CommandPosition
+
+Specifies the lower northwest corner of the destination region.
+In Java Edition, must be a block position composed of <x>, <y> and <z>, each of which must be an integer or a tilde and caret notation. In Bedrock Edition, must be a three-dimensional coordinates composed of <x>, <y> and <z>, each of which must be a floating-point number or tilde and caret notation.
+JE: replace|masked
+BE: maskMode: MaskMode: enum
+
+Specifies whether to filter the blocks being cloned. Must be one of the following:
+replace  Copy all blocks, overwriting all blocks of the destination region with the blocks from the source region.
+masked  Copy only non-air blocks. Blocks in the destination region that would otherwise be overwritten by air are left unmodified.
+If unspecified, defaults to replace.
+JE: force|move|normal
+BE: cloneMode: CloneMode: enum
+
+Specifies how to treat the source region. Must be one of the following:
+force  Force the clone even if the source and destination regions overlap.
+move  Clone the source region to the destination region, then replace the source region with air. When used in filtered mask mode, only the cloned blocks are replaced with air.
+normal  Don't move or force.
+If unspecified, defaults to normal.
+JE: <filter>: block_predicateBE: tileName: Block: enum
+
+Specifies the block id to copy in filtered mode.
+In Java Edition, must be in the format of block_id[block_states]{data_tags}(accepts block tags), in which block states and data tags can be omitted when they are not needed. In Bedrock Edition, must be a block id.
+BE: blockStates: block states: BlockStateCommandParam
+
+Specifies the block states to use for the block.
+Must be a blockstate argument as ["<state1>":<value1>,"<state2>":<value2>,...]. For example: ["old_leaf_type":"birch","persistent_bit":true].
+
+/fill  fill a region with a block.

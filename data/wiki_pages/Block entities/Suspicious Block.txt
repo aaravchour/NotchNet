@@ -1,0 +1,105 @@
+Suspicious sand and suspicious gravel are fragile gravity-affected blocks found in various Overworld structures. They can be brushed to extract structure-dependent loot, and are the only source of pottery sherds. Suspicious blocks drop nothing if they are broken, and break if they fall from any height or are moved with a piston. They are rare to find.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Suspicious blocks are unobtainable by mining, even using a tool enchanted with Silk Touch. They are much softer than normal sand and gravel, and can be instantly broken with merely an unenchanted diamond shovel. They are affected by gravity, but they always break with no drop after falling. They break immediately if pushed by a piston or sticky piston, and cannot be pulled by sticky pistons or slime blocks.
+In Java Edition, a suspicious block drops as an item if it falls for more than 600 game ticks, or 30 seconds, which can be achieved by falling into an upward bubble column, or through two cobwebs stacked on top of each other. However, it does not retain its loot.
+In Creative mode, the player can obtain a suspicious block while retaining its loot by using Ctrl + pick block on the block.
+
+
+=== Natural generation ===
+Suspicious sand generates naturally in buried rooms under desert pyramids, as well as in the bottom of desert wells. It also generates within warm ocean ruins.
+Suspicious gravel generates naturally in cold ocean ruins. Additionally, some of the gravel within trail ruins is replaced with suspicious gravel upon generation.
+
+
+== Usage ==
+
+
+=== Brushing ===
+When a brush is used on a suspicious block, cracks start to appear on all sides of the block as the dusted block state of the block starts to increase. If the suspicious block being brushed is naturally generated, an item gradually emerges from the side where the player starts brushing. After 96 game ticks (4.8 seconds), the item is extracted, and the suspicious block is converted into its regular counterpart: suspicious sand is converted into sand, and suspicious gravel is converted into gravel.
+If the player stops brushing a suspicious block, the block remains in its half-excavated state for a few seconds, before gradually returning to its unexcavated state one stage at a time.
+
+
+=== Loot ===
+The item obtained and the loot table of the block is dependent on which structure the suspicious block has generated in. Items can be extracted only from naturally generated suspicious blocks. When placed by the player, nothing is produced after brushing.
+
+
+== Sounds ==
+
+
+=== Generic ===
+Suspicious sand
+Java Edition:
+
+Bedrock Edition:
+
+Suspicious gravel
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Unique ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block data ===
+
+
+=== Falling block entity ===
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Suspicious Block" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Development Images ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

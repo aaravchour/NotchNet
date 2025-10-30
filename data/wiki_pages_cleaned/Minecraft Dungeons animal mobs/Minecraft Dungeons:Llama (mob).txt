@@ -1,0 +1,15 @@
+A llama variant 1 also known as a llama is a neutral pet llama variant that can be found within the howling peaks DLC of Minecraft Dungeons.
+
+Llamas within the Howling Peaks do not have chests on their side and a carpet, although they retain the same brown coat color, and having the feet and face not covered in brown fur.
+
+Windswept Peaks
+Gale Sanctum
+Gauntlet of Gales
+Colossal Rampart
+
+Llamas wander around aimlessly. Unlike pet llamas, these llamas are neutral and do not have carpets or chests on their backs. When a hero frees one from a cage, they perform a dance whenever they are freed from a cage. This behavior is seen in the cave where they are trapped within the windswept peaks.
+
+Basic attack spit
+Llama spit at targets, retaliating if attacked.
+
+In the game files, llamas are referred to internally by the name LlamaVariant1.

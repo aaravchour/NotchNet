@@ -1,0 +1,34 @@
+A vested rabbit was a variant of the rabbit with gray fur patches found only in Minecraft Earth.
+
+
+== Appearance ==
+Vested rabbits were a variant of the rabbit with white fur, with a gray patch of fur covering the face and up until the base of the ears. They also resembled the "Toast" rabbit skin. Their lower-half body was light gray running down to their feet, which ended with a dark-gray patch. They had dark eyes.
+
+
+== Behavior ==
+
+Similar to ordinary rabbits, vested rabbits had the same AI behavior, wandering aimlessly, avoiding lava and cliffs that are enough to cause fall damage.
+
+
+== Obtaining ==
+Vested rabbits were of an uncommon rarity and were found in grass and pond tappables, with it being rather hard to obtain in grass tappables with a 2.0% chance of getting one. It was also one of the prizes in the Season 4 prize map.
+
+
+== Drops ==
+Just like any other rabbit variant, vested rabbits dropped the same items when killed:
+
+0-1 Rabbit Hide
+0-1 Raw Rabbit (Cooked Rabbit if killed while on fire)
+Rabbit's Foot (10% chance of dropping)
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Gallery ==

@@ -1,0 +1,111 @@
+An explorer map is a special map used to aid in finding rare generated structures, including woodland mansions, ocean monuments, buried treasures and trial chambers.
+
+
+== Obtaining ==
+
+
+=== Trading ===
+Journeyman-level cartographer villagers sell ocean explorer maps for 13 emeralds and a compass, as well as trial explorer maps for 12 emeralds and a compass. Master-level cartographer villagers sell woodland explorer maps for 14 emeralds and a compass.
+In Java Edition, if the cartographer is in the Nether or the End, either spawned or transported, the trades for the map do not unlock. However, in Bedrock Edition, the cartographer trades for the map are unlocked, but the purchased map shows the same layout as in the corresponding dimension and shows no destination structure, but if cartographer trades are unlocked in an old world type (prior-1.11.0), the game stops ticking.
+In Java Edition, each cartographer sells its own unique explorer map that points to a different location than other cartographers. Purchasing another explorer map from the same cartographer results in the same explorer map. In Bedrock Edition, a cartographer sells an explorer map that points to the nearest location, regardless of whether it is explored or previously mapped by another cartographer.
+
+
+=== Chest loot ===
+Treasure maps, in contrast to explorer maps, generate in underwater ruins or in shipwrecks.
+
+
+== Usage ==
+
+
+=== Locating structures ===
+There are three types of explorer maps: woodland, ocean, and buried treasure. The maps differ from a normal map, in that it shows the area's land-water outline, with an orange striated (striped) texture for water, and the blank map texture for land. The maps show a section of land that contains a woodland mansion, monument or buried treasure respectively. This may not be the nearest such structure to the player. The structures are displayed as a small icon. If the player icon is smaller than it would be on a normal map, that means the player is a great distance away. When the player is less than 1027 blocks away from the map border, the icon returns to the proper size. When the player reaches the map's area of land (512×512), the map fills in like a normal map.
+The basic functions of a buried treasure explorer map are similar to that of the other two. However, instead of showing the structure icon on the map, it shows a red X instead. The buried treasure structure is located on the same X and Z coordinates as the middle of the X (the player marker may need to be aligned with the bottom of the middle 2×2 pixel square of the X). To locate the chest spot, hold the treasure map with both hands, not in the offhand slot.
+
+
+=== Cloning ===
+
+The parts of the world that have already been explored and mapped are copied, and newly explored areas appear on both instances. In Creative mode, cloned explorer maps can be obtained by pick blocking on the explorer map displayed on item frames (the map needs to be out of the player's inventory when using pick block, or else that map moves into the active hotbar slot).
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition: None
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Metadata ===
+
+In Bedrock Edition, the item Data value distinguishes explorer maps from one another:
+
+
+=== Item data ===
+An explorer map differs from a map in that its display tag is set, which includes a Mapcolor and a LocName; also its Decorations list includes an entry for its target monument, mansion or buried treasure. Its map item entry is identical to that of a normal map, except that by the time the player sees it, its colors byte array is pre-filled with explorer maps' characteristic land-water boundary lines and water shading.
+
+Notes
+
+
+== Achievements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Explorer Map" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+When a cartographer generates the trade offers for the explorer maps, it chooses the location of one of the nearest structures of the respective type (monument or woodland mansion).
+For the reason above, explorer maps obtained from one cartographer are always the same. Also, if two cartographers unlock the explorer map trades approximately at the same place and at the same time, the map locations are usually identical. This sometimes also happens when finding multiple treasure maps from ocean ruins.
+Explorer maps fill as the chunks are generated, rather than when the player holds them while in the area; leaving an explorer map while exploring the area still fills the map.
+Buried treasure explorer maps are named Buried Treasure Map in Java Edition while in Bedrock Edition, they are named Treasure Map.
+It is possible for a cartographer to give a monument or woodland mansion explorer map for areas where the structures would have spawned in the world, but were unable to as a result of terrain generation. As a result, explorer maps, unfortunately, don't always guarantee that a structure exists at the purported location. This is most common with woodland mansion explorer maps, due to its generation algorithm.
+On Bedrock Edition, inventory editors and add-ons can be used to create Explorer Maps that lead to any structure.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Map
+Woodland Mansion
+Ocean Monument
+Shipwreck
+Buried treasure
+
+
+== References ==
+
+
+== External Links ==
+Taking Inventory: Explorer Map – Minecraft.net on November 13, 2019

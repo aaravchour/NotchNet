@@ -1,0 +1,2 @@
+Pale Hanging Moss is a gray, Pale Moss variant block that naturally grows underneath Pale Oak Leaves. They are mostly found in the Pale Garden. Unlike Vines, Weeping Vines, Twisting Vines and Glow Berries, Pale hanging moss blocks are not climbable. However, when placed under blocks, they give off eerie creaking and twisting root sounds similar to the Creaking.
+Unfortunately, pale oak saplings bonemealed by players generate Pale oak trees without pale hanging moss, making hanging moss quite rare to obtain. Pale Hanging Moss is also not craftable.

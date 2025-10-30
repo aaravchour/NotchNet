@@ -1,0 +1,90 @@
+An observer is a block that emits a quick redstone pulse from its back when the block or fluid directly in front of its "face" experiences a change.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+An observer requires a pickaxe to be mined. When mined without a pickaxe, it drops nothing.
+
+
+=== Crafting ===
+
+
+== Usage ==
+An observer is placed similarly to a piston. It observes the block that it is placed against. The texture of the detecting side is that of an observing face. As observers can detect the state of other observers, placing two adjacent observers, each watching the other, can make a fast and compact redstone clock. They send out a pulse.
+
+
+=== Behavior ===
+In Java Edition, an observer detects changes in its target's block states, or the breaking or placing of a block (i.e. changes in its block state, but not its block entity data). This means that changes like the age of crops can be detected because they are part of the block states.
+In Bedrock Edition, an observer acts as a block update detector and detects anything that causes a block update.
+The causes and propagation of block updates are different between Java Edition and Bedrock Edition. As a result, each can detect some kinds of changes that the other cannot. See the table below for a comparison.
+When it detects something, the observer emits a redstone pulse of strong power at level 15 for 2 game ticks (1 redstone tick). The pulse can power redstone dust, a redstone comparator, a redstone repeater, or any mechanism component located at its opposite end.
+In Java Edition, the pulse is emitted with a delay of 1 redstone tick. In Bedrock Edition, it is supposed to be delayed by 1 tick as well but is actually delayed 2 redstone ticks due to MCPE-15793, a bug causing redstone delays to be incorrect when components are activated by world changes (which, in the case of the observer in Bedrock Edition, is the only way it can be activated), as opposed to pure redstone components ticking. Its timing can also be incorrect due to MCPE-73342.
+It also counts as a block update when the observer itself is moved by a piston. When this happens, an observer emits a pulse after being pushed or pulled, but not beforehand. This enables them to be used in flying machines.
+Observers behave as both opaque and transparent blocks: they block light and allow mob spawning on top, but do not block opening chests below, do not cut off redstone wire, and cannot conduct redstone power.
+Because observers in Java Edition detect changes in the block state, and not block updates, they can detect a wider range of phenomena than a block update detector (BUD) circuit in Bedrock Edition can detect (as some block state changes don't cause block updates). Observers in Bedrock Edition do detect block updates but not block state changes, and so they detect the exact same things that any other BUD would detect in that edition.
+
+
+=== Limitations ===
+
+
+=== Note blocks ===
+The observer can be placed under note blocks to produce bass drum sounds.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Observer" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+The current observer texture was created because Jeb kept confusing the front with the back. He said it was inspired by the "rejected texture" created by Tommaso Checchi.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Tutorials/Block update detector
+Redstone Comparator
+
+
+== References ==
+
+
+== External Links ==
+Block of the Week: Observer – Minecraft.net on November 10, 2017

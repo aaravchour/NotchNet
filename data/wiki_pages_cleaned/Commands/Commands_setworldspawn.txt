@@ -1,0 +1,23 @@
+Sets the world spawn.
+
+Java Edition
+setworldspawn [<pos>] [<angle>]
+Bedrock Edition
+setworldspawn [spawnPoint: x y z]
+
+JE: <pos>: block_posBE: spawnPoint: x y z: CommandPositionFloat
+
+Specifies the coordinates of the world spawn. If not specified, defaults to the block position of the command's execution. In Bedrock Edition, x and z that are greater than 30,000,000 or less than -30,000,000 revert to 30,000,000 and -30,000,000 respectively. y values which are greater than 256 and less than 0 revert to 256 and 0 respectively.
+In Java Edition, must be a block position composed of <x>, <y> and <z>, each of which must be an integer or a tilde and caret notation.
+In Bedrock Edition, must be a three-dimensional coordinates with floating-point number elements. Accepts tilde and caret notations.
+JE: <angle>: angle
+
+Specified the yaw angle to spawn with. Defaults to 0.0.
+Must be a yaw angle, measured in degrees with float number. -180.0 for due north, -90.0 for due east, 0.0 for due south, 90.0 for due west, to 179.9 for just west of due north, before wrapping back around to -180.0. Tilde notation can be used to specify a rotation relative to the execution yaw angle.
+
+This command can not be used to set the world spawn in any dimension other than the Overworld. In Java Edition, if executed in another dimension, the command will act as if it succeeded, but the world spawn will not be changed.
+On success, spawn chunks are also changed along with the world spawn in Java Edition.
+Normal spawn spreading still applies, and can be set with a gamerule.
+
+/spawnpoint
+/clearspawnpoint

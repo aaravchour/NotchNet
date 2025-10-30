@@ -1,0 +1,24 @@
+An extendable wall is a defensive structure in Minecraft Legends.
+
+
+== Obtaining ==
+Extendable walls can be placed by picking a starting point and an end point in placement preview mode. One build allay will be used to create the entire wall, but each column in the wall will cost three wood. Extendable walls are also able to transform into stone if built in range of a masonry.
+
+
+== Usage ==
+Extendable walls are a basic defensive structure that prevent enemies from entering your base. They are destroyed individually as columns.
+
+
+== Quotes ==
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Gallery ==
+
+
+=== Screenshots ===

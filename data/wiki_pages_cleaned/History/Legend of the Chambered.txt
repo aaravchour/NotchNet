@@ -1,0 +1,166 @@
+Legend of the Chambered (LoC), or simply Chambered, is a series of raycaster-styled games created by Markus "Notch" Persson where the player must explore winding stone chambers, fight monsters, and reach the end of the dungeon. There are at least six different versions of LoC. According to Notch's now-deleted project page, he later lost interest in this project and gave up on it, though he would go on to make several similar games later.
+Along with other similarly titled Chambered games, Legend of the Chambered was based on games like Dungeon Master, Eye of the Beholder and Ultima Underworld. The first Legend of the Chambered game was made in 2001, and the more well known version was released on May 24, 2008, with a sequel being released on or before May 3, 2009. Notch also created flash and android versions of Legend of the Chambered, as well as several other similar 3D dungeon crawlers, some of which bore variations of the Legend of the Chambered or LoC title, such as Prelude of the Chambered (PoC), created for the Ludum Dare 21 game jam in August 2011.
+Notch reused many item textures from the 2008 versions of Legend of the Chambered as textures for items in Minecraft, those being the textures for leather armor, studded armor, chainmail armor, iron armor, iron swords, apples, and quivers, as well as the armor slot sprites. Additionally, the text font used in Minecraft was also first used in these games, and Minecraft's inventory menu was based on a modified version of the LoC inventory. The four monster types present in the 2008 versions also bear resemblance to the first four monsters added to Minecraft.
+
+W or Z, A, S, and D keys to move
+Q and E or click + drag to look around
+W+ Left Shift to sprint (drains power, food, and water)
+Left click to pick up, equip and throw items
+Right click to "use" an item (red apple on a character to feed them and sword to attack)
+
+Both LoC 2001 and LoC 2008 have the same base controls.
+
+F12 throws a Staff of Creation
+
+Both the Ludum Dare LoC and the flash LoC with characters from Eye of the Beholder have the same controls.
+
+W, A, S, and D keys to move
+Q to look left
+E to look right
+Click to interact
+
+W, A, S, D or the , , , and  keys to move
+1 to 8 number keys to cycle through the inventory
+Spacebar to to interact
+
+Legend of the Chambered 1 begins in a stone chamber with the word "Welcome" written on one wall. There are more winding stone chambers that need to be explored. The player soon finds a small side-room in the hall with a pile of equipment on the floor, enough for the entire team, with some text above it saying "Loot".
+A little further on, there are two slots in the wall with some text in the middle of them saying "Niches". There are other niches scattered throughout the dungeon, but none of them have anything in them, nor can anything be placed in them.
+The player finds an intersection; going left, the player finds another, and going left again there is a square loop in which there is a niche in one of the walls. Going the other way there is a roofless room with an automatic wood door to it which continuously opens and closes, and some text on the wall next to it saying "(dancing)". Inside are two apple trees and two monsters. Going right from the first intersection is a room with a pentagonal stone pressure plate in the middle, and two stair wells behind it, one going up and one going down, with some text on a wall between them saying "Stairs". The player can't go up or down these stairs because of an invisible barrier.
+There is also another automatic door inside this room which leads to the woods (another roofless room with a maze of trees) as is suggested by some text saying "woods" on a wall somewhere inside it. Another wall on the opposite side has the words "Monsters" and "(dancing)" written on it. There are five monsters roaming around in these woods. Some of the trees have apples growing on them that can be picked by clicking on them, and many of the trees have apples piled underneath.
+The player can find their way into another tree-filled room that contains two words, "Win" and "Yay", on opposite walls, and a dynamic texture which shows the time set on one's computer on the middle wall.
+
+Legend of the Chambered 2 begins in a crevasse of stone walls open to the night sky. Equipment is scattered about on the ground, which the player can pick up and use. An opening to the left has studded boots and a leather shirt on the ground. Trees block the way past the opening. The player can either choose to descend the stairway leading down into the dungeon, or to follow a dirt path.
+The dirt path further up is lined with trees, and a skeleton wanders its entrance. A holy rune and a copper key can be found here. Further down the path, another skeleton wanders behind a stone block wall. The path then leads to the front of the graveyard, which has three ghosts wandering around in it, and the brick house. A chain helmet can be found here.
+Pressing the gray button on the front of the brick house opens up its front wooden door. Inside, behind three more wooden doors, can be found an iron key, a gold key, a copper key, and a jade key. There are also windows on all four sides of the house, that the player and monsters can attack through, but which items cannot be thrown through.
+Behind the brick house extends the rest of the graveyard, in which the player can find an earth rune, a water rune, and two coins. A wooden door in the stone wall that surrounds the map opens up to a stone room containing a spider. Inside to the right is another wooden door with windows in the walls on each side. This door opens up to a room with two spiders, a pit, three pressure plates, and a staircase leading to the dungeon.
+In the dungeon, two halls lead to the left and right with the staircase at the player's back. The halls meet up again with two wooden doors. Behind each door is a spider and rooms of marble. Each room conjoins into another marble room held up by marble pillars. At the end of the room, there are gravestones. Leaving the dungeon always brings the player back to the starting path no matter which entrance was taken.
+
+Prelude of the Chambered starts in the Prison, and the player must smash through cracked walls to find a ladder. Going down the ladder leads to the Dungeon, and after exploring a little, the player finds a power glove which lets the player push boulders and fight monsters. After fighting some bats and solving a boulder and pressure plate puzzle, doors open into a room filled with bats and the Golden Bat boss, which, like the other bosses, drops a key.
+After that, the player must go back up to the Prison to cut some bars, fight more bats and push two boulders into some holes. This lets them cross to another ladder which leads up to the Island, where there are more bats, along with eyes, and yet another ladder that takes the player down to the Frost Cave. Here they must fight more eyes, and find the skates. The player can also find a green healing potion here too. The skates allow them to move on the ice without sliding, allowing them to get to the Golden Eye boss.
+The player can then go back to the Island to cross some ice to obtain Cutters. Going back to the Frost Cave, the player can use the cutters on some bars to obtain a pistol. Going back to the Prison, they can cut more bars and find another pistol and potion in the cells. On the Island, there is a fence of bars with ogres that spit acid behind it, that the player must cut in order to get to the Crypt. In the Crypt, they must fight more ogres, and find the flippers. There is also another potion and pistol behind some cracked walls. The flippers allow them to swim in the water, allowing them to get to the Golden Ogre boss.
+Going back to the Island, the player must swim across some water and trap a ghost in a white box to enter the Temple. Here the player must lead ghosts and trap them in some more white boxes in order to cut bars and push buttons to open a door. Pushing a boulder through a hallway and into a hole lets the player pass into a room with another white box in it. Going into the door behind the white box is a room with a maze made out of ghosts.
+After finding the Golden Ghost boss, the player must lead it back through the maze to the white box at the beginning in order to get the last key. With all 4 keys collected, the player can go back up to the Island and open up the last door and walk out into a field. The text "YOU WIN", the number of trinkets found (trophies), and the time show up on screen.
+
+Items are objects that can be picked up, set down, thrown, placed into a character's inventory, and used, though they are unstackable. Each character's inventory consists of 18 item slots and 12 equipment slots (4 slots for armor, 2 for weapons, 2 for rings, an amulet slot, a quiver slot, and 2 power up slots that any item can be placed in), totaling up to 30 inventory slots per character, and 120 slots for the whole party.
+The original textures for leather armor, iron swords, apples and quivers can be found in the "items.png" file in the first 2008 version. The original textures for other armors such as studded, chainmail and iron armor can be found in the "armor.png" file in the second 2008 version.
+
+The locks were on the same file as the buttons used to open doors (), suggesting they may also have been intended for opening doors.
+
+This version of LoC is lost and may have had more items than listed.
+
+The inventory consists of a hotbar with 8 slots, in which collected items are shown. Unlike in the main game, certain items are stackable, such as Health Potions and Pistol Bullets.
+
+The game code in LoC refers to a character individually as Hero, and collectively as Party. Both PoC and the android version of LoC refer to the player character simply as the Player, which has no sprite or given name. The LoC game from 2001 contained character portraits from "The Summoning" by Strategic Simulations as a placeholder, but it is unknown which ones were used.
+
+Diana - A female mage with red hair, green eyes, and a purple top. She has 46 HP, 26 Power, 8 Attack, and 7 Defense. She is unable to do melee attacks in LoC2.
+Green - A male ranger with black hair, blue eyes, a light green top similar to Alex, and a green jacket or sweatshirt. He has 86 HP, 55 Power, 13 Attack, and 14 Defense.
+Shera - A young female warrior with gray eyes, brown hair, a gray sleeveless top, and a sword. She has 107 HP, 46 Power, 17 Attack, and 15 Defense.
+Teron - An old bald priest with purple eyes, a purple robe, and a light purple top. He has 31 HP, 34 Power, 5 Attack, and 9 Defense. He is unable to do melee attacks in LoC2.
+Which heroes take damage from an attack is determined by the direction the attack comes from. The middle heroes take damage from attacks from the front, the outer heroes take damage from attacks from behind, the left heroes take damage from attacks from the left, and the right heroes take damage from attacks from the right. Heroes are able to take damage from other directions if a hero that would normally receive an attack from that direction is dead.
+Each hero's HP and power regenerates over time, with power regenerating faster than HP, and more quickly while standing still. A hero's power is reduced by attacking and sprinting, and the party is unable to sprint if any living hero runs out of power. Each hero also has hunger and thirst meters that slowly decrease over time and can be replenished using apples, with indicators appearing on a character's portrait if either is low (which flash in LoC2), though nothing happens when they reach zero.
+When a hero dies, items can still be taken in and out of their inventory, but they are unable to perform any actions. When the entire party dies, the camera drops to the ground and the player is unable to move, though they can still turn the camera around.
+In LoC2, each hero starts at level 1, but each time the party kills an enemy, each hero earns a random amount of experience points. Each hero needs 200 points to reach level 2, and the number of points needed to reach the next level increases by 200 each time. Upon leveling up, each hero's HP, power, and attack increases by a random amount (except for Diana and Teron, whose attack does not seem to increase).
+
+These characters are from the flash variant of LoC. The names and sprites are taken from the game Eye of the Beholder.
+
+Taghor - A male dwarf with a white beard, a horned helmet, and a brown top.
+Keirgar - A male wizard with a white beard and a blue robe.
+Alyssa - A female thief with a green hood and scarf, and black hair.
+Largo - A male wizard with a purple aesthetic.
+Mat - A male wizard with a red aesthetic.
+Chriss - A male dwarf with a blond beard and hair, and a white sleeveless top.
+The characters taken from Eye of the Beholder in the Adobe Flash LoC had dialog or an onomatopoeia whenever the player attempted to move into a wall, these being: *thud*, *bonk*, "Oof! That hurts!", and "Ouch! These walls are quite hard."
+
+The unseen player character in Prelude of the Chambered has 20 HP, takes 1 damage from all attacks and deals 1 damage with each attack.
+
+The LoC from 2001 has mummies, the first version of LoC from 2008 only has monsters in it, while the second version has skeletons, ghosts and spiders. The android version only has slimes. PoC has bats, eyes, ogres and ghosts, along with boss variants of each.
+
+Mummy - The texture of the mummy was taken from the game Dungeon Master as a placeholder in LoC 2001. It is unknown what they did, but presumably they attacked the party.
+Monster - The monster resembles a goblin or zombie with green skin, messy dark green hair, red eyes, tusks, a rust top, tan pants, and dark blue shoes. Its movement resembles dancing and they wander around aimlessly even when the player is near. If one bumps into the player, it raises its arms and deals 1-7 damage to 1-2 members of the party. They take 10 hits to kill and when killed, they explode into giblets of blood and drop 0-4 coins.
+Skeleton - Skeletons can be found wandering around in the forest. They pursue and attack the player when in range, raising their arms and dealing 1-7 damage to 1-2 party members upon contact. They have 50 HP and when killed, they explode and drop 0-4 coins. Minecraft skeletons are capable of melee attacks, though a bow is always equipped by any naturally spawned skeletons. Their color schemes are also different from each other.
+Ghost - Ghosts can be found wandering around in the graveyard. They pursue and attack the player when in range, raising their arms and dealing 1-7 damage to 1-2 party members upon contact. They have 50 HP and when killed, they explode and drop 0-4 coins. There are currently no explicit ghosts in Minecraft, however, some mobs are ghost-like such as the allay, the vex, and the ghast. Their unhappy faces with black eyes and mouths also resemble that of the creeper.
+Spider - Spiders can be found wandering around in the dungeon. They pursue and attack the player when in range, raising their arms and dealing 1-7 damage to 1-2 party members upon contact. They have 50 HP and when killed, they explode and drop 0-4 coins. Their color scheme is very similar to the original brown spider texture from Minecraft.
+Slime - During a Ludum Dare, Notch had planned on making another LoC game, which he later released as a mobile game on android. The only enemy present is a purple blob-like creature known as a "slime". They had 3 HP and would wander around aimlessly unless a player was near, in which case they would attack. A similar mob is seen in TinyCham which is green instead of purple. Both have a very different appearance from that of Minecraft slimes.
+
+Bat - Found in the Prison, Dungeon and Island. It has 2 HP and slowly flies around aimlessly until it bumps into the player, dealing damage, unlike the bat in Minecraft, which is peaceful.
+Eye - Fully blue with 4 HP, and quickly flies around aimlessly on the Island and in the Frost Cave until it bumps into the player, dealing damage.
+Ogre - A green creeper-like humanoid creature that is found on the Island and in the Crypt. It has 6 HP and walks around aimlessly until it bumps into the player, dealing damage, and has a ranged attack of spitting green acid projectiles at the player.
+Ghost - The ghost is found on the Island and in the Temple. It is the only monster that follows the player, doing so when the player is close, and deals damage on contact. They can move through walls and cannot take damage, and the player has to defeat them by luring them to white boxes.
+
+There is a stronger, golden variant of every creature in PoC, each of which drops a blue key. The golden bat has 5 HP, The golden eye has 10 HP, the golden ogre also has 10 HP and spits four perpendicular streams of golden acid, and the golden ghost spits a stream of golden acid at the player and also has a speed boost, and must be lured through a maze of ghosts in order for it to be trapped.
+
+Notch made many games with the same name or with similar names. All of them seem to take place at night.
+
+The first game Notch created under the title of "Legend of the Chambered" was released all the way back in 2001.
+This game had working stairs, pressure-plates, doors, buttons, levers, healing potions, backsacks [sic], arrows, and quivers. The arrows could be placed inside of quivers. It also had fighting with attack cool-downs, mini-quests, multiple floors and levels, a development mode with the ability to throw a Staff of Creation, and a planned storyline.
+Notch made two similar 3D dungeon crawlers, Dungeon4k and Hunters4k, for the Java 4k programming contest in April 2005. (See also: Minecraft 4k and Miners4k)
+In Dungeon4k, there are specked red stones called power stones that the player uses to charge power fields, which are somewhat similar to the redstone from Minecraft.
+A game titled flashmaze was created sometime in 2006. It was a first person shooter prototype in flash using textures from the freedoom project. Although the game didn't seem to have a lot in common with the LoC games, its webpage was titled "chambered".
+Notch also made another LoC game using Adobe Flash sometime in 2007, which featured 3D surface rendering and characters from the game Eye of the Beholder. There is little to no gameplay; the only interactions possible are walking around, bumping into walls, and rotating bottles.
+A basic version of the 2008 Legend of the Chambered game, with a webpage titled "chambered", was released on May 24 and later added to.
+Swords and apples were the only items at first, and there was a different font.
+Legend of the Chambered received an update in the same year that changed the font and added more items.
+A second version of this game was created, with a webpage titled "chambered/2", which had a different set of textures and level layout, along with new enemies and items.
+While the files are dated to June 20, 2008, it was initially withheld from public release, however Notch announced on May 3, 2009 on the TigSource Forums that the work-in-progress game was now available to play on the Mojang website as an applet, mentioning that he had made the game "a while back".
+There is an unused ball texture. There were balls in PoC used for puzzles, though the texture was closer to that of a boulder.
+In the game files there is a file named ToHackers.class. Inside is a message by Notch: Hi! I'm cool with you poking around in here (the obfuscation is for size),but please don't distribute any modified versions of this game.If you've got any suggestions, let me know at markus@mojang.com.Thanks, Notch.
+In October 2008, Notch also made another game called TinyCham (Tiny Chambered), a similar dungeon crawler with a 40x30 pixel resolution, which was followed by a sequel later that month, Eye of the Onlooker II - The Legend of Tinymoon.
+The sequel is a tiny remake of Eye of the Beholder II: The Legend of Darkmoon.
+Legend of the Chambered - Book 1 was a game for TinyGame 2010 which featured dithering.
+In some posts Notch made during the Ludum Dare 19 competition in December 2010, he had some screenshots of a game that was labeled LoC (Legend of the Chambered). This one however mainly used billboarded sprites instead of raycasted surfaces. Soothing music would play in the background; one could go up stairs, pick up items, and throw them; and purple slimes would wander around and attack the player.
+Although he didn't finish this version of the game, at the end of the month, he began working on it again, released a playtest, and eventually released a version for android devices.
+In this version of Legend of the Chambered, a sound titled "oof" can be found in the code, which may be the same sound that the Player used to make.
+In January 2013, Notch shared a few screenshots of another Chambered-like game reusing some textures from the Ludum Dare version.
+Prelude of the Chambered was an entry for the Ludum Dare 21 competition in August 2011, the theme of which was "Escape".
+Notch made a JavaScript version of Minecraft 4k in 2012 titled "ChamberedTest".
+
+Notch has referred to Legend of the Chambered as "LoC" on several occasions, and many of his Chambered games have files that are named "LoC" or "PoC".
+The textures for some items in Minecraft were the same at first to their textures in Legend of the Chambered, but with time some modifications were made, and some items were completely removed.
+Much of Minecraft's GUI has parallels to the GUI and buttons of Legend of the Chambered.
+Notch used UI elements from LoC in a survival inventory mockup during the development of Survival Test.
+Other notable unfinished games Notch made that he took sprites from for Minecraft were RubyDung (grass and cobblestone) and Zombie Town (the Human/Steve texture and possibly the zombie texture).
+In Prelude of the Chambered, there are 12 golden trinkets hidden throughout the game, with two on each level.
+One is behind a cracked wall in the prison near the start.
+One is hidden behind a boulder in the dungeon.
+One is behind a cracked wall in the dungeon.
+One is in a room behind metal bars in the prison.
+One is on the other side of some ice in the frost cave.
+One is next to where the skates are found in the frost cave.
+One is behind the bars next to where the cutters are found on the island.
+One is behind a button-activated door in the crypt.
+One is behind another door near where the flippers are found in the crypt.
+One is on the other side of some water on the island.
+One is behind a cracked wall in the temple.
+One is behind another nearby wall in the temple.
+Notch had planned on adding stats to Minecraft similar to the ones he had in these games.
+There are floating blue eyes in both Prelude of the Chambered and in a similar game by Notch, Hunters4k. The ones in PoC are simply called "eyes", and the ones in Hunters4k are called "hunters". The eyes of ender from Minecraft can also float and are also blue, with the exception of the green iris.
+There are green creatures in both Prelude of the Chambered and Legend of the Chambered. The ones in PoC are called "ogres", and the ones in LoC are called "monsters". There are also green creatures in another one of Notch's games, MetaGun, called "gremlins".
+In the early development of Minecraft, Notch stated that he would like to add monsters roaming the land. He gave examples of lava zombies or troll infestations. Later, the zombie was implemented, and a humanoid mob called a monster was added and then removed.
+The Power Glove in Prelude of the Chambered also appears in another one of Notch's games, Minicraft, which was made for another Ludum Dare four months later.
+The game Doomgeon took inspiration from Prelude of the Chambered.
+On Notch's old YouTube channel, Nizzotch, there was a video of him making Prelude of the Chambered. The video has been deleted, but there are archives of it.
+He also livestreamed himself coding the game on twitch.
+
+Original webpage for Legend of the Chambered 2008-1 (archived).
+Original webpage for Legend of the Chambered 2008-2 (archived).
+Archived flash Legend of the Chambered.
+Original webpage for Legend of the Chambered - Book 1 (archived).
+Original webpage for the Ludum Dare 19 Legend of the Chambered (archived).
+Original Ludum Dare page for Prelude of the Chambered (archived). (Includes download links)
+Original webpage for Prelude of the Chambered.
+Another download link of Prelude of the Chambered.
+A download link of Legend of the Chambered 2008-1.
+A download link of Legend of the Chambered 2008-2.
+A download link of the android version of Legend of the Chambered.
+A second download link of the android version of Legend of the Chambered.
+Notch's list of games on mojang.com (archived).
+Chambered Wiki.
+
+RubyDung, another game preceding Minecraft.
+Zombie Town, another game preceding Minecraft.
+Infiniminer, another game preceding Minecraft.
+Dwarf Fortress, another game preceding Minecraft.
+Dwarf Fortress Wiki
+Dwarf Fortress Website
+Minicraft, another game created for a contest.
+Minecraft 4k, another game created for a contest.

@@ -1,0 +1,23 @@
+Straight stairs
+
+Inner corner stairs
+
+Outer corner stairs
+
+Potentially noteworthy effects:
+
+In 1.0.0's development, the bottom faces of blocks had the texture mirrored - when this started and when it was fixed is unknown
+MC-91710 resulted in several cases of stair UV appearing different
+MC-92137 would also have resulted in stair UV appearing wrong
+MC-114779 removed a face of stairs that cannot be seen normally
+
+Beta 1.0: With the introduction of tooltips, the block has been officially named Stone Stairs.
+14w31a: Changed to Cobblestone Stairs
+
+Straight stairs
+
+Inner corner stairs
+Section pending.
+
+Outer corner stairs
+Section pending.

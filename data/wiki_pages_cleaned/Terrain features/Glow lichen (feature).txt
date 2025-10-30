@@ -1,0 +1,9 @@
+A glow lichen is a feature that consist of several glow lichen blocks.
+
+Glow lichen feature can be found in all the Overworld biomes. It generates on the four sides and lower surface of stone-like block including stone, andesite, diorite, granite, dripstone block, calcite, tuff, and deepslate. It generates only in air and water.
+
+Java Edition:
+
+Bedrock Edition:
+
+which is used in:

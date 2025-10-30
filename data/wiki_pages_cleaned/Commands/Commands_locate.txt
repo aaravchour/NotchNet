@@ -1,0 +1,44 @@
+Displays the coordinates for the closest generated structure or biomes of a given type in the chat for the player who executed the command. In Java Edition, it can also display for the closest points of interest.
+
+Java Edition
+/locate structure <structure>
+/locate biome <biome>
+/locate poi <poi>
+Bedrock Edition
+/locate structure <structure: Structure> [useNewChunksOnly: Boolean]
+/locate biome <biome: Biome>
+
+JE : <biome>: resource_or_tag
+BE: biome: Biome: enum
+
+Specifies the biome to locate. In Java Edition, this argument also supports biome tags.
+In Java Edition, must be an existing registered resource location or tag in minecraft:worldgen/biome registry. In Bedrock Edition, must be an ID of a biome (without namespace)
+JE (case-sensitive): <structure>: resource_or_tag_key
+BE: structure: Structure: enum
+
+Specifies the structure to locate. See Generated structures#Data values.
+In Java Edition, must be a resource location or a tag, which will be resolved during command execution into an entry or tag in minecraft:worldgen/structure registry. In Bedrock Edition, must be an ID of a generated structure (without namespace)
+BE: useNewChunksOnly: Boolean: enum
+
+Specifies if a structure of any type wants to be located in new chunks only (true) or not (false), and it's false by default.
+Must be a  boolean (either true or false).
+JE : <poi>: resource_or_tag
+
+Specifies the point of interest to locate.
+Must be an existing registered resource location or tag in minecraft:point_of_interest_type registry.
+The following are resource locations of POIs:
+
+This argument also supports point of interest type tags, as following:
+
+For /locate structure ..., the vertical coordinate of structure is ignored when finding. In Java Edition, the horizonal search range is 201201 chunks. Structures in the Anvil chunk region of the command's execution are prioritized over others due to a bug, meaning the found structure is not necessarily the closest.
+For /locate biome ..., the horizonal search resolution is 32 blocks, and vertical resolution is 64 blocks, which means biomes that are too narrow may not be found. The horizonal search range is 1280112801 blocks in Java Edition.
+In Java Edition, for /locate poi ..., the search range is a ball with a radius of 256 blocks.
+When locating structure or POI, if successful, the following message is sent to chat: "The nearest <requested thing(s)> is at [<x> ~ <z>] (<distance> blocks away)", in which <distance> is the horizontal distance from the executor. 
+When locating biome, if successful, the following message is sent to chat: "The nearest <requested biome(s)> is at [<x> <y> <z>] (<distance> blocks away)", in which <distance> is the distance from the executor to the biome. 
+In Java Edition, the coordinates in these messages can be clicked, which can put the command /tp @s <x> ~ <z> in the chat box. The command can then be executed, and the player is sent to those coordinates.
+
+To obtain the coordinates of the nearest woodland mansion: /locate structure mansion
+To obtain the coordinates of the nearest pillager outpost in new chunks only: /locate structure pillager_outpost true
+To obtain the coordinates of the nearest village of any kind: /locate structure #village//locate structure village
+To obtain the coordinates of the nearest desert biome: /locate biome desert
+To obtain the coordinates of the nearest point of interest used by villagers: /locate poi #village

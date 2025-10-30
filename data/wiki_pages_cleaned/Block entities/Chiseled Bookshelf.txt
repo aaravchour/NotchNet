@@ -1,0 +1,45 @@
+Chiseled bookshelves are blocks that can hold books, books and quills, written books, enchanted books and knowledge books.
+
+Chiseled bookshelves can be destroyed with any tool, but an axe mines it the fastest. When broken, all contained books are dropped as items. The block itself drops only when broken using a tool enchanted with Silk Touch.
+
+Chiseled bookshelves can hold up to six books, books and quills, written books, enchanted books, and/or knowledge books. There is no GUI; books are instead added into the bookshelf by using on a slot with a book. Doing so will place a book in that slot. Using on an occupied slot will remove the book from that slot.
+Chiseled bookshelves do not increase the power of enchanting tables.
+
+A redstone comparator sends a signal (16) indicating the last slot interacted with. When no slot has been interacted with yet, it outputs 0.
+An observer can detect when a book is added or removed from the bookshelf.
+
+Hoppers and minecart with hoppers can insert and remove books from the bookshelf. As with any other container, items are taken from the first slot that has an item that can fit in the hopper and are inserted into the first empty slot. Droppers behave similarly when inserting books into the bookshelf.
+When a hopper that is not already 100% full fails to remove a book from a non-empty bookshelf because there is no room for the book in the hopper's inventory, that is still counted as an "interaction" with the slot. Thus, a hopper that cannot remove any of the books will effectively set the last-interacted slot to the last non-empty slot in the bookshelf.
+
+Chiseled bookshelves can be used as fuel in furnaces to smelt 1.5 items.
+
+Chiseled bookshelves can be placed under note blocks to produce a "bass" sound.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+A chiseled bookshelf has a block entity associated with it that holds additional data about the block.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Block entity format.
+
+Issues relating to "Chiseled Bookshelf" are maintained on the bug tracker. Report issues there.
+
+There are 119 (2,357,947,691) different ways to craft a chiseled bookshelf, as each of the nine slots in the crafting grid can contain planks or slabs of any of the eleven wood types.
+
+Block of the Month: Chiseled Bookshelf  Minecraft.net on June 29, 2023

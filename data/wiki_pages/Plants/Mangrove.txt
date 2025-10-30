@@ -1,0 +1,41 @@
+Mangrove trees are found in mangrove swamps, in which they can grow on water or land. They have large canopies and aerial root systems. Their wood color is vermillion. They can be planted in the air, but their roots always touch the ground. They sometimes generate in some of the Trial Chamber entrance rooms, set as a display.
+
+
+== Blocks and items ==
+These items can be obtained from mangrove:
+
+Mangrove Leaves (harvested with shears)
+Mangrove Log (harvested with any tool including hands)
+Mangrove Propagule (if fully grown, will drop when it or the leaves it is hanging from is mined)
+Mangrove Roots (harvested with any tool including hands)
+Muddy Mangrove Roots (harvested with any tool including hands)
+Stripped Mangrove Log (created by using an axe on a log)
+Vines (harvested with shears)
+Moss Carpet (harvested with any tool including hands)
+Bee Nest
+Stick (See Block loot for chances)
+
+
+== Planting ==
+
+Mangrove propagules can be planted and grown on all of these blocks, even if submerged underwater:
+
+Dirt
+Grass Block
+Coarse Dirt
+Podzol
+Mycelium
+Rooted Dirt
+Moss Block
+Farmland
+Mud
+Muddy Mangrove Roots
+Clay
+When mangrove trees grow, they convert any mud in the way of the mangrove roots to muddy mangrove roots. They need at least a 5×5 of clear space to grow in. Their maximum size blueprint occupies a 13×13×18 volume.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Mangrove" are maintained on the bug tracker. Report issues there.

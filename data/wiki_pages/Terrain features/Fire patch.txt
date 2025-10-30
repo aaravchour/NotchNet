@@ -1,0 +1,19 @@
+A fire patch is a feature that consists of fire or soul fire.
+
+
+== Generation ==
+Fire patch generates only on netherrack if it is normal fire, while soul fire patch generates on soul soil.
+In Bedrock Edition, fire patch feature generates in any biome in the Nether.
+In Java Edition, normal fire patch generates also in any biome in the Nether. But soul fire patch cannot generate in Crimson Forest biome.
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==

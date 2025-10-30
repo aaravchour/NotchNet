@@ -1,0 +1,24 @@
+Bread is a food item that can be eaten by the player.
+
+Novice-level farmer villagers sell 6 bread for one emerald as part of their trades. In Java Edition they only have a 40% chance of offering this trade.
+
+Farmer villagers may use wheat they have harvested to craft bread, which they can trade with other villagers.
+Farmer villagers may throw bread at players under the Hero of the Village effect.
+
+Bread can be eaten with the use control while it is selected in the hotbar. Eating bread restores 5 () hunger and 6.0 hunger saturation.
+
+Villagers can pick up bread items to become willing, allowing them to breed. Villagers require 3 bread to become willing.
+
+Placing bread into a composter has an 85% chance of raising the compost level by 1. It is more efficient to compost wheat than bread made from wheat.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Bread" are maintained on the bug tracker. Report issues there.
+
+Taking Inventory: Bread  Minecraft.net on February 25, 2021

@@ -1,0 +1,26 @@
+A target is a block that produces a temporary redstone signal when hit by a projectile. Unlike most other conductive blocks it also redirects adjacent redstone dust towards it.
+
+A target can be found in ancient cities.
+
+Targets can be mined using any tool or by hand, but a hoe is the fastest way to break it.
+
+Targets emit a redstone signal when hit by most projectiles. This includes arrows, tridents, eggs, snowballs, splash potions, fire charges fired by a dispenser, firework rockets, lingering potions, bottles o' enchanting, ender pearls, shulker bullets, and llama spit. The closer a projectile is to the center of the block, the stronger the redstone signal that is produced.
+
+When struck by most projectiles, the target emits redstone power for 4 redstone ticks (0.4 seconds). Arrows and tridents instead cause the target to emit power for 10 redstone ticks (1 second), similar to stone buttons. A target can be hit with any of the projectiles mentioned above.
+The strength of the signal depends on how close the projectile is to the center of the block, from 1 to 15.
+The target also provides a block update when hit, meaning that an observer can detect if the target has been hit and has produced a redstone signal.
+When used as part of a redstone circuit, a target has the unique property that, though being an opaque block that is not a mechanism component, still can redirect adjacent redstone dust to point to itself.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Issues relating to "Target" are maintained on the bug tracker. Report issues there.
+
+Block of the Week: Target  Minecraft.net on June 18, 2020

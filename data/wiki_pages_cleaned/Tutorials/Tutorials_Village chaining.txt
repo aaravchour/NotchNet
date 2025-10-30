@@ -1,0 +1,49 @@
+Village chaining is the process by which one can move village centers abnormally close to, or within, each other. This is a process that is commonly used in making highly efficient and compact iron farms. It was first discovered in Java Edition 1.4.2, and has been used till Java Edition 1.13.2. The process was originally discovered and introduced to the majority by TangoTek.
+
+The video where TangoTek introduced the village chaining concept.
+This tutorial will teach you how to chain villages - typically used in the spawning part of large, efficient iron farms - from scratch. If you only want examples, visit the iron golem farming tutorial. This is also created specifically for Java Edition. Info may be inaccurate when applied to other versions.
+The new village info mod will definitely help, as it is the only village info mod that helps you visualize villages while not being glitchy.
+
+Non-concentrical chained villages are the first to be discovered. Their component villages' centers is usually arranged on a line and are not put in the same position.
+On the other hand, concentrical chained villages are discovered much later. They have all component villages' centers in the exact same spot.
+
+Pros
+Easier and simpler to create.
+Cons
+Less space-efficient.
+Require a whole lot more door placing and breaking if it is non-resettable, and a lot more doors if it's auto-resettable.
+Require more villagers.
+
+Because even the quickest reloading of chunks (usually done in autosaving, and affects most kind of chunk loaders) will basically wipe all villages data in those chunks and recalculate everything, chunks containing chained villages must never unload as long as the game is open, or else the whole thing will merge.
+The solution to this is either putting the whole chained village in spawn chunk or its equivalent, then use a little trick to continue loading the chunks even when no player is in the same dimension as it (the non-resettable solution), or use redstone to rechain the village whenever the player needs (the resettable solution).
+The resettable solution is primarily used when chunk permaloading cannot be achieved (for example in a Spigot server), or when the chaining process is so complex it cannot be done manually (such as in concentrical chained villages).
+
+Note:
+1. Before getting to the advanced, please visit the tutorial on village mechanics first to learn the basics.
+2. Mechanisms discussed in this section are for Java Edition 1.8 and above only, however game mechanics discussion are for all versions that have villages.
+3. To prevent itself from being unnecessarily long or wide, figures in this section use planks and fences to represent valid door positions and village radius, respectively. Side-view log represents a village center that contains a valid door, while top-view log represents a door-less center. The barrier icons just represent unimportant things. More important icons may overlay less important ones. The minimum village radius in those figures is 5 blocks and the merging range is radius + 5 blocks instead of 32 blocks and radius + 32 blocks like the real game.
+
+If all the chunks containing villages are not reloaded, village merging will only be considered when a villager detects new doors (technically only the bottom block of the door is counted). If there are multiple villages in range, only the most eligible village to merge with a door will get merged with it. All the other in-range villages are ignored. Thus, villages with overlapping boundaries are possible.
+Before 1.8, the older a village is the more eligible it is to merge with a new village. Consequently, village chaining back then primarily used the merging range to prevent villages from merging initially. After 1.8, however, the nearer a village to a door the more eligible it is to merge with the door. If multiple villages have the same distance between their centers and a door, the door will prefer the older village more. This makes village chaining tougher, but also much more predictable, allowing a village to extend from a far spot to overlapping with a preexisting village. It also doesn't break chained villages from older versions as long as it is kept loaded, but old reset mechanisms no longer work.
+
+The process of making village boundaries overlap, with the oak village getting closer and closer to the birch village each chaining cycle, until it cannot get any closer with this method. The oak village is created first, thus the game prefers it over the birch village. Note the rounding that shifted the center to the west. This is also almost exactly the same way TangoTek chained villages in his Iron Titan.
+The village border extender is a valid house that, as the name suggests, extends the border of a village so that the center is closer to the center of another village. The extender should always be placed as close as possible to the other village, but must still be closer to the village that needs extension. After that, the further door(s) to the other village's center is removed, so that the extender becomes the center of the village, allowing it to use another extender to continue the process until it cannot get any closer with this method. After the extended village has reached that spot, more doors can be added to it & the other village so they both have enough doors to spawn iron golems.
+
+The village center is the centroid of the shape formed if all the valid houses' positions are connected, however it can also be confused with the center (or centroid, it is the same in case of a sphere) of the bounding sphere of the village (the smallest sphere possible that contains all the doors of the village). Consequently, the more populated with valid houses a section of the village is, the nearer the village center is to the centroid of that specific section.
+
+Using a big cluster of valid houses, one can "anchor" the village center so that it is more likely to be near the centroid of the cluster, then use extenders to extend the village radius way past the anchor itself. This technique is crucial if you want to make it so that an old village is completely inside another, new village, which in turn is crucial for concentrical village chaining.
+A good was to do this is to first create the extender along with a new village; then, use 1 small and 1 big anchor to help the newer village reach the other side of the iron farm, allowing for concentrical village chaining.
+
+A villager can be inside multiple villages as long as they are inside the border of those villages, which is the prime advantage of concentrical chained villages over non-concentrical chained villages, and of any type of chained village over traditional iron golem farming. This can reduce the villagers cost from hundreds down to 30 or so.
+
+Each villager have a hidden timer that counts down from a random number of seconds, the minimum being 2.5 seconds and the maximum being 6 seconds. After the timer reaches 0, new valid doors ("houses") are detected and old doors are re-detected in a 32 x 8 x 32 box. The center of the box is always on the north-west edge of the block the legs of the corresponding villager is in, and it is always on the same vertical level as the villager. Usually only the bottom block of a door is counted, however the bottom layer of the detection box is able to detect the upper block, however this cannot be used to detect a door twice, and only affects the center math. In both cases the door blocks have to be completely inside of the box to be detected. This limitation can be used to prevent new doors from being added, however as villagers cannot move vertically freely, the vertical detection range is more limited and houses that need to be separated are usually stacked on top of each other, only the vertical limitation is often used.
+Additionally, after getting detected as houses, doors no longer need an "outside" or "inside" to be kept being considered as houses. This is especially crucial in stacking multiple doors.
+Aside from having itself destroyed, or having the chunk it is in reloaded, a door can only stop being considered as a house if there is no villager that re-detects it for 60 seconds. This is both useful and harmful as it allows chaining mechanisms to be reused without player interaction, but can also break a chained village.
+
+Knowing these mechanics, making a layered chained village, keeping doors detected and undetecting doors is quite easy. These videos are example of those mechanics being used in practice:
+
+In this video, despite solid blocks being placed, blocking the skylight from reaching the 1st floor (with already chained villages), the farm still functions properly. The main villagers are divided in 2 separate chambers so they can detect the doors properly. TangoTek can be heard mentioning the 6-second rule.
+
+The Iron Phoenix uses slime blocks to separate the door layers because it is a transparent block that doors can be placed on.
+
+As the game's internal integer rounding always truncates integers, village centers are always placed further to the downward direction (negative Y direction) from the actual centroid of the village. This also affects the golem spawning box. The golems spawn inside a 16*6*16 box that has to fit perfectly into the block grid. As a result, the center of that box is never the center of the village.

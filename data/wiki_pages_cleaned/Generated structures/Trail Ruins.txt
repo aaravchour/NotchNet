@@ -1,0 +1,26 @@
+Trail ruins are buried structures that work as archaeology sites where suspicious gravel generates. They are found in heavily forested biomes and resemble ruined villages from a lost culture. 
+
+Trail ruins are found in the taiga, snowy taiga, old growth taiga, old growth birch forest, and jungle biomes.
+
+The trail ruins are structures that generate mostly underground with only the top of the tower above the ground. The ruins resemble small, ancient settlements. Each trail ruin has a main road made of cobblestone, stone, and stone bricks that connect multiple small buildings and a central tower made of terracotta and glazed terracotta, the tip of which is the only part of the structure that does not tend to generate underground. Adjacent to the tower generates two rooms and sometimes other small buildings and dcor made of mud bricks and terracotta. Most of the structure is buried in gravel, dirt, and coarse dirt, as well as suspicious gravel. In Bedrock Edition, they generate much more exposed on the surface compared to Java Edition, with sometimes the entire trail ruin being on the surface with the sections still buried in dirt and gravel.
+Trail ruins are completely solid; they don't have interior rooms.
+Some blocks of suspicious gravel are generated floating. They fall and are destroyed if an adjacent block is updated.
+Some blocks of suspicious gravel are generated floating, and will fall and be destroyed if an adjacent block is updated.
+
+All trail ruins structures found below are located in the folder client.jar/data/minecraft/structures/trail_ruins.
+
+Like other structures, the trail ruins have loot. Below are the lists of loot, from most common to rarest:
+
+In Java Edition, each trail ruin's suspicious gravel contains 1 item stacks,  with the following distribution: 
+
+In Bedrock Edition, each trail ruin's suspicious gravel contains 1 item stacks,  with the following distribution: 
+
+In Java Edition, each trail ruin's rare suspicious gravel contains 1 item stacks,  with the following distribution: 
+
+In Bedrock Edition, each trail ruin's rare suspicious gravel contains 1 item stacks,  with the following distribution: 
+
+Issues relating to "Trail Ruins" are maintained on the bug tracker. Report issues there.
+
+Trail ruins are the only structures where concrete and mud bricks naturally generate.
+One of the decor rooms with two coal blocks and brick stairs is a reference to pot baking from the original archeology showcased in Minecraft Live 2020.
+Trail ruins took the developers 16-20 hours to design and build.

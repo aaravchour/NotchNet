@@ -1,0 +1,58 @@
+How did we get here? is a joke block introduced in 22w13oneBlockAtATime. Because the 22w13oneBlockAtATime update removed the inventory, and therefore items, this block takes the place of all items.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+How did we get here? blocks can be broken with any tool, but they will not drop. They will directly go in the player's hands like any other block in this version.
+
+
+=== Post-Generation ===
+Whenever an item would be otherwise dropped on the ground, a How did we get here? block spawns instead, displaying the item that it replaced and represents.
+They are also spawned when an item is crafted with a crafting table.
+
+
+==== Debug mode ====
+Every item that can be displayed by How did we get here? blocks are seen in debug mode, as well as their waterlogged versions.
+
+
+== Usage ==
+How did we get here? blocks can be used as the item they display and can be thrown by the player like any other block. 
+
+They can increase your attack damage, if they display a sword or axe.
+They can increase block breaking speed, if they display the corresponding tool.
+They can be thrown onto a player to equip, if they display a piece of armor.
+They can be thrown on crafting tables to craft other items.
+Or a crafting table can be thrown onto them.
+They are also waterloggable.
+
+
+== Sounds ==
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+=== Block states ===
+
+
+=== Display ===
+
+They have an item block state that specifies the internal ID of the item to display with (0-1104).
+
+
+== History ==
+
+
+== Issues ==
+How did we get here? blocks are an unsupported item due to being an April Fools' joke, and therefore such issues relating to them will not be fixed.
+
+
+== Trivia ==
+Although they have an item form, How did we get here? blocks don't have an inventory form because the inventory was removed from the version they were added.
+They have the same model as white carpets.
+The name of the block might be a reference to the advancement of the same name.

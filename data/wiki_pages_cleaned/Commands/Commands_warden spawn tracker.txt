@@ -1,0 +1,5 @@
+Sets how many warnings a sculk shrieker will give before spawning a warden.
+
+warden_spawn_tracker (clear|set <warning_level>)
+
+This command is/was the only command containing "_" in the name.

@@ -1,0 +1,213 @@
+String is an item used in crafting recipes such as bows, fishing rods and leads. When placed as a block, string becomes tripwire, which can be combined with tripwire hooks to form a tripwire circuit.
+
+
+== Obtaining ==
+String can be obtained from drops, breaking cobwebs, fishing, bartering, and as gifts from cats. String can be looted from jungle temples, desert pyramid chests, and dungeons.
+
+
+=== Breaking ===
+Tripwire can be mined instantly with any tool, dropping string. Tripwire is also removed and drops string as an item when:
+
+Water flows into its space
+A piston pushes it or moves a block into its space
+Tripwire is destroyed without dropping string if lava flows into its space.
+A cobweb drops string when it is broken in these ways (see also Cobweb § Usage):
+
+Breaking a cobweb with a sword
+Pushing a cobweb with a piston
+Water breaking a cobweb by flowing over it (flowing lava destroys cobwebs without leaving string)
+
+
+=== Natural generation ===
+Five pieces of tripwire generate naturally in every jungle temple. 
+
+
+=== Mob loot ===
+Spiders and cave spiders drop 0–2 string upon death. The maximum is increased by 1 per level of Looting, for a maximum of 0–5 string with Looting III.
+Striders drop 2–5 string upon death. The maximum is increased by 1 per level of Looting, for a maximum of 2–8 string with Looting III.‌
+Cats drop 0–2 string upon death, unaffected by Looting.
+
+
+=== Chest loot ===
+
+
+=== Fishing ===
+String has a 0.6% (3⁄500) chance of being caught when fishing with an unenchanted fishing rod. The chance decreases to 0.5% (1⁄200), 0.4% (1⁄250), and 0.3% (3⁄1000) if the fishing rod is enchanted with Luck of the Sea at enchantment levels I, II, and III, respectively.
+
+
+=== Cat gifts ===
+
+Tamed cats have a 70% chance of giving the player a gift when they wake up from a bed, and the gift has a 16.13% chance to be a string.
+
+
+=== Bartering ===
+Piglins may barter 3-9 string when given a gold ingot.
+
+
+== Usage ==
+String can be used as a crafting ingredient and tripwire can be used as a redstone circuit component. It can also be used to keep players from ender-pearling through that space.
+
+
+=== Crafting ingredient ===
+
+
+=== Redstone component ===
+
+String can be placed as tripwire, which can be used to detect entities as part of a tripwire circuit. Observers can also be used with a tripwire to generate redstone signals. 
+
+Placement
+To place tripwire, use string while pointing at a surface facing the space the tripwire should occupy.
+
+In order to activate tripwire hooks, tripwire must be part of a "tripwire circuit": a straight line of blocks consisting of a block with a tripwire hook attached to it, a "tripwire line" (1 to 40 blocks of tripwire), and a second tripwire hook attached to another block.
+Activation
+Tripwire activates if almost any entity (players, mobs, minecarts, boats, items, arrows, etc.) intersects its collision mask. The tripwire remains active until there are no entities intersecting its collision mask. Thrown potions, some arrows, thrown ender pearls, and thrown eyes of ender do not activate tripwire.
+
+Behavior
+An active tripwire updates adjacent blocks (for example, it can activate a BUD circuit). Additionally, active tripwires that are part of valid tripwire circuits cause the attached tripwire hooks to activate (producing redstone power). Active tripwires do not themselves produce redstone power.
+When tripwire is broken (including by being washed away by spreading water in Java Edition) after being part of a valid tripwire circuit, it activates the attached tripwire hooks. In Java Edition, it activates for 5 redstone ticks (10 game ticks, or 0.5 seconds barring lag). In Bedrock Edition, it activates for 6 redstone ticks (14 game ticks, or 0.6 seconds barring lag). It does not produce the signal if it is broken using shears.
+
+
+=== Trading ===
+Novice-level fisherman villagers have a 50% chance to buy 20 string as part of their first-tier trade.
+Journeyman-level fletcher villagers buy 14 string for 1 emerald as part of their trade.
+
+
+== Sounds ==
+
+
+=== Generic ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Unique ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+
+Bedrock Edition:
+
+
+== Video ==
+
+
+== History ==
+
+
+=== Tripwire "item" ===
+The following content is transcluded from Technical blocks/Tripwire.
+
+
+==== Appearances ====
+
+
+==== Names ====
+
+Java Edition
+12w22a - 13w36b: Tripwire
+
+
+== Issues ==
+Issues relating to "String" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External Links ==
+Taking Inventory: String – Minecraft.net on May 14, 2020

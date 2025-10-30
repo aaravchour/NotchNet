@@ -1,0 +1,32 @@
+The twin bow is a unique bow variant that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+A  before a mission name indicates that the item is only obtainable in Daily Trials of that mission.
+
+Creeper Woods (Adventure)
+Creepy Crypt
+Desert Temple
+Dingy Jungle (DLC)
+Gale Sanctum (DLC)
+Tower
+Treetop Tangle
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Barrage
+
+A twin bow has moderate power, low speed, and a large ammunition supply. The quiver starts with 100 arrows, normal arrow bundles give 50 arrows, supply chest bundles give another 100 arrows, and surprise gift bundles give 25 arrows.
+Bows can be shot immediately for the minimum damage or charged for maximum damage if the ranged attack button is held down. Ranged weapons require the hero to have at least one normal arrow or a special arrow from a quiver artifact in their inventory to shoot. Heroes can also cancel shots by using the melee attack button and releasing the ranged attack button while the melee button is still held.
+Damage caused by the arrows can be increased with enchantments, the Strength buff, and certain armor that have ranged damage increases, such as hunter's armor.
+
+X ranged damage
+Shoots two enemies at once (Bonus Shot tier I)
+
+Charge Multiplier: 2.5
+Quiver: 80
+Fire Rate: 2.2 shots per second (uncharged)
+
+Issues relating to "Twin Bow" are maintained on the bug tracker. Report issues there.

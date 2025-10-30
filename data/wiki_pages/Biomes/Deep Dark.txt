@@ -1,0 +1,147 @@
+The deep dark is a cave biome that generates deep underground in the Overworld under mountainous areas.
+
+
+== Description ==
+The deep dark is an Overworld biome that generates deep underground beneath areas with a low erosion value, especially under jagged peaks, stony peaks, frozen peaks, snowy slopes, groves, cherry groves, meadows and savanna plateaus but also, a little bit less, under badlands, including eroded badlands as an eroded exception, and never generates underneath oceans, rivers, swamps or deserts. The biome is dimly lit; there is almost no glow lichen, with the only natural light sources being sculk catalysts and lava.
+This biome is often covered in large patches of sculk blocks surrounded by sculk veins, which include sculk-related blocks such as sculk shriekers, sculk sensors and sculk catalysts. No mobs spawn in this biome (however monster rooms can still spawn mobs), but if a player triggers a sculk shrieker a certain amount of times, the warden may appear, giving the player the Darkness effect.
+This is the only biome where ancient cities can generate. Other structures that can be found in the deep dark include monster rooms, strongholds, and amethyst geodes. Mineshafts never generate centered in a deep dark biome, although they may extend into one.
+
+
+== Sounds ==
+
+
+=== Music ===
+This music track plays while the player is in the Deep Dark.
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition：
+
+Bedrock Edition：
+
+
+== Video ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Deep Dark" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+The deep dark was originally "going to feel like an underwater biome, but with the water missing" along with "lots of floating jellyfish in the air and ghostly looking blocks." White, orange, teal, and lime green were some of the color themes meant for the deep dark. In these versions, the only source of light would have been bioluminescent blocks.
+If a Buffet world is generated using the Deep Dark as the biome, it appears similar to a plains world, but with Sculk patches present across the world's surface. Sculk Shriekers can spawn anywhere, making the warden a near constant threat. No other mobs will spawn outside of the following exceptions:
+Pillager patrols and phantoms will still spawn naturally.
+Silverfish will spawn via naturally-generated infested stone bricks.
+Bees will spawn via naturally-generated beehives.
+In Bedrock Edition, with Vibrant Visuals toggle, the Deep Dark appears very dark, except for a few bioluminescent spots of sculk growth.
+
+
+== Gallery ==
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Concept artwork ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Dripstone Caves
+Lush Caves
+Ancient City
+
+
+== References ==
+
+
+== External Links ==
+Around the Block: Deep Dark — Minecraft.net on January 5, 2023
+My First Time in the Deep Dark — Minecraft.net on September 1, 2023

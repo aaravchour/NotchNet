@@ -1,0 +1,13 @@
+Each of the jails have a Vindicator spawn in front of the doors.
+
+Large Jail Room (2x2_a1)
+The two cobblestone stairs are upside down and face each other.
+
+Medium Jail Room (1x2_b1)
+The Medium Jail is also known as the Redstone Jail.
+
+All of the cobblestone stairs are upside down.
+
+Small Jail Room (1x2_b2)
+The oak wood stairs on Layer 1 past row 10 are upside down.
+The cobblestone stairs on Layer 4 are upside down and face inside.

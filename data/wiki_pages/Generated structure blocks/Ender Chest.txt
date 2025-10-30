@@ -1,0 +1,140 @@
+Ender chests are a type of chest whose contents are exclusive to each player, and can be accessed from anywhere in the world.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Ender chests require a pickaxe to be mined. Otherwise, they drop nothing. Unless the pickaxe is enchanted with Silk Touch, the ender chest drops only 8 obsidian with no eyes of ender. Any pickaxe allows the ender chest to drop either itself or 8 obsidian, despite obsidian itself only being obtainable with a diamond or netherite pickaxe.
+
+
+=== Natural generation ===
+Ender chests naturally generate alongside a chest in certain End city treasure rooms.
+
+
+=== Crafting ===
+
+
+== Usage ==
+
+Ender chests can be opened by pressing the use control. If a solid block is placed above an ender chest, it cannot open.
+Ender chests can be used like normal chests, except all ender chests in the world are interconnected, including in different dimensions. The ender chest's inventory is also separate for each player; consequently, items stored in an ender chest cannot be seen or taken by other players. Also, items stored inside of an ender chest can be retained even if the player dies. Even if every single ender chest is destroyed in the world, the items inside the ender chest are still secure, and can be retrieved by placing another ender chest. Because of this player-specific property, ender chests are extremely useful on multiplayer servers to secure a player's most valuable items.
+Donkeys, mules, and llamas cannot be equipped with ender chests; they support only normal chests.
+Ender chests contain 27 slots for storage and can be placed next to other ender chests without joining; they cannot be combined into double chests.
+Ender chests do not interact with hoppers, droppers, or comparators.
+Despite being comprised largely of obsidian, they are not immune to destruction by the ender dragon.
+It is possible to greatly increase the space of an ender chest by pairing it with shulker boxes (i.e. filling the shulker boxes with desired items, then placing them inside the ender chest).
+
+
+=== Light source ===
+Ender chests emit a light level of 7.
+
+
+=== Note Blocks ===
+Ender chests can be placed under note blocks to produce "bass drum" sounds.
+
+
+=== Piglins ===
+Piglins become hostile toward players who open or mine an ender chest.
+
+
+=== Piston interactivity ===
+Ender chests cannot be pushed by pistons. They also cannot be pushed nor pulled by sticky pistons.
+
+
+== Sounds ==
+
+
+=== Generic ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Unique ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block data ===
+An ender chest has a block entity associated with it that holds additional data about the block.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Block entity format.
+
+
+=== Inventory ===
+The contents of an ender chest are not stored in the block, but in the player-NBT under the tag EnderItems‌/EnderChestInventory‌. Thus ender chests can be viewed as "portals" to a player's 27 additional slots of secure and exclusive inventory.
+
+
+== History ==
+For a more in-depth breakdown of changes to textures and models, including a set of renders for each state combination, see /Asset history
+
+		
+			
+			
+		
+
+
+== Issues ==
+Issues relating to "Ender Chest" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Because an ender chest's particles exist in a 1 block radius around the chest, the particles from a chest placed next to a wall are not seen on the other side.
+Unlike chests, changes to an ender chest's name are not reflected in its inventory GUI.
+Unlike chests, when broken, it does not drop the items inside it, due to the fact that the items aren't only in that chest.
+Ender chests render as a full block when in the inventory, but not when held or placed.‌
+Ender chests cannot be locked by NBT tags.
+The texture of ender chests does not change during Christmas in contrast to trapped chests and normal chests.‌
+Mining an ender chest with a wooden pickaxe takes the longest time in the game (16.9 seconds) to mine a block with the correct tool, without the effect of Mining Fatigue and other mining speed reduction events.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

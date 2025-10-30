@@ -1,0 +1,18 @@
+A battle drum is a structure that buffs other structures in Minecraft Legends.
+
+
+== Usage ==
+Campaign
+Battle drums increase the firing speed of nearby arrow towers, scatter towers, redstone launchers and ice traps. A structure is only affected if it is inside the zone the battle drum creates.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Gallery ==
+
+
+=== Screenshots ===

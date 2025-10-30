@@ -1,0 +1,72 @@
+The spider armor is a unique thief armor variant that can be found within the various missions of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Redstone Mines (Adventure)
+Overgrown Temple (DLC)
+Soul Sand Valley (DLC)
+Radiant Ravine (DLC)
+The Stronghold (DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+The Tiny Scourge
+
+
+== Usage ==
+
+
+=== Properties ===
+ +X health
+ +25% melee attack speed
+ 6% life steal aura
+
+
+=== Stats ===
+
+
+== Sounds ==
+
+
+== Data values ==
+In the game files, the spider armor is referred to internally by the name SpiderArmor.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Spider Armor" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===

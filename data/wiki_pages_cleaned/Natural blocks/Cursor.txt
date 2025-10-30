@@ -1,0 +1,9 @@
+The cursor is a joke block introduced in Java Edition 20w14 with an animated texture that changes its color every second, toggling between lime and black concrete.
+
+Cursors are available in the creative inventory, and naturally generate in the "terminal" dimension and sometimes in other dimensions in Java Edition 20w14.
+
+Cursors require a pickaxe to mine.
+
+The block naturally generates in "terminal" dimension as the blinking "_" next to a "C:\" made of lime concrete. It appears to be cycling between black and lime Concrete in appearance, which is what the rest of the "terminal" dimension is made of. It can also generate in the "skygrid" dimension, along with all other blocks.
+
+Cursor blocks are an unsupported item due to being an April Fools' joke, and therefore such issues relating to them will not be fixed.

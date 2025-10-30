@@ -1,0 +1,34 @@
+The elite power bow is a  unique power bow variant that can be found within the various missions of Minecraft Dungeons, wielded by some sunken skeletons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Fiery Forge
+Underhalls
+Highblock Halls
+Nether Wastes (DLC)
+Radiant Ravine (DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Unbreakable One
+
+The Elite Power Bow has very high power, low speed, and low ammo.
+
+X ranged damage
+Strong Charged Attacks
+Greater damage (Power tier I)
+
+Chaege Multiplier: 3
+Quiver: 26
+Fire Rate: 2.2 shots per second (uncharged)
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+In the game files, the elite power bow is referred to internally by the name PowerBow_Unique1.
+In the past, the elite power bow was referred to internally by the name RoyalPowerBow.
+
+Issues relating to "Elite Power Bow" are maintained on the bug tracker. Report issues there.

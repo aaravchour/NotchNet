@@ -1,0 +1,6 @@
+Teleport the player to their Agent's position.
+
+tpagent
+
+Fails if there is no Agent in existence.
+On success, the player teleported to their Agent successfully.

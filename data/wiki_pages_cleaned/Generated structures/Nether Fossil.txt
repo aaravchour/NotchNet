@@ -1,0 +1,15 @@
+Nether fossils are fossils that generate in soul sand valleys.
+
+Nether fossils generate randomly throughout the Nether in soul sand valleys.
+
+Nether fossils are composed of 5 to 27 bone blocks. Unlike Overworld fossils, they do not have a lowered structure integrity and no blocks are replaced with coal or diamond ore. They are made with the NBT structure block format and the NBT files for each fossil are stored in the folder minecraft.jar/data/minecraft/structures/nether_fossils.
+There are 14 different variants of nether fossils:
+
+Issues relating to "Nether Fossil" are maintained on the bug tracker. Report issues there.
+
+Nether fossils are one of the three generated structures that never generate with loot chests (the others being swamp huts and ocean monuments).
+Nether fossils do not have coal ore (or deepslate diamond ore) variants like Overworld fossils.
+Interestingly, while Overworld fossils are considered features like Trees, Nether fossils are considered structures instead.
+
+Generated structures
+Fossil

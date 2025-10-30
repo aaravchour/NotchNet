@@ -1,0 +1,34 @@
+The pink scoundrel is a unique trickbow variant that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Cacti Canyon
+Lower Temple
+Overgrown Temple (DLC)
+Nether Wastes (DLC)
+Basalt Deltas (DLC)
+End Wilds (Adventure, DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Abominable Weaver
+
+The pink scoundrel has low power, low speed, and moderate ammo.  The quiver starts with 66 arrows.
+
+X ranged damage
+Hits Multiple Targets (Ricochet tier I)
+Chance to Enrage Mobs (Wild Rage tier I)
+
+Charge Multiplier: 2.2
+Quiver: 66
+Fire Rate: 2.2 shots per second (uncharged)
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+In the game files, the pink scoundrel is referred to internally by the name ThePinkTrickster.
+
+Issues relating to "The Pink Scoundrel" are maintained on the bug tracker. Report issues there.

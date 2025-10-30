@@ -1,0 +1,40 @@
+Raw iron is a raw metal resource obtained from mining iron ore.
+
+
+== Obtaining ==
+
+
+=== Mining ===
+Iron ore and deepslate iron ore mined using a stone pickaxe or better drops 1 unit of raw iron. If the pickaxe is enchanted with Fortune, it can drop an extra unit per level of Fortune, allowing for a maximum of 4 with Fortune III. If the ore is mined using a pickaxe enchanted with Silk Touch, it drops the ore block instead.
+
+
+=== Crafting ===
+
+
+== Usage ==
+The primary usage of raw iron is smelting it into iron ingots.
+
+
+=== Crafting ===
+
+
+=== Smelting ingredient ===
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Raw Iron" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==

@@ -1,0 +1,55 @@
+Helmets are a type of armor that covers the head of the player. There are eight types of helmets: leather cap, chainmail helmet, copper helmet, iron helmet, diamond helmet, gold helmet, netherite helmet, and turtle shell.
+
+Helmets can be repaired in an anvil by adding units of the armor material's repair material, with each repair material restoring 25% of the helmet's maximum durability, rounded down.
+
+If a zombie, husk, stray or skeleton is wearing armor, there is a 8.5% chance (9.5% with Looting I, 10.5% with Looting II and 11.5% with Looting III) for the mob to drop a helmet upon death. The dropped helmet is usually badly damaged, and may be enchanted with enchantment levels 5-19.
+In Bedrock Edition, vindicators and pillagers spawned in raids have a 8.3525% chance (10.28% on hard) to drop iron helmets. The dropped helmets are usually badly damaged, and have a 50% chance of being enchanted with a random enchantment.
+
+Two armor stands are found in each taiga village outdoor armory, one of them equipped with an iron helmet.
+
+In Bedrock Edition, a sealed room in woodland mansions can appear that has a chest sometimes containing an Efficiency I leather cap.
+
+In Java Edition, novice-level armorer villagers have a 40% chance to sell an iron helmet for 4 emeralds. Journeyman-level armorers have a 40% chance to sell a chainmail helmet for 1 emerald. Master-level armorers always sell an enchanted diamond helmet for 11-27 emeralds. Apprentice-level leatherworker villagers have a 23 chance to sell a leather cap for 5 emeralds. Master-level leatherworker villagers offer the same trade.
+Armorer villagers may give the players with the Hero of the Village effect a chainmail helmet.
+In Bedrock Edition, novice-level armorer villagers have a 25% chance to sell iron helmet for 5 emeralds, 13 chance to sell chainmail helmet at journeyman-level for an emerald, and 50% chance to sell enchanted diamond helmet for 8 emeralds at master-level. Apprentice-level leatherworker villagers have a 50% chance to sell leather cap for 5 emeralds as part of their trades, and 50% chance to sell an enchanted leather cap for 5 emeralds at the master level.
+
+Helmets can be placed in the top armor slot of a player's inventory for activation.
+
+Defense points are each signified by half of a shirt of mail in the armor bar above the health bar. Each defense point reduces any damage dealt to the player that is absorbed by armor by 4%, increasing additively with the number of defense points. Different materials and combinations of armor provide different levels of defense.
+The following table shows the number of defense points added by helmets.
+
+A netherite helmet provides 10% knockback resistance.
+
+The following table shows the amount of damage each piece of armor can absorb before being destroyed.
+Any "hit" from a damage source that can be blocked by armor removes one point of durability from each piece of armor worn for every 4 of incoming damage (rounded down, but never below 1). Damage taken that armor doesn't protect (such as falling or drowning) does not damage the armor, even if it is enchanted to protect against that type of damage. The following chart displays how many hits helmets can endure.
+Netherite armor is not damaged by lava or fire when worn.
+
+Helmets may be repaired by using them along with some of their crafting material (leather, gold ingots, iron ingots, diamonds or netherite) in an anvil. Chainmail helmets may be repaired in this way with iron ingots. They may also be repaired by crafting them together with another helmet of like material.
+
+A helmet can receive the following enchantments. Note that while iron and chainmail have the same durability, chainmail has a higher enchantability than iron or diamond.
+
+Equipping a  turtle shell provides the Water Breathing status effect, allowing the player to remain underwater for an additional 10 seconds. The time that this effect lasts does not begin to count down until the player dives underwater, then the 10 seconds are counted down. The effect immediately recharges after exposure to air.
+
+A turtle shell can also be used as a potion brewing ingredient.
+
+Piglins are attracted to golden helmets and pick them up, examining them for 6 to 8 seconds. Piglins can wear other helmets but are not attracted to them. They prefer stronger helmets over weaker helmets, with one exception: They always prefer golden helmets, throwing out stronger helmets in favor of gold helmets. Enchanted helmets are preferred over unenchanted helmets.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+When leather caps are dyed, it has the following NBT:
+
+Armor durability from Indev until late Beta
+
+Issues relating to "Helmet" are maintained on the bug tracker. Report issues there.
+
+Unlike the other helmets, the netherite helmet covers most of the player's face, due to a nose guard and cheek plates.
+The turtle shell is the only helmet that is not part of a complete set.
+In Bedrock Edition, there exists a bug that makes it possible to obtain a Leather Cap enchanted with Efficiency I from Woodland Mansion chests with a chance of 1.45%. The enchantment has no effect on the cap, however.
+
+Taking Inventory: Helmet  Minecraft.net on February 20, 2020

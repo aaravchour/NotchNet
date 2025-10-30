@@ -1,0 +1,8 @@
+A sporeback is a piglin  within the Horde of the Spore of Minecraft Legends.
+
+Sporebacks drop lapis and a piglin key.
+
+Mushroom Throw
+Sporebacks pluck explosive mushrooms from their back before throwing it at their enemies.
+
+In the game files, sporebacks are referred to internally by the name Grenadier.

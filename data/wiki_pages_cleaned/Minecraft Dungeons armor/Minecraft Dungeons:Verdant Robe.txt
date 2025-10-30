@@ -1,0 +1,30 @@
+The verdant robe is a unique evocation robe variant that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Soggy Swamp
+Soggy Cave
+Obsidian Pinnacle
+Panda Plateau (Adventure, DLC)
+Crimson Forest (Apocalypse, DLC)
+The Stronghold (Apocalypse, DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+The Seeking Flame
+
+X Health
+-40% artifact cooldown
++15% move speed aura
+Increase maximum souls (Bag of Souls tier I)
++2 Soul Gathering
+
+In the game files, the verdant robe is referred to internally by the name SageRobe.
+There are three unused sound files meant for the verdant robe, referred to internally by the name Activate.
+
+Issues relating to "Verdant Robe" are maintained on the bug tracker. Report issues there.

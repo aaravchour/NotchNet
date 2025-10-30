@@ -1,0 +1,39 @@
+This article does not include block items, which you can find a list of here.
+An item is an object that exists only within the player's inventory and hands, or displayed in item frames, glow item frames, or armor stands. As of 1.20, there are a total of 1,643 items in the game.
+
+Some items, when used, place a block (Item block) or entity (minecart, spawn eggs, etc.) version of themselves into the game world. Put simply, they are an item when in the inventory, and a block when placed. For example, boats turn into an entity when placed, and beds turn into a group of blocks when placed. When selected in the hotbar, items briefly display their names above the HUD.
+The only method by which an item can be properly displayed within the game environment is to place it into an item frame.
+If an item that does not become a block is dropped, it becomes an entity represented by a sprite that floats above the ground for 5 minutes in a loaded chunk before despawning, unless the player walks over it to pick it up before it despawns, it is picked up by a mob, hopper or minecart with hopper, or it is destroyed by fire, lava, cactus, or explosions.
+A submerged object ascends towards the waters edge. When the surface current is in motion, the object is propelled along with it.
+Hoppers draw in any items that are placed above them.
+Most items stack to 64, but some only stack to 16, and others not at all. However, all types of items can be stacked up to 127 through inventory editing.
+
+These items, when highlighted in a player's hotbar (a.k.a "held"), held in the off hand, or equipped in an armor slot, can be used by either attack or use, or can serve a specific purpose (for example, offer the player advantage or disadvantage). Some can be used whenever, others only when aiming at specific blocks or entities. 
+
+The player cannot interact with or directly use these items; however, they are used for trading, brewing, enchanting, or crafting ingredients for other items that do have direct uses. The exception is clocks, which are not used in any recipes but serve an informative function.
+
+Spawn eggs spawn the entity inside them. They cannot be obtained in Survival mode.
+
+These items can be accessed only in Minecraft Education. The spawn agent, portfolio, and camera are obtainable through Creative mode and the /give command. The Garbage item is only obtainable through unknown Lab Table recipes or via inventory editing.
+
+Some items are unimplemented, or have been mentioned to be implemented in the future.
+
+Ruby
+
+Removed items no longer exist in current versions of the game.
+
+Copper Horn
+Horse Saddle
+Studded Helmet
+Studded Chestplate
+Studded Leggings
+Studded Boots
+Quiver
+
+Joke items are only present in April Fools versions of the game.
+
+Issues relating to "Item" are maintained on the bug tracker. Report issues there.
+
+Item repair
+Item durability
+Item (entity)

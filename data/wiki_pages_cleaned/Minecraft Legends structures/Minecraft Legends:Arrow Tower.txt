@@ -1,0 +1,3 @@
+An arrow tower is a tower structure that can shoot arrows at enemies within Minecraft Legends. 
+
+Arrow towers shoot arrows at nearby enemies. It can be upgraded by Kaboomeries, Spyglass Overlooks and Battle Drums.

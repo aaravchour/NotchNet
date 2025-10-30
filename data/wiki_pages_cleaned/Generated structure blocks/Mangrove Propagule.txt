@@ -1,0 +1,38 @@
+A mangrove propagule is a block that can be grown into a mangrove tree, similar to a sapling.
+
+Mangrove propagules can be broken instantly using any tool, including the player's fist, but only blocks with block states hanging=false always drop themselves. When hanging=true, depending on the age, the chance of drop is different. On age=0-3, they drop nothing. But on age=4, they have a chance to drop themselves.
+
+Hanging mangrove propagules generate under leaf blocks of mangrove trees that spawn in mangrove swamps.
+
+Applying bone meal to a block of mangrove leaves with a space underneath produces a hanging mangrove propagule with age=0. 
+
+In Java Edition, a mangrove propagule is sold by the wandering trader for 5 emeralds.
+
+A hanging mangrove propagule cannot grow into a tree.
+Like saplings, mangrove propagules can grow only if a player is within a certain radius, even in loaded chunks. 
+Also as with saplings, mangrove propagules have two growth stages (with no visible difference between them) before growing into trees. When a tree is to be grown, a height is chosen and then the ground and space are checked; if the ground is bad or there is not space for the chosen height, the tree does not grow. Bone meal can be used to speed up the growth of the sapling, even to grow the tree without sufficient light.
+Mangrove propagules can be placed all variants of dirt (except dirt paths) or moss blocks, as well as on mud. it requires a light level of at least 9. A mangrove also requires at least 6 empty spaces above the propagule. The height of the tree depends on how far the roots can spread horizontally. The roots can spread up to 5 blocks away from the propagule. It requires at least one solid block within the 999 cube directly underneath and centered on the sapling outside the column where the sapling is, and solid blocks for the bottoms of the roots to land on within 11 blocks below the sapling in a 99 area. The farther the solid blocks are below the sapling, the more attempts it takes to generate a suitable tree shape. Mud does not count as a solid block.
+Dirt blocks in the space above the propagule are an exception. Dirt blocks do not stop the tree from growing. The dirt remains in place and the rest of the tree generates normally around it (it is possible to grow a tree that contains only one log block at the original sapling location, with a column of dirt above where the rest of the trunk should be and leaves spreading out from it). In Java Edition, all types of log block and wood block and their stripped versions are also treated like dirt blocks (they don't stop growth). In Bedrock Edition, log and wood blocks are treated like other block types and stop the tree from growing if they are above it.
+When a propagule on a grass block grows into a tree, the grass block becomes a dirt block.
+
+Bees engage in a pollinating behavior with mangrove propagules, increasing the honey level in beehives and bee nests by 1.
+
+Mangrove propagules can be fed to bees for breeding, and reduce the remaining growth duration of baby bees by 10%. Bees also follow a player holding a mangrove propagule.
+
+Mangrove propagules can be placed in a flower pot.
+
+Mangrove propagules can be used as a fuel in furnaces, smelting 0.5 items per sapling.
+
+Placing a mangrove propagule into a composter has a 30% chance of raising the compost level by 1. A stack of saplings yields an average of 2.74 bonemeal.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Issues relating to "Mangrove Propagule" are maintained on the bug tracker. Report issues there.

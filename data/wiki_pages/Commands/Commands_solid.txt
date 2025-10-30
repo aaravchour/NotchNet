@@ -1,0 +1,12 @@
+Toggles between placing stone and placing bedrock.
+
+
+== Syntax ==
+solid
+
+
+== Result ==
+Always succeeds. Toggles between placing stone and placing bedrock.
+
+
+== History ==

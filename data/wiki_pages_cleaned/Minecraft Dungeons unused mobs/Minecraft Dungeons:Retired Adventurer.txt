@@ -1,0 +1,7 @@
+The Retired Adventurer is an unused Camp Merchant within Minecraft Dungeons.
+
+The retired adventurer is a merchant with a special outfit, sporting a green and red robe with gold patches and wears a bandanna. This merchant also wore a golden crown with a red jewel on it as well as sandals. The quest giver resembles the Savanna villagers from the original game.
+
+Based on the retired adventurers name within the Creeping Winter Patch, this NPC could have been able to give daily trials and missions to the hero, similar to the map on the table in the Camp. After they were found in the files, their UI doesn't have anything the hero can do.
+
+In the game files, the retired adventurer is referred to internally by the name QuestGiver.

@@ -1,0 +1,88 @@
+Chorus plants are blocks that naturally generate on the outer islands of the End. They can be grown using chorus flowers.
+
+
+== Obtaining ==
+The block form cannot be obtained in Survival mode, even with the Silk Touch enchantment; however, it is available in the Creative mode inventory.
+
+
+=== Breaking ===
+Chorus plants can be broken using any tool, but an axe is the quickest. Breaking one block of a chorus tree generally causes all chorus plants and flowers above to break due to lack of support. Upon breaking, a chorus plant drops 0–1 chorus fruit. This is not affected by Fortune.
+
+
+=== Natural generation ===
+Chorus plants make up most of the chorus trees that are naturally generated on the outer islands of the End. Chorus trees are typically 10–15 blocks in height, although a single plant can reach up to 22 blocks.
+
+
+=== Post-generation ===
+Chorus plants are generated as chorus flowers grow.
+
+
+== Usage ==
+Chorus plants can be broken to obtain chorus fruit.
+
+
+=== Support ===
+Chorus plant blocks break automatically (potentially dropping fruit), if the six surrounding blocks are not valid:
+
+A chorus plant with at least one other chorus plant horizontally adjacent breaks unless at least one of the vertically adjacent blocks is air.
+A chorus plant breaks unless the block below is chorus plant or end stone or any horizontally adjacent block is a chorus plant above chorus plant or end stone.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+
+
+== History ==
+
+		
+			
+			
+		
+
+
+== Issues ==
+Issues relating to "Chorus Plant (block)" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Because breaking one part of the plant breaks all parts above it, cutting a large plant can cause a brief performance drop.
+The chorus plant is named due to the sound it makes when it grows.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

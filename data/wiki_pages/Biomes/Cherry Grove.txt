@@ -1,0 +1,135 @@
+A cherry grove is a mountain biome, very similar to meadows. The primary feature of cherry groves are cherry trees, which generate exclusively in this biome.
+
+
+== Description ==
+The cherry grove has the same shape as meadows, and the only difference is the vegetation and that cherry groves are rarer than meadows. Just like meadows, emerald ores can be found here, especially at higher altitudes, and both coal and iron ores are commonly found here. Infested block blobs also naturally generate in cherry groves. Villages cannot generate here, but in Java Edition, pillager outposts can. In Java Edition, unlike most overworld biomes, sugar canes and pumpkin patches cannot generate here. This biome usually generates in the lower sides of some mountains but can also generate standalone in plateaus, mainly next to plains or sunflower plains and separated from meadows by rivers.
+Cherry groves are grasslands with grass, tall grass and pink petals. The main environmental feature of the cherry grove are cherry trees identified by their striking pink leaves. Their leaves drop petal particles. Bee nests with bees generate somewhat commonly on the side of the cherry trees. The cherry trees can generate densely enough to create a cover of leaves.
+Like forests, cherry groves are one of the most preferred biomes to start a Survival mode world. The abundance of passive mobs and wood make this the easiest of the seven mountain biomes. The sparseness of trees can help the player not to get lost while collecting unique resources. 
+While using bone meal on grass blocks in this biome, pink petals generate on the ground in place of small flowers.
+The following mobs are naturally spawned here：
+In Java Edition, cherry groves use the same mob spawning chances as meadows.
+
+
+== Sounds ==
+
+
+=== Music ===
+These music tracks play while the player is in the Cherry Grove.
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Cherry Grove" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Flower Forest
+Meadow
+Grove
+Birch Forest
+Dark Forest
+Windswept Forest
+
+
+== References ==
+
+
+== External links ==
+Around the Block: Cherry Grove – Minecraft.net on July 14, 2023

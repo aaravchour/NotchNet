@@ -1,0 +1,71 @@
+The wither armor is a unique grim armor variant that can be found within the various missions of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise. It is, however, more common on harder difficulties.
+A  before a mission name indicates that the item is only obtainable in Daily Trials of that mission.
+
+ Cacti Canyon
+Desert Temple
+Lower Temple
+Obsidian Pinnacle
+Soul Sand Valley (Apocalypse, DLC)
+Broken Citadel (DLC)
+Tower
+Merchants
+Gift Wrapper
+Luxury Merchant
+Mystery Merchant
+Piglin Merchant
+Ancients
+Grim Guardian
+
+
+== Usage ==
+
+
+=== Properties ===
+ +X health
+ 35% damage reduction
+ +50% souls gathered
+ 6% life steal aura
+
+
+=== Stats ===
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Wither Armor" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===

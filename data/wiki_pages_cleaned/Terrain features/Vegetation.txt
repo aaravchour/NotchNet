@@ -1,0 +1,3 @@
+Vegetations are features composed of plants and fungi including grass, bushes, ferns, flowers, and mushrooms.
+
+Note that tall grass and grass can also generate in flower patches in meadow biomes. See #Flowers.

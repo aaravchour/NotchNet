@@ -1,0 +1,16 @@
+A cow is a passive animal that can be found within the various missions of Minecraft Dungeons.
+
+Cows in Minecraft Dungeons look the same as they do within the original Minecraft game.
+
+Camp (Cinematic)
+Creeper Woods
+Creepy Crypt (Outside)
+Pumpkin Pastures
+Cacti Canyon (Canyon)
+Lone Fortress (Secret area)
+
+Cows walk around aimlessly, just like sheep, often seen eating grass.
+
+In the game files, the basic and strong attack files of mooshooms are listed under the cow behavior file.
+
+Issues relating to "Cow" are maintained on the bug tracker. Report issues there.

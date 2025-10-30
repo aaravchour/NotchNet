@@ -1,0 +1,87 @@
+The diamond sword is a unique sword variant that can be found within the various missions of Minecraft Dungeons.
+
+
+== Appearance ==
+The diamond sword is almost same as they are in the main Minecraft game, with a teal blade and broad design, with the only difference being that the color is brighter and it has more light reflections.
+
+
+== Obtaining ==
+Missions
+Creeper Woods
+Creepy Crypt
+Pumpkin Pastures
+Nether Wastes (DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Grim Guardian
+
+
+== Usage ==
+The diamond sword possesses moderate power, low speed, and low range. It has a combo consisting of two side slashes and a thrust. The first two hits deal the weapon's minimum melee damage, while the thrust deals the maximum melee damage.
+
+
+=== Properties ===
+X melee damage
+Extra damage (Sharpness tier I)
+
+
+=== Stats ===
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Diamond Sword" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

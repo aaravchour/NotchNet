@@ -1,0 +1,53 @@
+The unstable robes, also known as the enderobe, is a unique teleportation robes variant that can be found within the echoing void DLC of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Broken Citadel
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Scuttling Torment
+
+
+== Usage ==
+
+
+=== Properties ===
+X Health
+Roll to teleport
++50% souls gathered
+Trigger explosion on rolling teleport
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Unstable Robes" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+
+
+=== Icons ===
+
+		
+			
+			
+		
+
+
+=== Textures ===

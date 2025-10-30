@@ -1,0 +1,31 @@
+A leaf litter is a block added in Spring to Life. Similar to Pink Petals, 4 of them can be placed in a single block.
+
+Leaf litter can be easily broken with any tool.
+
+A leaf litter also drop as an item if:
+
+The attachment block is removed or destroyed.
+Water or lava flows into it.
+a piston tries to push it or moves a block into its space.
+The amount of leaf litter items dropped depends on the number placed in a single block.
+
+Leaf litter can also be obtained by smelting any leaves block.
+
+Leaf litter naturally generate in the following biomes:
+
+Forest
+Dark Forest
+Wooded Badlands
+
+Like Pink Petals, 4 leaf litters can be placed in a single block.
+
+Leaf litter can be placed up to 4 on a solid block, particularly Grass Blocks and wooden logs.
+
+Leaf litter can also be used as a fuel. It burns for 5 seconds, smelting a half of an item.
+A full stack (64) of leaf litter can smelt 32 items.
+
+Using a bush on a composter has a 30% chance of raising a compost level by 1.
+
+Similar to grass, leaf litters take on a different color depending on the biome.
+
+Issues relating to "Leaf Litter" are maintained on the bug tracker. Report issues there.

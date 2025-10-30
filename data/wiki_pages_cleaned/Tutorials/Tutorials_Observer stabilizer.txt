@@ -1,0 +1,13 @@
+This tutorial page is about how to make an observer stabilizer. A stabilizer can stop a redstone contraption that uses pistons and an observer, from pulsing on and off forever. 
+
+Observers are blocks that detect a change in the block state of the space in front of them. This makes them useful for farms and other redstone contraptions. However, when using them with pistons, observers are prone to creating pulse circuits if not placed carefully. However, stabilizers can be used to 'cut' the circuit after one pulse, using the locking mechanic of redstone repeaters.
+
+Required materials:
+
+2 redstone repeaters
+4 redstone dust (extra to connect the stabilizer to a circuit)
+The stabilizer requires a 242 area to build, not counting the observer.
+
+Place a redstone repeater pointing out from the observer's output face, and a piece of redstone dust out of the repeater.
+Place a repeater on a 4-tick delay (2-tick also works for some things) facing into the first repeater, and connect the first repeater to this one.
+Connect the stabilizer to a redstone circuit. It should now be fully functional.

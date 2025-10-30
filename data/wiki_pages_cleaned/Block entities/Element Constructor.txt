@@ -1,0 +1,10 @@
+The element constructor is a block used in chemistry. It allows the construction of elements by adjusting the number of protons, electrons and neutrons.
+
+An element constructor can be mined using a pickaxe. Mining without a pickaxe is very slow, but the element constructor still drops as an item.
+
+Element constructors cannot be obtained in Survival without commands. In Bedrock Edition, the world must also have Education Edition enabled.
+
+Using the element constructor opens up an interface with a large display and three adjustable sliders for protons, neutrons and electrons, as well as optional text inputs for each. By moving the sliders or typing in numbers into the text inputs, the large display shows the selected numbers of particles. There is a microscope icon at the left of the interface, and the inventory is shown at the bottom right of the user interface.
+Constructed elements and isotopes can be removed from the output slot to the right of the element display. Additionally, elements from the inventory can be inserted into the output slot to view its numbers of protons, electrons and neutrons. There are 118 elements and 400 isotopes available for construction.
+
+Issues relating to "Element Constructor" are maintained on the bug tracker. Report issues there.

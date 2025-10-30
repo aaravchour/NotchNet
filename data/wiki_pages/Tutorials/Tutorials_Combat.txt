@@ -1,0 +1,824 @@
+Combat is a very important aspect of Minecraft, whether it's defeating the Ender Dragon, killing creepers for gunpowder, or trying to win a PvP match. This page lists the best ways to kill each hostile or neutral mob in the game, as well as many combat strategies.
+
+
+== Hostile mobs and bosses ==
+There are many hostile mobs and 2 bosses (the Ender Dragon and the Wither) in the game. This list is sorted primarily by chance of encounter, with a few exceptions when appropriate, such as the listing of the illusioner, which does not spawn naturally, with its fellow illagers.
+It should be noted, however, that if caught in a difficult place without a weapon, the player can usually run away with little difficulty if they are outdoors, or even tunnel downwards and wait for the mob to despawn before resurfacing to avoid combat. And, finally, should they so wish, the player can set the difficulty to Peaceful, which removes all hostile mobs, except for the Ender Dragon, shulkers, vindicators, evokers, hoglins and piglins.
+
+
+=== Overworld mobs ===
+
+
+==== Zombies ====
+
+Zombies are one of the easiest hostile mobs to kill, as they use only melee attacks and burn in sunlight (unless they are wearing helmets, carved pumpkins,‌ or are in water or the shade), and it is easy to land a hit on them in melee combat without taking damage due to their slow speed and predictable movement. Zombies are not that fast (except for baby zombies, which sprint, are small, and, as a result, are hard to hit), and by themselves are merely a nuisance, although they can prove to be rather annoying in large numbers, or in dark, small spaces, like mines.
+As zombies are helpless when unable to reach the player, simply getting out of reach can nullify their threat. 
+The player can also use a bow to shoot zombies, but may wish to save their arrows for more difficult targets (unless the Infinity enchantment is applied).
+One of the best ways to deal with a zombie horde or baby zombie is to pillar up 2 blocks, so they can't reach you but you can still reach them. This is not recommended if more dangerous mobs are around, as they may knock you off the pillar. 
+If possible, luring them out into sunlight will cause them to burn. 
+Using weapons with the Smite enchantment is a very effective option, as it is against all undead, and a sword or axe enchanted with it will usually make quick work of them. 
+On hard difficulty, zombies can spawn other zombies when players hit them, and will transform into drowned when underwater for a long enough time, and can break down wooden doors. If playing on Hard mode, protecting one's house with something like an iron door or fence gate is advisable, as zombies can't break through those, although another option is having the base of the door one block higher than the block directly in front of it. 
+Unlike other hostile mobs, zombies have a detection of 40 blocks, which means they'll see, and take action against, a player at a further distance than other mobs. This can be exploited to lure them out and dispatch them before dealing with more dangerous threats.
+
+
+===== Husks =====
+
+Spawning exclusively in deserts, husks have the same behavior as zombies but don't burn under sunlight and will inflict the player the Hunger effect.  While marginally more dangerous than normal zombies, husks still don't pose much of a threat and can usually be dealt with like any other zombie.
+Due to husks only spawning in deserts, players can also avoid them entirely by not living in or visiting a desert biome.
+
+
+==== Skeletons ====
+
+Skeletons are difficult to slay in melee combat unless the player has the correct tactics. However, if the player has weak armor, just sprinting towards one and timing your hits correctly can work, but you will take a few shots in the process.   
+Skeletons are very accurate and running out will almost always result in a hit, as does trying to wait around the corner and attack the edge of the skeleton. By blocking with a shield, players will negate damage taken, and the arrow bounces off the shield, that can be used to their advantage.  
+One of the best ways to approach a skeleton is by circling around them and while doing so, approach and hit/block them. Players can also jump-sprint so that there is a chance that the skeleton will shoot over or under them. It is then possible for the player to hit, block, and repeat until the player kills them.   
+As with all undead mobs, using weapons enchanted with smite can be very useful against skeletons.  
+Never use sprint hits on skeletons unless they are near a hazard, as knocking them back will give them a free shot at the player before they can approach.   
+One can make short work of a skeleton by shooting it while outside its search range. If detected, charge the bow shortly after dodging a skeleton's arrow to prevent being shot while under the slowing effects of a charging bow.  
+Another easy way to subdue skeletons is by pushing them into the water since they sink. When underwater in Bedrock Edition, skeletons stop using ranged attacks and switch to melee attacks, which makes them much less threatening. They will still fire arrows in Java Edition, but the water will substantially reduce their range to the point where they're ineffective beyond a few blocks.  
+Wolves will naturally chase away and attack skeletons, so taigas are slightly safer from skeletons since wolves will naturally spawn.  
+If the player is low on health and arrows, wait until day break so that the sunlight burns them.  
+In nether fortresses, they spawn 20% of the time in place of a wither skeleton. Skeletons can also spawn in soul sand valley biome in the nether.
+
+
+===== Strays =====
+Strays behave near identically to skeletons, but they are more dangerous than their normal counterpart. Strays shoot arrows of slowness which slow players down and prevents sprinting. Strays use a melee attack that also inflicts slowness underwater, so fighting them with a ranged weapon is recommended as the stray can be hard to reach and kill, especially when armored and equipped with an enchanted bow. 
+Strays only spawn in snowy biomes, so living in a non-snowy biome and avoiding snowy biomes when exploring is an effective way to avoid encounters with this mob. 
+Wolves naturally hunt strays so a snowy taiga biome is a safer place to live or explore on if the player wishes to avoid strays while still experiencing snow.
+
+
+===== Skeleton Horsemen =====
+The skeleton horsemen can rarely spawn during thunderstorms and they spawn in groups. The skeleton riders, always equipped with enchanted bow and enchanted iron helmet, move as fast as a horse but despawn after several minutes.
+It is highly recommended that the player use a ranged weapon, since multiple skeletons riding horses with enchanted bows are hard to reach. The horse is actually passive, so players just need to kill the rider and players will get the skeleton horse as a result.
+
+
+==== Creepers ====
+
+Creepers are very powerful and often catch players of all experience levels off guard, despite their small line of sight. On Hard difficulty, the player can't even survive a direct creeper explosion with unenchanted netherite armor. Creepers don’t usually get that close though, and will usually begin to explode up to 3 blocks away because of their detection radius. Using an Axe for combat is recommended, as they deal more damage per hit and the player is highly advised against trying to hit one multiple times consecutively anyways.‌
+One way to kill them is to hit with a sprint attack and immediately walk backwards after, having the Knockback enchantment can help with this greatly. 
+If you have iron or diamond swords, charge and spam-click.‌ You will need to be extremely fast as they explode relatively quickly. 
+Creeper explosions can be blocked by shields. Useful for surviving ambushes in cramped spaces such as caves.
+The safest way to engage a creeper is from a distance by shooting three fully charged arrows at it with a bow so it cannot explode near the player. The player can finish off the creeper with a melee weapon after shooting the creeper twice to save arrows.
+Swimming creepers can be easily dealt with using melee attacks while the player is on land. If fighting on land with no ranged options. Alternatively, the player can find sufficiently high ground to strike a creeper from above with a melee weapon without the detonation sequence being activated. By making a 3–4 block pillar of dirt/sand by pillar-jumping, and waiting until the creeper comes next to the pillar, the player can attack it without exploding.
+Creepers will also run away if close to a cat or ocelot, keeping the creepers at a distance.
+During thunderstorms, if lightning strikes close enough to a creeper, it becomes charged. Charged creepers are one of the most dangerous mobs in the game, with its close range explosion dealing so much damage that a player with full diamond armor enchanted with Blast Protection IV is left on just 2 hearts. However, the lightning also damages the creeper, making it a faster kill if the player decides to attack it. Just make sure it doesn't explode and they should be able to kill it just like normal creepers.
+
+
+===== Explosion mechanics =====
+If there is 3 blocks or less between the player and the creeper, and it has a line-of-sight to the player (i.e. the player and the creeper can see each other's faces), they will start its 1.5 second countdown before they explode. Hitting it and moving back or sprint-hitting it will move it far enough away that the countdown stops. Creepers running away from cats that have started their countdown can still explode if the player is close enough.
+Below is an image showing the likelihood of a creeper exploding. The white square in the center with an 'X' is the creeper's location. This grid uses the block system for distance and it is used by 'placing' the player on the relative colored square. Please note that the player may think that they are two blocks away in the game, but actually, they may be closer, depending on the graphics or perspective (e.g. looking up vs. looking straight ahead).
+
+
+===== Advanced techniques =====
+One of the scariest things about the creeper is its silence while approaching. However, if the player listens carefully, they might notice that the creeper has footstep sounds. Since the player also makes footstep sounds, it is hard to tell if a creeper is coming, or it is just the player's own footsteps. Luckily, player footstep sounds and creeper footstep sounds are not in the same category: the player's sounds are under the "Players" category, and the creeper's sounds are under the "Hostile Creatures" category. Therefore, by turning down the "Players" volume slider and increasing the "Hostile Creatures" volume, the footsteps of an approaching creeper can be much more recognizable. If the player is wearing headphones, they can even identify the direction of the footsteps; this is also possible with subtitles. The player can also sneak to prevent their character from making footsteps at all, so that when they hear footsteps, they can be certain that a creeper is nearby.
+Like with other mobs, the player can place a boat in front of the creeper's path, so that it will enter the boat, and is unable to escape. The player can then place a 2-block-high pillar next to the boat with the creeper inside, stand behind it, come out and hit the creeper, and retreat back behind the pillar when the creeper hisses, and repeat, until the creeper dies.
+If the creeper is encountered in a cave, the player can run back, and build a horizontal barrier with cheap blocks like dirt or cobblestone, at the second block space above the ground (i.e. at the player and creeper's eye height). When the creeper approaches, it won't explode because it does not have a direct line-of-sight with the player. the player can then strike at the creeper's feet without worries, until it dies.
+If the player does not plan to harvest the gunpowder or experience from a creeper, one way to deal with one is to just let it blow up. The safest way to blow up a creeper is with a flint and steel. Just simply use the flint and steel on the creeper, and run away before it explodes. Although the creeper drops nothing this way, it's still effectively dead, and  can no longer harm the player. If the creeper is next to multiple other monsters, the player can kill all of them by simply lighting the creeper up. But if you do this strategy, you might have to patch up explosion holes if you don't like them.
+If the player does not have a shield, another way to block off a creeper's explosion is to place a block in front of the exploding creeper at its feet level. It can be any solid block, even ones with low blast resistance like dirt or sand. Since explosion damage is calculated from the feet of the creeper, by placing this block, the "exposure" of the player to the explosion is substantially reduced, and the player would typically only take 1 damage. The terrain around would still be damaged though, so the player should make sure not to stand in dangerous places while doing this(like un-updated sand or gravel).
+Another risky way to kill a creeper is to charge it, and perform two consecutive critical hits with a diamond or netherite sword. If this is done correctly, the creeper will be killed before it has time to finish its explosion countdown. However, this requires quick reflexes and a bit of practice, so players should train themselves in a Creative test world before they ever try this in Survival.
+
+
+==== Witches ====
+
+Witches are hostile mobs with an appearance similar to villagers that spawn in raids, swamp huts, rarely during the night in the Overworld. They throw negative splash potions at the player and will drink Water Breathing, Fire Resistance and Instant Health potions to protect themselves, making them one of the more dangerous mobs in Minecraft. Witches often start their attacks by throwing splash potions of poison or slowness, following up with harming or weakness and have 26 × 13. 
+If the player finds one, shooting it with a bow is the safest bet. If the player is holding a strong weapon, another strategy would be charging towards it and hitting it multiple times before the witch is finished drinking their potion of Instant Health. 
+Don't use splash potions on them as they are almost completely immune to them. Fire attacks and lava will also be negated through potions of fire resistance, although the time that it takes for them to drink this potion can give the player a significant advantage. Prioritize killing witches before other mobs to prevent them being healed. 
+
+
+==== Slimes ====
+
+Slimes are found only below altitude level 40 in certain chunks and in swamp biomes at night, but usually occur in large numbers, especially at full moon, and are often a major pest in mines. 
+One solution is to mine a hole only one block wide so that only the harmless tiny slimes can fit in it, but in natural caves and larger mines, larger slimes can become a nuisance as they will spawn in any light level. 
+Since the larger slimes are slightly over 1 block wide, the player can trap them behind walls and hit them easily. They are also easily killed by attacking from above. Attacking from above or backpedaling will prevent too many from attacking at once. Water is also effective at slowing them down. 
+Lava will kill large numbers of slimes, so it is good as a last resort or if the player doesn't care about drops. Note that a tiny slime can be killed with a punch, saving weapon durability. A Java Edition player could also use a sword's sweep attack (which deals 1 by default) in order to eliminate a number of tiny slimes at once.
+
+
+==== Guardians ====
+
+The guardian has two methods of attack: engaging a laser-like beam and a thorn-like attack. The beam takes several seconds to charge, doing no damage while doing so, and changes from purple initially to bright yellow when fully charged. Once charged, the beam abruptly disappears and deals damage. The guardian will swim around for a few seconds before firing again. If the target comes near the guardian while it is firing its beam, it will stop firing and swim away until it is at a comfortable range, at which point it will continue attacking. The guardian, unlike other hostile mobs, will not follow the player if they move out of sight. Instead, it will simply continue swimming until the player becomes visible again, and will then start to charge its attack. The beam cannot be dodged, as it follows the player, but can be obstructed by solid blocks, and has a range of approximately 15 blocks.
+Guardians also have spikes on their bodies. Although these spikes don't do any direct damage upon contact or as a melee attack, they act similar to the Thorns enchantment. The guardians can extend and retract their spikes. If a player attacks the guardian when its spikes are extended, the player takes a small amount of damage if attacking the guardian with a melee strike.
+Guardians are difficult to attack with melee attacks when underwater, as the player will not be able to quickly approach the guardian due to the slowing effect of the water and the fact guardians will swim away when approached by a player it is targeting. The guardian will deal around 2 damage every time it is hit when its spikes are extended. If cornered, the guardian will usually extend its spikes and fire its laser at the player, even at point-blank range.
+If brought to land, they may take fall damage from their swift and erratic movement.
+If the player must melee a guardian, they should try to corner it and hope for the best; or else try to trick it into swimming within melee range repeatedly.
+The guardian cannot shoot as fast as a player with a bow can, so a skilled player will be able to shoot the guardian, and then hide to break the beam's lock, repeating until the guardian is dead. Arrows will slow down and eventually fall when in water, so the player may be forced to shoot at a very close range. If the player wants to use a ranged attack, a trident is a viable choice as it doesn't slow down underwater. The main difficulty with fighting guardians is the mining fatigue effect from the elder guardians, which will slow down weapon cool-downs. If the guardian is in shallow water the player(s) can use a fishing rod to pull it out of the water where the player(s) can then kill it using melee attacks without being shot at or hurt by the spikes. The guardian can still shoot while out of the water and unless it's held still, it flops around too much to easily attack with melee.
+Fighting guardians is incredibly dangerous without armor. Armor is essential to combating guardians, especially within an ocean monument. Entering their territory without armor will almost always lead to a swift death, even if armed with a sword or Trident.
+Using the combined effects of Depth Strider III, Speed II and sprinting, the player can actually swim faster than the guardians, allowing them to sneak up on them or to escape their beams. Players can also use trident with Riptide III and Impaling V, and when the guardian uses its laser attack, quickly use the trident and aim into it, so guardian will take damage from the trident and stop using its laser due to the player being too close. 
+
+
+===== Elder guardians =====
+
+The elder guardian has a very large amount of health 80 × 40, making melee kills even harder. Elder guardians do more damage than regular guardians. Fighting elder guardians is incredibly dangerous without armor. Armor worn should include diamond or netherite equipment enchanted with Respiration (or turtle shells due to their longer breath) and boots with Depth Strider. Tridents enchanted with Impaling are also recommended since elder guardians are an aquatic mob. They will also give players Mining Fatigue III, making it almost impossible to tunnel out in case of emergency and to mine the gold treasure inside the ocean monument. It also slows the player's attacks.
+Players can use tridents with Impaling V and Riptide enchantments and then ram into the elder guardian and if under the effect of Strength II, it can cause massive damage to the elder guardian.
+
+
+==== Silverfish ====
+
+Silverfish are small mobs, which can be spawned from a silverfish spawner, which only naturally generates in strongholds or by breaking an infested block. Infested blocks can be disguised as cobblestone, stone, stone bricks, or variants of stone bricks, and spawn in strongholds, igloo basements, a woodland mansion's fake portal room, and at mountains biomes. The breaking speed of infested blocks is the same with any type of tool or bare hand, making it easy to find which blocks are infested blocks. When using the player's hand to break blocks, infested blocks break a lot faster than cobblestone, stone, or stone bricks, but when using a better quality pickaxe, such as iron or diamond, infested blocks break a lot slower than cobblestone, stone, or stone bricks. Infested blocks spawn one silverfish when mined.
+One silverfish only deals very little damage 1, or 0 with better quality armor on. However, when the player attacks a silverfish, it can summon other silverfish hiding in other nearby infested blocks. This problem can be solved by killing a silverfish in one hit. In Java Edition, the player can do this with any type of axe except a wooden or golden axe. In Bedrock Edition, the weapon of choice should be enchanted with Bane of Arthropods or be used only with critical hits instead.. With the sharpness enchantment, the player can also do this with a stone axe, iron axe, or diamond axe or diamond sword. If the player is going to the End and the silverfish spawner in the end portal room is bugging the player, they can go ahead and destroy the spawner. Silverfish don't drop anything upon death, so it won't be useful to make a silverfish farm unless the player wants an XP only farm.
+
+
+==== Endermites ====
+
+If the player uses ender pearls often, they are sure to come across an endermite at some point. Endermites are not very difficult to fight because they have only 8, just like silverfish. When using lots of ender pearls, they become more of a nuisance than a hazard. When they have spawned an endermite, there are a few things the player can do. If they don't want to bother with killing an endermite, go to at least 16 blocks away from it so that it won't attack the player, and it will despawn after 2 minutes. If the player wants to kill an endermite for its experience, it's not too difficult. Just get a sword or axe of any type, and keep hitting it until it's dead. If the player uses a stone or better axe (this will not work in Bedrock Edition as unenchanted axes do less damage than swords), or a diamond sword enchanted with Sharpness, the player will be able to kill the endermite in one hit. Endermen are also hostile towards endermites, which can spark some rather comedic battles.
+
+
+==== Phantoms ====
+
+Phantoms are difficult to kill as they have a small hitbox and only briefly swoop down from the skies to attack before retreating. They only spawn at night if a player hasn't slept in a bed for at least 3 in-game days (insomnia). Players can check how much time has passed since their last rest in their statistics‌: if the "Time since last rest" statistic is greater than 1.0 h, phantoms can spawn. The longer the player has not slept in a bed, the more frequently phantoms will spawn. 
+After spawning, they will fly around the player and swoop down to attack. Outrunning them is a rather futile method against them. Instead, the best way to avoid being attacked by them is by going inside a house, cave, making a small hole in the ground, or sleeping. Phantoms are undead mobs, so sleeping or waiting them out until daytime will cause them to burn in the sun. They are also affected by Smite. Phantoms are afraid of cats so it's best to have one around the player to prevent phantoms from swooping down.
+Alternatively, if you want to kill them for drops or XP, stand under a tree or build a roof above you. When the phantom swoops down to attack, hit it when it is under the roof. The phantom will try to retreat, but will be blocked by the roof. 
+If stuck out in the open with no method of cover damage can be avoided by precisely hitting one as they swoop towards the player, preferably earlier in the dice and/or moving backwards to increase the window of time the phantom can be hit without touching the player.  
+Phantoms’ slow turn speed can also allow the player to avoid damage by quickly running to the side around the phantom and even counterattack, but this is much less effective against large groups. 
+They drop phantom membranes upon killing them, which can be used to repair elytra when using an anvil. They can also be used as a brewing item by using an awkward potion to turn it into a potion of Slow Falling. The membranes can also be brought in by cats.
+
+
+==== Vindicators ====
+
+Added alongside the woodland mansions, these mobs deal the highest natural melee damage on a single player world (7.5 × 3.75 on easy, 13 × 6.5 on normal, 19.5 × 9.75) on hard, and almost always spawn in groups with other vindicators, mostly as part of illager patrols. Since the woodland mansion has many areas where a mob can hide (as there are some generation problems with the torches, so the vindicators will not be alone), it is easy to be ambushed and swiftly killed, especially when entering bedrooms, their primary spawn location. As the mansion is already dimly lit, it is best to explore using night vision, have another player with the player, if possible, and keep their hostile mob noises up since vindicators make grunting noises while idle.
+Having armor enchanted with Protection will reduce the damage taken, but beware of vindicators holding an enchanted axe, as it can deal even more damage than it normally does, sometimes killing unarmored players in a single hit. This is not a mob to be taken lightly, even late game. Even more so, when it is coupled with the other illager types, such as evokers pillagers and ravagers.
+Blocking with a shield doesn't work, as vindicators have the ability to disable shields using the axe's stun function. ‌
+During raids, prioritize to kill vindicators over pillagers, as these mobs become regular enemies at later waves.
+
+
+==== Evokers ====
+
+The shamanic counterpart to the vindicator. They summon vexes, small spirit-like creatures that eventually die off, assuming they do not kill the player. Most of the time the player will not find lone evokers. Evokers are typically accompanied by 2 or more vindicators. The vindicators will charge the player, giving the evoker time to use one of its summoning attacks: 
+
+Vex summoning. Summons 3 small mobs, which can pass through blocks. They die within 2 minutes and are limited by a binding radius. When fighting in a room with evokers, keep an eye out for vexes, especially their red glow when charging. They are weak but deal large damage due to the fact that multiple summons can happen.
+Fang attack, explained better in the main article. It does 6 of magic damage: it cannot be mitigated by armor, but can be mitigated by Protection. It can hit multiple targets and it cannot damage other illagers. Fangs can be avoided if the player is constantly moving or jumping. Simply kill the evoker as soon as possible after killing the vindicators, especially if it attempts a spell. Evokers will use their fangs both offensively and defensively. When used offensively, they spring up in a line toward the player. When used defensively, the fangs form a circle around the evoker. A good strategy is attacking at a distance with a bow, then move in with a sword.
+Evokers can also appear in raids (which only appear if the player has the bad omen effect in a village) at wave 5 on normal difficulty, and wave 5, 6 and 7 on hard difficulty. As they spawn, they run very fast and summon in Vexes before the player can kill it.
+Evokers will also attack when damaged by the player, even if the evoker has no line-of sight towards the player. Because of this, if you attack the evoker far away with a bow, it will summon vexes and they will attack you.
+
+
+==== Vexes ====
+
+Vexes are very small creatures about the size of a baby zombie, can only be summoned by Evokers. They float around, passing through blocks and deal damage with iron swords. They do high damage (5.5 × 2.75 on easy, 9 on normal and 13.5 × 6.75 on hard) and have 14 × 7. A player with good gear will be able to kill it in one or two hits. Prioritize killing them over vindicators when the player can see them in range of the sword, as they move fast and can get behind the player.
+After some time after they are summoned, they will slowly lose health and then die.‌
+
+
+==== Illusioners ====
+
+                                                                           
+The third type of illager, they don't spawn naturally, and must be summoned via commands. They have the ability to blind the player for 20 seconds, and can even spawn duplicates to fool them. These duplicates move in the same way as the regular mob, but real illusioner is invisible. The illusioner attacks with a bow. Due to it dealing poor damage, illusioners are more of a nuisance than deadly. It drops the occasional bow on death. It's recommended to use a bow for this mob, search where real arrow comes and hit in that direction until the player finds the real illusioner as duplicates are the same distance from the invisible real illusioner. When the player is blinded, it's best to back away, waiting for the blindness to disperse, then attack again. You could also drink a bucket of milk to remove the blindness. Splash potions of harming are great. Since they deal area damage, it will kill the illusioner in a few hits without having to search the real illusioner.
+Another very good strat to kill illusioners is to hook them with a fishing rod. When the illusioner first notices you, it will not actually clone and will just shoot you with a bow. Then hook it with a fishing rod in your offhand. Then keep hitting the fishing rod bobber until the illusioner is dead.
+
+
+==== Pillagers ====
+
+The fourth type of illager, they spawn in 3 ways: Illager patrols as they spawn naturally with groups of pillagers and vindicators, at pillager outposts, and in raids, which only occur when the player has the Bad Omen status effect in a village. They hold a crossbow which is sometimes enchanted. Pillagers shoot their crossbow at the player up to 6 blocks away every 2 seconds, and can sometimes be dangerous, especially in groups. The player needs to be careful when encountering a pillager armed with an enchanted crossbow with Multishot as it fires 3 arrows at once.‌
+To avoid making contact with the pillager, it is best to stay away if the player does not have any armor to protect themselves. If forced to fight, strong weapons are recommended. A shield can stop the pillager's arrows if successfully timed. Blocking an attack and counter-attacking while the pillager is reloading is an effective strategy. A bow or crossbow can help kill pillagers from a safe distance.
+Upon killing a pillager, they drop arrows‌, Sometimes a crossbow and an ominous banner if the pillager is the raid captain.
+
+
+==== Ravagers ====
+
+An illager bull-type mob, they only spawn on raids (which only appear if the player(s) carries the bad omen effect into a village), where they begin spawning in the third wave. They are sometimes being ridden by vindicators‌, pillagers, or evokers. They have the same amount of health as an iron golem and are very dangerous to face in combat as they have a powerful attack if the player gets too close. Their attack on hard difficulty can almost instantly kill the player 18 × 9 without any armor and can also destroy crops and leaves in their path as they chase the player or villager. Ravagers run slightly fast if running away from them, which means the player may have a hard time healing. Beacon effects such as Resistance, Strength and Regeneration may help defeat ravagers slightly easier.
+To avoid getting killed, it's best to stay further away from ravagers while the wave of a raid is in effect, and it is recommended to have some strong protection on diamond armor and a strong diamond sword to face them. The player(s) can also use a bow or crossbow to kill ravagers from a safer distance. If a ravager is unaccompanied by other mobs, you can pillar up two blocks then hit it with a sword. You can also hide in a village house and open one door. Then when the ravager charges in front of the building, you can hit it then hide inside, since ravagers are about two blocks wide. These methods are better resource-wise, and if you don't want your shield or arrows to be consumed fighting a ravager. 
+A shield can help if the player can time the blocking right; however, there is a 50% chance for them to stop for a moment to growl and roar. This will hurt the player 6 and after that, they continue to chase again. If the ravager is stunned by blocking with a shield, try to hit it a few times as this is the time where the ravager is the most vulnerable. 
+Since the player will likely be encountering a ravager in a Village during a raid, they may want to employ the help of Iron Golems. Iron Golems have a similar attack strength and health pool to ravagers, making for an evenly matched fight. With the player's help, a single Iron Golem can survive against a couple or so ravagers. 
+It's recommended to kill the illager rider first before killing the ravager, as a combination of those two mobs can be dangerous.
+Note: Vindicators riding ravagers is unused in Bedrock Edition and can only be summoned using commands, so the player will only encounter ravagers being ridden by either pillagers or evokers in this edition.
+Upon killing a ravager, they drop a saddle.
+
+
+==== Warden ====
+ 
+Unlike any other hostile mob in the game the warden is designed to be unkillable and not meant to be fought. there are no gain for players in fighting wardens, and warden encounter is systematically not a situation where combat is relevant. players should not try to attack a warden in any circumstances unless they have good gear with quick-thinking speed of healing themselves and damaging the warden, is pillared up from a 20 or more block distance and has enough arrows to kill, or using a warden farm and killing it with Bow and Arrows from a safe distance. 
+
+The warden despawns if unprovoked for 60 seconds. If the player happens to kill a warden, they only drop a Sculk Catalyst.
+
+
+==== Creaking ====
+ 
+The Creaking is a 3-block-tall mob that has 3 orange enderman-like eyes. This mob only spawns during night and is found in the Pale Garden. However, unlike most hostile mobs, the players cannot kill this mob easily. Shooting a projectile, smashing with a mace or striking with a sword are proven useless against the creaking, despite having low health (half a heart). However, there is an alternate option to kill it.
+Upon encountering a naturally spawned creaking will lead to the mob staying completely frozen. The best way to make sure you (the player) stay in its eye contact range is to not look away, as it may lead to the creaking inflicting 2.5 × 1.25 melee damage from behind. Next, strike your weapon or your fist at the mob. You will notice a trail of grey particles and orange particles travelling towards a nearby pale oak tree containing a creaking heart. As you attack the creaking, the creaking heart will generate resin clumps onto the tree.
+Sneak towards the creaking's heart, while maintaining eye contact with the mob. Once you reach its heart, destory it with an axe. Once the heart is destroyed, the creaking is defeated.
+
+
+=== Nether mobs ===
+There are 9 mobs, that can spawn exclusively and naturally in the Nether. This list is sorted by chance of an encounter. As zombified piglins are neutral, combat strategies for them are listed under neutral mobs.
+Currently, all Nether mobs are hostile, with the exception of the zombified piglin, which are neutral, and the strider. All can be very dangerous without sufficient weapons, but all can be outrun fairly easily while sprinting, and all despawn on peaceful. These nether mobs are immune from fire damage, making Fire Aspect and Flame enchantment useless. Piglins and Hoglins aren't immune to fire damage.
+
+
+==== Ghasts ====
+
+Ghasts are often considered the most difficult mob to kill in the Nether because of their extreme attack range, explosive attack power, mobility, and flight. Players in any exposed area will have to deal with them sooner or later and possibly from the moment they step out of a portal. Ghast fireballs have a profound effect on nether architecture, making a compelling case to use only materials resistant to their explosions for outer walls and exterior fittings in places where their attacks may be drawn. As a result of their large size and the extreme unpleasantness of an indoor ghast spawn, the primary defense mechanism for buildings in the Nether becomes enclosure. A ghast's firepower is highly inaccurate at most ranges if one is moving. Players are most vulnerable when they are building in the Nether, when they may not be moving and possibly standing above a long fall. Ghasts can also break blocks from under the player, often dropping them into lava or causing death through fall damage. 
+The player can reflect fireballs by hitting them with anything before they impact, even bare hands. Because of their low speed, spamming mouse clicks is often enough to deflect any given attack. It is possible to kill ghasts by reflecting their attacks back at them, but it can be difficult since they are agile. If you do manage to kill a ghast by reflecting their fireball, you will get the Return to Sender challenge‌. Players can easily make a fireball reflect in the direction they want by shooting an arrow, fishing rod, or snowball at the fireball. In fact, snowballs or eggs are the easiest as they are easy to get and don't have a speed limit, so the player can just bombard snowballs and they will hit the fireball at some point. The fishing rod, when released, slightly affects the fireball's trajectory. This relationship goes both ways and a ghast's constant stream of fireballs may well interfere with the firing arc of the bow. 
+Most ghast kills are made with a bow and arrows or a ghast fireball for obvious reasons, but a ghast can be killed with melee weapons if the player can get close enough before it flies away. Ghasts are highly vulnerable when caught on the ground since their attacks can be deflected and their health is quite low — 2 blows from a diamond sword will kill one at only 10 health units. It is possible to use a fishing rod to draw ghasts near enough to hit them with a sword. A close ghast is also much easier to hit with a bow, though reaction time against its fireballs is likewise lessened. When aiming the bow, be sure to lead the shots as ghasts can quickly change trajectory and move quite quickly. Depending on the ghast's range and relative altitude, it is usually necessary to also aim at a high trajectory to gain extra range. Where possible, having the advantage in altitude (such as shooting from the topmost layer of the Nether) is of enormous help. Also, ghasts move much slower when caught in a lava fall or pool, so waiting for the perfect opportunity can help their accuracy. If ammunition is not a concern, it is advisable to shoot many arrows at differing trajectories in order to find the range to the ghast. Be wary when shooting at a ghast, because if you miss, there is a chance that your arrow will sail past the ghast and hit a zombie piglin, which would have disastrous consequences. The ghast's hitbox is mainly its body, and aiming too low may cause a shot to go through the ghast's tentacles, dealing no damage. However, it is perfectly practical to shoot the hitbox through the ephemeral body from above using plunging fire. 
+Much like using neutral or enemy mobs as shields against arrows fired by skeletons in the Overworld, it is feasible to use zombie piglins as shields against ghasts in the Nether. It is possible to injure or kill zombie piglins in this fashion without ever making them hostile to the player. If a ghast hits a zombified piglin, other zombified piglins will try to kill the ghast and will if it is close to the ground. 
+Shields themselves are extremely useful in the open as they negate all damage and Knockback to the player as well as reduce blast damage in surrounding blocks making netherrack a relatively safe platform (though still not recommended if the platform is only a single block thick) to stand on while fighting the ghast. 
+Depending on how far your FOV is, the ghast can fire at you from outside your vision. If you keep your FOV at normal, you will be able to see the ghast if it's firing at you, but you will only have a little bit of time where the ghast is in your view and is not firing at you. Anything less than normal and you might not see the ghast at its very long-distance firing range.
+An effective method of fighting ghasts in the Nether is to make a shelter, preferably out of brick, cobblestone, obsidian, or other explosion-resistant materials. Nether brick is ideal because it is completely immune to their fireballs, and is commonly found in the fortresses and as smelted netherrack. Make a 1×1 hole in the roof and add ladders leading up to it, in such a way that players can poke the upper half of their body through the roof. When a ghast is near, climb the ladder, shoot an arrow at the ghast and quickly descend again into their explosion-proof shelter. This should mean that the player can kill ghasts easily with minimal health loss. To improve this even further, add a small 3×3 roof 1 block above the hole in the main roof. Most of the ghasts' fireballs will now hit this roof rather than the player, meaning that the player should be safe against most ghast attacks. 
+Ghasts do 22.5 × 11.25 when a direct hit from a fireball is taken. If reflected back to the ghast that shot it, the fireball will deal 1000 × 500, instantly killing it.
+Overall though, an enchanted bow and good skill are the most effective ways to deal with a ghast. Shooting arrows can be difficult at longer ranges, meaning a bow enchanted with infinity is helpful, letting the player shoot many arrows without losing any. Another great weapon is the crossbow with the Multishot enchantment as it fires 3 arrows at once in a different direction, giving a high chance that one of them hits the ghast. Arrows fired from crossbows have faster and further range than bows.
+Ghasts can spawn anywhere in the nether wastes and the basalt deltas, however they spawn fairly more often in the soul sand valley biomes.
+
+
+==== Magma Cubes ====
+
+Magma cubes are common in the Nether, especially near fortresses, so being able to fight them is a necessity for anyone who explores the Nether a lot. Additionally, they are a good source of experience and a useful potion ingredient, magma cream. The smaller two kinds of cube are both easily killed with a stone sword or better even in large numbers, as they have low health and a slow attack rate, but big cubes can be deadly. Due to their jumping attack, they are very hard to hit and dodge, and while they have less health than the player at 8 hearts, they have natural armor that negates some of the damage dealt to them, making their practical health much higher than the player's base. Preferably trap them on a ledge above the player and use a hit and run tactic, but if they must fight them in the open, hit them immediately after their jump so the player has time to escape the next one. Once the big cube is defeated, fighting its smaller counterparts should be much easier.
+When fighting one magma cube in a flat area, a trapdoor-like technique is often a safe way to kill them while avoiding taking damage. Stand just out of reach of the magma cube, and start walking toward them just before they jump. As they jump over the player, look up and hit them, but keep on moving. If done properly, the magma cube should be knocked over the player and they should be safe. If they are knocked sideways or backwards when the player hits them, move to avoid them. A sword enchanted with Knockback will also help. Sprint-hitting a cube also gives increased Knockback; however, it is much more difficult to hit them when moving faster. This technique requires practice, but may be the most reliable way to kill them without a bow.
+Magma cubes are one of the only mobs to spawn in the basalt delta, and they spawn in all sorts of quantities, making them harder to battle. Plus the biome itself is hard to navigate, filled with lava pits and magma blocks, and it is quite easy to jump into or be hit into a hole with lava at the bottom, which is sure doom for the player. An easier way to deal with a group of magma cubes is to shoot an arrow at one of them from a safe place out of the magma cubes' range, so they can' see you. Once you have shot the magma cube it will either come after you or just ignore you depending on how far away the player shot it from. Repeat this process until there are no more giant magma cubes, then you can rush in and kill the smaller ones, or, if you don't want the magma cream, you can shoot them from far away. On Java Edition, a crossbow with firework rockets can be used to clear a group of small and/or medium magma cubes from a safe range, as long as gunpowder is in plentiful supply.
+A magma cube spawner can be found generated in a bastion remnant structure.
+
+
+==== Blazes ====
+
+Blazes are rare and spawn from spawners in nether fortresses. They are essential to get blaze rods, which have many uses, such as in making brewing stands and eyes of ender. They can occasionally spawn elsewhere in a nether fortress, so it is best to be prepared, even if the player does not plan to go near a spawner.
+Blazes can be difficult due having both effective ranged and effective melee attacks that deliver two different types of damage, in addition to their ability to fly. They fly, slowly, up or down to gain a height advantage or hide behind cover between fireball volleys, but usually not fast enough to dodge a player's first or second attack. Their horizontal movement is extremely slow, and they are unable to pursue a player or maneuver effectively in close combat. In open areas they can rise out of reach of melee attacks if the player gives them enough time, but at melee range a blaze on the ground can often be hit two or three times with a sword before they are out of reach, and skilled use of Knockback can pin them down.
+Blazes fire a volley of three fireballs that lasts 0.9 seconds, followed by a very long recharge delay of 5 seconds, while it only takes 1 second to fully charge a bow, making a player's skill at timing their attacks and shield blocking/taking cover the key to blaze combat. Their range of 48 blocks is comparable to a bow's 52 blocks, but the fireball's flat trajectory can create an effective range advantage in the nether where overhanging terrain is common, and even more so in enclosed Nether Fortress corridors. Silent, surprise fireball attacks by distant blazes are a risk walking on open-air Fortress bridges, on lava below on striders, and the general vicinity of a Nether Fortress. If you can see a blaze, it can probably hit you with great accuracy.
+As with any mob, a group of blazes can be especially challenging. They will each attack at the first opportunity, risking a devastating mass volley of fireballs. Fortunately, they do not use coordinated volley fire that could pin you down, but rather leave their entire group helpless for up to 5 seconds while they recharge after firing en masse, giving the player the opportunity to advance, retreat, place or mine blocks, or repeatedly attack, before having to take cover or shield block again.
+Blazes can only spawn in light level 11 or lower (at the lower half of their body). Much like ghasts, the blaze's ability to fly can make it difficult to recover their loot after killing them, though usually the greater concern is the many fires a group of blazes can ignite around themselves, potentially destroying drops before the player can pick them up. 
+One viable tactic is to pull blazes into melee range using a fishing rod. 
+Blaze spawners generate in fortresses and will start spawning blazes once the player gets within 16 blocks. The spawners have a chance of spawning 1–4 blazes at once. 'Camping' at a blaze spawner is an effective way to gather blaze rods, as they will almost always appear close enough to attack with a sword, and there is a delay in their attack after they spawn because they have to charge first. This is best done in combination with the Fire Resistance potion in effect, which makes the player immune to the blaze's ranged attacks and can be brewed by adding magma cream to awkward potions. Players can also build a doorway, 2 blocks tall and 1 block wide, where the player can camp and kill the blazes as they come down. This strategy is extremely effective if the player covers up the roof of the spawner room and camps in the doorway with a diamond sword. But be careful, as the blaze also has a melee attack that damages the player if they get too close. The player can also just dodge the fireballs (stand still for 1–2 seconds, the blaze will shoot at them, then they can run away), then run up to them while they're charging and attack them with melee combat since they charge on the floor. Then, run away the second they start flaming again.
+A blaze suffers damage from snowballs, and would be damaged by water if there was any in the Nether. Unfortunately however, snow golems do not survive in the Nether unless immediately provided with a potion of Fire Resistance or possibly a Regeneration potion. However, player-thrown snowballs are still a viable tactic. Due to their ease of acquisition and infinite supply, snowballs can be considered superior to archery for battling blazes. Though they can't be used to damage other kinds of mobs, carrying a few stacks of snowballs while exploring nether fortresses is an excellent way of repelling unexpected waves of spawned blazes. In addition, other mobs like wither skeletons and magma cubes can often be knocked off the high fortress bridges with snowballs, adding further usefulness.
+
+
+==== Wither Skeletons ====
+
+Wither skeletons are the Nether equivalent of skeletons. They use stone swords and give players the Wither effect upon damaging them. They spawn in fortresses. If the player sees one, shoot it with a bow or trap it with blocks, or use a tactic similar to creepers — sprint hit them, then retreat a few blocks, and repeat. A shield is also very useful as it completely blocks their hits including the wither effect. Wither skeletons are exactly 2.4 blocks tall, but their pathfinding works as if they were over 2 blocks tall. This provides some safe tactics for combating them: the player just has to build a 2 blocks high space where it is safe to hide upon engaging a wither skeleton. If the player is too close and can't place a block in front of it fast enough, use an attack strategy similar to zombified piglins. They will rarely drop wither skeleton skulls used to make the wither. A sword enchanted with looting will increase the chance to drop a skull up to 5.5%. The Smite enchantment can deal high damage to them, due to wither skeletons being an undead mob. They can spawn with pumpkins on Halloween‌, and can sometimes pick up armor and weapons, but they cannot pick up blocks or items. An efficient way of killing them will be making a wither skeleton farm by filling in large parts within the bounding box of the fortress with nether bricks.
+
+
+==== Piglins ====
+
+Piglins are hostile towards players if they are not wearing any gold armor, break nether gold ore or gilded blackstone, or open/break chests or Minecarts with Chests nearby them. They use golden swords like zombified piglins, and sometimes they spawn holding a crossbow similar to whatpillagers use. Unlike zombified piglins, they sometimes spawn wearing Gold Armor, including enchants on both Swords and Armor. Most Piglins spawn in crimson forest biomes and inside generated structures of bastion remnant. Piglins do not drop anything except one of the items they hold or armor they wear. If the player gives a piglin a gold ingot, they will barter with the player similar to trading with villagers. Players must be aware of piglins while either exploring a crimson forest biome or a bastion remnant structure, but as long they wear at least one piece of gold armor on any armor slot, piglins will remain neutral. If a piglin is in the Overworld, they will turn into a zombified piglin. Piglins stay far away from zombified piglins and are always hostile to wither skeletons and the wither.
+
+
+==== Hoglins ====
+
+Hoglins are hostile towards players when encountered, and they can sometimes be hunted and killed by piglins. Hoglins only spawn at crimson forest biomes and they drop raw porkchops (cooked variant if killed while on fire) and leather upon killing them. They can attack and fling the player up in the air. Their weakness is warped fungus as they run away from a distance, buying the player some time to run away if low on health or attempt to kill them. They can be bred with crimson fungus to make a baby variant.
+
+
+==== Zoglins ====
+
+If a hoglin enters the Overworld, it will become a zoglin, similar how a piglin transforms into a zombified piglin. Zoglins are hostile to every mob and players except creepers. Like hoglins, zoglins can attack and fling the player in the air. They drop Rotten Flesh upon death. Hoglins stay far away from zoglins if not engaged in combat. Zoglins are undead mobs, which can make the Smite enchantment very useful.
+
+
+==== Piglin Brutes ====
+
+Piglin brutes are much stronger variants of piglins that spawn with no armor but a golden axe, and they ignore gold armor on players and gold ingots dropped on the ground. They have 50 × 25 HP and they only spawn in generated bastion remnant structures. Players will need to be more prepared if they are exploring inside the structure, enchanted diamond or netherite armor with Protection 4 enchantment is recommended along with a strong diamond or netherite sword with Sharpness 5. It may be best to bring a lava bucket or a flint and steel as they are not immune to fire or lava damage.
+They have a small chance to drop their golden axe upon death.
+
+
+=== End mobs ===
+
+
+==== Shulkers ====
+
+Shulkers only appear in end cities. They shoot shulker bullets that follow players and make the player get the Levitation effect for 10 seconds. This is an advantage for them to travel to the top rooms in the end city and end ship, but also a disadvantage if they are on top of the end city dungeon or higher, as the player levitates high into the air and can take fall damage and possibly die. However, this can be completely avoided by having Slow Falling status effect as the player will fall slowly and not take any fall damage.
+Shulkers often hide in their shells, which give them a large amount of resistance and make arrows shot at them bounce off. To kill shulkers effectively, the player can use a bow and time it with the shulker opening its shell, or take advantage of the levitation and hit them with a sword while floating up towards them. An effective way to kill shulkers in tight, tall spaces is using explosions from firework rockets.
+The main strategy to defeating shulkers relies on protecting against the bullets they shoot. The player can Punch the bullet, which will break it. A Shield can block the bullet entirely. Since the bullet turns in right angles, the player can place blocks in the path of the bullet, which will break it. They have 30 health units. If a shulker shell is closed, bows will not work on them, but a sword with Fire Aspect will work.
+
+
+==== Endermen ====
+
+Although they are technically neutral, the player is sure to end up fighting an enderman sooner or later, either by unintentionally looking at one or trying to get ender pearls.
+Despite their somewhat unsettling appearance, endermen are damaged by fire, lava, water and rain. The player can safely look at an enderman if they have a pumpkin on the player's head (place it in the spot where the player would put a helmet). Alternatively, if the player sees it before it sees them, they can build a 2-block high ceiling, at least 3 by 3, or simply mine a 1x2x2 tunnel in a wall or hill (it is also a good idea to mine a block up or down to have space for jumping crits). Then, look at it until the player sees the anger animation, and quickly retreat under the shelter as it teleports to the player. Since endermen are three blocks tall, the player can then attack it without fear of reprisal. It should be highlighted that this ceiling must be made in materials that endermen cannot pick up, otherwise the enderman can disassemble the platform and reach the player.
+Emptying a bucket of water on the ground will hurt the enderman without it becoming hostile to the player, though it will teleport away. All types of swords are effective against one, though wood, stone, and gold swords may not deal enough damage to kill the enderman before it kills the player. Cacti will also damage endermen, so a wall of cacti also help them against endermen. 
+Hostile endermen will teleport away when the player closes in on them to strike. When this happens in a small underground space, the enderman may teleport into inaccessible caves or to the surface. They will not teleport back to the player unless they move to an area that has enough space for the enderman to teleport back. On the surface, an enderman's tendency to teleport away when the player is close enough to attack can be used to keep an attacking enderman at bay. The player can also change to third-person view by pressing F5 (Fn + F5 on Macs) to make sure the player can't be attacked from behind because of endermen having a tendency of teleporting behind them.
+Any block held by an enderman is dropped upon its death, making it possible to obtain grass blocks, mycelium and nylium without using Silk Touch.
+One easy strategy to kill one is to hit one, then jump into a pond or lake. Stay in hitting range so the player can kill it. The enderman will not be able to jump into the water to attack the player. This is a good way for an unprepared player to kill one.
+An even better way to deal with an enderman is to place a boat next to it. The enderman will enter the boat, and is unable to escape or teleport away. With the enderman trapped, the player can repeatedly jump and perfom critical hits on the enderman, without worrying about retaliation. It is recommended to trap the enderman while it is still neutral, since its movements can become unpredictable when aggravated. ‌
+You can also safely kill an enderman from atop a 4 block tower. 3 blocks also work, but the enderman may randomly teleport away. This method is especially suited for the End.
+Endermen teleport to avoid being hit by arrows and splash potions and teleport to a new location upon being hit with a melee weapon. They will also teleport away from water, lava, rain, and sunlight, despite the fact that sunlight does not harm them. They will also teleport if on fire, so the Fire Aspect enchantment is going to be more of an annoyance against them.
+A less exciting but effective way of killing an enderman is by staring below their torso, preferably attacking the 'feet' of its legs constantly with a sword or an axe. However, due to their tendency to teleport when the player closes in on them, the player should either stand still while attacking their legs or move backwards keeping their distance (should multiple endermen be in pursuit of the player). This can also be done by simply punching them (providing this strategy is done correctly) without taking a single point of damage, but could be considered tedious to some. 
+The player can wear a carved pumpkin as the head armor piece in order to stop endermen from turning hostile when the player looks at them. If they hit an enderman with any kind of sword while doing this, the enderman will not teleport away from them, allowing the player to kill it safely.
+Endermen can also spawn in the warped forest biome in the Nether.
+
+
+=== Bosses ===
+
+
+==== Ender Dragons ====
+
+Ender dragons spawn naturally (when the player enters the End the first time) or can be respawned with 4 end crystals on the exit portal and have extremely high health (100 hearts). They can only be found legitimately in the End. Always craft at least some diamond armor and bring at least a diamond sword, as well as a Power V and Infinity bow. Instead of bringing a helmet, bring a pumpkin instead, as there are lots of endermen and the pumpkin will stop them from becoming hostile when looked at. Also, bring at least 5 golden apples, at least three extended invisibility potions, and a water bucket or a hay bale. A tactic to fight one is to stock up on ladders, as there are obsidian pillars with end crystals on top. However, when the end crystals are destroyed they blow up, and the diameter of the explosion is larger than the pillar, causing the player to fall off. It would be a better idea to mine lots and lots of obsidian or end stone so that the player can make their own pillars and shoot the end crystals from a distance. That way, the player won't fall off and die. Coming unprepared will most likely result in their death (if the player dies in the End, they would spawn like normal in their default spawn point).
+The Ender Dragon will approach the player when they are at the exit portal frame, allowing successful melee attacks, as the Ender Dragon fires acid at the player. When the Ender Dragon is killed, it plays a unique death animation and drops an exit portal. When the player jumps in, the credits appear. The portal also has a dragon egg on the top, which can be used to break bedrock, and it can be collected if the player puts a piston on one side of the egg and any block on the other. Then, activate the piston and the dragon egg drops. It's a great way to show off to your friends that you have killed the Ender Dragon.
+
+
+==== Withers ====
+
+Withers are boss mobs that can be summoned by making a "T" shape with soul sand and placing 3 wither skeleton skulls on top. They have 150 hearts of health (300 in Bedrock Edition) and shoot black or blue skulls that give the Wither effect and do as much damage as a ghast fireball, the blue skulls are also able to destroy any block except bedrock, barriers and end portal frames. So when spawning the wither make sure the player is in a confined space (made with obsidian if being done in survival) with lots of effective potions drank to kill the wither quicker. Upon summoning one, drink a potion of Strength, a potion of Regeneration, a potion of Swiftness, and maybe put a totem of undying in your off-hand. When the wither has gotten up to max HP in a few seconds the Wither will gain health and cause a massive explosion. A good thing to do is to shoot it with arrows until down to 75 hearts of health and then kill it quickly with a sword to end the battle. In Bedrock Edition, after the wither's health reaches 150 hearts (half health), it will explode again and spawn 4 wither skeletons, then the wither can use dash attacks, which can be dangerous. The wither drops 1 nether star which can be used to make a beacon. Enchanted diamond or netherite swords especially smite and diamond or netherite armor is recommended.
+
+
+== Neutral mobs ==
+
+
+=== Overworld mobs ===
+
+
+==== Wolves ====
+
+Wolves are neutral mobs that will become hostile should players attack them directly. If players accidentally hit a wolf, they and any other wolves nearby will become hostile. They will remain hostile until the player escapes, or they die, similar to zombified piglins. Try and escape them by tunneling away from them, sealing the entrance (and bring torches so the player will be able to see) or combat them with a stone sword or higher while sprinting backward. An extremely effective method is building a two-block pillar, and slowly dispatching the wolves. Wolves can be tamed by feeding them bones until hearts float off of them; tamed wolves will display a red collar. Bones can be obtained by killing skeletons as a drop.
+
+
+==== Spiders ====
+
+Spiders can be a nuisance if handled incorrectly. They are one of the monsters that are 1 block high, and as such, they will be able to sneak into the player's house if a hole is sufficiently large for them. However, spiders are also 2 blocks wide, so a 1×1 hole will not let them pass. Spiders have a special feature in which they can climb blocks. If players hear spider noises but can't see one, usually they are on top of their house. In the daytime, spiders will become neutral — they will only attack players if they attack them (but if they were hostile towards players during the night, they will still stay hostile). Also, even in their neutral state, if players try to sleep in a bed the usual "You can't sleep there are monsters nearby" message appears.
+However, they can ambush players in the daytime if players exit their house when one is on their roof, attacking their back as they walk away from their house. Spiders have a jump attack, and so it is best to swing a sword while walking backwards to avoid most damage. During the day, they can be killed by lava or flint and steel without becoming hostile to the player. In Survival, a spider becomes neutral towards the player if the light level around them is around 12. One can also kill spiders by pillar jumping, creating a ledge around the pillar, bombing the spiders with snowballs, and watching them climb and fall.
+Spiders drop 0–2 string, and have a chance to drop a spider eye. String is useful stuff, and precious in the beginning game as it is needed for bows, fishing rods, and leads. It can also be crafted into wool (12 string makes enough for a bed), and it can be placed in the environment as tripwire.
+
+
+===== Cave spiders =====
+
+Cave spiders only appear in mineshafts underground, but are a pain to deal with. Not only are they smaller than a regular spider, meaning they can fit through 1×1 holes, but also their bite will poison the player (except on Easy and Peaceful difficulty). On Normal difficulty, the Poison effect lasts for 6 seconds if not countered by drinking a bucket of milk or a honey bottle. On Hard, the Poison effects will last for a deadly 15 seconds. Keep in mind that the poison effect on Hard can deal 10 (5 hearts) of damage if not treated with said milk, and will eventually be the ultimate cause of player deaths in the mineshafts from the poison leaving only 1 health left on the player. Cave spider spawners are often difficult to take out, due to their location being surrounded by cobwebs. If the player runs across a cave spider spawner, make sure the player has shears or a sword to cut the cobwebs quickly (a sword will be used up quickly by this). Another great option would be a bucket of water. Players can also tunnel under the floor to reach them, then mine upwards and break the spawner. Neither type of spider is affected by the cobweb slowing effect, so be aware that they cannot get stuck as other mobs and entities can. These mobs are easier to defeat using bane of arthropods enchantment to inflict cave spider with Slowness.
+
+
+===== Spider jockeys =====
+
+These are rare, they have 1⁄100 chance to spawn in place of a regular spider and from a spider spawn egg in Creative mode. It is also highly fatal if confronted head-on, as the spider will pounce and climb to the player, while the skeleton shoots them with arrows. On Hard difficulty, a spider jockey deals a total of 5.5 hearts of damage if attacked head-on. If the spider climbs into an area that is only one block high, the skeleton will suffocate.
+If the spider is killed by the skeleton, the skeleton will revert to normal and continue to attack normally and vice versa.
+Wolves are a messy way to combat them because the wolf will attack the mob who last attacked it, so it may alternate from attacking the spider to attacking the skeleton, etc.
+The player can attack spider jockeys with a bow outside of the mobs' search range. Be sure that the player does not hit the spider until they have killed the skeleton.
+If a spider jockey spots the player from a high place, the skeleton may hurt the spider trying to shoot at the player, causing the spider to attack the skeleton, provoking a fight between them. The player can wait until one of the mobs dies so they will have to deal with a single mob or use the confusion to climb up and fight the already damaged spider jockey to get both loots. Be careful, as they could still be pushed off.
+The spider jockey also has other variants, such as one where the spider is being ridden by a stray. These variants can only spawn in snowy biomes and are more dangerous than their normal counterparts, due to stray arrows giving players slowness, while the spider tries to approach the player.
+The wither spider jockey is another spider jockey variant where the rider is a wither skeleton, but these mobs are unused as a spider cannot spawn naturally in the Nether. It's safer to attack these mobs from distance, due to wither skeletons only using melee attacks.
+In Bedrock Edition, the spider jockey also has another variant, the cave spider jockey. Cave spider jockeys are skeletons riding cave spiders, which means they can only be found in a mineshaft. It is mostly the same as a regular spider jockey except it can move through 1x1 gaps and it's poisonous.
+A stray cave spider jockey is the rarest spider jockey variant in Bedrock Edition, because it can only spawn from mineshafts with a spawner viewed by sky in snowy biomes; such as ravines in snowy biomes that expose mineshaft spawner. Due to this and the fact that snowy biomes are rare in general to begin with, the condition is very rarely met and if players found one like this, a cave spider jockey only has a 1% chance to spawn and 20% chance the rider will be normal skeleton, so the player is unlikely to find this mob. If the player encounters one, make sure to have milk as a stray can give slowness that makes the player difficult to escape while cave spider moves toward the player and inflicts poison.
+The last variant of the spider jockey is the wither cave spider jockey, but this is also an unused mob because just like normal spiders, cave spiders do not naturally spawn in the Nether. The combination of wither skeleton and cave spider makes combating this mob using melee attacks too risky as the player will get both the wither and the poison effect.
+
+
+==== Drowned ====
+
+Acting the same as zombies, drowned instead spawn in oceans, rivers and underwater ruins‌. Normal zombies can also drown in water and be converted into drowned after 30 seconds. They are easy to kill like normal zombies, except if a drowned mob spawns holding a trident, which can be dangerous if players are not protected with armor. It's recommended to wear armor with Projectile Protection.
+To avoid getting killed by a drowned holding a trident, it's best to stay away from them if players do not have any armor, as they do 8 when thrown and 16 × 8 in melee. Attempting to kill a drowned with no armor results in a high chance of dying. However, they only attack players during the daytime if they are in water and avoid attacking the player while out of the water to prevent themselves from being burned.
+In Bedrock Edition, drowned stop using ranged attacks when the player is 3 blocks or less away from the drowned, so the player can easily prevent drowned from throwing the trident by moving in as close as possible and defeating it.
+
+
+==== Iron golems ====
+
+In Bedrock Edition, iron golems spawn in villages containing 10 or more villagers and at least 21 houses (counted as beds), while in Java Edition, iron golems spawn when villagers gossip about golems. They do massive damage and have high health (100 × 50 health points), and they throw players into the air, doing even more damage when they land, so it is advised to use a diamond sword or a very highly enchanted iron sword to engage them. The player can also use a cactus to kill it, if they can get the iron golem to walk into the cactus either by provoking it or placing the cactus in its path. If they can figure out which area of the village spawns iron golems, an iron/poppy farm can be created. Bows are effective, as iron golems are extremely deadly at hand-to-hand combat. However, they have a lot of health, so attacks will take pretty long. Alternatively, if the player has 5 or so tamed wolves, hit the golem and run away. The dogs will see it as hostile and finish the job. The player is unlikely to lose more than one or two.
+Another way to easily kill iron golems is to pillar up 3 or 4 blocks tall, away from any nearby blocks the golem could stand on to reach you, and attack while out of reach. Note: the golem might still knock you off a 3 block tower. If you see it moving towards you along the side of the pillar, move to the farthest edge away from it. A 4 block tower is completely safe, but the time window for a critical attack is very small, so it will take longer to kill the golem.
+Another even easier way is to aggro a golem, then run into a nearby house, stand just beyond the door frame and jump crit it to death. Careful as it may still hit you if you move too close.
+Be warned that attacking, and especially killing, an iron golem causes a severe depletion in popularity with the villagers, so if the player wishes to remain popular with villagers, it is best to either avoid killing iron golems, or kill them indirectly by making a farm.
+
+
+==== Polar bears ====
+
+When alone, polar bears are neutral in that they will attack the player if they are attacked, but they can also be immediately hostile when approached if a polar bear cub is nearby. If the cub is attacked, any adults in a 41 block cuboid area will come to its defense. Attacking the adult first when a cub is nearby will cause all adults in a 21 block cuboid to attack the player. Cubs are passive in any situation. 
+Polar bears have 15 hearts, and do 4 damage on Easy, 6 on Normal, and 9 on Hard. They attack by rearing up on their back legs and smashing down with their front legs. This attack can sometimes miss or be dodged if the player is moving in circles or irregular movements. Iron gear or better makes dealing with them in low numbers trivial, but when in large groups (which is fairly uncommon) they can quickly overwhelm the player. The player can create a 3 block tall pillar to easily dispatch of any hostile adults.
+Polar bears have a much faster swimming speed than the player, so it is recommended to not engage polar bears in water if possible.
+
+
+==== Llamas ====
+
+Llamas will attack the player if provoked by spitting at them for half a heart of damage one time, after which they become neutral again. They can have between 15 and 30 health points. Their extremely low damage and lack of pack mentality basically nullifies them as a threat to any player with weapons or armor of any level. However, if the player happens to find themselves completely unarmed and unprotected against a llama with half a heart of health left, its spit can be dodged by sprinting sideways to the llama.
+
+
+===== Trader Llamas =====
+If the player accidentally hits a wandering trader, the trader's llama will become angry and spit at the player. The player can dodge the attack or make 2 trader llamas attack each other by hiding behind one of the llamas. However, if the wandering trader isn't present, hitting trader llamas will cause them to act like a passive mob and run away. When killed it can drop a lead, but only if the wandering trader is holding them.
+
+
+==== Dolphins ====
+
+If the player accidentally hits a dolphin, they will be attacked by multiple dolphins, and they can avoid them by swimming to the surface and getting out of water. When the player sees a dolphin on land trying to hurt the player, they can kill them safely as their movement is much slower on land, and since dolphins are aquatic mobs, they are affected by Impaling enchantment.‌
+
+
+==== Pandas ====
+
+Pandas behave like llamas in which if the player attacks them, they will panic and then attack the player back once. Lazy pandas are the slowest, weak pandas only have 10 health, worried pandas, despite normally avoiding players, will panic then try to attack the player without avoiding them. However, if the player hits an aggressive panda, it will attack them until death. Aggressive pandas also become angry if a nearby panda is attacked. It deals 6 HP and has 20 HP. Pandas drop bamboo. Aggressive pandas can be recognised by their glaring expression, so it is easy to spot them if the player wishes to avoid provoking one.
+
+
+==== Bees ====
+
+Bees act similar to zombified piglins when provoked; their eyes turned red and they chase the player slowly. They attack with their stinger; but only once, and after they have stung the player and do not have their stinger for about a minute, the bees die. Bees give the player the Poison effect if the difficulty is on either normal or hard. Bees can also turn aggressive if the player uses a glass bottle on a honey level 5 to collect a honey bottle, uses shears on a honey level 5 to collect honeycomb, or breaks their nest or beehive regardless if an axe has Silk Touch enchantment or not during the day if multiple bees are nearby. However, bees will not attack the player if there is a campfire underneath its beehive, which acts as a safe way to collect honey bottles and honeycombs. It's much more effective to move their nest or beehive location at night since they are not active during the night.
+
+
+=== Nether mobs ===
+There is currently only 1 neutral mob in the Nether: the zombified piglin
+
+
+==== Zombified piglins ====
+
+Zombified piglins are neutral mobs. This means that they are not naturally hostile, but will retaliate if attacked, just like wolves. These mobs will attack in medium-large groups and unprepared players should be cautious of their strength in numbers.
+To an unprepared or careless player, a charging group of zombified piglins can mean a swift death, but the fight becomes easier after the player can recognize how they behave and attack. Zombified piglins attack with a mob mentality. If the player attacks one of them they will all join in and attempt to kill them. As soon as one zombified piglin is attacked, all of the others within a 32 block radius become hostile and will charge the player if they are in sight range (16 blocks). Zombified piglins will notice attacks from behind walls and at different heights. Their hostile status lasts between 20–40 seconds since the last attack by the player, so taking cover and waiting can be used, but it is better to bunker down (in a narrow cave/choke point, for example) and dispatch them safely. The hostility radius is centered around each zombified piglin that is attacked, not the player. This means that the player can attack a far-away zombified piglin with a bow without nearby zombie piglins becoming hostile (although this is not suggested). Note also any zombified piglins between 17 and 32 blocks will continue to wander as normal unless the player comes within 16 blocks of them (or vice versa), upon which they will rush them (assuming they haven't calmed down by then), but when they defend themselves, any zombified piglin within a new 32-block radius will be angered.
+They carry a golden sword, and so they do quite a bit more damage than a zombie. On Hard difficulty they will do 13 × 6.5 HP of damage. Compared to the zombies that deal 4 HP damage on Hard difficulty, there is a considerable difference. They do, however, share zombies' natural armor (8% damage negation). Zombified piglins always spawn with a golden sword. They will never spawn with armor pieces on them (chestplates, helmets, etc.), but their sword may be enchanted. If items are dropped near them, they will pick up the items. Armor and swords will be automatically equipped.
+The easiest way to kill a zombified piglin is in one hit, as they will not be aggravated if another zombified piglin is killed in one hit. This can be achieved with Strength II and a Diamond sword, or a Diamond sword with Sharpness III and Strength I.
+Another easy way to kill zombified piglins is to build a 2-block-high tower next to one by pillar jumping. Make sure the zombified piglins can't jump onto the tower. Then hit the zombified piglins. All other zombie piglins will be angered, and come rushing towards the player, however, they can't reach the player. Now dispose of them. When done, check to see if other zombified piglins are coming. Then, destroy the tower. Be careful of baby zombified piglins because they are small and hard to see in all those adult zombified piglins, and can really surprise players.
+
+
+== Utility mobs ==
+
+
+=== Snow golems ===
+
+Allied:
+Despite dealing no damage, the snow golem's use in combat is not to be underestimated. Defensively, they can either knock enemies away from the player's base, or lure them into a trap. They are very cheap to make, and offensively, they can distract mobs, making them much easier for players to kill, as after being hit by a snowball, they will ignore the player to attack the golem. This allows players to make easy kills on most mobs. They also alert them if a mob approaches from behind, as well as slowing it. If players need to retreat, place a snow golem or two to occupy incoming mobs, buying them plenty of time to escape or let their health regenerate. Unfortunately, they do not attack creepers, so players may want to take a cat with them if possible.
+Hostile:
+While snow golems can be useful for defending off other mobs, they are little threat to a player. They deal no damage, but they do deal Knockback and wear down armor, which can be dangerous in certain situations, such as fighting near a drop-off. Strafing away from their snowballs is fairly easy from a distance, but is difficult up close.
+
+
+=== Iron golems ===
+
+Allied:
+After boss mobs, the iron golem is the most powerful mob in the game (they have 100 × 50 HP) and can kill most mobs in one or two hits. However, it is also extremely expensive to build, requiring 36 iron ingots, and apart from creating it, the player has no control over it. It also takes longer to build than a snow golem, making it less useful as a last resort. In general, it's a better idea to use wolves instead, as they are much easier to acquire. However, an iron golem has the advantage that it can attack where the player is far away or inattentive, making them useful in mob traps and base defending. It may also be useful when the player is in the Nether and fighting a blaze and wither skeleton. They are especially useful because they do not take fall damage and cannot be knocked back.
+Hostile:
+Hostile iron golems are one of the most dangerous threats in the game. They have the highest base damage in the game, and, aside from boss mobs, is tied for the most health in the game with the Ravager at 100 × 50. Add on the fact that they take no Knockback, yet deal massive Knockback to the player, taking one down requires end-game gear if they are faced head on. The situation the player is most likely to anger an iron golem is in a village, where they attack a player who attacks a villager, or the golem itself. If this is the case, it is best to just run away, as depending on how much damage was done to the villagers, the golem may become passive again. If the player wants to fight the golem, then enchanted diamond/netherite gear is recommended, as well as a shield to block the golem's attacks. Golden apples and potions can also help. Alternatively, if the player uses a bow from afar, the golem can be killed without even seeing the player. However, note that killing a village's iron golem will lower the player's reputation there, causing future iron golems to become hostile automatically. 
+
+
+== Other players ==
+
+The hardest enemy to defeat, all other players have 20 × 10 HP (10 hearts). If the player is engaged in a duel, be sure to be prepared with at least iron tier armor and weapons as their opponent will make quick work of them, especially if they are unprepared/have better weapons than you. It will be great if they could get some help, either from allied players, tamed wolves, iron golems, and/or snow golems. Engaging other players may possibly be the most challenging fights in Minecraft, depending on the player and the other's skill. Observe battle tactics and use them to their advantage. Use negative splash/lingering potions and flint-and-steel if allowed. When the opponent attempts to spam them with sword hits, block with a shield at first, then backpedal and fire several arrows from an enchanted bow. Then, sprint-hit or hit critically to them to finish them off. A fail-safe is to drop an anvil on them from 24 or more blocks high, which will kill them.
+
+
+=== Other Player's Tamed Wolves ===
+When players are attacked by another player's wolves, just use same strategy to defeat wild wolves. A tamed wolf has 20 health and 4 attack damage, so they are a bit harder to kill because of their increased stats and that players can tame multiple wolves.
+If you are surrounded, run away and try to get as many blocks in-between you and them as possible.
+
+
+== The equipment ==
+
+
+=== Sword ===
+
+Style: Offensive, direct
+Range: Melee
+Damage: Varies with material
+The primary weapon for most players, it is the also the most versatile to use. A sword's damage varies on material and a rule of thumb is the rarer the material, the stronger the sword (with the exception of gold). A sword deals far more damage than by hand, and will greatly increase a player's chance of survival upon being faced with hostile mobs. Even the wooden sword, the lowest tier of sword, deals four times as much damage as the fist (and each further increase in material increases the damage of the sword by half a heart). Swords may also deal sweeping attacks capable of splash damage when the attack bar is full, making short work of grouped mobs. A sword, like many of the weapons mentioned here, has a limited amount of uses, and disappears when its uses reach zero. Again, the higher tier the sword is, the more uses it has, and each tier approximately doubles the uses that a sword possesses, apart from the diamond, which has more than 5 times the number of uses as iron. Enchanting the sword can also greatly increase its power.
+
+
+=== Axe ===
+Style: Offensive, direct
+Range: Melee
+Damage: Varies with material
+The axe’s and usefulness varies between the two versions of Minecraft.
+In Java Edition, axes deal much higher damage(a wooden axe deals the same damage as a diamond sword) compared to swords and have the ability to momentarily disable shields. However, they also have a 2x slower attack speed cooldown. Also, axes are unable to deal sweeping attacks, making them less effective than swords against multiple mobs.
+In Bedrock Edition, axes deal half a heart less damage than their sword counterpart and do not disable shields. 
+In both versions, axes cannot be enchanted with Fire Aspect and cost 1 more of the material to make than the sword.
+Axes use 2 durability every time it is used as a weapon, so they have much lower lifetime damage compared to swords.
+Overall, the usefulness of an axe depends on your version. In Java Edition, even though the damage is higher, the sword of the same material does more Damage Per Second (DPS). However, axes can be used to deal more damage in a single blow, and are useful in certain cases, like starting out in a survival world, or in player-versus-player (PvP) combat. In Bedrock Edition, axes are completely inferior to the sword, because they do 1 less damage than a sword of the same material and have no benefits.
+
+
+=== Trident ===
+Style: Offensive, direct
+Range: Ranged/Melee
+Damage: 8-9
+It is a good weapon, but rare to obtain, which can be thrown or used in melee. The trident can be thrown as a ranged attack but unless it has been enchanted with Loyalty, the player will have to retrieve it in order to use it again. When used as a melee weapon the damage depends on the version. In Java Edition, it does about the same damage as an axe but has a lesser attack cooldown. In Bedrock Edition, it does the same damage as a netherite sword.
+
+
+=== Tools ===
+Style: Offensive, direct
+Examples: Shovels, Pickaxes
+Range: Melee
+Damage: Varies with type and material
+When a player is out performing tasks in the world, they might not have a sword/axe or set a sword/axe in their hotbar. Shovels and pickaxes can also be used to deal damage when a sword or axe cannot be drawn. Different tools and weapons have different attack strength and attack speed. However most tools apart from swords or axes are highly inefficient when combating mobs and should be used only as a last resort.
+
+
+=== Mace ===
+
+Style: Offensive, direct
+Range: Melee
+Damage: Unlimited (depending on heights)
+Unlike swords and axes, maces aren't used to inflict critical hits; they are used to deal a lot of damage to entities from different Y-levels. This weapon is always useful with the help of Wind Charges. The best way to them is to launch yourself up in the air with wind charges, and gradually attack with the mace as you fall down.
+This weapon can be enchanted with a few sword and axe enchantments (like Smite, Fire Aspect, Vanishing and Bane of Arthropods), along with some new enchantments:
+Density: (Enchantments levels up to 5) Inflicts more damage than usual
+Breach: (Enchantments levels up to 4) Inflicts damage while reducing the durability of your opponents' armor
+Wind Burst: (Enchantments levels up to 3) Inflicts damage while launching yourself even higher, similar to wind charges
+
+
+===== Pros =====
+Inflicts more damage upon various heights
+Afflicts less fall damage upon smash attacks
+Disables shields easily
+
+
+===== Cons =====
+Sometimes easy to miss your opponent/target if you fall and don't attack
+Not fire resistant like netherite weapons and can burn in fire and lava
+
+
+=== Bow ===
+Style: Offensive, direct
+Range: Ranged
+Damage: no charge: 1, medium charge: 6, high charge: 9–10 damage
+
+The bow is the easiest to use, and most widely employed ranged weapon in the game. However, it requires arrows as ammunition. Enchanting a bow with Infinity can sidestep the ammunition problem, as wielding one arrow is enough for infinite shots, limited only by the weapon's durability. Infinity can also prevent one's opponents from picking up the missed arrows to use as ammunition of their own. Other bow enchantments will greatly enhance the bow's attacking power, allowing it to deal more than ten hearts per shot.
+Although bows are very useful weapons in most land combat situations, they do not work well in water or lava. When shot through fluids, arrows will drop downwards after traveling 4 blocks from the player, making underwater archery useless and sometimes dangerous (players can be hit by their own arrows).
+This makes bows useful for ranged fights, if you are fighting a mob thats not near you.
+
+
+=== Crossbow ===
+Style: Offensive, direct
+Range: Ranged
+Damage: 6–11 damage
+
+The crossbow is similar to the bow, but more powerful, and shoots arrows with more velocity, though it has a longer charge time. It requires arrows or firework rockets as ammunition. Enchanting a crossbow with Quick Charge can sidestep the reload time problem, as charging crossbows with Quick Charge III is faster than fully charging a bow. Other enchantments which greatly enhance the crossbow are Multishot and Piercing, which are useful for attacking multiple enemies. Although crossbows can't be enchanted with Power, Multishot can help when the player shoots as close as possible, so the opponent will get hit by 3 arrows at once with each arrow dealing 6-11 damage. Even though the crossbow cannot be enchanted with Infinity, Multishot fires 3 arrows, but only one can be picked up, so as long as only two arrows hit enemies, the player can still retrieve the third arrow (it also works for tipped arrows as well). The same goes for the Piercing enchantment: as long as an arrow or tipped arrow passes through mobs, the player may retrieve it from where it lands.
+The crossbow can also use firework rockets as ammunition. Firework stars with an explosion effect deal 5-6 damage with 1-2 additional damage per an extra firework star, and up to 7 firework stars can be used. The mean firework rocket damage ranges between 11-18, which deals splash area and can damage endermen and the wither during its projectile armor phase. Additionally, each firework star can be dyed (with a large ball effect), which may obscure another player's vision (due to the particles color). However, firework rockets are much harder to use in Bedrock Edition as they don't explode immediately upon impact with mobs or blocks, severely reducing their effectiveness in combat. They can also be expensive, requiring from 2⁄3 to 2 2⁄3 pieces of gunpowder per rocket.
+Due to the crossbow's ability to keep an arrow loaded whether it's held in hand or kept in the inventory, the player can have 9 hotbar slots full of loaded crossbows and can do rapid shooting. With each crossbow having the Multishot enchantment, it will shoot even more arrows, which is very useful when shooting multiple crowded mobs, or a boss mob. This also works with firework rockets.
+Although crossbows are very useful weapons in most land combat situations, they do not work well in water or lava. When shot through fluids, arrows will drop downwards after traveling 4 blocks from the player, making underwater archery useless.
+
+
+==== Wind Charges ====
+Unlike most projectiles like arrows and fireworks, wind charges can't be launched via bows and crossbows. (More Info To Be Added)
+
+
+=== Bucket ===
+
+Style: Varies with contents
+Range: Varies with contents
+Damage: Varies with contents
+The bucket can be filled with either water, lava, or milk to become a powerful weapon in the game. It does not have durability, and therefore can be used infinitely. A bucket is primarily used as a defensive weapon against approaching mobs, as the player must place the contents of it between the mob and themselves for it to be effective. A bucket can also be filled with milk which removes all status effects.
+
+
+==== Water bucket ====
+Style: Defensive, hindering
+Range: 7 from source
+Damage: None (Except for endermen, blazes, snow golems and striders)
+A water bucket can be used to reduce the speed of approaching mobs, leaving them highly vulnerable to arrow fire and sword damage. Combining this with height, a player can hold off hordes of mobs with little effort. A water bucket provides advantages over the lava bucket in the fact that it is safe to use, is easily removable, and also doubles as a fire extinguisher should the player be set alight. However, it cannot be used in the Nether. Also, by using traps it is possible to drown an opponent. For drowning players it is best to encase the trap in obsidian. It also helps that blocks are harder to break underwater.
+A water bucket also has the added benefit of being guaranteed protection from endermen, provided the player is standing in the water.
+
+
+==== Lava bucket ====
+Style: Contact, flame, lasting
+Range: 3 from source (7 from source in the Nether)
+Damage: Contact (Except for witches and all Nether mobs apart from piglins and hoglins)
+A lava bucket is capable of causing an immense amount of damage to multiple mobs in addition to providing light and greatly hindering mob movement, even more so than water. Any mobs (without fire resistance) that come into contact with lava will suffer 2 whole hearts of constant burn damage every half-second for a total of 4 hearts of damage per second. In addition to that, they will also be set on fire, suffering additional burn damage over time even after leaving the lava. The lava bucket is especially dangerous in confined spaces where it can be used to block off a pathway, preventing most mobs from reaching the user. One should be very careful, however, about where they place lava as that extreme damage figure mentioned above also applies to players.
+Lava buckets are almost completely worthless against all nether mobs — their only use is to slow down land-based mobs such as the zombified piglin or the magma cube in the same way that a water bucket is used. Also, the player should note that lava destroys any drops that the mobs would otherwise give, so lava should only be used for an outright kill.
+Furthermore, with the bow enchantment update which gives flaming arrows the ability to do burn damage, the lava bucket can be used to place a block of lava and fire arrows through it. The best method is to create a two-block high stack of cheap blocks (dirt or cobblestone is recommended, do not use flammable blocks), which player place the block of lava upon at the top, thereafter the player remove the two blocks under the lava source block creating a lava wall/pile of sorts. The player can now shoot arrows through the wall against enemies which will set them alight. This method is slow, and suited for long-range combat, but is useful for players who do not have access to an enchantment table. This method is also able to ignite enemy TNT at a distance when not equipped with a flame bow.
+
+
+===== Pros =====
+Deals extremely high damage, leading to very fast kill.
+Infinite uses, no durability.
+Large area of effect, depending on terrain.
+Slows down the mobs.
+Also acts as lighting.
+Can be used as a trap.
+Can help players keep a distance from hostile mobs.
+Doesn't count as player kill, so safe to use against piglins.
+Use in accordance with a bow or power bow for a devastating long-range attack.
+can be mixed with water for obsidian/cobble depending on how you place it.
+
+
+===== Cons =====
+Just as dangerous to the player, usually deadly if water is not near. To avoid this downside drink a potion of Fire Resistance.
+Will cause anything flammable nearby to catch fire.
+Takes long time to flow (unless in the Nether).
+Destroys all items that come into contact with it.
+Can take a long time to disappear, potentially blocking the escape route.
+Does not yield experience.
+Since Nether mobs are fire-resistant, lava will not harm them, this also apply to boss mobs and vexes as well.
+
+
+=== TNT ===
+Style: Offensive, Explosive
+Range: ~5 block radius
+Damage: Up to 15 hearts to all entities in range
+As an explosive, TNT is an incredibly powerful weapon, dealing enough damage to instantly kill most mobs caught in the blast radius and creating a sizable crater, making the area difficult to navigate for future mobs. Because TNT has a rather lengthy fuse and can be activated with redstone, either directly or through a dispensed fire charge, it is most effective as a trap, allowing players to dispatch an enemy indirectly. But because TNT does just as much damage to the player, it is rather dangerous to use in direct combat unless they can get away from the primed TNT faster than their foes can. In addition, TNT is expensive to make, so using an alternative explosive method in this situation, such as a creeper or a bed while in the Nether or the End, is preferred.
+
+
+=== Bed /  respawn anchor ===
+Put enemies to bed and lay them to rest. If the player happen to be fighting in the Nether or the End and are about to die, one of the most cruel and ironic ways to kill the enemies is to take them down with the player as they die by using a bed. Simply equip the bed, place it, click on it and it will instantly explode, killing just about anything within a 5 to 7 block radius. In terms of blast force, the bed is actually more powerful than TNT, which makes it that much deadlier and harder to survive. One major downside is that the player have to click on the bed to detonate it which means they will have to be very close to it in order to do it and since the detonation is instant, players are very likely going to kill the player when using a bed as a weapon in the Nether. As a result, aside from taking on the role of a crazy suicide bomber or tricking the opponents into accidentally detonating the bed for the player, they're better off using the bed as a last-ditch final attack to take an opponent with the player into death. However, if you place a block between you and the bed, then click on it, the bed will do little damage to you. 
+The bed can also deal a significant amount of damage to the ender dragon, especially if it explodes close to the dragon's head.
+
+
+=== End crystal ===
+This is an even more powerful weapon that can kill a player in Protection IV armor quickly. Simply place down a block of obsidian, place the end crystal on top, and shoot it/hit it. Be aware that in order to deal the maxium damage from the end crystal, your opponent must be in the same y level as the crystal or higher. You can do this by hitting them and then place and destroy the crystal quickly or just wait for them to be on a higher y levels than you. Unfortunately end crystals are expensive to craft, and can only be placed on obsidian or bedrock.
+
+
+=== Flint and steel /  fire charge ===
+Style: Contact, lasting
+Range: Damage on contact
+Damage: 1⁄2 heart per second, while lit
+Flint and steel is a unique weapon, as players can set a block of fire, and while it burns, any mob that comes into contact with it will catch fire, suffering burn damage over time. This can be very useful when being chased by multiple mobs, as it will weaken all or most of them down to the point where a sword hit or two will be enough to kill them. However, there are several downsides to this method. First of all, mobs may elude the fire by pure luck, requiring another light. Second of all, if the player are in a confined space, circling to avoid mobs, they could potentially set the player on fire by accident. Third, burning mobs can also set themselves on fire when through melee attacks. Lastly, it can take a long time for the mob to die, enough time for more mobs to join the party. A fast player could make a short 1-block netherrack wall and light the top. Mobs would have to jump and they would take damage instantly or over time. Particularly effective with a sword with the Knockback enchantment.
+
+
+=== Solid blocks ===
+Style: Defensive, Assisting
+Range: within reach
+Damage: None
+Blocks - the central element of the game - can become powerful tools of defense when used in the hands of skilled players. They can be used to elevate the player quickly from the ground by pillar jumping, block pathways to stop approaching hostile mobs, cut line-of-sight to prevent hostile mobs from noticing or attacking, or shield the player from explosions. 
+Good candidates include dirt, cobblestone and netherrack. All of which are cheap, available in large quantities, can be quickly broken with basic tools, and are not affected by fire or gravity. When in areas without fire hazards, planks and leaves can also be considered.
+
+
+=== Sand or  gravel ===
+Style: Ambush, Lasting
+Range: Unlimited
+Damage: From suffocating
+Sand or gravel aren't weapons in true sense, but they can be used to kill mobs. Best use is in caves — when the player are on a high place and the player have a mob directly below, they can place that block on a wall near where they are standing; the block will fall, and with right aim, it will fall on the mob, and thus suffocate it. However, killing with this weapon doesn't yield any experience, but that block will make the mob stuck, and the player can finish them with the sword.
+
+
+=== Cactus ===
+Style: Defensive, Trap
+Range: 1 block
+Damage: Contact (0.5 heart)
+Cacti can be used to make effective traps against mobs. When in contact with the block, any mob (including the player) will lose half a heart every half seconds, however, mobs may avoid them, but if the player wants to make a trap, the player can place three cacti plants, two blocks high, in a V format. The player might want to lure them nearby (around 10 blocks far from the trap) and hide in the opposite side, where they will try pursue players but will not be able to reach.
+
+
+=== Cobwebs ===
+Cobwebs can be used to greatly impair enemy movement and makes any mobs stuck in it easier to hit. Players can acquire cobwebs from mineshafts, stronghold libraries, igloo basements, abandoned villages, and woodland mansion spider rooms. If players are running away or an enemy is approaching, they can place cobwebs in their path. Even if they don't run into it, they will still have to waste precious time going around and there is also the chance of them accidentally stepping into it while fighting players. Furthermore, intentionally placing and jumping into cobwebs may be a viable strategy, as players can repeatedly perform critical hits with melee weapons so long as all other criteria is met. 
+And not only that, but you can trap enemies with cobwebs. When the enemy is standing still, quickly block them into a box, and put cobwebs in there. Then you may kill them. And if it is a player, they will also need to break out.
+
+
+=== Snowball ===
+Style: Assistive, hindering
+Range: Ranged, up to approx. 50 blocks depending on the aim
+Damage: 0 (Except for blazes)
+Snowballs may seem a useless weapon at first, as they deal no damage against mobs other than blazes. They have their use however because of their two important traits. First, they push a mob backwards just as any hit does even despite the lack of damage. Then, unlike arrows snowballs can be fired as quickly as the player can right-click. This allows them to be used to keep even large amounts of approaching mobs at bay with relative ease or to quickly interrupt a mob's attack when necessary. This speed combined with the fact that snow is abundant in certain biomes, renewable and easily gathered makes it a cheaply obtained and useful long or short-range option, even after a bow has been located.
+Not only that, but you can get a cool combo with snowballs. Shoot the snowball, and when the enemy is in the air, start comboing them.
+
+
+=== Dispenser ===
+
+Style: Offensive/Defensive/Trap
+Range: 10–30 blocks
+Damage: Varied
+Dispensers can be loaded with a wide variety of ammunition, such as arrows, fire charges, snowballs, eggs and potions and will fire said items when activated by redstone. Dispensers are good for traps, for players and mobs. Loading a dispenser with arrows or fire charges and linking it to a (fast-cycling) redstone clock can turn it into a full-auto machine gun turret with enough firepower to level just about any mob that happens to be in front of it.
+Arrows: Will be fired is a similar fashion to a skeleton's arrows with a slight inaccuracy, dealing 1.5 hearts of damage per shot. Simply right-click the dispenser, and load the arrows into the nine-grid squares. A dispenser can be loaded with up to 9 stacks of arrows. Dispensers can also be loaded with tipped arrows which will apply status effects to whatever mob they hit in addition to the contact damage.
+Fire charge: A dispenser loaded with fire charges will shoot them out as fireballs like a Blaze would, dealing both contact damage as well as setting mobs on fire, dealing additional damage over time. One should be careful not to use fire charges near anything flammable as the fireballs will start random fires upon hitting surfaces and can cause any flammable blocks nearby to catch fire.
+Fireworks: A dispenser loaded with Firework rockets will launch the rockets in the direction the dispenser is facing. This allows the player to launch firework rockets sideways and presents them with a high customization type of ammunition. A firework rocket will, upon exploding deal 5–6 hearts of damage for first firework star loaded into it and 1–2 for each extra fireworks stars. All firework stars go off simultaneously when the rocket detonates and up to 7 firework stars can be used per rocket, making a max-payload rocket deal a whopping 11-18 hearts of damage upon exploding. Alongside firework stars, the player can also add more gunpowder to the rocket to extend its range and fuse length, allowing the player to time it to detonate after traveling a certain distance. Up to three gunpowder can be used but be aware that adding more gunpowder will reduce the amount of fireworks stars that can be added and vice versa.
+Snowballs/eggs: Can be used to Knockback mobs, for defense or offense (where the mobs will be knocked towards is a hole). Snowballs will do nothing but throw them back (but will damage blazes), but eggs may spawn chickens. If the player are in a tundra biome, those surely will be the easier to make, as they can make snowballs.
+Trident: can be used for underwater dispenser, since tridents deal high damage, and travel fast regardless on land or underwater, a trident with the riptide enchantment loaded in dispenser still can be thrown, and one enchanted with Loyalty won't come back to dispenser, also channeling still works with a dispenser.
+Splash potion/Lingering Potion: A dispenser loaded with potions can be used for a multitude of purposes. It can be loaded with harmful potions (Poison, Instant Damage, Slowness, Weakness, etc…) and used as a weapon against enemies or it can be loaded with beneficial potions (Healing, Regeneration, Speed, Strength etc…) and used to apply positive status effects on oneself in the middle of a fight. Just be careful of what the dispenser is loaded with when using it so as to not accidentally hit the player with bad status effects or accidentally give the enemies a good status effect.
+Dispense water: Dispensing water on the target can be used to push them off ledges or into other hazards but is otherwise not very efficient: it is much simpler to get close and place the water by the player. Dispense water only when the target is far away from where the player is standing, yet players want to slow them down.
+Dispense lava: A dispenser loaded with a lava bucket can act as a powerful area denial tool as it creates an extremely harmful hazard that will make short work of any mob that runs into it. Dispensing lava to attack the foes is slightly more efficient than placing it as the dispenser allows the player to maintain a safe distance between the player and the lava to avoid burning themselves and the dispenser can also suck up the lava without problems, making it a much safer alternative to placing lava by hand.
+
+
+=== Splash potion ===
+Style: Offensive, Hindering, Lasting (Varies)
+Range: Varied
+Damage: Varied
+Splash potions can be a lot of help to hinder their foe or dealing damage, but use them sparingly. Remember that there is a big difference between throwing a splash potion of damage at one mob than at a group of mobs. Another good strategy is to know some potions. Splash potions of Healing or Regeneration can let you get closer to zombies or zombie pigmen and receive the Healing or Regeneration boost while damaging your target. Splash potions that have increased time make for hit and run tactics, a good strategy if the player are low on health. If they are being chased by a group of hostile mobs and you have a splash potion of Instant damage, remember that you still take damage from splash potions. Use the Knockback from the potion to take shortcuts or get over walls two blocks high.
+
+
+=== Lingering potion ===
+Style: Offensive, Hindering, Lasting (Varies)
+Range: Varied
+Damage: Varied
+Lingering potions can be used to hinder enemies or deal damage, but use them sparingly. Lingering potions of Healing or Regeneration can let you get closer to zombies or zombie pigmen and receive the Healing or Regeneration boost while damaging your target. Lingering potions that have increased time make for hit and run tactics, a good strategy if you are low on health. If you are being chased by a group of hostile mobs and you have a Lingering potion of Instant damage, remember that you still can take damage from the area of effect cloud.
+
+
+=== Fishing rod ===
+Style: Assistive
+Damage: Fall Damage
+Fishing rods are not a weapon in the traditional sense, but useful nonetheless. Their ability to grab and draw in mobs is useful to keep passive mobs from running away when hit, or to draw hostile mobs into traps or hazards. Players even use them on other players, to bring the enemy closer to you, or freeze them and have a chance to get a combo. Additionally, reeling in a mob while standing high above it can launch it quite far into the air, causing it to take fall damage on the way back down. To maximize effectiveness for combat, keep a sword in the item slot next to the fishing rod, so that drawing in an enemy, then striking them with a sword becomes faster. The player can also fly with elytra using fireworks to boost fly higher while use fishing rod grab mobs or player then reeling it can cause high fall damage. 
+
+
+=== Anvil ===
+Anvils deal as much damage when falling on an entity as that entity would take with no armor or potion effects falling from the same height. This means to kill a player or mob with 20 health, it has to fall 24 blocks. This will damage the anvil as well.
+
+
+== Fighting styles ==
+Here are some fighting styles that players use to fight mobs and other players. Note that some of these styles are only helpful when fighting other players. Also, not all items that should be brought in combat are listed under "Required items", so make sure to bring all the required items, but also bring standard and basic defensive items, such as tools and armor.
+
+
+=== Melee Combat ===
+Required items: 
+
+Diamond or netherite sword with Sharpness enchantment
+Iron, Diamond or Netherite axe with Sharpness enchantment (only in 1.9+)
+Shield (preferably with Unbreaking enchantment and in 1.11+)
+Armor (preferably diamond or netherite) with protection enchantment, you do not need a high-tier armor if you are an experienced Minecraft fighter
+A few potions of Regeneration/Instant Health II
+A few potions of Strength II
+Great saturation and hunger-filling foods, such as steak, cooked porkchops or at best, golden carrots
+golden apples or enchanted golden apples
+
+
+==== Pre-combat ====
+Be sure not to consume any of the following items before battle.
+
+Melons
+Rotten flesh
+Any uncooked meat
+Cookies
+Apples
+Carrots
+Suspicious Stew
+Poisonous Potatos
+Any Potions with negative side effects
+The reason for this is that these items have a very low effective quality and will make the hunger go down very quickly, especially while in combat. In combat, the player will be sprinting, jumping, attacking, and taking damage. These all affect the player's hunger saturation, or the amount of time each hunger point will last, so they are going to want as much saturation as possible. The following foods are the best choice for pre-combat preparation and are recommended to have while in combat.
+
+Golden apple
+Steak
+Cooked porkchops
+Golden carrots
+Cake (unless the player can't place blocks due to plugins)
+All of these foods, except for cake, have an effective quality score above 20. Cake, with a score of 14.4, is useful because the player can place and eat it without being forced into the speed of crouching. If the player are on a server with plugins that keep players from placing blocks in certain areas, then cake might not be the best choice. Always be sure to keep the sword as set as their most easily accessible item in their hotbar, depending on how their controls are set up. If the player are using the default controls, it is recommended that the player set their sword as the leftmost item on their hotbar. Also, be sure to keep other important items such as food or potions to the left of their hotbar.
+
+
+==== Engaging in combat ====
+When engaging opponents, sprint jump towards them with the sword equipped and start the swing as the player approaches the opponent. Try to be in mid-air when the player attack to get a critical hit (in 1.9 try to not be sprinting when landing the first hit at the last moment, since you can't do critical hits and Knockback hits at the same time), which will increase the amount of damage they deal. If successful, it will leave a star-like particle effect. If the player makes contact, their opponent will be knocked back. After a successful critical hit, try to combo your opponent (by sprint-resetting, strafing, and some others movement methods). The best way to combo someone is to keep enough range and give the opponent enough Knockback so they can't hit you right after you hit him. If you're opponent is in a combo which turns to your advantage, you can try to cast a critical hit, while your opponent is struggling to escape your combo.
+If the player are the one that gets hit, and the damage is too much for the player to re-engage combat, the best option is to use a splash potion. Don't immediately use the potion, because the player might also heal the opponents. Instead, run out of the opponent's range, and, while running, look down briefly and throw the potion. If it is an instant health potion, turn around and surprise their opponent with a quick attack. If it is a regeneration potion, wait for their health to regenerate to full and turn around and lay as many hits on them as they can. The regeneration effect will be a huge advantage, allowing you to attack without fear of losing health too quickly.
+If the player is at a distance from the opponents that are attacking with a bow, start to move towards them, sprint jumping and moving from side to side. If possible, block with a shield to protect against incoming arrows. Using a shield to block will protect players against 100% of incoming damage; however, it will also damage the shield, and it will disable the shield if the weapon is an axe.
+If you have a shield, try to use it at strategical moment to block 100% melee damage (only works in 1.11+). If the opponent has a shield too, it is better to fight with an axe, since they do more damage and can disable shields when hitting a blocking player. If the opponent rises their shields, try to sprint hit him with an axe, then continue with axe critical hits while his shield is disabled. The opponent is at his most vulnreable state when having a shield disabled.
+Tips:
+
+When attacking with multiple hits at once, keep in mind that your opponent is invulnerable 0.5 seconds after they take damage, as indicated by their avatar turning red while they cannot be hit. Try to keep the crosshair on the opponent while in melee range to ensure the attacks won't miss, wait until the instant they are not red anymore, then hit them again with the sword.
+There is a mechanic where when sprint hitting an opponent while holding sprint, the next hit won't be a sprint hit anymore (won't give as much Knockback) and therefore can compromise your combo. It is recommended to reset sprinting after a hit to ensure maximum Knockback to keep a combo, also to keep range (methods such as w-tapping, s-tapping, timed blockhitting, shift-tapping...)
+Eating food, besides cake, can be tricky because of being forced into crouching speed. When being attacked with arrows, watch the opponents to see when they fire an arrow. As soon as the arrow is in the air, move some distance away from their current location, eat, and move out of the way quickly.
+Know when you are beaten. If your opponent has significantly better equipment than you or you are not well prepared to engage combat, then you are highly unlikely to win the fight. When this happens, you either run away or die and accept your loss.
+Strafe. This is useful when they are shooting at the player, as you will dodge their arrows, but it is also useful in melee combat, as they could miss while they keep attacking them.
+The player may want to use a splash potion or potion of Strength, as the player can kill other players wearing armor much more easily.
+Being skilled in melee combat can make a big difference in winning or losing a pvp match. The player can practice on competitive multiplayer servers to get tips from highly skilled and experienced players online. Some competitive servers are minemen.club, or lunar.gg.
+Note: There are 2 different combat system, and even if melee combat is mostly the same about combos, there are still differences. In 1.8, vertical Knockback make so getting the most hits is important (and therefore ensure all of them are sprint-Knockback hits), whereas in 1.9 the attack cooldown and low Knockback make so getting better hits (critical hits/sprint-Knockback hits) is important. Combos are still possible in 1.9, but they are still a bit different than 1.8 combos.
+
+
+=== Elytra Sniping ===
+This strategy allows players to take down heavily armored foes using ranged attacks. This style is recommended for players with good aim. It is very effective, but it requires an elytra, which is very rare.
+Required items:
+
+Elytra. Mending and Unbreaking on it is recommended but not necessary
+Many firework rockets to boost elytra
+Bow
+Plenty of arrows, unless the player have an Infinity enchantment on the bow, in which case the player only have to bring one arrow
+Plenty of food that satisfies both hunger and saturation
+Other items that help greatly for strategy:
+
+Armor with Protection or Projectile Protection. Consider boots enchanted with Feather Falling to minimize elytra landing damage.
+Enchantments on all tools, weapons, and armor
+A pickaxe to dig out covers in mountains
+A water or lava bucket for eventually creative uses. Don't (unintentionally) burn down a forest.
+A sword. If all goes well, a sword won't be necessary, but it is recommended to bring one just in case.
+Arrows of Harming, as the Harming effect ignores armor and will usually deal more damage than conventional arrows against heavily armored targets.
+Steps:
+
+Step 1: Equip the elytra and armor for the remaining armor slots.
+Step 2: Jump and use fireworks to speed up the elytra. Fly to a place where the player can safely fire at the target.
+Step 3: Fire repeatedly, until target is defeated or until the target gets too close.
+Step 4: If the target gets too close, repeat step 2 and 3.
+This strategy is best used in environments that have high vantage points available such as mountains, jungles with high trees, amplified worlds, etc., with a lot of places where the player can safely use the bow.
+Cons:
+
+The player needs an elytra, which is a late-game item.
+If you die, you will lose the elytra, which is very rare.
+Pros:
+
+Allows you to mostly avoid melee combat, and grants you force and engagement at longer ranges on your premises.
+If the player needs time to regenerate, drink potions and rearrange the inventory or even place an anvil to repair the elytra, and the player can easily fly to a place far away where you can do just that.
+If you are about to lose the battle, it is relatively easy to escape, and the target will likely have a hard time following you.
+If you have an elytra, it means you probably have shulker boxes too. You can use those for extra storage since you have time to place and use them behind your cover. Or use an ender chest if you want to keep the items in there in case you die.
+Alternatively, you can also go airforce-style and shoot from your elytra while flying. However, you will not be able to hide behind cover this way, and it will be harder to hit the target while you are moving.
+
+
+=== Riptide Hooking ===
+This strategy is useful in combat with both mobs and players but is very hard to pull off. This is a good way to deal a lot of damage very quickly.
+Required items:
+
+A trident enchanted with Riptide III
+Boots with Feather Falling IV
+Any water source
+A fishing rod
+A bow
+Steps:
+
+Step One: Attempt to hook your opponent with the Fishing Rod. It is recommended to wield the Fishing Rod in your Offhand.
+Step Two: Get into a Water Source to use your Riptide Trident, then use Riptide to go all the way up
+Step Three: Before you reach as high as you can go, release the Fishing Rod to bring the Player or Mob up with you.
+Step Four: Shoot them with your Bow in mid-air. They will take Fall Damage along with the Bow Damage.
+Tips:
+
+Attempt to release the fishing rod while Riptide is still in effect. This will ensure that the player pulls them up.
+If the player doesn't have Feather Falling, land in a water source. This will make sure that the player takes as little damage as possible.
+Use this as a killing method. Not only does it make players look cool, it means they won't have to do this multiple times.
+
+
+== The enchantments ==
+
+
+=== Sword enchantments ===
+Knockback is effective when near environmental hazards like very steep ledges or cacti, and it is very useful for fighting multiple creepers. However, as much as possible, avoid using it on foes that have ranged attacks, like blazes or skeletons.
+Fire Aspect is one of the most valuable enchantments in-game, as considered by most players. However, if you spend a lot of time in the Nether then this enchantment is virtually useless, since most nether mobs are fire-resistant.
+Bane of Arthropods is very resourceful for clearing mineshafts and strongholds. The sword itself can cut through cobwebs quickly, while the enchantment (at least Bane of Arthropods II) can instantly kill cave spiders and spiders if the sword is diamond. A Bane of Arthropods IV diamond sword can make you sure you kill a regular spider in one hit. Bane of Arthropods is also useful against silverfish as if it kills them in one hit, and it prevents them from alerting other silverfish inside monster eggs, averting a possible swarm.
+Sharpness is the most versatile enchantment for the sword, it does not have any disadvantages against certain mobs, but does neither have any good advantages against certain mobs.
+Smite is a good enchantment for surviving the night without a shelter. As it increases damage dealt to skeletons, zombies and phantoms which spawn in hordes. It is also useful for killing the wither.
+Sweeping Edge‌ is the best enchantment for clearing a horde of monsters which usually spawn from monster spawners in monster rooms, nether fortresses or abandoned mineshafts. Sweeping Edge III has high sweeping attack power for better slash damage, but Sweeping Edge can also kill multiple mobs in a farm quickly, especially chickens.
+
+
+=== Bow enchantments ===
+Punch is more effective for battle archers than for snipers - The increased Knockback on mobs lets the user push enemies back, granting them time to use fully charged shots more before retaliating with sword strikes.
+Power is more effective for snipers than for battle archers, as the enchantment requires fully charged shots and allows the user to kill enemies in fewer shots.
+Flame will set targets on fire, allowing the user to focus on more than one target at once and it will also increase the overall damage dealt per shot as any enemies hit by a Flame arrow will suffer both arrow impact damage and additional burn damage overtime after that. Flame is very ineffective against Nether mobs or any other fire-resistant enemies.
+Infinity is very good for snipers and battle archers alike - A sniper will usually be in an isolated spot, where the slightest bit of movement may alert enemies, preventing them from easily resupplying more arrows. Infinity helps remedy this problem as the use will only need one arrow to keep firing the bow until it breaks. Battle archers do not need to worry about wasting any arrows, so they can be as trigger happy as they want (as long as the bow doesn't break), allowing them to lay down an impressive amount of fire. Just be aware of the fact that Infinity does not work with Tipped Arrows, they will still be consumed just like they would be without the enchantment.
+
+
+=== Axe enchantments ===
+Sharpness, Smite and Bane of Arthropods all have the same effect as they would have on a sword, but axes have higher base damage and will, therefore, deal more damage per hit.‌
+Efficiency can be effectively used for disabling shields, since it increases the chance of disabling shields.
+Unbreaking can help counteract the problem that axes lose durability twice as fast if used as a weapon.
+
+
+=== Trident enchantments ===
+Loyalty is the best enchantment for a trident as it will make thrown tridents come back to their user, which is useful when using it as a ranged weapon.
+Impaling is a good enchantment for hunting guardians or elder guardians, as it deals high damage to aquatic mobs in Java Edition, while in Bedrock Edition it deals extra damage to any mobs which are in contact with water or rain, including players.
+Channeling is a good enchantment for fighting during thunderstorms. As this enchantment will summon a lightning bolt if it hits a mob during a thunderstorm, causing both contact damage as well as additional damage from the lightning bolt and from setting the target on fire. One should be careful, however, as lighting can potentially cause a variety of bad things to happen such as causing villagers to turn into witches, pigs into zombified piglins, creepers to become charged, destroying dropped items either by lightning or spawned fire, and if on high difficulty, sometimes spawn a group of skeleton horsemen if a skeleton trap is triggered.
+Riptide is a good enchantment if you want to travel long distances. It shoots you up out the water, and if it's raining, then you can shoot around in the rain like a propeller. It also deals splash damage.‌
+
+
+=== Crossbow enchantments ===
+Quick Charge can be useful for reducing the reload time.
+Piercing, Piercing IV can be useful for killing enemies in a single row, since a single arrow can penetrate through up to 5 mobs. This enchantment can be used for infinite use of tipped arrows, due to arrows being able to pass through mobs and can be picked up.
+Multishot, useful when targeting 3 enemies at once. Also, one should use this enchantment if firework rockets are used as ammunition as it fires 3 rockets that explode, causing more affected area damage. Multishot fires 3 arrows, but only 1 arrow can be picked up which can also be used for infinite use of tipped arrows.
+Unbreaking can help counteract the problem where crossbows lose durability three times as fast if using the Multishot enchantment.
+
+
+=== Armor enchantments ===
+Fire Protection is very effective in the Nether, since you have many fire-related things to worry about; blaze fireballs, ghast explosions, fire everywhere, and lava pouring from the walls and ceilings. It can also be considered as an Anti-Fire Aspect (Flame) enchantment, since if the foe relies on fire to deal damage, Fire Protection can give you a great advantage.
+Protection in its raw form gives you moderate protection from most kinds of damage. It is recommended to use this enchantment with diamond or netherite armor, since diamond armor combined with a high Protection level gives you an overall great defense, plus damage taken from Protection-enchanted armor instantly goes to your armor durability. Diamond armor has relatively high durability, making it the best choice for this, upgrading it to netherite armor gives you Knockback resistance.
+Projectile Protection is useful when fighting skeletons or pillagers as they rely on arrows to deal damage and this enchantment can block most of that damage. Projectile Protection is also recommended if your bow is low on durability. This means that you will need to go into close combat to strike, and foes will often take advantage of this by striking you from afar. This enchantment, especially Projectile Protection IV, is also useful against drowned holding a trident. It decreases heavy amounts of damage from thrown trident impact.
+Blast Protection is very good against creepers and ghasts, as their only form of attack is an explosion, which Blast Protection is effective against. It is useful when fighting with, near or around TNT (such like minefields) as it reduces damage taken from those sources. It is also efficient for the non-combat related topic of TNT mining.
+Feather Falling is good if you are in a high place, as this enchantment protects against damage from falling. It can successfully protect against the form of combat known as "Knockback striking" if the only environmental damage is fall damage. It is also very valuable if you frequently use ender pearls or when you fall while using elytra.
+Respiration is not very combat-related, as you will rarely be fighting underwater (except if you live in an ocean). However, should someone drop sand above you then it can increase your survivability of the attack, due to respiration giving you more time to breathe underwater. This enchantment is also useful when fighting against drowned.
+Depth Strider is good if you are raiding an ocean monument, because it allows you to move faster underwater and avoid guardians more easily.
+
+
+== Video ==

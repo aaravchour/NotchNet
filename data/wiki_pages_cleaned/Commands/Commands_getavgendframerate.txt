@@ -1,0 +1,1 @@
+Returns the average end frame time

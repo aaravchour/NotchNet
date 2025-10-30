@@ -1,0 +1,71 @@
+A soul robe is an armor set that can be found within the various missions of Minecraft Dungeons. Its unique variant is called the souldancer robe.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Creeper Woods (Adventure)
+Highblock Halls
+Underhalls
+Lone Fortress (DLC)
+Warped Forest (DLC)
+The Stronghold (Adventure, DLC)
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+The Tiny Scourge
+
+
+== Usage ==
+
+
+=== Properties ===
++X health
++50% soul gathering
++50% artifact damage
+
+
+=== Stats ===
+
+
+== Data values ==
+In the game files, soul robes are referred to internally by the name SpiritRobe.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Soul Robe" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===

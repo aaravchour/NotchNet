@@ -1,0 +1,3 @@
+Due to there currently not being a wide variety of blocks removed from any edition, all such cases are listed on the main Removed blocks page. This page serves to link to a diverse list of removed data variants of blocks, which is subject to expansion.
+
+/Metadata variants - Variants of blocks specified by metadata which have been removed

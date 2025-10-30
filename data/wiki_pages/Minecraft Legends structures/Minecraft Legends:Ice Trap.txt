@@ -1,0 +1,21 @@
+An ice trap is a defensive structure in Minecraft Legends.
+
+
+== Usage ==
+Campaign
+Ice traps will freeze any enemy who approaches in place for a short period of time. However, ice trap deals no damage.
+
+PVP
+Ice traps work the same way as in the campaign, but can affect players and deals a small amount of damage to frozen victims.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Gallery ==
+
+
+=== Screenshots ===

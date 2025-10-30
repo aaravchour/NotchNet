@@ -1,0 +1,31 @@
+A jack o'lantern is a solid block that provides light.
+
+Jack o'lanterns can be mined with any tool, or without a tool, but axes are the quickest.
+
+A jack o'lantern also removes and drops itself as an item if a piston tries to push it (trying to pull it does nothing) or moves a block into its space.
+
+Jack o'lanterns can spawn within taiga and snowy taiga villages in the piles of pumpkins that also generate there.
+
+A jack o'lantern emits more light than the torch used to craft it. They emit the maximum possible light level of 15. They also provide light while submerged under water. Like most light sources, they melt snow and ice.
+
+Jack o'lanterns can be used to build snow golems and iron golems as shown below. Snow golems require snow blocks for their bodies, while iron golems require iron blocks. The jack o'lantern must be placed last or the golem cannot spawn.
+
+Jack o'lanterns can be placed without a block under them. When placed, jack o'lanterns automatically face the player. Jack o'lanterns can be placed on a transparent block.
+Jack o'lanterns are transparent in their rendering only; otherwise, they share the attributes of all opaque solid blocks. For example, mobs can spawn on them, they can suffocate mobs, and blocks attached to another block (such as torches and rails) can be placed on top of them or on their sides.
+They can also be worn by the player, occupying the helmet slot.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Jack o'Lantern" are maintained on the bug tracker. Report issues there.
+
+Jack-o'-lantern at Wikipedia

@@ -1,0 +1,39 @@
+A glass pane is a transparent block that can be used as a more efficient alternative to glass blocks.
+
+Glass panes can be obtained using a tool enchanted with Silk Touch. If one is broken without a Silk Touch enchantment, it drops nothing.
+
+Glass pane
+Glass panes generate naturally as windows in villages, woodland mansions, and ancient cities.
+
+Stained glass pane
+Orange and red stained glass panes generate in savanna village temples. Yellow stained glass panes generate in plains and savanna village temples. Brown stained glass panes generate in abandoned villages. White stained glass panes generate in plains village temples.
+
+Glass panes are more efficient to use than glass blocks, as six glass blocks can be crafted into sixteen glass panes, yielding 223 panes per block. Windows built using glass panes can be up to 267% (223 times) larger in area than windows built with regular glass blocks.
+
+If placed without anything on the sides, they appear as a thin vertical  shape, 22 pixels in size; but when other blocks occupy adjacent spaces, it becomes flat or turns into a   or    or    shape depending on the items surrounding it. The collision box is identical to the shape of the pane. Therefore, two glass panes placed with one empty space in between forms a gap that is two blocks wide.
+Glass panes are never oriented horizontally. Horizontal glass surfaces must be made from glass blocks.
+Glass panes can be waterlogged, which means water can be in the same place as a glass pane, unlike regular glass.
+
+Glass panes can be used in cartography tables to lock maps, which makes them unable to be filled again when exploring. Stained glass panes cannot be used to lock map(s).
+
+Apprentice-level cartographer villagers buy 11 glass panes for an emerald as part of their trades.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+Stained glass pane:
+
+Issues relating to "Glass Pane" are maintained on the bug tracker. Report issues there.
+
+In Java Edition, due to its flat appearance in the inventory slot and the inventory being colored light gray, light gray stained glass panes almost appear invisible.
+The textures of stained glass and stained glass panes still use the old colors from prior to the 1.12 World of Color update. The texture colors were not changed in 1.12's development, and the retexturing in 1.14 did not adjust the colors to the new 1.12 color palette.
+
+Taking Inventory: Glass Pane  Minecraft.net on September 24, 2020

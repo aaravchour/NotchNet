@@ -1,0 +1,10 @@
+Detect the name of the current world
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

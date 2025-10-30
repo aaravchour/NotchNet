@@ -1,0 +1,125 @@
+Hay bales are storage blocks equivalent to nine pieces of wheat. They are used as a crafting ingredient, to feed llamas, horses and horse variants, reduce fall damage or extend campfire smoke.
+
+
+== Obtaining ==
+
+
+=== Natural generation ===
+Hay bales often generate as pile (and in some houses, animal pens, farms, or meeting points) scattered around in plains villages, and less commonly in savanna and desert villages. They also can generate under some campfires in taiga villages and as a part of targets/scarecrows in pillager outposts.
+
+
+=== Breaking ===
+Hay bales can be mined using any tool, but a hoe speeds up the process.
+
+
+=== Crafting ===
+
+
+== Usage ==
+Hay bales can be used as compact storage of wheat.
+
+
+=== Crafting ingredient ===
+
+
+=== Food item ===
+Although players cannot eat hay bales, hay bales serve as a compact wheat supply for crafting food items during long periods away from other food sources. A full stack of 64 hay bales is equivalent to 192 loaves of bread in a single inventory slot.
+
+
+=== Animals ===
+Hay bales can be fed to donkeys, horses, llamas, or mules to heal up to 10 hearts. They are an effective method to heal horses if the player wants to heal them in a short period of time. They also speed up the growth of foals by three minutes and baby llamas by 90 seconds.
+
+
+=== Breeding ===
+Hay bales can be used both to lead and breed llamas.
+
+
+=== Falling ===
+Falling onto a hay bale reduces the fall damage by 80%, meaning whatever falls on a hay bale takes 20% of the normal fall damage.
+Below are some example damages a player receives falling on a hay bale (assuming no fall damage reducing enchantments and/or status effects).
+
+So it is possible to fall onto a hay bale and survive a 100 block fall (starting with full health) or even a 120 block fall (starting with full health plus 2 absorption hearts).
+
+
+=== Campfires ===
+Placing a hay bale under a campfire makes it a signal fire, increasing the height to which its smoke particles can rise from 10 blocks to 24 blocks.
+
+
+=== Composting ===
+Placing a hay bale into a composter has an 85% chance of raising the compost level by 1. Composting with hay bales is very inefficient, as the hay bale's chance to be composted is only slightly higher than wheat. For example, 900 wheat could be composted to yield 834⁄7 bone meal on average, but if crafted into 100 hay bales, they would only yield 121⁄7 bone meal on average
+
+
+=== Placement ===
+
+Hay bales can be placed pointing in all three spatial dimensions, in the same way as a log is placed. However, there is no "six-sided" variant like that of the wood block.
+
+
+=== Note blocks ===
+Hay bale can be placed under note blocks to produce banjo sounds.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Hay Bale", "Hay Block", or "Hay" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Renders ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External Links ==
+Block of the Week: Hay Bale – Minecraft.net on March 31, 2017

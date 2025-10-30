@@ -1,0 +1,34 @@
+
+== LAN Games ==
+A local area network (LAN) game is a type of multiplayer game that allows other people in your local network (i.e. just the people connected to your router/switch) to join a Minecraft world. Players over the internet cannot connect unless other workarounds (such as port forwarding or Hamachi) are set up.
+
+
+=== Java Edition ===
+
+
+==== Hosting a LAN server ====
+To open an active single player world to LAN:
+
+Open the pause menu
+Click "Open to LAN"
+Optionally change the default game mode and/or whether players may use cheats
+Click "Start LAN World"
+It is also possible to start a LAN world by the command line with /publish.
+After a world has been opened to LAN, a confirmation message will be sent in the chat, for example:
+"Local game hosted on port 50000"
+This port may need to be provided to joining players to help them connect.
+On the technical side, a Minecraft client with an opened LAN game sends a UDP multicast to the local address 224.0.2.60:4445 every 1.5 seconds. Other clients then listen for this multicast to show your game in their multiplayer menu.
+
+
+==== Joining ====
+If joining from the same local network, the game should appear in the multiplayer games list in the Multiplayer menu.
+If the game doesn't show in the list, it might still be possible to join. One will need to find the game's port, and the local IP of the computer the host's Minecraft game is running on.
+The game's port can be found in the chat message sent in the host world after it was opened to LAN.
+The local IP of the host computer can be found in Windows 10 and Windows 11 by opening the command line (press Start, type "cmd" then hit enter), typing the command ipconfig and pressing enter, and finding the IPv4 address. (On macOS, the command is ifconfig,to be typed in the terminal window.) Other operating systems will differ. The local IP should be formatted like 192.168.1.1 or similar, i.e. have '192.168' as the first two sets of numbers. When the local IP and port are found, type them into the "Server Address" field (under either Direct Connect or in the Add Server dialogue), formatted like IP:port (e.g. 192.168.1.1:5000) to join the LAN game.
+Note: Using one Minecraft account on two or more computers will not work to join the same world.
+Players over the internet can connect to a LAN game if one forwards the game's port on the host's router. If done, people over the internet can connect to your game using your router's IP (which can be found by googling "what is my ip?") in place of your local computer's IP.
+Log Me In Hamachi can also be used to play a LAN game over the internet. Hamachi simulates a LAN between people across the internet.
+
+
+=== Bedrock Edition ===
+On Bedrock Edition, LAN gameplay is on by default. The option to turn it on or off is in the multiplayer section of world settings, you cannot change this while in a world. You can change the number of slots by using /setmaxplayers (a cheat) up to 30. To change the game mode, change it in world settings.

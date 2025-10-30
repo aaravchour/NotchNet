@@ -1,0 +1,71 @@
+Flairs are cosmetic abilities that provides no functional benefits to the hero. All flairs are available through the adventure hub and can be equipped from the cosmetics page  of the inventory. There are four types of flairs available, healing flairs, level up flairs, respawn flairs, and mob flairs
+
+
+== Healing flairs ==
+Healing flairs are cosmetic effects that appear when a hero heals itself.
+
+
+=== Cloudy Climb ===
+
+
+=== Luminous Night ===
+
+
+=== Fauna Faire ===
+
+
+== Level Up flairs ==
+Level up flairs are cosmetic effects that appear when the hero levels up.
+
+
+=== Cloudy Climb ===
+
+
+=== Luminous Night ===
+
+
+=== Fauna Faire ===
+
+
+== Mob flairs ==
+Mob flairs are cosmetic effects that appear when the hero defeats a mob.
+
+
+=== Cloudy Climb ===
+
+
+=== Luminous Night ===
+
+
+=== Fauna Faire ===
+
+
+== Respawn flairs ==
+Respawn flairs are cosmetic effects that appear when the hero respawns.
+
+
+=== Cloudy Climb ===
+
+
+=== Luminous Night ===
+
+
+=== Fauna Faire ===
+
+
+== Sounds ==
+
+
+=== Cloudy Climb ===
+
+
+=== Luminous Night ===
+
+
+=== Fauna Faire ===
+
+
+== History ==
+
+
+== References ==

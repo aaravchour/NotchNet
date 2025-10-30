@@ -1,0 +1,57 @@
+The Wandering Trader was a merchant that appeared in the Camp after being rescued by the hero within the Pumpkin Pastures. As of the Creeping Winter update, the Wandering Trader has been removed, with their functionality being taken by the Mystery Merchant. As of the Echoing Void update, the Wandering Trader and the Trader Llama appeared within a cutscene making them cutscene mobs. However, the Wandering Trader is nowhere to be found outside of the cutscene.
+
+
+== Appearance ==
+The wandering trader is a villager merchant wearing blue robes with gold and red accents, with a red cloth over their head and mouth. They also wear a green shirt, brown pants, and brown sandals.
+
+
+== Spawning ==
+Camp (Before Being Removed)
+Broken Citadel (Cinematic)
+
+
+== Interaction ==
+This NPC, in exchange for emeralds, would give to the hero random artifacts with power levels that range around the current power level of the hero. Buying artifacts from the Wandering Trader would always cost twice the amount of emeralds than buying gear from the Blacksmith.
+Note that the power level of the hero is determined upon entering the camp, therefore if a hero equips items with higher power levels in the camp, it does not count towards the power level when trading with the Wandering Trader. To work around this, exit to the main menu and join back in.
+
+
+== Sounds ==
+
+
+== Data values ==
+In the game files, the Wandering Trader is referred to internally by the name Villager_TravelingMerchant.
+
+
+== History ==
+
+
+== Trivia ==
+Despite being removed in version 1.4.3.0, the Wandering Trader can still be seen at the camp's loading screen, alongside the Trader Llama.
+The sounds of the Wandering Trader can still be heard within the camp, coming from the Village Merchant.
+The Wandering Trader also appears within the final cinematic of the Echoing Void DLC, where it is seen cooking tropical fish within the camp alongside a Trader Llama.
+
+
+== Gallery ==
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

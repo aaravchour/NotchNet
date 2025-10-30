@@ -1,0 +1,72 @@
+The renegade armor is a unique mercenary armor variant that can be found within the various missions of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+A  after a mission name indicates that the item is only obtainable in Daily Trials of that mission.
+
+Soggy Swamp 
+Arch Haven
+Fiery Forge
+Cacti Canyon
+Overgrown Temple (Adventure, DLC)
+End Wilds (DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Oozing Menace
+
+
+== Usage ==
+
+
+=== Properties ===
++X health
++25% melee attack speed
++35% damage reduction
++20% weapon damage boost aura
+
+
+=== Stats ===
+Minimum health expected for power level
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Renegade Armor" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===

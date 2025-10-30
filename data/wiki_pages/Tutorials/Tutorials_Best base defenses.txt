@@ -1,0 +1,21 @@
+This page lists the defenses in minecraft from weakest to strongest:
+
+
+===== WEAKEST =====
+No defense
+Dirt wall
+Water moat
+Stone wall
+Cobblestone wall
+Cobblestone generator wall
+Lava moat
+Water moat infested with guardians/pufferfish
+Obsidian wall
+Bedrock wall
+Bedrock cube that goes to both build limits
+Void moat
+Chunk ban
+
+
+===== STRONGEST =====
+In conclusion, the best base defense it to have a bedrock cube 8 block wide to prevent chorus fruit users to teleport, goes down to the build limit and have bubble columns to prevent ender pearls to land on top, surrounded with chunk ban hovering over the void.

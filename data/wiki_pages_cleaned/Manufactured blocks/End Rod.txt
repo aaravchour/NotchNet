@@ -1,0 +1,32 @@
+An end rod is a decorative light source that emits white particles.
+
+End rods can be obtained by any tool or block. 
+They drop as an item when water flows over them or when lava flows over them in Java Edition.
+
+End rods generate naturally all over end cities. They may spawn upright on the outside of towers, and they may spawn sideways inside of towers.
+
+End rods are primarily used as light sources and decoration. They can be placed on any surface of any block, including other end rods. They do not break if their supporting block is broken. Gravity-affected blocks like sand or gravel do not break if they fall onto an end rod oriented vertically, but they do break on a rod oriented horizontally. End rods can be pushed and pulled by pistons, no matter the orientation.
+Inside some end city towers, they are positioned so the player may use them to climb the tower, similar to a spiral staircase.
+
+ 
+While an end rod cannot be equipped in the head slot in survival mode, equipping it using commands causes it to appear like a unicorn horn. This can be done with the /item replace command.
+
+End rods emit a light level of 14 (equal to torches), melting snow layers and ice within a 2-block radius.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "End Rod" are maintained on the bug tracker. Report issues there.
+
+Torch
+Redstone torch
+Lantern

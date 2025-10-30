@@ -1,0 +1,5 @@
+Java Edition
+
+Bedrock Edition
+
+In Bedrock Edition, the water cauldron in layer 2 is replaced with smooth stone, and only the cauldron in the middle generates at layer 1.

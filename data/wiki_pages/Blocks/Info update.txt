@@ -1,0 +1,25 @@
+info_update and info_update2 are debugging/placeholder blocks exclusive to Bedrock Edition that generated in place of blocks that are not yet added.
+
+
+== Obtaining ==
+These blocks can no longer be obtained. They used to generate instead of magma blocks when a player with a lower version of the game where the block had not been added joined a player with a higher one.
+
+
+== Usage ==
+It's usage is unknown, however it could be like the unknown block, but instead of incorrect ID of add-ons,  it could be of a vanilla block that still doesn't exist in the version of the game
+
+
+== Sounds ==
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Trivia ==
+The block's texture is shared by reserved6 and unknown.

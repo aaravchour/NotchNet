@@ -1,0 +1,63 @@
+Eating food is one of the main mechanics in Minecraft. Without filling the hunger bar regularly, players may be unable to heal and starve to death. This tutorial highlights several ways to find food quickly.
+
+Many mobs in the Overworld drop meat or fish when killed. If these mobs are killed while they are on fire, their meat will be cooked. This also includes salmon and cod in rivers and most oceans. 
+This list shows various mobs that drop meat and their drops when killed with and without fire. 
+
+Cooked foods have better saturation and restore more hunger than raw meat. The player can kill mobs with fire using Fire Aspect or Flame enchantments, flint and steel, fire charges, or lava. Bear in mind that fires from flint and steel or fire charges and lava may burn items that the mob drops and may also set the player on fire. It can be difficult to light fish on fire without Fire Aspect or Flame unless the fish can be brought to dry land.
+If you do not have access to any of the above methods to set mobs on fire, it is also possible to cook the food using a furnace. For small numbers of food to cook and/or when the player does not have time to make a furnace, bringing or making a campfire may be a better option.
+
+Villages can offer many food sources, depending on the biome they generate in and which buildings are present.
+
+Depending on biome, villages contain piles of hay bales, pumpkins or melons.
+Hay bales are the most valuable crop to find in these piles because they can be crafted back into wheat and then bread. Each hay bale makes 9 wheat which is enough for 3 bread, granting a total 15 (  7.5) food points. 
+Biomes that do not spawn hay bales will instead contain pumpkins or melons. While melons are immediately edible, they do not provide much hunger or saturation, and are best used to fill out the worst of the player's hunger. Pumpkins are not edible by themselves, but may be used with sugar and eggs to make pumpkin pie.
+In addition to piles of the above crops, many village buildings generate with chests, which may contain a variety of food and food items.
+These food items can be found in the village chests:
+
+The farmland in villages can be a viable source of food by itself, but can potentially give the player much higher quality foods if the player engages in trading with any villagers that have the farmer profession.
+
+You can often find shipwrecks  in any ocean- or beach-type biome.  If the "bow" (front) of the ship is present, the "supply" chest within can have a decent amount of food, or at least wheat to make bread.  The list of food items that can be found in shipwrecks:
+
+Note that each suspicious stew will have one of six random effects; most of these will pass within a few seconds, and are only an issue if you're currently in a fight.  But there are equal chances of getting poison (which can do up to 4 damage), or saturation (bonus food, effectively maxing out your food gauges).
+
+Some food items can be gathered from the environment with varying degrees of ease, depending on the biomes a player passes through. While many of them may not provide good saturation, they will prevent starvation and can be used to "pad" the hunger bar before eating something more nourishing.
+
+Brown and red mushrooms can be found in various places throughout the world, mostly under trees or in caves. Giant mushrooms can also be found and broken in dark oak forests and mushroom fields. They can also be found in the Nether. 
+If the player gathers some wood to craft bowls in a crafting table, mushroom stew can be made without the need for a crafting table. If the player finds the rare Mushroom Fields, using an empty bowl on a mooshroom also produces mushroom stew, although the fields themselves contain plenty of mushrooms even without milking mooshrooms. Since mushroom fields do not grow trees, wood may be harder to find in this biome. 
+Mushroom stew is a helpful food source on par with other staples like bread and small cooked meats like rabbit and chicken. However, mushroom stew itself is not stackable and can quickly take up a lot of inventory space if crafted in large numbers, so the player may want to keep the ingredients uncrafted until the stew is needed. Both types of mushroom as well as the bowl are stackable, and the bowl is returned to the player after eating. This means that it is possible to carry a small number of bowls and a larger amount of red and brown mushrooms, to fill the bowls with as needed. 
+
+Adding a flower to the mushroom stew will instead produce suspicious stew, which is just as nourishing and also grants a brief status effect. Take note of the flower used, as not all flowers produce beneficial effects. Some notable effects:
+
+A dandelion or blue orchid will briefly provide the Saturation effect, making the stew a superfood capable of regenerating more hunger than cooked meats while effectively maximising saturation.
+An oxeye daisy provides enough regeneration to gain up to 3 health.
+Avoid adding a lily of the valley, as it inflicts several seconds of poison.
+All effects can be found on the page about suspicious stew itself.
+
+Spawning in/near a taiga biome allows you to get early access to sweet berries, which are a weak but plentiful food source and easy to farm.  However, the bushes hurt the player when stepped into - avoid walking through them.
+
+When cutting down oak or dark oak trees, the leaves have a 1 in 200 chance to drop apples when broken or as they decay after cutting the tree.
+
+In jungles, you can likely find melon blocks, which can be broken into melon slices.  These are a weak food, but can be plentiful, especially since unused slices can be crafted into seeds to (eventually) grow more melons.
+
+If you happen to have the ingredients, pumpkin pie is a relatively cheap and filling food item, crafted with only one pumpkin, sugar (from sugar cane), and an egg.  All of these can be farmed in mass quantities. One thing troublesome is finding the pumpkins in the first place, but once that's done, there are no real challenges. They can also be crafted without a Crafting Table, requiring only three ingredients.
+
+Rotten flesh is one of the most common and least-valued items in the game.  Most often found after killing zombies and their various relatives (or waiting for them to burn in the morning), it can also show up chest loot.  It is a bottom-tier food, which furthermore has an 80% chance to inflict "food poisoning" -- 30 seconds of the  Hunger effect. However, the duration does not stack from eating multiple pieces, and the hunger effect costs very little hunger. If low on hunger, eating several pieces in a row is enough to heal the player if needed, with only a small amount of hunger lost to the hunger. Additionally, drinking a bucket of milk after eating the last piece of rotten flesh will cancel the effect entirely.
+
+It is challenging to find food in the Nether, but there are still some (if not somewhat unreliable) food sources available.  
+
+Mushroom stew is still a good option.  Both kinds of mushrooms are commonly found throughout the Nether, and planks for making bowls can be made from the stems of giant fungus (which serve as the Nether's 'trees'). Flowers do not grow in the Nether, however.
+Rotten flesh (see above) can be looted from zombified piglins. They are a relatively risky source of food as attacking one draws aggression from all zombified piglins in a wide radius. Building a pillar or wall of two blocks high to safely kill the horde is possible, but may leave the player vulnerable to ranged attacks from mobs like skeletons, ghasts and blazes.
+
+Hoglins are the only real "meat animal" found in the Nether other than rarely spawning chicken jockey zombified piglins.  They spawn in crimson forests, and in some bastions.  Unfortunately, they are hostile mobs with a lot of health.
+Adult hoglins do not fit through one-block wide gaps and are not immune to fire, unlike most mobs in the Nether. Hoglins drop drop 2-4 porkchops on death, more than the Overworld pig.  Killing the hoglin with fire or cooking the raw porkchops provides one of the best cooked meats in the game. While it is possible to kill hoglins from a height of two blocks, they are capable of attacking at this distance and deal considerable knockback to you. If killing them from a distance with a bow or crossbow is not possible, creating a one block passage from which you can safely hit the hoglin is usually safer.
+Baby hoglins do not drop meat when killed, but may chase and attack the player, dealing minimal damage but possibly distracting you or hampering the fight against adults. Keep in mind that they can fit through small spaces, unlike adults.
+
+A Bastion Remnant is an uncommon structure populated with dangerous mobs, but may provide the player with many chests if explored thoroughly. Some chests may contain pork, and golden carrots and golden apples[Java Edition only].  Note that Piglins will object to your looting or breaking chests as well as breaking any blocks containing gold, and will attack the player if they're not wearing at least one piece of golden armor. Piglin Brutes, however, do not care about the player's armor and deal considerable damage. Blocking the path of piglins attacking the player is a safe way to avoid fighting them and accessing loot in chests.
+
+The End is a very hostile place, and it is extremely difficult to find food sources there. You should bring plenty of food with you whenever venturing into the End; the only edible thing you'll find there is chorus fruit; it grows only on the outer islands, but is plentiful there.  It does have a little side effect....
+
+Chorus plants only grow on the Outer End Islands and only become easily accessible after defeating the Ender Dragon. They restore four hunger but can also teleport you to a random location, up to 8 blocks away. This can either be a great convenience or an annoyance.  The trees are very common in the End islands, and with a little effort you can easily farm them as well.   
+
+Tutorials/Hunger management
+Food
+Chest loot

@@ -1,0 +1,22 @@
+Rabbit stew is a food item that can be eaten by the player.
+
+In Bedrock Edition, novice-level Butcher villagers always offer to sell rabbit stew for one emerald as their second trade.
+In Java Edition, novice-level Butcher villagers have a 50% chance of offering rabbit stew for one emerald.
+
+To eat rabbit stew, press and hold use while it is selected in the hotbar. Eating one restores 10 () hunger and 12 hunger saturation. This restores more hunger than any other food type in the game except cake, but has less saturation than a golden carrot, a cooked porkchop, or a steak.
+Eating rabbit stew leaves the player with an empty bowl, similar to mushroom stew, suspicious stew, and beetroot soup.
+
+In Bedrock Edition, rabbit stew can be used to feed wolves, healing them by 10. However, unlike other wolf food, rabbit stew does not speed up the growth of baby wolves, and it cannot be used to breed them. It is usable only on a wolf that has less than full health.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Rabbit Stew" are maintained on the bug tracker. Report issues there.
+
+If the ingredients of rabbit stew were eaten separately and the mushroom had become half of a mushroom stew, they would restore a total of 16 (  8) and 19.2 saturation points. Without counting the mushroom, the separate ingredients would restore 13 (  6.5) and 15.6 saturation points. Therefore, crafting rabbit stew results in a net loss of restorative points, though it is quicker than eating all the ingredients separately.
+Rabbit stew restores more hunger and total food points (hunger + saturation) than nearly any other single item (the exception is a suspicious stew with Saturation).  This is balanced by the point that the stew does not stack, and with its complex recipe it's not so easy to make "on the road". The suspicious stew shares the unstackability, but with only four ingredients it can at least be crafted in the inventory.

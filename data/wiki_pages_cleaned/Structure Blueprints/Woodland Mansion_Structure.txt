@@ -1,0 +1,63 @@
+The individual regions of a woodland mansion can be divided into two categories: the outside (walls, roof, etc.) and inside (hallways, staircases, rooms, etc.).
+
+The entrance structure is made with the 1st-floor-to-second-floor staircase.
+The structure is called "entrance".
+
+Outside Walls can have two variants: windowed and window-less.
+
+The cobblestone stairs are upside down. The top row faces inside.
+The structure is called "wall_flat".
+
+The top row faces inside.
+The structure is called "wall_window".
+Cobblestone stairs in Layer 2 are normal, while the ones in Layer 8 are all upside-down.
+
+The roof is made entirely out of dark oak planks with a trim of upward-facing dark oak stairs.
+
+None of the rooms will have walls included because they can be mixed and matched based on what's around them.
+
+There are two different wall designs that come in segments. Since they are flat, there will only be one layer for the sake of readability. Some of these walls can have a row of logs and planks on top, creating the "_2" variants.
+
+The farthest right block is going to be covered by the pillars that come with the hallways.
+The structure is called "indoors_wall".
+
+This is basically the first floor walls but 3 blocks added on the top.
+
+The stairs are upside-down, facing the opening. The farthest right block is going to be covered by the pillars that come with the hallways.
+The structure is called "indoors_door".
+
+This does not include the walls on either side since that can change based on whether the hallway borders an outside wall or an inside wall, or has a staircase leading to it. These come in segments, so each blueprint will show one segment.
+
+This blueprint shows a left turn, but it can be mirrored to turn the other way.
+
+There is no decoration in a dead-end hallway that does not include the walls after the layer with carpet.
+
+There are four layers of empty space above the blueprint.
+The structure is called "1x1_a3".
+
+They come in three sizes.
+
+The structure is called "1x1_b2".
+
+There are three layers of empty space above the blueprint.
+The structure is called "1x2_c1".
+
+An evoker and two vindicators spawn here.
+The structure is called "2x2_b1".
+
+One evoker and two vindicators spawn here. Layers 3-6 are empty.
+The structure is called "2x2_b2".
+
+This room has a loot chest. There are two layers of empty space above the blueprint.
+The structure is called "1x2_d2".
+
+This banners are light gray with a white gear pattern.
+The structure is called "1x2_d1".
+
+The structure is called "1x1_b3".
+
+There are 8 layers of empty space above the blueprint.
+The structure is called "1x2_c2".
+
+Three vindicators spawn at the base of the beds. There are 8 layers of empty space above the blueprint.
+The structure is called "1x2_c3".

@@ -1,0 +1,16 @@
+Iron nuggets are pieces of iron that can be obtained by smelting iron tools/weapons or iron/chainmail armor. One iron nugget is worth one-ninth of an iron ingot.
+
+Durability and enchantments do not affect the ability to smelt iron tools, weapons, or armor into iron nuggets.
+
+Piglins may barter 936 iron nuggets when given a gold ingot.
+
+Iron nuggets are used to craft iron ingots, lanterns, soul lanterns, and chains.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Iron Nugget" are maintained on the bug tracker. Report issues there.
+
+Gold Nugget
+Iron

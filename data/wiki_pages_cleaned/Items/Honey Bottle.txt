@@ -1,0 +1,21 @@
+A honey bottle is a consumable drink item obtainable by using a glass bottle on a full beehive.  Honey bottles remove poison when drunk and can be used to craft honey blocks and sugar.
+
+A honey bottle can be obtained by using a glass bottle on either a beehive or bee nest with a honey level of 5. Doing this angers any bees inside, causing them to attack the player, unless there is a campfire or another block on fire beneath the bee nest or beehive.
+A dispenser with glass bottles can be used to collect the honey without angering the bees. The honey bottle appears as an item in the dispenser's inventory. If the dispenser is full, the honey bottle is shot out.
+
+To drink a honey bottle, press and hold use while it is selected in the hotbar. Drinking one restores 6 () hunger and 1.2 hunger saturation. Consuming the item also has the benefit of removing any poison effect applied to the player. Unlike drinking milk, other applied effects are not removed upon drinking a honey bottle.
+Honey bottles can be drunk even with a full hunger bar. Drinking a honey bottle takes 25% longer than eating other food - 2 seconds - and has a unique sound.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Honey Bottle" are maintained on the bug tracker. Report issues there.
+
+Honey bottles are the only drinkable items that can stack. They have a maximum stack size of 16.
+Honey bottles are the only drinkable items that can restore hunger.
+Honey bottles are 4 pixels more full than water bottles.

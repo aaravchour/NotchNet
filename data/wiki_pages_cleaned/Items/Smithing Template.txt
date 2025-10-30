@@ -1,0 +1,56 @@
+Smithing templates are items used in smithing tables to alter tools and armor. They are consumed when used, but can be duplicated using an existing template, its material and diamonds.
+The eighteen armor trim smithing templates are found in a variety of structures, and are used to apply various decorative trims (dependent on the variant) to armor using certain minerals for different colors.
+Netherite upgrade smithing templates are required to upgrade diamond equipment with a netherite ingot. They are only found in bastion remnants, but are guaranteed only in treasure rooms.
+
+Smithing templates can be found in various structures and can be duplicated by using seven diamonds and a block based on what the template is.
+
+In Bedrock Edition, spire, tide, and dune armor trims can be duplicated with more blocks than in Java Edition. In addition to the normal blocks, Tide armor trims can be duplicated using prismarine bricks or dark prismarine, dune armor trims can be duplicated with smooth sandstone, cut sandstone, or chiseled sandstone, and spire armor trims can be duplicated with purpur pillars.
+
+Elder guardians have a 20% chance to drop 1 tide armor trim upon death. Looting doesn't affect this percentage, and the elder guardian doesn't need to be killed by a player in order for the trim to drop and can be duplicated with prismarine.
+
+Note: In Woodland Mansions, only chests with random loot have the chance to contain the Vex Smithing Template, chests in the "Allium room", "Sapling farm", "Tree-chopping room" and "Fake End portal room" always generate with the same, room specific, loot.
+
+Items can only be extracted from suspicious blocks using a brush.
+
+Smithing templates are used at a smithing table. Netherite upgrade smithing templates are used to upgrade diamond gear into netherite gear by using a netherite upgrade, a piece of diamond gear, and a netherite ingot. 
+
+Armor trim smithing templates are used to customize an armor piece's appearance by using a smithing template, an armor piece, and an ingot or crystal (emerald, redstone dust, lapis lazuli, amethyst shard, nether quartz, netherite ingot, diamond, gold ingot, iron ingot, copper ingot, or resin brick). Including all dyed leather armor colors and regular armor, there are 3.679109 different possible armor pieces, and 7.16x1035 total possible armor combinations excluding enchantments and the player not wearing armor.
+Already trimmed armor can be trimmed again by applying another template on it; the old trim pattern is overwritten in the process. Therefore, one piece of armor cannot possess multiple trims at the same time.
+Most armor trims cover a small portion of the armor piece's surface with the trim material, except for the silence armor trim, which allows the trim material to cover a majority of the armor piece's surface.
+All trims are purely decorative and do not affect the gameplay or durability (without the use of mods or plugins) of the armor to which they are applied. Piglins will not pick up any gold-trimmed armor pieces, nor will they be pacified by players wearing a full set of gold-trimmed armorunless the armor pieces themselves are made of gold. Additionally, netherite-trimmed armor can still be burned by fire and lava.
+
+List of color palettes for all materials
+ - 
+ - 
+ - 
+ - 
+ - 
+ -  (Darker: )
+ -  (Darker: )
+ -  (Darker: )
+ -  (Darker: )
+ - 
+ -
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Smithing Template" are maintained on the bug tracker. Report issues there.
+
+Smithing templates were named "Smithing Blueprints" in the prototype but was changed because the word "blueprint" sounded modern and technical.
+When Mojang developer Gnembon was working on armor trims, he accidentally messed up their rendering, making them jet through the player's body in a weird fashion, similar to what appears in Salvador Dal's paintings where a hand might poke through a forehead.
+Some of the armor trims feature patterns based on a mob or block that is found in the same structure as the corresponding smithing template.
+The spire armor trim resembles a shulker.
+The vex armor trim resembles an evoker. As an item in the inventory, it resembles the wing or the vein texture of a vex.
+The wild armor trim has moss growing on 3 of its corners.
+The coast armor trim appears to have barnacles attached to it.
+The ward armor trim, as an item in the inventory, resembles the faces inside a warden's chest.
+The silence armor trim appears to have sculk creeping onto / infecting it.
+The tide armor trim resembles prismarine bricks.
+The snout armor trim resembles a piglin.
+The rib armor trim resembles a wither skeleton.
+The eye armor trim resembles an eye of ender. There are also two eyes on the head part of the armor trim that resemble those of an enderman.
+Netherite upgrade smithing template (35 characters with "_" and 32 characters without "_") and sentry armor trim smithing template (35 characters with "_" and 31 characters without "_") are the current longest name for item ID, while polished blackstone pressure plate and cracked polished blackstone bricks have 34 characters with "_" and 31 characters without "_".
+The silence armor trim is the rarest trim, due to being found in ancient cities in the deep dark, and having only a 1.2% chance to be per chest.
+When lapis lazuli is used as trim material, it is called "Lapis" instead of its full name "Lapis Lazuli"; this is the only instance of the abbreviation "Lapis" being used in-game.

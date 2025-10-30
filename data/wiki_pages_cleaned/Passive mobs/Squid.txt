@@ -1,0 +1,54 @@
+A squid is a common passive aquatic mob that spawns in rivers and oceans.
+
+In Java Edition, 2 to 4 squid can spawn in water from Y-level 50 to 63 (inclusive), as long as the biome is a river or ocean variant. The block above must also be water, and the block below must be water or waterlogged. Squid share the water creature mob cap with dolphins.
+In Bedrock Edition, 2 to 4 squid can spawn in ocean biomes, and two can spawn in river biomes. 5% of squid can spawn as babies. In addition, squid spawn only on the surface, i.e. there must not be a solid or spawnable block above the spawn location.
+
+1 to 3 ink sacs. The maximum amount is increased by 1 per level of Looting, for a maximum of 16 with Looting III.
+13 experience when killed by a player or tamed wolf.
+Like other baby mobs, killing a baby squid yields no items or experience.
+
+Squid are passive toward the player. They are not attracted to light and do not deliberately interact with the player.
+When a squid moves, its tentacles open and close, giving it an appearance of pushing itself leisurely forward. A squid hovers in place when first spawned into the world and wanders around aimlessly in three dimensions.
+A squid's hitbox does not include its tentacles, and therefore cannot be damaged by attacking its tentacles.
+Squid suffocate when out of water, dying after 300 game ticks (15 seconds). While on land, they remain stationary until they suffocate. They can take fall damage and burn like any other land mob, but they cannot drown. When out of the water, squid are extremely resistant to knockback.
+Squid cannot swim in lava, even if given a Fire Resistance effect. They simply pass through the lava and behave as if on land.
+On Bedrock Edition, a squid can survive on land if given a Water Breathing effect. however they will still behave as if on land.
+Unlike land-based mobs, squid can swim against a current and not get pushed by it, if on Java Edition.
+Guardians and elder guardians attack squid in the same manner as they would do to a player, even if the squid is affected by Invisibility. 
+Squid are affected by the Impaling enchantment  In Java Edition because they are aquatic mobs; In Bedrock Edition as long as they touch water.
+Squid produce a cloud of black ink particles and swim away when attacked. They also produce unique dark blue bubble particles when hit.  
+Squid sometimes beach themselves.
+Squid are attacked by axolotls.
+Although squid have a baby variant in Bedrock Edition, there is no way to breed them.
+If the player is in Spectator mode or is far away from the squid, the squid remains stationary. When attacked in this state, the squid cannot flee.
+Like a land-based mob, a squid can be picked up by a minecart.
+
+Java Edition:
+Squid use the Friendly Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Squid have entity data associated with them that contains various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+Issues relating to "Squid" are maintained on the bug tracker. Report issues there.
+
+Hitting a squid underwater causes them to rise approximately 1312 block.
+Squid don't have a death animation.
+Squid were the first passive mob to spawn at any light level, in water, and without grass.
+The squid's idle sound is barely audible.
+If a squid is out of the water, its tentacles swing more slowly as its oxygen meter goes down. When 15 seconds have passed, its tentacles stop swinging and the squid begins to suffocate.
+In-game squid have eight tentacles, but in real life they also have two long tentacles. The in-game squid is thus closer to an octopus.
+In-game squid have a gaping, tooth-lined mouth but as passive mobs they're completely harmless. Real-life squid, like all cephalopods, have a beak instead of teeth.
+Squid are not affected by the "Dinnerbone" and "Grumm" name tag easter egg.
+
+Tutorials/Squid farming
+Ink Sac

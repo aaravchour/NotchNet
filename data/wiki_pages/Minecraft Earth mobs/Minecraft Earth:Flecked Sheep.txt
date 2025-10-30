@@ -1,0 +1,34 @@
+The flecked sheep was a variant of the sheep with brown wool and a white head, found only in Minecraft Earth.
+
+
+== Appearance ==
+Flecked sheep were a brown-wooled variant of the normal sheep. The appearance itself almost made it resemble a normal sheep that was just dyed with brown dye, but there were a few notable differences. Its head and lower patches of wool near its legs were pure white, leaving the rest of its wool being rich brown in color.
+
+
+== Behavior ==
+
+Similar to normal sheep, flecked sheep had the same AI behavior. They wandered aimlessly, avoiding lava and cliffs high enough to cause fall damage.
+
+
+== Obtaining ==
+Flecked sheep were of an uncommon rarity with a 4.8% chance of obtaining it from sheep tappables.
+
+
+== Drops ==
+When sheared, flecked sheep dropped 1-6 Brown Wool.
+When killed, flecked sheep dropped:
+
+1 Brown Wool
+1 Raw Mutton (Cooked Mutton if killed while on fire)
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Gallery ==

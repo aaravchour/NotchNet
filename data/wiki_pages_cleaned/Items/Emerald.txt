@@ -1,0 +1,28 @@
+Emeralds are rare minerals that are used primarily as the currency for trading with villagers and wandering traders. Naturally-occurring emeralds are rarer than diamonds.
+
+Emeralds can be obtained by trading with villagers, since they are the currency that villagers use for trading. Villagers either buy or sell specific goods for emeralds. Some villagers trade stuffs that are renewable with emerald.
+
+Normal and deepslate emerald ore drop one emerald when mined using an iron or better pickaxe. If the pickaxe is enchanted with Fortune, they may drop an extra emerald per level of Fortune, up to a maximum of 4 emeralds with Fortune III. If the ore is mined using a pickaxe enchanted with Silk Touch, they drop themselves in ore form instead of an emerald.
+
+Emeralds can generate in chests in some village houses or other generated structures.
+
+Vindicators and evokers drop 01 emeralds upon death. Looting increases the maximum emerald drop by one per level, for a maximum of 4 emeralds with Looting III.
+Foxes that are holding emeralds also have a chance of 100% to drop the emerald they are holding upon death. Alternatively, the player can drop a food item to entice the fox to drop the emerald without killing it.
+In Bedrock Edition, vindicators and pillagers spawned from raids can drop 01 emeralds. Depending on difficulty, vindicators and pillagers spawned from raids also have a chance of dropping additional emeralds. There is a 65% chance of dropping on easy and normal, and an 80% chance of dropping on hard. If this additional drop condition is met, different emerald counts can drop with different chances. There is a 1039 chance to drop an additional 01 emeralds, a 539 chance to drop an additional 23, and a 239 chance to drop an additional 45.
+In Bedrock Edition, with Looting III, it is possible for a vindicator in a raid to drop up to 16 emeralds upon death (vindicator drops + raid drops + an additional drop).
+
+Emeralds are primarily used as currency for trading with villagers and wandering traders. Trading is typically a faster way to obtain emeralds than by mining, as an emerald ore is rarer than a diamond ore.
+
+Emeralds can be used to select powers from a beacon. The player must select one of the available powers and then insert an emerald into the item slot. 
+An emerald can be substituted for an iron ingot, a gold ingot, a diamond, or a netherite ingot in a beacon.
+
+Trim color palette
+The following color palette is shown on the designs on trimmed armor:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Emerald" are maintained on the bug tracker. Report issues there.
+
+The ruby was going to be the villager currency but was changed to emeralds before the update's release.

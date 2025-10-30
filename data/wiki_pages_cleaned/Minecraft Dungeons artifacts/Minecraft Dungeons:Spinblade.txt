@@ -1,0 +1,22 @@
+The Spinblade is an artifact in Minecraft Dungeons obtainable within the Flames of the Nether DLC.
+
+Locations
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Nether Wastes (Adventure)
+Basalt Deltas
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+Upon activation the spinblade fires out in front of the hero, once a large distance has been reached it will stop and fly back to the hero. Any mob that is in the path of the spinblade will be damaged.
+
+X artifact damage
+5 second cooldown
+
+Issues relating to "Spinblade" are maintained on the bug tracker. Report issues there.
+
+In the game files, the Spinblade is referred to internally as the SpinWheel. It is also referred to internally in two files as the SpinWheelGadget.
+Due to the Spinblade being a special projectile, it can destroy projectiles shot by hostile necromancers and the Nameless One.

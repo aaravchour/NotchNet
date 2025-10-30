@@ -1,0 +1,9 @@
+Captures information and metrics about the game for ten seconds.
+Note that this command can only executed in dedicated server, use F3+L in client to run performance profiler.
+
+perf start
+Starts a recording for 10 seconds performance profiling such as tick durations, used heap sizes and other more detailed stats.
+perf stop
+Ends the recording early before the 10-second limit.
+
+When perf profiling session is stopped, a ZIP file is created in .minecraft/debug/profiling with the following structure:

@@ -1,0 +1,66 @@
+A brewing stand is a block used for brewing potions using bottles and suitable ingredients. It also serves as a cleric's job site block.
+
+A brewing stand can be obtained using any pickaxe. If mined without a pickaxe, it drops nothing in Java Edition, while it drops itself in Bedrock Edition.
+
+Brewing stands generate in end ships. They have two Instant Health II potions in their holders. 
+A brewing stand also generates in the basement of igloos with a splash potion of Weakness in it.
+Brewing stands can generate without potions in village churches.
+
+By default, the interface  of a brewing stand is labeled "Brewing Stand", but this name can be customized by naming it in an anvil before placing it.
+Brewing stands cannot be pushed by pistons in Java Edition.
+
+The main purpose of brewing stands is to allow for the brewing of potions. Its interface can be opened by pressing use on them.
+Brewing stands need blaze powder as fuel. Each piece brews 20 batches of potions, with each stage of brewing counting separately. Unlike furnaces, there is no time limit; fuel is consumed only when there are bottles and an ingredient to brew into it.
+Brewing stands interact with hoppers as follows:
+
+They accept brewing ingredients from hoppers pointing down into the top.
+Any valid potion recipe can be preloaded for "hands-free" brewing of a complex recipe, with the nether wart falling through into the stand for the first step.
+Bottles and fuel are accepted from hoppers pointing into the side.
+Finished products can be pulled out by hoppers below, but each stage of brewing counts as a batch of "finished" potions.
+In Minecraft Education, elements can be combined in the brewing stand to make the medicine potions: antidote, elixir, eye drops, and tonic.
+
+If a village has a brewing stand that has not been claimed by a villager, any villager who hasn't already picked a job site block in the village has a chance to change their profession into cleric.
+
+Brewing stands emit a light level of 1.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+A brewing stand has a block entity associated with it that holds additional data about the block.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Block entity format.
+
+The following content is transcluded from Technical blocks/Brewing Stand.
+
+Java Edition
+Beta 1.9 Prerelease 3 - 13w25b: [Has no defined name, rendering a minimum-length text box if highlighted]
+13w25c - 13w36b: tile.brewingStand.name
+
+Issues relating to "Brewing Stand" are maintained on the bug tracker. Report issues there.
+
+Even when the brewing stand is not in use, there is still smoke coming out of the top of it.
+In Java Edition, when a brewing stand is broken, particles from a bottle appear, even if no bottle is in the stand.
+No matter what potion (including water bottles) is in the stand it always looks like a full red bottle.
+Brewing stands always face east, no matter what direction they are placed.
+According to Searge, for thematic reasons, a brewing stand was added to the basement of the igloo. Because of this, blaze powder was required for fuel to preserve game progression. In this way, the player is prevented from using it before going to the Nether.
+
+Glass Bottle
+Splash Potion
+
+Taking Inventory: Brewing Stand  Minecraft.net on October 11, 2019

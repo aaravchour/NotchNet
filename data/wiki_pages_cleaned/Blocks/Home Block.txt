@@ -1,0 +1,3 @@
+Home block is a block used to teleport players to their home.
+
+Home block can be used to teleport players to their homes.

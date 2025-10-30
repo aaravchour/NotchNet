@@ -1,0 +1,7 @@
+A mountaineer axe is an axe variant that can be found exclusively equipped by mountaineers and the rampart captain within the howling peaks DLC of Minecraft Dungeons.
+
+Mountaineer axes cannot be obtained. Adding this item to the inventory with an inventory editor will crash the game when clicked on.
+
+Mountaineer axes utilize the sound effects of normal axes.
+Mountaineer axes look like ice axes, which are tools used by climbers to traverse ice or other slippery objects.
+They are often referred to as picks due to their appearance despite the ID saying that they are an axe variant, similar to ladles.

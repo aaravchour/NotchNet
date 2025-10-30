@@ -1,0 +1,7 @@
+Horse saddles were items which allowed the player to ride horses.
+
+Horse saddles worked just like regular saddles, but for horses instead of pigs. Taming a horse was required before putting a horse saddle on it. Unlike any other items, horse saddles could be stacked up to 32.
+
+None
+
+Horse saddles have been removed from the game, and as such are no longer supported.

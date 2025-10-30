@@ -1,0 +1,15 @@
+Fire Resistance is a status effect that grants the affected player/mob complete immunity to all sources of fire damage.
+
+Fire Resistance grants immunity to damage from fire, blaze fireballs, fire charges, magma blocks, and lava.  Negates any bonus fire damage from bows enchanted with Flame and swords enchanted with Fire Aspect, but the attacks themselves are unaffected.
+This effect does not work against direct hits/explosions from ghast fireballs or against melee attacks from a blaze, as neither of these sources are considered to deal fire damage.  It will, however, prevent damage from any fire created by a ghast's fireball.
+Fire resistance also reduces the fog effect created due to being submerged under lava.  This effect is stronger in Bedrock Edition than it is in Java Edition.  Fire Resistance also prevents the affected targets from catching fire, which stops the fire itself from covering the player's screen.
+Any undead mobs that receive Fire Resistance do not take damage from exposure to sunlight, nor do they catch fire from it.
+However, in Java Edition, outside of sunlight, Fire Resistance does not prevent the affected target from catching fire, but it does prevent any damage that would normally be taken due to being set on fire.  This can cause the player (or mob) to start taking damage if the effect expires before said player/mob is able to put themselves out.
+
+The wither and ender dragon are immune to this status effect.
+Many Nether mobs (blazes, ghasts, magma cubes, striders, wither skeletons, zoglins, zombified piglins) are naturally resistant to fire and lava, and are unaffected by the Fire Resistance status effect. Wardens are also resistant to fire and lava, despite not spawning in the Nether.
+Witches are not immune to fire by default, but they are able to drink a potion of Fire Resistance when they are on fire.
+
+Java Edition:
+
+Bedrock Edition:

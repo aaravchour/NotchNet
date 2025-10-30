@@ -1,0 +1,13 @@
+The muddy pig was a passive mob that served as a muddy variant of the pig. Muddy pigs were also an epic rarity.
+The dried muddy pig was a passive mob that served as a dried variant of the muddy pig. Dried muddy pigs were also an epic rarity.
+
+The muddy pig was a muddy variant of the normal pig. The lower body, legs, and chin were covered in mud, with a mud patch with a tulip found on the left side of its head. When not in the presence of mud, it converted into its dried mud state.
+The dried muddy pig lacked the mud patch and the tulip on its head and part of its legs were exposed with some patches of dried mud left on its knees and belly.
+
+Muddy Pigs oink and typically roam in small groups avoiding lava, hazards and cliffs high enough to cause falls. A muddy pig flees for some seconds when harmed. 
+If the muddy pig was in its dry state, it searched for mud. If it found mud, it jumped into the mud and rolled around until it regained its muddy appearance.
+Also, it was faster than a normal pig or a dry muddy pig.
+
+Players had a possibility to obtain the Muddy Pig by tapping a regular pig tappable.
+
+The Muddy Pig was the only mob variant where upon obtaining, the tappable did a unique animation, making it the only mob variant with two signs that made it unique, with one being its rarity.

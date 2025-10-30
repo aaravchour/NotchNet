@@ -1,0 +1,46 @@
+This tutorial seeks to explain common practices for farming kelp, a plant found naturally underwater.
+
+When smelted and crafted into dried kelp blocks, kelp can be used to smelt items. One kelp block can smelt 20 items, so a single undried kelp ends up smelting 1.22 items. This makes kelp useful as a renewable fuel source.
+Smelting kelp also grants 0.1 experience. To put this into perspective, it would take about 3,060 smelted kelp to go from level 27 to level 30.
+In addition, kelp can be composted, giving an average of 1 bone meal per 23.33 kelp. Dried kelp works the same way, so it would be possible to smelt kelp for the experience, and then compost it.
+
+Kelp grows similar to sugar cane. One stem block can be placed underwater, and then it spontaneously grows upward until the top of the kelp is one block below the water surface. When kelp is planted or the plant above is broken, it sets a random age from 0 to 24, which determines the maximum height the kelp is able to reach. When kelp grows, the plant adds 1 to the age from below. A kelp plant stops growing at age 25. This means that a kelp plant can grow between 2 and 26 blocks tall.
+Kelp has a 14% chance of growing each random tick. This means that there is a 50% chance for the kelp to grow in the first 4.6 ticks, a 75% chance for it to grow within 9.19 ticks, and a 25% chance for later growth. For information on random tick timings, see block tick.
+
+Bone meal can be used to speed up the growth of kelp. One bone meal grows kelp by one block.
+Additionally, the maximum growth of a kelp plant may be reset to the current height of the plant, hindering any further growth. Not even bone meal can make a kelp plant grow again if the maximum height becomes reset to current height.
+
+Based on testing, a 2020 square of kelp (400) down results in a rough 50% gain over the course of 1 minute, or about 600 kelp. This does not mean that half of the kelp grows 1 block; the random nature of the growth creates a negative logarithmic curve of how many plants reach certain heights. (L shaped curve)
+Here is the results from a 256 kelp test over a period of 1 real-life minute (1,200 ticks)
+All kelp were made to be less than age 20 for the trial, so age did not matter as none grew to 6 tall.
+
+Kelp can be manually farmed by placing kelp underwater, waiting for it to grow, and breaking it. Usually you want to break the block above the bottom kelp plant so as to allow continued growth. If you do not need a large amount of kelp, such as several double chests filled, it is possible that harvesting naturally grown kelp in the ocean is sufficient.
+It is important to note that kelp may not always grow to max height due to the random age value mentioned above. As such, it may be desirable to harvest kelp more frequently to allow it to constantly grow. In Java Edition, this age value can be checked by pressing F3.
+When harvesting kelp, you should swim down close to the base of the plants and sweep your view, breaking large amounts of kelp. Once you have broken a sufficient amount, swim to the surface to collect the items. Make sure to collect the items within 5 minutes before they despawn.
+
+Kelp only grows underwater, which creates some difficulties when trying to harvest. The difficulties can be alleviated through the use of the right equipment, however.
+
+A helmet enchanted with Respiration can allow you to stay underwater for longer. Such a helmet allows for up to an entire minute of time underwater. A Turtle Shell helmet would also be helpful as it allows you to instantly recover air when breaking the surface.
+Moving underwater can also be slow. This can be helped with boots enchanted with Depth Strider. A Riptide trident may also be helpful. If mining out an area for a farm, you may also want Aqua Affinity.
+Some potions can also be helpful. A potion of Water Breathing can allow you to stay underwater indefinitely and a potion of Night Vision can allow you to see much better.
+A sword with Smite may be helpful for fending off Drowned.
+Using Ice to create Water Sources with a Silk Touch Pickaxe is more convenient and effective than using water buckets to place water.
+
+To help streamline the farming process, you can also build up the infrastructure within the farm itself.
+
+To increase visibility, you could light up the area with Jack o'Lanterns or sea pickles.
+Constructing nearby air pockets allow the player to enter and replenish breath more easily.
+A conduit is extremely helpful as it provides all players within a 32-96-block spherical range with water breathing and better vision. In addition, it also attacks nearby hostile mobs.
+For the farm itself, you should probably clear out a large area and cover it with kelp. Ideally, make the area at least 25 blocks deep to allow the kelp maximum growth.
+It is also possible to automate collection by placing flowing water at the top, flowing into hoppers. This can be tricky however, and the kelp must not be allowed to grow into the flowing water and break the stream.
+
+Kelp can be automatically farmed by using pistons to break the second-to-bottom kelp block. Since kelp can vary in height from 2 blocks to 26 blocks, it is most efficient to have a chamber that can handle the maximum height.
+
+It is possible to create several kelp farms using the design shown in the schematic. For the design to work, there needs to be a way to trigger the piston. This can be done with either a clock circuit or an observer. In addition, it could also be fired manually by the player.
+In Java Edition, an observer facing the bottom kelp plant detects when it grows. This can be used to fire the piston facing the second kelp block. It is also possible to have the observer above the piston. However, it is possible that the kelp grows to 2 block in height and never triggers the observer. This makes it necessary to also have a clock or manual way to reset the farm.
+
+It is possible to use a flying machine to harvest large amounts of kelp all at once. This sort of design is more practical on a large scale as the kelp plants are all planted compactly next to each other.
+
+It is possible to use bone meal to accelerate plant growth. Since kelp does not break instantly, it is necessary to have a delay on how fast the farm runs. Otherwise, the kelp may grow before the rest is done breaking.
+
+Fizedi compares three techniques and determines the most efficient farm.

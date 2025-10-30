@@ -1,0 +1,9 @@
+Keys were a joke item from Java Edition 3D Shareware v1.34.
+There are three different keys: red, yellow, and blue.
+
+The red key was dropped by the wither, the yellow key was dropped by ravagers, and the blue key was dropped by the elder guardian.
+
+These keys were also obtainable by using the cheat code "IDKFA" when typing in chat.
+
+ A key with a similar appearance is present in The Europa Arcology Incident, a game made by Notch in 2009.
+Likely a reference to doom (1993) which also had similarly colored keys, and a shareware version.

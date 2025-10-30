@@ -1,0 +1,24 @@
+The pride of the piglins is a unique cog crossbow variant that can be found within the Flames of the Nether DLC of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Basalt Deltas
+Nether Fortress (Apocalypse)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Unstoppable Tusk
+
+X ranged damage
+Wind-up attack
+Chance to fire piercing bolts (Piercing tier I)
+
+Quiver: 40
+Fire Rate: 5 shots per second (while wound; otherwise 1 per second)
+
+Issues relating to "Pride of the Piglins" are maintained on the bug tracker. Report issues there.

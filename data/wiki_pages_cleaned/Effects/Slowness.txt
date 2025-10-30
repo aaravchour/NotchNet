@@ -1,0 +1,15 @@
+Slowness is an effect that decreases walking speed.
+
+Slowness decreases walking speed by 15%  level and contracts the player's field of view accordingly. Negative levels of Slowness increase walking speed. However, sprinting-jumping is barely affected.
+
+Withers and ender dragons are immune to the Slowness effect. While not immune, flying mobs are unaffected by the Slowness effect. Shulkers are also unaffected by, though not immune to, Slowness.
+
+A weapon enchanted with Bane of Arthropods inflicts Slowness IV on spiders, cave spiders, silverfish, endermites and bees; duration is dependent on the enchantment level.
+Levels 7127 render the player unable to move unless jumping while throwing an ender pearl.
+Alternative methods of reducing travel speed include: walking on soul sands, slime blocks, or honey blocks, or through berry bushes or cobwebs; swimming; riding a boat on land; sneaking; eating; drinking honey bottle, milk or a potion (travel speed is reduced while drinking any potion, regardless of the effects of the potion after drinking is finished); aiming a trident or bow, charging crossbow and blocking with a shield.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Slowness" are maintained on the bug tracker. Report issues there.

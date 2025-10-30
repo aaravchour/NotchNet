@@ -1,0 +1,26 @@
+Tropical fish is a food item that cannot be cooked.
+
+Tropical fish can be obtained from fishing. The wait time of one being caught is decreased with the Lure enchantment and the chance of one being caught is slightly decreased with the Luck of the Sea enchantment (named as such because it increases treasure, not fish).
+Tropical fish cannot be caught when fishing in jungle biome and variants.
+
+Guardians and elder guardians have a 2.5% chance of dropping a random fish upon death. This has a 2% chance of being tropical fish. The chance of getting the fish drop can be increased by 1% per level of Looting, but the type of fish is not affected.
+Tropical fish always drop 1 tropical fish in its item form when killed. This drop is not affected by Looting.
+
+Tropical fish restores 1 () hunger and 0.2 saturation.
+
+Expert-level fisherman villagers have a 17 chance to buy a single tropical fish for one emerald.
+Expert-level fisherman villagers always offer to buy 6 tropical fish for an emerald.
+
+In Bedrock Edition, tropical fish can be used to feed wolves, healing them by 1. However, unlike other wolf food, tropical fish cannot be used to breed or speed up the growth of baby wolves. Tropical fish can be fed only to a wolf that is not at full health.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Tropical Fish (item)" are maintained on the bug tracker. Report issues there.
+
+Fishing

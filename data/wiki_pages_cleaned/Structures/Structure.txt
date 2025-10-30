@@ -1,0 +1,32 @@
+This page lists structures (also known as generated structures or structure features) in Minecraft. A structure is defined as what is disabled when the "Generate structures" world creation option is turned off. Features, such as monster room and desert wells, do still generate with this option turned off; however, they are listed on this page in  Structure-like features due to them having the appearance of an artificial structure as opposed to a natural formation.
+
+The Overworld contains numerous structures, at a wide variety of scales.
+
+These structures can only generate underground in vanilla default Overworlds.
+
+These structures only generate aboveground.
+
+These structures generate both aboveground and underground.
+
+Note that ocean ruins and shipwrecks sometimes generate above water on shores, and icebergs are partially above and below water.
+
+The Nether, though equally vast, contains far fewer structures than the Overworld.
+
+The End is the final and most barren dimension, with no structures on its main island. After defeating the ender dragon, gateways to the outer islands are created.
+
+These worldgen features have similarities to structures but they are not true structures. Instead, they are coded and generated the same way as trees or ores. This is why they generate even when the "Generate structures" world option is disabled, and also cannot be located with the /locate command.
+
+These are structures that have been removed or exist only in older versions of Minecraft.
+
+Structures are generated for a given chunk after the terrain has been formed. The chunk format includes a tag called TerrainPopulated that indicates whether structures whose point of origin is in that chunk have been generated. If it is false or missing, it generates again. Structure generation is based on what is already in the chunk, so (for example) flagging a chunk that has already been populated for repopulation approximately doubles the amount of ore in it. When structures are generated, they can spill over into neighboring chunks that have been previously generated.
+
+The following table lists configured structure features' IDs in Java Edition and structure features' IDs in Bedrock Edition. These IDs can be used in /locate command.
+
+                                                                           
+In Java Edition, there are some structure tags in vanilla game.
+
+Biome
+Generated structures data file format
+Jigsaw Block
+Structure Block
+Air

@@ -1,0 +1,9 @@
+Dragon's breath farming is a process of farming the breath produced by the ender dragon.
+
+
+== Why bother? ==
+Dragon's breath can be used to brew lingering potions, which linger around the area which it lands when thrown. You can also craft tipped arrows using lingering potions.
+
+
+== Concept ==
+To farm dragon's breath, you need to respawn the ender dragon, and build an area which the dragon can shoot the dragon's breath fireball at you but it must not be able to hit you (you can use trapdoors for this). You will also need glass bottles to be able to pick up the dragon's breath.

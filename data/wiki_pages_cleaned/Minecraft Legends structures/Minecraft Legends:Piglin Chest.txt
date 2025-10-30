@@ -1,0 +1,7 @@
+A piglin chest is a chest that grants resources within Minecraft Legends.
+
+Piglins chest can be found randomly placed in piglin outposts.
+
+Piglin chests can only be opened once a piglin key is obtained. When a piglin chest is opened, the resources within are obtained, which can include gather allays and build allays.
+
+Issues relating to "Piglin Chest" are maintained on the bug tracker. Report issues there.

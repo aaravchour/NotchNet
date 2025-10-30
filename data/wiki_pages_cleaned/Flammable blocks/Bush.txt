@@ -1,0 +1,39 @@
+A bush is a natural decorative plant added in Spring to Life. Like short grass, It will adapt different shades of green depending on the biome.
+
+Bushes can only be dropped as an item using shears or any tool enchanted with Silk Touch. Otherwise, it drops nothing.
+
+Bushes naturally generate in the following biomes (at small patches):
+
+Birch Forest
+Old Growth Birch Forest
+Forest
+Plains
+Windswept Hills
+Windswept Gravelly Hills
+Windswept Forest
+Shores of River and Frozen River
+
+Using a Bone Meal on a bush grows another bush on neighboring blocks.
+
+Like grass, bushes adapt different shades of green, depending on the biome
+
+Bushes can be placed on the following blocks:
+
+Grass Block
+Mycelium
+Podzol
+Dirt
+Coarse Dirt
+Rooted Dirt
+Farmland
+Mud
+Muddy Mangrove Roots
+Moss Block
+Pale Moss Block
+In Bedrock Edition, it is possible to snowlog bushes.
+
+Using a bush on a composter has a 30% chance of raising a compost level by 1.
+
+Issues relating to "Bush" are maintained on the bug tracker. Report issues there.
+
+Shrub

@@ -1,0 +1,89 @@
+A fishing rod is a tool that casts a bobber used to fish in water or to hook and pull mobs, items and some entities towards the user.
+
+Enchanted fishing rods can be obtained as "treasure" items from fishing, and unenchanted ones as "junk" items.
+
+Journeyman-level fisherman villagers sell enchanted fishing rods for 6 emeralds.
+The enchantments are the same as the ones obtained from an enchantment table at levels 519.
+
+If a carrot on a stick or a warped fungus on a stick is used to the point of zero durability, it becomes a fishing rod again.
+
+In Java Edition, the drowned mob has a 3.75% chance of spawning with a fishing rod equipped.
+In Bedrock Edition, naturally-spawned drowned has 0.85% chance to spawn with fishing rod, while converted drowned has 1% chance to spawn with it.
+If killed, they have an 8.5% chance of dropping this fishing rod. That chance increases by 1% for each level of Looting applied to a weapon (up to 11.5% chance). The dropped item is damaged and never enchanted.
+
+Fishing rods can be cast into water. After a short period of time, a stream of bubble particles approaches the fishing rod. If the rod is reeled in once the particles "bite" the bobber, the player obtains a fish, junk, or possibly a treasure item. If the fishing rod was in the player's hand and is no longer, the fishing bobber entity despawns, unless the fishing rod to the off-hand or it's been swapped with another fishing rod.
+
+The fishing rod can be used to hook mobs, items and some entities, and even players. The fishing rod can then be reeled in, dragging the hooked object toward the player without dealing damage. Reeling in a mob or entity costs 5 points of durability, and reeling in an item costs 3 points. Reeling a mob pulls it toward the player with a speed of 110 the distance between mob and player.
+Besides mobs and items, entities that can be reeled in include: 
+
+Boats
+Boat with Chests
+ Minecarts of any type
+Armor Stands
+Shulker Bullets
+Fireballs
+Small fireballs
+ Primed TNT
+Any falling block such as Sand, Gravel, Dragon Eggs, Concrete Powders, Scaffolding,  Snow on Bedrock Edition or Anvils
+Some entities can be hooked, but cannot be reeled in: 
+
+ Mobs riding/being ridden by other mobs (in Bedrock Edition, the hooked mob dismounts)
+Paintings
+Item Frames
+Lead knots
+End Crystals
+Shulkers
+Attempting to reel in said entities still costs durability to the rod.
+The rest of the entities cannot be hooked at all: 
+
+ Thrown eggs
+ Thrown snowballs
+ Thrown ender pearls
+ Thrown eyes of ender
+ Thrown potions
+ Thrown bottles o' enchanting
+ Dragon fireballs
+ Wither skulls
+ Firework rockets in flight
+ Arrows in flight
+ Area effect cloud
+XP orbs
+Using it on a villager lowers the player's popularity and causes any naturally-spawned iron golems nearby to attack.
+
+A fishing rod can be used as fuel in furnaces, smelting 1.5 items per fishing rod.
+
+The hook can also be used to activate wooden pressure plates or weighted pressure plates.
+
+A fishing rod can receive the following enchantments:
+
+A fishing rod with the Mending enchantment has infinite durability if used for fishing only. The rod incrementally repairs itself using the experience gained each time a player reels in a fish, even if starting from nearly 0% durability. Players wearing damaged Mending armor have a lower average rate of repair, because the mending mechanic can ignore damage to the rod while repairing armor instead. Unbreaking III can nearly guarantee that the rod does not break, unless it's already at low durability.
+
+Fishing bobbers have entity data associated with them that contain various properties of the entity. They also appear to despawn after a while.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+Java Edition:
+Fishing bobbers use the Friendly Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Fishing Rod" are maintained on the bug tracker. Report issues there.
+
+The maximum distance the player can get between the bobber and themselves is 33 blocks.
+Skeletons can be pulled into their own arrows.
+When casting the rod into a portal, the bobber may stick to it like a normal block, go through and travel in the Nether, or stop on the next block behind the portal.
+If the player stands directly in front of a column and casts the line onto a block above the player, the line falls downward.
+If the bobber hits a painting, the painting breaks.
+The player can get into bed after casting a line, and the line remains in the water until the player wakes up and reels it in.

@@ -1,0 +1,11 @@
+The copper grate is a transparent, see-through variant of copper block. Copper grates do not conduct redstone, and mobs cannot spawn on top of them. They can also be waterlogged. Copper grates adjacent to other copper grates are invisible when viewed through a copper grate that is identical in states of oxidation and wax. They naturally generate in trial chambers.
+
+Copper grates can be mined only with a stone pickaxe or better. If a copper Grate is mined without the use of a pickaxe, it drops nothing.
+
+Copper grates can be turned into the respective waxed copper grates by using a honeycomb item on them. Waxed copper grates do not oxidize and are identical to the non-waxed version.
+
+Using an axe on a waxed copper grate turns it into the respective non-waxed copper grate. In addition, using an axe on an exposed, weathered, or oxidized copper grate reverts it one stage to a regular, exposed, or weathered copper grate respectively.
+
+Non-waxed copper grates are completely deoxidized when struck by lightning, and other non-waxed copper grates nearby are deoxidized randomly.
+
+Issues relating to "Copper Grate" are maintained on the bug tracker. Report issues there.

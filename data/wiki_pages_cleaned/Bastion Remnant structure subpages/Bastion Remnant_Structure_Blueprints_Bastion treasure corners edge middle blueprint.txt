@@ -1,0 +1,1 @@
+This block can fill up at layer 15 blackstone blocks and connects to a bridge with walls.

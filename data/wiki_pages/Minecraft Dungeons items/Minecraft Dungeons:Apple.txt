@@ -1,0 +1,47 @@
+An apple is a consumable  that can be found within various missions of Minecraft Dungeons.
+
+
+== Obtaining ==
+Apples are mainly obtained by defeating mobs and opening chests. 
+The common armor enchantment Food Reserves has a chance to create apples, as well as other food items.
+An apple is the most common food item dropped by mobs in all missions except for the flames of the nether where pork is dropped frequently.
+
+
+== Usage ==
+When consumed, apples heal 20% of a hero's max HP over three seconds.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+
+
+=== In-game ===
+
+		
+			
+			
+		
+
+
+== References ==

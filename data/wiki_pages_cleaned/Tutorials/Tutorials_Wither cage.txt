@@ -1,0 +1,32 @@
+This tutorial seeks to teach you, the player, how to build a wither cage. A wither cage is a contraption to keep a wither in one location so that its block-breaking abilities can be harnessed in a controllable way.
+
+The idea is to trap a wither in an inescapable room. Withers can shoot skulls, which break certain blocks. If they are damaged in any way, they can break nearly all blocks around them. No matter the cage, the wither can escape if it is not built correctly, or if the chunks reload and inaccurately place the wither. One small change in positioning can end up with a wither on the loose, which could wreak havoc on its surroundings.
+
+Trapping the wither is often the most difficult process, but it is possible in all dimensions. This part of the tutorial is designed to keep the wither in one place. The best way to guarantee safety is to cleverly use the natural bedrock formations. The player can also break bedrock to make the formation desirable.
+
+This cage cannot remain stable if the wither is damaged.
+The bottom five layers of the Overworld terrain is full of bedrock formations. Bedrock is unbreakable with explosions, so it is ideal to ensure the wither does not escape. One would need to find a bedrock formation shown below. The soul sand and skulls show the way that the wither needs to be constructed.
+
+Before the wither is spawned, a piston needs to be placed facing down, above the tail of the wither spawning formation, with one block of space between the soul sand and the piston. Summon the wither, and then power the piston with a button. As the piston retracts, place obsidian in the space where the piston arm was. This must be done quickly, or the wither might float upwards and escape.
+Once the wither is trapped, the player must ensure that the wither never gets damaged. If it does, it can break the obsidian, float upwards, and escape the cage.
+
+On the top and bottom of the nether, there are five layers of bedrock formations. There is no advantage to putting the cage on the bottom layers of the Nether. However, the top layers offer more protection against the wither escaping, and it increases the possibilities for breaking blocks.
+The cage must be placed in a bedrock ceiling formation that looks like the blueprint below. The negative layers show what should go below the layer above it, since the player would likely be building this from the top down.
+
+The wither can be safely spawned and allowed to float up. This way, the obsidian is never in range to be broken when the wither is damaged. This Nether design also has the benefit that if the wither escapes through the bedrock, it would end up above the bedrock ceiling. Unless the player built something above the bedrock, that wither will not cause problems, although it will likely never be seen again.
+
+The wither has two methods of block-breaking that can be utilized by the player.
+
+There are two types of skulls that the wither shoots: black skulls which come from the side heads, and blue skulls which come from the center head. Black skulls are able to destroy weak blocks like wood and dirt. Blue skulls are able to destroy stronger blocks like stone and iron blocks. In most designs that work with skulls, some of the heads are intentionally distracted by other mobs. Keep in mind that the wither can sometimes hit itself with its own black skulls, which could cause unwanted block breaking.
+
+Damaging the wither will cause it to break all the blocks in its hit box, including obsidian. This is why bedrock was used to trap the wither. The wither can be damaged in several ways, including getting hit by any projectile, explosions, suffocation. Suffocation and being hit by a projectile such as a snowball are the most common methods of harnessing this destructive ability. In fact, placing two indestructible end crystals can be placed in front of the two side heads, which cause the skulls explosions to damage the wither. Suffocation can cause problems because the pistons that push the blocks into the withers suffocation line could end up pushing the wither out of the cage.
+
+Distracting the wither in a safe way is critical for any wither cage. When the player moves around, it can allow the wither to escape. So, its three heads are often distracted with various mobs. Placing a mob like an iron golem within two blocks of the withers center head will prevent the launching of the dangerous blue skulls. The center head will look in the direction of that mob, independent of the other two heads.
+Distracting the other two heads depends on whether or not you want black skulls to be launched. The player can change the line of sight so that all three heads are distracted by the same mob. This prevents them from being launched entirely.
+If the player wants the black (or blue) skulls to be launched, a mob must be placed between 3 and 10 blocks away. This is in the range to allow for skulls to be launched. Mixing the two techniques above gets a mob near the wither to distract the blue-skull-launching center head, and a mob farther away to make the black skulls launch. The tricky part is ensuring that line of sight is maintained, while preventing the skulls from hitting the mob it is targeting.
+
+An expensive wither cage utilizing a Shulker Box as a Head Lock, an ender chest to trick the wither and classically, cobblestone walls for a Ground Lock. Also comes with a piston hurting system.
+
+Another very expensive wither cage that features a boat as a Head Lock, cobblestone walls as Ground Lock and indestructible end crystals as both a Fortification and hurting system.
+
+An unstable, moving cage.

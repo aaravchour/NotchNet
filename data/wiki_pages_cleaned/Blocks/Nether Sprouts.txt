@@ -1,0 +1,23 @@
+Nether sprouts are a non-solid fungi block that generate in warped forests.
+
+Nether sprouts generate in warped forest biomes.
+
+Nether sprouts can be mined instantly using any item. The block also breaks if the block below is removed, or if water flows into its space. The block only drops as an item if broken using shears.
+
+Applying bone meal to warped nylium creates nether sprouts on that block and surrounding nylium, along with both types of roots and fungi.
+
+Nether sprouts can be planted on the same blocks that fungi and roots can be placed on: nylium, soul soil, grass, podzol, mycelium, moss, dirt, coarse dirt, rooted dirt, and farmland. However, they cannot be planted in flower pots.
+
+Placing nether sprouts into a composter has a 50% chance of raising the compost level by 1.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Nether Sprouts" are maintained on the bug tracker. Report issues there.
+
+Unlike other warped "plants", nether sprouts do not have a crimson equivalent. This is also the case with nether wart, which lacks a warped equivalent.

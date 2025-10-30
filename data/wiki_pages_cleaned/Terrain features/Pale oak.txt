@@ -1,0 +1,33 @@
+A pale oak tree is a rare variant of the dark oak tree. They are commonly found in the pale garden biome.
+
+Pale oak trees generate with thick 22 trunks. Dirt blocks appear under the trunk if generated on a steep cliff. Pale oak trees nearly always generate with irregular logs connected to the trunk  these represent large branches. Naturally generated Pale oak trees sometimes generate with a Creaking Heart in the trunk. Pale Hanging Moss also generates under the Pale oak Leaves canopy.
+
+Pale oaks spawn naturally only in the Pale Garden biome. A pale oak always generates with dirt under its trunk, even if it spawns partly or wholly over air or water blocks.
+
+These items can be obtained from all variants of pale oak:
+
+Apple (chance of dropping when breaking leaves)
+Pale Oak Leaves (harvested with shears)
+Pale Oak Log (harvested with any tool including hands)
+Pale Oak Planks (created from a log in the inventory crafting grid)
+Pale Oak Sapling (chance of dropping when breaking leaves)
+Stripped Pale Oak Log (created by using an axe on a log)
+Stick (chance of dropping when breaking leaves)
+
+Pale oak saplings can be planted on:
+
+Dirt
+Grass Block
+Coarse Dirt
+Podzol
+Mycelium
+Rooted Dirt
+Moss Block
+Farmland
+Mud
+Muddy Mangrove Roots
+Growing these trees requires four pale oak saplings arranged in a 22 grid; they do not grow if planted individually.
+
+Issues relating to "Pale oak" are maintained on the bug tracker. Report issues there.
+
+When a player bonemeals pale oak saplings on the ground, they do not generate with the Creaking Heart and Pale Hanging Moss.

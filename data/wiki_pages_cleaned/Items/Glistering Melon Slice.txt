@@ -1,0 +1,16 @@
+A glistering melon slice is an inedible item used for brewing potions of Healing. It is also one of the many potion ingredients that can be used to make mundane potions.
+
+Master-level farmer villagers sell 3 glistering melon for 4 emeralds.
+
+Despite being crafted with a melon slice, a glistering melon slice cannot be eaten, unlike a golden apple or golden carrot.
+
+Piglins are attracted to glistering melon slices. They run toward any glistering melon slice on the ground, and inspect it for 6 to 8 seconds before putting it in their inventory.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Glistering Melon Slice" are maintained on the bug tracker. Report issues there.
+
+Melon Slice
+Melon

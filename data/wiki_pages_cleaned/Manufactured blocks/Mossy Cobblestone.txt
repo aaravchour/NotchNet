@@ -1,0 +1,23 @@
+Mossy cobblestone is a variant of cobblestone with green moss on it. It is mainly used for crafting or as building block.
+
+Mossy cobblestone can be mined using a pickaxe, in which case it drops itself. If mined without a pickaxe, then the mining is slower and it drops nothing.
+
+Mossy cobblestone occurs naturally in dungeons, jungle temples, pillager outposts, underwater ruins, and plains, taiga, snowy taiga, and zombie villages. It can also be found in the form of forest rocks in the old growth taiga biome.
+
+Mossy cobblestone can be used as a basic building block, as it is blast resistant and fairly common.
+
+Mossy cobblestone can be placed under note blocks to produce "bass drum" sounds.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Mossy cobblestone does not have an infested variant.
+
+Issues relating to "Mossy Cobblestone" or "Moss Stone" are maintained on the bug tracker. Report issues there.
+
+Block of the Week: Moss Stone  Minecraft.net on November 24, 2017

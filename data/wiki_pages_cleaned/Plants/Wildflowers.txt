@@ -1,0 +1,31 @@
+Wildflowers are a decorative block similar to pink petals.
+
+Unlike Pink Petals, Wildflowers consists of small yellow and white Flowers that look vaguely similar to dandelions and azure bluets.
+
+Wildflowers can be broken instantly with any item or by hand.
+Wildflowers also break if water or lava runs over its location, or if a piston extends or pushes a block into its location.
+
+Wildflowers generate naturally in birch forests, old growth birch forests and meadows.
+
+Each time bone meal is applied to wildflowers, they drop a copy of themselves, similar to tall flowers.
+Wildflowers also generate when bone meal is applied to a grass block in birch forests, old growth birch forests and meadows.
+
+Wandering traders sometimes sell wildflowers for 1 emerald.
+
+More than one wildflower can be placed on a block, similarly to other blocks such as pink petals, sea pickles and candles. Up to four wildflowers can be placed in a group on one block.
+
+Bees can pollinate wildflowers like other flowers. They can also be bred using wildflowers. 
+
+Oak, birch, and cherry trees grown from saplings that are within 2 blocks of wildflowers have a 5% chance to grow with a bee nest containing 2-3 bees.
+
+Placing wildflowers into a composter has a 30% chance of raising the compost level by 1.
+
+Template:Sound table/Block/Wildflowers
+
+Java Edition:
+
+Bedrock Edition:
+
+Wildflowers/BS
+
+Issues relating to "Wildflowers" are maintained on the bug tracker. Report issues there.

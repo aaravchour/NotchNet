@@ -1,0 +1,42 @@
+This page intends to document the history of textures used in Minecraft.
+For more in depth information for actually used textures for each edition, refer to the following pages:
+
+Java Edition history of textures
+Bedrock Edition history of textures
+Minecraft Education history of textures
+Legacy Console Edition history of textures
+New Nintendo 3DS Edition history of textures
+Pi Edition history of textures
+
+
+== Unused textures ==
+
+
+=== Blocks ===
+
+
+=== Items ===
+
+Placeholders
+
+
+=== Entities ===
+
+
+=== Particles ===
+
+
+=== Miscellaneous ===
+
+
+== Developer version exclusive textures ==
+These textures appeared exclusively in development screenshots or videos. In most cases, the raw files have never been released publicly; all cases documented here are derived from recreations unless otherwise stated.
+
+
+=== Blocks ===
+
+
+=== Items ===
+
+
+== References ==

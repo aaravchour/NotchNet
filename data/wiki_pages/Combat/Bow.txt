@@ -1,0 +1,204 @@
+A bow is a ranged weapon that shoots arrows.
+
+
+== Obtaining ==
+
+
+=== Crafting ===
+
+
+=== Mob loot ===
+
+
+==== Skeletons and Strays ====
+Skeletons and strays have an 8.5% chance of dropping a normal or enchanted bow on death when killed by a player or a tamed wolf. 
+The chance of dropping a bow is increased by 1% per level of Looting, allowing up to an 11.5% chance of dropping. 
+The chance of being enchanted depends on the difficulty, whether it is normal or hard. The enchantment level is equal to enchant level 5-22. 
+Bows of skeleton traps are always enchanted at level 5 to 23. The exact level depends on regional difficulty, as on Easy it is always a level-5 enchantment.
+
+
+==== Illusioners ====
+                                                                           
+Illusioners have an 8.5% chance of dropping an unenchanted bow when killed by the player. The chance of dropping a bow is increased by 1% per level of Looting, allowing up to an 11.5% chance of dropping. 
+
+
+=== Trading ===
+Apprentice-level fletcher villagers sell bows for 2 emeralds as part of their trades.
+Expert-level fletcher villagers sell enchanted bows for 7–21 emeralds as part of their trades. The enchantment level is equal to enchant level 5–19.
+
+
+=== Fishing ===
+Bows have a chance of being caught by fishing. When caught, the bow may be damaged and contain random enchantments equivalent to a level 30 enchantment from an enchanting table, including treasure enchantments like Mending.
+
+
+=== Repairing ===
+
+
+== Usage ==
+
+
+=== Weapon ===
+
+Bows can be drawn back by using them. In order to use a bow, the player must have at least one arrow in their inventory or be in Creative mode. The arrow that is shown inside the bow always looks like a regular arrow, regardless of what kind of arrow is actually being shot from the bow.
+When drawing a bow, the display zooms in slightly. Charging the bow to its maximum causes it to visually shake as an indicator. Releasing the button shoots an arrow if it is charged at least 15%. Drawing a bow can be canceled by switching to another hotbar slot while holding use.
+While the bow is being charged or remains fully charged, the player is forced to move at sneaking speed, unless they are riding a horse, minecart or boat, or flying with elytra. It is not possible to sprint while charging a bow or holding a drawn bow. When the bow is released, normal motion resumes although any prior sprint is cancelled. Sneaking while drawing the bow makes the player move even slower.
+If an arrow hits another player, the player that shoots the arrow hears a high-pitched "ding" sound.‌
+Fully charged shots launch critical arrows which have a trail of particles behind them and deal up to 
+  
+    
+      
+        
+          (
+          
+            
+              3
+              x
+            
+            2
+          
+          )
+        
+        +
+        2
+      
+    
+    {\textstyle \left ( \frac{3x}{2} \right ) + 2}
+  
+damage, where 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+is the damage after any enchantments. The listed values below describe maximum damage from a bow with no Power enchantments, assuming the target is at a distance where drag and gravity are negligible. However, the critical damage is likely to be more around 8-10; critical damage is added at a random value between 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+and 
+  
+    
+      
+        
+          (
+          
+            
+              3
+              x
+            
+            2
+          
+          )
+        
+        +
+        2
+      
+    
+    {\textstyle \left ( \frac{3x}{2} \right ) + 2}
+  
+ and it is rare to have minimum or maximum values. The damage dealt can ultimately be less than the maximum damage if the arrow slows down after being shot. 
+
+The game stores the damage of arrows even in values with a decimal point. For example, it is possible for a critical arrow shot to cause damage values such as 6.4. In this cases of a broken value, the game can round up or down and store the amount for subsequent damage sources.
+Any projectile thrown by the player is under the influence of momentum in current versions of Minecraft. Naturally, the player's movement speed can be modified under a number of circumstances, affecting the ballistic trajectory of projectiles, and as a result, the damage inflicted by arrows.
+In Java Edition Combat Tests, to avoid sniping, arrows shot from fully-charged bows become non-critical if held drawn back for longer than three seconds. Instantaneous effects on tipped arrows are scaled by 1/8, just like the duration of other effects. For example, Instant Damage I arrow will deal an additional 0.75 × 0.375 magical damage.
+Damage caused by the arrow is not affected by the Strength effect.
+Endermen cannot be shot using an arrow, because the arrow either disappears as the enderman teleports, or it gets deflected. Even while immobile, the enderman is immune to damage from arrows. However, an arrow shot from a bow enchanted with Flame can ignite the enderman.
+
+
+=== Crafting ingredient ===
+
+
+=== Enchantments ===
+Bows can receive several different enchantments and have a base enchantability of 1. Bow enchantments have no effect on arrow speed or the distance it travels. In Bedrock Edition, if a bow is enchanted with any level 1 enchantment, it always gets Power I.
+
+Notes
+
+
+=== Fuel ===
+A bow can be used as fuel in furnaces, smelting 1.5 items per bow in Java Edition or 1 item per bow in Bedrock Edition.
+
+
+== Arrows ==
+
+As in real life, a flying arrow in Minecraft is affected by gravity. Its vertical speed is modified by one block downward every second, resulting in a parabolic flight path. An arrow slows down if shot through water, reducing its damage to near zero unless brought back into the air or otherwise given momentum.‌
+Arrows that hit solid blocks become stuck and can be retrieved, unless the arrow was shot by a bow enchanted with Infinity, a player in Creative mode, or a mob.
+An arrow shot through lava ignites, giving it the effect of the Flame enchantment, igniting any entity it hits. If not extinguished, the fire inflicts up to 4 damage. Although a wither skeleton does not spawn naturally with bows, if it holds a bow then it also shoots flaming arrows.
+On impact, an arrow can trigger a wooden pressure plate, target block, wooden button, or tripwire. Arrows cannot trigger stone pressure plates or stone buttons.
+The player can choose the type of arrow to shoot based on its location in the inventory. Arrows in the off-hand, or the selected hotbar slot if the bow is in the off-hand, are prioritized first. If there are no arrows in the off-hand or selected hotbar slot then the arrow closest to slot 0 is selected.
+Arrows shot by bows in Bedrock Edition has a slightly higher range than arrows shot by bows in Java Edition.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== Video ==
+
+
+== History ==
+
+Historical sounds:
+
+
+== Issues ==
+Issues relating to "Bow" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Bows were left unchanged in the Texture Update.
+Dinnerbone got the idea for the high-pitched "ding" sound from playing on a former PvP server called Project Ares.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External Links ==
+Taking Inventory: Bow – Minecraft.net on April 13, 2023

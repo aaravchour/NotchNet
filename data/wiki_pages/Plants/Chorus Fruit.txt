@@ -1,0 +1,61 @@
+Chorus fruit is a food item native to the End that can be eaten, or smelted into popped chorus fruit. It can be eaten even when the hunger bar is full, and eating it may teleport the player up to 8 blocks in any direction.
+
+
+== Obtaining ==
+
+Chorus fruit can be obtained by breaking chorus plant blocks. Each block of chorus plant has a 50% chance to drop a chorus fruit. This is not affected by Fortune.
+
+
+== Usage ==
+To eat chorus fruit, press and hold use while it is selected in the hotbar. Eating one restores 4 () hunger and 2.4 hunger saturation.
+Unlike most foods, chorus fruits can be eaten even when the player has a full hunger bar.
+The player may also be teleported: up to 16 attempts are made to choose a random destination within ±8 on all three axes in the same manner as enderman teleportation, with the exception that the player may teleport into an area only 2 blocks high, or one block tall if the player is crawling. The player does not land in the average centroid of the block, but rather to any position within an 8-block range. The player will be teleported directly down to the ground regardless of the height it was used at if the player is too far from a valid destination.
+The chorus fruit, unlike an ender pearl, can teleport the player through solid blocks. The algorithm tries to avoid fluids; the player cannot teleport into a space occupied by water or lava. However, the player can be teleported onto dangerous blocks such as fire, cacti and magma blocks.
+If a teleport succeeds, a sound similar to an enderman teleporting plays originating from the teleportation origin location. Chorus fruit has a cooldown of 1 second before being able to be used again. The cooldown is represented by a white overlay on the chorus fruit in the hotbar. The cooldown is applied to all chorus fruits items, including those in the player's inventory and containers.
+Eating chorus fruit may teleport the player into areas protected by bedrock, barrier blocks, or other blocks that are otherwise unbreakable in Survival mode. However, it cannot teleport the player onto the Nether roof.
+Chorus fruit is completely non-functional above the nether roof.
+Foxes can also eat chorus fruit and the teleportation effect works the same as with players.
+
+
+=== Smelting ingredient ===
+
+
+== Sounds ==
+
+
+=== Generic ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Unique ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Chorus Fruit" are maintained on the bug tracker. Report issues there.
+
+
+== References ==
+
+
+== External Links ==
+Taking Inventory: Chorus Fruit – Minecraft.net on November 5, 2020

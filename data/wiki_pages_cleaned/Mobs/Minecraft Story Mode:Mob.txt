@@ -1,0 +1,3 @@
+There are several mobs exclusively found in Minecraft: Story Mode that are not present in the base game, Minecraft.
+
+Most mobs in Story Mode all seem to have a raised or lowered portion of their texture instead of using a flat texture. This was possibly used to add depth to the mobs' appearance.

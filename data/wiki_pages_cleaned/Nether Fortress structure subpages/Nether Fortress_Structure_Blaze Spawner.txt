@@ -1,0 +1,3 @@
+The entrance is on the bottom side of the blueprints. They can connect to a bridge or a corridor.
+
+The monster spawner spawns blazes.

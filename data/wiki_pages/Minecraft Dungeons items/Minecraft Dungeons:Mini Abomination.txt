@@ -1,0 +1,57 @@
+The mini abomination is a cosmetic pet ministrosity that can be unlocked as a reward in the Luminous Night seasonal adventure of Minecraft Dungeons.
+
+
+== Appearance ==
+The mini abomination appears to be a tiny variant of the jungle abomination, looking somewhat like a stump with arms, legs, and a glowing pink mouth and eyes. It also has a green leaf on it's right arm and a pink flower on the top of it's head.
+
+
+== Obtaining ==
+Adventure Hub
+
+
+== Behavior ==
+The mini abomination is purely cosmetic and does not attack any mobs.
+
+
+== Sounds ==
+
+
+== Data values ==
+In the game files, the abomination is referred to internally by the name BabyJungleAbomination.
+
+
+== History ==
+
+
+== Gallery ==
+
+
+=== Renders ===
+
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Artworks ===
+
+		
+			
+			
+		
+
+
+== References ==

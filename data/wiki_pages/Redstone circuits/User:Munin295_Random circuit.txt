@@ -1,0 +1,232 @@
+This article covers three categories of random circuits:
+
+Random Selector
+Turns on one random output of many.
+Random Number Generator
+Generates a random sequence of numbers.
+Random Pulse Generator
+Outputs a pulse at random intervals.
+
+
+== Random selector ==
+A random selector has one input and multiple outputs – when the input turns on, one random output turns on.
+Other random selectors include:
+
+A dropper pushes a random item into an item sorter. The sorted item triggers an output, then it recycles to the dropper.
+A mob spawner spawns a random block of redstone FallingSand entity with specific location tile entity data.
+
+
+=== Analog-decoder random selector ===
+An analog-decoder random selector (ADRS) consists of an analog random number generator, and an a2o decoder to convert the analog signal into a one-hot encoding (i.e., only one powered output).
+1d2 Analog-Decoder Random Selector
+
+3×5×2 (30 block volume)
+flat, silent
+circuit delay: 4 ticks
+Outputs 1 or 2 while on, nothing while off.
+The dropper and hopper create an analog random number generator which generates a signal strength of 1 or 3 when activated (and 0 when inactive).
+If the signal strength is 1, the top repeater powers output #1 but the signal can't reach the bottom output.
+If the signal strength is 3, output #2 is powered (but may require a repeater to go further), but the top repeater gets locked in an unpowered state before the signal can get through it, preventing output #1 from being powered.
+
+1d3 Analog-Decoder Random Selector
+
+4×8×3 (96 block volume)
+silent
+circuit delay: 6 ticks
+Outputs 1 to 3 while on, nothing while off.
+The dropper and hopper create an analog random number generator which generates a signal strength of 1, 2, or 4 – but an extra loop of redstone dust subtracts 1 from this output only when signal strength 4 was generated, resulting in final signal strengths of 1, 2, or 3. These signal strengths are then put through an opposed-power analog decoder to power a random output.
+
+1d3 Analog-Decoder Random Selector (Double-Spaced)
+
+5×6×3 (90 block volume)
+silent
+circuit delay: 5 ticks
+Outputs 1 to 3 while on, nothing while off.
+The dropper and hopper create an analog random number generator which generates a signal strength of 1, 2, or 4. These signal strengths are then put through an opposed-power analog decoder, designed for these particular signal strengths, to power a random output.
+
+1d6 Analog-Decoder Random Selector
+
+6×9×3 (162 block volume)
+silent
+circuit delay: 7 ticks
+Outputs 1 to 6 while on, nothing while off.
+This circuits uses two analog random number generators, one which generates either 0 or 3 and another which generates 1, 2, or 3. These are both subtracted from 6 to produce an even spread of probabilities between 0 and 5. This final value is put through an opposed-power analog decoder to power a random output.
+
+
+=== Hopper-loop random selector ===
+Hopper-Loop Random Selector
+
+1×5×3 (15 block volume) per output
+silent
+circuit delay: 2 ticks
+Outputs 1 to N while on, nothing while off.
+Deactivate the hoppers (by powering them) before putting items in, to keep the items from moving around while the circuit is being constructed.
+While the input is off, the items cycle around the hopper loop, but the output from their comparators is suppressed by the line of dust on the output torch blocks. When the input turns on, the items stop moving and the suppression line turns off, producing a single output.
+Variations: A zero-signal (while off only) can be taken by adding a repeater next to the first output torch, to take power from the suppression line.
+
+
+== Random number generator ==
+A random number generator (aka RNG) is a circuit that can generate a sequence of numbers with no recognizable pattern.
+All of the RNGs below depend on the stack maximums of the items they move around:
+
+A 64-stackable item is any item with a stack maximum of 64 items (for example, apples, sticks, cobblestone, etc.).
+A 16-stackable item is any item with a stack maximum of 16 items (for example, ender pearls, signs, snowballs, etc.).
+A non-stackable item is any item which cannot be stacked (for example, tools, weapons, armor, doors, boats, minecarts, etc.).
+
+
+=== Basic RNG ===
+Two basic random number generators are used as components in more complex RNGs.
+
+ Basic 2-RNG
+
+1x3x2 (6 block volume), 1-wide, flat, silent
+circuit delay: 3 ticks (rising) and 1 tick (falling)
+Outputs either power level 1 or 3 while on, power level 0 while off.
+When the input turns on, the dropper will randomly choose to push either the stackable item or the non-stackable item into the hopper, causing the comparator to output either power level 1 or 3. Because the powered dropper is a solid/opaque block, it will also deactivate the hopper, preventing it from pushing the item back to the dropper until the input turns off.
+The output power level can be used as is (for example, to subtract 1 or 3 from a comparator in subtraction mode), but more often the output is connected to a line of two redstone dust so that the output is 0 or not 0 (to randomly power a repeater, activate a mechanism component, etc.).
+Variations: If the dropper is powered indirectly (for example, by quasiconnecitvity or an adjacent powered block), the hopper won't be deactivated and will immediately push the item back into the dropper. This turns the circuit into a monostable rising edge detector with a 3.5-tick output pulse (still with a random power level of 1 or 3).
+With only two items in the dropper, both output power levels will be chosen with equal probability. The probability of the output levels can be changed by adding additional stackable and non-stackable items to the dropper (which must all be different from each other so they won't stack). For example, with two different stackable items and three different non-stackable items, the RNG will output power level 1 40% of the time and power level 3 60% of the time.
+Earliest Known Publication: 14 March 2013
+
+ Basic 3-RNG
+
+1x3x3 (9 block volume), 1-wide, silent
+circuit delay: 3 ticks (rising) and 1 tick (falling)
+Outputs power levels 1, 2, or 4 while on, power level 1 while off (but see variations below).
+When building this circuit, wait until the hopper is deactivated by the powered dust before putting five 16-stackable items in its far right slot. Then put a 64-stackable item, a 16-stackable item, and a non-stackable item in the dropper.
+Before the input turns on, the hopper's five 16-stackable items are enough to produce a power level 1 output from its comparator (even a single 64-stackable item would be enough for that). These five items should never be returned to the dropper, so the comparator's output will never drop below power level 1.
+When the input turns on, the dropper will push an item into the hopper, which will be placed in the hopper's left slot. It takes 23 64-stackable items (or five 16-stackable items and three 64-stackable items, or six 16-stackable items) to produce power level 2, so if the 64-stackable item is pushed that won't be enough to increase the output power level, but if the 16-stackable item is pushed the output power level will increase to 2. And if the non-stackable item is pushed, the output power level will increase to 4.
+The hopper is held deactivated by the powered dust when the circuit is off, and by the powered dropper when the circuit is on. But, when the input turns off, there is a brief 1-tick moment when the dropper has just turned off, but the torch attached to it hasn't turned on again. This allows the hopper to activate for 1 tick, pushing an item back into the dropper. A hopper always pushes items from its left slots first, so the hopper will push back the item the dropper pushed into it, rather than any of the 16-stackable items in its far right slot, allowing the circuit to reset itself.
+Variations: You can remove one of the items from the dropper to create a 2-RNG with different power level outputs than the regular 2-RNG: removing the 64-stackable item outputs power levels 2 or 4, removing the 16-stackable item outputs power levels 1 or 4, and removing the non-stackable item outputs power levels 1 or 2.
+You can add additional redstone dust leading from the hopper to a block next to it, and then down to the side of the comparator. This 2-wide variation will keep the comparator's output off while the input is off.
+With only three items in the dropper, all three output power levels will be chosen with equal probability. The probability of the output levels can be changed by adding additional 64-stackable, 16-stackable, and non-stackable items to the dropper (which must all be different from each other so they won't stack). For example, with one 64-stackable item, one 16-stackable item, and two different non-stackable items, the RNG will output power level 1 25% of the time, power level 2 25% of the time, and power level 4 50% of the time.
+Additional items can be added to the hopper to increase all of the output power levels.
+Earliest Known Publication: 16 April 2013
+
+ Diminished 3-RNG
+
+2x4×3 (24 block volume), silent
+circuit delay: 4 ticks (rising) and 2 tick (falling)
+Outputs power levels 0, 2, and 4 while on, 0 while off.
+The side comparator will subtract 1 from the hopper's output, unless the hopper's output is enough to suppress the side comparator—the net effect is that only power level 1 gets reduced to 0, while 2 and 4 get through unchanged.
+Variations: The 16-stackable item can be removed to get a 0 or 4 output (removing other items will get 0 or 2 and 2 or 4, but those are more easily obtained with a basic 2-rng or basic 3-rng). Like the basic 3-rng, additional items can be added to the hopper to increase all of the output power levels.
+
+
+=== Analog RNG ===
+1d2 ARNG
+
+2×3×3 (18 block volume), silent
+circuit delay: 3 ticks
+Outputs power levels 1 or 2 while on, 0 while off.
+This is a basic 3-rng with the non-stackable item removed.
+
+1d3 ARNG
+
+4×4×3 (48 block volume), silent
+circuit delay: 4 ticks
+Outputs power levels 1 to 3 while on, 0 while off.
+The basic 3-rng outputs power levels 1, 2, or 4, which is almost correct for a 1d3 RNG. To correct it, another line is added to subtract 1 from the output when it should be 4. The additional comparator is added to the output line to make sure the two lines are calculated at the same time (otherwise it would be power level 4 for 1 tick, then power level 3 as desired).
+
+1d4 ARNG
+
+4×6×3 (72 block volume), silent
+circuit delay: 6 ticks
+Outputs power levels 1 to 4 while on, 0 while off.
+
+1d5 ARNG
+
+6×6×3 (108 block volume), silent
+circuit delay: 7 ticks
+Outputs power levels 1 to 5 while on, 0 while off.
+
+1d6 ARNG
+
+6×6×3 (108 block volume), silent
+circuit delay: 6 ticks
+Outputs power levels 1 to 6 while on, 0 while off.
+
+1d10 ARNG
+
+8×8×3 (192 block volume), silent
+circuit delay: 9 ticks
+Outputs power levels 1 to 10 while on, 0 while off.
+
+ Analog 16-RNG
+
+5×8×4 (160 block volume)
+circuit delay: 8.5 ticks
+Outputs power levels 0 to 15 while on, power level 0 while off.
+Uses four 2-RNGs to subtract 1, 2, 4, and/or 8 from 15.
+Reducing the number of 2-RNGs reduces the possible outputs: three 2-RNGs produces an 8-RNG, and two 2-RNGs produces a 4-RNG (the exact power levels depend on the power level provided to the subtraction comparators).
+Earliest Known Publication: 10 June 2013
+
+
+=== Binary RNG ===
+…
+
+Binary RNG
+…
+
+
+=== Tally RNG ===
+A tally rng is a random number generator that generates a random number in a tally encoding (N outputs on of many).
+…
+
+
+=== Unary RNG ===
+A unary rng is a random number generator that generates a random number in a unary encoding.
+A random number is rarely needed encoded as a unary number -- however, choosing one random output from many is useful and is basically the same circuit: a random selector.
+
+
+=== Choosing an RNG ===
+
+
+== Random pulse generator ==
+A random pulse generator (RPG) outputs a pulse at random intervals.
+
+
+=== Chicken RPG ===
+A chicken trapped above a hopper will produce an egg every 5 to 10 minutes. …
+
+
+=== Clock RPG ===
+A clock RPG produces a pulse when a clocked random number generator produces an output in the correct range.
+…
+
+
+=== Update RPG ===
+An update RPG produces a pulse when a specific block tick occurs.
+Block ticks only occur in a 15×15 chunk area around each player, which may either limit the usefulness of update rpgs, or might be taken advantage of to limit activity to player locations.
+
+BUD Random Pulse Generator
+
+1×5×3 (15 block volume)
+1-wide
+average pulse interval: 68.3 seconds
+output pulse: 2.5 ticks
+When the tripwire hook receives a block tick, it will "wake up" the sticky piston, causing the BUD circuit to activate and output a pulse.
+Variations: The interval between pulses can be reduced by placing additional tripwire hooks so that they, or the blocks they are attached to, can update the sticky piston. Up to 14 tripwire hooks can be placed, reducing the average pulse interval to as little as 4.9 seconds (see Multiple Tripwire Hooks Table below).
+
+The interval between pulses can be increased by using multiple BUD RPGs and combining their outputs in an AND gate (the AND gate will only produce an output pulse when both or all of the BUD RPGs happen to pulse at the same time). To determine the average pulse interval of multiple BUD RPGs, multiply together their update probabilities (see Multiple Tripwire Hooks Table above), invert, and divide by 20 to get seconds. No more than three BUD RPGs can be combined per chunk section (multiple BUD RPGs in a chunk section will change the probabilities above), but additional BUD RPGs can be combined from other chunk sections.
+
+
+==== Design and analysis ====
+Minecraft divides the world up into 16×16×256-block chunks, and divides chunks up into 16×16×16-block chunk sections. On each game tick—20 times per second (load permitting)—it executes a block tick on three block positions in each chunk section (but it might select the same block twice or even three times in one game tick). Thus, on each game tick, any particular block has a [1 - (4095/4096)3] = 0.07322% chance to be selected for a block tick. A circuit which can react to block ticks in multiple locations has a [1 - ((4096-N)/4096)3] chance to be activated (where N is the number of locations it can react to).
+Many blocks do not react to block ticks—for example, stone isn't going to do anything. But other blocks may react some of the time, or will react every time:
+
+Dirt may grow grass (with light level 4 or more, and nearby grass blocks with light level 9 or more).
+Fire may spread (with other nearby fire).
+Grass Block may die to dirt (with light level 3 or less, and covered by opaque or semi-transparent block).
+Ice may melt into water (with block light level of 12 or more).
+Water may freeze into ice (in an ice plains or taiga biome, exposed to the sky, with block light level of 11 or less).
+Plants may grow. Of particular interest for random pulse generators are plants whose growth can be repeated automatically:
+Cactus growth can be recycled automatically just by placing a block next to the space the cactus will grow into.
+Melon growth can be detected with a BUD circuit and then removed with a piston.
+Pumpkin growth can be detected with a BUD circuit and then removed with a piston.
+Sugar Cane growth can be detected with a BUD circuit and then removed with a piston.
+A Redstone Torch will update other redstone components within two spaces.
+A Tripwire Hook will update other redstone components adjacent to it, or adjacent to the block it is attached to.
+…
+
+
+== References ==

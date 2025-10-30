@@ -1,0 +1,11 @@
+Toggles flying.
+
+
+== Syntax ==
+
+
+== Result ==
+Makes the player start flying.
+
+
+== History ==

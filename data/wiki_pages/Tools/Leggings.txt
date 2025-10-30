@@ -1,0 +1,164 @@
+Leggings are a type of armor that covers the lower body of the player. There are seven types of leggings: leather pants, chainmail leggings, copper leggings‌, iron leggings, diamond leggings, gold leggings, and netherite leggings.
+
+
+== Obtaining ==
+
+
+=== Crafting ===
+
+
+=== Upgrading ===
+Netherite Upgrade +Diamond Leggings +Netherite Ingot
+
+
+=== Repairing ===
+
+
+==== Grinding ====
+
+
+==== Unit repair ====
+Leggings may be repaired on an anvil by combining them with their corresponding crafting material (leather, gold ingots, iron ingots, diamonds, or netherite ingots), with each repair material restoring 25% of the leggings' maximum durability, rounded down. Any enchantments are retained. Chainmail leggings may be repaired in this way with iron ingots. Leggings may also be repaired by crafting them together with another pair of leggings of the same material, although enchantments are lost.
+
+
+=== Mob loot ===
+If a zombie, piglin, zombie pigman or skeleton is wearing armor, there is an 8.5% chance (9.5% with Looting I, 10.5% with Looting II and 11.5% with Looting III) for the mob to drop leggings upon death. The leggings are usually badly damaged and may be enchanted.
+Vindicators and pillagers spawn in raids have a chance to drop iron leggings, which are usually badly damaged, and may be enchanted.
+
+
+=== Chest loot ===
+In Bedrock Edition, a sealed room in woodland mansions can appear that has a chest sometimes containing an Efficiency I leather pants.
+
+
+=== Trading ===
+In Java Edition, novice-level armorer villagers have a 40% chance to sell iron leggings for 7 emeralds. Apprentice-level armorer villagers have a 50% chance to sell chainmail leggings for 3 emeralds. Expert-level armorer villagers always sell enchanted diamond leggings for 18-35 emeralds. Novice-level leatherworker villagers have a 2⁄3 chance to sell randomly dyed leather pants for 3 emeralds.
+Armorer villagers may give the players with the Hero of the Village effect chainmail leggings. ‌
+In Bedrock Edition, novice-level armorer villagers have a 25% chance of selling iron leggings for 7 emeralds. Apprentice-level armorers have a 1⁄3 chance to sell chainmail leggings for 3 emeralds. Expert-level armorers have a 50% chance to sell enchanted diamond leggings for 14 emeralds. Novice-level leatherworker villagers have 50% chance to sell leather pants for 3 emeralds.
+
+
+== Usage ==
+Leggings can be placed in the 3rd armor slot of a player's inventory for activation.
+
+
+=== Defense points ===
+Defense points are each signified by half of a shirt of mail in the armor bar above the health bar. Each defense point reduces any damage dealt to the player that is absorbed by armor by 4%, increasing additively with the number of defense points. Different materials and combinations of armor provide different levels of defense.
+The following table shows the number of defense points added by leggings.
+
+
+=== Knockback resistance ===
+Netherite leggings provide 10% knockback resistance.
+
+
+=== Durability ===
+The following table shows the amount of damage each piece of armor can absorb before being destroyed.
+Any "hit" from a damage source that can be blocked by armor removes one point of durability from each piece of armor worn for every 4 of incoming damage (rounded down, but never below 1). Damage taken but not protected by that armor (such as falling or drowning) does not damage the armor, even if it is enchanted to protect against that type of damage. The following chart displays how many hits leggings can endure.
+Netherite armor is not damaged by lava or fire when worn.
+
+
+=== Enchantments ===
+Leggings can receive the following enchantments:
+
+
+=== Smelting usage ===
+
+
+=== Piglins ===
+Piglins are attracted to golden leggings and pick them up, examining them for 6 to 8 seconds. Piglins can wear other leggings but are not attracted to them. They prefer stronger leggings over weaker leggings, with one exception: They always prefer golden leggings over all other leggings, throwing out stronger leggings in favor of gold leggings. Enchanted leggings are preferred over unenchanted leggings.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Item data ===
+When leather pants are dyed, it has the following NBT:
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Leggings" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Enchanted Leggings ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External Links ==
+Taking Inventory:Leggings – Minecraft.net on February 15, 2019

@@ -1,0 +1,107 @@
+Sends an animation request to clients to make one or more entities play an animation. This command has an equivalent function in the script API: Entity.playAnimation.
+
+
+== Usage ==
+This command only sends an animation request to client sides. The server side doesn't process the animation at all.
+If the target entity is not loaded on the client, the client cannot receive the animation request.
+The client processes the request based on the contents of resource packs, so players using different resource packs in the same server may see different animations.
+
+
+=== Animation controller ===
+Animation controllers are state-machines. State machines are a special kind of logic management, that relies on a series of states. Each state has two properties:
+
+What to do in the current state
+How to transmit to other states
+A state machine can only be in one state at a time. For example if you play an animation on the animation controller controller.animation.player.root on a player, then any other player animations such as sneaking, walking, hand moving, swimming, sleeping, jumping etc. won't play on that player, until this controller returns to a vanilla state. 
+In an animation controller, there are two types of states:
+
+Animation specified state
+Created by /playanimation. Doesn't have a name. Contains animation for what to do in the current state, next_state and stop_expression for how to transmit to the next state, and blend_out_time for fade-out duration. The animation is used as the unique identifier of the state. Can transmit into only one state.
+Resource pack defined state
+Defined by resource packs. Has a name. Contains animations for what to do in the current state, transitions for how to transmit to other states, and blend_transition for fade-out duration. Its name is used as the unique identifier of the state. Can transmit into different states on different conditions.
+/playanimation command cannot interact with resource pack defined states, except to set next_state (of an animation specified state) to it.
+Animation controllers can be defined for an entity type by resource packs with several resource pack defined states (see also official doc). Animation controllers can also be created by this command as described below. There are also animation controllers in behavior packs running on the server side, but they do not control the animation.
+Animation controllers on an entity are not saved and are cleared when the entity becomes unloaded on the client, or when the player leaves and rejoins the game.
+Animation controllers on an entity become their default states when the resource pack is reloaded by minimizing or taping out the client game, but states of the animation controllers won't be cleared.
+Animation controller controller.animation.player.root on a player becomes its default state when the player opens the dressing room, but states of the animation controller won't be cleared.
+
+
+=== Behavior ===
+When the client receives the request, it first creates the specified animation controller on this entity if not existing. Then, the client adds a new animation specified state of the specified animation into the controller and sets the next_state, blend_out_time, and stop_expression for this state. Finally, it sets the currently state to this new state.
+If the specified controller already exists on the targeted entity, and the animation specified state of the specified animation already exists in the controller, when the client receives the request, the next_state dosen't change, the blend_out_time is updated, and the stop_expression becomes original_stop_expression || new_stop_expression. Finally, it sets the current state to this state.
+If specifying an animation controller defined by resource packs, the command work the same as described above. But note that because this command cannot interact with resource pack defined states (except to set next_state to one of them), after playing an animation, to make the controller return to a resource pack defined state, you have to make sure an animation specified state has a next_state that is a resource pack defined state.
+
+
+== Syntax ==
+playanimation <entity: target> <animation: string> [next_state: string] [blend_out_time: float] [stop_expression: string] [controller: string]
+
+
+== Arguments ==
+entity: target: CommandSelector<Actor>
+
+Specifies the targeted entities.
+Must be a player name or a target selector.
+animation: string: basic_string
+
+Specifies a state (animation specified) by specifying an animation. The state will be added into the controller and set as current state of the controller.
+Must be a string. And it must be a single word that has no space or a quoted string.
+Should be an animation name (e.g. animation.wolf.angry for any entity type), or an animation shortcut defined under the Json path "minecraft:client_entity"."animations" in the <a_resource_pack>/entity/<entity_name>.entity.json file (e.g. wolf_angry for only wolf entity). Animation controller shortcuts under this Json path do not work here.
+Be careful when using animations with .v1.0 at the end because it may be incompatible with the version of current world, this may result in lagging and a possible crash.
+If the entered string isn't a valid animation in resource packs, the client does not respond to the animation request.
+next_state: basic_string
+
+Specifies the next_state by specifying an animation (for animation specified states) or a name (for resource pack defined states). Defaults to default if not specified.
+Must be a string. And it must be a single word that has no space or a quoted string.
+Can be an animation shortcut defined under the Json path "minecraft:client_entity"."animations" in the <a_resource_pack>/entity/<entity_type>.entity.json file (e.g. wolf_angry for only wolf entity). Animation controller shortcuts under this Json path do not work here. Animation names do not work here.
+Can also be a name of state from resource packs defined under the Json path "animation_controllers"."<controller_name>.states" in the <a_resource_pack>/animation_controllers/<entity_type>.animation_controller.json file.
+If a resource pack defined state and an animation shortcut have the same name, this name will specify an animation specified state which plays both animations in the resource pack defined state and the animation from shortcut.
+If the entered string is a valid animation shortcut, but the corresponding state doesn't exist in the controller, the controller will still get in this state and then be stuck here and cannot transmit to other states, until the state is created into this controller by another /playanimation command, or the state of the controller is changed by /playanimation command.
+If the entered string isn't a valid animation shortcut or a valid resource pack defined state name, the next state defaults to an empty state that plays no animation.
+blend_out_time: float: float
+
+Specifies the duration of the fade-out after the specified animation stops. Defaults to 0 if not specified.
+Must be a  Single-precision floating-point format number.
+stop_expression: string: basic_string
+
+Specifies the conditions for transmit to the next state.
+Must be a string. And it must be a single word that has no space or a quoted string.
+Should be a Molang expression. Defaults to query.any_animation_finished if not specified.
+For example, if you want the animation to only end once the player starts sneaking: "query.is_sneaking".
+For another example, after running the following two commands, when the player jumps, it quickly switches between the two animations:
+/playanimation @a riding.legs riding.arms 0 query.is_jumping controller_name
+/playanimation @a riding.arms riding.legs 0 query.is_jumping controller_name
+controller: string: basic_string
+
+Specifies a controller on the target entity. Defaults to __runtime_controller if not specified.
+Must be a string. And it must be a single word that has no space or a quoted string.
+Can be any string, or an animation controller from a resource pack defined under the Json object "animation_controllers" in the <a_resource_pack>/animation_controllers/<entity_type>.animation_controller.json file..
+
+
+== Result ==
+
+
+== Output ==
+
+
+== Example ==
+Make the foxes sit down until they leave the ground. Once leaving the ground, the foxes become in sleep state:
+
+/playanimation @e[type=fox] sit sleep 0 "!query.is_on_ground" controller_name
+Or:
+/playanimation @e[type=fox] sit sleep 0 "query.is_on_ground == 0.0" controller_name
+To make a player sit down until they move:
+
+/playanimation @a animation.player.riding.legs a 0 query.is_moving controller_name
+To make a players legs flip upside down into their body until they jump:
+
+/playanimation @a animation.player.move.legs.inverted a 0 query.is_jumping controller_name
+To make a player's body freeze and stop all player animations from playing on that player (Note: the animation controller has to be controller.animation.player.root for this to work):
+
+/playanimation @s sleeping a 0 true controller.animation.player.root
+For some cool combinations you can do with /playanimation go to playanimation combonations. 
+
+
+== History ==
+
+
+== List of animations ==

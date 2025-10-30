@@ -1,0 +1,186 @@
+An elder guardian is a stronger and larger variant of the guardian, and the largest aquatic mob. It attacks the same way as a normal guardian, but also applies Mining Fatigue to players in a large radius around itself. They are only found in ocean monuments; three of them generate in each one.
+
+
+== Spawning ==
+Three elder guardians spawn naturally during the generation of each ocean monument: one in the top room of the monument and the other two in each wing section of the monument. They do not respawn after their initial spawn, thus there are a limited number of them per world. However, they may be squished to death for some reasons, reducing the number available on the monument
+
+
+== Drops ==
+Elder guardians drop the following items:
+
+0–2 prismarine shards – always. Affected by Looting: 1 more drop per level, for a maximum of 5.
+1 wet sponge – when killed by the player. Not affected by Looting.
+20% chance to drop a tide armor trim smithing template, unaffected by Looting.
+One of the following:
+1⁄2 chance: a raw cod (cooked cod if killed by fire‌). Affected by Looting: 0–1 more drops per level, for a maximum of 4.
+1⁄3 chance: prismarine crystals. Affected by Looting: 0–1 more drops per level, for a maximum of 4.
+1⁄6 chance: no drop.
+2.5% chance: a random fish. Affected by Looting: 1% more chance per level, for a maximum of 5.5% with Looting III. This drop uses the same chances that fishing uses, resulting in a 60% chance for raw cod, a 25% chance for raw salmon, a 13% chance for pufferfish, and a 2% chance for tropical fish.
+10 –  when killed by a player or tamed wolf.
+
+
+== Behavior ==
+
+Elder guardians do not swim around as much as normal guardians. Elder guardians do not swim away when approached by a player it is targeting, unlike regular guardians. Like normal guardians, elder guardians attempt to attack both the player and squid.
+The elder guardian's eye follows and stares at any nearby players, and always looks directly at its target. The eye still follows a player under the effects of Invisibility or in Spectator mode, but doesn't attack.
+Elder guardian are considered aquatic mobs, and thus are affected by the Impaling enchantment. ‌ ‌
+The elder guardian has three methods of attacking, including firing its laser, inflicting Mining Fatigue, and a defensive thorn-like attack. 
+The elder guardian pathfinds toward an ocean monument if it is not within one. 
+An elder guardian attacks axolotls that are not playing dead. Otherwise, an elder guardian does not attack mobs (such as iron golems) that attack it, although the attacking mob takes damage from the elder guardian's natural spikes defense.
+
+
+=== Laser ===
+
+The laser takes several seconds to charge, doing no damage and allowing the player to move away in the meantime. As it charges it turns from purple to bright yellow (thus acting as a warning indicator). Once charged, the beam flashes green, abruptly ends, and deals 12 × 6 damage on Hard difficulty. The elder guardian swims around for a few seconds before firing again. The beam cannot be dodged and has a maximum range of approximately 14 blocks. Once the player is out of range, if the beam is obstructed by solid blocks, or if the player has a shield, the guardian's beam disengages from the player and deals no damage.
+
+
+=== Inflicting Mining Fatigue ===
+In Java Edition, immediately after spawning and once each minute thereafter, the elder guardian searches for any player within a spherical radius of 50 blocks to afflict with Mining Fatigue III. In Bedrock Edition the elder guardian inflicts any unafflicted player within range immediately.
+When afflicted, the player sees a ghostly image of the elder guardian and hears a ghostly noise. The effect decreases a player's attack speed by 30% and decreases mining speed even more for 5 minutes. The attack targets players through blocks, even underground, and a potion of Invisibility offers no defense. This is not considered an attack in regards to the Thorns enchantment.
+The image of the elder guardian is a particle effect that can be recreated by issuing the command /particle minecraft:elder_guardian.‌
+
+
+=== Spikes defense ===
+An elder guardian deals 2 (3 on Hard mode) of damage every time it is hit while its spikes are extended, similar to the Thorns enchantment on armor. If cornered by a player or axolotl, the elder guardian usually extends its spikes and fires at point-blank range.
+
+
+=== Elder Guardian Ghost ===
+                                                                           
+
+The elder guardian ghost is an unused mob added in beta 1.13.0.4. Its file isn't included in the behavior pack, and it can be spawned only by using the command /summon elder_guardian_ghost ~ ~ ~. The elder guardian ghost has defensive spikes.
+The elder guardian ghost has the same model and texture as the elder guardian, but uses the player hurt sound, has less health, and is missing the back tail model. When spawned outside of water, it floats upward until it despawns, similar to a mob tied to a balloon, or under a high level of levitation effect, but it passes through blocks. 
+The elder guardian ghost itself isn't immune to suffocation damage, and drops only experience. It behaves similar to custom mobs added in behavior packs with broken AI; the mobs float upward and pass through blocks when hit. 
+If an elder guardian ghost is spawned underwater, it slowly sinks downward, passing through all blocks (including bedrock), until it eventually it falls into the void and dies. When underwater, the elder guardian ghost can rotate its body, look at players, and swim while slowly sinking downward.
+
+
+== Sounds ==
+Java Edition:
+Elder guardians use the Hostile Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Elder guardians have entity data associated with them that contains various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== Video ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Elder Guardian" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+The elder guardian has been referred to as a boss by Mojang Studios sources on several occasions. This includes in official blog posts as well as on social media, the most such references to any mob with this status in Minecraft.
+The elder guardian's eye is the "head" part of the mob's model, giving the illusion of a dynamic eye.
+The elder guardian texture has the name "jeb" on it.
+According to Jeb, elder guardians were introduced to encourage players to solve the temple maze rather than dig through it easily. He acknowledges there are ways around it, but players still have to solve the challenge in a different way.
+Also according to Jeb, the "jump scare" reaction caused by an elder guardian's Mining Fatigue infliction animation is unintentional; instead, he added it to provide a visual cue as to why players get slowed down by Mining Fatigue.
+In Java Edition 3D Shareware v1.34, elder guardians drop blue keys.
+In Bedrock Edition, elder guardians make their underwater death sounds if killed on land. Like guardians, they do not make flopping sounds in Bedrock Edition.
+
+
+== Gallery ==
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External links ==
+Meet the Elder Guardian – Minecraft.net on November 6, 2017

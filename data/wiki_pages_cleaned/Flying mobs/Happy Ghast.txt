@@ -1,0 +1,23 @@
+A happy ghast is a passive mob added in Chase the Skies. Unlike its hostile counterpart, the ghast, it is passive towards players and can be ridden by using a harness. It was revealed in Minecraft Live - March 2025.
+A ghastling is a baby version of the happy ghast, which can be spawned by soaking a dried ghast in water for 20 minutes.
+
+To spawn a happy ghast, it requires soaking a dried ghast block in water for 20 minutes. The block then transforms into a ghastling. Ghastlings can neither be harnessed nor ridden until they become fully grown. Feeding it with snowballs can speed up the process.
+Happy ghasts can also be spawned directly by using the /summon command, or by using its spawn egg.
+
+Ghastlings spawn up after the dried ghast block gets hydrated in water for 20 minutes. Ghastlings can also be spawned directly by using this command: /summon happy_ghast ~ ~ ~ ~ ~ minecraft:spawn_baby(in Bedrock) and /summon happy_ghast ~ ~ ~ {Age:-999}. There is also a 5% chance of spawning a ghastling directly when spawned using a spawn egg. From here, the player can skip waterlogging a dried ghast. Ghastlings do not take damage from drowning in water.
+
+Happy ghasts can follow or fly towards, when the player is holding a harness. The player can easily equip the harness on the happy ghast and right-click on the ghast to mount it. When mounted, the harness goggles will flip down. Harnessed happy ghasts can allow up to 4 players to mount them. Players cannot mount unharnessed happy ghasts, unless they use the /ride command.
+If a player stands on top of an unharnessed happy ghast, the happy ghast will stop moving, allowing the player to move around its top, like it is a flat platform. The happy ghast will also stop when it is harnessed and the player is standing on it. If a player flies a happy ghast into water (a pillar), the player will be dismounted from the happy ghast.
+
+Happy ghasts can be leashed, in order to stop them flying further away. Players can attach leashed boats and chest boats to the happy ghasts, allowing them to transport entities and items over long distances.
+Mobs leashed to the happy ghasts will not take any damage when the happy ghasts fly downward onto a flat platform.
+
+Happy ghasts have a slightly smaller body size compared to the regular ghasts, with shorter tentacles. What makes this passive mob different from its hostile counterpart is its happy smile on its face. They are 4 x 4 x 4 blocks big.
+Ghastlings are smaller than ghasts. Their tentacles are also shorter than their body size. They are slightly bigger than average blocks, thus they can easily fit through a 2-block-wide opening. Apart from its happy smile, it has pink gills underneath its skin. According to Mojang, these mobs are very curious and fly around like a balloon, creating an imprint on a nearby player or a mob.
+
+A group of happy ghasts or ghastlings is called a "chuckle".
+The concept of the happy ghast came from both Minecraft Legends and A Minecraft Movie.
+In A Minecraft Movie, the ghasts are apparently seen brutally mistreated by the piglins with chains and spears, when attacking the "Roundlings".
+In Minecraft Legends, the concept was depicted as a flying, rideable ghast mount.
+
+Issues relating to "Happy Ghast" are maintained on the bug tracker. Report issues there.

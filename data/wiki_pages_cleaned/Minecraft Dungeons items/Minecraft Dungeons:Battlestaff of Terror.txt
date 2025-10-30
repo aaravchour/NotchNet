@@ -1,0 +1,27 @@
+The battlestaff of terror is a unique battlestaff variant that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Lower Temple
+Windswept Peaks (DLC)
+Colossal Rampart (Adventure, DLC)
+Nether Wastes (Apocalypse, DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Oozing Menace
+
+The battlestaff of terror possesses moderate power, low speed, and moderate range. Its attack combo consists of two side swings, one wide swing, one slam, two stabbing moves, two side twirls, one spin attack, and one powerful slam. Its combo resets after 0.5 seconds, unlike most other weapons which reset their combos after three seconds.
+
+ X melee damage
+ Stylish combo
+ Defeated mobs explode (Exploding tier I)
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+Issues relating to "Battlestaff of Terror" are maintained on the bug tracker. Report issues there.

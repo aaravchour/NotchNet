@@ -1,0 +1,9 @@
+Similar to /execute, but executes the command to the executor.
+
+executeasself <command: rawText>
+
+command: rawText
+Specifies the command to be run. Must be a valid command.
+
+Fails if ...
+On success, ...

@@ -1,0 +1,223 @@
+This guide will give you an explanation and walk-through of the best enchantments you can apply to everything that can be enchanted in the game.
+This page assumes that the world is created and played in the latest game version. However, it is possible to obtain different and more extreme enchantment combinations on prior versions; early 1.14 releases notably allow more than one protection enchantment to be applied to a single piece at a given time. 
+The enchantments are sorted from highest to least priority.
+On this page, an anvil sign means that the enchantment cannot be obtained via enchanting table, and must be added through an anvil.
+
+
+== Armor ==
+Have at least one piece with protection, preferably the pants, or just enchant your entire armor set with protection (save for one situational enchantment on the chestplate).
+Unbreaking is not as necessary on armor as on tools and weapons. Unbreaking III on a piece of armor only makes it last about 43% longer, but for a tool or a weapon, its durability is effectively quadrupled.  
+
+
+=== Helmet ===
+Mending 
+Protection IV or Projectile Protection IV or Blast Protection IV or Fire Protection IV
+Unbreaking III
+Respiration III
+Aqua Affinity  (Optional. Makes mining underwater faster)
+Thorns III  (Optional. Consumes extra Durability)
+There are multiple enchantment orders with the same cost in levels. At the same total costs in levels the cost in XP can still be different. For example two steps costing 2 and 4 levels require more XP than two steps costing 3 levels each. The optimal enchantment orders is {[(Helmet + Respiration III)@6 + (Protection IV + Aqua Affinity)@2]@8 + (Unbreaking III + Mending)@2}@9 with a cost of 6 + 2 + 2 + 8 + 9 = 27 levels.
+
+
+=== Chestplate ===
+Mending 
+Protection IV or Projectile Protection IV or Blast Protection IV or Fire Protection IV
+Unbreaking III
+Thorns III (Optional. Consumes extra Durability)
+The optimal enchantment orders is [(Chestplate + Protection IV)@4 + (Unbreaking III + Mending)@2]@7 with a cost of 4 + 2 + 7 = 13 levels.
+
+
+=== Leggings ===
+Mending 
+Protection IV or Projectile Protection IV or Blast Protection IV or Fire Protection IV
+Unbreaking III
+Thorns III  (Optional. Consumes extra Durability)
+Swift Sneak III 
+The optimal enchantment orders is [(Leggings + Protection IV)@4 + (Unbreaking III + Mending)@2]@7 with a cost of 4 + 2 + 7 = 13 levels.
+
+
+=== Boots ===
+Mending 
+Protection IV or Projectile Protection IV or Blast Protection IV or Fire Protection IV
+Feather Falling IV
+Unbreaking III
+Depth Strider III or Frost Walker II (Depth Strider overall preferred, as it is used in more circumstances)
+Soul Speed III  (Optional. Consumes extra Durability)
+Thorns III  (Optional. Consumes extra Durability)
+There are multiple enchantment orders with the same cost in levels. At the same total costs in levels the cost in XP can still be different. For example two steps costing 2 and 4 levels require more XP than two steps costing 3 levels each. The optimal enchantment orders is {[(Boots + Depth Strider III)@6 + (Protection IV + Unbreaking III)@3]@9 + (Feather Falling IV + Mending)@2}@10 with a cost of 6 + 3 + 2 + 9 + 10 = 30 levels.
+
+
+==== Feather Falling ====
+When obtaining Feather Falling from an enchanting table, the player should not enchant at level 30, but reduce to levels 22, 24 or 26. At level 30, there is only about a 3% chance to obtain Feather Falling on a pair of diamond boots; but using level 24 and 26, the chance is a much-higher 30%; at level 22, the chance is as high as 44%. The enchantment level can be reduced by placing torches or any other block between the enchanting table and the bookshelves, which prevents the enchanting table from detecting the bookshelves.
+
+
+== Weapons ==
+
+
+=== Sword ===
+Unbreaking III
+Mending 
+Sharpness V (for general use) or Smite V (for fighting undead mobs, such as wither and wither skeleton farms) or Bane of Arthropods V (allows 1-hit killing of all arthropods)
+Sweeping Edge III ‌ (Deals more damage to multiple mobs while standing still, useful for XP farms, though you may accidentally hit your pets if they're too close)
+Looting III (must-have for manual mob farms)
+Fire Aspect II (Optional. Makes endermen a hassle to fight, since they teleport everywhere while on fire; hostile mobs that are set on fire set you on fire on melee attacks; cooks food dropped by cows, pigs, hoglins, sheep, chickens, rabbits, cod, and salmon even in rain; also useful in PVP).
+Knockback II (Optional. Can make drowneds and skeletons a hassle to fight; useful against creepers)
+Knockback is a fairly controversial enchantment. Some players absolutely hate it, especially in SMPs and PVP fights, while other players add it to knock away mobs like creepers and piglin brutes. In Netherite PVP, Knockback I allows you to knock away enemies while still being able to reach them but Knockback II knocks the enemy away too far, making it hard for you to launch a counterattack. 
+1) Sword + Looting III (6 levels, 72 experience) 
+2) Sweeping Edge III + Unbreaking III (3 levels, 27 experience) 
+3) [1] + [2] (11 levels, 187 experience) 
+4) Sharpness V + Knockback II (2 levels, 16 experience) 
+5) [3] + [4] (11 levels, 187 experience) 
+6) Fire Aspect II + Mending (2 levels, 16 experience) 
+7) [5] + [6] (14 levels, 280 experience) 
+
+
+=== Axe ===
+Unbreaking III
+Mending 
+Efficiency V
+Sharpness V  or Smite V  (allows 1-hit killing of most undead mobs like Zombies and wither skeleton) or Bane of Arthropods V  (allows 1-hit killing of arthropods) or Cleaving III [upcoming: JE Combat Tests] (extends shield stun duration and increases damage) [note that axes are more useful for combat on Java Edition in the early game]
+Silk Touch (useful for melons, bookshelves and beehives) or Fortune III (only slightly useful for melons)
+
+
+=== Mace ===
+Unbreaking III
+Mending
+Wind Burst III
+Fire Aspect II
+Density V or Breach IV or Smite V or Bane of Arthropods V
+
+
+=== Bow ===
+Infinity or Mending 
+Power V
+Unbreaking III
+Flame
+Punch II (Optional)
+Infinity means without Unbreaking you need 383 fewer arrows. With Unbreaking I / II / III you need on average 767/1151/1535 less arrows (1536=24 stacks). Mending means your bow will never break if you continually gain enough experience, which will likely happen. If you have an enchanting setup and a lot of iron for anvils, Infinity is better, unless you can obtain large quantities of arrows with ease. Another exception would be if you got a powerful bow early game, for example from fishing: Mending would be better because you won't have a lot of iron or an enchanting table early on. It's worth noting as well that Infinity doesn't work with tipped arrows, so Mending is preferable when the player uses tipped arrows as ammunition (for example, Arrows of Slowness from a stray farm). Punch II is optional, as knockback can sometimes be a nuisance. Some pros of Punch include being able to knock away high-damaging mob such as creepers, piglin brutes and vindicators. It's also useful when being repeatedly hacked by an enemy player and for bow-boosting. 
+There are multiple enchantment orders with the same cost in levels. At the same total costs in levels the cost in XP can still be different. For example two steps costing 2 and 4 levels require more XP than two steps costing 3 levels each. The optimal enchantment orders is {[(Bow + Power V)@5 + (Infinity + Unbreaking III)@3]@9 + (Punch II + Flame)@2}@10 with a cost of 5 + 3 + 2 + 9 + 10 = 29 levels.
+
+
+=== Crossbow ===
+Quick Charge III 
+Multishot or Piercing IV *
+Unbreaking III
+Mending 
+Crossbows can only receive up to Quick Charge II through an enchanting table. Quick Charge III must be obtained via other means: either by combining two crossbows in an anvil, using enchanted books, or via mob drops.
+Multishot allows the user to shoot three projectiles for the cost of one. Piercing allows the retrieval of arrows which hit a mob, similar to Infinity. They are mutually exclusive.  
+
+
+=== Trident ===
+Mending  (must-have, as tridents can otherwise only be repaired with other tridents)
+Unbreaking III
+Loyalty III and Channeling or only Riptide III *
+Impaling V (useful for fighting guardians, but not drowneds‌, or underwater combat in general‌)
+Loyalty can be useful for fighting mobs in any weather conditions. Loyalty will make your trident come to you automatically, unless you throw it into the void‌. 
+Riptide is useful for fast transportation in certain weather conditions or underwater, it can also be used as a reliable substitute of firework rockets for elytra as long as there is a water source nearby, or it is raining. 
+Channeling makes a lightning strike on any mobs you attack with your trident (only works under thunderstorms). This can be used to turn villagers into witches, pigs into zombified piglins, red mooshrooms into brown mooshrooms, and creepers into charged creepers. A charged creeper's explosion will cause a nearby mob to drop its head (such as zombies, skeletons, and other creepers) so this enchantment is useful for farming mob heads. But beware of that as charged creepers' explosions can one shot you even with full Protection IV netherite armor so a totem is recommended. 
+Impaling is almost useless in Java Edition, as they only work against underwater mobs such as guardians. However, in Bedrock Edition, Impaling affects everyone as long as they're exposed to water or rain, making it useful in PVP. 
+
+
+== Tools ==
+
+
+=== Pickaxe ===
+Unbreaking III
+Mending 
+Fortune III (useful for ores) or Silk Touch (useful for ice, stone, etc.)
+Efficiency V (allows instant mining of many blocks)
+Fortune III has the highest priority when you mine for ores, especially diamonds.
+Efficiency V, when combined with the Haste II effect obtained from beacons, allows the instant mining of stone, making mining much faster.
+Silk Touch is useful for a variety of blocks. A notable one is the ender chest, a block used frequently in late-game, which can only be retrieved with a Silk Touch pickaxe. Others include stone (for stone bricks or selling to villagers), bee nests, and glass.
+
+
+=== Shovel ===
+Unbreaking III
+Mending 
+Efficiency V
+Silk Touch (useful for grass blocks or gravel) or Fortune III (useful for flint)
+
+
+=== Hoe ===
+Unbreaking III
+Mending 
+Efficiency V (allows instant mining of all blocks mineable with a hoe)
+Silk Touch (useful for obtaining leaves or blocks in the Sculk family) or Fortune III (useful for obtaining apples and saplings from leaves, or obtaining more Potato or Carrot from Crops)
+
+
+=== Axe ===
+Unbreaking III (needs in Bedrock Edition)
+Mending 
+Efficiency V
+Sharpness V
+Silk Touch (useful for melons, bookshelves, beehives or mushroom blocks) or Fortune III (only slightly useful for melons and mushroom blocks)
+
+
+=== Fishing Rod ===
+Unbreaking III
+Mending 
+Luck of the Sea III
+Lure III
+
+
+=== Shears ===
+Unbreaking III 
+Mending 
+Efficiency V  (allows instant mining of wool)
+Silk Touch (useful for cobweb)‌
+It is usually not recommended to enchant shears at all, as they can only be enchanted through an anvil, and they are crafted with iron ingots which are very easy to come by in late-game. So only enchant them if you have an abundance of enchanted books of the above categories. 
+
+
+=== Flint and Steel ===
+Unbreaking III 
+Mending 
+Similar to shears, flint and steel is not recommended to be enchanted. However, it can be useful in situations when you want a long lasting flint and steel.  
+
+
+=== Shield ===
+Unbreaking III 
+Mending 
+Shields are a great substitute in place of totems and are especially useful when utilised correctly in SMP PVP. However, shields are almost useless in high ping and against explosives (1.19.2 and below). Also, putting a banner on a shield makes it look cooler, the banner pattern will however be downgraded to the pixel size of the shield.
+
+
+=== Carrot on a Stick ===
+Unbreaking III 
+Mending 
+Being one of the least used tools in the game, it is not recommended to obtain the tool in the first place, not to mention enchanting it. 
+
+
+=== Warped Fungus on a Stick ===
+Unbreaking III 
+Mending 
+This tool is not recommended to be enchanted, for reasons similar to carrot on a stick stated above. In addition, even if its durability is depleted, it will simply turn into a fishing rod, which means the player can simply craft the rod with another warped fungus in their inventory to make a new one.
+
+
+=== Elytra ===
+Unbreaking III 
+Mending 
+It is almost necessary to apply these two enchantments to elytra, as they are one of the most useful modes of transportation in late-game. Unbreaking is needed to quadruple the elytra's airborne time, since elytra breaking in mid-air can be deadly; Mending is the most effective way to repair elytra, as otherwise they can only be repaired with phantom membranes or other elytras in an anvil, and the cost increases over time.
+
+
+=== Brush ===
+Unbreaking III 
+Mending 
+Similar to shears & flint and steel, brushes are not recommended to be enchanted. However, it can be useful in situations when you want a long lasting brush.  
+
+
+== Conflicting Enchantments ==
+Conflicting enchantments are enchantments that cannot be combined on the same armor, weapon or tool without /give or changing the playerdata.nbt using a NBT editor. The following enchantments cannot be combined:
+
+Protection, Projectile Protection, Blast Protection, and Fire Protection cannot be combined (in 1.14 until 1.14.2, they can be enchanted together)
+Sharpness, Smite, Bane of Arthropods, and Cleaving [upcoming: JE Combat Tests] cannot be combined.
+Silk Touch and Fortune cannot be combined.
+Infinity and Mending cannot be combined (before 1.11.1, they can be enchanted together)
+Piercing and Multishot cannot be combined.
+Both Loyalty and Channeling cannot be combined with Riptide.
+Frost Walker and Depth Strider cannot be combined.
+
+
+== Further guide ==
+The following armor enchantments cannot be combined: Protection, Projectile Protection, Blast Protection, and Fire Protection. Protection prevents half the damage that would be blocked by the other three. Protection is better, but there are sometimes other factors you should take into account. If you fall often in lava, it would be better to put Fire Protection on your armor. If you die often from creeper explosions, put Blast Protection armor on.
+Note: More than 20 Enchantment Protection Factor (EPF) is useless. 1 Level of Protection = 1 EPF, 1 Level of specific type of Protection = 2 EPF. For example, two pieces of armor with Blast Protection IV (EPF 8 each) and a single piece with Protection IV (EPF 4) would give a total EPF of 20 versus explosions. 
+The following sword/axe enchantments cannot be combined: Sharpness, Smite, and Bane of Arthropods. Depending on what you want to do with the sword or axe, you can choose the most suitable. Sharpness is useful for general use, Smite is useful against undead mobs (skeletons, zombies, withers, etc.), Bane of Arthropods is useful against Arthropods (spiders, cave spiders, bees, silverfish, and endermites). Each level of Smite and Bane of Arthropods deals 2.5 extra damage to the specific group of mobs. Sharpness deals 1.25 extra damage [Bedrock Edition] and 0.5 * level + 0.5 extra damage in Java Edition. If you are going to battle a lot of undead mobs (with the same sword or axe) more than every third[Bedrock Edition] / fourth[Java Edition, level I to II] / fifth[Java Edition, level III to V] time, Smite deals the most damage. The same rule is not fully valid for choosing Bane of Arthropods, as Arthropods have low health, meaning Sharpness should be enough. Sharpness is the best choice, so have another sword with Smite for zombie farming (optional), or carry both a sharpness sword and a smite sword (optional, only if you have good inventory management).
+Aside from curses, there aren't any enchantments that should be avoided with other tools.

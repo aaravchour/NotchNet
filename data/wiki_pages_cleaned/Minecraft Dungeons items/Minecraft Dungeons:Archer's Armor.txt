@@ -1,0 +1,24 @@
+The archer's armor is a unique hunter's armor variant that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Creeper Woods
+Creepy Crypt
+Pumpkin Pastures
+Dingy Jungle (DLC)
+Gauntlet of Gales
+Tower
+Treetop Tangle
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+
+Barrage
+
++15% movespeed aura
++10 arrows per bundle
++30% ranged Damage
+
+Issues relating to "Archer's Armor" are maintained on the bug tracker. Report issues there.

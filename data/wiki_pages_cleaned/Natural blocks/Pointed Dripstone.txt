@@ -1,0 +1,49 @@
+Pointed dripstone is a block that makes up stalactites and stalagmites. 
+Stalactites (which point downward) can be used as falling projectiles, to renewably drip water and lava into cauldrons and to convert mud into clay. 
+Stalagmites (which point upward) deal extra damage to players and mobs that land on them. 
+
+Pointed dripstone can be found in dripstone caves in cluster formations.
+
+Pointed dripstone can be mined with any tool, but pickaxes are the quickest. Pointed dripstone breaks instantly when hit by a thrown trident. 
+
+Wandering traders can sell 2 pointed dripstone for 1 emerald.
+
+Stalactites grow extremely slowly, they need to be hanging off a dripstone block with a water source above. In addition, if there is a solid block less than eleven blocks below this stalactite, a stalagmite grows on that block toward the stalactite. This growth does not occur in water. They do not grow to more than seven blocks long.
+Every time the block receives a random tick there is a small chance of 1.138% (645625) for a stalactite or stalagmite to grow one block, meaning that every single growth step takes an average time of 5 in-game days (100 minutes).
+
+Pointed dripstone comes in two different forms, stalactites and stalagmites. Placing a pointed dripstone between a stalagmite and stalactite without sneaking connects them. It can be waterlogged. Mobs can jump up pointed dripstone as long as its height does not exceed four blocks. Horses and other similar mobs can travel up the same pointed dripstone as if they were stairs.
+
+Stalactites are created when pointed dripstone is placed on the bottom of a block.
+Stalactites less than 11 blocks tall passively drip water particles (or lava particles in the Nether) in the absence of a liquid source, but these particles do not fill cauldrons. A waterlogged pointed dripstone at the tip of a stalactite does not produce drip particles. Waterlogging other parts of the stalactite does not affect the dripping.
+If the block supporting a stalactite or any block of the stalactite is broken, all of the unsupported pointed dripstone below the broken block drops, causing damage to any player and mobs standing beneath it, similar to a falling anvil. The amount of damage is 6 for each block of falling distance after 2 blocks (e.g., a stalactite that falls 4 blocks deals 18  9 damage). The damage is capped at 40  20, no matter how far the stalactite falls. Wearing a helmet reduces the damage by 14, but this costs twice as much durability on the helmet as on other armor pieces. When a player dies by a stalactite falling on them, the death message "<player> was skewered by a falling stalactite" appears. However, if a player is merely touched by a falling stalactite entity, no damage is dealt unless the stalactite hits the ground in the same block where the player is located. Stalactites with multiple pointed dripstone can cause multiple damage; however, damage immunity prevents most of the damage from additional blocks.
+
+When the uppermost block of a stalactite less than 11 blocks tall gets randomly ticked, it checks for a water source two blocks above it and a cauldron within 10 blocks under the tip with no non-air blocks in between. If both conditions are satisfied, there is a 45256 (~17.6%) chance for it to drip water and fill the cauldron by one level. If there is a lava source above the stalactite, there is a 15256 (~5.9%) chance for it to completely fill an empty cauldron with lava instead, making lava a renewable resource. Refilling a cauldron with water or lava averages nearly one Minecraft day (19+ minutes) although the actual time for any individual refill varies.
+Flowing water and lava will not cause the stalactite to fill the cauldron. The liquid must be a source block. Waterlogged blocks also do not cause the cauldron to fill.
+
+If mud is placed above a block with a stalactite underneath, it eventually turns into clay. This conversion does not happen in the Nether.
+
+Stalagmites are created when pointed dripstone is placed on the ground.
+Falling onto stalagmites multiplies the fall distance by two to calculate the total amount of fall damage, using the formula ceil(fall_distance  2  2).
+If a player dies from falling onto a stalagmite, the death message "<player> was impaled on a stalagmite" appears.
+All mobs that are immune to fall damage do not take damage from falling into stalagmites, the same applies to the player if the game rule fallDamage is set to false.
+
+Dripstone columns can be found naturally in dripstone caves, they are formed when stalactites and stalagmites join together in mid-air.
+To create them manually, simply keep stacking pointed dripstones on either the stalactite or the stalagmite or both until they join together, the last pointed dripstone placed being the most slender part of the whole column. Based on the direction of the last block placed, the shape of the column's slender part can vary.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Pointed Dripstone" are maintained on the bug tracker. Report issues there.

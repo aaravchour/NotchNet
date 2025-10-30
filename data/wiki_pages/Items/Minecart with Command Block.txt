@@ -1,0 +1,57 @@
+A minecart with command block is an impulse‌ or repeating‌ command block inside a minecart.
+
+
+== Obtaining ==
+The minecart with command block is obtainable only using the command /give @s command_block_minecart, as it does not appear in the creative inventory‌ and has no crafting recipe. It can also be summoned using the command /summon command_block_minecart. It can be broken like any other minecart, but only the minecart is retained, while the command block is lost.
+
+
+== Usage ==
+
+The minecart with command block combines the functionalities of both minecarts and command blocks. Although the minecart visually contains an impulse command block, it functions more similarly to a repeating command block, and runs its command once every four game ticks when on an active activator rail. When it passes over a detector rail with a comparator connected next to it, it outputs the command block's result.
+
+
+== Sounds ==
+Java Edition:
+Minecarts with command blocks use the Friendly Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Minecarts with command blocks have entity data associated with them that contain various properties of the entity. 
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Minecart with Command Block" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

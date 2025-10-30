@@ -1,0 +1,123 @@
+A sponge is a block that can be placed to remove water in an area around itself. This turns it into a wet sponge, which can be smelted or placed in the Nether to dry it to be reused. Sponges can only be found in ocean monuments.
+
+
+== Obtaining ==
+Either type of sponge can be mined by hand, or with any tool, dropping itself as an item; however, hoes break sponges the fastest compared to other tools.
+
+
+=== Mob loot ===
+
+
+==== Elder guardians ====
+An elder guardian always drops one wet sponge when killed by the player.
+
+
+=== Natural generation ===
+Ocean monuments can generate "sponge rooms." Each room contains an average of 30 wet sponges. See Ocean Monument/Structure for details.
+
+
+=== Smelting ===
+A wet sponge can be dried in a furnace, making the sponge reusable. 
+
+
+=== Drying ===
+A wet sponge placed in the Nether dries out instantly with a puff of steam and turns into a normal sponge.
+A wet sponge placed in any dry biome in the Overworld dries out after a few minutes and turns into a normal sponge.‌
+If a normal sponge comes into contact with water in a dry biome, it absorbs the water and immediately dries out with a puff of steam.‌
+
+
+== Usage ==
+
+A sponge can be used to turn water into air by "absorbing" the water. A sponge instantly absorbs nearby water when it is placed next to water or when water comes into contact with it. Sponges immediately turn wet upon absorption and do not absorb any more water afterwards. Wet sponges drip small water particles. Sponges in item form do not absorb water or become wet.
+A sponge absorbs both flowing and source blocks of water up to 7 blocks away (taken as a taxicab distance) in all six directions around itself. Instead of a cube or a sphere, this effectively encloses the volume of an octahedron with vertices placed 7 units away from the center in each direction due to the game's extensive use of taxicab distance. A sponge does not absorb more than 118 blocks of water however, and water closest to the sponge is absorbed first. The absorption propagates only between adjacent water blocks and does not "jump over" non-water blocks, including air.
+
+
+== Sounds ==
+
+
+=== Generic ===
+
+
+==== Sponge ====
+Java Edition:
+
+Bedrock Edition:
+
+
+==== Wet sponge ====
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Unique ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+In Bedrock Edition, sponges use the following block states:
+Bedrock Edition:
+
+
+== Achievements ==
+
+
+== History ==
+
+
+=== Data history ===
+
+
+== Issues ==
+Issues relating to "Sponge" or "Wet Sponge" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External Links ==
+Block of the Week: Sponge – Minecraft.net on March 24, 2017

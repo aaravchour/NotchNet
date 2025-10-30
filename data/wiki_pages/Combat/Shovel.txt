@@ -1,0 +1,189 @@
+Shovels are tools used to hasten the process of breaking dirt, sand, gravel, and other soil blocks, as well as to convert dirt blocks into dirt paths.
+
+
+== Obtaining ==
+
+
+=== Crafting ===
+
+
+=== Upgrading ===
+Like other diamond tools, a diamond shovel can be upgraded to a netherite shovel, although increased durability and resistance to fire/lava in item form are the only benefits. The shovel's performance as a digging tool or a weapon is unchanged by the upgrade.
+
+Netherite Upgrade +Diamond Shovel +Netherite Ingot
+
+
+=== Repairing ===
+
+
+==== Grinding ====
+
+
+==== Unit repair ====
+ 
+A shovel can be repaired in an anvil by adding units of the tiers' repair material, with each repair material restoring 25% the shovel's maximum durability, rounded down. It also keeps the shovel's enchantments.
+
+
+=== Chest loot ===
+On ancient_city/city_center/city_center_2, they generate a furnace with a wooden shovel inside of it.
+
+
+=== Mob loot ===
+
+
+==== Equipment ====
+
+Zombies and husks have a 0.67% (3.33% in Hard difficulty) chance of spawning with an iron shovel. They have an 8.5% (9.5% with Looting I, 10.5% with Looting II and 11.5% with Looting III) chance of dropping that shovel if they are killed by the player. The dropped shovel is usually badly damaged, and may be enchanted: 0%–25% on Normal difficulty and 3.125%–25% on Hard difficulty, varying with regional difficulty, and enchanted as if on an enchanting table at level 5–22.
+
+
+==== Raids ====
+Vindicators and pillagers that spawn from raids have a 4.1% chance(5.12% on hard) to drop a badly-damaged iron shovel that is sometimes enchanted with a random enchantment.‌
+
+
+=== Trading ===
+Novice-level toolsmith villagers have a 25% chance to sell stone shovels for one emerald, journeyman-level toolsmith villagers have a 25% chance to sell enchanted iron shovels for 2 emeralds, and expert-level toolsmith villagers have a 50% chance to sell enchanted diamond shovels for 5 emeralds as part of their trades.‌
+Novice-level toolsmith villagers have a 40% chance to sell stone shovels for one emerald, journeyman-level tool smiths have a 40% chance to sell an enchanted iron shovel for 7-22 emeralds, and expert-level tool smiths have a 2⁄3 chance to sell an enchanted diamond shovel for 11-27 emeralds.‌
+The enchantments are the same as the ones obtained from an enchanting table at levels 5–19.
+
+
+=== Villager gifts ===
+in Java Edition, toolsmith villagers occasionally throw stone shovels at players with the Hero of the Village effect.
+
+
+== Usage ==
+
+
+=== Digging ===
+A shovel can be used to break some materials faster. When breaking a block, it uses 1 durability. For blocks that break instantly, it uses 0 durabilities.
+
+
+==== Durability ====
+Each different tier of shovel has a different durability:
+
+
+==== Speed ====
+The following table summarizes the speed at which different quality shovels perform on different block types. Values with a red background indicate that no resource is dropped when the block is destroyed without a shovel. 
+
+
+=== Dirt paths ===
+A shovel can be used to create a dirt path by using (not digging) the shovel on any one of the following blocks, losing one durability point:
+
+Grass Block
+Dirt
+Coarse Dirt
+Rooted Dirt
+Podzol
+Mycelium
+
+
+=== Campfire ===
+A shovel can be used to extinguish a campfire.
+
+
+=== Weapon ===
+Hitting a mob while holding a shovel is a stronger attack than barehanded. Shovels take 2 damage when used as a weapon.
+
+
+==== Java Edition ====
+Shovels have an attack speed modifier of -3, meaning they take 1 second to recover. Shovels deal different damage based on the type:
+
+
+==== Bedrock Edition ====
+In Bedrock Edition, shovels always attack instantly and do the following damage:
+
+
+=== Enchantments ===
+A shovel can receive, or be found in an end city with the following enchantments:
+
+
+=== Fuel ===
+Wooden shovels can be used as a fuel in furnaces, smelting 1 item per shovel.
+
+
+=== Smelting ingredient ===
+
+
+=== Piglins ===
+Piglins are attracted to golden shovels and run toward any golden shovels on the ground, and inspect it for 6 to 8 seconds before putting it in their inventory.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== Video ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Shovel" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Enchanted shovels ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External links ==
+Taking Inventory: Shovel – Minecraft.net on November 16, 2018

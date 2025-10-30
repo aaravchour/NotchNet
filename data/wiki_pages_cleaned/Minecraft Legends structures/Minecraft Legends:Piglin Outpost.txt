@@ -1,0 +1,13 @@
+A piglin outpost is a piglin structure within Minecraft Legends
+
+Piglin outposts generate in groups of three, each group with it's own horde type, and each outpost with a difficulty level from easy to medium to hard, with three types of the hordes in total. They can be located with on your map, with a nether portal icon. and are destroyed when the portal in the middle is destroyed. Once destroyed, all piglins will vanish along with most of the structures at that outpost.
+
+Piglin Gate
+Piglin Walls
+Blaze Rod Tower
+Furnace Tower
+Nether Spreader
+Spike Tower
+Piglin Pit
+Piglin Launcher
+Gold Extractor

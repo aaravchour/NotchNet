@@ -1,0 +1,21 @@
+The hungriest horror is a unique mercenary armor variant that could be found within the Spooky Fall 2022 event of Minecraft Dungeons.
+
+The hungriest horror looks identical to the hungry horror, with the difference being that it is green rather than red.
+
+Missions
+Tower
+Events
+Spooky Fall 2022 (Ended)
+Merchants
+Gift Wrapper
+
+The hungriest horror functions identically to the renegade armor.
+
++X health
++25% melee attack speed
+35% damage reduction
++20% weapon damage boost aura
+
+Minimum health expected for power level
+
+Issues relating to "Hungriest Horror" are maintained on the bug tracker. Report issues there.

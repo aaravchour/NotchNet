@@ -1,0 +1,27 @@
+Iron ore is a mineral block found underground. It is a source of raw iron, which can be smelted into iron ingots. 
+Deepslate iron ore is a variant of iron ore that may generate in deepslate and tuff blobs.
+
+Iron ore itself can be obtained by mining it with a stone pickaxe or higher enchanted with Silk Touch. When mined without Silk Touch, iron ore drops raw iron. It is affected by the Fortune enchantment, dropping 12, 13, or 14 raw iron respectively with Fortune I, II, and III.
+
+Iron ore generates in three batches. The first batch attempts to generate 90 times per chunk in blobs of 0-13 or 0-16, from levels 80 to 384, being most common around level 232 and becoming less common towards either end of the range. The second batch attempts to generate 10 times per chunk in blobs of 0-13 or 0-16, from levels -24 to 56, being most common around level 16 and becoming less common towards either end of the range. The third batch attempts to generate 10 times per chunk in blobs of 0-5, evenly from levels -64 to 72. Iron ore can replace stone, andesite, diorite, granite, tuff, and deepslate. Any iron ore that replaces tuff or deepslate becomes deepslate iron ore.
+Iron ore can generate as a large ore vein found at deepslate layer. These veins consist of iron ore, blocks of raw iron, and tuff.
+
+The main usage of iron ore is to obtain iron ingots.
+
+Iron ore can be placed underneath note blocks to make a "bass drum" sound.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Iron Ore" are maintained on the bug tracker. Report issues there.
+
+Block of the Week: Iron Ore  Minecraft.net on June 30, 2017

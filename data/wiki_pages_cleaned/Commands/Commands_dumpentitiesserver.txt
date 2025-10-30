@@ -1,0 +1,1 @@
+Get information about all entities in the current dimension

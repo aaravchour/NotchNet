@@ -1,0 +1,9 @@
+A carpenter hut is a structure that heals other structures within Minecraft Legends.
+
+Campaign
+Carpenter huts can be built by selecting the carpenter hut within the hotbar and using a build allay, which cost 150 wood and 150 stone.
+
+PVP
+Carpenter huts cost 250 wood and 125 stone for Players to build one.
+
+When built, carpenter huts create a large zone around them. This is indicated by blue particles surrounding the targeted structure and a reduction in the cracked texture. Any other buildings in this zone will slowly be repaired if they are damaged. If a damaged building is in the zone of two carpenter huts, its healing rate will not be increased.

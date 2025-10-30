@@ -1,0 +1,37 @@
+A frost tower is a defensive power tower in Minecraft Legends.
+
+
+== Spawning ==
+Campaign
+Frost towers can be found naturally already built in tundra biomes.
+
+
+== Obtaining ==
+Campaign
+Frost towers can be built for 125 stone, 100 diamond, and one frost tower core using a build allay. To obtain frost tower cores, a frost tower must be found within the overworld and 100 gold and 25 diamond must be spent upon interacting with it. To do this, the collect power towers improvement must have been previously built at an improvement hub.
+
+Versus
+Frost towers can be built by players for 600 stone and 400 diamond using a build allay. To do this, the build power towers improvement must have been previously built at an improvement hub.
+
+
+== Usage ==
+Frost towers shoot large ice cubes at nearby enemies which gives them a slowing effect and damages them over time. Piglins are completely stuck in place for the duration of the freezing.
+
+
+== Quotes ==
+
+
+== Sounds ==
+
+
+== Achievements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Frost Tower" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==

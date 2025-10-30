@@ -1,0 +1,20 @@
+A slot is a location in the data of a block entity or entity that an item stack can be placed in.
+
+A slot is defined by its slot index.
+
+In commands, a slot should be referred by a string id instead of its index. The string id is mapped to its index when executing command.
+A string id of slot consists of slot type and optional slot number, in the format of <slot_type> or <slot_type>.<slot_number>.
+
+In commands, a slot is referred by two arguments: slot type and slot number.
+
+For a block, its slot type is slot.container.
+Chests, dispensers, droppers, hoppers, and trapped chests are numbered 0 for the top-left slot and then increase first horizontally, then vertically (so, for example, a chest's top row slots are numbered 0 to 8 from left to right). Double chests and double trapped chests are treated as two single container blocks.
+A brewing stand's bottom slots are numbered 0 to 2 from left to right, its top slot is 3 and the fuel slot is 4.
+A furnace's slots are numbered 0 for the input slot, 1 for the fuel slot, and 2 for the output slot.
+For entities:
+
+/item
+/replaceitem
+/loot
+Target selector
+Argument types

@@ -1,0 +1,7 @@
+A regeneration stone is an obstacle that heals entities within Minecraft Legends.
+
+Regeneration stones can be found in various biomes.
+
+Regeneration stones will quickly heal the hero and allied units that are in close proximity to it over time.
+
+Issues relating to "Regeneration Stone" are maintained on the bug tracker. Report issues there.

@@ -1,0 +1,81 @@
+Hunter's armor is a common armor set that can be found within the various missions of Minecraft Dungeons. Its unique variant is the archer's armor.
+
+
+== Lore ==
+The old item description states that the hunter’s armor is not fit for a knight, despite being able to stop a blade.
+
+
+== Obtaining ==
+Missions
+Creeper Woods
+Creepy Crypt
+Pumpkin Pastures
+Dingy Jungle (DLC)
+Gauntlet of Gales
+Tower
+Treetop Tangle
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Barrage
+
+
+== Usage ==
+Hunter's armor can be used to defend attacks from hostile mobs.
+
+
+=== Properties ===
++10 arrows per bundle
++30% ranged damage
+
+
+=== Stats ===
+Minimum Health expected for Power Level
+
+
+== Sounds ==
+
+
+== Data values ==
+In the game files, hunter's armor is referred to internally by the name ArchersStrappings.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Hunter's Armor" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===

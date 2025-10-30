@@ -1,0 +1,99 @@
+A fence is a barrier block that cannot normally be jumped over, similar to a wall. Unlike a wall, a player (but not mobs) can see through the openings in a fence block.
+
+Wooden fences are broken most quickly with an axe, but drop when broken with any tool. Nether brick fences require a pickaxe; mining it with anything else destroys it and drops nothing.
+
+Oak
+Oak fences generate as part of:
+
+Regular mineshafts, as the uprights for the supports, where they are plentiful.
+Library rooms of strongholds as railings and chandeliers. In the latter case, there are many torches attached to them.
+Plains villages
+Woodland mansions
+Shipwrecks
+Spruce
+Spruce fences generate as part of:
+
+Swamp huts
+Taiga and snowy tundra villages, where they appear in tables, animal pen, butcher and shepherd houses, lantern lamp post, and other buildings.
+Shipwrecks
+Birch
+Birch fences generate as part of:
+
+Woodland mansions
+Shipwrecks
+Jungle
+Jungle fences generate as part of:
+
+Desert village armorer houses as the window.
+Shipwrecks
+Acacia
+Acacia fences generate as part of:
+
+Savanna villages, where they appear in tables, animal pen, butcher and shepherd house, stilt house buildings, and other buildings.
+Shipwrecks
+Dark oak
+Dark oak fences generate as part of:
+
+Mineshafts generated in badlands biomes, as the supports.
+Woodland mansions
+Shipwrecks
+Pillager outposts, as part of watchtower, tent, cage, and scarecrow.
+Ancient city
+Nether brick
+Nether brick fences generate as part of:
+
+Nether fortresses, where they form window bars, balcony fencing, and portcullises.
+
+While fences appear to be a single block tall and have a hitbox height of one block, their collision box (for entities) is 1.5 blocks tall, meaning most mobs cannot jump over them without the Jump Boost status effect. They are transparent to light and have visual gaps in the model. Spiders can climb over a fence, just like any other vertical object.
+A fence occupies the center space of blocks and automatically connects to any solid block that is placed next to it. Wooden fences connect to other wooden fences, but do not connect to Nether brick fences. However, Nether brick fences connect to wooden fence gates.Mobs cannot pass between Nether brick fences and wooden fences, although players can.
+
+Fences can be used to attach mobs with a lead.
+
+Overworld wooden fences can be used as fuel in furnaces, smelting 1.5 items per block.
+
+Wooden fences can be placed under note blocks to produce "bass" sound.
+Nether brick fences can be placed under note blocks to produce "bass drum" sound.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+Wooden fence (oak, spruce, birch, jungle, acacia, and dark oak):
+
+For a more in-depth breakdown of changes to textures and models, including a set of renders for each state combination, see /Asset history
+
+Issues relating to "Fence" are maintained on the bug tracker. Report issues there.
+
+If a carpet is placed on top of a fence, a player can jump onto the carpet, while mobs cannot (except rabbits).
+Placing a carpet on top of a fence does not reduce the fence or wall collision box down to one block, it just provides a platform one block high around the fence/wall to make it easier for climbing on the top of the fence.
+Getting hit by someone else (or shooting themselves with a Punch enchanted bow while sprinting forward) while in midair can cause the knockback to propel the player over a fence they would not be able to jump over normally.
+Projectiles get stuck in the collision box of the fence and remain there if shot from above.
+Bamboo fences are designed to resemble actual dried bamboo stems, unlike other fences that simply use their respective planks' textures.
+
+Fence Gate
+Cobblestone Wall
+
+Block of the Month: Fence  Minecraft.net on December 1, 2022

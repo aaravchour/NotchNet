@@ -1,0 +1,13 @@
+Transfer player to another server.
+
+transferserver <server: string> <port: int>
+
+server: string
+
+Enter the specified server address. Numerical IP address must be quoted, for example: "123.456.78.9".
+port: int
+
+Enter the specified server port. Must be an integer between 0 and 65535 (inclusive).
+
+Fails if there is no internet connection, invalid address, outdated server, or the server is offline.
+Upon success, the player leaves the current server and connects to the specified server ip.

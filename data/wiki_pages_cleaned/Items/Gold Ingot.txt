@@ -1,0 +1,35 @@
+A gold ingot is a metal ingot used to craft various items, and also used as currency for bartering with piglins.
+
+Gold ingots are mainly obtained by smelting raw gold, gold ore and nether gold ore, or just mining nether gold ore, dropping gold nuggets. Gold generates more frequently in badlands biomes.
+
+Zombified piglins have a 2.5% (140) chance of dropping a gold ingot if killed by a player or tamed wolf. The chance is increased by 1% per level of Looting, for a maximum of 5.5% with Looting III.
+
+As a material for weapons, tools, and armor, gold is not a straight upgrade from iron (except in the case of horse armor). Gold has a higher mining speed and enchantability than any other material, but attack power and durability is less.
+
+Apprentice-level cleric villagers buy 3 gold ingots for an emerald as part of their trade.
+
+Golden helmets, chestplates, leggings, boots, swords, pickaxes, axes, hoes and shovels can be repaired with gold ingots in an anvil.
+
+Piglins throw the player item(s) if the player throws or uses a gold ingot on them.
+
+Gold ingots can be used to select powers from a beacon. The player must select one of the available powers, and then insert an ingot in the item slot. 
+A gold ingot can be substituted for an iron ingot or netherite ingot, an emerald, or a diamond.
+
+Trim color palette
+The following color palettes are shown on the designs on trimmed armor:
+
+ (a darker color palette is used when a golden armor piece is trimmed using a gold ingot).
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Gold Ingot" are maintained on the bug tracker. Report issues there.
+
+Gold ingots are the only ingots in the game used alongside another item to craft another type of ingot; in this case, it is used with netherite scrap to craft a netherite ingot.
+
+Block of Gold
+ Golden Armor
+Gold Nugget
+Gold Ore
+Ores

@@ -1,0 +1,54 @@
+Blocks are the basic units of structure in Minecraft that make up the game's world. Many blocks can be collected and placed anywhere in the game's world, as well as be used as helpful resources, such as utility blocks like a crafting table, as well as materials like planks.
+
+Blocks are arranged into a 3-dimensional grid of 1-cubic-meter cells, although some blocks appear to occupy a partial cell; these include slabs, snow layers, ladders, vines, stairs, turtle eggs, sea pickles, and others.
+Together, blocks and fluids build up the in-game environment, and most can be harvested and utilized in various fashions. Some blocks, such as dirt and sandstone, are opaque and occupy their entire cubic meter, while other blocks, such as glass and flowers, are transparent or non-solid. Explosions destroy some blocks more easily than they destroy others. Some blocks are completely immune to explosions.
+Air is a special block. It is an unbreakable transparent block, as a substitute for the absence of blocks. It has two variants: cave air and void air.
+Some blocks, such as sea lantern and glowstone, emit light. The amount of light they emit varies widely; see this table of light values for further information. Opaque blocks completely block light, while transparent blocks can have no effect on light, block the light, or merely weaken it.
+Almost all blocks ignore gravity, except for sand, red sand, gravel, anvils of all damage levels, dragon eggs, all colors of concrete powder, scaffolding, snow layers, pointed dripstone, and suspicious sand and gravel, all of which turn into entities when their support is removed.
+When broken, blocks emit sounds and particles associated with themselves, except in the following cases:
+
+When the block is removed by a piston.
+If the block is affected by gravity and falls into an invalid space (If the block is gravity based and drops from a torch, for example).
+Anvils that are destroyed by running out of durability or falling. Only particles are missing.
+If the block can be washed away and is washed away by a flowing fluid.
+If the block can be replaced by other blocks and is replaced.
+If the block is one of a few blocks such as rails or redstone wire, supported by another block and its supporting block is removed.
+If the block is leaves and decays.
+
+Most solid blocks are 1 meter high (3.28084... feet or 1250381 feet), but several blocks have non-standard block heights, such as slabs.
+A player can automatically step up from a lower to a higher height if the difference is at most 0.6 (35) of a block or 1.9685... feet (250127 feet).
+A player can automatically (when auto-jump is on) or manually (by hitting the jump keybind) step up from a lower to a higher height if the difference is at most 1  block or 3.28084... feet (1250381 feet)
+
+The textures on the faces of blocks are 1616 pixels. Most blocks are proportionately one cubic meter by default, but their shape can be changed using models.
+Most blocks have static textures, but these blocks are animated: water, lava, nether portal, end portal, end gateway, prismarine (slab; stairs; wall), sea lantern, magma block, seagrass, kelp, fire,  lantern, lit campfire and their soul variants, lit blast furnace, heat block, stems, hyphae, lit smoker, stonecutter, sculk, sculk shrieker, sculk sensor, calibrated sculk sensor, sculk vein, and command block.
+Using resource packs, the player can change the textures and resolution of blocks, including whether their texture is animated. They can also change the shapes of blocks using models and the size of blocks to any size with equal width and height, though sizes that are a power of two tend to work better.
+Players can change their textures by changing their files in game.
+
+Technical blocks serve various purposes during events within the game, or use a separate name spaced ID in order to avoid unnecessary combinations of block states. In Java Edition technical blocks do not exist as items, while in Bedrock Edition they may be obtained using inventory editors or add-ons.
+
+These blocks can be accessed only in Minecraft Education and in Bedrock Edition when education options are enabled (Elements are not listed here). In Bedrock Edition, boards, posters, and slates can be obtained only through inventory editors.
+
+Removed blocks no longer exist in current versions of the game.
+
+These blocks were removed from the game entirely.
+
+These blocks were "reconned" into other blocks through a major simultaneous name and texture change.
+
+Some blocks and states of blocks were distinguished via numerical metadata in previous versions of the game. Having metadata values outside of the accepted range could produce unintended results for some block IDs.
+
+These blocks only exist in April Fools versions of the game.
+
+Unique blocks are defined as having unique namespaced IDs in current versions of Java Edition, excluding obvious technical variants such as potted plants and wall attachments of blocks, but including the rose. Unintentional metadata variants are also not included.
+
+Issues relating to "Block" are maintained on the bug tracker. Report issues there.
+
+Certain blocks may interpret positions they cannot be placed in by normal means as a valid position. For example, a sign placed in midair via /setblock remains in midair even when updated, until either it is broken, or a block is placed below it and broken.
+
+Entity
+Data values
+Opacity
+Light
+Item
+Ore
+Generated structures
+Air

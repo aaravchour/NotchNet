@@ -1,0 +1,75 @@
+The gilded glory is a unique emerald gear variant that can be found within the howling peaks DLC of Minecraft Dungeons.
+
+
+== Appearance ==
+The Gilded Glory looks like its common variant apart from much having more emeralds over a dark blue cloak. It also appears to be inlaid with a small amount of gold, hence its name.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Gale Sanctum
+Colossal Rampart (Adventure)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Windbeard
+
+
+== Usage ==
+
+
+=== Properties ===
+X Health
++25% melee attack speed
+Chance to spawn emeralds when exploring (Lucky Explorer tier I)
+Can spend emeralds to cheat death (Death Barter tier I)
+
+
+=== Stats ===
+In-game, health numbers can vary even in the same power level, and may not be exactly as seen below.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Gilded Glory" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===

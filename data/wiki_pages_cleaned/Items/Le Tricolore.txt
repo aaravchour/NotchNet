@@ -1,0 +1,4 @@
+Le Tricolore (French for The Tricolour) is a joke item from Java Edition 23w13a_or_b.
+
+One le tricolore and one la baguette is given to all players when French mode gets activated. Deactivating the mode will remove le tricolore from the player's inventory (but not la baguette; containers such as chests are not affected).
+Le Tricolore is not available in the creative inventory, but can be obtained by using the /give command.

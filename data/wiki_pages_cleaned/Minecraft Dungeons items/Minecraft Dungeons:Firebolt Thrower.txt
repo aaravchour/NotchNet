@@ -1,0 +1,37 @@
+The firebolt thrower is a unique exploding crossbow variant that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Fiery Forge (Adventure)
+Underhalls (Adventure)
+??? (Adventure)
+Dingy Jungle (Adventure, DLC)
+Treetop Tangle (Adventure)
+Colossal Rampart (Adventure, DLC)
+Broken Citadel (Adventure, DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Ancient Terror
+
+The firebolt thrower possesses very high power along with burning exploding arrows, low speed, and a very low ammo supply.
+
+X ranged damage
+Explodes on Impact
+Chance of chain reaction (Chain Reaction tier I)
+
+Multiplier: 1.2
+Quiver: 20
+Fire Rate: 1 shot per second
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+In the game files, the firebolt thrower is referred to internally by the name BlazingBomber.
+
+Issues relating to "Firebolt Thrower" are maintained on the bug tracker. Report issues there.
+
+When equipped, it produces a blaze breathing sound.

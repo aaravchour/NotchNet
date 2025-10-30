@@ -1,0 +1,45 @@
+Snowballs are throwable combat items that hit but do not damage most mobs on impact.
+
+A shovel without the Silk Touch enchantment can get 4 snowballs by breaking a snow block, and 18 snowballs by breaking or blasting snow layers  one per layer. The Fortune enchantment does not affect these amounts.
+In Bedrock Edition, snowballs are dropped from snow layers even when mined with a Silk Touch shovel.
+
+Creeper and TNT explosions leave snowballs in the resulting debris field if near snow.
+
+In Bedrock Edition, Ravagers destroy snow layers, dropping snowballs.
+
+In Bedrock Edition, a block or piston head pushed into the position of snow layers destroys the snow layers, dropping snowballs. 1-3 layers drops 1 snowball, 4-5 layers drops 2 snowballs, 6-7 layers drops 3 snowballs and 8 layers drops 4 snowballs.
+
+Snow golems drop 015 snowballs upon death, unaffected by Looting.
+
+Snowballs can be thrown by using them. There is no charging time or cooldown for firing them, meaning they can be thrown as fast as the player can click.
+Like other projectiles, snowballs are affected by gravity: their range is the same as those of eggs and ender pearls, less than that of arrows fired from bows, and more than that of splash potions. In Bedrock Edition, players will receive damage and will be knockbacked.
+Snowballs deal 3 each to blazes but they deal no damage to other mobs. Mobs still receive knockback and act the same as if they were being damaged (for example, zombified piglins who are hit by snowballs become aggressive). Players in Bedrock Edition receive knockback, while players in Java Edition are unaffected.
+When fighting the ender dragon, end crystals are able to be destroyed by snowballs being thrown at them.
+Snowball, like other projectiles, can be used to distract the warden. A warden walks towards the location where the snowball lands to inspect it, giving the player time to escape. However, if snowballs are fired too frequently (at least twice in 5 seconds), the warden walks straight to the player instead.
+In Bedrock Edition, snowballs fired at a target through fire or lava will hurt and burn the target.
+
+Snowballs can be fired from dispensers.
+
+ghastlings can be fed with snowballs, in order to grow up into happy ghasts in a short amount of time. Like all animals, holding snowballs will attract any nearby ghastlings and happy ghasts towards the player.
+
+Java Edition:
+Thrown snowballs use the Friendly Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Snowballs have entity data that define various properties of the entity.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+Issues relating to "Snowball" are maintained on the bug tracker. Report issues there.
+
+A thrown snowball faces the player in the first-person view, while it appears horizontally rotated in third-person view. This is the case for all throwable items (ender pearls, eggs, snowballs, and all throwable potions).
+
+Taking Inventory: Snowball  Minecraft.net on August 3, 2019

@@ -1,0 +1,8 @@
+Syntax
+getspawnpoint <player: target>
+Arguments
+player: target
+Specifies the target to get the player spawn point. Must be a player name or target selector.
+Result
+Fails if ...
+On success, ...

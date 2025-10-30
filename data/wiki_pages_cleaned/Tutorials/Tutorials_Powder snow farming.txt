@@ -1,0 +1,11 @@
+Powder Snow farming is the renewable obtaining of powder snow, a block useful for traps and technical purposes. Powder snow only naturally generates in grove and snowy slopes biomes, which are a bit hard to come by. If the player cannot find these biomes, they have a renewable option to obtain powder snow: from cauldrons placed in cold biomes under open sky, in which powder snow accumulates during snowfall.
+
+Cauldrons, as many as possible.
+Buckets
+
+Powder snow accumulates only when it is snowing, unlike ice which forms even under clear weather.
+The requirements for powder snow accumulation is the same as ice formation: As long as the biome is cold enough to snow. Therefore, a good idea is to build a powder snow farm next to an ice farm, so that both of these climate-dependent blocks can be farmed at once.
+Some of the biomes do not snow on the surface, but they snow at higher altitudes. These biomes include the commonplace taiga and stony shore, the rare old growth taiga and windswept hills, as well as all of their variants. Frozen oceans only snow at sea level in certain local regions, where there is normal ice covering the surface.
+This means that if the player is going to stay in or close to a snowy or cold biome for a while, then a good option is to just set up the powder snow farm (as well as an ice farm) there. For a cold biome listed above, build a platform at higher altitudes where it is cold enough to snow, and place your cauldrons there. Powder snow will accumulate as long as the horizontal distance between it and the player is less than 128 blocks, so having a farm higher up won't affect its rates.
+
+First of all, you will need to find a place where it snows, as mentioned above. Place as many cauldrons as desired. Remember that in Bedrock Edition powder snow accumulates much faster than in Java Edition, so you will need fewer cauldrons. Now afk until snowing, and once the snow level in the cauldrons reach the top, you can harvest it using buckets. Make sure there is no solid blocks over the cauldrons.

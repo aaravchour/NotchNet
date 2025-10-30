@@ -1,0 +1,23 @@
+A beetroot is a food and dye ingredient.
+
+Beetroots are obtained from harvesting a fully grown crop block, which drops 1 beetroot and 1-4 seeds (2 57 seeds per plant harvested on average). Seed yield can be increased using a tool enchanted with Fortune, with Fortune III harvesting an average of 5 37 seeds per plant.
+These crops can be found growing in villages or can be grown from planted beetroot seeds.
+
+A beetroot can be eaten to restore 1 () hunger and 1.2 hunger saturation. Six beetroots can be crafted into beetroot soup, which restores six times the hunger and saturation of a single beetroot.
+
+Beetroots can be used to breed pigs. Pigs also follow a player who is holding beetroot.
+Villagers can pick up beetroot items to become willing, allowing them to breed. Villagers need 12 beetroots before they can breed.
+
+Placing beetroot into a composter has a 65% chance of raising the compost level by 1.
+
+Novice-level Farmer villagers have a 25% or 40% chance to buy 15 beetroots for an emerald.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Beetroot" are maintained on the bug tracker. Report issues there.

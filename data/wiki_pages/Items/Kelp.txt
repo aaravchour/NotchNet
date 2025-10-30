@@ -1,0 +1,139 @@
+Kelp is an underwater plant that generates in most oceans.
+
+
+== Obtaining ==
+
+
+=== Natural generation ===
+Kelp naturally generates in any ocean biomes (except in frozen, deep frozen and warm), near and around seagrass. Each chunk has 1⁄18 chance to generate a vegetation of kelp.
+
+
+=== Breaking ===
+Kelp can be mined instantly with any tool or with the player's fist. Removing water from the kelp block destroys the kelp. Breaking one part of a kelp stalk destroys all kelp blocks above it. Each block drops a kelp item.
+
+
+=== Trading ===
+Kelp can be bought from wandering traders for 3 emeralds.
+
+
+== Usage ==
+Kelp can be placed underwater by hand, or anywhere by the use of commands such as /setblock. Placing it by hand gives it a random age value between 0 and 24. Kelp can be placed only in water source blocks or downward-flowing water, not horizontally flowing water.
+When placed in downward-flowing water, the flowing water transforms into a water source block, which is useful for faster bubble column elevator creation.
+Any building block can be placed on top of a kelp plant, which is useful for building structures over a deep ocean without needing to build from the ocean floor (see also lily pad).
+
+
+=== Cooking ingredient ===
+
+
+=== Composting ===
+Placing kelp into a composter has a 30% chance of raising the compost level by 1.
+
+
+=== Growth mechanics ===
+Kelp can be planted on a broad variety of blocks. It grows underwater if it has either a source block of water or, in Java Edition, flowing water above it. Neither players nor dispensers can remove the water source block that kelp grows in without breaking the kelp first.
+Kelp does not require any light level to grow. Kelp also grows without having sky access. Bone meal can be used to grow kelp by 1 block on each use.
+Kelp, when planted, is generated with a randomly chosen age value, which can be checked when pressing F3‌. The age value of a newly planted kelp plant varies randomly from 0 to 24. Each time the kelp grows in height by one block, the newly generated top of the kelp plant increases its age by 1. When the top block of the kelp plant reaches an age of 25, it stops growing. This means that kelp can naturally grow to a height between 2 (if the first kelp plant had an age of 24) and 26 blocks (if the first kelp plant had an age of 0). 
+When a kelp plant block is broken, the age of the kelp plant block underneath is randomized to a value from 0 to 24 and the kelp continues growing until it reaches age 25. It is possible to use this mechanic to cultivate a kelp plant to increase its growth height beyond its natural maximum height of 26 blocks. This can be done by breaking the top-most block of the kelp plant each time it reaches age 25. A kelp plant cultivated by a player in this way repeatedly grows until it reaches the water surface.
+Each time it receives a random tick, kelp has a 14% chance of growing.
+If shears are used on the topmost block of kelp, that block automatically sets its age value to 25 and stop growing.‌
+
+
+=== Farming ===
+
+Kelp farming is similar to farming sugar cane, although kelp must be placed underwater. Automation of harvest is easier because items float up in water.
+
+
+== Sounds ==
+
+
+=== Generic ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Unique ===
+Java Edition:
+
+Bedrock Edition: None
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+Top kelp block:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Kelp" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+This item will summon Water if thrown into ground in version 22w13oneBlockAtTime
+In real life, kelp is not considered a plant. It is classified by scientists as a brown algae.
+Kelp in real life absorbs nutrients directly from the water, instead of through its root-like structure, holdfast, which merely attaches it to the seabed. This is in accordance with kelp being able to grow on almost any solid block in Minecraft
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

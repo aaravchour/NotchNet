@@ -1,0 +1,105 @@
+The totem of casting is an artifact that can be found within the various missions of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Redstone Mines
+Fiery Forge
+Lower Temple
+Treetop Tangle
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+
+== Usage ==
+The totem of casting uses seventy souls to create a large aura, after a short time an effect occurs where any hero standing in this aura has the cooldown of their artifacts reduced. However, in practice the cooldown is completely reset instead of just reduced. The range and size of this aura increases with the power level of the artifact.
+
+
+=== Properties ===
+X% range increase
+10 second cooldown
++1 Soul gathering
+Requires souls
+
+
+== Sounds ==
+
+
+== Achievements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Totem of Casting" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

@@ -1,0 +1,24 @@
+An underwater magma is a feature found underwater in the Overworld.
+
+
+== Generation ==
+An underwater magma is a feature made entirely of magma blocks. It is up to 3*3*3 in size. It can be found at the underwater floor in any Overworld biomes.
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+which is used in:
+
+which is used in:
+
+
+== History ==
+
+
+== Reference ==

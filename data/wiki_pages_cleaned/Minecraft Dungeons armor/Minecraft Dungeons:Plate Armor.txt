@@ -1,0 +1,25 @@
+Plate armor is an armor set that can be found within the various missions of Minecraft Dungeons.  Its unique variant is the full metal armor.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Fiery Forge (Adventure)
+Lone Fortress (Adventure, DLC)
+Gauntlet of Gales
+Gale Sanctum (Adventure, DLC)
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Unbreakable One
+
++X health
+30% chance to negate hits
+35% damage reduction
+100% longer roll cooldown
+
+Issues relating to "Plate Armor" are maintained on the bug tracker. Report issues there.

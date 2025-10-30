@@ -1,0 +1,82 @@
+A skeleton is an undead hostile mob that can be found within the various missions of Minecraft Dungeons. Skeletons have three direct variants.
+
+Skeletons in Minecraft Dungeons are different in color from their counterparts in the original game, with their bones being marble-colored and parts near its legs or joints being darker. Skeletons are left-handed.
+Some skeleton are slightly taller than others, and have more health and defense. The first skeleton variant possesses a longbow, the second variant possesses the power bow. Both of these variants wear reinforced mail, which can appear either with both a helmet and chestplate or just a helmet. In the arcade edition, they have melee variants.
+
+Skeletons also spawn when night falls, regardless of the mission, and when at least one hero dies in multiplayer.
+
+Skeletons attempt to position themselves at a set distance from the hero.
+Skeletons shoot arrows normally underwater without being slowed down, unlike their original game counterpart.
+
+Walk
+
+Skeletons flee when the hero gets near. If the player is stationary, the skeleton repeatedly shoot without moving.
+
+Bow action
+
+Skeletons harm the hero by shooting arrows from shortbows at a distance.
+
+Novelty
+
+Skeletons have a rare behavior when idle, in which they spin their skull rapidly as if playing with their heads. They have a sound file named "novelty spin" that plays when this behavior occurs as one of the easter eggs within the game.
+
+Barrage is an ancient skeleton (variant two) that can be encountered during ancient hunts with the minimum offering of the following runes:
+
+The ancient resides within a Highblock Halls-themed arena and possesses, at minimum, the following enchantments:
+
+Accelerate
+Multishot
+Ricochet
+Rapid Fire
+Twenty enchanted skeletons act as the ancient's minions, possessing the following enchantments:
+
+Accelerate
+Upon defeating Barrage, a gilded variant of the following items drops as a reward:
+
+Bow
+Bonebow
+Twin Bow
+Hunter's Armor
+Archer's Armor
+Soul Bow
+Bow of Lost Souls
+Nocturnal Bow
+
+A melee skeleton  is a skeleton variant that can be found exclusively within the arcade edition of Minecraft Dungeons.
+
+Melee skeletons are seen having two variants. The weaker variant wears a scale mail chestplate and holds a single dagger in reverse grip while the stronger variant also wears a scale mail chestplate but with an additional reinforced mail helmet and holds a sword.
+
+Creeper Woods (Arcade)
+Desert Temple (Arcade)
+Obsidian Pinnacle (Arcade)
+
+Basic attack
+Melee skeletons are hostile towards heroes and will attack them on sight, just like their normal, bow wielding counterparts.
+
+SkeletonVariant0
+Health: 60
+Push multiplier: 1.5
+Range: 950.0
+Projectile: BP_SkeletonArrow
+Delay Seconds : 0.7,
+Delay Seconds Per Projectile: 0.0,
+Angle Span: 0.0,
+Angle Offset: 0.0,
+Max Randomized Angle Factor: 0.0,
+Non-Random First Arrow: true,
+Attack rate seconds: 2.0
+SkeletonVariant1
+Health: 200
+Push multiplier: 1.4
+Projectile Damage Factor: 1.2
+SkeletonVariant2
+Health: 480
+Push multiplier: 1.2
+Projectile Damage Factor: 1.4
+Skeleton have an unused legs position while aiming. 
+Skeleton have 2 decorative models in game.
+
+Skeletons and their variants are the only hostile mobs that appear in all of the DLCs so far.
+Skeletons have an unused animation called "Get hit from the front". However, this animation is used in the Arcade version.
+
+Issues relating to "Skeleton" are maintained on the bug tracker. Report issues there.

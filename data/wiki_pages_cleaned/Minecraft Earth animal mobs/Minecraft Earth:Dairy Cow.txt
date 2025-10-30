@@ -1,0 +1,12 @@
+The dairy cow was a black and white variant of the cow found only in Minecraft Earth.
+
+Dairy cows were a black-and-white variant of the normal cow. Their fur consisted of black blotches scattered across its upper body and white fur, with most of its black blotches mostly being found on its upper body, back, face, and near its legs. It had two blotches covering both of its eyes, with the left one wrapping around its face, four individual spots on its upper legs, and one big patch near its hindquarters. It possessed gray horns, black hooves, and a gum pink muzzle.
+
+Similar to normal cows, dairy cows wandered around, mooing and breathing occasionally. They avoided water, lava, and walking off cliffs high enough to cause fall damage. They fled for a few seconds when harmed.
+
+Dairy cows were an uncommon mob drop found in cow tappables.
+
+When killed, dairy cows dropped:
+
+0-2 Leather
+1-3 Raw Beef (Cooked Beef if killed while on fire)

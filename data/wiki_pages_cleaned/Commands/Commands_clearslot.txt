@@ -1,0 +1,1 @@
+Clears a specified slot of a specified entity.

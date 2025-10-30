@@ -1,0 +1,9 @@
+A prismarine shard is an item obtained by defeating guardians or elder guardians. It can be used to craft various prismarine blocks as well as sea lanterns.
+
+Prismarine shards are dropped upon the death of guardians and elder guardians. From these mobs, 02 shards are dropped each time. This can be increased to a maximum of 5 with the Looting enchantment.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Prismarine Shard" are maintained on the bug tracker. Report issues there.

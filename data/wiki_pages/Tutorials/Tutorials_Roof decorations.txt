@@ -1,0 +1,45 @@
+Every part of a roof can be decorated. Here are some of the more common embellishments.
+
+
+== Ridges and parapets ==
+
+
+=== Top ridge ===
+
+The top ridge of a roof is an obvious place for decoration. In this image we use a stone fence to top off a gable roof. Note that the building is an odd width so that its roof comes to more of a point. 
+
+
+=== End parapet ===
+
+Where a row of buildings is split into several smaller habitations, as in this terraced row of houses, extending the shared (party) walls above the roof surface makes the separation between buildings visible. Note how the terrace ends have also been decorated to maintain symmetry.
+
+
+=== Parapets ===
+
+To keep an inhabited building 'in scale', its roof should be in proportion with the building's other stories. Large featureless roofs tend to cover barns and hangars, and are rarely found covering dwellings. In practice, a good rule of thumb for roof height is to make it more than one story but less than two stories high. Hence with 4-meter stories, the roof should be in the range of 5–7 meters.
+Whenever a roof's volume is large enough, it will tend to be used for additional rooms, perhaps even additional floors, but that in turn requires dormers, skylights, and other adjustments rather than a large expanse of blank sloping roof area. Extending the parapet vertically is often useful on larger constructions, as it allows the roof size to be reduced. This helps bring it back into scale with the rest of the building.
+
+
+== Gables ==
+
+
+=== Stepped gable ===
+
+There are two common ways to 'end' a roof. One method is to extend it a way beyond the edge of the building. This helps keep the walls and ground around the building foundations drier. The other way is to extend some or all the parapet wall higher than the roof, allowing for various decorative finishes, and shrinking the size of the roof relative to the rest of the building. These designs include the Flemish gable, stepped gable and some other variants.
+Stepped gables are also known as corbie steps, crow steps or craw steps. This is a simple, effective and distinctive look for a Minecraft building.
+
+
+=== Flemish gable ===
+
+A Flemish gable is a decorative end to a roof containing one or more curves, and it is hard to model these convincingly at normal Minecraft scales. It's probably best to consider them merely 'a decorative roof ending' rather than trying to make them accurate. This roof style is also known as a Dutch gable. A similar design is the older clock gable, which is slightly more bell-shaped and has a cluster of three windows in the top area of the gable.
+
+
+== Patterned roof tiles ==
+
+Embedding a pattern in the roof tiles themselves is a simple way to add flavor. Even tiny decorative flourishes can add up to make a noticeable difference, especially if you apply them as a theme throughout an entire settlement.
+
+
+== Facades ==
+
+A facade is a way to add a decorative front to a plainer (and often cheaper) building. They are used to make a building look more attractive or grander than it really is, or to disguise a building's unusual shape (especially if its roof is the problem) so that it fits in better with its neighbors.
+In Minecraft, redstone constructions may have all sorts of unusual shapes, and a facade may be a good way to disguise these workings.

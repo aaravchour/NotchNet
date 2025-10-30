@@ -1,0 +1,14 @@
+A stun tower is a defensive power tower that can be found within Minecraft Legends.
+
+Campaign
+Stun towers can be found naturally already built within the various biomes.
+
+Campaign
+Stun towers can be built for 125 stone, 100 coal, and one stun tower core using a build allay. To obtain stun tower cores, a stun tower must be found within the overworld and 100 gold and 25 coal must be spent when interacting with one. To do this, the collect power towers improvement must have been previously built at an improvement hub.
+
+Versus
+Stun towers can be built by players for 600 stone and 400 coal using a build allay. To do this, the build power towers improvement must have been previously built at an improvement hub.
+
+Stun towers emit a sonic attack that stuns any nearby enemies, but not damage them. It cannot be buffed by other structures.    
+
+Issues relating to "Stun Tower" are maintained on the bug tracker. Report issues there.

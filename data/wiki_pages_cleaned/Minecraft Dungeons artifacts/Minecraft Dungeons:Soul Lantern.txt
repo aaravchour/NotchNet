@@ -1,0 +1,40 @@
+The soul lantern is an artifact that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Creepy Crypt
+Cacti Canyon
+Underhalls
+Soul Sand Valley (DLC)
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+The soul lantern, when used, will instantly summon a soul wizard, a creature made up from bound souls, which follows the hero and attacks mobs.
+
+X summon damage
+5 seconds cooldown
++1 soul gathering
+Requires souls
+
+The soul wizard is a summonable mob that can be summoned by the soul lantern within the various missions of Minecraft Dungeons.
+
+The soul wizard is a rather small mob about the size of a vex or possibly smaller. Its body is covered in purple tattered clothing and wears a hat that resembles the upper part of a lantern. Its hands and face are only visible, with its hands and eyes seen glowing bright blue. On its waist is a red ribbon binding its clothing together. 
+
+The soul wizard can be summoned using the soul lantern which requires souls and will disappear a few seconds later.
+
+The soul wizard will follow the hero upon being summoned and will attack mobs that startle it. When the soul wizard is defeated, it will disappear with a shattering sound. Similar to the bees, the soul wizard has a limited survival time and will automatically disappear after a while, and the hero would need to use the soul lantern again to summon it.
+
+Basic attack
+Soul wizards attack by shooting soul bolts at mobs.
+
+In the game files, the soul wizard is referred to by the name SoulWizard.
+In the json files, the soul wizard projectile is referred to BP_SoulWizardProjectile.
+
+In the "Homecoming" achievements, The soul wizard is referred to by the name soul entity.
+The soul wizard is the only summonable mob that is not based on any mob that can be found within the original game, making it unique to Minecraft Dungeons.
+
+Issues relating to "Soul Lantern" are maintained on the bug tracker. Report issues there.

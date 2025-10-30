@@ -1,0 +1,112 @@
+Commands are useful for map building, Creative mode, etc. The ones described on this page are useful for building an adventure map, testing mechanics and commands, or just for pure fun.
+
+
+== Invisible Item Frame ‌ ==
+Item Frame is an entity ‌. We can get an invisible Item Frame using /give command. This is the command: /give @p minecraft:item_frame{EntityTag:{Invisible:1}}
+
+
+== Villager Trades ==
+Note: If you are too lazy to write these long commands, you can always use commands generators in the internet.
+
+Villagers are passive mobs and they live in villages. We can trade with them. By using a /summon command, we can spawn villagers with custom trades. /summon villager ~ ~1 ~ {VillagerData:{profession:farmer,level:2,type:plains},CustomName:"\"John\"",Offers:{Recipes:[{buy:{id:emerald,Count:1},sell:{id:wheat,Count:1},rewardExp:0b,maxUses:9999999}]}}
+This command will spawn a villager named John who sells 1 wheat for 1 emerald.
+
+
+=== Profession and Types ===
+You can edit the profession:farmer to other professions, type:plains to specific biomes. You can see all the professions and types at here.
+
+
+=== Custom Name ===
+You can change CustomName to any name.
+
+
+=== Id and Count ===
+Change the id to any items or blocks. Count defines the number of items.
+
+
+=== Reward Experience and Max Uses ===
+rewardExp is the experience you get when you traded. maxUses is how many times you can trade with.
+
+
+== Replacing Blocks ==
+By using /fill command, you can replace a type of block in an area. 
+
+/fill 16 ~ 16 0 ~ 0 minecraft:stone replace minecraft:grass_block
+The command above will replace all grass blocks to stone in an area.
+The 16 ~ 16 0 ~ 0 are the coordinates. The block after replace is the block we want to replace.
+
+
+== Custom Enchantment Levels ==
+Note: Some enchantments won't work.
+
+By using /give command, we can get a netherite sword with a custom level of sharpness.
+
+
+=== Single Enchantment ===
+/give @p minecraft:netherite_sword{Enchantments:[{id:sharpness,lvl:10}]} 1
+The command above will give you a netherite sword with Sharpness 10. You will see the enchantment as Sharpness X. You can change the id to any enchantment.
+
+
+=== Levels ===
+Change lvl to any number. The maximum number is 255, if your number is bigger than 255, The level will automatically change to 255.
+
+
+=== Double Enchantments ===
+To get more than one enchantment on a tool or weapon, add a comma after the first enchantment and add a new one.
+
+/give @p minecraft:netherite_sword{Enchantments:[{id:sharpness,lvl:10},{id:looting,lvl:10}]} 1
+This command added Sharpness 10 and Looting 10 to a netherite sword.
+
+
+== Death Scoreboard ==
+Map builders sometimes use a death scoreboard in a parkour map. You can use /scoreboard command to do it.
+
+
+=== Create Scoreboard ===
+First, write or paste this command below.
+
+/scoreboard objectives add Deaths deathCount
+This creates a death scoreboard. The Deaths in the command is the name of scoreboard, that means you can change it to any words.
+
+
+=== Show Scoreboard ===
+To show the scoreboard, write this command.
+
+/scoreboard objectives setdisplay sidebar Deaths
+
+
+=== Delete Scoreboard ===
+If you don't want the scoreboard anymore, do this command.
+
+/scoreboard objectives remove Deaths
+
+
+== Boss Bar ==
+This section shows you how to add a boss bar to an entity.
+
+
+=== Create a Boss Bar ===
+First, write or paste this command:
+
+/bossbar add <bossbar id> "<name>"
+
+
+=== Make it Visible ===
+After creating a the Boss Bar, make it visible.
+
+/bossbar set minecraft:<bossbar id> players @a
+Now you can see a bossbar on top of your screen.
+
+
+=== Link to an entity ===
+Lastly, you need to link it to your entity. Paste the command below to a Repeating Command Block.
+
+/execute store result bossbar minecraft:<bossbar id> value run data get entity <target> Health
+Now you can see your entity's health!
+
+
+=== Change Boss Bar Color ===
+The default color of the Boss Bar is white. To change it, do this command:
+
+/bossbar set minecraft:<bossbar id> color <color>
+But there are only seven colors for you to choose: blue, green, pink, purple, red, white, yellow.

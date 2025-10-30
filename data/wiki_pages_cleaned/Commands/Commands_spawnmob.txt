@@ -1,0 +1,1 @@
+Generate an entity with/without specific components.

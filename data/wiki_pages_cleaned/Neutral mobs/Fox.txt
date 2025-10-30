@@ -1,0 +1,83 @@
+A fox is a neutral mob that spawns in taigas, old growth taigas, snowy taigas and mountain groves. They are able to carry a single item in their mouth, but prefer food over other items.
+
+Foxes spawn in groups of two to four in taiga, old growth taiga, snowy taiga and grove biomes. 5% of them spawn as baby foxes.
+They can spawn on grass, coarse dirt, podzol, snow blocks, or top snow.
+Foxes that spawned in a snowy biome are white.
+
+Foxes have a 20% chance to spawn (via spawn egg or naturally) with one of the following items in their mouth:
+
+An adult fox drops 12/13 experience orbs when killed by a player or tamed wolf. Upon successful breeding, 17 are dropped. Killing a baby fox yields no experience. 
+Foxes always drop any item they pick up and are still holding (they cannot drop food that they have eaten, for example) and drop items they spawn with naturally with a 100% chance, so:
+
+If a fox is killed while holding a totem of undying, then the fox consumes the totem and revives itself instead of dropping the totem.
+
+Foxes occasionally make loud screeches during nighttime, unless a trusted player is near them. Baby foxes follow adult foxes.
+During the night, foxes sometimes go to villages. Snow foxes go to snow villages and red foxes go to any other type of village, preferably taiga villages since foxes spawn in the taiga biome.
+Foxes flee from nearby wolves, polar bears or players unless the player approaches them while sneaking. They take no damage or speed reduction while moving through sweet berry bushes.
+
+Foxes attack chickens, rabbits, cod, salmon and tropical fish, and baby turtles while they are on land. Foxes don't attack wolves even if they are being attacked by them.
+Foxes attack either by running against or by pouncing. Like rabbits and goats, foxes can pounce more than one block high without status effects or player input. A fox prepares to pounce by tilting and lowering its head and lowering its body to become shorter. Then it leaps two blocks into the air, jumping over fences and walls if needed. If the target mob moves from its location during this sequence, the pounce misses the target. In Bedrock Edition, foxes also shake side to side before pouncing and their legs wave while in midair.
+While foxes are capable of jumping over fences and walls, they cannot see through them. A fox will not try to attack a mob on the same y-level if there is a fence between them.
+Red foxes prefer to attack chickens, rabbits and baby turtles, all of which are on land, over cod, salmon, and tropical fish; conversely, snow foxes prefer to attack cod, salmon and tropical fish over land-dwelling creatures. 
+
+A fox that pounces into a snow layer becomes momentarily stuck, remaining face-down, emitting particles while shaking, and returning to normal shortly after.
+Foxes swim to attack fish in water for food. Baby foxes following adults into the water cannot swim and may eventually drown.
+Foxes attempt to run toward the closest attackable mob, even if attached to a lead, but do not attempt to break the lead. A fox wakes up from sleeping to attack a mob.
+Wild wolves are aggressive toward foxes when within 18/16 blocks. In Java Edition, adult polar bears also sneak toward foxes to attack them; in Bedrock Edition adult polar bears attack foxes within 16 blocks. In Java Edition, baby polar bears, though normally passive to players, also attempt to attack foxes within 16 blocks or when their adult polar bear attacks one.
+
+Foxes are one of the few mobs in the game that can sleep, along with cats, villagers and bats.
+During the day, if a thunderstorm is not occurring, foxes attempt to find a space with a sky light level of 14 or less and sleep. Block light has no effect on this. While it sleeps, it slowly moves its head up and down. A fox wakes if approached by a player or mob. Foxes do not flee if the player approaches while sneaking until the player gets on an adjacent block.
+If the sky light at the fox's position becomes 15 or above, either due to a block above being destroyed or the fox being moved, the fox wakes up.
+Foxes can drop and pick up items in their sleep.
+Trusting foxes can fall asleep even if attached to a lead. They can also be moved with leads while sleeping.
+Foxes do not sleep if they are within 12 blocks of an armor stand.
+
+A fox sits down sometimes during the day if the fox cannot find a shaded area to sleep. The fox sits for a short time, then hops back up. Foxes sit down even when attached to a lead or in a boat. Foxes that have not been bred by the player always sit while in the Nether, even while attached to a lead.
+
+If any item is on the ground near a fox, it travels to the item and picks it up, and the item appears in the fox's mouth.
+However, usually a fox chooses to attack a mob over picking up an item. This behavior is not limited to food and animal products; a fox can pick up any item that the player can pick up. However, they prefer to pick up food items, and if they have already picked up non-food items, they drop the non-food items to pick up food instead. A fox can also swap a food item it is holding for a different food item. 
+A fox eats any food item it picks up (besides cake) after 30 seconds and the fox is affected by any side effects from the food, such as poison or teleportation. For example, if a fox eats an enchanted golden apple, it obtains the absorption and effects of the enchanted apple. If a fox eats any type of soup or stew, an empty bowl is dropped. If a fox is holding a chorus fruit, it eats the fruit and teleports accordingly.
+If there is a stage 3 or 4 sweet berry bush within a 16 block radius of a fox, it sprints toward the bush and eats the berries, dropping the item it was holding. It is the only mob not damaged by the sweet berry bush. 
+If a fox picks up a weapon or an item with enchantments, such as Looting and Fire Aspect, these items affect the fox's attack as if the fox is wielding the weapon in its main hand, although the item retains its durability when used by the fox. If a fox is holding a totem of undying, it receives the effects after taking fatal damage. In Bedrock Edition, if a fox wields a sword with the Fire Aspect enchantment while attacking a mob on a campfire or a soul campfire, it ignites the campfire and does critical damage to the entity.
+Foxes do not pick up items when gamerule mobGriefing is set to false.
+
+When sweet berries or glow berries are used on two foxes, the foxes breed, producing a baby fox. If a red fox is bred with an snow fox, the baby has a 50% chance of being either red or snow.
+
+Breeding two adults with sweet berries or glow berries produces a kit that trusts the player. The baby fox trusts the player that bred it and does not flee from that player as it grows up; however, because baby foxes also follow nearby adult foxes, an adult running away from the player may cause the baby to do the same. 
+Naturally spawned kits do not trust players. Foxes attack specific mobs that hurt a player they trust.
+
+A lead can be useful during this time to keep the baby fox from fleeing until it has finished maturing to an adult itself, or the player can simply kill the adult foxes with a ranged weapon.
+A fox that trusts the player flees from wolves and polar bears unless the wolf or polar bear attacks the player, in which case the fox attacks in defense of the player.
+When attacking phantoms, foxes do not jump to attack.
+A trusting fox does not attack a tamed wolf unless the fox doesn't trust the player who tamed the wolf.
+Foxes that trust the player attack zombies, drowned, husks, zombified piglins, skeletons, wither skeletons, strays, phantoms, silverfish, endermites, spiders, cave spiders, vexes, vindicators, evokers, pillagers, ravagers, blazes, endermen, goats and pandas, when those mobs attack the player. They do not attack any mob the player attacks, unlike tamed wolves. They also do not attack zombie villagers despite the fact that they are a zombie variant. 
+Tamed foxes retreat from polar bears and wolves but not tamed wolves. A tamed wolf whose owner attacks a tamed fox also attacks the fox.
+
+Java Edition:
+Foxes use the Friendly Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Foxes have entity data associated with them that contain various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+Issues relating to "Fox" are maintained on the bug tracker. Report issues there.
+
+Although a fox appears to hold an item in its mouth, it is technically holding the item in its main hand, therefore anything held affects it, such as a sword increasing its damage or a totem of undying resurrecting it.
+In the real world, some species of fox jump high to catch their prey by surprise, an action reflected in their Minecraft counterpart.
+When foxes were being added into Minecraft, a glitch occurred where they looked like boxes.
+Baby foxes are small enough that when they are swimming, they take drowning damage. This is noticeable when they attempt to attack fish.
+There is a splash screen "In case it isn't obvious, foxes aren't players" in the game, which was added from the description of the bug MC-166292.
+The first and third screeching sounds foxes make are the same. The first sound is the third in reverse, but higher-pitched, and the third is the first in reverse, but lower-pitched.
+Fox sounds are actually combined and heavily edited cat and dog sounds.
+Foxes and Tamed Wolves are the only mob able to sit
+
+Mob Menagerie: Fox  Minecraft.net on September 22, 2022

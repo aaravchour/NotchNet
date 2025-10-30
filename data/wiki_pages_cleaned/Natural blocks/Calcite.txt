@@ -1,0 +1,19 @@
+Calcite is a carbonate mineral block.
+
+Calcite drops as an item if mined using any pickaxe. If mined without a pickaxe, it drops nothing.
+
+Calcite generates naturally as part of the structure of amethyst geodes, between the smooth basalt and block of amethyst layers. It also generates in the stony peaks in strips.
+
+Calcite is currently used only for construction and decoration.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Calcite" are maintained on the bug tracker. Report issues there.
+
+Block of the Week: Calcite  Minecraft.net on April 28, 2022

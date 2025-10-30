@@ -1,0 +1,10 @@
+Destroy the block at the specified coordinates
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

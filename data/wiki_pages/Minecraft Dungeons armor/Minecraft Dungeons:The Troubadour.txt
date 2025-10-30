@@ -1,0 +1,73 @@
+The troubadour is a unique entertainer's garb variant that can be found within the echoing void DLC of Minecraft Dungeons.
+
+
+== Appearance ==
+When worn, music notes pop from the hat of the troubadour after a few seconds of being idle, moving will stop playing the music notes.
+
+
+== Obtaining ==
+Missions
+The Stronghold
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Watcher of The End
+
+
+== Usage ==
+
+
+=== Properties ===
++X health
+Health potions heal nearby allies
++30% positive effect status duration
+-30% negative effect status duration
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "The Troubadour" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

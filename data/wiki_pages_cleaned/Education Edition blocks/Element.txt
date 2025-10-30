@@ -1,0 +1,28 @@
+Elements and isotopes are blocks that are essential to chemistry in Bedrock Edition and Minecraft Education 
+
+An element can be broken instantly using any item or by an empty hand, always dropping itself.
+
+Elements and isotopes are primarily obtained by constructing them in the element constructor. This is done by moving the sliders or typing in numbers into the text inputs. The large display shows the selected numbers of particles arranged in an atomic structure, whether valid or not. If the atomic structure is a stable isotope, it can be taken out of the slot on the right side. A list of stable isotopes can be found below.
+
+Several elements can also be obtained from a material reducer, which breaks down blocks into their component elements by percentage. This is the only way of obtaining the Unknown element; a mysterious element found in certain Minecraft blocks, such as soul sand and netherrack.
+Because the element constructor and material reducer cannot be obtained in Survival without commands, and the world must have Education Edition enabled, the same is true for elements. In Bedrock Edition, the Education Edition option also allows elements to be obtained directly via commands or Creative inventory.
+
+Elements can be placed as decorative blocks, or used as ingredients in crafting, brewing, or lab table experiments. They can also be combined into compounds using the compound creator; see the compound page for a full list of available combinations.
+
+Issues relating to "Element" are maintained on the bug tracker. Report issues there.
+
+Element is the only block that by default uses a texture with a resolution greater than 1616 (not counting animated blocks).
+The ??? element is named "Unknown Element" in Bedrock Edition.
+Many of the "stable" isotopes provided by the element constructor are radioactive in real life. For example, Technetium has no stable isotopes in real life, even though it has three stable isotopes in Minecraft.
+If one block is considered to be equal to one meter cubed, and element blocks are considered to be composed of solely the element they are named after, then one block of osmium would have a mass of 22,590 kilograms or 49,802 pounds, making it the heaviest real-world matter available in vanilla Minecraft.
+Hassium, however, is predicted to have a density higher that of osmium, with a block of hassium weighing around 28,000 kilograms or 61,729 pounds.
+
+Element Constructor
+Compound Creator
+Lab Table
+Material Reducer
+Brewing Stand
+Brewing
+Element/Renders
+
+Element on Wikipedia

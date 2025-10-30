@@ -1,0 +1,9 @@
+Basalt columns are vertical clusters of basalt blocks found within basalt delta biomes. They may also contain lava and magma in the many gaps between the towers.
+
+Basalt columns generate in the basaltic delta biomes, sometimes on the Blackstone platforms and in the lava ocean.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Basalt columns" are maintained on the bug tracker. Report issues there.

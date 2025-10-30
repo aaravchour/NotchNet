@@ -1,0 +1,26 @@
+Mineshafts are generated structures found primarily underground in the Overworld. They consist of interlinked 33 tunnels with incomplete rail lines running through them, with oak wood platforms bridging gaps or hanging in larger exposed caverns. Mineshafts are the only structures where cave spider monster spawners can be found.
+A unique variant of mineshafts made out of dark oak wood can generate on the surface in badlands biomes.
+
+Mineshafts generate underground in any Overworld biome. They generate before chunk features such as ores. Multiple mineshafts can generate near each other, producing larger complexes. When mineshafts intersect with caves and canyons, corridors generate a bridge of planks over empty space, either suspended with chains above or supported by log pillars below. When a mineshaft intersects with an aquifer, a barrier of solid blocks generates to prevent fluids from flowing into the mineshaft, often resulting in corridors cut off from the rest of the mineshaft.
+Mineshafts often generate on the surface in badlands biomes. Badlands mineshafts are composed of dark oak planks and fences with railways more complete above ground. Since badlands biomes generate gold ore often and at higher altitudes, they are good places to easily find gold.
+
+All mineshafts have: 
+
+Starting point: a 1010 parlor, with an arched ceiling and one to four exits in each direction.
+Corridors: some 33 tunnels and junctions are supported by planks and fences. Some places are decorated with torches and cobwebs. On long corridors, these supports are placed four blocks away from each other, while some have missing planks which may be filled up with cobwebs or blocks of stone jutting out from the top. The tunnels are connected by incomplete rail systems on the ground, upon which minecarts with chests generate uncommonly. Cobwebs do not generate if they would not be connected to solid blocks, while corridors generate with log pillars, chains and fences for support if they are in mid-air.
+Crossings: dual-floor, 55 intersections supported by wooden columns.
+Staircases: diagonal tunnels, stairs blocks are not used.
+Abandoned passageways: accessory corridors with cobwebs concealing cave spider monster spawners.
+Any chest found in a mineshaft always occurs as a minecart with chest that rests on top of some rails.
+
+In Java Edition, each mineshaft chest contains  items drawn from 3 pools,  with the following distribution: 
+
+In Java Edition 1.20.2, each mineshaft chest contains  items drawn from 4 pools,  with the following distribution: 
+
+In Bedrock Edition, each mineshaft chest contains  items drawn from 3 pools,  with the following distribution: 
+
+Issues relating to "Mineshaft" are maintained on the bug tracker. Report issues there.
+
+The central room of a mineshaft never generates in the same chunk as (0, 0) in any Minecraft world.
+
+In LEGO Minecraft Micro World  "The Village", a mineshaft is beneath a village.

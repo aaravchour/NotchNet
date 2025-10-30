@@ -1,0 +1,20 @@
+The fishing rod is an artifact that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Squid Coast
+Soggy Swamp
+Soggy Cave
+Creepy Crypt
+Frosted Fjord (DLC)
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+Pulls the closest mob in range to the hero's position, briefly stunning that mob. The stun duration scales with the power level of the item. When there are no mobs nearby, the fishing rod shoots out in front of the hero in a straight line before returning.
+
+X second stun duration
+3 second cooldown
+
+Issues relating to "Fishing Rod" are maintained on the bug tracker. Report issues there.

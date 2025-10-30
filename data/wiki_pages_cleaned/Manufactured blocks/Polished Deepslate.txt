@@ -1,0 +1,17 @@
+Polished deepslate is the stone-like polished version of deepslate.
+
+Polished deepslate generate naturally in ancient cities.
+
+Polished deepslate can be obtained only by mining it with a pickaxe. When mined using any other tool, it drops nothing.
+
+Using a stonecutter instead of a crafting table can produce all the derivative deepslate blocks directly. All of the blocks below, including polished deepslate, can also be obtained directly from cobbled deepslate.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Polished Deepslate" are maintained on the bug tracker. Report issues there.

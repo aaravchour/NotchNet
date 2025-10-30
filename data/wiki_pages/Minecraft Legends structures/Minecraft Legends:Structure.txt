@@ -1,0 +1,69 @@
+
+== Overview ==
+
+
+== List of Structures ==
+
+
+=== Player Building Melodies ===
+Extendable Wall
+Ramp
+Gate
+Ice Trap
+Scatter Tower
+Wellhouse
+Spyglass Overlook
+Redstone Launcher
+Stun Tower
+Battle Drum
+Protector Tower
+Kaboomery
+Frost Tower
+Blast Tower
+Carpenter Hut
+Arrow Tower
+Lapis Flag
+Masonry
+
+
+=== Player Improvement Melodies ===
+Improvement Hub
+Improvement Gather Coal
+Improvement Gather Redstone
+Improvement Gather Iron
+Improvement Gather Diamond
+Improvement Build the First
+Improvement Abundant Allays
+Improvement Banner
+Improvement Allay Storage
+Improvement Flames of Creation
+Improvement Build Power Towers
+
+
+=== Naturally Generated Structures ===
+Village
+Well of Fate
+Zombie Homestead
+Skeleton Homestead
+Creeper Homestead
+
+
+=== Piglin Structures ===
+Nether Portal
+Lava Coil
+Blaze Rod Tower
+Furnace Tower
+Nether Spreader
+Spore Tower
+Terror Horn
+Spike Tower
+Piglin Pit
+Patcher
+Piglin Launcher
+Siegeworks
+
+
+== Trivia ==
+
+
+== Gallery ==

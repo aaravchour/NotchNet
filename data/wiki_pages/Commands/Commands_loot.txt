@@ -1,0 +1,102 @@
+Drops the given loot table into the specified inventory or into the world.
+
+
+== Syntax ==
+Java Edition
+loot <TARGET> <SOURCE>
+In which:
+<TARGET> is:
+give <players>
+Gives items to players, ignoring empty item stacks.
+insert <targetPos>
+Distributes items to a container block.
+spawn <targetPos>
+Spawns item entities.
+replace block <targetPos> <slot> [<count>]
+Distributes items to a container block.
+replace entity <entities> <slot> [<count>]
+Distributes items to entities.
+<SOURCE> is:
+fish <loot_table> <pos> [<tool>|mainhand|offhand]
+loot <loot_table>
+kill <target>
+mine <pos> [<tool>|mainhand|offhand]
+Bedrock Edition
+loot <TARGET> <SOURCE>
+In which:
+<TARGET> is:
+give <player: target>
+Gives items to players, ignoring empty item stacks.
+insert <position: x y z>
+Distributes items to a container block, ignoring empty item stacks.
+spawn <position: x y z>
+Spawns item entities, ignoring empty item stacks.
+replace block <position: x y z> slot.container <slotId: int> [count: int]
+Distributes items to a container block.
+replace entity <entity: target> <slotType: EntityEquipmentSlot> <slotId: int> [count: int]
+Distributes items to entities.
+<SOURCE> is:
+kill <entity: target> ["<tool>|mainhand|offhand": string]
+loot <loot_table: string> ["<tool>|mainhand|offhand": string]
+
+
+== Arguments ==
+JE: <loot_table>: resource_locationBE: loot_table: string: basic_string 
+
+Specifies which loot table to use.
+In Java Edition, must be a resource location which will be resolved during command execution into unregistered content or client-side content.
+In Bedrock Edition, must be a string. And it must be a single word that has no space or a quoted string. And it refers to a loot table with the path of "loot_tables/loot_table: string.json".
+JE: <tool>: item_stack 
+
+Specifies a tool to mine or fish.
+It must be in the format of item_id{data_tags}(accepts item and block tags), in which data tags can be omitted when they are not needed.
+BE: "<tool>|mainhand|offhand": string: string 
+
+Specifies a tool to be used to kill or loot.
+Must be a string. And it must be a single word that has no space or a quoted string. Can be mainhand and offhand, otherwise it represents an item id.
+JE: <target>: entityBE: entity: target: CommandSelector<Actor> (in kill source)
+
+Specifies one entity to kill simulatively.
+Must be a player name, a target selector or a UUID.  And the target selector must be in single type.
+JE: <players>: entityBE: player: target: CommandSelector<Player> 
+
+Specifies one or more players to give.
+Must be a player name, a target selector or a UUID‌.  And the target selector must‌/should‌ be of player type.
+JE: <pos>: block_pos and <targetPos>: block_pos (in replace block and insert mode)
+BE: position: x y z: CommandPositionFloat (in replace block and insert mode) 
+
+Specifies the position of a block.
+In Java Edition: must be a block position composed of <x>, <y> and <z>, each of which must be an integer or a tilde and caret notation.
+In Bedrock Edition: must be a three-dimensional coordinates with floating-point number elements. Accepts tilde and caret notations.
+JE: <targetPos>: block_posBE: position: x y z: CommandPositionFloat (in spawn mode) 
+
+Specifies the location where item drops.
+Must be a three-dimensional coordinates with floating-point number elements. Accepts tilde and caret notations.
+JE: <entities>: entityBE: entity: target: CommandSelector<Actor> 
+
+Specifies one or more entities to modify.
+Must be a player name, a target selector or a UUID‌. 
+JE: <count>: integerBE: count: int: int 
+
+Specifies the number of consecutive slots to be filled.
+Must be a  32-bit integer number. In Java Edition, it must be between 0 and 2147483647 (inclusive).
+JE: <slot>: item_slot
+BE: slotType: EntityEquipmentSlot: enum, slot.container, and slotId: int: int  
+
+Specifies the inventory slot to be modified.
+Must be a string notation that refer to certain slots in the inventory, which consists of "slot type" and optional "slot number", in the format of <slot_type> or <slot_type>.<slot_number> in Java Edition, or <slot_type> <slot_number> in Bedrock Edition. See Slot for details.
+
+
+== Result ==
+
+
+== Output ==
+
+
+== See also ==
+/give — give specific items to players without specifying a loot table
+/item‌ — modify specific item slots of entities or container
+/replaceitem‌ — modify specific item slots of entities or container
+
+
+== History ==

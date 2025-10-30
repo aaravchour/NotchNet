@@ -1,0 +1,241 @@
+Jigsaw blocks are technical blocks used in the generation of some structures.
+
+
+== Obtaining ==
+Jigsaw blocks do not generate naturally and are not available in the creative inventory. They can be only obtained by using the pick block control, or by using various commands such as /give @s jigsaw. 
+Jigsaw blocks are included when a player uses a structure block to spawn certain structures that use jigsaw blocks for generation.
+
+
+=== Natural generation ===
+Jigsaw blocks do not naturally generate. Some structures rely on jigsaw blocks for generation (pillager outposts, villages and ancient cities), but these jigsaw blocks are replaced by other blocks during generation.
+
+
+== Usage ==
+Jigsaw blocks are function blocks that allow the game to construct structures out of smaller templates.
+The GUI for jigsaw blocks contains the following input fields:
+
+Target pool
+Refers to a pool of elements the jigsaw block can draw elements from (the next template to place).
+You can define custom target pools in data packs at DataPack/data/namespace/worldgen/template_pool.
+Name
+Name of the jigsaw block.
+Defaults to minecraft:empty.
+Target name
+What the jigsaw is to connect to when structure is generated from Target Pool.
+Defaults to minecraft:empty.
+Turns into
+What the jigsaw block turns into once the whole feature is generated.
+Defaults to minecraft:air.
+Joint type
+Appears only when jigsaw block is placed facing up or down.
+Contains two types of joints: Rollable and Aligned
+Rollable: When generated, the jigsaw block randomly places the targeted structure or entity within the boundary of the structure block on the same XZ axis the jigsaw block is facing. Defaults to this.
+Aligned: When generated, the jigsaw block places the targeted structure or entity directly on top of or below the jigsaw block depending on which way it faces. Useful for connecting structures or non-moving entities.
+Levels
+Determines how many jigsaw block "levels" it goes through when the "Generate" button is used (ex. Piece>[Layer 1]>[Layer 2]).
+Can be set to an integer from 0 to 20. Defaults to 0.
+Keep Jigsaw
+Determines if the next structure includes the jigsaw blocks it contains or become what its "Turns into" field is set to.
+Defaults to ON
+Generate
+Can be used to generate next structure pieces with the jigsaw block.
+Uses parameters set in levels to generate the next parts of the structure.
+Jigsaw blocks are used only in the generation of pillager outposts, villages, bastion remnants, ruined portals, and ancient cities; other structures use hardcoded generation. The generation of these structures begins with a template containing jigsaw blocks. Each jigsaw block then uses the following process to generate another template:
+
+Choose a random template from the target pool. This template contains at least one jigsaw block with the same attachment type as the block used to generate the template.
+If there are multiple such blocks, choose one at random. This gives two jigsaw blocks to be "attached".
+The template is placed so that the second jigsaw block is facing and adjacent to the first.
+Finally, both jigsaw blocks are replaced with their respective "Turns into" block.
+The above process is repeated for all jigsaw blocks in the initial template, as well as any jigsaw blocks in additional templates, until no jigsaw blocks remain (or until the game decides that the structure is large enough). The process does not, however, occur when the player uses a structure block; doing so results in a structure containing jigsaw blocks.
+NOTE: For jigsaw blocks to attach reliably one of 2 things must occur:
+
+The jigsaw block must be at the edge of the structure so that the next structure generates entirely outside of the current boundaries of the current structure. This applies to both the target and the source jigsaw block.
+The attached structure must fit entirely within the boundaries of the current structure.
+
+
+=== Piston interactivity ===
+Jigsaw blocks cannot be pushed by pistons. They also cannot be pushed nor pulled by sticky pistons.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block data ===
+A jigsaw block has a block entity associated with it that holds additional data about the block.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Block entity format.
+
+
+== Video ==
+Video by slicedlime on how jigsaw blocks are used to generate villages:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Jigsaw" or "Jigsaw block" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Renders ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Bedrock Edition ===
+
+		
+			
+			
+		
+
+
+== See also ==
+Structure Block
+
+
+== References ==

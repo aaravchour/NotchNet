@@ -1,0 +1,1 @@
+The staircase goes to the right and the exit is to the left at the top. These connect to bridges on the top and bottom. These can be mirrored to turn the other direction.

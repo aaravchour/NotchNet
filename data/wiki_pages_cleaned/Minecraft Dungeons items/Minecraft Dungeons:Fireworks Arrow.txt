@@ -1,0 +1,26 @@
+The fireworks arrow is an artifact that can be found within the various missions of Minecraft Dungeons.
+
+When the fireworks arrow is used, an firework is fired that explodes in a radius similar to TNT upon impact with blocks or mobs.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Squid Coast
+Redstone Mines
+Highblock Halls
+Underhalls
+Colossal Rampart (DLC)
+Merchants
+Village Merchant
+Luxury Merchant
+Mystery Merchant
+
+When activated, the fireworks arrow puts one firework arrow in the hero's quiver.
+
+X ranged damage
+30 seconds cooldown
+
+The damage output from a common and rare version may only differ by 1-2 points of damage.
+The power level does not appear to affect its cooldown. (30 Seconds)
+
+Issues relating to "Fireworks Arrow" are maintained on the bug tracker. Report issues there.

@@ -1,0 +1,19 @@
+A spider eye is a poisonous food and brewing item. It can be used to breed armadillos.
+
+Spiders and cave spiders have a 13 chance of dropping a spider eye when killed by a player or tamed wolf, but not when killed by environmental damage (such as falling). The maximum amount of spider eyes is increased by 1 per level of Looting. The chance of a spider not dropping any spider eyes can be found using the formula 2 / (Looting Level + 3). For example, Looting III gives a 13 chance of not dropping any spider eyes. All other amounts have an equal chance of occurring.
+
+Witches have a chance of dropping 06 spider eyes upon death. This is increased by 3 per level of Looting, for a maximum of 0-15 spider eyes.
+
+When eaten, a spider eye restores 2 () hunger points and 3.2 saturation points, giving a nourishment value of 1.6. It also applies a Poison effect lasting 5 seconds to the player, causing 4 damage, which reduces hunger/saturation by 6 points.
+
+Spider eyes can be used to breed armadillos and reduce the remaining growth duration of baby armadillos by 10%. Armadillos also follow a player holding spider eyes.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Spider Eye" are maintained on the bug tracker. Report issues there.

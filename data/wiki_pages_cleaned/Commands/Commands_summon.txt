@@ -1,0 +1,59 @@
+Summons an entity.
+
+Java Edition
+summon <entity> [<pos>] [<nbt>]
+Bedrock Edition
+summon <entityType: EntityType> [spawnPos: x y z] [yRot: value] [xRot: value] [spawnEvent: string] [nameTag: string]
+summon <entityType: EntityType> [spawnPos: x y z] facing <lookAtEntity: target> [spawnEvent: string] [nameTag: string]
+summon <entityType: EntityType> [spawnPos: x y z] facing <lookAtPosition: x y z> [spawnEvent: string] [nameTag: string]
+
+JE: <entity>: resourceBE: entityType: EntityType: enum
+
+Specifies the entity to be summoned.
+In Java Edition, must be an existing registered resource location in minecraft:entity_type registry. In Bedrock Edition, must be an ID of an entity type (without namespace).
+JE: <pos>: vec3BE: spawnPos: x y z: CommandPositionFloat
+
+Specifies the position to summon the entity. If not specified, defaults to the position of the command's execution.
+Must be a three-dimensional coordinates with floating-point number elements. Accepts tilde and caret notations.
+JE: <nbt>: nbt_compound_tag
+
+Specifies the data tag for the entity.
+Must be a  compound NBT in SNBT format.
+BE: yRot: value: RelativeFloat and xRot: value: RelativeFloat
+
+Specifies the rotation of the summoned entity.
+Must be a rotation with float number elements, including yaw and pitch, measured in degrees.For the horizontal rotation (yaw), -180.0 for due north, -90.0 for due east, 0.0 for due south, 90.0 for due west, to 179.9 for just west of due north, before wrapping back around to -180.0.For the vertical rotation (pitch), -90.0 for straight up to 90.0 for straight down.Tilde notation can be used to specify a rotation relative to the execution rotation.
+BE: lookAtEntity: target: CommandSelector<Actor>
+
+Specifies the entity to make the summoned entity facing to.
+Must be a player name or a target selector.
+BE: lookAtPosition: x y z: CommandPositionFloat
+
+Specifies the coordinates to make the summoned entity facing to.
+Must be a three-dimensional coordinates with floating-point number elements. Accepts tilde and caret notations.
+BE: spawnEvent: string: basic_string
+
+Specifies the in-game event for the entity. Should be a spawn event (event name for entities in behavior pack).
+Must be a string. And it must be a single word that has no space or a quoted string.
+BE: nameTag: string: basic_string
+
+Specifies the name of the entity.
+Must be a string. And it must be a single word that has no space or a quoted string.
+
+To summon lightning 10 blocks west of the current position of the executing player:
+ summon lightning_bolt ~-10 ~ ~
+Java Edition:
+To summon a charged creeper at the current position named "Powered Creeper":
+ summon creeper ~ ~ ~ {powered:1b,CustomName:'{"text":"Powered Creeper"}'}
+NOTE: CustomName is a raw JSON text.
+To summon a spider jockey:
+summon spider ~ ~ ~ {Passengers:[{id:"minecraft:skeleton",HandItems:[{id:"minecraft:bow",Count:1b}]}]}
+To summon a villager that trades 1 dirt block in exchange for 1 diamond:
+summon villager ~ ~ ~ {Offers:{Recipes:[{buy:{id:dirt,Count:1},sell:{id:diamond,Count:1},rewardExp:false}]}}
+Bedrock Edition:
+To summon a patrol captain pillager at the current position:
+summon pillager ~ ~ ~ minecraft:promote_to_patrol_captain
+To summon a dolphin with the name "Dolphin" in a golden color:
+summon dolphin 6Dolphin ~ ~ ~
+To summon a red dyable wolf:
+summon wolf ~ ~ ~ minecraft:on_tame

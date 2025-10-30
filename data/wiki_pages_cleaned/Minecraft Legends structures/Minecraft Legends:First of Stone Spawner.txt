@@ -1,0 +1,5 @@
+A first of stone spawner is a spawner that spawns the First of Stone within Minecraft Legends.
+
+The first of stone spawner spawns the First of Stone when a player interacts with it.
+
+Issues relating to "First of Stone Spawner" are maintained on the bug tracker. Report issues there.

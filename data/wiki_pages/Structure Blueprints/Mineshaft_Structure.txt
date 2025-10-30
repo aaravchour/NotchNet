@@ -1,0 +1,16 @@
+
+== Materials ==
+
+
+== Blueprint ==
+The minecart with chest can be placed anywhere on top of rail.
+The monster spawner should contain cave spider.
+
+
+=== Rail area ===
+
+
+=== Monster spawner area ===
+
+
+=== Intersection area ===

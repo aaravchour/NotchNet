@@ -1,0 +1,22 @@
+Bad Luck, also known as Unluck, is a status effect that decreases the chance of the player getting high-quality loot, contrary to Luck.
+
+
+== Effect ==
+Bad Luck subtracts the effect level from the attribute generic.luck, making loot table entries with a high quality score less likely, and entries with negative quality more likely. It also makes the chance of bonus_rolls occurring less likely. Fishing is the only mechanism that uses quality. The new weight of each entry is floor(base_weight + quality × generic.luck). Negative levels increase luck, similar to status effect Luck.
+
+
+== Causes ==
+Bad Luck cannot be obtained except by the Effect command.
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Bad Luck" are maintained on the bug tracker. Report issues there.

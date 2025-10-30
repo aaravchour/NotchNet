@@ -1,0 +1,4 @@
+Shipwrecks are naturally-generated structures that generate underwater. They can generate right-side-up, sideways, or upside-down. Although various woods are used in the blueprints, the shipwrecks are composed of two different randomly selected wood types.
+
+
+=====  =====

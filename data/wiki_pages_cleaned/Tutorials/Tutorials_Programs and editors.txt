@@ -1,0 +1,20 @@
+The Minecraft community has created thousands of programs and modifications that can be used to enhance the game.
+
+The server software list is so large that it has a wiki of its own. Server wrappers can be used to help manage the server.
+There are several kinds of programs which deal with Mapping:
+Mappers create an overhead view of a world, usually outputted as a single graphic or Google Maps page.
+Viewers provide an interactive view into the world, sometimes in 3D.
+Map editors let the player directly alter a world outside of the game.
+Map generators create new terrain types and block patterns that aren't available normally.
+Mods add completely new features or modes of play to the core Minecraft game; there are a number of modding tools for creating and installing them.
+To make new entities within a mod, the player also needs a 3D modeler.
+Skinning and texturing programs help with designing player skins and texturing entities.
+Resource pack builders help players with creation of resource packs which can change the appearance of the world.
+Backup utilities make it easy to play your favorite worlds on mulitple computers as well as giving the peace of mind knowing that the worlds are safe.
+Reference programs provide useful information, though they do not interact with the game directly.
+3D Exporters allow Minecraft worlds to be converted into 3D objects.
+In Bedrock Edition, there is an official way to do this, using structure blocks.
+Commandblock helpers create, compile and/or bundle languages and text files to command blocks
+Finally, there are Specialized programs for simulating redstone circuits, altering game files at a low level, and other purposes that don't fit into another category.
+There is also a small collection of apps for iOS, iPadOS, and Android devices. These tools will not work for iOS or iPadOS unless the device is jailbroken.
+Some .NET apps may require Mono to run on macOS and Linux.

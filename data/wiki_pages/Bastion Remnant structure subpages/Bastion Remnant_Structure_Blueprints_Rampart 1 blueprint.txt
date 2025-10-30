@@ -1,0 +1,4 @@
+This structure can generate with 4361 polished blackstone bricks and 3 chests. They can also generate with 364 basalt.
+
+
+==== Materials ====

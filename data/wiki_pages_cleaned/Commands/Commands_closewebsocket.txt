@@ -1,0 +1,8 @@
+Disconnects from the WebSocket server.
+
+closewebsocket
+
+No parameters.
+
+This command cannot be executed by the player directly from the chat box, but can be executed from a connected WebSocket server.
+After the command is executed, the connection to the WebSocket server is disconnected.

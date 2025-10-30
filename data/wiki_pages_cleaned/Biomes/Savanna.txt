@@ -1,0 +1,32 @@
+The savannas are arid biomes, featuring scattered acacia trees. There are three different variants of the savanna biome.
+
+Savannas are usually bordered by forests and plains. Acacia and small oak trees are the two types of trees that grow here; this is the only place where acacia trees naturally generate. As the savannas have arid climates, it never rains here and thus lightning can never naturally strike; however, overcast skies (and daytime hostile mobs spawning in the case of thunderstorms) still apply. Grass and leaves in the savanna take on an olive-green color, giving an illusion of dryness.
+Survival in the normal savanna, along with its plateau variant, is generally easy. The acacia and oak trees provide a decent source of wood, tamed horses can allow for fast travel and outrunning hostile mobs, tamed llamas can serve as useful pack animals and villages can serve as a refuge and a way to trade items. However, the vast amounts of tall grass can prove to be a nuisance when building a shelter; additionally, it may serve as an obstacle when fighting hostile mobs, as the player might end up hitting the grass rather than the mob. Survival in the windswept savanna variant, however, is dangerous due to the extremes of the generated mountains.
+
+There are three savanna biome variants (savanna, savanna plateau, and windswept savanna).
+
+The savanna is mostly flat biomes, with vast amounts of tall grass all over the terrain. Savanna typically generates bordering a desert, forest or plains biome. 
+Villages generates in savannas, which made mainly of terracotta, acacia logs, and planks; the bright-orange acacia planks make savanna villages easy to spot from a distance. Pillager outposts may generate as well.
+The following mobs are naturally spawned here
+
+The savanna plateau is identical to the regular savanna, though villages and pillager outpost do not generate here. This biome is found when a savanna generates on top of a plateau or beneath a stony mountain. Horses still spawn on the plateaus and this is the only savanna sub-biome where llamas spawn. Deep Dark biomes can also be generated under plateaus. Normal savanna won't generate deep dark on its own, but if there is plateau near as a starting point for the Deep Dark biome, it can be spread underneath a normal savannas too.
+The following mobs are naturally spawned here
+
+In Bedrock Edition, savanna plateaus use the same mob spawning chances as regular savannas.
+
+The rare windswept savanna (formerly shattered savanna) variant generates in areas with high erosion and weirdness, which means that the terrain is arguably the most chaotic in the game, a contrast from the otherwise flat savanna. It is full of extremely steep mountains, enormous overhangs, floating islands and huge waterfalls and lavafalls, with higher and rougher terrain than the windswept hills biome, and can often go past the layer 200. Large and deep lakes often form on the bases of the mountains.
+Windswept savanna biomes can often generate standalone bordering other biomes that aren't just the default savanna, with these biomes usually being temperate or warm. Windswept savannas can't generate in regions with cold or snowy biomes which means that these biomes can be found in extreme terrain.
+The terrain is covered with a mixture of grass block patches and coarse dirt patches, with a large amount of exposed stones. Tall grass doesn't generate here in Java Edition. Villages and pillager outposts cannot generate in this biome.
+The steep generated mountains make this variant almost unsuitable for shelter and even just exploring quite hazardous, due to the sharp cliffs often risking fatal fall damage if not above water. Additionally, the giant overhangs often reduce skylight on the terrain below them, not only enough to spawn hostile mobs in daylight, but to produce complete darkness similar to caves, further adding to the difficulty of this biome.
+Windswept savannas uses the same mob spawning chances as regular savannas.
+
+Java Edition:
+
+Bedrock Edition:
+
+Plains
+Desert
+Windswept Hills
+
+Around the Block: Savanna  Minecraft.net on November 18, 2021
+Around the Block: Windswept Savanna  Minecraft.net on February 4, 2023

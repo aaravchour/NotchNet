@@ -1,0 +1,3 @@
+Toggles flying.
+
+Makes the player start flying.

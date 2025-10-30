@@ -1,0 +1,209 @@
+Ocean ruins or underwater ruins are oceanic structures primarily composed of stone bricks or sandstone. They have cold and warm variants, and come in many different sizes varying from large villages to single ruined huts. They contain chests and suspicious blocks that carry a variety of loot.
+
+
+== Generation ==
+Cold ocean ruins generate in normal, cold, and frozen ocean biomes, as well as their deep variants. They are composed of stone materials and contain some suspicious gravel blocks that can be excavated using a brush.
+Warm ocean ruins generate in warm, lukewarm, and deep lukewarm ocean biomes, and are composed of sandstone and stone materials as well as having some blocks of suspicious sand within them.
+Ocean ruins may at times be at least partially buried, including with their airspaces. This means that their associated suspicious blocks will also be located under layers of usual sand, gravel, and even stone.
+Although most ocean ruins generate underwater, they sometimes generate on land.
+30% of ocean ruins generate as large ocean ruins; the other 70% generate as small ruins. If the ocean ruin is large, there is a 90% chance for 4-8 (inclusive) small ocean ruins to generate around it in a cluster. If the ocean ruin is warm, large ocean ruins generate with a structure integrity of 0.9 and small ocean ruins generate with a structure integrity of 0.8. If the ocean ruin is cold, the "brick" variant of the chosen structure type generates with a structure integrity of 0.9 if large and 0.8 if small. The "cracked" variant generates with a structure integrity of 0.7, and the "mossy" variant generates with a structure integrity of 0.5, both regardless of size. Reduced structure integrity may also remove drowned and loot chests from the structures.
+During generation, all air blocks and structure blocks act as structure voids.
+
+
+== Structure ==
+
+The shape and size of ocean ruins varies greatly, and they often generate together in groups to create ruined villages.
+All but two of the structures contain a loot chest with loot inside. The chest contains loot for specifically either a small or large sized ocean ruin structure and may be buried by some sort of material such as gravel and sand.
+Cold ocean ruins are primarily composed of stone bricks, gravel, and suspicious gravel, and also contain prismarine, sand, magma blocks, sea lanterns, polished granite, glazed terracotta, bricks, planks, cobblestone, mossy cobblestone, stone brick stairs, obsidian, and/or a chest with loot in it. Warm ocean ruins are primarily composed of sand, sandstone, and suspicious sand, and also contain polished granite, polished diorite, sea lanterns, magma blocks, gravel, terracotta, sandstone stairs, and/or a loot chest.
+Many of the structures spawn with drowned (usually 1–2, though a few structures have 3 or 4).
+Note that natural ocean ruins generate following the rules above and may not exactly match the stored structures.
+The structures below are located in the folder client.jar/data/minecraft/structures/underwater_ruin. The following is a complete table of the structures with their filenames, descriptions and what they consist of.
+Each structure block indicates either a chest with random loot, or the spawn location of a drowned.
+
+
+=== Cold ocean ruins ===
+
+
+=== Warm ocean ruins ===
+
+
+== Loot ==
+
+In Java Edition, each underwater ruin big chest contains  items drawn from 2 pools,  with the following distribution: 
+
+In Bedrock Edition, each underwater ruin big chest contains  items drawn from 2 pools,  with the following distribution: 
+
+In Java Edition, each underwater ruin small chest contains  items drawn from 2 pools,  with the following distribution: 
+
+In Bedrock Edition, each underwater ruin small chest contains  items drawn from 2 pools,  with the following distribution: 
+
+In Java Edition, each cold ocean ruin's suspicious gravel contains 1 item stacks,  with the following distribution: 
+
+In Bedrock Edition, each cold ocean ruin's suspicious gravel contains 1 item stacks,  with the following distribution: 
+
+In Java Edition, each warm ocean ruin's suspicious sand contains 1 item stacks,  with the following distribution: 
+
+In Bedrock Edition, each warm ocean ruin's suspicious sand contains 1 item stacks,  with the following distribution: 
+
+
+== Achievements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Ocean Ruins" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+
+In Bedrock Edition, ocean ruins generate with approximately equal spacing in the X and Z directions.
+In the Bedrock Edition, the loot chest of ocean ruins generates with a water block above it. This can be seen in the image on the right. In Java Edition though, this is not the case, according to the second picture.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Official artwork ===
+
+		
+			
+			
+		
+
+
+=== Odd generation ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

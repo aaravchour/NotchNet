@@ -1,0 +1,65 @@
+A fletching table is a fletcher's job site block that can generate naturally in villages. The fletching table is used to turn an unemployed villager into a fletcher.
+
+
+== Obtaining ==
+
+
+=== Natural generation ===
+Fletching tables can generate naturally inside fletcher houses in villages.
+
+
+=== Crafting ===
+
+
+== Usage ==
+The fletching table currently has no right-click functionality; though, if right-clicked in spectator mode, it shows the crafting table interface for a split second. It is most likely that its functionality will be added in upcoming updates.
+
+
+=== Changing profession ===
+If a village has a fletching table that has not been claimed by a villager, any villager who hasn't already picked a job site block has a chance to change their profession to fletcher.
+
+
+=== Fuel ===
+Fletching tables can be used as a fuel in furnaces, smelting 1.5 items per block.
+
+
+=== Note Blocks ===
+Fletching tables can be placed under note blocks to produce "bass" sounds.
+
+
+== Sounds ==
+
+
+=== Generic ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Unique ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Fletching Table" are maintained on the bug tracker. Report issues there.
+
+
+== References ==
+
+
+== External links ==
+Block of the Month: Fletching Table – Minecraft.net on November 3, 2022

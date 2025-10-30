@@ -1,0 +1,13 @@
+Dirt farming is the ability to renewably farm dirt without having to mine it from surrounding environments.
+
+This manual method uses the crafting recipe of 2 dirt and 2 gravel to create 4 coarse dirt, which can be converted back to 4 normal dirt by using a shovel or hoe, and then mined with a shovel. It is also very cheap to do and since gravel is renewable through piglin bartering, if you set up a piglin farm, it can allow you to gather up several stacks of dirt without destroying the environment in the process.
+
+This manual method uses the crafting recipe of 2 dirt and 2 gravel to create 4 coarse dirt, which can be converted back to 4 normal dirt by using a shovel or hoe, and then mined with a shovel. It is also very cheap to do and since gravel is renewable through piglin bartering, if you set up a piglin farm, it can allow you to gather up several stacks of dirt without destroying the environment in the process. You can also automate it with a Crafter.
+
+When an azalea grows, whichever block it grows on turns into rooted dirt, which can then be turned into path blocks and then mined by using a shovel without Silk Touch. Or, you can right-click the rooted dirt and you will get a root along with a block of regular dirt. This can be partnered with a stone generator, moss blocks and a TNT duper to renewably farm dirt.
+Here is a tutorial video on how to build a farm that will give you infinite dirt, moss and wood.
+
+Another way to automatically produce dirt is slightly complicated containing 3 steps.
+The first step is to use bone meal on a moss block with surrounding stone turning most of the stone into moss. Without destroying the moss you must convert the moss into podzol with a 2x2 spruce sapling. After that, the method of breaking the podzol is up to you.
+
+This method is very similar to the azalea method but with larger results and a different core strategy.

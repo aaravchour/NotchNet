@@ -1,0 +1,5 @@
+A patcher is a piglin-built structure within Minecraft Legends.
+
+Patchers spawn in piglin bases.
+
+The patcher repairs piglin outposts structures. While repairing, structures become harder to destroy.

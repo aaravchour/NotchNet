@@ -1,0 +1,70 @@
+The winter's touch is a unique snow bow variant that can be found within the creeping winter DLC of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Frosted Fjord
+Lost Settlement
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Frostwarden
+
+
+== Usage ==
+The winter's touch has moderate power, speed, and ammo. Similar to Scatter Crossbow, each arrow considered individually. Meaning each arrows had chance to trigger enchantments instead of only arrow in the middle triggers.
+
+
+=== Properties ===
+X ranged damage
+Freezes on impact
+Fires 3 arrows when charged
+
+
+=== Stats ===
+Quiver: 80
+Charge Multiplier: 2.5
+Fire Rate: 2.2 shots per second
+
+
+== Sounds ==
+Some sounds for snow bows are found in the mob audio folder.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Winter's Touch" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+
+
+=== Others ===

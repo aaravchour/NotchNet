@@ -1,0 +1,7 @@
+Prismarine is a resource in Minecraft Legends.
+
+Prismarine is dropped when piglin structures are destroyed.
+
+Prismarine can be used to create improvement structures.
+
+Prismarine is referred to internally as emeralds.

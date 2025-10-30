@@ -1,0 +1,18 @@
+Pumpkin pie is a food item that can be eaten by the player.
+
+Apprentice-level farmer villagers have a 50% or 23 chance to sell 4 pumpkin pies for an emerald as part of their trades.
+in Java Edition, farmer villagers throw pumpkin pies at players under the Hero of the Village effect.
+
+To eat pumpkin pie, press and hold use while it is selected in the hotbar. Eating one restores 8 () hunger and 4.8 saturation.
+
+Placing pumpkin pie into a composter raises the compost level by 1.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Pumpkin Pie" are maintained on the bug tracker. Report issues there.

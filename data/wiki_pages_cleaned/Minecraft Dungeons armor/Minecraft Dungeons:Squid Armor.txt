@@ -1,0 +1,22 @@
+Squid armor is an armor set that can be found within the hidden depths DLC of Minecraft Dungeons. Its unique variant is the glow squid armor.
+
+Missions
+Abyssal Monument
+Radiant Ravine
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Abyssal Eye
+
+The squid armor has the ability to squirt ink upon dashing, blinding nearby enemies.
+
++X health
++15% movespeed aura
+Release an ink cloud when rolling
+
+Issues relating to "Squid Armor" are maintained on the bug tracker. Report issues there.

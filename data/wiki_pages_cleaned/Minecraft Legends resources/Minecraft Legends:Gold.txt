@@ -1,0 +1,5 @@
+Gold is a resource within Minecraft Legends.
+
+Gold can be rarely dropped by piglins, and is dropped when destroying gold drills. Gold cannot be obtained in the PVP mode.
+
+Gold can be used to create certain structures.

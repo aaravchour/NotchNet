@@ -1,0 +1,27 @@
+Returns the local player name. 
+
+
+== Usage ==
+
+
+== Syntax ==
+getlocalplayername
+
+
+== Arguments ==
+
+
+== Result ==
+Returns the local player name. 
+
+
+== Output ==
+
+
+== Example ==
+
+
+== History ==
+
+
+== References ==

@@ -1,0 +1,39 @@
+Debugging options for GameTest Framework.
+
+
+== Syntax ==
+script debugger close
+Close a debugger.
+script debugger connect [host: string] [port: int]
+Connect to a debugger.
+script debugger listen <port: int>
+List a debugger.
+script profiler start
+Start profiler.
+script profiler stop
+Stop profiler.
+script watchdog exportstats
+Export watchdog stats.
+
+
+== Arguments ==
+host: string: basic_string
+
+Debugger's host
+Must be a string. And it must be a single word that has no space or a quoted string.
+port: int: int
+
+Port of the debugger
+Must be a  32-bit integer number.
+
+
+== Result ==
+
+
+== Output ==
+
+
+== Example ==
+
+
+== History ==

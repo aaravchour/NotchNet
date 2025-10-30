@@ -1,0 +1,1 @@
+4 middle spruce slabs in layer 6 are bottom slabs, while the rest are top slabs.

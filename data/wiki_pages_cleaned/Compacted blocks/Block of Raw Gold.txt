@@ -1,0 +1,17 @@
+A block of raw gold is a raw metal block equivalent to nine raw gold.
+
+Blocks of raw gold only drop themselves as items when mined using an iron pickaxe or better.
+
+Blocks of raw gold are a compact way to store raw gold.
+
+Piglins become distracted upon a player dropping a block of raw gold as an item, and become enraged if a player breaks a block of raw gold near them.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Block of Raw Gold" are maintained on the bug tracker. Report issues there.

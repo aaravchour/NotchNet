@@ -1,0 +1,14 @@
+A vault is a block found only in trial chambers. It can be opened by using a trial key.
+
+Mining a vault with any items will drop nothing, even if mined with Silk Touch. This makes vaults unobtainable in Survival without glitches. Vaults also take a long time to be mined, and will take the same amount of time regardless of the items used to mine.
+
+Vaults only generate in trial chambers, where multiple can spawn in a singular trial room. Most have small areas designated to it, so it's fairly simple to find them. However, unlike ominous vaults, Vaults will only spawn in trial rooms. They will not spawn in any hallway, or even certain "rooms" that have trial spawners, but are between rooms. 
+
+Vaults are able to be opened once per player, as the vault in question will register the UID of the player so that it cannot be opened by the player again. This allows for incredibly diverse potential concerning mapmaking, as since it can only be used once and its loot tables can be altered, mapmakers can randomize loot and materials given to a player for e.g. a jailbreak. To open a vault, you must click/tap on the vault while holding a Trial Key, which will close the vault's mouth and consume the key, implying that the vault literally eats the key. Then, a random amount of loot will pop up from the hole on top, with a random number of each item. Some items that have been given are golden carrots, steak, emeralds, etc. Much of the loot table within the vault seems to coincide with the trial spawner.
+
+Vaults appear to resemble a trial spawner or a regular monster spawner, with bars along each side of the block except for the front, resembling a cage. While the bottom resembles iron or stone, the top looks like it consists of copper, tuff, and deepslate. The three sides where the bars are have small, copper plates on the edges, and as the outer rim of the top of the block looks like deepslate, the middle of the top of the block resembles a spiral, with tuff being chiseled out (and polished, making it have the blueish tint) to spiral inwards, finally stopping in the center, where there is a hole, presumably where the loot comes out from. There is also a face on the front of the block, and its copper eyes are desaturated while "dormant", but saturate and gleam when a player comes within its radius. It then "opens", where it makes a sound as the face's mouth opens up, seemingly expecting a key. When in this open state, the loot available will flash and rotate inside the cage within the block, displaying the possible loot the player will receive.
+
+Issues relating to "Vault" are maintained on the bug tracker. Report issues there.
+
+Before vaults were first introduced, players would loot chests very easily and leave nothing for others.
+Vu Bui, the host of Minecraft Monthly, stated that the purpose of Vaults is to reward players with loot if a fellow player has already looted the chests and completed normal trials.

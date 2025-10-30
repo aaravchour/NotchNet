@@ -1,0 +1,5 @@
+Toggles between placing stone and placing bedrock.
+
+solid
+
+Always succeeds. Toggles between placing stone and placing bedrock.

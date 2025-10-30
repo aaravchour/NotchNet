@@ -1,0 +1,51 @@
+The crafter is a block that crafts items upon receiving a redstone signal.
+
+
+== Obtaining ==
+
+
+=== Crafting ===
+
+
+=== Breaking ===
+Crafters can be broken by hand, but a pickaxe is the fastest tool.
+
+
+== Usage ==
+
+
+=== Crafting ===
+Crafters are used to craft items when activated by a redstone signal. They have 9 container slots arranged in a 3x3 grid (like that of a crafting table). The crafting ingredients are arranged in this grid in the exact same way as you would to craft the desired item on a crafting table. A crafter does not craft upon activation if the ingredients in the grid are arranged in an invalid recipe.
+The slots in the crafter can be disabled so only certain slots can be filled. This allows for hoppers to load ingredients in when crafting items with a specific shape, such as rails.
+When receiving a redstone signal, one ingredient from each slot is consumed, and the crafted result is dropped as an item out from the side of the crafter, similar to how a dropper drops items.
+Crafters only craft the items once when a redstone signal activates it, similar to droppers and dispensers. It does not craft continuously under a redstone signal.
+
+
+=== Hopper interactivity ===
+Crafters can receive ingredients from a hopper pointing into it, filling the slots in turn. 
+Hoppers placed underneath the crafter can remove ingredients from it.
+
+
+=== Redstone interactivity ===
+Crafters can be read by redstone comparators and output power levels based on the number of slots occupied. 
+
+
+=== Piston interactivity ===
+Crafters cannot be pushed or pulled by pistons.
+
+
+=== Redstone activation ===
+Crafters do not seem to be activated by quasi-connectivity.
+
+
+== Achievements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Crafter" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==

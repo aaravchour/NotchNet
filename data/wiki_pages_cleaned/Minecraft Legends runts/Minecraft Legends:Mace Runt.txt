@@ -1,0 +1,9 @@
+A mace runt is a piglin runt that wields a mace within Minecraft Legends.
+
+Mace runts drop lapis.
+
+ Mace Melee
+
+Mace runts use maces to attack their enemies.
+
+Issues relating to "Mace Runt" are maintained on the bug tracker. Report issues there.

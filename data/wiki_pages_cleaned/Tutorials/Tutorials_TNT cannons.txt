@@ -1,0 +1,318 @@
+A TNT cannon is a mechanism that uses TNT or minecarts with TNT to launch primed TNT.
+Here is a video covering some general types of TNT cannons and is a good introduction to them. 
+
+Note: these (as the whole article) talk mostly about the classical TNT cannons that work by shooting TNT by using other TNT blocks as charge. As of 1.8, it is also possible to build a TNT cannon that works with pistons and slime blocks.
+
+Body, or housing
+Wiring
+Charge wiring
+Condensing charge wiring
+Shot wiring
+Other wiring
+Explosives
+Charge
+Condensing charge
+Shot
+Explosion housing
+Mounting block
+
+TNT cannons operate on the principle that when TNT explodes in water it will not destroy blocks, but will still launch entities, including TNT that was already ignited, which is usually done with redstone (the charge is usually ignited immediately, then after a delay the shot is released).
+The shot is the ammunition; it can be a player, a mob, a piece of TNT, arrows, sand/gravel or anvils.
+If raiding, make sure (unless you are using a hybrid TNT cannon) that the shot does not land in water.
+The charge is an amount of TNT used to propel the shot.
+The charge (if you are just playing or testing) should land (TNT will fall when activated) and explode in water, otherwise the explosion will destroy nearby scenery and damage nearby mobs.
+To properly fire an active shot (and avoid destroying your cannon), you need to be sure that your charge activates before the shot is activated. Since the charge is housed in water it will not destroy your cannon, but the shot is not housed in water when activated, so it will destroy nearby blocks and injure nearby mobs.
+Redstone is used to activate every charge TNT simultaneously with the exception of compressor charges, which are discussed in the appropriate section.
+TNT cannons can also fire up to 12 pieces of TNT with a cannon made by Creeperface_33.
+For maximum range, you want there to be an about 30 degree trajectory but with the least possible amount of matter (blocks) in between the charge and the shot, that way more of the charge's explosion reaches the shot.
+So it's best for TNT cannons to be elevated off the ground depending on the wanted range of the cannon.
+For shooting arrows, sand/gravel, anvils, or mobs, a piston might be needed to drop the said ammunition.
+
+There are 2 types of cannon names: The "common name" gives a picture of what the cannon can do and how easy it is to build. The "technical name" gives the specifics of the cannon, like how much delay the redstone repeaters have.
+
+The common name of a TNT cannon is a short numerical description followed by the cannon's nickname. It is useful for comparison of two cannons and gives the reader an idea of what the cannon can do at a glance. 
+The common name of a cannon consists of five parts: the damage value (DV), the ergonomic value (EV), the TNT amount (TA), the maximum range (MR), and the nickname. They appear in this order:
+<DV>.<EV>:<TA>.<MR> <Nickname>
+Example: 40.86:8.104 Basic.
+
+Damage value
+Damage values show how "good" a cannon is, the higher the value, the better it is. It is calculated as the average of three values: accuracy, power and speed.
+The accuracy value is calculated from the accuracy input, which is the average of the distances from the explosions generated from the shots to the average of their positions. 
+
+In the image to the right, the accuracy input is the average of the lengths of the blue lines. The red dot is the average of the positions of the explosions, and an endpoint of each of the blue lines, the others being the explosions. The accuracy value equation is (45-A)*2, where "A" is the accuracy input.
+The power value is the number of TNT in the shot times ten.
+The speed input is the distance between the front of the cannon to the average position of the centers of the explosions. The speed value equation is S/5, where "S" is the speed input.
+The damage value is calculated using this equation: (((45 - A)*2) + (P*10) + (S/5)) / 3.
+
+Ergonomic value
+Ergonomic value tells how hard a cannon is to build, higher values signifying easier build. It is the average of the construction, redstone, and TNT values.
+The construction input is an estimate of the number of blocks in the cannon, excluding fire, water, air, and TNT. The construction value is (1000 - B)/10, assuming "B" is the construction input. 
+The redstone value is ten minus an estimate from one to ten of the complexity of the redstone, times ten; (10-R)*10, where "R" is the estimate.
+The TNT value is (50 - T) * 2, and "T" is the number of TNT needed to operate the cannon at maximum capacity. 
+The whole equation to calculate the EV is ((1000 - B)/10 + ((10 - R)*10) + ((50 - T)*2)) /  3.
+
+Other
+TNT amount, maximum range, and nickname are pretty self-explanatory, but to clarify, the TA is the same as the TNT value of the EV, and the MR is the distance from the front of the cannon to the farthest explosion.
+The nickname is whatever you name it, assuming it's not profane, and nobody else has already named a similar cannon.
+This is how the 40.86:8.104 Basic cannon was named.
+
+Damage value = (((45 - 0)*2) + (1*10) + (104/5)) / 3 = 40
+Ergonomic value = ((1000 - 50)/10 + ((10 - 2)*10) + ((50 - 8)*2)) / 3 = 86
+40.80:8.104 Basic
+
+A cannon's technical name should give its readers a complete picture of its function, use, and method of operation. While it is impossible to anticipate every innovation in TNT cannon technologies, most cannons will benefit from using these standards in their technical names.
+
+The first number in a technical TNT cannon name designates how many horizontal rows(layers) of TNT it has for the charge. The example cannon has 1.
+The next number is the amount of shot TNT. Again, the example cannon has 1.
+Next, the number designates how many charge blocks of TNT the cannon has.
+If there is a TNT condensation system, after the charge number, write a decimal point, then the amount of condensation charge TNT. If there is no such TNT, write 0 instead.
+A list of how many repeaters there are, and how much they are set to. E.g. If you have 10 repeaters set to 4 (which is the maximum setting), you would list R4.10. If there are no repeaters, you would write an M for manual.
+The mounting block is designated by a code: 0 or 1 for no block, 2 for full block, 3 for slab, 4 for ladder, glass pane, or iron bar, 5 for trapdoor, 6 for fence post and pressure plate, 7 for piston.
+If the cannon does something special, like shoot vertically, or does a spread shot, write that after the mounting block code.
+The nickname of the cannon goes here.
+The featured TNT cannon above would be named 114.0R4.4M2.
+
+As discussed in basic concepts, there are many parts of a TNT cannon.
+
+Body
+Consider using a common material, such as cobblestone.
+In multiplayer, when firing against another cannon, try to use materials with higher blast resistance. (For more on TNT cannon defenses, look below)
+Another factor is visibility, which is one commonly overlooked. When making a cannon out of obsidian, it is hard to see redstone, and that can lead to fatal errors. On the other end, when setting up an ambush in the jungle, it is best not to make your cannon out of orange wool or lapis.
+Wiring
+There are two main sets of wiring in a cannon, the charge wiring which activates the charge, and the shot wiring that activates the shot.
+Without any repeaters, which can be hard to get, a cannon is designated as manual, with 2 redstone power sources/blocks, such as buttons. For a manual cannon, the materials are simple, just a redstone wire that connects the charge to a redstone emitting item, and a wire that connects the shot to a redstone power source. However, this requires skill so as not to misfire, you must know when to activate each button.
+With repeaters it is a different story. The maximum amount of time between the charge activating and the shot activating is ten repeaters set to 4. That will also bring you maximum range, will only require one redstone power source, and will require no skill to fire correctly.
+Mounting block
+Mounting blocks (described below) are only certain special blocks.
+Explosion housing
+Unless it's a dry cannon, this must be water or lava (in the latter case, only source blocks). The liquid prevents the cannon and any other surrounding blocks from being destroyed.
+
+In creative mode, there is no reason to build a TNT cannon for warfare, but is the optimal mode for testing and developing cannons.
+
+In factions raiding with TNT cannons is the most common way of getting into a base. There are two main methods. The first (on servers where enabled) is to airburst. This only works on obsidian with water outside. The cannon shot must have a delay so the explosion reaches the obsidian but the primed TNT must not be in the water. These cannons will not work on other walls. The other method is with hybrid cannons which are explained below. The basic hybrid is one of the most commonly used raiding cannons.
+
+The five big, main limits to TNT cannon engineering, ordered by importance, are:
+
+That no matter what you do, a TNT will explode approximately 4 seconds or 8 flashes after being primed. The way to sidestep this is to make the TNT fly faster, but that leads us to limit 2.
+Minecraft can only take so much, and entities flying at escape velocity around your Minecraft world can cause it to crash. Another thing that can cause crashes of your Minecraft is large amounts of impulse charges detonating in unison. With the allotted 1.5 GB of RAM, the max TNT is about 500. The way to possibly sidestep is to increase the RAM allowed for Minecraft, although that is not recommended for lower end computers.
+TNT has a 7 block detonation radius, so just making a large cannon is a waste of time. Beyond 9 charges, the TNT is wasted. However, this can be sidestepped by either adding more vertical rows of charge to your cannon, adding a charge condensing system to your cannon, or a combination of them both.
+TNT flows with the water while in it. This can be good or bad, depending on the situation. The way to sidestep this is to use water source blocks, and don't place any TNT inside it.
+If you make a vertical cannon too powerful, it will fly up too fast and high meaning it will crash your game. This can be sidestepped by decreasing the power of said cannon, or making it semi-vertical. That way you can go up and sideways.
+
+The default definition of cannon size is how many TNT are in the shot or how far it fires. If you are talking about compact cannons, you might be talking about literally the size of the cannon (e.g. how much space it takes up) or if you are talking about cannons meant for mass destruction, you might be talking about the size of the shot. But usually, people mean charge mass.
+A small cannon, such as a 112.0MM3 cannon, only has a very small range, and is meant for stopping large amounts of rushing players or mobs.
+A medium cannon, such as the 116.0R4.6M2 is meant for setting up as a first line sieger, to be set up and aimed at a target such as supplies or a wall while one has arrow cover, or to be set up as an anti-archer cannon.
+A large cannon, such as the 119.0R4.10M3 is for attacking from a distance, a borderline long range mortar, an anti-cannon defense, a second line sieger, and many other uses.
+A sniper cannon, such as the 119.3R4.10M6 is for a tent line sieger, setting up to shell opponents camp when they can't even see the cannon shelling them, and other out-of-sight range tasks such as that.
+And of course, mass demo cannons, such as the 187.0MM6 spread-shot, which is used to completely mutilate any defenses whatsoever.
+Players also like to add features to their cannons including:
+
+Multiple shots [1]
+Semi-automatic/fully-automatic firing and reloading [2] [3]
+Condenser charge (another set of TNT that explodes, pushing the charge towards the front of the cannon to increase the propulsion force.)
+Safety features, such as a blast shield to protect players/mobs from damage caused by the charge exploding
+Adjustable shot delay
+Alternative ammo, such as arrows, sand/gravel, or anvils [4]
+Dry cannon: building a cannon from explosion-resistant material to simplify design, maintenance, and potentially improve firing distance (dry cannons fire farther than their wet counterparts, all other factors being the same). See below for construction details.
+Cannons that fire in a special direction, such as up or diagonally
+Adjustable range, trajectory and direction (aimable cannons)
+Spread shot/mass destruction cannons
+Shotgun-like charges
+
+Because the force from an explosion is weaker the further away from its source, TNT placed more than 7 blocks from the projectile have little to no effect. To remedy this problem a condenser charge may be used.
+A condenser charge works by exploding slightly before the main charge, with the intention to push other primed TNTs towards the projectile. Since the main charge is closer to the projectile, it will be launched with more force.
+
+Using pistons to push the main charge closer to the shot also does the same thing as a condenser charge, more complicated to build but more controllable. To work, the main charge must be primed, turning the solid TNT blocks into entities. Once they are entities, a series of pistons can push and concentrated all charges into a single block space behind the shot. In this system, you get far more efficient power from a given size of charge.[5]
+Care must be taken so that the pistons do not displace the water blocks protecting the cannon from TNT damage. To do this, one usually has to apply water a block above the area where the pistons would go into. It is also advised that the pistons should retract back into normal position before the main charge explodes, or your cannon might be destroyed. When the pistons extend, they create air spaces in the water no matter what, hence compromising the water's protection.
+
+When a TNT charge is primed, it will usually shift slightly to one side, which can reduce the accuracy of otherwise well-designed cannons. A simple solution exists: add guide blocks so that there is a wall on either side of the TNT when it is primed. This will prevent the TNT from shifting left or right, resulting in a straighter shot, with less diagonal variance. If your design does not allow for this, you could just make the guide blocks one block higher, instead of being on either side of the TNT. This works because TNT will jump up, then go sideways in midair. Note that in most basic cannons, guide blocks should be transparent if the TNT cannon automatically primes the shot-otherwise, the redstone that ignites the charge will power the block next to the shot, and igniting the shot as well. If this explanation is unclear, look at this diagram:
+
+In dry cannons, a guide block is almost a necessity because dry cannons tend to be inaccurate. However, dry cannon's guides are for directing the shot to be shot accurately, not to be primed accurately. However, guides can also decrease range if they are too long.
+
+The shot mounting block for a cannon should be chosen according to how fast, far, and high you want the cannon to fire. Of course, these variables depend greatly on the position and amount of the charge and the timing of the shot, but the mounting block also can make a difference. For example, with a cannon with a charge of 5 and a delay of R4.3, the shot will take a mortar trajectory with a ladder more than with a fence post and pressure plate.
+A few things:
+
+Even though the shot mounting blocks ladder and full block are both the same height and fire a shot at the same trajectory, the ladder will consistently fire farther than the full block because the ladder has less matter in between the shot and the charge than the full block. This situation is the same for all mounting blocks, the slab and fence post with pressure plate also follow the same rule.
+There is a trade off: although the fence post and pressure plate fire the farthest, they are also expensive, while the slab is cheap and easy to get, as well as coming in many forms.
+The maximum range for any cannon can be achieved by altering the mounting block. A TNT shot will be fired farthest if it leaves the cannon at a 30 degree angle. So, if you want to just have your cannon go the farthest it can, use the slab, fence and pressure plate, or trapdoor mounting blocks. However, when faced with fortifications or terrain obstacles, the best idea would be to have a mounting block like piston, ladder, or single block that makes the TNT arc over the said obstacle. But, then again, it is fun to blast your way through things...
+The following shot mounting blocks are tested and deemed safe. Feel free to experiment with mounting blocks, but keep in mind that some blocks, such as a lone pressure plate, will cause a mis fire of your cannon, and of course make it self-destruct.
+A rewrite for most of these mounting blocks is coming soon.
+
+Note: the example cannon needs modifications to work in Bedrock Edition because dispensers still make TNT hop ending up with the first TNT destroying the machine. This can be fixed by putting that dispenser on a separate water flow that goes into the same block, also allowing for long range cannons.
+Since the Redstone Update, redstone dispensers dispense ignited TNT instead of dropping it. This feature can be used to make better automatic TNT cannons. 
+The cannon to the right uses dispensers to release TNT into the water. When you press the button, first the long row of dispensers will fire. After a 33-tick delay made the repeaters, leftmost dispenser will dispense the last moment before the TNT detonates, giving the shot a longer range. Note that the leftmost dispenser is higher than the other dispensers, and that the water should be flowing towards the front of the cannon. Dispensers dispense TNT without the characteristic "hop" of ignited TNT, which helps ensure the TNT will land in a much shorter radius than a conventional TNT cannon.
+
+One of the smallest TNT cannons is this design by Mumbo Jumbo:
+
+You can easily modify it to have another dispenser under the water facing up, and you can use a fence post with a pressure plate on top instead of a slab.
+Pros: The time taken to reload TNT is at its absolute minimum. All a player has to do is to make sure the next shot is placed after the first shot is fired to make sure you don't destroy your cannon. This cannon requires little skill at all to fire; the hardest part will be placing the cannon a proper distance away to make sure you don't over/under-shoot. Such precision makes this cannon good for castle defense. Furthermore, through use of comparators, it is possible to make an easily aim-able dispenser-based cannon, and dispenser-based cannons do not blow themselves up if hit with another TNT cannon.
+Cons: Dispensers and TNT are expensive. This type of cannon can never be quite as hardy as manual cannons, since dispensers can be blown up with TNT. Furthermore, if the cannon is left loaded and unattended, it is trivial to steal the TNT from its magazine. (This is also true of conventional auto-cannons.) Dispenser-based cannons with a one-block-wide water pool have also been known to blow themselves up, particularly if left firing automatically and unattended.
+An automatic cannon can easily be made with this design. Substitute the button for redstone and hook the redstone up to a clock. Be careful not to set the clock under 4 seconds, the same time as it would take the TNT to explode. If the TNT is reloaded too quickly, the timing can cause the shot to detonate before the propellant does, destroying the entire cannon.
+
+Reloading cannons are one of the most complex designs for beginners. However, as long as close attention is paid, for a first time build, it can be created in about 1520 minutes depending on the size. Reloading cannons became obsolete when dispensers were added (except in the console editions).
+The Good: Reloading TNT cannons can be customized just as easily as any other cannon (using fences, iron bars, glass panes, etc.). They can be shot several times with only a few seconds' interval in opposition to having to reload it several times like you'd have to do with a standard TNT cannon. Using the simple design, this TNT cannon can have up to 12 rounds in the magazine. If playing a fortress war server, this cannon can fire repeated shots which will demolish the enemies' buildings before they have time to stuff their ammunition into their puny and inferior weapons.
+The Bad: Unfortunately, cannons of this variety are bulky and often unattractive. They require sand or gravel which are nonrenewable resources in survival mode. Added to that, it is tedious to reload the cannons whenever the magazines run out of ammo, however occasional that may be. With standard TNT cannons, if the 1-round magazine is destroyed, it is usually easily replaceable. This is not the case with the reloading kind, as the entire magazine will explode, destroying the weapon and all the redstone wiring with itoften killing you in the process. This type of cannon has also become redundant with the recent updates allowing automatic cannons utilizing dispensers to reload the tnt, which is easier and more compact to make.
+
+In order to avoid having to manually place TNT into every dispenser of a cannon, some more modern cannons have been designed to use a minecart or hopper system in order to distribute a large stack of TNT from one location such as a chest into all of a cannon's dispensers. There are issues to using such systems, primarily that nearby minecarts may break if the cannon's charge is too powerful, and the necessary redstone circuitry and hopper designs may be deemed too large or complex to be practical.
+The Chaosrider design for the 112.0R1.2R4.1M6 Reloading WOLF uses minecarts and hoppers in a compact and semi-efficient manner:
+
+You will need: 14 building blocks, 4 dispensers, 4 redstone dust, 6 redstone repeaters, 1 bucket of water, 1 button, 1 fence, 1 pressure plate and at least 4 TNT.
+
+Build a U-shaped frame using building blocks and dispensers, 1 block above the ground. It should be 6 blocks long and 3 blocks wide and the dispensers should be facing towards the center of the U shape.
+Add 3 blocks to the front of the U-shape. These will help guide the shell. Now add a final dispenser, facing towards the column of blocks.
+Add 3 blocks in the center of the U-shape, one block lower than it.
+Place a fence post and a pressure plate in front of the cannon, then add water running towards the pressure plate.
+Put redstone dust over the 2 dispensers (you will have to hold down shift key to do this) then over the furthest dispenser, put a block on top of it and then put a button on top of that block.
+Finally, add Redstone repeaters to the remaining spaces and put redstone dust on the conners. Every redstone repeater has a 4-tick delay except the Redstone repeater pointing to the upper dispenser.
+Finally, fill all 4 dispensers with TNT and give it a try!
+
+Pros: Very simple
+Cons: No water means terrain damage. Can damage you a lot. Requires a bow
+This cannon only requires a flame bow, 2 arrows, and 8 TNT (though you'll want to use either water or good armor). This was made by reddit user Zecon 365 here
+
+A simple and compact cannon that can cause massive destruction.
+It utilizes an extremely quick timer to dispense and propel the primed TNT with the help of a slime block.
+
+This is a simple TNT cannon to rebuild. It is very efficient and shoots you very high in the air.
+
+This cannon has very few uses, but can be used instead of a gravity fed TNT dropper.
+
+Pros: easy to build, understand, and use
+Cons: any mob can accidentally use
+This cannon requires water, redstone, any block, TNT, and pressure plates. Make a 9x3 rectangle, break the middle of a 3 on one side, and put 2 more blocks on both sides of the hole, straight up on the blocks. Pour water into the other side, and place TNT everywhere but source, and between the highest blocks. Make stairs down one side of the high areas, place redstone on the stairs, one block away, then add a pressure plate. Place redstone along the frame until you get to the high points. Put three redstone past the far corner by the stairs, and place another pressure plate. Step on that, wait a count of 3 or 4 secs, then go step on the other plate. The high TNT will fly out up to about 50-60 blocks. 
+Note: The water source neutralizes the lower TNT to prevent destruction.
+
+It is a simple cannon that has an automatic delay. Used mostly for guinea pigging other, larger, prototypical cannons or as wall mounted defense against ground- based troops or artillery.
+114.0R4.4MB2 - The naming system for it can be found above.
+
+Once you activate the switch, first it activates the charge wiring, then sends a minecart around the cannon that triggers a detector rail, which primes the shot. Saves redstone, but takes a lot of iron (However, if you get rails from abandoned mineshafts this design can even save you resources!).
+
+Once you activate the switch, first it activates the charge wiring, then shoots an item out of a dispenser that will slowly fall down through a pressure plate on a fence and burn. Saves redstone, and requires no repeaters for those survival cannon engineers, Over all, it's cheaper than the design above and normal automatic delay cannons with repeaters used as a delay.
+
+Once this cannon is set up, then it can be used in order to launch entities onto other objects or areas of the map. It can be a little difficult however to get the entity inside the cannon,if it's something other than a human. (this can be done by putting the entity in a minecart and using rails to get it in)
+
+This type of cannon is easily constructed, very powerful (practically infinite) yet flexible with its charge and hilarious to watch unfold. The only downsides are that it requires an active ender portal and you will need to be in creative to survive maximum charge. 
+It operates on the principle that the fuse timer on primed TNT is reset to 0 when it passes through an end portal. This means that a potentially infinite amount of TNT can be used as a charge, simply by condensing it into 8 blocks of space. Minecraft will not detonate them until you are in the end, thus making the computer itself the limiting function.
+
+This cannon, often called vertical launcher, other times called "Fireworks cannon" can be used to launch TNT blocks vertically, so that they can explode whilst midair.
+
+For long range cannons it is best to use a cannon with multiple rows of TNT for the charge, and depending on the elevation of your cannon, playing around with mounting blocks helps.
+If you add multiple shot TNT to your cannon, and play around with where you place the TNT in your cannon, then you can effectively destroy anything in the cannons path.
+3X3 TNT Minecart Cannon.
+
+Anvil "Baseball" cannon 1280M3ANVIL
+Cheaper Cannon that uses Eight Charge Pieces of TNT to launch 1 to 2 anvils up to 75 blocks on Ground Level and Further at a Higher Elevation Is Built by simply Wiring up Eight Dispensers to a Single Lever without a Delay and a Water Stream moving towards the  two Anvils that are Hand loaded over an Upward Water Column that, If done Right, will cause the Anvils to Jump up and Down, the Cannon casing should contain a Slab preventing the TNT from Reaching the Water Column and a Basic Surrounding case. To fire Pull the Lever once when Both anvils are Staying low on the Water Column, By the time the TNT fires the one anvil will be leaping High, and if it is at the Apex of it's Leap, Will be Launched High into the Atmosphere and out of Sight. The Cannon gets the Baseball name due to the Similarities between it and Trying to hit a Ball floating on a Jet of Air with a bat.  Currently Working on Adapting it to Launch TNT.
+You can also try TNT missiles. They go infinitely long until they hit a block in their path. So as long as you load the chunk they fly in, you can launch a missile from any distance and hit a target if you aim correctly. Here is a classic minecraft missile: 
+
+In vanilla minecraft, chunks are sorted by level propagation(See "Chunk"). In ticking chunks with level propagation of 32, or "lazy loaded chunks", tnt entities won't be loaded. Thus, tnt entities in lazy loaded chunk won't be ticked until players leaves his current chunk. We can stack tnt in lazy loaded chunk and it won't explode or move, which will help us to make super long distance tnt cannons with FTL speed.
+A sample video(Not english): TheSailor's 300k entity cannon with speed of 8924m/s
+Another sample video(Not english): xxld0's ticking chunk end pearl cannon with speed of 510M(yeah 510 million)m/s
+It is also possible to use this exploit to control tnt directions more percisely.
+Video:ps017 's infinite tnt cannon
+
+The damage of arrows are calculated by the speed of arrow(See "arrow" page). Arrows can also be acclerated by tnt explosions, which gives them a boost in damage. If tnt are correctly placed, arrows can be acclerated into any speed. An arrow with speed higher than 800m/s is able to deal
+200 damage in one shot.
+Example video: Fallen_breath's drangon killer cannon
+
+This is a very complex design that is capable of selecting 7 ranges. It is also capable of firing in semi-auto, full-auto and 3-round burst like the H&K MP5 submachine gun.
+
+A simple design using a bug with TNT minecarts, using multiple minecarts to simultaneously explode causing projectiles to be launched into the air. This cannon uses less TNT than traditional methods previous of 1.5 and launches projectiles much further.
+L0:
+
+L1:
+
+L0:
+Solid base, 3X9, normally buried one layer down
+L1:
+
+L2:
+
+L3:
+
+Remember that all repeaters must be set to their longest setting.
+Note that obsidian was used here to reduce the possible damage in case of misfires, but feel free to use any other strong, solid block.
+An improved fully automatic shotgun style cannon tutorial and demo can be found here [6]
+Make sure all the dispensers face into the barrel of the gun and remember that only the first water block at the back is a source block.
+Also by using pipes of hoppers attached to the backs of the dispensers, one can more easily distribute stacks of TNT from a central point, such as a chest.
+Feel free as always to improve the design. Happy hunting!
+
+A launchpad is similar in design to a TNT cannon, but instead of launching horizontally, it launches vertically either straight up or at an angle, depending on the design. There are many ways to create them, but some methods are more efficient than others. For instance, a simple design would be the cross pattern, as shown below.
+This is what it would look like from above:
+
+To load it, place TNT on the flowing water blocks.
+The above design can easily be expanded in size and improved, but it is one of the easiest designs to build. Another simple design, yet much more powerful, is here:
+
+Another powerful design, using dispensers to place the TNT is built as following:
+
+The dark blocks on the last two on the right represent dispensers, facing the center. If you want this to be reusable, place a water source between them.
+A pressure plate delay is enough for each dispenser to shoot twice.
+An interactive version is here: [7]
+
+As of Minecraft 1.5, dispensers now dispense ignited TNT. Thus, downward-facing dispensers can rain TNT on anything under it. 
+Pros: This is a great way to bomb enemy bases without retaliation. TNT cannons cannot fire straight up, or risk blowing themselves up. It can easily blow its way to bedrock. In bases with water over them, sand can be dropped from above.
+Cons: This cannon is useless in factions servers which have block protection over bases, as this requires this to be directly above the base. It is extremely resource-heavy, as so much TNT is used. 
+This has less range than a downward facing TNT cannon.
+This trap is very simple: Go up high, build a platform, place dispensers downwards, set a clock, and watch as your enemy's base is obliterated. Simply block-pillar up to a good height. Do not build too high, as the TNT would explode in midair, uselessly. Build the platform directly over the target. Place dispensers and fill them with TNT. Set a Clock circuit to trigger the dispensers, but be careful! Setting the speed too fast will have the waves of TNT literally launch upwards and destroy your cannon. You can mine the dispensers later. As to the problem of getting back down, you could use water, but Ender Pearls could come in handy.
+
+It fuses sand and TNT together to blow up blocks covered with water. Water is the enemy of TNT cannons, and this one works around it. 
+
+This cannon is shaped like a T; the way it works is that it drops the shot in vertically on top of a mounting blocks between 2 smaller troughs that can be filled with TNT to change the shot's horizontal launch angle. You can adjust the range by not filling the main trough all the way. Great for putting in a castle to destroy enemy artillery!
+
+An arrow cannon technically does the same job as a dispenser just with greater range and area-of-effect. The general way to make these is to have a piston extended over where the mounting block on a normal cannon would be. This would be hooked to a repeater string exactly nine repeaters long, then inverted to keep the piston extended. The rest is simply the charge trough, wired up like a normal cannon. Then use a bow to deposit arrows on the piston head, load the charge trough, and press the button. What happens is: right before the TNT explodes, the piston retracts making the arrows fall. Then the TNT goes off, launching the arrows long distances. This cannon is commonly used in generally mid-range scenarios where damage to blocks is unwanted.
+Here's another design:
+
+The cannon displayed uses a delay to break the sand on the upper-front and accelerate the arrows. Below the first image is a top view.
+
+Sand cannons are a variation of the TNT cannon that is harmless. The concept is the same, but uses sand as a projectile. Also, the sand must be falling as the TNT in the cannon explodes, shooting the sand, otherwise, nothing happens. It is possible to pile the sand up to make a "sand shotgun cannon", which can fire multiple sand blocks at different distances. Note that the sand cannon generally only fires in one direction and is not destructive. It can be used for pelting sand at people's plots in creative multiplayer plots servers, and in turn, making moderators mad. Sand cannons are also commonly used by griefers on multiplayer servers. While the victim is doing renovations on their claimed land, griefers may build a sand cannon as quick as possible as to not being caught, and fire several blocks of sand to the top of the victim's house while they are doing construction in hopes that they will break a block on their roof and have sand fall on top of them.
+Sand falls at a different speed than TNT does. As a result, it isn't possible to make a TNT-sand variable cannon that uses sand to determine where the cannon will launch its TNT to. However, it will fire the sand at the same horizontal angle if using an aimable cannon.
+To build a sand cannon, use a piston to push the sand off in front of the TNT charge, or a sticky piston attached to an inverter to remove a block holding the sand up.
+NOTE: Sand is not the only thing that can be used. Anything that falls can be used, and this includes:
+
+Gravel
+Anvil
+Dragon egg
+Note that anvils and dragon eggs will not be pushed by pistons, so only the second method described above for building will work for said blocks.
+
+A dry cannon uses TNT to launch TNT (or even the user on creative mode). Dry cannons are simple, easy to build and effective but require lots of obsidian or other blast-resistant materials.
+The main difference between a dry cannon and other designs is the lack of water and the use of a wadding block.
+
+The charge is a large amount of TNT that propels the shot. All of these TNT blocks must be ignited simultaneously.
+The wadding block can be any type of block (except obsidian, bedrock and any other blast-resistant blocks) and provides a buffer between the charge and the shot. Sand, snow, wool and other soft blocks seem to produce the best effects.
+The shot is a block of TNT or the user if you are on creative mode and drop into position on time.
+
+This design is a vertical cannon but can be turned horizontally as well.
+The cannon is built entirely of obsidian.
+Start by building a 5x5x4 rectangular prism, leaving a 3x3x2 chamber inside.
+Make a hole in the top center of the prism.
+Place one piece of obsidian on the center block at the bottom of the chamber. This is the mounting block.
+Load bottom layer of chamber with TNT. This is the charge.
+Place the wadding on top of the mounting block.
+Place the shot on the wadding.
+Provide a redstone circuit so all the charge blocks are activated simultaneously.
+Stand back and throw the switch!
+
+Make a long tube of obsidian (works best with 3x3x6 or 3x3x7) with a hollow middle. Then, put two blocks of obsidian on the top. Hollow it out. Fill with TNT, and put an non-blast resistant block in the last space on the front. Cover the top with redstone, and place a button on the back. Optionally, make a platform to stand on when you trigger it. You should also make it a little ways off the ground. See diagram below, in which the orange stands for the wadding (shown in cutaway side view):
+
+It will launch several blocks of TNT at your target, however it is expensive and does not have a very long range, but with a big cannon, you can shred a large amount of land with each shot. Occasionally the redstone will be blasted off if you have a large cannon, so it is good to keep some redstone on hand. Good for the defense of a village (blast mobs with a row of cannons when they come too close!). Best for creative mode due to the large amount of TNT needed for each shot.
+
+Slime blocks, introduced in 1.8, can bounce entities to certain heights. They can also push other blocks with them when pushed by pistons. These machines make use of this concept to make TNT catapults.
+Pros
+
+They are very cheap to build.
+They are decently long ranged and fire in an arc.
+They use much less TNT than other cannons of their skill.
+They can be fired extremely rapidly.
+Cons
+
+It can be hard to obtain the pistons and slime blocks needed.
+The catapult has a fixed target and limited range.
+
+A TNT cannon might shoot TNTs far away, but not high up. this design uses an ordinary cannon, but uses slime blocks to launch it higher.
+
+Mortar - High angle shot using a ladder mounting block.
+Compact - The shot is primed by hand, which must now be done with flint and steel
+Super large cannon - Firing other entities.
+
+TNT cannon firing is the most random event in Minecraft, because of thousands of different sample points taken to determine dozens (or even hundreds) of different vectors which are then added together to form the base trajectory of a shot. However, it is possible to make some cannons, especially vertical mortars, 99% accurate (the charge falls back into the barrel and detonates at a specific height).
+If you're really lazy and have operator privileges (or in singleplayer with cheats), you can just use commands or command blocks instead.  The command /summon minecraft:tnt ~ ~2 ~ {Fuse:12,Motion:[1.0,0.0,0.0]} will fling a lit TNT eastward, starting from just above your head.
+TNT cannons tend to fire further when facing east or south.

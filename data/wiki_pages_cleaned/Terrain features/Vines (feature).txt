@@ -1,0 +1,9 @@
+Vines are features that consist of a single vines block.
+
+Vines are features made of a single vines block. They can be found in the Jungle, Sparse Jungle, Bamboo Jungle and Lush Caves biomes.
+
+Java Edition:
+
+Bedrock Edition:
+
+which are used in:

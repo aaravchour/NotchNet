@@ -1,0 +1,42 @@
+A dried ghast is a block added in Chase the Skies. It can be found next to Nether Fossils in the Soul Sand Valley, and turns into a ghastling when soaked in water over time. It was revealed in Minecraft Live - March 2025.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+A dried ghast can be broken easily with any tool.
+
+
+=== Crafting ===
+
+
+=== Bartering ===
+Dried Ghasts are also obtained via bartering with Piglins.
+
+
+== Usage ==
+When dried ghasts are placed under Water, they turn into Ghastlings. This process takes 20 minutes or so. There are four stages of the dried ghast when soaked in water.
+Stages:-
+
+Dried stage (default stage)
+Partially hydrated
+Mostly hydrated
+Hydrated (After this stage, a ghastling spawns up.)
+If the dried ghast is in between its hydration stages and the player breaks it, it will simply go back to its default stage. Removing water from the dried ghast during its hydration stages also reverts it back down to its default stage.
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Dried Ghast" are maintained on the bug tracker. Report issues there.
+
+
+== References ==

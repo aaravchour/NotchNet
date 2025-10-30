@@ -1,0 +1,5 @@
+Creates an Agent at the current player's position.
+
+createagent
+
+Always success; Agent created successfully.

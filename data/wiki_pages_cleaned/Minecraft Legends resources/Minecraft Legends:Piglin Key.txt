@@ -1,0 +1,5 @@
+A piglin key is a resource used to open piglin chests within Minecraft Legends.
+
+Piglin keys have a chance to be dropped by any piglin units upon death, however there is a higher drop chance if the piglin defeated is a tougher unit or a boss.
+
+Piglin keys can be used to open chests found within piglin outposts.

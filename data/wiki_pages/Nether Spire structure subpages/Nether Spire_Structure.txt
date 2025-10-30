@@ -1,0 +1,27 @@
+
+== Nether Reactor ==
+
+
+=== Materials ===
+
+
+=== Blueprint ===
+
+
+== Nether Spire ==
+
+
+=== Materials ===
+
+
+=== Blueprint ===
+Note: Some of the netherrack blocks on layers 0–32 disappear once the Nether reactor's spawn cycle ends.
+
+
+== Extinguished Nether Reactor ==
+
+
+=== Materials ===
+
+
+=== Blueprint ===

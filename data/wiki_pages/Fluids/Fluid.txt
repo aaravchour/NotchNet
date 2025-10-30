@@ -1,0 +1,116 @@
+Fluids are blocks that are able to flow over the terrain, forming rivers or falls. There are two blocks of this type in the main versions of Minecraft: water and lava.
+
+Another fluid, mud, also existed in Minecraft Earth.
+There are other in-game substances which show fluid properties but cannot be placed as fluid blocks, mainly potions, dyed water‌, milk, and honey.
+
+
+== Properties ==
+Fluids can be placed like solid blocks, but cannot be picked up without a bucket or a bottle.
+When placed in open terrain, fluid blocks are a source for a flow, unless they are confined by other blocks. A completely confined fluid renders as still.
+
+Source blocks that are at least partly liberated begin to flow, spreading according to the flowing fluid rules, and render as flowing, with animated lines demonstrating their direction of flow.
+
+A source block appears as being "full" nearly to the top of its containing blocks (if any) while flowing fluid blocks appear to be "emptier" the further they are from their source.
+Fluids can interact with each other, and with other blocks they are placed next to or flow over or past, according to the properties of the affected block.
+Flowing fluids exert pressure on entities pushing them in the direction of the flow. Item drops that fall into a flowing fluid are carried along until they get caught in an eddy or the flow reaches its maximum extent. Mobs that are able to float in fluids do not drown, but cannot swim upstream. The minority of mobs that swim (such as fish and axolotl) can also swim upstream.
+Fluid blocks are non-solids in the same way that air is, so placing a solid into a fluid block, source or flowing, succeeds if placement detects the side of a solid block through the fluid.
+Water source blocks placed such that they create a waterlogged non-solid block behave as any source block would, with the exceptions noted in the following sections.
+Water cannot be placed in the Nether, in both survival mode and creative mode. The only way to get water into the Nether is by using the /setblock or /fill commands.
+When two fluid sources are directly adjacent to an air block (or a waterloggable block for water), the block is filled with the corresponding fluid. This only happens if the corresponding game rule is set to true (waterSourceConversion for water, set to true by default; lavaSourceConversion for lava, set to false by default).
+
+
+=== Mechanics ===
+
+
+==== Depth ====
+Fluid blocks have a depth value that measures how "empty" it is. A source block is "full" with a depth value of 0. Flowing fluids have a depth value equal to their source's depth + 1, with a maximum possible "emptiness" value where the flow stops. Thus, a flowing block next to a source has depth value 1, the next further away 2, and so on until the flow stops. If the flow travels down in elevation, the depth resets to 0 at the new elevation.
+The maximum emptiness depth for water is 7. Lava in the Overworld or the End has a maximum depth of 3, but in the Nether its maximum depth value is 7. The maximum distance a fluid can flow from its original source block is a taxicab distance corresponding to the maximum depth of that fluid.
+The rendering of fluids is controlled by their depth values both in the height of fluid level and the direction of flow displayed.
+
+
+==== Spread ====
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+Once a source block is placed, the fluid spreading procedure begins. It does not matter if the source placed makes a waterlogged block or is placed into a block of air; both work the same way.
+This block is the first of a list of blocks involved in the spreading procedure.
+The fluid spreading procedure also begins when a fluid block that has stopped flowing receives a block update.
+First, each open side of a fluid block starts a flow. A water block in a flat plain spreads out in all four directions until it reaches the depth limit, forming a diamond shape spanning fifteen blocks point-to-point. A water source floating in midair flows out to each of its four sides and then down. Each flowing block created is added to a list of blocks to be considered for further spreading.
+Now the blocks directly below each source or flowing blocks on the "spreading list" are checked:
+
+If that block is air, it is replaced by a flowing fluid block with a depth value of 0. This new block is also added to the "spreading list".
+Because of this, a fluid can flow much farther if it flows downward occasionally than if it remains on a flat surface.
+If the block below is a waterlogged, non-solid block, then checking stops as the waterlogged source block has its own "spreading list".
+If the block below is a type of non-solid block that is affected by the fluid, then it may be converted into a dropped item. The block is then replaced by a flowing block with depth value 1 greater that the block above and is added to the spreading list. The block above is removed from the "spreading list".
+If the block below is a solid block, or one of a few non-solid blocks (e.g. fences) that are unaffected by fluids, flow spreads out to all open sides. These additional flowing blocks are added to the list.
+If all four of the surrounding blocks are also solid, the spreading procedure stops. This is how a lava or water column that does not spread over the ground can be created.
+If the block below is a fluid block of another type, the rules for mixing fluids are considered. If new flowing blocks are created they are added to the list.
+If the block below is a source block of the same fluid, then flowing stops.
+Flowing fluid has a speed value that governs how fast the spreading effect takes place. Water in the Overworld moves at 1 block every 5 ticks, or 4 blocks per second. Lava in the Nether moves at 1 block every 10 ticks, or 2 blocks per second. However, lava in the Overworld is much slower, and moves at only 1 block every 30 game ticks, or 2 blocks every 3 seconds.
+
+
+==== Flow direction ====
+
+The shape of the ground around a flow is considered when evaluating its spread, giving preference to the creation of water or lava falls, for aesthetic purposes. During the evaluation of horizontal spread, the 5-block area around source and flowing blocks is checked for air one block below the fluid block. These air blocks, and the blocks preceding them, are all converted to fluid blocks with depth level of 1 greater than the current block to establish a simple flow, but are not added to the collection for later consideration.
+For example, the flow of water from a single source placed within 5 blocks of an edge is only one block wide to the edge, and then falls as a one block wide stream, as demonstrated in the image to the right. Otherwise it would spread evenly first, and then start descending if possible.
+
+
+==== Directional flow ====
+
+Water normally spreads equally in all directions from a waterlogged block, as seen to the right.
+In the same test setup the water flow from a stair or banner is one-directional.
+
+		
+			
+			
+		
+
+
+=== Dripping ===
+
+If particles are fully enabled in the options menu, solid blocks that have air below and fluid above drip, as a visual indication that only one layer of blocks separates the player from the fluid above. Dripping lava does not cause damage or start fires. It can take several seconds before dripping starts.
+
+
+=== Block updates ===
+These actions cause a fluid block to update:
+
+Another block is placed into its space
+Fluid starts to flow in from an adjacent block
+An established incoming flow stops
+Generated structures never cause block updates to adjacent fluids when they generate. For example, a cave entrance that is created partly below water level at the edge of a body of water or lava does not cause the fluid to flow until it receives a block update. On the other hand, fluids created as part of a structure flow immediately if not completely confined; this includes holes in the bottom of an ocean that open into a ravine below.
+
+
+=== Mixing ===
+When the two fluids interact, the results vary depending on the position of the fluid source.
+
+If lava flows vertically into a water source block or flowing water, the water source block turns into stone.
+If lava flows horizontally into water, the lava turns into cobblestone.
+If water flows horizontally into flowing lava, the lava turns into cobblestone.
+If water flows vertically into flowing lava, either cobblestone or nothing may result.
+If water flows into a lava source block, the lava source block turns into obsidian.
+If water falling vertically touches a lava source block on any side, the lava turns into obsidian—even if the water would not otherwise run into the lava.
+If lava flows over soul soil next to blue ice, the lava turns into basalt.
+
+
+== Video ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Fluid" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==

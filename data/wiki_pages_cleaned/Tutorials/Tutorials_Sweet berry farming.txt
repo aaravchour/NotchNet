@@ -1,0 +1,22 @@
+This tutorial instructs you, as the player, how to build an automatic sweet berry farm.
+
+Sweet berries grow on sweet berry bushes and will eventually replenish after being harvested, making it possible to farm them. Automatic farms allow the player to get a large amount of sweet berries without needing to harvest them manually.
+
+To build an automatic sweet berry farm, you must have the following materials:
+
+A stack of any solid building block such as cobblestone, planks, or terracotta.
+A stack of dirt for planting the sweet berry bushes.
+A minecart with hopper for transferring the berries to a hopper that itself transfers them to a storage block.
+Rails for allowing the minecart to move under the dirt layer and collect the dropped berries.
+Enough powered rails to make the minecart move infinitely.
+A chest or barrel for storing the sweet berries that come from the hopper.
+Blocks of redstone for activating the powered rails.
+Foxes to harvest the sweet berry bushes, allowing them to be transferred to the minecart with hopper and then to the hopper and storage block, essentially powering the farm. Make sure to protect the foxes from wolves and polar bears.
+A named farm animal to put in the area, or a clear view of the sky, to keep your foxes from falling asleep.
+
+First you need to build a rail system that makes a minecart move in an infinite loop using powered rails. Rails should also be placed on a flat square surface and make sure to place rails on the top of every block on the surface. You need to replace a block from this surface with a hopper that is linked to the storage.
+Secondly, you need to build a flat dirt surface above the rail system after placing the minecart on the rails and making it move infinitely by pushing it into any direction.
+Thirdly, you need to build at least a 2 block tall wall that does not allow foxes to leave the farm.
+Next, you need to plant sweet berry bushes on the dirt layer.
+Finally, bring foxes to the top of the dirt layer (make sure that /gamerule MobGriefing is set to true).
+Here is a video to make the farm

@@ -1,0 +1,7 @@
+
+==== Blueprint ====
+
+All spruce slabs in layer 2 are top slabs, while the rest are bottom slabs.
+
+
+==== Materials ====

@@ -1,0 +1,27 @@
+The creaking is a hostile mob that spawns in the pale garden from a creaking heart. It can also be spawned by using a spawn egg or by the /summon command.
+
+A creaking is spawned around an activated creaking heart at night or during thunderstorms. It becomes alerted when a player looks at the creaking while within 12 blocks. It returns to its idle state if no player remains near it, or the player goes into Creative or Spectator mode. When a player is looking at it, a creaking will be unable to move or attack unless the player is wearing a carved pumpkin. However, if no players are looking at it, it will move towards the nearest player and attack it, dealing 3 damage in Normal difficulty. A creaking will not move beyond 32 blocks from its creaking heart, even while following a player. If the creaking is pushed beyond the heart's radius, it disintegrates (despawns).  
+A creaking spawned from a creaking heart cannot take any form of damage and is immune to knockback, but when hit by a player or pet, a trail of orange particles will appear between the creaking and its heart, and 2-3 resin clumps will be exuded on the sides of pale oak logs near the creaking heart. Once its creaking heart is destroyed, a creaking will twitch and then disintegrate.
+Creakings spawned from spawn eggs or the /summon command are not connected to a creaking heart and persist through both day and night. They take damage and have 1 health.
+Illagers are afraid of creakings and run away from them. The "Johnny" vindicator (who normally would attack almost any other mobs) is also afraid of the creaking but does consider the creaking a mob, leading it to get as close as possible to the creaking before running away. Creakings are completely immune to damage from lava, fire, Iron Golems, wardens, zoglins, and withers, unless spawned from a spawn egg or the /summon command.
+
+Java Edition:
+
+Bedrock Edition:
+
+Creakings have entity data associated with them that contain various properties.
+Java Edition:
+
+Creaking/ED
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+Similar to the Creeper, the Creaking's texture allows it to camouflage with the Pale Oak Trees.
+The Creaking is the first asymmetrical mob added in the game.
+In Java 1.21.5, named Creakings cannot despawn during the daytime.
+The Creaking's eyes is noticeable from the open eyeblossoms.
+Despite having low health, naturally spawned Creakings are undefeatable by Warden's attacks.
+A group of Creakings is called a 'crunch'.
+
+Issues relating to "Creaking" are maintained on the bug tracker. Report issues there.

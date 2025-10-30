@@ -1,0 +1,79 @@
+The satchel of elixirs is an artifact that can be found within the hidden depths DLC of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Coral Rise (Adventure)
+Radiant Ravine
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+
+== Usage ==
+The satchel of elixirs allows heroes to brew two random potions when activated, which can help in tight situations. The potions brewed will be either a strength potion, a swiftness potion, or a shadow brew. Potions can be brewed in all of the DLC missions except for the Flames of the Nether.
+
+Oakwood Brew can be brewed in:
+Dingy Jungle
+Overgrown Temple
+Panda Plateau
+Sweet Brew can be brewed in:
+Frosted Fjord
+Lone Fortress
+Lost Settlement
+Dense Brew can be brewed in:
+Windswept Peaks
+Gale Sanctum
+Colossal Rampart
+Potion of Water Breathing can be brewed in:
+Coral Rise
+Abyssal Monument
+Radiant Ravine
+Burning Brew can be brewed in:
+The Stronghold
+End Wilds
+Broken Citadel
+
+
+=== Properties ===
+25 second cooldown
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Satchel of Elixirs" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+
+
+== References ==

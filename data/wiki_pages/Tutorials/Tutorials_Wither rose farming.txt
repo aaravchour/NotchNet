@@ -1,0 +1,10 @@
+Wither rose farming is the process of trapping withers and using them to kill mobs and make them drop wither roses.
+
+
+== Why bother? ==
+Only wither skeletons can spawn in wither roses, so that makes it ideal for wither skeleton farms. In addition, wither roses deal damage to mob but not to items, so they can be used in other farms as a killing mechanism.
+
+The general idea is to lure mobs into an area where a wither is trapped, and when they die from it, collect the wither rose left.
+
+
+== Designs ==

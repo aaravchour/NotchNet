@@ -1,0 +1,1 @@
+Returns a position where the player can destroy a tree.

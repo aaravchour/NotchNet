@@ -1,0 +1,69 @@
+A tadpole is a bucketable aquatic baby passive mob hatched from frogspawn. They mature into one of the three frog variants depending on the biome in which they mature.
+
+
+== Spawning ==
+Tadpoles hatch from frogspawn in groups of 2-5.
+
+
+== Drops ==
+As with other baby animals, tadpoles do not drop any items or experience on death.
+
+
+== Behavior ==
+Tadpoles swim aimlessly in water. On land, they flop around like fish and seek out nearest water. They quickly die on land. 
+Unlike frogs, tadpoles are hunted by axolotls.
+Tadpoles follow a player that is holding a slimeball.
+A player can pick up a tadpole with a water bucket.
+A tadpole grows up into one of the variants of a frog depending on the tadpole's location, as shown on the table below. Tadpoles take one Minecraft day (20 minutes) to grow up. Its growth may be accelerated by feeding it slimeballs. Each use reduces the remaining growth duration by 10%.
+
+Notes
+
+
+== Sounds ==
+Java Edition:
+Tadpoles use the Friendly Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Tadpoles have entity data associated with them that contain various properties.
+Java Edition:
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Tadpole" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

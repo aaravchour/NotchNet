@@ -1,0 +1,36 @@
+To play Minecraft from a custom directory, you can use these simple steps.
+If you have anything important in your Minecraft folder, it is strongly recommended you make a backup before moving it!
+
+
+== Windows 10 ==
+Method A
+Note: This doesn't work when using a launcher installed via the Microsoft App Store
+
+Go to the folder where you installed Minecraft.
+Shift right click in a blank space and press "Open Command Window Here."
+Get the Directory Path of where you want to store the game.
+In the Command Prompt window, type in: echo java -jar Minecraft.exe --workDir=" . Do not press enter yet.
+In the file browser, find the folder you want Minecraft to be installed in to.
+Click and drag the folder to the open command prompt window. It should fill in the path automatically.
+Finish typing " > run.bat and press enter.
+In the folder, run the "run.bat" file.
+Method B
+Use this method if you've installed Minecraft via the Microsoft App Store.
+
+Create a folder in the location you want Minecraft moved to. We will call this the 'destination folder', but you can name it whatever you want.
+Open the original .minecraft folder (By default, you can find this by going to %appdata%, then opening roaming\.Minecraft)
+Copy all contents of the original .minecraft folder and paste them into the destination folder
+Delete the original .minecraft folder
+In the search bar, find Command Prompt, right click and open as administrator
+Paste cd %appdata% and click enter. The command prompt should acknowledge the appdata\roaming folder
+Paste mklink /D ".minecraft" "<destination folder>" Replace <destination folder> with the address of the destination folder. For example, if you're moving Minecraft to "E:\MyMinecraft", the command would be mklink /D ".minecraft" "E:\MyMinecraft"
+Press enter. Command prompt should say "symbolic linked created for .minecraft"
+If command prompt says "cannot create file when that file already exists", it is because you didn't delete the original .minecraft folder. Delete it and run the command again
+
+
+=== Shortcut Method ===
+Right click the Minecraft shortcut on your desktop and select "Properties".
+If you do not have a shortcut, navigate to the folder where you installed Minecraft, right click MinecraftLauncher.exe, and click "Create Shortcut".
+There should be a line labeled Target. After the file path, add a space and type: --workDir DIR_PATH
+Replace "DIR_PATH" with the directory you want the game to use.
+Minecraft will now use that directory as long as you launch it from that shortcut.

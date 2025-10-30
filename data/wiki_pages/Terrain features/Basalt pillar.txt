@@ -1,0 +1,54 @@
+Basalt pillars are tall features made up of basalt block.
+
+
+== Generation ==
+Basalt pillars are found in soul sand valleys.
+
+
+== Construction ==
+Basalt pillars have their starting points in the ceiling of an area, then have a pillar of between one and three blocks wide in both the X and Z axis going all the way down to the ground, where a flat clump of basalt can be found around a 3×3 area from the center of the pillar, as if a vertical lava flow, like those commonly found in the Nether, had solidified.
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Basalt Column
+Basalt Deltas

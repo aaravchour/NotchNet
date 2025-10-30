@@ -1,0 +1,22 @@
+Cooked mutton is a food item obtained from cooking raw mutton.
+
+Adult sheep drop 12 cooked mutton if killed while on fire. The maximum amount is increased by 1 per level of looting, for a maximum of 1-5 with Looting III.
+
+Cooked mutton can be obtained by cooking raw mutton in a furnace, smoker, or campfire.
+
+In Bedrock Edition, apprentice-level butcher villagers have a 25% chance to sell 4 cooked mutton for one emerald as part of their trades.
+In Java Edition, butcher villagers may give the players with the Hero of the Village effect cooked mutton.
+
+To eat cooked mutton, press and hold use while it is selected in the hotbar. Eating one restores 6 () hunger and 9.6 saturation, the same as cooked salmon.
+
+Cooked mutton can be used to breed and heal tamed wolves, lead them around, and make baby tamed wolves grow up faster by 10% of the remaining time.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Cooked Mutton" are maintained on the bug tracker. Report issues there.

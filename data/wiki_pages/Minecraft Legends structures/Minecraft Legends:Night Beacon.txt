@@ -1,0 +1,24 @@
+The Night Beacon is a Piglin Base that generates once per campaign that spawns with one layer of walls around the Nether Portal with blaze rod towers on the inner layer and piglin pits on the outside.
+
+
+== Structures ==
+Nether Portal
+Piglin Gate
+Piglin Walls
+Blaze Rod Tower
+Nether Spreader
+Piglin Pit
+
+
+== Achievements ==
+
+
+== Gallery ==
+
+		
+			
+			
+		
+
+
+=== Developer Images ===

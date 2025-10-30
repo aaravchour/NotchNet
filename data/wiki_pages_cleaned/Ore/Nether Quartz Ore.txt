@@ -1,0 +1,28 @@
+Nether quartz ore is ore found in the Nether, and is a source of quartz.
+
+Nether quartz ore can generate in the Nether in the form of ore blobs. Nether quartz ore attempts to replace netherrack 16 times per chunk in blobs of size 0-24, from levels 10 to 117, in all Nether biomes. In Java Edition, in basalt deltas, nether quartz ore attempts to generate 32 times per chunk as there are fewer valid generation areas.
+
+Nether quartz ore can be mined with any pickaxe, or it drops nothing. If mined with Silk Touch, the block drops itself. Otherwise, it drops 1 nether quartz (or more with Fortune). It also drops 25 when broken.
+
+Note that mining the block directly with a tool enchanted with any Fortune level produces more Nether quartz.
+
+Nether quartz ore can be placed under note blocks to produce "bass drum" sounds.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Nether Quartz Ore" are maintained on the bug tracker. Report issues there.
+
+Nether quartz ore has the same blast resistance as other ores (except ancient debris, which is fully blast resistant), which is more than the quartz block and netherrack combined.
+The vast quantities of easily available Nether quartz ore in the Nether, combined with the relatively large quantity of experience gained from digging it, make Nether quartz mining a relatively fast way to level up in Minecraft without dedicated experience farms. Breaking one Nether quartz ore provides 3.5 experience points on average, so breaking about 100 of them raises the player from level 0 to 16, and about 400 from level 0 to 30.
+Nether quartz ore is generated as part of the dimension, while netherrack is generated as part of the biome.
+This can be seen, as when a Buffet world with the nether biome is generated, there is netherrack but no quartz ore.
+In Bedrock Edition, if the Nether is generated in the Overworld as a biome, neither netherrack nor Nether quartz ore is generated, but the terrain is completely made out of stone with bedrock ceiling.
+
+Nether Gold Ore
+Gilded Blackstone

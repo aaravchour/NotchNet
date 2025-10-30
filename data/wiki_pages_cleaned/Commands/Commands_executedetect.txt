@@ -1,0 +1,16 @@
+Executes another command if the block at the specified position matches the specified block type and data.
+
+executedetect <origin: target> <position: x y z> <detect: string> <detectPos: x y z> <detectBlock: string> <detectData: int> <command: string>
+
+origin: target
+
+Specifies the target to be the command's executor. Must be a player name or target selector. If more than one entity is selected, the command will be run once as each of them.
+position: x y z
+
+Specifies the position from which to run the command. x and z must be within the range -30,000,000 to 30,000,000 (inclusive). Coordinates specified with tilde notation are relative to the target, not to the position of the command's execution.
+command: string
+
+Specifies the command to be run. Must be a valid command.
+
+Fails if ...
+On success, ...

@@ -1,0 +1,29 @@
+A power bow is a ranged weapon that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Fiery Forge
+Highblock Halls
+Underhalls
+Nether Wastes (DLC)
+Radiant Ravine (DLC)
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Unbreakable One
+
+X ranged damage
+Strong Charged Attacks
+
+Charge Multiplier: 3
+Quiver: 26
+Fire Rate: 2.2 shots per second
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+Issues relating to "Power Bow" are maintained on the bug tracker. Report issues there.

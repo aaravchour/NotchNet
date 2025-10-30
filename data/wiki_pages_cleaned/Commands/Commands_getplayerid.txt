@@ -1,0 +1,1 @@
+Return player's ID

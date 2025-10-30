@@ -1,0 +1,46 @@
+Fish farming is an easy method of catching large quantities of fish and other items (junk and treasure) by fishing. Most AFK (away from keyboard) designs involve right-clicking an iron door with tripwire above it, causing fish caught to flow into a hopper and then into a collection chest. 
+
+
+== Designs ==
+
+
+=== AFK Automatic Fish Farming ===
+Pre-1.16, automatic fish farming involves right-clicking a door with tripwire above it and hoppers for collection. It’s a good idea to use an automatic fishing rod dropper to supply new fishing rods when the previous one breaks. The ideal rod is Lure III, Luck of the Sea III, Unbreaking III and Mending. For some AFK farms, it is required to hold down a button or key. For these, they can only be truly AFK if it is held down by something besides a person.
+Snapshot 20w12a changed how fishing worked. Now, in order to get treasure loot, the bobber will need to be in a 5x5x4 area of water, air, or Lily Pads.. This broke all old AFK fishing designs. The current designs use a timer to approximate how long it'll take to catch a fish, and then forcefully cause the player to reel it in via trapdoors activated on a redstone timer. These aren't as fast as the pre-1.16 designs.
+Snapshot 20w49a added the Sculk Sensor, which powered a new generation of AFK fishing farms. A design by Rays Works uses sculk sensors to detect a bobber sinking into the water when loot bites, triggering the sensor and forcefully causing the player to reel the bobber in via trapdoors activated by a sculk sensor.
+Note: None of these work in Bedrock Edition, due to how tripwires and doors work. Mojang also does not want to allow AFK fishing in Bedrock Edition. As such, most AFK fishing designs involve exploiting bugs that get fixed in the next update.
+
+
+=== 1.16 ===
+AlexBMinecraft's Bedrock-friendly design
+
+This one is specifically noted as working in Bedrock edition.
+
+
+=== 1.17+ (Not available in survival until 1.19) ===
+Rays Works Design
+
+
+=== Fish collector ===
+This is a basic design using hoppers to automatically collect fish while being very quick and simple to build.
+
+
+== Non-AFK fishing ==
+Here is a quick run-through of the fishing mechanics:
+
+Time: A time between 5-30 seconds is chosen each time you cast a line. This can be decreased with Lure I, II, and III, with each level of Lure decreasing the wait time by 5 seconds. If the end time is less then 0 seconds, a new time is picked.
+Enchantments: Lure decreases wait time. It decreases the amount of time needed to get a catch. Luck of the sea brings in more treasure. See Fishing for more info.
+Open Water:  While you can technically fish in a single water block, you cannot catch items from the "treasure" list unless you're fishing in "open water":  At least 2 blocks of water in all directions around the bobber (that is, a 5x5 space centered on the bobber), and 2 blocks deep, the whole area open to the sky.  Water plants and suchlike count as "water" for this purpose, and lily pads atop the water are okay.
+Safety:  If you have a decent territory fenced off and lit up, you can choose or make large pool there.  Early on, it may be easier to make a safe "fishing stand" over an ocean or river, where you can fish but monsters can't reach you or shoot at you.  Don't forget a roof to fend off phantoms!
+So here are the main ways to speed up non-AFK fishing.
+
+Enchanting
+Use an enchanted fishing rod, spending XP on a fishing rod may seem useless, but it is not, you can get amazing loot from fishing. There are 4 enchantments useful for fishing rods:  Mending, Unbreaking, Lure, and Luck of the Sea.  You can also catch enchanted fishing rods as "treasure" -- they will be fairly damaged, but as soon as you find one with Mending, you can use that (it will heal itself as you fish), and combine other rods with it as you collect the various enchantments.  Eventually you will end up with a "god rod":  Mending, Unbreaking III, Luck of The Sea III, Lure III.  Even if the last couple of anvil combinations are expensive, it's worthwhile, because once you have the full set of enchantments, you'll never need to use the anvil on that rod again.
+Mending + Unbreaking
+Mending can be useful because  you get enough XP from fishing to keep the rod at full durability with just Mending. Unbreaking simply stops the rod from breaking as fast, so it will require less mending and leave more experience for you.
+Luck Of The Sea
+Simple, it gets you more treasure and less junk.
+Lure
+Lure decreases the pre-determined wait time (5-30 seconds) by 5 seconds with each level (minimum 0).  With Lure III, catches will be immediate half the time, and up to 15 seconds the rest of the time.
+Repair.
+As with every other item with durability in the game, you can combine them in an Anvil or in your inventory to gain more durability. With Mending, a fishing rod will heal with ordinary use -- like other Mending tools, it will be healed if you gain experience in any way, while holding it in either your main hand or offhand... and of course it's in hand while you're gaining experience from fishing!

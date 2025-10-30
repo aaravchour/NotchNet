@@ -1,0 +1,26 @@
+Sets a player's game mode.
+
+Java Edition
+gamemode <gamemode> [<target>]
+Bedrock Edition
+gamemode <gameMode: GameMode> [player: target]
+gamemode <gameMode: int> [player: target]
+
+JE: <gamemode>: gamemode
+BE: gameMode: GameMode: enum and gameMode: int: int
+
+Specifies the new game mode.
+Must be one of the following:survival (can be abbreviated as s or 0 in Bedrock Edition) for Survival modecreative (can be abbreviated as c or 1 in Bedrock Edition) for Creative modeadventure (can be abbreviated as a or 2 in Bedrock Edition) for Adventure modedefault (can be abbreviated as d or 5) for default game modespectator for Spectator modeNote that "hardcore" is not a valid option, as it is technically not a game mode.
+JE: <target>: entityBE: player: target: CommandSelector<Player>
+
+Specifies the target(s). If not specified, defaults to the player who executes the command.
+Must be a player name, a target selector or a UUID.  And the target selector must/should be of player type.
+
+To put the executing player into Creative mode:
+/gamemode creative
+/gamemode c
+/gamemode 1
+To put all players into Survival mode:
+gamemode survival @a
+
+/defaultgamemode  sets the initial game mode for players joining the world.

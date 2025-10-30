@@ -1,0 +1,13 @@
+A desert rabbit was a cream variant of the rabbit, found only in Minecraft Earth.
+
+Desert rabbits were a cream variant of the rabbit. The entirety of its fur was cream. Its nose was pink and its eyes were dark brown in color.
+
+Similar to ordinary rabbits, desert rabbits had the same AI behavior, wandering aimlessly, and avoiding lava and cliffs that were enough to cause fall damage.
+
+Desert rabbits were an uncommon mob mob drop found in tappables.
+
+When killed, desert rabbits dropped:
+
+0-1 Rabbit hide
+0-1 Raw Rabbit (Cooked Rabbit if killed while on fire)
+Rabbit's foot (10% chance of dropping)

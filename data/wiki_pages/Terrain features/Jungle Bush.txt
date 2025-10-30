@@ -1,0 +1,37 @@
+Jungle bush is a variant of jungle trees that generates in jungle biomes and cannot be grown by jungle saplings. It is one of the rarest plants in the game.
+
+
+== Generation ==
+Jungle bush generates as a jungle log surrounded by oak leaves. Unlike jungle trees, jungle bushes can generate in all jungle biome variants.
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Jungle tree
+
+
+== References ==

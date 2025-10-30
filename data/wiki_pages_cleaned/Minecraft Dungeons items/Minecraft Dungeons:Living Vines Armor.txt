@@ -1,0 +1,22 @@
+The living vines armor is a unique sprout armor variant that can be found within the flames of the nether DLC of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Crimson Forest
+Soul Sand Valley (Adventure)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Unstoppable Tusk
+
++X health
+Health potions heal nearby allies
+Traps and poisons nearby mobs when rolling
+Reduced roll cooldown (Acrobat tier I)
+
+Issues relating to "Living Vines Armor" are maintained on the bug tracker. Report issues there.

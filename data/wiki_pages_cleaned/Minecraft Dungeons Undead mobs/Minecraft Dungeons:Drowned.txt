@@ -1,0 +1,12 @@
+Drowned are undead and hostile mobs that can be found within the various missions of Minecraft Dungeons.
+
+Drowned has two variants: the first possesses very dark green skin, has large patches of kelp around its head and shoulders, and wears dark brown tattered clothes. In contrast, the second variant is more paler blue, having pale blue skin and small wounds like patches on its head and legs and wearing chain armor and dark bluish-grey tattered clothes. The pale variant holds the Eternal Knife, while the dark green variant holds the Soul Knife.
+
+Coral Rise
+Abyssal Monument
+Radiant Ravine
+The Stronghold
+Treetop Tangle
+
+Attack base
+Drowned behave similar to regular zombies, slowly drifting to the hero and attacking them via melee. Drowned come in multiple variants, some having tridents, some holding blades and having different colored skin, or both.

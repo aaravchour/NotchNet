@@ -1,0 +1,13 @@
+The patched sheep was a variant of the sheep with black spots on its knees, found only in Minecraft Earth.
+
+Patched sheep were a black-faced variant of the sheep. They resembled the white sheep but with a few differences, one being their legs, which were white in color instead of light brown, and the presence of coal-colored spots on its knees. Its face was black in color, and its nose was light coal-colored. They also possessed black hooves.
+
+Similar to normal sheep, patched sheep had the same AI behavior. They wandered aimlessly, avoiding lava and cliffs high enough to cause fall damage.
+
+Patched sheep were an uncommon mob drop found in sheep tappables.
+
+When sheared, patched sheep dropped 1-3 White Wool.
+When killed, patched sheep dropped:
+
+1 White Wool
+1 Raw Mutton (Cooked Mutton if killed while on fire)

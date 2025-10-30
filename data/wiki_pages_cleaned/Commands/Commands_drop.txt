@@ -1,0 +1,21 @@
+Lets your agent drop specified Inventory Slot Numbered Items in the specified quantity in the specified direction.
+
+drop <slotNum: int> <quantity: int> <direction: string>
+
+slotNum: int
+
+Specifies the slot number of block to be placed, slots are numbered from 1 to 27.
+quantity: int
+
+Specifies the number of items to be dropes. Must be from 1 to 64.
+direction: string
+
+Specifies the direction of Agent to drop the item.
+Must be one of:
+forward
+back
+left
+right
+
+Fails if the arguments are not specified correctly or the specified slot was empty.
+On success, returns if items in the specified inventory slot was droped.

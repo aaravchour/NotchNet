@@ -1,0 +1,23 @@
+Cheese is a joke food and a block that can be eaten by the player. It was added in the April Fools snapshot 23w13a_or_b.
+
+Cheese drops itself if it has not been bitten. Once the cheese is bitten, it cannot be recollected even with the use of Silk Touch.
+
+Cheese generates naturally in the Moon dimension.
+
+Upon death, Moon Cows drop 0-2 cheese. The maximum amount is increased by 1 per level of Looting, for a maximum of 5 cheese blocks with Looting III.
+
+If the "Instacheese from Buckets" vote is active, using a milk bucket on the ground places cheese, similarly to powder snow. However, it cannot be picked up again via the bucket.
+
+Similar to cakes, cheese can be eaten when placed in the world. However, unlike cakes, the cheese blocks is divided into 8 smaller cubes. Clicking on one of them eats only the selected part, unlike cakes, where slices cannot be chosen.
+Eating cheese not only restores hunger but also oxygen, allowing the player to survive on the Moon.
+
+Cheese shares a similar texture to End Stone; however, it is desaturated in colour.
+
+Java Edition:
+
+Java Edition
+
+Cheese blocks are an unsupported item due to being an April Fools' joke, and therefore such issues relating to them will not be fixed.
+
+The cheese block has same texture as the end stone but slightly darker.
+The cheese block is based on the "Moon being made of cheese" theory.

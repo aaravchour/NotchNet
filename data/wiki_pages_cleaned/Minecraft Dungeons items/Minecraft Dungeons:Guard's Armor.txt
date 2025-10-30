@@ -1,0 +1,26 @@
+Guard's armor is an armor set that can be found within the various missions of Minecraft Dungeons. Its unique variant is the unobtainable ender armor. 
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Arch Haven (Apocalypse)
+Highblock Halls (Apocalypse)
+Colossal Rampart (DLC)
+Coral Rise (Adventure, DLC)
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Solemn Giant
+
++X Health
+-40% artifact cooldown
++10 arrows per bundle
+
+In the game files, guard's armor is referred to internally by the name CowardsArmor, and has chicken noises in its sounds, but it does not come with the cowardice enchantment.
+
+Issues relating to "Guard's Armor" are maintained on the bug tracker. Report issues there.

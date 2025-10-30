@@ -1,0 +1,35 @@
+A block of amethyst is a ore block found in geodes or crafted from amethyst shards. It copies and 'repeats' vibrations recieved by adjacent sculk sensors.
+
+A block of amethyst can be obtained by mining it with any pickaxe. When mined using any other tool, it drops nothing.
+
+Blocks of amethyst generate naturally on the inner wall of amethyst geodes, with calcite and smooth basalt making up next two outer layers.
+
+Uniquely among other blocks a block of amethyst makes a quiet overlay sound when generally interacted with as well as its block breaking sound when hit with a projectile.
+
+When a block of amethyst is placed adjacent to a sculk sensor or calibrated sculk sensor, it interacts with the sensor's vibration detection system. If the sculk sensor detects a vibration, the block of amethyst re-emits the vibration at its location, creating a new vibration signal.
+
+The re-emitted vibration retains the frequency of the original vibration detected by the sculk sensor.
+This process enables the creation of a chain of sculk sensors and amethyst blocks, transmitting vibration signals wirelessly across distances.
+The re-emitted vibration can activate another nearby sculk sensor, continuing the signal chain.
+
+Signal Transmission: Facilitates long-distance wireless signal transmission without redstone wiring.
+Advanced Contraptions: Works with calibrated sculk sensors to build circuits that respond to specific vibration frequencies.
+Detection Systems: Used for traps or monitoring systems that react to vibrations from entities or block interactions.
+
+Range: Limited by the sculk sensor's 8-block vibration detection radius.
+Interference: Environmental vibrations can disrupt chains, requiring isolated setups.
+Timing: Each re-emission introduces a slight delay, affecting signal timing in longer chains.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Block of Amethyst" are maintained on the bug tracker. Report issues there.

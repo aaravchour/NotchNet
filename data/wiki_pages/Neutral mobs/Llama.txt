@@ -1,0 +1,240 @@
+A llama is a tamable neutral mob used to transport large shipments of items using caravans.
+A trader llama is a special variant that follows wandering traders.
+
+
+== Spawning ==
+A llama spawns at a light level 7 or above on grass blocks in savanna plateau, savanna‌ or windswept savanna‌ biomes in herds of 4 llamas and in windswept hills, windswept forest, and windswept gravelly hills biomes in herds of 4 to 6 llamas, coming in four coat colors: brown, cream, white or gray. A wandering traders spawns with two leashed trader llamas. In Bedrock Edition, trader llamas always spawn with a wandering trader.
+10% of llamas spawn as baby llamas.
+Trader llamas often despawn one tick before their trader does, because a trader llama has its DespawnDelay set to 47999 ticks. This value is decremented each tick that the llama is untamed, unleashed, and not being ridden by a player, and is reset to one less than the trader's own DespawnDelay if leashed to a trader. The llama despawns if the value reaches zero.
+
+
+== Drops ==
+An adult llama drops when killed:
+
+0 to 2 leathers or up to 0-5 with Looting 3.
+Any equipped carpets and chest.
+All items in their inventory.
+1–3 experience orbs if killed by a tamed wolf or the player. Upon successful breeding, 1–7 is dropped.
+Like other baby animals, killing a baby llama yields no item or experience.
+
+
+== Caravans ==
+
+Llamas do not accept saddles, so the player cannot control its movement, even when tamed. Leads are the best way to move llamas. Leashing a llama actually signals all other llamas not already in a caravan nearby (up to nine) to follow each other, forming a caravan of up to ten llamas. Leashing a second llama forms a caravan of ten more llamas and there is no limit on the number of llamas following a player.
+A llama can be equipped with a chest by right clicking a chest on it once tamed, giving it 3, 6, 9, 12 or 15 slots of inventory space, scaling directly with its Strength NBT (see § Data values below). Once equipped, the chest cannot be retrieved without killing the llama and can be accessed by shift + right clicking the llama. A llama's potential carry capacity is a number of item slots equal to 3*Strength, with a maximum of 15 spaces. 
+
+Llamas can be equipped with carpets in their carpet slot (). Each carpet color shows as a different patterned rug on the llama's back. This can be useful for color-coding their storage, similar to dyed shulker boxes.
+For the purposes of the /item command, a llama carries its carpet in the horse.armor slot. Trader llamas that do not have a carpet wear a unique blue rug design. It can be replaced with a carpet but not removed. When given carpets, both types of llama look the same. A llama's carpet decoration remains visible when the llama is under the effect of Invisibility.
+
+
+== Behavior ==
+The llama floats when in water deeper than two blocks.
+Llamas are neutral, but if a player or mob attacks one, it spits at the attacker once to deal 1 damage. Sometimes their spit can miss their target and hit another llama, starting a fight within a group of llamas. Additionally, a wandering trader's llamas spit at mobs or players who attack the wandering trader.
+Llamas are hostile toward wolves and spit without provocation, but they don't attack tamed wolves unless provoked. Wolves are fearful of llamas of strength 4 or 5 and always run away. Wolves flee from weaker llamas less often.
+Trader llamas are hostile toward illagers‌ and all zombie variants, defending both themselves and their wandering trader.
+
+
+=== Llama spit ===
+
+Despite the spitting being a projectile, dying from llama spit still shows the death message "<player> was slain by llama/trader llama."
+The spit entity must belong to an entity to do damage, meaning that a spit entity summoned by commands does no damage unless its Owner NBT attribute matches the UUID of an entity in loaded chunks. 
+The llama spit can be deflected if hit by the player.‌
+Llama spit cannot pass through any blocks including non-solid blocks (e.g. signs, open fence gates, and sugar cane) and water. The spitting animation will still show the trajectory, but the spit entity that does damage will terminate on the non-solid block.
+Llama spit can be blocked by a shield.
+
+
+=== Breeding ===
+Adult tamed llamas can be bred by being fed a hay bale. The baby llama takes on the coat color of one parent at random. Its strength is chosen as a random integer between 1 and the strength of the stronger parent, inclusive. 3% of the time the resulting strength is increased by 1, but it is capped at 5.
+When two trader llamas are bred, the offspring wears a rug.
+
+Select a row based on the stronger parent. The column shows the probability of the resulting offspring having a given strength.  
+A llama's base health (15 to 30 HP) is calculated based on that of its parents, in the same way as a horse's.
+
+
+=== Taming ===
+Llamas can be tamed by repetitively riding them until hearts are displayed, done by pressing use on the llama while holding nothing.
+Taming success depends on the llama's Temper NBT. Temper is a positive trait, with higher values increasing the chance of successful taming. Llamas begin with a Temper value of 0 and a maximum of 100. When a player rides an untamed llama, a random number from 0 to 99 is chosen. The llama gets tamed successfully if this number is less than the Temper value, otherwise, the Temper is increased by 5 and the player is bucked off. Temper can also be increased by feeding the llama.
+Tamed llamas can still retaliate at players should the player hit them. If a player kills a wandering trader and stays away from the trader llamas for a while, the llamas are tame when the player rides it and the player can place carpets on the llama.
+Naturally spawned trader llamas are untamed and cannot be ridden while being led by their wandering trader. If unleashed, they become tamable‌ or tamed.‌
+A death message is displayed to a tamed llama's owner if it is killed. Tamed trader llamas will not despawn.
+Tamed llamas do not spit at mobs that attack its owner, although it spits at any mob that attacks the llama.
+Feeding a llama food can alter its behavior, restoring lost health or making a baby grow faster (babies ordinarily take around 20 minutes to mature to adults). The table below lists the effects of the 2 food items llamas accept.
+To feed a llama, hold a valid food item and press use while facing the llama. Llamas can be fed only when feeding would have an effect, similar to other animals. If the food is invalid, the player mounts the llama instead.
+
+
+== Sounds ==
+Java Edition:
+Llamas, trader llamas, and llama spit use the Friendly Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Java Edition:
+
+Llamas have entity data associated with them that contain various properties.
+
+Llama spit have entity data associated with them that contain various properties.
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Llama" or "Trader Llama" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+The achievement title refers to the 1980 comedy movie Caddyshack, where Bill Murray tells a story of how he once caddied for the Dalai Lama. In return, on his deathbed he expects to receive total consciousness, thus uttering the line "So I got that going for me".
+Some carpets on a llama's back represent certain mobs; a green carpet uses the face of the green creeper, while a purple carpet gains eyes like those of an enderman. A llama wearing a gray carpet has a mask, similar to that of a superhero or a bandit.
+A llama can kill another llama. When the player hits a llama and hides behind another, the spit will hurt the llama the player is hiding behind, leading to a battle. Both llamas will not stop spitting at one another until one dies.
+The llama was Agnes Larsson's first mob she designed for Minecraft.
+Its LEGO BrickHeadz figure is notable for being the 200th produced, and is included in several retail sets as the "Trader Lama".
+
+
+== Gallery ==
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Development images ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Renders ===
+
+
+=== In other media ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External Links ==
+Meet the Llama – Minecraft.net on April 18, 2017

@@ -1,0 +1,57 @@
+Invalid data value leaves are item forms of the primary leaves block with damage values outside of the usual range which leaves can usually be obtained in.
+
+
+== Obtaining ==
+
+Without the use of commands, invalid data value leaves are unobtainable in the last versions in which they existed without inheriting them from a prior version in which they were obtainable.
+
+
+=== Breaking leaves blocks ===
+Invalid data value leaves were obtainable by breaking leaves blocks placed in the world which had specific metadata values. When broken, the item would inherit the exact metadata that the block had, rather than be converted into one of the four valid states. This can be done from Beta 1.9 Prerelease 6 onwards.
+The bug allowing for this was fixed in 12w49a, making invalid data value leaves unobtainable from this version onwards.
+
+In summary:
+
+A large amount of leaves with metadata 8, 9, 10 or 11, depending on the species of the tree in question, can be obtained by breaking the leaves of a naturally-generated or sapling-grown tree using a tool with the Silk Touch enchantment. The first leaves block broken will always be of metadata 0, 1, 2 or 3, but the majority of subsequently broken leaves will return values 8, 9, 10 or 11.
+Leaves with metadata 12, 13, 14 or 15, depending on species, can be obtained in bulk by manually placing leaves in a large, connected fashion such as a cuboid, and then proceeding to break all of these with a Silk Touch tool.
+Leaves with metadata 4, 5, 6 or 7, depending on species, can be obtained in bulk by manually placing leaves in a spaced-out fashion, such that none of the placed leaves blocks are touching each other (even diagonally), and then breaking the blocks with a Silk Touch tool.
+When placing leaves for the latter two cases, it is recommended that valid data value leaves are placed, as the placement of invalid data value leaves has not been fully researched.
+
+
+== Usage ==
+
+
+=== Placement ===
+
+In 14w11b, placed invalid data value leaves will always place leaves that do not decay. Leaves items with damage 4, 5, 6 and 7 will place leaves with metadata 4, 5, 6 and 7 respectively. Similarly, items with damage 12, 13, 14 and 15 will place blocks with metadata 12, 13, 14 and 15. Items with damage 8, 9, 10 and 11 will respectively place blocks with metadata 12, 13, 14 and 15.
+
+
+=== Conversion to future versions ===
+In 1.13 (17w47a) onwards, distinguishing between block and item variants using metadata and damage was formally abolished. As a result of this, existing items would be converted over to the new ID system automatically. Invalid data value leaves behave anomalously in that instead of converting to their respective parent species, they all convert to oak leaves instead. Despite these items often being unknowingly collected and stored in older versions in such a way that conversion like this would end up being undesirable, Mojang have decided to not fix this.
+
+
+== Nomenclature ==
+Leaves items with data values higher than 3, particularly oak leaves with a damage value of 4, are often referred to as "alpha leaves". This is a particularly egregious misnomer, as any of the twelve extreme data values can be obtained in versions as late as 1.4.5, with absolutely no involvement from Alpha or even Beta versions of the game. How exactly this specific term reached common usage remains unknown, although it may be tied to the existence of "alpha trees", in which trees generated or grown before Java Edition Beta 1.2 would be comprised of multiple species of leaves if upgraded to this version or beyond, as metadata which was previously reserved for leaf decay was now used for distinguishing different species of leaves from each other.
+Similarly confusingly, petrified oak slabs are sometimes referred to as "alpha slabs", despite the fact that the block was introduced in Beta 1.3, several months after the end of the Alpha era of the game.
+
+
+== History ==
+
+Inventory appearances
+
+Metadata values above 16
+
+
+== Issues ==
+Invalid data value leaves are an issue, and due to their removal, can be considered already fixed.
+
+
+== References ==
+
+
+== External links ==
+Invalid Data Value Leaves at the Minecraft Discontinued Features wiki
+
+
+=== Videos ===
+A video detailing how each of the twelve obtainable invalid data value variants of leaves can be obtained

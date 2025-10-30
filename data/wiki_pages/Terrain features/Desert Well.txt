@@ -1,0 +1,75 @@
+Desert wells are features made of sandstone.
+
+
+== Generation ==
+Desert wells generate in desert biomes. They have a 1⁄1000‌ or 1⁄500‌ chance to be generated in the given chunk. It is possible for a well to generate around a cactus. The well is considered a feature rather than a structure, and therefore it generates with the "Generate Structures" option disabled.
+
+
+== Construction ==
+
+Desert wells are built of sandstone blocks and slabs with a water source inside. Underneath the water source, there are some suspicious sand blocks that can be excavated using a brush to get various items.
+
+
+== Loot ==
+In Java Edition, each desert well's suspicious sand contains 1 item stacks,  with the following distribution: 
+
+In Bedrock Edition, each desert well's suspicious sand contains 1 item stacks,  with the following distribution: 
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Desert well" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Feature
+
+
+== References ==

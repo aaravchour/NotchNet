@@ -1,0 +1,31 @@
+An egg is an item that can be used to craft food items, or thrown for a chance to spawn chicks on impact.
+
+A chicken drops an egg item every 510 minutes. The theoretical average would be expected at 1 egg every 7.5 minutes, or 0.1333 eggs per minute.
+A fox sometimes spawns holding an egg, which it always drops upon death. Alternatively, a player dropping a food item causes the fox to drop the egg.
+
+Players are able to throw eggs and deal knockback to mobs (but not other players), but no damage is dealt, similar to a snowball. Likewise, throwing eggs at neutral mobs provokes them. Eggs can also be fired from dispensers and are affected by gravity.
+
+When thrown by a dispenser or by pressing the use button, an egg has a 18 (12.5%) chance of spawning a chick. If this occurs, there is a 132 (3.125%) chance of spawning three additional chicks (on average, 1 out of every 256 eggs spawns 4 chicks). In other words, whenever an egg is thrown, there is a 31256 chance of spawning 1 chick and a 1256 chance of spawning four chicks.
+The expected value of the number of chicks an egg produces is 35256 or 13.7%. This means that on average, a chick is spawned every 7.3 eggs, a stack of 16 eggs spawns 2.188 chicks, and a full inventory including the hotbar and off-hand (37 * 16 = 592 eggs) is expected to spawn approximately 81 chicks.
+
+Java Edition:
+Thrown eggs use the Friendly Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Thrown eggs have entity data that define various properties of the entity.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+Issues relating to "Egg" are maintained on the bug tracker. Report issues there.
+
+Eggs break mid-fall if hit by another projectile; the chance of spawning a chick is not affected.
+Throwing an egg at a nether portal breaks the egg when it hits the portal.
+A thrown egg faces toward the player in first-person view, while it appears rotated horizontally in third-person view. This is the case for all throwable items (ender pearls, eggs, snowballs, and all throwable potions).

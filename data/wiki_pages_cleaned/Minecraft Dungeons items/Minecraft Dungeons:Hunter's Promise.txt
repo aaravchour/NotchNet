@@ -1,0 +1,34 @@
+The hunter's promise is a unique hunting bow variant that can be found within the various missions of Minecraft Dungeons.
+
+The Hunter's Promise is similar in appearance to the hunting bow except the handle and string have a brown tint to them. It also features a white feather attached to the top section of the bow. 
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Soggy Swamp
+Soggy Cave
+Panda Plateau (DLC)
+Nether Fortress (DLC)
+End Wilds (DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+The Tower
+
+X ranged damage
+Pets attack targeted mobs
+Chance to regain arrows (Infinity tier I)
+
+Charge Multiplier: 2.42
+Quiver: 80
+Fire Rate: 2.5 shots per second (uncharged)
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+In the game files, the hunters promise is referred to internally by the name EagleBow.
+The feather on the bow is a separate texture from the bow itself.
+
+Issues relating to "Hunter's Promise" are maintained on the bug tracker. Report issues there.

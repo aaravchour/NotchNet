@@ -1,0 +1,9 @@
+Ice patches are blobs of packed ice that generate exclusively in the ice spikes biome.
+
+Ice patches are small disk like feature of packed ice that generate in the ground.
+
+Ice patches can only generate in the ice spikes biome.
+
+Java Edition:
+
+Bedrock Edition:

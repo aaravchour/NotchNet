@@ -1,0 +1,13 @@
+The Ominous Trial Key is an ominous variant of a Trial Key. It can be given from Ominous Trial Spawners.
+
+Ominous Trial Keys can only be obtained from Ominous Trial Spawners(Trial Spawners affected by the Trial Omen effect). However, they are uncommonly rare to obtain.
+
+The Ominous Trial Key is used in the Trial Chambers, to open Ominous Vaults, which give better and valuable loot than standard vaults. Using one on any Ominous Vault will result in the key being removed from the player's inventory. Only one Ominous Trial Key is required per vault. Once it is opened and loot dispensed, it cannot regain loot or take Ominous Trial Keys. 
+
+An Ominous Trial Key looks like a Trial Key, with slight differences like a three-headed rocky skull face as the head of the key and a long oxidised copper shaft.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Ominous Trial Key" are maintained on the bug tracker. Report issues there.

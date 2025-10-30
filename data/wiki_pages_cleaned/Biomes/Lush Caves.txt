@@ -1,0 +1,26 @@
+A lush cave is a temperate Overworld cave biome that is found underground below azalea trees and also occasionally below Bamboo Jungles in Bedrock Edition. It has unique fauna and flora.
+
+Lush caves generate underground at any altitude. They favor generating underneath biomes with high humidity values, which makes them most commonly found beneath swamp, dark forests, jungles, old growth taigas, wooded badlands and sometimes windswept hills. Dark forests, old growth taigas and bamboo jungles, in particular, are almost guaranteed to have lush caves generate below them, unless the lush caves are overwritten by dripstone caves. It is not possible for lush caves to generate beneath forests and grassland biomes like plains and savanna as they are not humid enough. Lush caves can sometimes generate beneath oceans and deserts, and are the only one of the three underground biomes capable of generating beneath oceans.
+Azalea trees generate on any empty space above a lush cave, with roots consisting of rooted dirt and hanging roots that generate down until reaching the lush cave. This is most common at the surface, but they can sometimes generate inside caves if there is enough room.
+Underground, moss and ores covers the floors and ceilings, along with moss carpets, grass and azalea bushes on the floors. On the ceiling, vines and cave vines with glow berries grow down and light up the caves, and spore blossoms grow from the ceiling and drip water particles. A lush cave contains springs and shallow lakes with clay where dripleaf plants grow out of them. Sometimes these lakes generate dry.
+Players cannot spawn in a lush caves biome during the world generation.
+Bats, glow squid, tropical fish, and axolotls are the only passive mobs that spawn, with the latter being exclusive to the biome. While hostile mobs can spawn throughout the biome, many areas have a light level greater than 0 due to the pervasive glow berries. Most hostile mobs are therefore found in large caverns more than 10 blocks high and near borders with other cave biomes.
+Lush caves contain copious amount of clay, around a few thousand blocks.
+The following mobs can naturally spawn here
+
+These music tracks play while the player is in the Lush Caves.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Lush Caves" are maintained on the bug tracker. Report issues there.
+
+The Swedish painter John Bauer was one of the main inspirations behind the design and idea of the lush caves biome, specifically Bauer's 'Oskuldens Vandring' (Innocent's Journey) painting.
+A seed in the seed selecter(bedrock edition)bamboo forest has a beautiful lush cave somewhere.
+
+Amethyst Geode
+Dripstone Caves
+
+Around the Block: Lush Caves  Minecraft.net on December 30, 2021
+Minecraft: The Great Wild | Lush Caves  Minecraft on YouTube July  14, 2023

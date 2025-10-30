@@ -1,0 +1,44 @@
+A copper golem is a buildable passive mob that was added in The Copper Age. It takes items from copper chests and organizes them into normal chests, and oxidizes like normal copper blocks. It was featured in Minecraft Live 2021 as a candidate for Mob Vote alongside Allay and Glare.
+
+
+== Spawning ==
+Copper golems cannot spawn naturally. Instead, the player has to place a carved pumpkin or a jack o'lantern block on top of, below, or next to a copper block. On construction, the copper block turns into a copper chest while the carved pumpkin or a jack o'lantern block turns into a copper golem, both with the same oxidation level as the copper block.
+Copper golems can also be spawned by using their spawn egg or by /summon command.
+
+
+== Behavior ==
+Copper golems visit up to 10 copper chests (regardless of their oxidization or waxed status) in sequence to try to take out up to 16 of the first item if the copper golem is not holding anything. If the copper chest is empty, the copper golem will idle for 7 seconds before moving on to another copper chest. Copper golems visit up to 10 chests and trapped chests in sequence to try to place the item in if the copper golem is holding an item.
+Like iron golems, Copper Golems sink and do not drown in water; however, they can slowly walk on blocks underwater. Like many passive mobs, they panic and run around when attacked.
+Players can dispense heads onto the copper golem.
+When a copper golem gets fully oxidized, it will turn into a copper golem statue. In that state, it will freeze into a random pose and drop any items it holds. Using an axe to scrape the Copper Golem Statue’s oxidation reverts it back to its normal active state. 
+Right-clicking a copper golem while it is holding an item will give the item back.
+
+
+== Drops ==
+Copper golems drop 2 to 3 copper ingots upon death by a player or tamed wolf.
+
+
+=== Oxidation ===
+Like all copper blocks, unwaxed copper golems undergo 4 stages of oxidation:
+
+Unoxidized - Normal stage
+Exposed
+Weathered
+Oxidized
+After being fully oxidized, the copper golem becomes a copper golem statue
+Only lightning and axes can reverse the oxidation process. Using a honeycomb on an unwaxed copper golem prevents the oxidation.
+
+
+== Appearance ==
+Unlike iron golems, the copper golem has a small copper body, with tiny arms and legs. It also has a small head with a villager nose, bright glowing yellow eyes similar to the copper bulb and a short lightning rod.
+When it is in a statue state, its eyes do not glow and look vaguely similar to its old appearance showcased in the Minecraft Live 2021.
+
+
+== History ==
+
+
+== Trivia ==
+In Minecraft Live 2021, the Copper Golem was originally created to push copper buttons and oxidize like all copper blocks.
+
+
+== Gallery ==

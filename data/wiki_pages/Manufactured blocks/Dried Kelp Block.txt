@@ -1,0 +1,64 @@
+Dried kelp blocks are storage blocks equivalent to nine dried kelp that can also be used as fuel.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Dried kelp blocks can be mined using any tool or by hand, but a hoe is the fastest way to break it.
+
+
+=== Crafting ===
+
+
+== Usage ==
+Dried kelp blocks can be used to store dried kelp in a compact fashion.
+Unlike hay bales, dried kelp blocks cannot be placed in every orientation, despite both being bundled dried plant matter and using the same type of model.
+
+
+=== Fuel ===
+Dried kelp blocks can be used as fuel in furnaces, blast furnaces, and smokers. Its burning time is 200 seconds (4000 ticks), and it is able to smelt 20 items. This is 2.5 times the burn duration of coal and charcoal, and 0.25 times the burn duration of a block of coal. It is the fuel with the highest number of operations per fuel below 64 items. The highest number of items that can be smelted without any refills or hoppers and without loss of fuel is 60 items (3 dried kelp blocks).
+Crafting a dried kelp block first requires smelting 9 pieces of kelp, so its net fuel value is only 11 items.
+
+
+=== Crafting ingredient ===
+
+
+=== Composting ===
+Dried kelp blocks have a 50% chance of increasing the compost level in a composter by 1. Composting a dried kelp block instead of 9 dried kelps is less efficient. For example, 100 dried kelp blocks would yield 7 1⁄7 bone meal on average. Crafting them into 900 dried kelp before composting would instead yield 38 4⁄7 bone meals on average.
+
+
+=== Trading ===
+Expert-level butcher villagers buy 10 dried kelp blocks for an emerald.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Achievements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Dried Kelp Block" are maintained on the bug tracker. Report issues there.
+
+
+== References ==
+
+
+== External Links ==
+Block of the Month: Dried Kelp – Minecraft.net on April 20, 2023

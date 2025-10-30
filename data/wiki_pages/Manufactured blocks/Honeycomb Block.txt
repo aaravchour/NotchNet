@@ -1,0 +1,52 @@
+Honeycomb blocks are decorative blocks crafted from honeycombs.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Honeycomb blocks can be broken using any tool, and always drop as an item.
+
+
+=== Crafting ===
+
+
+== Usage ==
+
+
+=== Note Blocks ===
+Honeycomb blocks can be placed under note blocks to produce flute sounds.‌
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Honeycomb Block" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+While real-life honeycombs are based on a hexagonal tiling, the honeycomb block's texture is more akin to a square tiling, likely to fit with the square theme of the game.
+This makes the square tiling the second regular polyhedron to be represented in Minecraft, after the cube.
+
+
+== References ==
+
+
+== External Links ==
+Block of the Week: Honeycomb – Minecraft.net on April 29, 2021

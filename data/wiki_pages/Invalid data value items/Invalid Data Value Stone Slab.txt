@@ -1,0 +1,45 @@
+Invalid data value stone slabs are item forms of the primary stone slab block with damage values outside of the usual range which slabs can usually be obtained in.
+
+
+== Obtaining ==
+Without the use of commands, invalid data value stone slab items are unobtainable in the last versions in which they existed without inheriting them from a prior version in which they were obtainable.
+
+
+=== Transmutation (Java Edition/Legacy Console Edition) ===
+Several methods of block transmutation can be used to obtain invalid data value stone slabs, as well as their double variants, in block form. These blocks can be mined from Beta 1.3 to 12w08a to obtain the item corresponding to these blocks.
+If a large quantity is desired, transmuting double slabs is recommended as this allows for slabs to be converted twice as fast.
+
+
+=== Breaking upper slabs (Bedrock Edition) ===
+In Pocket Edition v0.6.0 alpha, breaking slabs which were placed in the upper half of a block space would drop an invalid data value slab item, corresponding to the top-half slab which had just been broken.
+
+
+== Usage ==
+
+
+=== Placement ===
+
+From the January 31, 2010 Indev release up to Beta 1.2_02, damage on slab items would not indicate that the item should place a block with additional metadata, and as such a normal smooth stone slab would be placed regardless of the damage on the item.
+From Beta 1.3 up to 14w27b, invalid data value stone slabs would place a slab block with metadata matching the item's damage. From Beta 1.3 up to 12w08a, this would be a lower-half seamless stone slab, as the metadata variants of stone slabs from 8 to 15 were unused, and upper-half slabs were yet to be implemented. From 1.2 up to 14w27b, due to the implementation of upper slabs, this would result in the item placing an upper-half slab, regardless of how the supporting block is targeted.
+Invalid data value stone slab items could also be used to create double slab blocks for placed slabs of the same material, however were more restricted in their ability to do so; in order to yield a completed double slab, the top face of a lower slab or bottom face of an upper slab must be targeted. Targeting the side or other face of another block in ways that allow for completion when using valid items does not work for invalid data value slabs. In addition, the space above the lower-half slab or under the uper-half slab must be either air or a replaceable block; any block that cannot be directly replaced will block the double slab from being completed.
+From 14w28a to 17w46a, invalid data value slabs now place either a bottom-half or top-half slab depending on the targeted half of a block, like valid slab items. However, their behavior with regard to completing double slabs from earlier versions still persists until an unknown version before 17w43a.
+
+
+=== Conversion to future versions ===
+In 1.13 (17w47a) onwards, distinguishing between block and item variants using metadata and damage was formally abolished. As a result of this, existing items would be converted over to the new ID system automatically. Invalid data value stone slabs behave anomalously in that instead of converting to their respective materials, they all convert to smooth stone slabs instead.
+
+
+== History ==
+
+Inventory appearances
+
+
+== Issues ==
+Invalid data value stone slabs are an issue, and due to their removal, can be considered already fixed.
+
+
+== References ==
+
+
+== External links ==
+Invalid Data Value Stone Slab at the Minecraft Discontinued Features wiki

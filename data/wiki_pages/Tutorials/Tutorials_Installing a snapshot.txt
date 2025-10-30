@@ -1,0 +1,36 @@
+It is possible to play a future snapshot in Minecraft, as well as previous versions that have been released, and it is quite easy too. However, many people don't know how to use or install them. This tutorial shows you how to install and play any type of snapshot, development version, or previously released version that is available in the launcher, as well as snapshots that are no longer available in the launcher.
+
+
+== Available in the launcher ==
+
+To play a snapshot, first, download the Minecraft launcher. The download link is available at minecraft.net/download.
+By default, you can choose and play release versions of Minecraft, e.g. 1.14.x, 1.15.x, 1.16.x and so forth. Also available are the development snapshots for the upcoming release, or for the most recent release if snapshots haven't begun yet for an upcoming release. Usually, only the last snapshot in per week is available, except for the most recent week, in which they're usually all available. Keep in mind that the exact list of snapshots available may vary, as it is at the discretion of Mojang which snapshots are listed. Snapshots are newer versions that have not been released as an update and are still a work in progress. Players can view said snapshots as well.
+
+To play a snapshot or previous version of Minecraft, go into the "Installations" tab and click the "Snapshots" option in the top-right corner.
+This allows you to play both the latest release versions and development versions by switching profiles on the launcher. Keep in mind that Minecraft doesn't care about save data compatibility, so it is advised to use a temporary world when you test development builds (note that it is possible to enable snapshots without changing the game directory, however, separate game directories are a good practice to keep your worlds separated and prevent compatibility issues from destroying your maps).
+
+
+== No longer available in the launcher ==
+Each time the launcher closes, it automatically removes snapshots from its Use version list that don't belong to its current set of snapshots, which, as explained above, is usually the most recent set of snapshots, and usually only the last one per week.  Due to this, older snapshots become unavailable from that list over time, but the launcher can certainly still play them. Though the launcher's list is kept short, Mojang doesn't remove old snapshot files from the location on the web that the launcher uses.  So here's how to do this:
+Step 1: Navigate to the specific snapshot page on this wiki, which can be accessed via the snapshot history page, and download the client .jar and .json on the right-hand side of the page.
+Note: on most web browsers, the .jar file downloads automatically when opening the link. However, on most web browsers, clicking the link to the .json file will show the JSON's contents instead of automatically downloading it. If this is the case, right-click anywhere on the page and choose "Save page as" or something similar. It will automatically save it as a .json file.
+
+For the remaining steps, close Minecraft and the launcher.
+Step 2:  Go to your .minecraft/versions folder:
+
+Windows: %appdata%\.minecraft\versions\ (Simply put this in your address bar & hit enter)
+Linux: ~/.minecraft/versions/ (this folder may be hidden in the "Home" folder)*
+* To unhide files in the 'Home' folder, press Ctrl + H
+macOS(OS X): ~/Library/Application Support/minecraft/versions/ (this folder may be hidden)
+Step 3: Create a folder with the same name as the snapshot, for instance "12w15a" or "14w02a".
+Step 4: Move the .jar and .json files that you downloaded into that folder.
+Step 5: Rename both the .jar and .json files to the same name as the snapshot (for example: 14w02a.jar and 14w02a.json).
+Step 6: Start the launcher, then follow the instructions from the previous section. You will be able to select the version you downloaded.
+Congratulations, you have installed a snapshot!
+
+
+== Warnings ==
+Opening existing single player worlds is not without risk: they might become broken or unloadable. If you load the map in the new snapshot and later you downgrade the version, the map might contain features that do not exist in that version yet, thus corrupting it. A map can also become corrupt by any bugs in the new snapshot.
+Don't take any risks: backup your saves (located in .minecraft\saves).
+Minecraft has a tendency of deleting older snapshot folders from the .minecraft\versions folder when the launcher closes. It is advised to copy the snapshot folder you have just created into a safe location.
+Worlds that are not made while snapshot is activated will not be able to be played without possibly messing up the world. Make a new world when snapshot loaded. When not playing in snapshot, world that was made during snapshot will not be able to be played.

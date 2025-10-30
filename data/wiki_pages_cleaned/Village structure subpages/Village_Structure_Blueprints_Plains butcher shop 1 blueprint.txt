@@ -1,0 +1,1 @@
+This structure resembles the old Butcher Shop seen in pre-1.14 villages, with some minor changes.

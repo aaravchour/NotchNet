@@ -1,0 +1,102 @@
+An azalea is a solid block that can be grown into an azalea tree.
+A flowering azalea is a variant of azalea that additionally counts as a flower for all purposes, including pollination by bees, although no dye can be crafted from one.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Azaleas can be broken instantly using any tool or by hand. Harvesting an azalea with shears consumes the durability of the shears for no additional benefit.
+An azalea also breaks if a piston extends or pushes a block into its location, or if water flows into it.
+
+
+=== Natural generation ===
+Azaleas and their flowering counterparts generate commonly on top of moss blocks in lush caves.
+
+
+=== Post-generation ===
+When decayed or mined with any tool except shears and tools enchanted with Silk Touch, azalea leaves and flowering azalea leaves have a 5% chance to drop azaleas and flowering azaleas, respectively. The Fortune enchantment increases the rate to 6.25% at level I, 8.33% at level II and 10% at level III.
+When using bone meal on a moss block, each block in a 3×3 to 7×7 area has a 15% chance of growing an azalea and a 5% chance of growing a flowering azalea.
+
+
+== Usage ==
+Flowering azaleas function like any other flowers in their interaction and uses with bees. Azaleas can be placed on grass blocks, dirt, coarse dirt, rooted dirt, podzol, moss blocks, farmland, mud, muddy mangrove roots and clay.
+Unlike most transparent blocks, mobs can spawn on top of azaleas and flowering azaleas in Java Edition.
+
+
+=== Composting ===
+Putting an azalea in a composter has a 65% chance of increasing the composting level. Flowering azaleas have an 85% chance.
+
+
+=== Fuel ===
+Azaleas can be used as a fuel source in furnaces, smelting 0.5 items per azalea.
+
+
+=== Growing trees ===
+Unlike saplings, an azalea or a flowering azalea does not automatically grow into an azalea tree. Therefore, using bone meal on it is the only way to grow an azalea tree. Application of bone meal gives an azalea or flowering azalea a 45% chance to grow into an azalea tree, provided there is a 3×5×3 area above it that is clear of all blocks that are not leaves or logs.
+
+
+=== Bee nests ===
+Oak and birch trees grown from saplings that are within 2 blocks of any flowering azalea have a 5% chance to grow with a bee nest containing 1 to 3 bees.
+
+
+== Sounds ==
+
+
+=== Azalea ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Flowering Azalea ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Azalea" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External Links ==
+Taking Inventory: Azalea – Minecraft.net on August 26, 2021

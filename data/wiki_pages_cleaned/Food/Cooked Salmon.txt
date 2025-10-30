@@ -1,0 +1,28 @@
+Cooked salmon is a food item obtained by cooking raw salmon.
+
+Salmon always drops 1 raw salmon when killed, unaffected by Looting. If it is killed while on fire, it drops 1 cooked salmon instead.
+
+Guardians and elder guardians have a 2.5% chance to drop a random fish, with 25% of them being raw salmon, which drops as cooked if the guardian was on fire. The chance of getting the fish drop is increased by 1% per level with Looting (for a maximum of 5.5% with Looting III), but the type of fish is not affected.
+
+Polar bears have a 25% chance of dropping 02 raw salmon when killed. The maximum amount can be increased by 1 per level of Looting, for a maximum of 0-5 with Looting III. If killed while on fire, they drop cooked salmon instead.
+
+Cooked salmon can be obtained by cooking raw salmon in a furnace, smoker, or on a campfire. Each piece of cooked salmon removed from a furnace output slot gives 0.35 experience (22.4 experience per stack).
+
+Apprentice-level fishermen villagers have a 50% or 23 chance to sell 6 cooked salmon for 6 raw salmon and an emerald.
+
+To eat cooked salmon, press and hold use while it is selected in the hotbar. Eating one restores 6 () and 9.6 saturation, the same as cooked mutton.
+
+In Bedrock Edition, cooked salmon can be fed to wolves only if they are not at full health, healing them by 6. Cooked salmon does not accelerate the growth of baby wolves and cannot be used to breed them.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Cooked Salmon" are maintained on the bug tracker. Report issues there.
+
+Fishing
+Cooked Cod

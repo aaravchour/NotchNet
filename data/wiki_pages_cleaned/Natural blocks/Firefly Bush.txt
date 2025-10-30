@@ -1,0 +1,42 @@
+A firefly bush is a decorative plant added in Spring to Life. It emits firefly particles when exposed to darkness.
+
+Firefly bushes can be easily broken with any tool.
+
+A firefly bush also drop as an item if:
+
+The attachment block is removed or destroyed.
+Water or lava flows into it.
+A piston tries to push it or moves a block into its space.
+It is placed on a mud block, and the mud block turned into clay block.
+
+Firefly bushes naturally generate in the following biomes:
+
+Swamp
+River
+
+Using a Bone Meal on a firefly bush grows another firefly bush on neighboring blocks.
+
+Wandering traders sell firefly bushes for three emeralds.
+
+Firefly bushes emit firefly particles if the internal light level at its position is 13 or less. It can emit particles even it is covered by blocks. Unlike most natural plants, this bush is not coloured depending on the biome.
+
+Firefly bushes can be placed on the following blocks:
+
+Grass Block
+Mycelium
+Podzol
+Dirt
+Coarse Dirt
+Rooted Dirt
+Farmland
+Mud
+Muddy Mangrove Roots
+Moss Block
+Pale Moss Block
+In Bedrock Edition, it is possible to snowlog firefly bushes. A snowlogged firefly bush doesn't emit particles.
+
+Using a firefly bush on a composter has a 30% chance of raising a compost level by 1.
+
+Firefly bushes produces firefly buzzing sounds if no collidable blocks (excluding leaves) are placed above it.
+
+Issues relating to "Firefly Bush" are maintained on the bug tracker. Report issues there.

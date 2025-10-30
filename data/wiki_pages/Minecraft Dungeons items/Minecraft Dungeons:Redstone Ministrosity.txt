@@ -1,0 +1,65 @@
+The redstone ministrosity is a cosmetic pet golem that can be unlocked as a reward in the Luminous Night seasonal adventure of Minecraft Dungeons.
+
+
+== Appearance ==
+The redstone ministrosity appears to be a tiny version of the redstone monstrosity with its overall appearance similar in size to the Copper Golem from Minecraft Live 2021, having patches of redstone on it.
+
+
+== Obtaining ==
+Adventure Hub
+
+
+== Behavior ==
+The redstone ministrosity is purely cosmetic and does not attack any mobs.
+
+
+== Sounds ==
+
+
+== Data values ==
+In the game files, the redstone ministrosity is referred to internally by the name BabyRedstoneMonstrosity.
+
+
+== History ==
+
+
+== Gallery ==
+
+
+=== Renders ===
+
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

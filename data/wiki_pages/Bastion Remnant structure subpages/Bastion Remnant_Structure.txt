@@ -1,0 +1,16 @@
+
+== Bridge ==
+Looks like an open piglin mouth - with "Bridge" being "tongue" - golden (if mini-)hoglin and "drop-of 'drool'," coming-off that part of that. Symbolic (but of what?).
+
+
+== Hoglin stables ==
+The hoglin stables consist of a three-part rampart with damaged hoglin stables on either side. Hoglin stables' pieces are contained in the subfolder hoglin_stable. They contain the hoglin stable chests.
+
+
+== Housing units ==
+The housing unit consists of multiple ruined two-part ramparts arranged around a central courtyard with nether wart growing in the middle. Housing unit pieces are contained in the subfolder units.
+
+
+== Treasure ==
+The player can get many great drops from the chests such as netherite scraps or ancient debris.
+It is also very likely that you will find in generic chests spectral arrows (11,2%), arrows (54,6%), magma cream (44,1%), chains (24,4%), bone block (24,4%), gold ingot (19%), block of gold (19%) and the pigstep music disc (2.27%)

@@ -1,0 +1,18 @@
+The skull scythe is a unique soul scythe variant that can be found within the spookier fall of Minecraft Dungeons. It has identical abilities to the frost scythe.
+
+The item description states that an unknown unnatural creatures bones were used in the construction of the skull scythe.
+
+Missions
+Tower
+Events
+Spookier Fall (ended)
+Merchants
+Gift Wrapper
+
+X melee damage
+Slows Mobs (Freezing tier I)
++1 Soul Gathering
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+Issues relating to "Skull Scythe" are maintained on the bug tracker. Report issues there.

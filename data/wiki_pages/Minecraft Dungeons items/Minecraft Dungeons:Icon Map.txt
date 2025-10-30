@@ -1,0 +1,27 @@
+An icon map is an unused artifact within the echoing void DLC of Minecraft Dungeons.
+
+
+== Usage ==
+Icon maps were presumably meant to be obtained at some point to unlock different parts of the DLC.
+
+
+== Data values ==
+In the game files, icon maps are referred to internally by the name .
+
+
+== History ==
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

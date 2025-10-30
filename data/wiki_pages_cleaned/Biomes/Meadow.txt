@@ -1,0 +1,17 @@
+The meadow is an elevated grassy mountain slope biome filled with patches of flowers and turquoise-green grass and tall grass, where sheep, donkeys and rabbits spawn.
+
+The meadow biome is a high altitude counterpart to the plains biome. All small flowers generate except blue orchids, tulips, lilies of the valley or wither roses. Rarely, a lone oak or birch tree of any size can generate and always has a bee nest. Both pillager outposts and plains villages can generate in this biome, making this the only mountain biome where villages can generate. In Java Edition, unlike most overworld biomes, sugar canes and pumpkin patches cannot generate here.
+Just like other mountain biomes, emerald ores can be found in meadows, especially at higher altitudes, and both coal and iron ores are commonly found here. Infested block blobs also naturally generate in meadows.
+This biome usually generates in the lower sides of some mountains but can also generate standalone in plateaus, mainly next to plains and separated from cherry groves, regular forests, regular birch forest, or regular taigas by rivers.
+The following mobs are naturally spawned here
+
+Java Edition:
+
+Bedrock Edition:
+
+Plains
+Cherry Grove
+Mountains
+Flower Forest
+
+Around the Block: Meadow  Minecraft.net on April 14, 2022

@@ -1,0 +1,22 @@
+Tuff is an ornamental rock block formed from volcanic ash, occurring in underground ore blobs below Y=16.
+
+Tuff can generate in the Overworld in the form of ore blobs. Tuff attempts to generate 2 times per chunk in blobs of size 0-864, from elevations -64 to 0, in all biomes. Tuff can replace stone, andesite, diorite, granite, polished andesite, polished diorite, polished granite, and deepslate. Any ore that generates in tuff becomes its deepslate variety.
+Additionally, tuff can generate in an ore vein that consists of iron ore below Y=0.
+
+Tuff drops as an item if mined using any pickaxe. If mined without a pickaxe, it drops nothing.
+
+Tuff is mainly used for construction and decoration; however, it can also be used to craft its slab, stairs, and wall variants, as well as polished tuff, which can further be crafted into chiseled tuff and tuff bricks. Tuff can be stonecut into all of the tuff blocks.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Tuff" are maintained on the bug tracker. Report issues there.
+
+In real life, tuff is a strong type of igneous rock which forms from compressed ash resulting from volcanic eruptions, which sees extensive use in Armenian architecture. Tuff in Minecraft is somewhat similar, with the texture representing that of a rough, uneven surface which appears to be the result of volcanic ash formation.
+
+Block of the Week: Tuff  Minecraft.net on September 10, 2021

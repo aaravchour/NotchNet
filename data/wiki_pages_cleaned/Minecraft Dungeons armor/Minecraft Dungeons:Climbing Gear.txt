@@ -1,0 +1,22 @@
+Climbing gear is an armor set that can be found within the howling peaks DLC of Minecraft Dungeons. It's unique variants are called the goat gear and the rugged climbing gear.
+
+Missions
+Windswept Peaks
+Colossal Rampart
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Windbeard
+
+X Health
+-25% artifact cooldown
+Pushback resistance
+
+In-game, health numbers can vary even in the same power level, and may not be exactly as seen below.
+
+Issues relating to "Climbing Gear" are maintained on the bug tracker. Report issues there.

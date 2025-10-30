@@ -1,0 +1,245 @@
+A decorated pot is an ornamental block crafted from pottery sherds or bricks.
+
+
+== Obtaining ==
+Decorated pots can be broken with any tool and are mined instantly. A decorated pot drops the four pottery sherds or bricks used to craft it when mined with a pickaxe, axe, shovel, hoe or sword not enchanted with Silk Touch. It drops itself when mined with anything else, including tools listed above enchanted with Silk Touch.
+A decorated pot drops itself if pushed by a piston. It also always drops itself when destroyed by an explosion, similar to other precious blocks such as beacons and shulker boxes.
+
+
+=== Crafting ===
+
+The decorated pot's side textures will correspond to what item is used in the crafting. If a pottery sherd is used, that side will have the texture of that pottery sherd, if a brick is used, that side will have the default texture. The pottery sherd or brick within the 8th slot (bottom most) of the crafting grid determines the texture that faces against the player upon placement; the 2nd, 4th, 6th slots will determine the textures of the back/left/right facings in accordance to the player's POV.
+
+
+== Usage ==
+Decorated pots are used for decoration. Due to the top part of the decorated pot having no collision, other blocks can be placed on top of them, including other decorated pots and regular flower pots, which are required to place a flower in the decorated pot.
+In the 1.20.3 snapshots and pre-releases, decorated pots can hold a single stack of any one item type. Using an item on a decorated pot puts it in the pot. The pot shakes if the player uses the pot with an empty hand or an item that can't be placed in the pot. Punching or shattering a decorated pot drops any items that were held inside.
+
+
+== Sounds ==
+
+
+=== Generic ===
+Decorated pots will switch to the shattered sounds immediately before breaking when destroyed by a non-Silk Touch tool.
+
+
+==== Popped ====
+Java Edition:
+
+Bedrock Edition: 
+
+
+==== Shattered ====
+Java Edition:
+
+
+=== Unique ===
+Java Edition: None
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+
+Bedrock Edition: 
+
+
+=== Block data ===
+A decorated pot has a block entity associated with it that holds additional data about the block.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Block entity format.
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Decorated Pot" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Decorated pots were considered to spawn in Ancient Cities but was scrapped.
+If an item that is not a brick or pottery sherd is applied to the side of a decorated pot using commands, it renders the same pattern as a brick.
+There are a total of 214 (194,481) unique decorated pots that can be crafted, as each of the 4 slots used to craft a decorated pot can consist of any one of the twenty pottery sherds in addition to the brick.
+Up to 1.20.2, Decorated Pot is one of the two blocks (the other being standing signs) and the only full block with textures extending outside of their intended block space.
+
+
+== Gallery ==
+
+
+=== General ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Renders ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Concept Art ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

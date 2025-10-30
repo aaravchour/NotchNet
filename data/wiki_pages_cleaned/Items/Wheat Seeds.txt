@@ -1,0 +1,51 @@
+Wheat seeds (in Java Edition) or seeds (in Bedrock Edition) are items obtained by breaking grass, or more abundantly harvested from wheat crops, and are used to plant them.
+Wheat crops are planted in farmland and used to grow wheat and wheat seeds. 
+
+Harvesting fully-grown wheat crops yields from 1 to 4 seeds per crop harvested (about 2 57 seeds/crop harvested on average).
+In Bedrock edition yields are 0-3.[1]
+Wheat seeds can be obtained from breaking all variants of grass, which yields 0 to 1 seed. If harvested with a Fortune enchanted tool the drop rate from grass is increased.
+The looting is calculated by a binomial distribution: a drop is attempted three times with a success rate of around 57% to yield the 03 drops. Each level of Fortune enchantment increases the number of attempts by one.
+
+Village farm plots have a chance of being wheat crops. The exact chance depends on the style of the village:
+
+Wandering traders sell wheat seeds for an emerald.
+
+                                                                           
+Nitwit and unemployed villagers throw wheat seeds at players under the Hero of the Village effect.
+
+Wheat seeds can be placed on farmland by right-clicking, where they grow through eight stages. When left alone, wheat seeds planted on farmland grow to become wheat crops, which can be harvested by the player. Planted seeds require a light level of 9 or greater to continue growing. If the light level is 7 or below, the crops instantly un-plant themselves ("pop off"). It is not possible to plant seeds if the light level is too low.
+Crops grow faster if the farmland they are planted in is hydrated. Using bone meal on crops also increases the speed of growth by randomly increasing their growth stage by 2 to 5.
+Breaking the final stage produces 1 to 4 wheat seeds (or more with Fortune) and 1 wheat. If they are harvested early, they drop 1 seed without any wheat. Crops break if pushed by a piston or if their supporting farmland breaks or turns to dirt (i.e. by being trampled), dropping their usual drops. 
+
+Like other seeds, wheat seeds can be used to breed chickens and reduce the remaining growth duration of baby chickens by 10%. Chickens also follow a player holding wheat seeds.
+
+Like other seeds, wheat seeds can be used to tame parrots.
+
+Placing wheat seeds into a composter has a 30% chance of raising the compost level by 1. A stack of wheat seeds yields an average of 2.74 bonemeal.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+For a more in-depth breakdown of changes to wheat textures and models, including a set of renders for each state, see /Asset history
+
+The following content is transcluded from Technical blocks/Crops.
+
+Java Edition
+Item names did not exist prior to Beta 1.0.
+
+Beta 1.0 - 13w36b: Crops
+
+Issues relating to "Wheat Seeds" are maintained on the bug tracker. Report issues there.
+
+Java Edition
+
+Bedrock Edition

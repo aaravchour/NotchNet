@@ -1,0 +1,18 @@
+Undead, by definition, refers to an entity that is deceased, but still animate.
+
+Within Minecraft, it refers to an in-game category of mobs that share the following characteristics:
+
+Are damaged by Instant Health and healed by Instant Damage;
+Are not affected by Regeneration and Poison;
+Take extra damage from Smite;
+Do not take drowning damage (husks and regular zombies turn into regular zombies and drowned, respectively);
+Are not targeted by the wither.
+Causes an armadillo to hide in their shells.
+Some (but not all) undead mobs also possess these characteristics:
+
+Are hostile to the player;
+Catch fire under sunlight.
+
+Despite the giant being an oversized variant of the zombie, it's not considered an undead mob.
+Despite their ghost-like appearance, ghasts are not considered an undead mob. However, they are never targeted deliberately by the Wither boss.
+The Zoglin is the only undead mob that is capable of attacking other undead mobs, and the only one that does not spawn naturally.

@@ -1,0 +1,33 @@
+A bucket is an item used to carry water, lava, milk, powder snow, and various aquatic mobs. Empty buckets are stackable up to 16 in inventory and storage (except in the furnace fuel slot), however filled buckets are not stackable.
+
+Empty buckets can be used to "pick up" a water or lava source block by pressing use item on a block of the relevant type. If the empty bucket is part of a stack and the player's inventory is full, the filled bucket drops in front of the player as an item. 
+A bucket filled with a source block can then be used to place its source block contents in the empty block next to the side of the block the player is currently looking at, or replacing the block looked at for some replaceable blocks.
+One can press use when looking at a cow, mooshroom, or goat to fill a bucket with milk. A bucket full of milk can be emptied only by drinking it or by using it in crafting a recipe (like cake).
+A bucket full of water can be used on a live aquatic mob (cod, salmon, tropical fish, pufferfish, axolotl, or tadpole) to collect the mob in the bucket for transportation to another location. The mob in item form becomes a bucket of aquatic mob.
+An empty bucket can be used to empty a cauldron with water or lava, filling the bucket with the fluid. This does not work with dispensers.
+A lava bucket placed in the fuel slot of a furnace becomes an empty bucket after the lava is consumed during smelting.
+An empty bucket fills with water when placed in the fuel slot of a furnace while smelting a wet sponge.
+An empty bucket can be used to collect powder snow, filling the bucket with powder snow. Emptying the powder snow bucket places the powder snow block in the empty block next to the side of the block the player is currently looking at.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+In some old Minecraft Beta versions (Java Edition Beta 1.2), players could obtain milk by right-clicking a squid with an empty bucket.
+However, this feature was fixed in Java Edition Beta 1.3 01, and the "squid milk" bucket remains as a Milk Bucket, when versions are changed.
+In A Minecraft Movie, two identical buckets attached/linked with a chain are nicknamed "Buck-Chuckets" by Garrett Garrison.
+The crafting recipe involves iron ingots and iron nuggets scattered on a Crafting Table.
+Since Garrett doesn't know much about crafting items and utilities, he drops these items on the table, trying to make an Iron Sword, similar to Steve's sword.
+
+Issues relating to "Bucket" are maintained on the bug tracker. Report issues there.
+
+Cauldron
+Bowl
+Glass Bottle
+Water
+
+Taking Inventory: Bucket  Minecraft.net on December 14, 2018

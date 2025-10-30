@@ -1,0 +1,56 @@
+An axe is a tool used to hasten the breaking of wood-based or other tough organic blocks, strip or scrape certain blocks, or as a melee weapon that can disable shields it hits.
+
+An axe can be repaired in an anvil by adding units of the tier's repair material, with each repair material restoring 25% of the axe's maximum durability, rounded down.
+
+A vindicator spawns with an iron axe and has an 8.5% chance (9.5% with Looting I, 10.5% with Looting II, and 11.5% with Looting III) of dropping it upon death by the player. It is usually heavily damaged and is sometimes enchanted.
+A piglin brute spawns with a golden axe and has an 8.5% chance (9.5% with Looting I, 10.5% with Looting II, and 11.5% with Looting III) of dropping it upon death by the player. Also, in Java Edition, zombified piglins can drop their golden axe (with the same chance as piglin brute drop) if they have been zombified from a piglin brute.
+
+In Bedrock Edition, Vindicator and pillagers that spawn in raids have a 4.1% chance (5.12% on hard) to drop a badly-damaged iron axe, which is sometimes enchanted with a random enchantment. A vindicator can drop 2 iron axes, one from natural equipment and one from raid drops.
+
+Novice-level Toolsmith villagers have a 25% chance to sell a stone axe for one emerald, journeyman-level Toolsmith villagers have a 25% chance to sell an enchanted iron axe for eight emeralds, and expert-level Toolsmith villagers have a 50% chance to sell an enchanted diamond axe for 13 emeralds.
+Novice-level Toolsmith villagers have a 40% chance to sell a stone axe for one emerald, journeyman-level Toolsmith villagers have a 40% chance to sell an enchanted iron axe for 7-22 emeralds, and expert-level Toolsmith villagers have a 66.67% chance to sell an enchanted diamond axe for 18-35 emeralds.
+Novice-level Weaponsmith villagers sell an iron axe for 3 emeralds as one of their trades, and master-level Weaponsmith villagers sell an enchanted diamond axe for 12 emeralds.
+Novice-level Weaponsmith villagers have a 66.67% chance to sell an iron axe for 3 emeralds. Master-level Weaponsmith villagers always offer to sell an enchanted diamond axe for 18-35 emeralds.
+The enchantments are the same as the ones obtained from an enchantment table at levels 519.
+
+Toolsmith villagers occasionally throw stone axes at players with the Hero of the Village status effect.
+Weaponsmith villagers occasionally throw either stone, gold, or iron axes at players with the Hero of the Village status effect.
+
+In Java Edition, a sealed room in woodland mansions can appear that has a chest always containing an Efficiency I iron axe.
+
+An axe is used to break logs, blocks derived from wood and some other blocks faster than by using other tools. An axe uses 1 durability to break 1 block. For blocks that break instantly, it uses 0 durability.
+
+Each tier of axe has a different durability:
+
+The following table summarizes the speed at which axes of different qualities perform.
+
+Using an axe on a log, wood block, block of bamboo\, or block of copper causes it to become a stripped log, stripped wood block, block of stripped bamboo, or removes one layer of oxidization or wax, respectively. This consumes one point of durability from the axe.
+
+An axe loses 2 points of durability when used as a weapon. 
+
+In Bedrock Edition, axes always attack instantly and deal 1 less damage than a sword of the same quality but it lowers the durability of armor and shields faster than any other tool in-game.
+
+Attacking a shield user with an axe should have a chance to disable the use of the shield for 5 seconds, but currently this always disables a shield. The base chance is 25%, plus 5 percentage points per level of Efficiency on the axe, plus 75 percentage points if attacking while sprinting. Vindicators, piglin brutes, or other mobs with commands always disable the player's shield. Damage done when using an axe as a weapon is more than that of a sword of the same tier, though they take longer than a sword to recover, resulting in lower DPS (with the exception of golden axes). The damage dealt and cooldown time depends on the type:
+
+An axe can receive the following enchantments:
+
+Wooden axes can be used as a fuel in furnaces, smelting 1 item per axe.
+
+Piglins are attracted to golden axes and run toward any golden axes on the ground, and inspect it for 6 to 8 seconds before putting it in their inventory.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Axe" are maintained on the bug tracker. Report issues there.
+
+Before Java Edition 1.13, in the language files, axes were referred to as Hatchets.
+Weaponsmith villagers gifting stone, iron and golden axes is a reference to the story The Honest Woodcutter, where a woodcutter dropped his axe into a river, and is successively provided a silver and a golden axe by the river god.
+
+Pickaxe
+
+Taking Inventory: Axe  Minecraft.net on February 6, 2020

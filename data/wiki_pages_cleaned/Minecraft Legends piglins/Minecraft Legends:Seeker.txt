@@ -1,0 +1,7 @@
+A seeker is a piglin affiliated with the Horde of the Spore and Horde of the Hunt of Minecraft Legends.
+
+Seekers spawn from Piglin Pits in Piglin Bases and Outposts. They can also spawn randomly in any Biome.
+
+Seekers idle around holding an explosive mushroom. Once the seeker finds a target it will run towards them and throw their explosive mushrooms at them, though they damage themselves in the process. Seekers can swim when on water.
+
+Issues relating to "Seeker" are maintained on the bug tracker. Report issues there.

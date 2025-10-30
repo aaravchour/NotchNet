@@ -1,0 +1,9 @@
+Flairs are cosmetic abilities that provides no functional benefits to the hero. All flairs are available through the adventure hub and can be equipped from the cosmetics page  of the inventory. There are four types of flairs available, healing flairs, level up flairs, respawn flairs, and mob flairs
+
+Healing flairs are cosmetic effects that appear when a hero heals itself.
+
+Level up flairs are cosmetic effects that appear when the hero levels up.
+
+Mob flairs are cosmetic effects that appear when the hero defeats a mob.
+
+Respawn flairs are cosmetic effects that appear when the hero respawns.

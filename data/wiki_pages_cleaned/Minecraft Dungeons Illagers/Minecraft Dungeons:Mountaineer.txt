@@ -1,0 +1,40 @@
+A mountaineer is a hostile illager that can be found within the various missions of Minecraft Dungeons.
+
+Mountaineers wear a brown hood with a white face covering, brown-and-white colored sleeves and pants, brown boots and gloves, and a blue belt or sash around its chest. They utilize mountaineer axes and they have blue eyes. 
+The 1st variant wears a black hood with gold buttons and is seen wearing a green backpack, an olive belt, and black pants. The 2nd variant wears a reddish hood with an open coat with leather armor and wears leather boots and a brown sash around the chest and has diamond buttons. Both are often seen wielding mountaineer axes which they use in their attacks. Both variants also have different eyes, with the 1st having light-green eyes, and the 2nd variant having black eyes, similarly to the Arch-Illager.
+
+Missions
+Frosted Fjord
+Lost Settlement
+Windswept Peaks
+Gale Sanctum
+Gauntlet of Gales
+Colossal Rampart
+End Wilds
+Broken Citadel
+Tower
+Mobs
+Raid Captain
+Windbeard
+In the End Wilds and the Broken Citadel, mountaineer camps can be found. Some mountaineers are found within cages.
+
+Attack
+Mountaineers behave similarly to the old AI of vindicators before 1.7.2.0, running up to the hero and attacking them via melee, with their axes. They have a delay and cannot move when they are attacking.
+
+Brace
+
+Mountaineers place their axe into the ground when in contact with the wind in order to not be blown away.
+
+These old sound effects are released with the new sound effects and currently unused.
+
+Issues relating to "Mountaineer" are maintained on the bug tracker. Report issues there.
+
+In the game files, mountaineers are referred to internally by the name Mountaineer or MountaineerVariant0.
+In the game files, mountaineer variant 1 are referred to internally by the name MountaineerVariant1.
+In the game files, mountaineer variant 2 are referred to internally by the name MountaineerVariant2.
+
+Except for stunning, mountaineers are squinting or half-closed eyes most of the time. (0.8 times eyes size)
+In the artwork for the howling peaks, mountaineers can be seen climbing the peaks while using axes, likely a placeholder for mountaineer axes.
+Despite behaving like vindicators, mountaineers are not a vindicator variant.
+
+Rampart Captain

@@ -1,0 +1,4 @@
+Caring is a joke effect from Java Edition 15w14a which replaces the data value of both slowness and poison effects.
+
+Caring causes mobs to change their AI to move toward the nearest mob as if it were to attack it.
+The effect can be removed by drinking milk.

@@ -1,0 +1,81 @@
+The corrupted cauldron  is a golem-like boss that can be found within the various missions of Minecraft Dungeons. It is the first boss encountered in the game (excluding Arcade).
+
+The corrupted cauldron is a large golem-like cauldron with a glowing purple mouth and eyes. Its spoon can move without anyone controlling it. It is the second smallest boss in the game.
+
+Soggy Swamp (Boss)
+Daily Trial
+Tower (Boss)
+
+The corrupted cauldron has three behaviors. It does not move during its battle, even if struck by a Gravity-enchanted weapon.
+
+Basic attack
+The corrupted cauldron creates a ring of purple fire on the mossy cobblestone blocks around it, which deals heavy damage to anything that steps in it. Used occasionally.
+
+Intense spin
+The corrupted cauldron, after a stirring animation, conjures a variety of dangerous mobs to join the battle.
+
+Strong attack
+The corrupted cauldron sucks up the corpses of minion mobs that it not a pink slime. Once the corpse of a mob is inside of the corrupted cauldron, the cauldron consumes it, regenerating 1% of its total health. It is somewhat similar to the leeching enchantment.
+
+Minion
+These minions are summoned by the corrupted cauldron. Minions are related with their own summoner. After minions die, their corpse does not disappear immediately but keep bouncing and suck by the corrupted cauldron.
+Corrupted cauldron only absorb its own minions corpse. For example in tower, corrupted cauldron do not sucks up drowned corpses (Summoned by drowned necromancer). Minions kills by corrupted cauldron in 20 blocks distance if the cauldron is defeated. 
+Minions:
+
+Chicken Jockey
+Chicken Jockey Tower
+Husk
+Vindicator 
+Zombie 
+
+A pink slime, is a slime variant that can be found exclusively summoned by the corrupted cauldron within Minecraft Dungeons.
+
+Pink slimes are medium-sized pink slimes that have a dark purple mouth and eyes, a purple inner core, and a light purple outer layer.
+
+Soggy Swamp (Boss summonable)
+Tower (Boss summonable)
+
+Pink slimes are immobile, preferring to stay in one spot and attacking heroes from a distance. They do not have a jump behavior, unlike normal slimes.
+
+Medium attack
+Pink slimes attack heroes on-sight by shooting small purple projectiles that deal moderate damage upon being hit.
+Pink slime's projectiles only deal 20% damage to corrupted cauldron.
+
+Armor
+Evocation Robe
+Ember Robe
+Verdant Robe
+Mystery Armor
+Artifacts
+Fishing Rod
+Harvester
+Lightning Rod
+Totem of Regeneration
+Melee Gear
+Daggers
+Fangs of Frost
+Moon Daggers
+Sheer Daggers
+Double Axe
+Cursed Axe
+Whirlwind
+Glaive
+Grave Bane
+Venom Glaive
+Soul Knife
+Eternal Knife
+Truthseeker
+Ranged Gear
+Hunting Bow
+Ancient Bow
+Hunter's Promise
+Master's Bow
+Scatter Crossbow
+Lightning Harp Crossbow
+Harp Crossbow
+
+The purple projectiles that pink slimes are able to shoot are very similar to the Jack o' Lantern's pumpkin balls.
+
+Issues relating to "Corrupted Cauldron" are maintained on the bug tracker. Report issues there.
+
+Slime

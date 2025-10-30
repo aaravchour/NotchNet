@@ -1,0 +1,23 @@
+A block of diamond is a precious mineral block equivalent to nine diamonds.
+
+Blocks of diamond can be mined with an iron pickaxe or better.
+
+Diamond blocks spawn as the cores of "obsidian rooms" and "lava rooms" in woodland mansions.
+
+Blocks of diamond can be used to store diamonds in a compact fashion. 
+
+Blocks of diamond can be used to "power" a beacon. The beacon can be powered by a 33 square of diamond blocks underneath it, and can optionally also include a 55, 77 and 99 layer in the shape of a pyramid under the original layer to increase the effects from the beacon. The layers do not have to be entirely diamond blocks, as they may also contain blocks of iron, blocks of gold, blocks of netherite, and blocks of emerald.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Block of Diamond" are maintained on the bug tracker. Report issues there.
+
+The block of diamond has the same texture as the block of gold, but tinted blue. This is also true of its texture from before the Texture Update.
+
+Block of the Week: Diamond  Minecraft.net on April 7, 2017

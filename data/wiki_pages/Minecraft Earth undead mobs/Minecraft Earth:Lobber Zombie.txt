@@ -1,0 +1,72 @@
+The lobber zombie was a slightly rotten variant of the zombie that threw flesh projectiles, found only in Minecraft Earth.
+
+
+== Appearance ==
+The Lobber zombie was a slightly rotten variant of the zombie that was capable of throwing rotten flesh projectiles. It had much lighter-colored skin than a normal zombie, and most of its body had a pale grayish tinge. Its dark blue pants were noticeably torn near the bottom, and its shirt was a dull grayish teal in color. Its skin was noticeably full of green torn out wounds, with patches of them being found on its head, legs, and prominently seen on its right arm, which was shorter than its left, as it was one pixel shorter than a normal zombie's arm, while the left arm was 2 pixels longer than a normal zombie arm, as well as a pixel wider.
+
+
+== Behavior ==
+Lobber zombies mostly acted like normal zombies in terms of damage and behavior, attacking players, mobs of me, furnace golems, and melon golems by walking up to and attacking them. However, they also had a ranged attack where they would throw a rotten flesh projectile at their target from afar to deal a small amount of damage.
+
+
+== Rotten flesh projectile ==
+
+Lobber zombies lobbed rotten flesh projectiles at players. Upon hit, the player took 1 of projectile damage.
+
+
+== Obtaining ==
+Lobber zombies were rare mob drops that were only obtainable from uncommon, rare and epic adventure chests.
+
+
+== Drops ==
+When killed, the lobber zombie dropped:
+
+0-2 Rotten Flesh
+Potato (2.5% chance of dropping)
+Carrot (2.5% chance of dropping)
+Iron Ingot (2.5% chance of dropping)
+
+
+== Sounds ==
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Trivia ==
+The biome category of the journal revealed that lobber zombies spawned in plains.
+The Lobber Zombie was referred to as the "Throwing Zombie" in some early concept art.
+It, along with the bouldering zombie, were the first and only zombie variants exclusive to Minecraft Earth.
+Unlike other zombie variants in different games, they were given unique and slightly altered models, with their arms having different widths and lengths, and unique animations for throwing and climbing.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

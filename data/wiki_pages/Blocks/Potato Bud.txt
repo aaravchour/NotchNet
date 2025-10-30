@@ -1,0 +1,5 @@
+Potato Bud is a block in Java Edition 24w14potato. It's the potato variant of the pointed dripstone and it generates in the potato dimension.
+
+
+== Issues ==
+"Potato Bud" is an April Fools feature, and as such issues related to it cannot be fixed.

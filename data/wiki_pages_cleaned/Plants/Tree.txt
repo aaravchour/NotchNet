@@ -1,0 +1,78 @@
+A tree is a common plant feature that mainly consists of logs and leaves.
+
+The trees found in Minecraft, excluding the jungle bush, azalea trees, mangroves, and cherry trees.
+
+Trees vary widely in height, from a bare minimum of 1 log block for jungle bushes, ranging up to a maximum of 30 blocks for mega jungle trees or old growth trees.
+Tree canopies are composed of leaf blocks and grow 1 block higher than the highest log block (except those of the fancy oak, whose leaves grow 3 blocks higher). The canopy may begin from the ground and go up to 6 blocks from the ground. Tree canopies are generated from roughly spherical clusters of leaves about 57 blocks across, centered on sections of trunk or branches. Leaves must be supported by an adjacent trunk (or leaf blocks connected to the trunk); otherwise, they disappear.
+Fancy oak, dark oak, and mega jungle trees grow branches (logs connected horizontally, vertically, or diagonally to the trunk or other branches). Most of the time, a single tree has between one and six branches, and each branch has between one and six logs. Acacia tree branches do not cover their branches in this way. Regular oak, jungle, birch, spruce, pine, mega spruce, and mega pine lack branches.
+
+Trees are created when chunks are generated, and can also be grown from saplings.
+Tree saplings have a 120 chance (140 if they are jungle saplings) of dropping from leaf blocks when they decay or are destroyed. There are seven species of saplings, corresponding to seven of the eight main trees: oak, birch, spruce, jungle, acacia, dark oak, and cherry.
+
+The sapling can be planted on any variant of dirt (except dirt path) a moss block or a mud, and must have a light level of at least 8 in the sapling block. 
+A sapling uproots with light level 7 or less in the sapling block itself unless it has a view of the sky that is unobstructed (except by glass or other transparent materials). The sapling must have at least 6 blocks of space above it to grow; the amount of required space varies between the different species of trees. A ceiling above sapling limits the maximum height of the tree that can grow from that sapling. However, dirt blocks and logs may not prohibit tree growth, and in some cases may be replaced as a sapling attempt to grow through them. However in Bedrock edition, logs prohibit tree growth.
+If multiple saplings are planted next to each other, each one grows as long as the leaves from the other grown saplings do not block too much of the sunlight. Artificial light (torches, etc.) can still be used to grow them if this happens.
+
+All trees in the active chunk radius around the player make attempts to grow at random intervals. For any given tree this can work out to about one growth attempt per minute. When a tree attempts to grow, it first checks that it has enough light, then randomly chooses which variant of that species of tree to become; for example, an oak sapling chooses to grow as either a normal or fancy oak tree.
+Once a tree has passed a light check and chosen size to attempt, it checks if there is enough space for its chosen size. If it encounters an obstruction during this check, it fails to grow and must wait for the next pass before it can attempt to grow again. This means that a tree in an open field with enough light grows relatively quickly, but a tree in a cramped tree farm that stunts its size may make several attempts before finally growing.
+Bone meal, when used on a sapling, has a chance of forcing it to grow, so long as all of the normal checks (light, space, dirt, etc.) have passed. It does not guarantee growth, but forces an attempt to grow.
+
+All saplings grow normally in the Nether and in the End, although they must be planted in dirt transported from the Overworld and provided with sufficient light and space. Leaf blocks in the Nether have the same color as if they were placed in a desert biome. In the End, they are a dull bluish-green, as in the windswept hills biome.
+In order to grow a 22 tree (be it spruce, jungle or dark oak), four saplings must be placed adjacent to each other in a square. For growth to succeed, there must be no blocks adjacent (even diagonally) to the north-western side up to the final height of the tree. The bone meal can be used on any of the saplings. The largest mega jungle trees, mega spruces, and mega pines reach 31 blocks tall. Dark oaks are typically 68 blocks tall.
+Leaves and logs removed from a tree do not grow back over time.
+When a sapling on a grass block or mycelium grows into a tree, the grass block or mycelium is instantly converted to dirt.
+
+There are nine types of trees  oak, spruce, birch, jungle tree, acacia, dark oak, azalea tree, mangrove, and cherry.
+Other structures are loosely defined as trees: the huge fungus, huge mushroom, and chorus plant.
+
+Oaks are among the most common trees in the game. They have the smallest space requirements, and along with dark oak trees, they can drop an apple when a leaf block is destroyed. In swamp biomes, a slightly larger variant of the regular oak tree with vines is generated, which can naturally generate in shallow water. Fancy oaks may also grow or generate in place of regular oaks; these are taller and may feature branches. A rare variant is its smallest configuration, colloquially known as a "balloon" oak.
+
+Spruce trees grow from spruce saplings and have growth patterns and requirements similar to birch trees, although they appear different. They are mainly found in the taiga biome, but they may also generate in windswept forest, snowy plains, snowy taiga, and old growth taiga biomes. Spruce logs have the same texture as oak logs, but it is a darker shade of brown; its leaves are denser, with a darker and more bluish tone.
+
+Birch trees look fairly similar to small oaks in terms of height and are most commonly found in birch forest biomes. There are two types of birch: a shorter tree that can be grown by the player with birch saplings; and a taller, rarer variety that generates only naturally in tall birch forest biomes.
+
+Jungle trees are one of the rarest naturally generated trees in Minecraft because they are native to the jungle biomes, which are themselves rare. Jungle tree leaves drop jungle tree saplings. When planted in grass or dirt they grow into a jungle tree with a 11 trunk, but the player can place them in a 22 formation to grow a jungle tree with a 22 trunk like the trees found naturally in the jungle biome. Jungle bushes also generate in the jungle biome, featuring oak leaves and a single jungle log.
+
+Acacias are found in the savanna biome. They are about 8 blocks tall and feature unique diagonal trunks, and may occasionally have multiple canopies.
+
+Dark oaks are found in the dark forest biome. They have thick 22 trunks. A dark oak always generates with dirt blocks under its trunk, even on a steep cliff. Irregular logs, representing large branches, are nearly always present and connected to the trunk. The canopy of a dark oak filters enough light that a dense forest of them is sufficiently dark for hostile mobs to spawn during the daytime.
+
+Azalea trees generate on any empty space above a lush cave, with roots consisting of rooted dirt and hanging roots that reach down to the lush cave. The tree usually appears at the surface, but they can generate inside caves if there is enough room and a lush cave below.
+Azalea trees can be manually grown by applying bone meal to an azalea or flowering azalea block ("bush"). Unlike most trees, they do not have their own wood type (the trunks are composed of oak logs), but they have two types of leaf block: azalea leaves, and flowering azalea leaves.
+
+Mangroves are found in muddy mangrove swamps, growing in water or on land. They are grown from propagules, which can be found hanging from the trees. A mangrove converts any mud around it to muddy mangrove roots. The wood has a deep red-orange color.
+
+Cherry trees are found in cherry groves. They have distinct pink leaves and curved branches. They also have a unique petal falling particle effect.
+
+Pale oaks are found in the pale garden biome. They have thick 22 trunks. Naturally generated pale oaks generate with Pale Hanging Moss under the leafy crown. They sometimes generate with a Creaking Heart rarely.
+
+Huge fungi come in many shapes and sizes, from really small to really huge. Their trunks are composed of "stem" blocks which are nearly identical to wooden logs, except for being non-flammable.  In place of leaves they have nether wart blocks or warped wart blocks, with occasional shroomlights embedded within them.  Crimson huge fungi often generate with weeping vines.  
+Huge crimson fungi are found in the crimson forest biome; huge warped fungi are found in the warped forest biome.
+They can be grown from crimson or warped fungus, placed on crimson nylium or warped nylium.  To grow into a huge fungus, the original fungus must be planted on the matching type of nylium, and then bone meal applied to it.
+
+While loosely defined as a tree, these are structures generated in certain biomes. Instead of logs and leaves, they consist of mushroom stems and mushroom blocks, which don't decay. When harvested without Silk Touch, they drop mushrooms.
+They come in two variants, brown and red.
+
+While loosely defined as a tree, these are structures generated on the outermost End islands. Instead of logs and leaves, they are instead comprised of chorus plant trunk blocks and flowers on the tip. They do not drop their own block but instead chorus fruit.
+They are usually extremely tall, with multiple branches. When the bottom of the chorus tree is cut, the whole chorus tree falls apart, dropping their fruit. The branches are tipped with "chorus flowers", which do not drop when the tree is broken, but can separately be broken (and dropped) by any tool, bare hands, or the impact of any projectile.  When a chorus flower is placed on End stone, it grows into a chorus tree over time  unlike most trees, this is a step-wise process as the chorus flower generates branches one block at a time.
+
+                                                                            
+In Bedrock Edition and Minecraft Education, trees can generate as one of the two following variants of the normal tree. Both of these generate naturally, and can be grown out of normal saplings.
+
+                                                                           
+
+These trees have the standard growth pattern of any other tree, however, all exposed logs in the main trunk are covered with vines. They can generate as dark oak, jungle, spruce, small oak trees or be grown from saplings.
+
+These trees consist of a single upright log, or stump. Logs lying on their side are often found 12 blocks from the stump. The stump may sometimes have vines generated around its sides. Oak, spruce, birch, tall birch, and jungle trees can generate as fallen trees.
+
+The "cold-en" oak was a tree formed by a rare glitch in older versions of Bedrock Edition prior to v0.9.0. It was a small tree with a shape identical to that of a small oak or birch tree that is generated on the border of a forest and a snowy area (one of which is usually mountainous). It was made of spruce leaves and spruce logs (seen in both the "lite" and paid versions prior to v0.9.0) or, rarely, oak logs (paid only). Its rarity is compared to the modified jungle edge.
+
+Depending on where the tree generates, the color of the leaves may differ. For example, if an oak tree is in a colder biome, such as a taiga or windswept hills biome, it has a blue-green hue. In a snowy taiga, the leaves are white with a slight grey tint. However, if it is in a dry biome, such as a desert or savanna, it has a mustard yellow hue. Spruce, birch and cherry leaves do not follow these rules; they always have the same color regardless of the biome.
+
+Leaves are checked individually for biome coloration rather than as part of a larger tree; as such, trees that were grown between biomes usually have multiple shades on each side.
+
+Issues relating to "Tree" are maintained on the bug tracker. Report issues there.
+
+Floating trees may appear when small above-ground lava lakes generate in a forested area. This happens since the tree is generated when the chunk loads first, before the lake appears underneath. This leaves the tree floating above the lake, causing the tree to catch fire, potentially spreading to other trees and starting a forest fire.
+Mega jungle trees and dark oak trees generate with dirt under them if they generate partly or wholly over air or water blocks.
+Oak, spruce, birch, and acacia are all genera of trees.

@@ -1,0 +1,3 @@
+Wind Charged is an effect that creates a wind charge when an entity with that effect gets killed.
+
+Issues relating to "Wind Charged" are maintained on the bug tracker. Report issues there.

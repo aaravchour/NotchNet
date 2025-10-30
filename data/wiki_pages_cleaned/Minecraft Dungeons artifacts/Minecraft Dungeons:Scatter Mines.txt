@@ -1,0 +1,21 @@
+The scatter mines is an artifact that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Gauntlet of Gales
+Colossal Rampart (DLC)
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+The scatter mines can be used by the hero to place three proximity mines onto the ground, which would then explode when a mob is within range. They appear and behave very similarly to the mines created by redstone golems. This artifact has a twelve second cooldown. Mines automatically explode after ten seconds. They do not deal damage to the hero or allies (although they can still trigger them).
+
+X x3 artifact damage
+12 second cooldown
+
+In the game files, the scatter mines are referred to internally by the name ChargedRedstoneMines.
+
+Issues relating to "Scatter Mines" are maintained on the bug tracker. Report issues there.

@@ -1,0 +1,79 @@
+The lightning harp crossbow is a unique scatter crossbow variant that can be found within the various missions of Minecraft Dungeons.
+
+
+== Appearance ==
+The lightning harp crossbow has a design similar to the harp crossbow.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Soggy Swamp
+Highblock Halls
+Lone Fortress (DLC)
+Soul Sand Valley (DLC)
+The Stronghold (DLC)
+Tower
+Merchants
+Gift Wrapper
+Luxury Merchant
+Mystery Merchant
+Piglin Merchant
+Ancients
+Pestilent Conjurer
+
+
+== Usage ==
+
+
+=== Properties ===
+X ranged damage
+Multiple projectiles
+Hits multiple targets (Ricochet tier I)
+
+
+=== Stats ===
+Quiver: 53
+Fire Rate: 1.3 shots per second (3.9 projectiles per second)
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Lightning Harp Crossbow" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===

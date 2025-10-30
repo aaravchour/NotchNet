@@ -1,0 +1,112 @@
+Nether wart is a fungus harvested from nether wart crops and is used to plant them, as well as being vital in the creation of potions.
+Nether wart crops are found in nether fortresses and bastions and is used to grow nether wart in soul sand.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Nether wart can be mined instantly with any tool. A fully mature nether wart crop yields 2–4 nether wart. This is increased by one for each level of Fortune, this allows for a maximum of 7 nether warts dropping from one crop. Less mature stages drop one nether wart, even with the Fortune enchantment.
+
+
+=== Natural generation ===
+Nether wart can generate in nether fortresses in soul sand gardens around stairwells. Nether wart can also generate in the courtyards of housing unit bastion remnants. Due to only spawning in these specific structures, it's entirely possible for a nether fortress or bastion remnant to generate without nether wart (though they may still appear in the chests that generate in the fortress). 
+
+
+=== Chest loot ===
+
+
+== Usage ==
+
+
+=== Brewing ingredient ===
+Nether wart's primary purpose is to brew the awkward potion, the base for all potions, but optional for Weakness.
+
+
+=== Crafting ingredient ===
+
+
+=== Trading ===
+Master-level cleric villagers buy 22 nether warts for an emerald as part of their trades.
+
+
+=== Farming ===
+
+When planted on soul sand, nether wart grows through four stages, though the middle two stages use the same texture (the hitbox of stage 3 is three pixels taller). In Java Edition, the exact age can be seen using the debug screen, and the ages range from 0 to 3. Each random tick, nether wart has a 10% chance of growing one stage. At default random tick speed, each nether wart grows one age step approximately every 13653 game ticks (11.3775 minutes) on average, and fully grows from planting to harvest every 40960 game ticks (34.133333333333 minutes) on average. The growth rate is not affected by light or any other environmental factors. Bone meal cannot be used on the nether wart.
+Nether wart can only be planted on soul sand. It cannot be planted on soul soil. It can grow in any dimension.
+Nether wart is ready to harvest when it reaches its fourth stage (age:3). Breaking a fully grown nether wart drops 2 to 4 nether wart, while an immature one drops a single nether wart. Using a tool enchanted with fortune increases the maximum number of nether wart dropped by 1 per level, for a maximum of 7 for a tool enchanted with Fortune III.
+
+
+=== Composting ===
+Placing a nether wart into a composter has a 65% chance of raising the compost level by 1.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Bedrock Edition:
+
+
+== Advancements ==
+
+
+== History ==
+
+
+=== Nether wart "item" ===
+The following content is transcluded from Technical blocks/Nether Wart.
+
+
+==== Appearances ====
+
+
+==== Names ====
+Java Edition
+Beta 1.9 Prerelease - 13w36b: Nether Wart
+
+
+== Issues ==
+Issues relating to "Nether Wart" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Nether wart's stage changes cannot be detected by a block update detector, but can by an observer block.
+Unlike other crimson "plants", nether wart doesn't have a warped equivalent. This is also the case with nether sprouts, which lack a crimson equivalent.
+InA Minecraft Movie, Piglins rely on Nether Wart, which allows them to not zombify in the Overworld.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

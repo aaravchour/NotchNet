@@ -1,0 +1,60 @@
+A zombie nautilus is an upcoming undead neutral mob that will be added in Mounts of Mayhem‌. It is an undead variant of the nautilus and is always ridden by drowned, forming a zombie nautilus jockey. It was revealed in Minecraft Live - September 2025.
+
+
+== Spawning ==
+Zombie nautili usually spawn in all ocean biomes. They sometimes spawn with a drowned riding on it, forming a Zombie Nautilus Jockey. Zombie nautilus jockies always appear hostile.
+When the drowned rider is killed, the zombie nautilus becomes neutral. 
+
+
+== Drops ==
+Zombie nautiluses drop 1 to 3 experience orbs upon death by a player or tamed wolf.
+
+
+== Behavior ==
+Like nautiluses, zombie nautiluses use their mouths to propel forward. They cannot survive on land. When they are harmed by a player, they use their dash attack to propel forward and inflict damage on the player.
+Unlike nautiluses, zombie nautiluses cannot be bred, as they do not have their baby variants. However, they can be tamed and saddled.
+
+
+=== As an Undead Mob ===
+Like any undead mobs, zombie nautili:
+
+Are damaged by Instant Health and healed by Instant Damage;
+Are not affected by Regeneration and Poison;
+Take extra damage from Smite enchantment.
+Burns in sunlight (when on land)
+Are not targeted by the wither.
+Causes an armadillo to hide in its shell.
+
+
+== Appearance ==
+Unlike nautili, zombie nautili appear in a sculk-bluish green colour and a greyish-tan colored cracked shell, with green plant (kelp or seagrass) stuck on it.
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+Advancements that apply to all mobs:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Zombie Nautilus" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

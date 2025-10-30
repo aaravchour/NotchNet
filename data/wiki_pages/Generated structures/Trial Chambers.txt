@@ -1,0 +1,18 @@
+Trial chambers are structures generated naturally underground and contain various mobs from the trial and ominous trial spawners, including breezes, which is an exclusive mob in the trial chamber. They are composed of various copper blocks, copper bulbs, chiseled copper, tuff bricks, chiseled tuff, chiseled tuff bricks, copper doors, copper trapdoors, copper grates, and the blocks that correspond with the mobs that spawn from this structure. This structure contains vaults and ominous vaults that can only be opened by a trial key or an ominous trial key respectively.
+
+
+== Locating ==
+Trial chambers can be located using an explorer map (which can be bought from a cartographer villager when the villager reaches Journeyman aka level 3) or via the /locate structure commands.
+
+
+== Mobs ==
+
+Breezes, silverfish, skeletons, strays, bogged, zombies, husks, slimes, spiders, and cave spiders can be spawned from the trial and ominous trial spawners in the trial chambers. They are indicated with their blocks around their spawner.
+
+
+== Loot ==
+Trial chambers carry a large variety of loot and access to potions for low level players. Depending on the spawn biome the Chambers will vary in difficulty. For example, in colder regions stray might spawn from trial spawners providing little difficulty for the player adept at shield use but, Bogged found in swampy regions provide much more difficulty.
+
+
+== Issues ==
+Issues relating to "Trial Chambers" are maintained on the bug tracker. Report issues there.

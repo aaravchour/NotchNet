@@ -1,0 +1,31 @@
+A snow block is a full-sized block of snow.
+
+If mined with a Silk Touch enchanted shovel, snow blocks drop themselves; without the enchantment, 4 snowballs are dropped instead. Nothing drops if mined with any other tool, even if enchanted with Silk Touch.
+In Java Edition, a snow block can also be obtained by mining 8 snow layers with a Silk Touch shovel.
+
+Unlike snow layers, snow blocks do not melt from higher levels of light under normal circumstances, and are not destroyed by water.
+
+Snow blocks generate on the ground in the ice spikes, grove, snowy slopes, frozen peaks and jagged peaks biomes, they form the walls of igloos and some snowy tundra village houses and can also generate on top of some icebergs. The snowfall weather effect generates snow layers which combine into a snow block once they reach full block height.
+
+Unlike snow, snow blocks do not melt when a heat block or a light-emitting block is nearby, nor will they melt in dry biomes.
+
+Snow blocks are also used to make snow golems by putting 2 snow blocks on top of another and a carved pumpkin, jack o'lantern or pumpkin on the top as the head. Note that the carved pumpkin has to be placed last for this to work. This can be done sideways and upside-down, as well.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Snow Block" are maintained on the bug tracker. Report issues there.
+
+Snow may still fall on top of snow blocks, making them look taller than they actually are.
+When a snow block is on grass, the grass block changes to a different "snowy" texture as if a snow layer is on it. However, because snow is not transparent to light, the grass changes to dirt shortly after.
+Snow blocks, as well as snow layers, are the only blocks that require a tool other than a pickaxe to be mined successfully.
+
+Snowfall
+Snow golem
+
+Block of the Week: Snow  Minecraft.net on May 19, 2017

@@ -1,0 +1,16 @@
+Let the agent attack in the direction specified.
+
+attack <direction: string>
+
+direction: string
+
+Specifies the direction of Agent to attack.
+Must be one of:
+forward to attack forward.
+back to attack backward.
+left to attack leftward.
+right to attack rightward.
+up to attack upward.
+down to attack downward.
+
+Always success, Agent attacks in the specified direction by 8 attack damage.

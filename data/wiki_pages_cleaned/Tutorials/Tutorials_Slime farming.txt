@@ -1,0 +1,19 @@
+Slime farming is a method of automatically spawning and killing slimes to easily obtain slimeballs, which can be crafted into slime blocks. 
+Both slime blocks and sticky pistons, which are crafted using slimeballs, are essential in many redstone builds. Slimeballs can also be crafted into magma cream, which is needed for brewing potions of fire resistance. Because slime blocks break instantly when hit (with a bare hand or any tool), they are useful for quickly displacing and clearing out volumes of water, even when under the effect of Mining Fatigue inflicted by an elder guardian. 
+
+Before building a slime farm, first decide whether to build it in a slime chunk or swamp biome. Every chunk that is generated in a world has a 10% chance of being a slime chunk. Within slime chunks, slimes can spawn when Y < 40. This method requires an underground room to be dug out before the farm is constructed. Slime spawning in swamps can occur between Y=51 and Y=69. This method has the advantage of not requiring a dug-out room prior to building the farm, and the size of the farm is not limited, unlike the slime-chunk method, although the spawn rates are lower in a swamp.
+
+Alternately, you can use the Chunkbase Slime Chunk Finder web app to locate chunks for your game seed.
+
+The first step in constructing either farm is the spawning place. In most farm designs, spawning platforms are created which spawn slimes that are then moved to a killing trap, usually a drowning trap to split larger slimes down and dispatch the smallest size. Spawning pads are usually constructed with a 2-block gap using slabs, to allow all types of slimes to spawn. It is important to illuminate the spawn platforms a bit to allow slimes to spawn while preventing other hostile mobs from spawning. It is also recommended to illuminate horizontal surfaces in a 128-block radius around the farm, to keep the hostile mob cap as low as possible.
+
+The second step in building a slime farm is transportation. In pre-1.8 traps, this is usually achieved by using 'canals' of water separated by signs. As slimes can swim in snapshot 14w06a and above, specific water placement is required in Java Edition 1.8 and above. Or using an iron golem to attract the slime to the killing spot.
+
+The final step in building a slime farm is the separation and killing trap. To separate the different sizes down to the smallest, a drowning trap is usually used. The largest type of slime is split to the medium size, and medium to small. The slimes are then taken off to another trap to be killed, usually another drowning trap. Separation trap could be used as a killing trap also.
+Alternatively, a water stream carrying the slimes flowing into a cactus trap can be used. Hoppers around the base of the cacti then collect the drops. This has the advantage of killing all sizes of slimes without the need for separation. A downside of this method is that the cacti destroy around 20% of the slimeballs that are dropped.
+A quick and lossless method for killing slimes is using magma blocks. Slimes can either be pushed there with a water stream, drawn there by iron golems, or allowed to roam off the side on their own. A hopper minecart track underneath the magma blocks can be used to collect the drops.
+For an interesting option, vindicators named "Johnny", or zoglins attack all slimes, but the slimes never retaliate.
+
+To automatically collect the slimeballs produced by the farm, create a hole below the end of the trap, with hoppers feeding into one or more double chests.
+
+Before 1.19, most designs are based on slime chunks usually under the ocean, since only drowned spawn in oceans and you'd only need to only clear a few caves in the process. In 1.19 however, you can now build swamp-based slime farm.

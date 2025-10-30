@@ -1,0 +1,53 @@
+A barrel is a solid block used to store items. Unlike a chest, it cannot connect to other barrels. It also serves as a fisherman's job site block.
+
+Empty barrels can generate naturally in fisher cottages in villages. Up to 3 barrels can generate in a village fisher cottage.
+
+Barrels can be mined with or without any tool, but axes are the quickest.
+
+Barrels can be crafted using planks and proper wooden slabs, not petrified oak slabs.
+
+Barrels can be moved by pistons, water and lava flow around barrels without affecting them. Lava can create fire in air blocks next to barrels as if the barrel was flammable, but the barrel does not actually catch fire and can't be burned.
+
+Barrels have a container inventory with 27 slots, which is the same as a single chest. Unlike chests, a barrel can be placed below a solid block and still be able to be opened.
+They can be filled by droppers and both filled and emptied by hoppers. When broken, barrels drop the contents of the container and the barrel item itself. 
+To open the barrel interface, use the Use Item control. To move items between the barrel inventory and the player inventory or hotbar while the barrel interface is open, drag or shift-click the items. Holding  Shift and double-clicking while holding an item moves all items of the type clicked on in or out of the barrel to the extent that space is available for them. To exit the barrel interface, use the Esc control.
+By default, the interface of a barrel is labeled "Barrel". A barrel's GUI label can be changed by naming the barrel in an anvil before placing it or by using the /data command (for example, to label a chest at (0,64,0) as "Bonus Barrel!", use /data merge block 0 64 0 {CustomName:'"Bonus Barrel!"'}).
+In Java Edition, a barrel can be "locked" by setting its Lock tag using the /data command. If a barrel's Lock tag is not blank, the barrel cannot be opened unless the player is holding an item with the same name as the Lock tag's text. For example, to lock a barrel at (0,64,0) so that the barrel cannot be opened unless the player is holding an item named "Barrel Key", use /data merge block 0 64 0 {Lock:"Barrel Key"}.
+
+If a village has a barrel that has not been claimed by a villager, any villager who does not have a chosen job site block has a chance to change their profession into a fisherman.
+
+Barrels can be used as a fuel in furnaces, smelting 1.5 items per block.
+
+Barrels can be placed under note blocks to produce "bass" sounds.
+
+Piglins become hostile toward players who open or break barrels.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+A barrel has a block entity associated with it that holds additional data about the block.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Block entity format.
+
+Issues relating to "Barrel" are maintained on the bug tracker. Report issues there.
+
+In the 2022's April Fool's update, a barrel can be thrown onto a player and make them appear as if they were "wearing" or "hiding" under the block. 
+While wearing a barrel, the player's vision becomes largely obstructed and they can see only through a narrow window; when sneaking, it will disguise the player as a barrel block. 
+
+Block of the Week: Barrel  Minecraft.net on December 23, 2021

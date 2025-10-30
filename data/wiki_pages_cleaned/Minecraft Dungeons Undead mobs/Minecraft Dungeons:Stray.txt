@@ -1,0 +1,27 @@
+A stray is a skeleton variant that can be found within the Creeping Winter DLC of Minecraft Dungeons.
+
+Strays retain their appearance from the original Minecraft game, with the only difference being that they are slightly brighter than the original, making its appearance very similar to their appearance before the Texture Update of the original Minecraft game.
+
+Frosted Fjord
+Lone Fortress
+Lost Settlement
+Chills and Thrills
+Tower
+Festival of Frost
+
+Bow action
+Strays behave the same as normal skeletons, but they shoot arrows that inflict the Freezing effect which will slow the hero down for a short time.
+
+Walk
+Strays flee when the hero gets near.
+
+Novelty
+Strays have a rare behavior when idle, in which they spin their skull rapidly as if playing with their heads. They have a sound file named "novelty spin" that plays when this behavior occurs.
+
+Strays in Arcade lack blue frostbitten bones and white eyes, and instead resemble a skeleton wearing the tattered clothes of strays. They wield a Bow rather than a Shortbow.
+
+In the game files, strays are referred to internally by the name Stray.
+Strays have an unused leg position while aiming.
+
+Strays are the exclusively hostile creeping winter mob that does not appear within the howling peaks.
+A stray was seen aiming at the hero in the reveal for the hidden depths. However, it was most likely a placeholder for sunken skeletons.

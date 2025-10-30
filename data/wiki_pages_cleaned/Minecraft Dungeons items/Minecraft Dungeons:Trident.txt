@@ -1,0 +1,5 @@
+A trident is a  consumable found in the Hidden Depths DLC which can be used for ranged and splash damage.
+
+A trident can be dropped randomly by mobs in the Hidden Depths because it replaces TNT in the DLC.
+
+The trident is single-use and can be thrown at mobs to deal ranged and splash damage. Upon striking a target, it blinks and summons a lightning bolt, causing an explosion as the trident disappears.

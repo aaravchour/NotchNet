@@ -1,0 +1,37 @@
+A glass bottle is an item that can hold water, potions, honey, or dragon's breath.
+
+Glass bottles can be obtained by crafting, drinking from bottles, fishing, or from witch drops.
+
+Drinking a potion or honey bottle returns the empty glass bottle. Throwing a splash potion or a lingering potion does not return a glass bottle, but brewing a lingering potion gives back a glass bottle.
+
+Witches have a chance of dropping 06 glass bottles upon death. This is increased by 3 per level of Looting, for a maximum of 015 glass bottles.
+
+Using a water bottle, splash water bottle or lingering water bottle on dirt, coarse dirt or rooted dirt will transforming it into a mud block, at the same time leaving the player with an empty glass bottle.
+
+Using a water bottle (or, in Bedrock Edition, a potion, splash potion, or lingering potion) on a cauldron that is not yet full adds that liquid to the cauldron, leaving the player with an empty glass bottle.
+
+Glass bottles can be filled to make water bottles, which can then be used to brew items with a brewing stand. Glass bottles are also used to hold the resulting potion.
+
+A bottle may be filled with water by holding it in the hand and using it on a water source block or a cauldron that has water in it. It can also be filled using a waterlogged block.
+Also, a bottle may be filled by powering a dispenser containing a bottle and pointed at a water source block. This does not work with cauldrons.
+If filled via a water source, the water is unaffected. If filled via a cauldron, 13 of the water in the cauldron is removed. Therefore, using a cauldron to fill water bottles is inefficient, except in the Nether where it is normally the only way to fill bottles.
+
+In Bedrock Edition, a bottle may be filled with potion by using it on a cauldron containing potion. When the bottle is filled, 13 of the cauldron's potion is removed.
+
+If a bee nest or beehive is full, the player can use a glass bottle on the block, or may power a dispenser that contains a bottle and is pointed at the block, which empties the block and creates a honey bottle. Honey bottles can also be emptied by using them in crafting recipes (such as sugar or honey block). However, a lingering potion use on tipped arrow recipe does not give the bottle back.
+
+Using a glass bottle in clouds emitted when the ender dragon breathes or shoots a dragon fireball fills the bottle with dragon's breath.
+When put 2 or more dragon's breath in the brewing stand, after the brewing process, a glass bottle will drop as an entity. However, if put only 1 dragon's breath in the brewing stand, after the brewing process, the glass bottle is consumed and cannot be retrieved.
+
+Expert-level cleric villagers have a 50% chance to buy 9 glass bottles for one emerald as part of their trade.
+Expert-level cleric villagers have a 23 chance to buy 9 glass bottles for one emerald.
+
+Java Edition:
+
+Java Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Glass Bottle" are maintained on the bug tracker. Report issues there.

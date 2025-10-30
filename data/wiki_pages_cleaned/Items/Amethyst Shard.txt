@@ -1,0 +1,24 @@
+An amethyst shard is a crystal ore obtained from mining a fully grown amethyst cluster or can be obtained from chests in ancient cities.
+
+An amethyst cluster mined using a non-Silk Touch, non-Fortune pickaxe drops 4 amethyst shards. When mined using any other tool, item or mechanism (such as explosions or pistons) it drops 2 shards. The maximum amount of amethyst shards dropped can be increased with Fortune. Fortune I gives a 13 chance for eight shards, averaging 5.33 shards; Fortune II gives a 25% chance (each) to give eight or 12 shards, averaging 7 shards, and Fortune III gives a 20% chance (each) to give 8, 12, or 16 shards, averaging 8.8 shards.
+If the amethyst cluster in any of its growth stages is mined using a pickaxe enchanted with Silk Touch, it drops itself rather than amethyst shards.
+
+Trim color palette
+The following color palette is shown on the designs on trimmed armor:
+
+If an amethyst shard is given to an allay that is currently dancing to an active jukebox, the allay emits heart particles, consumes the amethyst shard and duplicates into another allay. After this, there is a 5 minute cool down until both allays can be duplicated like this again.
+
+Java Edition:
+
+Bedrock Edition:
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Amethyst Shard" are maintained on the bug tracker. Report issues there.
+
+Although in real life amethyst is a variety of quartz like nether quartz, the two resources are not interchangeable.
+Amethyst is the only ore other than netherite to not be found in caves.
+
+Taking Inventory: Amethyst Shard  Minecraft.net on May 20, 2021

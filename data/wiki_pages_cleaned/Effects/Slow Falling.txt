@@ -1,0 +1,16 @@
+Slow Falling is a status effect that causes the affected mob to fall slower and take no fall damage, but does not prevent ender pearl damage.
+
+The affected entity falls at a much slower rate than normal, and is immune to fall damage. However, the entity still takes damage from using an ender pearl. In addition, the entity cannot turn farmland into dirt by jumping on it.
+Higher levels do not decrease fall speed further.
+
+Boss mobs are the only mobs that cannot have this status effect. However, when shulkers have the status effect, they are unaffected by it.
+
+Sprinting with the Slow Falling effect allows the player to jump across a gap of 5 blocks (6 blocks with enough momentum), compared to 4 (5 blocks with enough momentum) blocks normally.
+Unboosted elytra flight is twice as efficient, but four times slower. Boosts work at normal speed, but the momentum gained doesn't last as long.
+The player cannot land a critical hit while having this effect.
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Slow Falling" are maintained on the bug tracker. Report issues there.

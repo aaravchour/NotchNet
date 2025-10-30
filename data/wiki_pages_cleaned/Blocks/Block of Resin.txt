@@ -1,0 +1,18 @@
+Block of Resin is a decorative building block added in The Garden Awakens game drop.
+
+Resin Blocks are crafted with 9 Resin Clumps.
+(Crafting Recipe TBA here)
+
+Resin Blocks can be used to craft Creaking Hearts. This is done by combining them with 2 Pale Oak Log placed both above and below in a Crafting Table.
+
+(Crafting Recipe TBA here)
+
+Resin Blocks appear bright, contrasting orange, similar to lava, but it is not animated. In fact, it appears slightly conglomerated with resin clumps tightly packed. Players may confuse resin blocks with baked beans, due to their unique cobbled texture.
+
+Template:Sound table/Block/Resin Block
+
+Java Edition:
+
+Bedrock Edition:
+
+Issues relating to "Block of Resin" are maintained on the bug tracker. Report issues there.

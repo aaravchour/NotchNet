@@ -1,0 +1,25 @@
+This page documents an in-depth history of heads.
+
+
+== Assets ==
+
+
+=== Java Edition ===
+
+
+==== Skeleton Skull ====
+
+
+==== Wither Skeleton Skull ====
+
+
+==== Player Head ====
+
+
+==== Zombie Head ====
+
+
+==== Creeper Head ====
+
+
+==== Dragon Head ====

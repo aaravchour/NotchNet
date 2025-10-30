@@ -1,0 +1,80 @@
+A dark oak tree is a variant of the oak tree with a thick trunk. They are found in the dark forest biome.
+
+
+== Structure ==
+Dark oak trees generate with thick 2×2 trunks. Dirt blocks appear under the trunk if generated on a steep cliff. Dark oak trees nearly always generate with irregular logs connected to the trunk – these represent large branches.
+Dark oak trees with trunks consisting of 1×1 dark oak logs, instead of 2×2, can be found in two types of rooms in woodland mansions: the tree chopping room, and the nature room. These are not generated elsewhere in the world, and cannot be grown from saplings.
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Generation ==
+Dark oaks spawn naturally only in the Dark Forest biome. A dark oak always generates with dirt under its trunk, even if it spawns partly or wholly over air or water blocks.
+
+
+== Blocks and items ==
+These items can be obtained from all variants of dark oak:
+
+Apple (chance of dropping when breaking leaves)
+Dark Oak Leaves (harvested with shears)
+Dark Oak Log (harvested with any tool including hands)
+Dark Oak Planks (created from a log in the inventory crafting grid)
+Dark Oak Sapling (chance of dropping when breaking leaves)
+Stripped Dark Oak Log (created by using an axe on a log)
+Vines‌ (harvested with shears from a dying tree)
+Stick (chance of dropping when breaking leaves)
+
+
+== Planting ==
+Dark oak saplings can be planted on:
+
+Dirt
+Grass Block
+Coarse Dirt
+Podzol
+Mycelium
+Rooted Dirt
+Moss Block
+Farmland
+Mud
+Muddy Mangrove Roots
+Growing these trees requires four dark oak saplings arranged in a 2×2 grid; they do not grow if planted individually. Dark oak trees grow at a much faster rate than most other trees. They require a 3×3 column of unobstructed space at least 7 blocks above the sapling to grow (8 blocks including the sapling itself). This column is centered on the northwestern sapling. Additionally, dark oak trees require 5×5 layers without obstruction for the top 3 layers of its final height. No horizontal clearance is needed at the base of the tree (saplings planted in a 2×2 hole 1 block deep still grow).
+
+
+== Dying dark oak ==
+
+                                                                            
+In Bedrock Edition and Minecraft Education, dark oaks can generate as a dying tree. Dying dark oaks generate naturally, and can be grown from normal saplings. A dying dark oak has the standard growth pattern of any other tree, however, all exposed logs in the main trunk are covered with vines.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Dark oak" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Dark oak is called 'big oak' in the 1.12 client.jar.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

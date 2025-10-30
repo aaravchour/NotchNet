@@ -1,0 +1,22 @@
+The totem of regeneration is an artifact that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Soggy Swamp
+Soggy Cave
+Fiery Forge
+Dingy Jungle (DLC)
+Basalt Deltas (DLC)
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+The totem of regeneration can be activated temporarily on the ground, healing all allies within a four-block radius. It can also be used every twenty-five seconds for approximately five to ten seconds of healing.
+
+X health healed
+25 seconds cooldown
+
+Issues relating to "Totem of Regeneration" are maintained on the bug tracker. Report issues there.
+
+A sentence written in Illageralt can be seen on the aura that appears when using the Totem of Regeneration, the sentence is "let the vines heal."

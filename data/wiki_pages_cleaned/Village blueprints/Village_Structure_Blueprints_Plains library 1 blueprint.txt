@@ -1,0 +1,1 @@
+This structure resembles the old Library seen in pre-1.14 villages, with significant changes.

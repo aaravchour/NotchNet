@@ -1,0 +1,30 @@
+The maulers are a unique gauntlets variant that can be found within the various missions of Minecraft Dungeons.
+
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Soggy Cave (Adventure)
+Cacti Canyon (Adventure)
+Dingy Jungle (Adventure, DLC)
+Coral Rise (DLC)
+The Stronghold (Apocalypse, DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+?????
+
+The maulers possess low power, high speed, and low area, and has a combo consisting of four alternating punches, a left hook, an uppercut, and a lunge punch. The first five hits deal the weapon's minimum melee damage, the uppercut does around 40% more damage, and the lunge punch deals the maximum melee damage.
+
+X melee damage
+Relentless combo
+Increased attack speed (Rampaging tier I)
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+An ancient illager soldier is an unseen illager, referred to as the wielders of the maulers. Little is known about their appearance other than that they mostly wear the maulers and that they are ancient.
+
+Issues relating to "Maulers" are maintained on the bug tracker. Report issues there.

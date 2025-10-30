@@ -1,0 +1,7 @@
+Bottles of entity are items that transform players into the respective mobs when drunk.
+Splash bottle of entity are a variation of bottles of mob that can be thrown.
+Bottle of void is a special bottle to transform back to the original player. Right clicking with it on a transformed player will remove the transformation and convert the bottle into a bottle of entity of that transformation.
+A transformation into an entity will sometimes lead to special effects. For example, transforming into a chicken will allow the player to glide slowly to the ground. The chicken will however take fall damage upon landing, killing it and transforming the player back to themselves.
+Transforming into an enderman will cause the player to be teleported randomly when a projectile it aimed at it or when they're being looked at by other players. Transforming into any mob capable of flight (for example, a bat) will allow the player to fly in survival mode as if they were in creative mode.
+
+Splash bottles of entities use the Friendly Creatures sound category for entity-dependent sound events.

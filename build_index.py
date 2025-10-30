@@ -30,7 +30,8 @@ SAVE_EVERY_N_BATCHES = 20
 
 def check_ollama():
     try:
-        r = requests.get("http://localhost:11434")
+        OLLAMA_HOST = os.environ.get("OLLAMA_HOST", "http://localhost:11434")
+        r = requests.get(OLLAMA_HOST)
         if r.status_code == 200:
             print("🟢 Ollama server is running.")
             return True
@@ -90,7 +91,8 @@ def main():
     split_docs = splitter.split_documents(all_docs)
     print(f"✅ Split documents into {len(split_docs)} chunks.")
 
-    embedding_model = OllamaEmbeddings(model="mxbai-embed-large")
+    OLLAMA_HOST = os.environ.get("OLLAMA_HOST", "http://localhost:11434")
+    embedding_model = OllamaEmbeddings(model="mxbai-embed-large", base_url=OLLAMA_HOST)
 
     num_processed = 0
 

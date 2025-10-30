@@ -3,8 +3,8 @@ import faiss  # type: ignore
 import requests  # type: ignore
 
 from langchain_community.vectorstores import FAISS  # type: ignore
-from langchain.chains import create_retrieval_chain  # type: ignore
-from langchain.chains.combine_documents import create_stuff_documents_chain  # type: ignore
+from langchain_classic.chains import create_retrieval_chain  # type: ignore
+from langchain_classic.chains.combine_documents import create_stuff_documents_chain  # type: ignore
 from langchain_core.prompts import PromptTemplate  # type: ignore
 from langchain_community.embeddings import OllamaEmbeddings  # type: ignore
 from langchain_community.chat_models import ChatOllama  # type: ignore
@@ -51,7 +51,8 @@ Answer:""",
 
 def check_ollama():
     try:
-        r = requests.get("http://localhost:11434")
+        OLLAMA_HOST = os.environ.get("OLLAMA_HOST", "http://localhost:11434")
+        r = requests.get(OLLAMA_HOST)
         if r.status_code == 200:
             print("🟢 Ollama server is running.")
         else:
@@ -68,7 +69,8 @@ def build_retriever():
     """
     check_ollama()
 
-    embedding_model = OllamaEmbeddings(model="mxbai-embed-large")
+    OLLAMA_HOST = os.environ.get("OLLAMA_HOST", "http://localhost:11434")
+    embedding_model = OllamaEmbeddings(model="mxbai-embed-large", base_url=OLLAMA_HOST)
 
     if not os.path.exists(INDEX_PATH):
         print(f"❌ FATAL: FAISS index not found at {INDEX_PATH}")
@@ -97,7 +99,8 @@ def build_qa_chain():
     retriever = build_retriever()
 
     print("🔧 Loading local LLM...")
-    llm_model = ChatOllama(model="deepseek-v3.1:671b-cloud")
+    OLLAMA_HOST = os.environ.get("OLLAMA_HOST", "http://localhost:11434")
+    llm_model = ChatOllama(model="deepseek-v3.1:671b-cloud", base_url=OLLAMA_HOST)
     print("✅ LLM loaded.")
 
     print("🔧 Building new LCEL retrieval chain...")

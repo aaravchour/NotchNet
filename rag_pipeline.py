@@ -33,6 +33,7 @@ QA_PROMPT = PromptTemplate(
 - Use the context strictly and exclusively for the answer.
 - If the questions requires multiple steps or complex reasoning, break it down into simple, clear steps.
 - Don't reply with just one sentence; provide a complete answer based on the context.
+- Do not say "according to the context"
 
 Context:
 {context}
@@ -49,7 +50,7 @@ Answer:""",
 
 def check_ollama():
     try:
-        OLLAMA_HOST = os.environ.get("OLLAMA_HOST", "http://localhost:11434")
+        OLLAMA_HOST = os.environ.get("OLLAMA_HOST", "34.135.152.232:11434")
         r = requests.get(OLLAMA_HOST)
         if r.status_code == 200:
             print("🟢 Ollama server is running.")
@@ -67,7 +68,7 @@ def build_retriever():
     """
     check_ollama()
 
-    OLLAMA_HOST = os.environ.get("OLLAMA_HOST", "http://localhost:11434")
+    OLLAMA_HOST = os.environ.get("OLLAMA_HOST", "34.135.152.232:11434")
     embedding_model = OllamaEmbeddings(model="mxbai-embed-large", base_url=OLLAMA_HOST)
 
     if not os.path.exists(INDEX_PATH):
@@ -97,7 +98,7 @@ def build_qa_chain():
     retriever = build_retriever()
 
     print("🔧 Loading local LLM...")
-    OLLAMA_HOST = os.environ.get("OLLAMA_HOST", "http://localhost:11434")
+    OLLAMA_HOST = os.environ.get("OLLAMA_HOST", "34.135.152.232:11434")
     llm_model = ChatOllama(model="deepseek-v3.1:671b-cloud", base_url=OLLAMA_HOST)
     print("✅ LLM loaded.")
 

@@ -1,4 +1,5 @@
 from flask import Flask, request, jsonify  # type: ignore
+from flask_cors import CORS  # type: ignore
 from flask_limiter import Limiter  # type: ignore
 from flask_limiter.util import get_remote_address  # type: ignore
 from rag_pipeline import generate_answer
@@ -8,7 +9,7 @@ import time
 import secrets
 
 API_KEY = os.environ.get("CHATBOT_API_KEY")
-
+CORS(app)
 app = Flask(__name__)
 
 limiter = Limiter(get_remote_address, app=app, default_limits=["10 per minute"])

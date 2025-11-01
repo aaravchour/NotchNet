@@ -91,6 +91,9 @@ Issues relating to "Horse Armor" are maintained on the bug tracker. Report issue
 
 == Gallery ==
 
+
+=== Renders ===
+
 		
 			
 			
@@ -163,6 +166,10 @@ Issues relating to "Horse Armor" are maintained on the bug tracker. Report issue
 
 === Screenshots ===
 
+		
+			
+			
+		
 		
 			
 			

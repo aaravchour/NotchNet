@@ -1,4 +1,4 @@
-#!/Users/aaravchourishi/Developer/NotchNet/NotchNet-Backend/venv/bin/python
+#!/Users/aaravchourishi/Developer/NotchNet-Backend/venv/bin/python3.13
 import sys
 from httpx import main
 if __name__ == '__main__':

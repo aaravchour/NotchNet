@@ -1,4 +1,4 @@
-Chains  or Iron Chains   are metallic decoration blocks.
+Iron Chains , formerly called "chains",  are metallic decoration blocks.
 
 Chains can be mined using any pickaxe. If mined without a pickaxe, it drops nothing.
 

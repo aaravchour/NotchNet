@@ -1,4 +1,4 @@
-The nautilus armor is a special type of armor that can be worn by a nautilus or a zombie nautilus. They cannot be crafted and can only be obtained via treasure chests and ocean ruins.
+The nautilus armor is a special type of armor that can be worn by a nautilus or a zombie nautilus. They cannot be crafted and can only be obtained via treasure chests, shipwrecks and ocean ruins.
 
 
 == Obtaining ==

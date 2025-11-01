@@ -1,4 +1,5 @@
 from flask import Flask, request, jsonify  # type: ignore
+from flask_cors import CORS  # type: ignore
 from flask_limiter import Limiter  # type: ignore
 from flask_limiter.util import get_remote_address  # type: ignore
 from rag_pipeline import generate_answer
@@ -10,8 +11,18 @@ import secrets
 API_KEY = os.environ.get("CHATBOT_API_KEY")
 
 app = Flask(__name__)
-
 limiter = Limiter(get_remote_address, app=app, default_limits=["10 per minute"])
+CORS(app)
+
+@app.before_request
+def check_source():
+    user_agent = request.headers.get("User-Agent")
+    # Replace with the actual IP of your website
+    allowed_ip = "127.0.0.1"
+    request_ip = request.headers.get("X-Forwarded-For", request.remote_addr)
+
+    if user_agent != "Java" and request_ip != allowed_ip:
+        return jsonify({"error": "Forbidden - Only Java clients and approved IPs are allowed"}), 403
 
 
 issued_tokens = {}

@@ -1,0 +1,78 @@
+A camel husk is an upcoming undead passive mob that will be added in Mounts of Mayhem‌. It is an undead variant of the camel and can be ridden by husk or parched, forming a camel husk jockey.
+
+
+== Spawning ==
+Camel husks usually spawn in deserts, at light level of 0. They sometimes spawn with a husk or parched riding on it, forming a camel husk jockey. Camel husk jockies always appear hostile.
+When the husk or parched rider is killed, the camel husk becomes passive.
+
+
+== Drops ==
+Camel husks drop 2-3 rotten fleshes upon death by a player or tamed wolf.
+
+
+== Behavior ==
+Camel husks shares the same functionality as a regular camel, except it cannot be bred.
+
+
+=== As an Undead Mob ===
+Like any undead mobs:
+
+Are damaged by Instant Health and healed by Instant Damage;
+Are not affected by Regeneration and Poison;
+Take extra damage from Smite enchantment.
+Are not targeted by the wither.
+Causes an armadillo to hide in its shell.
+Since camel husks spawn in desert, they do not burn in sunlight.
+
+
+== Appearence ==
+Camel husks share a similar texture of the camel, however it appears a bit darker.
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+Advancements that apply to all mobs:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Camel Husk" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Renders ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Other ===

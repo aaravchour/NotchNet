@@ -26,6 +26,12 @@ Husks can pick up items if the game rule mobGriefing is set to true, which will 
 A husk that is submerged in water for 30 seconds begins converting to a normal zombie, which takes an additional 15 seconds and cannot be stopped even if the husk leaves water. Once this process finishes, the zombie that it converts into will have full health even if the husk has been damaged, and may further convert into a drowned if it remains submerged.
 
 
+=== Provocation by other mobs ===
+
+
+==== Java Edition ====
+
+
 == Drops ==
 When they die, husks drop 0–2 Rotten Flesh. The maximum drop is increased by 1 per level of Looting, for a maximum of 0-5 with Looting III.
 They can also drop an iron ingot, carrot, or potato when killed by a player or tamed wolf. This drop has a 2.5% chance of occurring, increasing by 1% per level of looting. Individual items have the following chances of dropping:

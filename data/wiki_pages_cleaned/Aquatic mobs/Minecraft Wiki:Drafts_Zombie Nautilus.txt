@@ -17,7 +17,7 @@ Burns in sunlight (when on land)
 Are not targeted by the wither.
 Causes an armadillo to hide in its shell.
 
-Unlike nautili, zombie nautili appear in a sculk-bluish green colour and a greyish-tan colored cracked shell, with green plant (kelp or seagrass) stuck on it.
+Unlike nautili, zombie nautili appear in a dark, sea green colour and a greyish-tan colored cracked shell, with green plant (kelp or seagrass) stuck to it.
 
 Advancements that apply to all mobs:
 

@@ -1,4 +1,4 @@
-#!/Users/aaravchourishi/Developer/NotchNet/NotchNet-Backend/venv/bin/python
+#!/Users/aaravchourishi/Developer/NotchNet-Backend/venv/bin/python3.13
 import sys
 from charset_normalizer.cli import cli_detect
 if __name__ == '__main__':

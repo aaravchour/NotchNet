@@ -1,7 +1,7 @@
 import os
 import time
 import faiss  # type: ignore
-import requests
+import requests  # type:ignore
 from tqdm import tqdm  # type: ignore
 
 from langchain_text_splitters import RecursiveCharacterTextSplitter  # type: ignore

@@ -1,9 +1,13 @@
 import os
+import re
 import requests
 from time import sleep
+import concurrent.futures
+from tqdm import tqdm  # type: ignore
 
 API_URL = "https://minecraft.fandom.com/api.php"
 DATA_DIR = "data/wiki_pages"
+MAX_WORKERS = 10
 
 
 def ensure_dir(path):
@@ -22,74 +26,171 @@ def fetch_category_members(category, cmcontinue=None):
     if cmcontinue:
         params["cmcontinue"] = cmcontinue
 
-    resp = requests.get(API_URL, params=params)
-    resp.raise_for_status()
-    return resp.json()
+    for _ in range(3):
+        try:
+            resp = requests.get(API_URL, params=params)
+            resp.raise_for_status()
+            return resp.json()
+        except requests.exceptions.RequestException as e:
+            print(f"⚠️ Network error: {e}. Retrying in 3s...")
+            sleep(3)
+    return {}
 
 
 def fetch_page_content(title):
+    """
+    Fetches the text extract AND the list of images for a page.
+    Returns: (text, images)
+    """
     params = {
         "action": "query",
         "format": "json",
-        "prop": "extracts",
+        "prop": "extracts|images",
         "explaintext": True,
         "titles": title,
     }
-    resp = requests.get(API_URL, params=params)
-    resp.raise_for_status()
-    data = resp.json()
-    pages = data.get("query", {}).get("pages", {})
-    for page_id, page in pages.items():
-        if "extract" in page:
-            return page["extract"]
-    return ""
+
+    try:
+        resp = requests.get(API_URL, params=params)
+        resp.raise_for_status()
+        data = resp.json()
+        pages = data.get("query", {}).get("pages", {})
+
+        for page_id, page in pages.items():
+            text = page.get("extract", "")
+            images = page.get("images", [])
+            return text, images
+    except requests.exceptions.RequestException as e:
+        print(f"❌ Failed to fetch {title}: {e}")
+
+    return "", []
 
 
-def save_page_text(category, title, text):
+def save_page_data(category, title, text, image_path):
+    """
+    Saves the page data. If an image_path is provided, it's written
+    at the top of the file for the cleaning script to use.
+    """
     safe_title = title.replace("/", "_")
     folder = os.path.join(DATA_DIR, category)
     ensure_dir(folder)
     path = os.path.join(folder, f"{safe_title}.txt")
-    with open(path, "w", encoding="utf-8") as f:
-        f.write(text)
+
+    try:
+        with open(path, "w", encoding="utf-8") as f:
+            if image_path:
+                f.write(f"ImagePath: {image_path}\n\n")
+            f.write(text)
+    except Exception as e:
+        print(f"❌ Failed to save {title}: {e}")
 
 
-def download_category(category, visited=None):
-    if visited is None:
-        visited = set()
+def download_image(url, folder, filename):
+    """Downloads an image from a URL and saves it to a folder."""
+    ensure_dir(folder)
+    path = os.path.join(folder, filename)
+
+    # Avoid re-downloading
+    if os.path.exists(path):
+        return path
+
+    try:
+        resp = requests.get(url)
+        resp.raise_for_status()
+        with open(path, "wb") as f:
+            f.write(resp.content)
+        return path
+    except requests.exceptions.RequestException as e:
+        print(f"❌ Failed to download image {url}: {e}")
+    return None
+
+
+def discover_pages_to_fetch(category, recipe_categories, visited, work_items):
+    """
+    PHASE 1: Recursively scans categories and adds work items to a list.
+    A work item is a tuple: (title, category, is_recipe_category)
+    """
     if category in visited:
         return
     visited.add(category)
+    print(f"🔍 Discovering pages in: {category}")
 
-    print(f"🔽 Downloading pages in category: {category}")
     cmcontinue = None
-    total = 0
+    is_recipe_category = category in recipe_categories
 
     while True:
         data = fetch_category_members(category, cmcontinue)
         members = data.get("query", {}).get("categorymembers", [])
+        if not members:
+            break
 
         for member in members:
             title = member["title"]
             if title.startswith("Category:"):
                 subcat = title.replace("Category:", "")
-                download_category(subcat, visited)
+                discover_pages_to_fetch(subcat, recipe_categories, visited, work_items)
             else:
-                print(f"Fetching: {title}")
-                text = fetch_page_content(title)
-                save_page_text(category, title, text)
-                total += 1
-                sleep(0.5)
+                work_items.append((title, category, is_recipe_category))
 
         if "continue" in data:
             cmcontinue = data["continue"]["cmcontinue"]
         else:
             break
 
-    print(f"✅ Finished downloading {total} pages for category: {category}")
+
+def process_page_work_item(work_item):
+    """
+    PHASE 2: The actual work done by each thread.
+    Fetches one page and saves it.
+    """
+    title, category, is_recipe_category = work_item
+
+    if title == "Crafting Table":
+        print(f"DEBUG: Processing page: {title}")
+        print(f"DEBUG: Category: {category}")
+        print(f"DEBUG: Is recipe category: {is_recipe_category}")
+
+    text, images = fetch_page_content(title)
+
+    if title == "Crafting Table":
+        print(f"DEBUG: Images: {images}")
+
+    image_path_to_save = None
+    if is_recipe_category and images:
+        for image in images:
+            image_title = image.get("title", "")
+            if "crafting" in image_title.lower() or "recipe" in image_title.lower():
+                # Found a recipe image, now get its URL
+                image_info_params = {
+                    "action": "query",
+                    "format": "json",
+                    "prop": "imageinfo",
+                    "titles": image_title,
+                    "iiprop": "url"
+                }
+                try:
+                    info_resp = requests.get(API_URL, params=image_info_params)
+                    info_resp.raise_for_status()
+                    info_data = info_resp.json()
+                    info_pages = info_data.get("query", {}).get("pages", {})
+                    for _, page_info in info_pages.items():
+                        image_url = page_info.get("imageinfo", [{}])[0].get("url")
+                        if image_url:
+                            image_filename = image_title.replace("File:", "")
+                            image_folder = "static/images/recipes"
+                            image_path_to_save = download_image(image_url, image_folder, image_filename)
+                            break # Stop after finding the first recipe image
+                except requests.exceptions.RequestException as e:
+                    print(f"❌ Failed to fetch image info for {image_title}: {e}")
+            if image_path_to_save:
+                break
+
+    save_page_data(category, title, text, image_path_to_save)
+    return title  # Return title for progress bar
 
 
 if __name__ == "__main__":
+    # All categories to download
     categories = {
         "Trading",
         "Brewing",
@@ -109,6 +210,28 @@ if __name__ == "__main__":
         "Tutorials",
     }
 
+    recipe_categories = {"Crafting", "Brewing", "Smelting", "Smithing"}
+
+    print("--- Phase 1: Discovering all pages to fetch ---")
     visited = set()
+    work_items = []
+
     for cat in categories:
-        download_category(cat, visited)
+        discover_pages_to_fetch(cat, recipe_categories, visited, work_items)
+
+    print(f"\n✅ Discovered {len(work_items)} total pages.")
+
+    print(f"\n--- Phase 2: Downloading pages with {MAX_WORKERS} workers ---")
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        futures = [executor.submit(process_page_work_item, item) for item in work_items]
+
+        for future in tqdm(
+            concurrent.futures.as_completed(futures), total=len(work_items)
+        ):
+            try:
+                future.result()
+            except Exception as e:
+                tqdm.write(f"❌ A task failed: {e}")
+
+    print("\n🎉 All pages downloaded successfully!")

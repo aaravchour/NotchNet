@@ -33,7 +33,7 @@ QA_PROMPT = PromptTemplate(
 - Use the context strictly and exclusively for the answer.
 - If the questions requires multiple steps or complex reasoning, break it down into simple, clear steps.
 - Don't reply with just one sentence; provide a complete answer based on the context.
-- Do not say "according to the context"
+- Do not say "according to the context", "based on the provided information", or similar phrases.
 
 Context:
 {context}

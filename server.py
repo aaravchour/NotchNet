@@ -9,7 +9,7 @@ import time
 import secrets
 
 API_KEY = os.environ.get("CHATBOT_API_KEY")
-
+CORS(app)
 app = Flask(__name__)
 limiter = Limiter(get_remote_address, app=app, default_limits=["10 per minute"])
 CORS(app)

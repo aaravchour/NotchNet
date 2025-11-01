@@ -16,12 +16,13 @@ CORS(app)
 
 @app.before_request
 def check_source():
-    user_agent = request.headers.get("User-Agent")
+    user_agent = request.headers.get("User-Agent", "")
     # Replace with the actual IP of your website
     allowed_ip = "127.0.0.1"
     request_ip = request.headers.get("X-Forwarded-For", request.remote_addr)
+    print(f"Received request from IP: {request_ip} with User-Agent: {user_agent}")
 
-    if user_agent != "Java" and request_ip != allowed_ip:
+    if not user_agent.startswith("Java") and request_ip != allowed_ip:
         return (
             jsonify(
                 {"error": "Forbidden - Only Java clients and approved IPs are allowed"}

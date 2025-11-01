@@ -9,10 +9,10 @@ import time
 import secrets
 
 API_KEY = os.environ.get("CHATBOT_API_KEY")
-CORS(app)
 app = Flask(__name__)
 limiter = Limiter(get_remote_address, app=app, default_limits=["10 per minute"])
 CORS(app)
+
 
 @app.before_request
 def check_source():
@@ -22,7 +22,12 @@ def check_source():
     request_ip = request.headers.get("X-Forwarded-For", request.remote_addr)
 
     if user_agent != "Java" and request_ip != allowed_ip:
-        return jsonify({"error": "Forbidden - Only Java clients and approved IPs are allowed"}), 403
+        return (
+            jsonify(
+                {"error": "Forbidden - Only Java clients and approved IPs are allowed"}
+            ),
+            403,
+        )
 
 
 issued_tokens = {}

@@ -10,8 +10,14 @@ import secrets
 
 API_KEY = os.environ.get("CHATBOT_API_KEY")
 app = Flask(__name__)
-limiter = Limiter(get_remote_address, app=app, default_limits=["10 per minute"])
+limiter = Limiter(get_remote_address, app=app)
 CORS(app)
+
+
+@app.before_request
+def limit_remote_addr():
+    if request.remote_addr != "2600:1900:4240:200::":
+        return jsonify({"error": "Forbidden"}), 403
 
 
 issued_tokens = {}
@@ -46,7 +52,6 @@ def get_token():
 
 
 @app.route("/ask", methods=["POST"])
-@limiter.limit("10 per minute")
 def ask_question():
     auth = request.headers.get("Authorization", "")
     token = auth.removeprefix("Bearer ").strip()

@@ -1,0 +1,3 @@
+The Terra Blade is a weapon added by Botania. It uses Mana from Mana Tablet or any other Mana providing item in the player's inventory to prevent item damage or repair itself, using 100 Mana per point of durability. When swung and the attack recharge meter is full, it will use 100 Mana and create a damaging Mana burst that deals 7 () points of damage to the hit creature.
+
+The sprite and effect is a reference to the Terraria weapon of the same name.

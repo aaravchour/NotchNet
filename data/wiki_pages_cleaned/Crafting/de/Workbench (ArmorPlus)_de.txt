@@ -1,0 +1,4 @@
+Auf dieser Seite geht es um die Workbench, hinzugefgt von ArmorPlus. Fr andere Verwendungsmglichkeiten, siehe Workbench.
+
+Die Workbench ist ein Block aus dem Mod ArmorPlus. Sie hnelt der normalen Werkbank.
+Dieser Block wird verwendet, um die meisten grundlegenden Rstungen, Waffen und Gegenstnde der ersten Stufe von ArmorPlus herzustellen. Er wird auch fr die Herstellung der hherstufigen Bank High-Tech Bench verwendet.

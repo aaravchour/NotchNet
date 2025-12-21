@@ -1,7 +1,0 @@
-This page documents the history of map icon textures in Java Edition.
-
-
-== History ==
-
-
-=== Placeholder textures ===

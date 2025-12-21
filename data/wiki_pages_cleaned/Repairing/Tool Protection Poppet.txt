@@ -1,0 +1,4 @@
+The Tool Protection Poppet is a tool from the Witchery mod. This Poppet is used to protect a player's tool from breaking. Right before a tool would break, its durability will be restored. The poppet will be destroyed after a single use.
+For the poppet to function, it must first be bound to a player. This can be done by combining a creature/player's Taglock Kit with the poppet in a crafting table. 
+The poppet must be in the user's inventory or a Poppet Shelf in order to work.
+Wearing a full suit of Witch Hunter armor will disallow the player from using this poppet.

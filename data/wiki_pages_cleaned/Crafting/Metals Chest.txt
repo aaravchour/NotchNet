@@ -1,0 +1,2 @@
+The Metals Chest is a block from Railcraft. It is used to turn metal nuggets to ingots to blocks. It has a storage buffer of 27 slots, just like a normal chest. To convert nuggets to ingots, they should be simply placed into the GUI. The same is true for ingots to blocks. It will not make it any more efficient, it will simply do it faster than manually crafting.
+As of version 9.4.0.0 of Railcraft, it will also convert all nuggets, ingots, and blocks to Railcraft's versions.

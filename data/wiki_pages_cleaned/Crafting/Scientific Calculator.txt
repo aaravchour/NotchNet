@@ -1,0 +1,3 @@
+The Scientific Calculator is a device added by Calculator. It can be used to combine 2 items into a new one using Redstone Flux.
+Right clicking will open a GUI where input items can be manually inserted in any order, making the output appear when the recipe is valid. Each item crafted costs 1 RF, and the Scientific Calculator cannot be used if it doesn't contain enough.
+It can also be inserted into a Docking Station in order to automate its usage.

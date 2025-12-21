@@ -1,0 +1,1 @@
+The ME Blank Pattern is an item added by Applied Energistics used to store crafting recipes for the ME Molecular Assembler Chamber. In order to add a crafting recipe to a Blank Pattern, a ME Pattern Encoder must be used.

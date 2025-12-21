@@ -1,7 +1,0 @@
-
-==== Blueprint ====
-
-This structure resembles the old Church seen in pre-1.14 villages, with some minor changes.
-
-
-==== Materials ====

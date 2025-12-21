@@ -1,0 +1,2 @@
+The Dark Matter Locus is a block added by Equivalent Exchange. The block can duplicate Diamonds, Diamond Blocks, Dark Matter and Dark Matter Blocks using Mobius Fuel. Two Mobius Fuel can be exchanged for a Diamond, and takes about 45 seconds to duplicate.
+Each successive tier of material will proportionally increase fuel consumption, but will get disproportionately faster in terms of Diamond production per minute. A single Dark Matter Block takes approximately 9 minutes to create, for example, consisting of 144 diamonds.

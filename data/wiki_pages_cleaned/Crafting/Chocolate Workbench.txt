@@ -1,0 +1,1 @@
+The Chocolate Workbench is a block added by Candy World. It comes in 3 functionally identical variants: Milk, White and Dark. It can be used exactly like a Crafting Table.

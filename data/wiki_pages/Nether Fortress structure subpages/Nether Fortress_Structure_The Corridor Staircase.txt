@@ -1,7 +1,0 @@
-These staircases connect to corridors.
-
-
-==== Materials ====
-
-
-==== Blueprints ====

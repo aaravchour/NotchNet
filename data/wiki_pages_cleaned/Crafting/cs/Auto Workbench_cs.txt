@@ -1,0 +1,14 @@
+Samovyrbjc stl, pvodn znm jako Automatick pracovn stl je stroj pidan mdem BuildCraft. Vytvo automaticky pedmt jakmile je vloen recept a suroviny jsou pumpovny dovnit.
+
+Rozhran je stejn jako normln Pracovn stl. Suroviny mou bt zsobovny do Samovyrbjcho stolu pomoc Nsypky nebo Nsypky. Vyroben produky mus bt vypumpovny pomoc Devn transportn trubky spojen s Ruditovm motorem, nebo pomoc BuildCraft Brnovho systmu. Automatick vrobn recepty mou bt pouiteln pro komplikovan recepty.
+
+Automatick vrobn systm pro vrobu IndustrialCraft 2 Pokroilho obvodu: 
+
+Pry a Neizolovan mdn kabely jsou kombinovny pro vrobu Mdnch kabel.
+Mden kabely jsou zkombinovny s Ruditem a eleznm pltem pro vrobu Electronickho obvodu.
+Elektronick obvod je zkombinovn s Ruditem, Svtlitem a Lazuritem pro vytvoen pokroilho obvodu.
+Ingredience mou bt poloeny v truhlch napojench na Samovyrbjc stl. Vce komplikovan systmy mon budou potebovat ostatn pdavn ingredience pro napumpovn dovnit.
+
+Pedmty napumpovan dovnit kter nejsou v receptu "vysko" ze systmu a spadnou na zem.
+Pedmty napumpovan dovnit musej bt pesn pedmt a ne jeho variace-teba jako vci kter maj stejn OreDict znaen nemou bt zamnneny jeden za jin. Pro pklad, pouit dubovch prken jako ingredienci potebuje tyto prkna, ne bezov nebo smrkov prkna.
+Samovyrbjc stl tak funguje jako zkladn pracovn stl.

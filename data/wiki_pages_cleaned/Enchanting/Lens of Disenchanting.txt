@@ -1,0 +1,3 @@
+The Lens of Disenchanting is a Lens added by Actually Additions. When equipped, the Atomic Reconstructor will move the topmost enchantment from an enchanted item to a Book to turn it into an Enchanted Book at the additional cost of 250,000 extra Crystal Flux per enchantment.
+
+The Lens of Disenchanting on the online Actually Additions Manual

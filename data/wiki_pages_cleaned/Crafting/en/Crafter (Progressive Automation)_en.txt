@@ -1,0 +1,8 @@
+This page is about the Crafter added by Progressive Automation. For other uses, see Crafter.
+
+Crafters are a group of machines added by Progressive Automation. They are used to automatically craft single shaped or shapeless crafting recipes.
+
+Like all Progressive Automation machines, Crafters can consume any standard Furnace fuel or Potatoes to function. If Redstone Flux (RF) is available, the RF Engine can be placed in the Fuel slot to consume RF instead of fuel. By default, all Crafters consume 40RF/t and can hold 40,000RF (this can be changed in the mod's config file). As higher-tier Crafters operate more quickly, they are also substantially more fuel efficient. 
+
+The GUI of the Crafter contains one 3x3 recipe grid, a recipe product slot with a progress arrow above it, a 3x3 grid of item input slots, an output slot, a fuel burn indicator, and a fuel slot. Items placed in the left 3x3 grid are used to create a crafting recipe. The result of this recipe is shown in the center GUI slot. The right 3x3 grid are input slots. Items in these slots will be consumed automatically as the Crafter operates. Items crafted by the Crafter are placed in the single top-right output slot.
+Crafters will attempt to automatically output any items in their output slots into adjacent inventories. This behavior can be changed on a side-by-side basis with the PA Wrench to allow sides to accept new fuel or tools, allowing the Crafter to be completely automated.

@@ -1,0 +1,2 @@
+The Crafting Module is a cover added by GregTech 4. Right-clicking the cover will give access to a Crafting Table interface.
+The Crafting Module can be applied to any side of a machine by right-clicking a side. It can be removed by right-clicking the cover with a Wrench.

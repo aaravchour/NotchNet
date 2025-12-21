@@ -1,7 +1,0 @@
-Please note that the stone bricks shown have the possibility of being the mossy, cracked, or infested version of regular stone bricks instead.
-
-
-==== Materials ====
-
-
-==== Blueprint ====

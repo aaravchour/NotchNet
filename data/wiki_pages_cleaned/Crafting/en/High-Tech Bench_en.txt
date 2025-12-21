@@ -1,0 +1,2 @@
+The High-Tech Bench is a block from the ArmorPlus mod. It is the upgraded version of the Workbench.
+This block is used to craft the second tier armors, weapons and items from ArmorPlus. It is also used for the crafting of some materials such as The Ultimate Material.

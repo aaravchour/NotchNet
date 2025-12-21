@@ -1,6 +1,0 @@
-This page contains bosses that appear in the China Edition. 
-
-
-== The Red Glozmore ==
-
-The Red Glozmore is a boss that only appears in China Edition and has 400 health points. It deals 10 health points for its regular attack. It has a red laser attack that deals double the damage that has been dealt to it.

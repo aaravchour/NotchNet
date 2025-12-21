@@ -1,4 +1,0 @@
-Behavior
-On each comparator 1-clock pulse, the engine checks for a filled map and for specific tools (2nd line, locked when off). When there is a map, the command block (D) and T Flip-Flop are activated. The former gives an empty map back, while the latter unlocks the repeater on the 2nd line. When another filled map appears, it is deleted too, the T Flip-Flop is toggled, and the 2nd line is locked.
-When the 2nd line is unlocked, the 6 command blocks checking current hotbar slots are activated on each clock pulse. Each corresponds to its own flying direction. If the nearest player holds something, they are moved in a specific direction.
-The machine can be turned off by flipping the lever.

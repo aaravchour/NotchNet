@@ -1,0 +1,51 @@
+The IC Workbench is a block added by Project Red. It is used to design new redstone circuits (see Usage). The designed circuit can be formed into an IC Chip with the IC Printer and then added to an IC Gate.
+If the mod MineChem is installed, the IC Workbench can be decomposed with the Chemical Decomposer into 432 Iron (Fe) and possibly Cellulose based on its wood content.
+
+To design a new redstone circuit, place an IC Blueprint on the top of the table. Right-clicking on the bench opens the GUI (displayed in picture 1).
+To start a new board click on the Redraw button on the right. This opens a small window in which the size of the circuit board can be selected (picture 2). At the bottom of the window the name of the new circuit can be entered which is then displayed on the IC Blueprint, the IC Chip and the final IC Gate. Click "Start" and the empty board is displayed in the middle of the GUI (picture 3).
+On this board the player can draw redstone wires, gates, and other functions, which are displayed at the bottom of the GUI. The yellow border on the board indicates the interface between the internal circuit and the cables, which can later be connected in the world at the gate.
+If the circuit is finished, leave the GUI and shift right-click on the bench to obtain the created blueprint.
+
+In the following all options at the bottom from left to right:
+
+Erase: Erases option on the cursor
+Debug:
+Torch: Allows placement of Redstone Torches for active redstone signals
+Lever: Allows placement of Levers to switch a redstone signal
+Button: Allows placement of Buttons to switch a redstone signal
+Alloy wire: Allows placement of Red Alloy Wires (connects to all wires and cables)
+Insulated wire: Allows placement of Insulated Wires in all colors to avoid connections to each other
+Bundled cable: Allows placement of Bundled Cables without color respectively in all colors to avoid connections to each other
+IOs:
+Simple IO: Creates an IO for Red Alloy Wires on the yellow border
+Bundled IO: Creates an IO for Bundled Cables on the yellow border
+Analog IO: Creates an IO for Redstone on the yellow border
+Simple gates with the same functions as the major:
+OR Gate
+NOR Gate
+NOT Gate
+AND Gate
+NAND Gate
+XOR Gate
+XNOR Gate
+Buffer Gate
+Multiplexer
+Special gates:
+Pulse Former
+Repeater
+Timer
+Sequencer
+State Cell
+Latches:
+State Cell
+Toggle Latch
+Transparent Latch
+Cells:
+Null Cell
+Invert Cell
+Buffer Cell
+Misc:
+Randomizer
+Counter
+Synchronizer
+Decoding Randomizer

@@ -1,0 +1,5 @@
+This page is about the Arcane Workbench added by Thaumcraft 5. For other uses, see Arcane Workbench.
+
+The Arcane Workbench is a block added by Thaumcraft 5. It is an advanced version of the Crafting Table. The Arcane Workbench is used to create many of the items added by Thaumcraft 5, costing Vis from a Wand to create.
+
+The Arcane Workbench is created by right-clicking a Table with a Wand.

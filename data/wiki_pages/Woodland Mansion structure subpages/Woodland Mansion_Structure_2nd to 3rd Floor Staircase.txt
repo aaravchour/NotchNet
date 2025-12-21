@@ -1,5 +1,0 @@
-Stair with Side Entrance (1x2_c_stairs)
-These stairs spawn with the entrance to the sides of the cobblestone stairs.
-
-Stairs with Straight On Entrance (1x2_d_stairs)
-There is no pillar of cobblestone supporting it and the entrance is straight on.

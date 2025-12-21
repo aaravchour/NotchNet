@@ -1,0 +1,1 @@
+Die Champion Bench ist eine Tileentity, die von ArmorPlus hinzugefgt wurde. Es ist die upgegradete Version der Ulti-Tech Bench. Sie kann derzeit nur im Kreativmodus erhalten werden. Sie bietet den grten Handwerksbereich aller Bnke, es sind jedoch keine Rezepte bekannt, die den gesamten Platz im ArmorPlus-Mod nutzen.

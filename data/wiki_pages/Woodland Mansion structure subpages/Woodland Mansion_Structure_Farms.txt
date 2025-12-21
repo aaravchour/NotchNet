@@ -1,9 +1,0 @@
-Mushroom Farm (1x2_a7)
-Chest contains nothing.
-The oak wood stairs on Layer 1 at the last row is upside down.
-
-Melon and Pumpkin Farm (1x2_a8)
-This is also known as the Stem Farm.
-The Pumpkin and Watermelon Blocks do grow on their own, so consider them optional.
-
-Wheat Farm (1x2_a2)

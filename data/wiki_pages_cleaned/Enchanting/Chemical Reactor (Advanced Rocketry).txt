@@ -1,0 +1,15 @@
+This page is about the Chemical Reactor added by Advanced Rocketry. For other uses, see Chemical Reactor.
+The Chemical Reactor is a multiblock machine added by Advanced Rocketry. It is used to craft Rocket Fuel and put the Airtight Seal enchantment on armors at the cost of Redstone Flux.
+Power must be inserted by the structure's Power Input Plugs, input items by the Input Hatch, input fluids by the Fluid Input Hatches, output items can be picked up from the Output Hatch and output fluids from the Fluid Output Hatch.
+
+The complete structure is 2x2x3 and requires (in addition to the Chemical Reactor):
+
+1  Motor of any kind
+2  Power Input Plugs or  Creative Power Input Plugs
+1  Input Hatch
+2  Fluid Input Hatches
+1  Output Hatch
+1  Fluid Output Hatch
+1  Machine Structure
+
+Right clicking the Chemical Reactor once the structure is assembled forms the multiblock.

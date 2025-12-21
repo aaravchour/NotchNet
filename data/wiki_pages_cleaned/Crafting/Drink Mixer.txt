@@ -1,0 +1,6 @@
+The Drink Mixer is a block added by Tropicraft. It is used to create Cocktails. The Drink Mixer appears as a smaller version of the Easter Island Head. The only Cocktail that does not require the Drink Mixer is the Pia Colada, although it can be created from the Mixer. 
+
+Place one of each ingredient in the eyes of the mixer using the "use" key then place an Empty Bamboo Mug in the bottom. If done correctly the block will shake and spit out a cocktail.
+
+There is a specific set of items that can be used to create mixed drinks. Each ingredient has a set of status effects and food values that will be added to the drink. These values stack for each ingredient in the drink; for example, if a drink has two ingredients that add Nausea for 5 seconds, the result will be 10 seconds of Nausea.
+Additionally, mixed drinks add their own potion effects.

@@ -1,0 +1,7 @@
+This page is about the Covalence Dust items from ProjectE. For other uses, see Covalence Dust.
+
+The Covalence Dusts are a 3-tier set of crafting components added by ProjectE. It is used to craft the Alchemical Chest, Talisman of Repair, Alchemy Bag, Tome of Knowledge, and the Divining Rods, as well as repairing tools and armor. Items can be repaired by shapelessly crafting them with the dust.
+
+Low Covalence Dust can be used to repair wooden and stone tools, leather armor, fishing rods, and wooden bows.
+Medium Covalence Dust can be used to repair iron, gold, bronze, ruby, sapphire, and green sapphire tools and armor, flint and steels, and shears.
+High Covalence Dust can be used to repair diamond tools and armor.

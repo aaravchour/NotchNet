@@ -1,7 +1,0 @@
-
-==== Blueprint ====
-
-All spruce slabs are bottom slabs.
-
-
-==== Materials ====

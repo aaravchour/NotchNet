@@ -1,0 +1,4 @@
+Esta pgina es sobre el Banco de Trabajo agregado por ArmaduraMs. Para otros usos, mirar Workbench.
+
+El Banco de Trabajo es un bloque agregado por el mod ArmaduraMs. Es similar al Mesa de Trabajo.
+Este bloque se usa para fabricar la mayora de las armaduras, armas y artculos de nivel uno bsicos de ArmaduraMs. Tambin se usa para crear el banco de nivel prximo, el Banco de Alta Tecnologa.

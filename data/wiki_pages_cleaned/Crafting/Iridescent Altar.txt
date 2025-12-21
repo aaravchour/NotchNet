@@ -1,0 +1,13 @@
+The Iridescent Altar is a block added by Astral Sorcery. It is the fourth and last tier of crafting altar and is used throughout the Radiance chapter of the Astral Tome. It can contain more Starlight and adds 4 more slots for crafting.
+Right-clicking on it will open up its GUI, which will display a slot on the left-hand side for players to put in constellation-attuned Rock Crystals or Celestial Crystals for certain recipes. Many of the Iridescent Altar's recipes require secondary items to be placed around on Spectral Relays surrounding the Altar. When crafting is in progress a translucent image of the required item will appear on a Relay, at which point the player must right-click on the Relay with the designated item.
+
+The complete structure is 11x6x11 and requires (on top of the Altar):
+
+4  Runed Marble
+68  Marble Bricks
+49  Sooty Marble
+12  Marble
+8  Marble Pillars
+4  Chiseled Marble
+
+This can only be performed at night and will directly change the Celestial Altar instead of dropping the output in the world.

@@ -1,7 +1,0 @@
-Block Inspector is an item used to display the name of the block the player is looking at on screen.
-
-
-== Data values ==
-
-
-== History ==

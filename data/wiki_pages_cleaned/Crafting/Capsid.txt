@@ -1,0 +1,2 @@
+The Capsid is a block added by Alex's Mobs. It is dropped when the Enderiophage has been slain.
+When placed, items can be placed inside of the Capsid by right-clicking them into the block. Some items can be transformed by placing them into the Capsid; otherwise, the item is simply displayed. The Capsid can hold a full stack of an item.

@@ -1,0 +1,21 @@
+The Terrasteel Helmet is an armor piece added by Botania. It can use Mana from a Mana Tablet or any other Mana providing item in the player's inventory to prevent item damage or repair itself, using 70 Mana per point of durability. In addition to diamond level protection, it provides 0.15 knockback resistance.
+If the player is wearing a complete set of Terrasteel armor, they will gain the Will of the Ancients set bonus:
+
+Passive generation of 1 Mana per tick,
+20% decrease of Mana cost on all Mana-using tools and rods,
+Passive regeneration of 2 health every 4 seconds if their hunger bar isn't full,
+Effects of all Wills applied to this item.
+Six Wills dropped by the hard mode version of the Gaia Guardian can be applied to this helmet by crafting them together. Each Will has a different effect, applied to the entity hit by the wearer's critical hits.
+
+ Will of Ahrim  applies Weakness II for 1 second,
+ Will of Dharok  multiplies damage dealt proportionally to percentage of the player's lost health,
+ Will of Guthan  heals the player by 25% of damage dealt,
+ Will of Torag  applies Slowness II for 3 seconds,
+ Will of Verac  causes the damage dealt to bypass armor,
+ Will of Karil  applies Wither II for 3 seconds.
+
+This recipe preserves enchantments on the used helmet.
+
+ Terrasteel Chestplate
+ Terrasteel Leggings
+ Terrasteel Boots

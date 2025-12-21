@@ -1,0 +1,1 @@
+The ME Crafting Monitor is a monitor that allows you to see what the connected system is currently crafting and which items are missing to complete the current task.

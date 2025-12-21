@@ -1,0 +1,2 @@
+The Atomic Calculator is a machine added by Calculator. It can combine 3 items into a new one. This include Flawless Diamonds, machine upgrades as well as several more powerful machines such as the Conductor Mast.
+The Atomic Calculator cannot automatically input or output items. To do so, it must be placed on a Docking Station.

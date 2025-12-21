@@ -1,0 +1,8 @@
+This page is about the Enchanter added by Extra Utilities 2. For other uses, see Enchanter.
+
+The Enchanter is a block added by Extra Utilities 2. It is used to create different components and to enchant armors and tools combining two items. It consumes Redstone Flux (RF) and can be sped up with Speed Upgrades. It also consumes Grid Power. The enchanter requires a full set of 15 Bookshelves or 6 Magical Wood to work.
+
+By combining any tools or armor pieces with 1 Nether Star, the Enchanter will give a random enchantment at maximum level according to the type of the item (Sword = Sharpness V, Chestplate = Protection IV...). It will consume 72,000 RF for 1800s.
+And combining any tools or armor pieces with 1 Lapis Lazuli, the item will be enchanted with a minimum level enchantment (Sword = Sharpness I, Chestplate = Protection I...).
+
+The enchanter is used to make the following items:

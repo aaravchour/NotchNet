@@ -1,0 +1,5 @@
+This page is about the RotaryCraft Worktable. For other uses, see Worktable.
+
+The Worktable is a block from RotaryCraft. It is a fairly standard version of the Crafting Table, though all machines, with the exception of the Worktable itself and the Blast Furnace, are crafted on it. The Worktable stores its contents when the player leaves the GUI, unlike the Crafting Table. The products can be crafted by simply clicking the item in the right side, or by giving it a positive redstone signal. It has 9 input slots, and 9 output slots. The Worktable is also used to power spring-powered tools, by putting new springs and tools in the left slot. 
+
+The Worktable is one of only two RotaryCraft machines that can be crafted in a Crafting Table, rather than a Worktable (for obvious reasons). It can still be crafted in the Worktable though.

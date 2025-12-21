@@ -1,0 +1,10 @@
+This page is about the Project Bench from Project Red. For other uses, see Project Bench.
+
+The Project Bench is a block added by Project Red. It is a modified version of the vanilla Crafting Table with an inventory and a "saved/fast" crafting function (see Usage).
+If the mod MineChem is installed, the Project Bench can be decomposed with the Chemical Decomposer into 4 to 22 Cellulose and potentially a few other elements based on its Stone content.
+
+The image on the right shows the GUI of the Project Bench. The lower part is the inventory of the bench which can hold items the Bench can craft with.The 3x3 field in the middle is the recipe plan and the field on the right the output like in the vanilla version. On the left are one slot for the Recipe Plan, a feather button (used to save recipes), and a button next to the 3x3 field (used to fast delete recipes).
+To save a recipe, an unrecorded Recipe Plan must be placed in the left field and the desired recipe must be built in the 3x3 field. After that, the button (with the feather) must be hit to save the recipe.
+To craft saved recipes quickly, the player only needs to insert the saved recipe plan of the desired object in the left field and have the required resources in the Bench's inventory. This can be used to automatically craft an item.
+The button next to the crafting grid is used to quickly return input items in the 3x3 field to the Bench's inventory.
+Holding the shift key while in the GUI of the Project Bench will show all described recipe plans that can craft the output item.

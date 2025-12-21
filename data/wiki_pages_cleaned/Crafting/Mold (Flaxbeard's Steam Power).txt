@@ -1,0 +1,6 @@
+This page is about the Flaxbeard's Steam Power Mold. For other uses, see Mold.
+
+The Mold is a block from Flaxbeard's Steam Power. It is used to turn liquid metal in the Crucible into usable plates, ingots, or nuggets. It requires a Plate Mold, Nugget Mold, or Ingot Mold in it. It must be placed in a way that the Crucible will tilt towards it when used. Only a single mold can be made before the output item must be extracted, either through opening it or using pipes.
+
+Place the Mold down, and then put an according mold item in it, using the use key. Close the block by using it with an empty hand, then pour the metal from the Crucible into it. Opening the block will cause the nugget, ingot, or plate to pop into the player's inventory. 
+Sneak+use the block with an empty hand to remove the current mold item.

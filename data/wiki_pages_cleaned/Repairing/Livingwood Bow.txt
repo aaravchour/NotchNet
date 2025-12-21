@@ -1,0 +1,2 @@
+The Livingwood Bow is a bow added by Botania. 
+It works similarly to the Vanilla Bow, but it has higher durability and it can use Mana from a Mana Tablet or any other Mana providing item in the player's inventory to prevent item damage or repair itself, using 40 Mana per point of durability.

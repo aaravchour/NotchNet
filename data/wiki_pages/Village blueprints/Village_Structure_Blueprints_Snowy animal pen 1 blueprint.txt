@@ -1,7 +1,0 @@
-
-==== Blueprint ====
-
-The stairs in layer 2 should be waterlogged.
-
-
-==== Materials ====

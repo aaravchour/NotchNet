@@ -1,0 +1,15 @@
+The Ancient Tome is an item added by Quark. It is used to increase an enchantment by one level over its maximum level. It is very rare and can only be found in dungeon Chests.
+
+Notes: On rare occasions more than one will spawn in a chest. Average number per chest accounts for this.
+This only accounts for all vanilla loot tables and Pirate Ships.
+
+By combining the Ancient Tome and an Enchanted Book in an Anvil and spending 35 levels, it will increase the enchantment one level higher than its maximum vanilla level. It will cost another 35 levels to apply the newly created Enchanted Book to a tool or item.
+
+You may notice some enchantments are missing, like quick charge, protection, etc. To change this you must do the following:
+
+Enter "config" file.
+Open "quark-common.toml" using notepad or equivalent software.
+Locate: "Valid Enchantments" = ["minecraft:feather_falling", "minecraft:thorns", "minecraft:sharpness", "minecraft:smite", "minecraft:bane_of_arthropods", "minecraft:knockback", "minecraft:fire_aspect", "minecraft:looting", "minecraft:sweeping", "minecraft:efficiency", "minecraft:unbreaking", "minecraft:fortune", "minecraft:power", "minecraft:punch", "minecraft:luck_of_the_sea", "minecraft:lure", "minecraft:loyalty", "minecraft:riptide", "minecraft:impaling", "minecraft:piercing"].  Tip: use CTRL + F and use "valid" as a search word.
+In front of "minecraft:piercing", add ","minecraft:ENCHANTMENT"" and end with a "]". Spaces in enchantment should be represented as an underscore "_".
+Save "quark-common.toml"
+If using an enchantment from a mod, for example, the popular mod "Create", replace the name as expected, to add the potatoe recovery enchantment, add "create:potato_recovery".

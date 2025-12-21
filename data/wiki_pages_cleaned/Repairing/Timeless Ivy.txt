@@ -1,0 +1,4 @@
+This information pertains to an older version of the mod.  This item was removed in Botania version R1.9 322.
+
+The Timeless Ivy is an item added by Botania. It can be applied to a repairable item in the crafting grid with 3 pieces of the repair material. Items that have Timeless Ivy applied will consume Mana to repair themselves, using 200 Mana per tick, restoring 1 durability per tick.
+The Timeless Ivy was removed in build R1.9 322 because of the introduction of the Mending enchantment.

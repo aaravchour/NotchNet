@@ -1,0 +1,16 @@
+O Boticrio de Ptalas  um bloco adicionado pelo Botania. Ele permite que o jogador infunda ptalas e runas para criar flores geradoras e funcionais.
+
+Para fabricar flores, o Boticrio de Ptalas precisa estar cheio de gua. A gua pode ser fornecida das seguintes maneiras:
+
+Clicando com o boto direito no Boticrio de Ptalas com um continer de gua como um balde de gua.
+Arremessando um balde em um boticrio.
+Clicando com o boto direito com um Cajado dos Mares ou qualquer outro item que gere gua.
+Se o Jardim de Vidro estiver presente, uma Tigela de gua pode ser usada para encher o boticrio.
+Para criar uma flor, as ptalas e runas corretas devem ser arremessadas no Boticrio de Ptalas (em qualquer ordem) e ento sementes de qualquer tipo devem ser arremessadas para finalizar o processo. Clicar com o boto direito enquanto segura Shift em um Boticrio de Ptalas ir retornar o ltimo item adicionado ao inventrio do jogador. 
+Durante 20 segundos aps fabricar um item, clicar com o boto direito em um boticrio cheio de gua com a mo vazia colocar os itens utilizados na ltima receita. 
+Um comparador de redstone apoiado ao boticrio ir resultar em um sinal de intensidade 15 quando o bloco estiver cheio de gua.
+Colocar Lava em vez de gua no boticrio ir transform-lo em um incinerador, queimando todos os itens dropados em cima dele.
+
+Arremessar trepadeiras no boticrio de ptalas d um visual de "coberto de vegetao" a ele. Cercar o boticrio de ptalas em uma bancada de fabricao com 8 Pedregulhos Metamrficos resulta em uma variante colorida.
+
+Principal : FTB Infinity Evolved

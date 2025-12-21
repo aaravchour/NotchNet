@@ -1,0 +1,1 @@
+The Touchstone of Midas is an item added by Xeno's Reliquary. It is used to repair any damaged gold item in the player's inventory. The Touchstone absorbs Glowstone Dust in the player's inventory, adding 4 points of durability per Dust. It will hold 512 points of durability. This durability can be used to repair gold weapons, tools, and armor.

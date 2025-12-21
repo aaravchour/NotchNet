@@ -1,0 +1,8 @@
+The Unchant Pylon is a tile entity added by Cyclic. It is used to remove enchantments from enchanted items and deposit them into Books. Aside from the item to disenchant, the process requires 5 things:
+
+ Glowstone Dust
+ Book
+ Redstone
+ Bottle o' Enchanting
+Redstone Flux
+Enchantments are removed one at a time; the enchantment chosen is random.

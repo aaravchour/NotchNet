@@ -1,0 +1,12 @@
+The Powered Diamond Anvil is a tile entity added by Cyclic. It is used to repair items using energy.
+
+Items to be repaired are inserted into the left slot, repaired items are moved to the right slot automatically. Energy is represented by the bar in the middle.
+The Anvil can be set to respond to redstone by using the icon in the top-left of the GUI:
+
+: Requires redstone
+: Always on
+
+The Powered Diamond Anvil uses energy (such as Redstone Flux (RF)) to repair durability on items. It is a general purpose anvil that will attempt to repair anything that has a durability bar, such as tools and armor. If an item is capable of both storing energy and taking durability damage, only durability damage will be repaired; the item will need to be recharged elsewhere.
+Repairing an item uses 900 RF per tick, and repairs 1 durability point per tick.
+
+In some mod packs, the Powered Diamond Anvil is known to have graphical rendering issues (such as fluid containers physically behind it rendering in front of it) and may not be compatible with power cables from other mods. (Such as EnderIO conduits)

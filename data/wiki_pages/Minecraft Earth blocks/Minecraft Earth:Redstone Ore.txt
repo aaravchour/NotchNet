@@ -1,9 +1,0 @@
-Redstone Ore was a block that would drop redstone upon breaking. Its item form was supposed to be unobtainable.
-The Redstone Ore wasn't in the Journal.
-
-
-== Obtaining ==
-Redstone Ore could be found inside adventure chests like other unused items such as the golden apple or the red nether brick wall.
-
-
-== History ==

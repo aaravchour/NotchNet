@@ -1,0 +1,14 @@
+The Auto-Anvil is a block from MineFactory Reloaded that automatically repairs items at the cost of energy and Mob Essence. This machine can store 4,000EU or 1,600MJ.
+
+Main article: Ender IO
+
+Main article: Thermal Expansion
+
+The Auto-Anvil has 2 input slots, 1 output slot, and 3 display elements: a tank and 2 bars. 
+
+Tank: Displays stored Mob Essence.
+Energy bar: Displays stored EU or MJ up to a maximum of 4,000 EU or 1,600 MJ.
+Progress bar: Displays progress of item being being repaired.
+To fix an item of any material, you must put the item in 1 of the 2 top slots, and the material the item is made of in the other. This action requires 400mB of Mob Essence and 4,000 EU or 1,600 MJ.
+
+If the player shift-clicks a stack of materials into the second input slot, it will be lost and replaced with only 1 instance of that material.

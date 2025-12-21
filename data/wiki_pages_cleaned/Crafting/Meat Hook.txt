@@ -1,0 +1,5 @@
+The Meat Hook is a block from Fantastic Beasts and How To Eat Them. It is used to butcher cows using the various tools within the mod into usable animal parts.
+It is currently not obtainable without cheats.
+
+Carcasses can be hung on the Meat Hook by right clicking them on the block.
+Carcasses can be butchered by right clicking on the Meat Hook block using the proper tool. If not using the correct tool, it will tell the player that they are not using the correct tool. Butchering steps can take up to four right clicks in order to obtain the body parts. The order in which animals are butchered is specific:

@@ -1,5 +1,0 @@
-
-==== Java Edition ====
-
-
-===== Block texture and model history =====

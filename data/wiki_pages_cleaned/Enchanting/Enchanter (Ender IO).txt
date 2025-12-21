@@ -1,0 +1,7 @@
+This page is about the Enchanter from Ender IO. For other uses, see Enchanter.
+
+The Enchanter is a block added by Ender IO. It allows Enchanted Books to be created by combining a Book and Quill with other items, along with the cost of some Experience Points (XP). Multiple items (and more XP) can be added to increase the enchantment level of the book.
+All of the Enchanter's recipes can be viewed via NEI or JEI.
+
+Main article: FTB Infinity Evolved
+The Enchanter is disabled in this modpack.

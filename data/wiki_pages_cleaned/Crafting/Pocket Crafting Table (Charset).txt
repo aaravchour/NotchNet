@@ -1,0 +1,9 @@
+This page is about the Pocket Crafting Table added by Charset. For other uses, see Pocket Crafting Table.
+
+The Pocket Crafting Table is an item added by Charset, based off the Pocket Crafting Table added by Factorization. Right-clicking with the item in hand will open the player's inventory with an added Crafting Table and a new output slot. The right 3x3 slots of the inventory that are darker will function as a crafting grid.
+
+Under the output, there are three buttons:
+
+Empty grid: this will move the items in the 3x3 crafting slots elsewhere in the inventory. Pressing X will also trigger this button.
+Swirl items: this will move the items in the 3x3 crafting slots clockwise. Pressing C will also trigger this button.
+Balance items: this will redistribute the items in the 3x3 crafting slots to make each stack have the same (or as close as possible) number of items. Pressing B will also trigger this button.

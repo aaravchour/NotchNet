@@ -1,0 +1,2 @@
+The Elementium Axe is a tool added by Botania. It uses Mana from Mana Tablet or any other Mana providing item in the player's inventory to prevent item damage or repair itself, using 60 Mana per point of durability. Just like the Manasteel Axe, right-clicking on Dirt with the tool will plant a sapling from the player's inventory.
+If a Zombie, Skeleton, Wither Skeleton, Creeper, the Guardian of Gaia or a player is killed with this axe, there is a chance to drop the entity's head. This chance is increased by the Fortune enchantment.

@@ -1,0 +1,5 @@
+The Auto-Enchanter is a machine added by MineFactory Reloaded. It is used to aid the player by automating the enchanting process. This is most useful if the player wishes to create many enchantments and store them in a Book with the aid of the Auto-Disenchanter. To operate it, the player must select the level of enchantment the machine is to add, ranging from 1-30 levels. The machine can store 4,000 mB of Mob Essence and 1,600 MJ or 4,000 EU. Extra sources of Mob Essence will be needed as it takes exactly 11.64 buckets of Mob Essence (11640mB). The player will also need 43,000 MJ (or 107,500 EU) to make a single level 30 enchantment. The costs depend on the level of the enchantment the player wants to add to the item.
+
+Main article: Thermal Expansion 3
+
+ Auto-Disenchanter

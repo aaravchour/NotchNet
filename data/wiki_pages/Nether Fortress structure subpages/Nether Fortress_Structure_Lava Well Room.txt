@@ -1,7 +1,0 @@
-These are used to connect bridges and corridors. On Layer 4, the three fences above the path show the bridge side.
-
-
-==== Materials ====
-
-
-==== Blueprint ====

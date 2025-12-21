@@ -1,7 +1,0 @@
-Stronghold Libraries are sometimes found in strongholds. Stronghold libraries are composed of stone bricks, mossy stone bricks, cracked stone bricks, oak wood planks, fences, torches, bookshelves, cobwebs, and may include ladders if it is a duplex library. The variance of bricks, including infested stone bricks, is random in all layers yet with a notable predominance of Stone Bricks. The chests can contain paper, books, and more rarely, a map, compass, or enchanted book. Note that in a single-story library, there are no ladders.
-
-
-==== Materials ====
-
-
-==== Blueprint ====

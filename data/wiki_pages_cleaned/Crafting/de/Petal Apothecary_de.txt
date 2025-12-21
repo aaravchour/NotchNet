@@ -1,0 +1,16 @@
+Der Bltenapotheker (nachfolgend Petal Apothecary genannt) ist ein Block, der von Botania hinzugefgt wurde. Er ermglicht dem Spieler, Petals und Runen zu infundieren, um generationsbergreifende und funktionale Blumen zu erstellen.
+
+Um Blumen herzustellen, muss der Bltenapotheker voll mit Wasser sein. Wasser kann auf folgende Weise zugefhrt werden:
+
+Klicke mit der rechten Maustaste auf den Bltenapotheker mit einem Wasserbehlter wie einem Wassereimer.
+Wirf einen Wassereimer auf die Apotheke.
+Rechtsklick mit einem Stab der Meere oder einem anderen Gegenstand, der Wasser erzeugt.
+Wenn der Garten aus Glas vorhanden ist, kann eine Schssel Wasser verwendet werden, um den Tiegel zu fllen.
+Um eine Blume zu erstellen, mssen die richtigen Bltenbltter und Runen (in beliebiger Reihenfolge) in den Bltenapotheker geworfen werden, und dann mssen Samen jeglicher Art hineingeworfen werden, um den Vorgang abzuschlieen. Wenn Sie bei gedrckter Umschalttaste auf den Bltenapotheker klicken, wird der zuletzt hinzugefgte Gegenstand wieder in das Inventar des Spielers aufgenommen. 
+Nach der Herstellung werden 20 Sekunden lang durch einen Rechtsklick mit leerer Hand auf eine mit Wasser gefllte Apotheke Gegenstnde platziert, die fr das letzte Rezept verwendet wurden. 
+Ein an die Apotheke angeschlossener Redstone-Komparator gibt eine Signalstrke von 15 aus, wenn der Block mit Wasser gefllt ist.
+Wenn du Lava anstelle von Wasser in die Apotheke gibst, wird daraus eine Verbrennungsanlage, in der alle darauf abgelegten Gegenstnde verbrannt werden.
+
+Wenn du Ranken in den Bltenapotheker wirfst, sieht sie "berwachsen" aus. Das Umgeben des Bltenblatttiegels in einem Craftingfeld mit 8 Metamorphic Cobblestone ergibt eine farbige Variante.
+
+Haupt-Artikel: FTB Infinity Evolved

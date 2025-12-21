@@ -1,0 +1,12 @@
+The Runic Altar is a block added by Botania. It is used to craft runes.
+
+To create a rune, certain items must be placed onto the altar (in any order), by either right-clicking the altar with them or throwing onto the altar. The placed items will be shown orbiting above the altar. Looking at the altar will display its contents.
+Shift right-clicking the Runic Altar with an empty hand will return the last placed item into the player's inventory. The items cannot be retrieved after the altar has been activated.
+
+  
+When all necessary items are placed on the altar it will activate and start accepting Mana. Any Mana Spreader supplied with a Mana source must be directed at the altar to give it Mana. Crafting progress is shown when looking at the altar. 
+
+When the altar has consumed enough Mana, it will start producing blue sparks. To complete crafting, right-click or throw a Livingrock on top of the altar, then use the Wand of the Forest. 
+For 20 seconds after crafting, right-clicking the altar with an empty hand will place items used for the last recipe.
+All runes used in Runic Altar recipes will be returned after crafting.
+A Redstone Comparator attached to the altar will output signal strength of 1 while the altar is accepting Mana, or 2 when it's ready to craft.

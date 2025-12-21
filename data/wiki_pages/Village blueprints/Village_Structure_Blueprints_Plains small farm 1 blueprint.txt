@@ -1,7 +1,0 @@
-
-==== Blueprint ====
-
-The structure is made exactly like the old Small Farm seen in pre-1.14 villages, with the addition of a composter.
-
-
-==== Materials ====

@@ -1,0 +1,1 @@
+Primal Enchanting is an alternative way to enchant tools, weapons, and armor added by JuiceWares. It is a crafting-centered enchantment method in which the player shapelessly crafts the item to be enchanted with the enchantment material in order to apply that material's enchantment(s) to the item. When crafted, the item will be slightly damaged.

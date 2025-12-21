@@ -1,0 +1,1 @@
+The ME Pattern Terminal is a version of the ME Terminal from Applied Energistics 2. It allows access to creating patterns to auto craft items using Blank Pattern. It has a built-in Crafting Grid that automatically pulls items out of the System if a recipe is selected via NEI.

@@ -1,5 +1,0 @@
-Froglight farming is a 1.19 feature that allows you to farm froglights, which are dropped by tiny magma cubes when eaten by frogs.
-
-
-== Concept ==
-A froglight farm is basically a modified magma cube farm. The spawning system is the same, however, the killing system is different. For example, powder snow and candles can kill the big and small magma cubes, and the tiny ones can then be eaten by frogs. Or after the magma cubes are spawned they can fall through holes splitting into smaller versions until they hit the bottom floor, which is made of hoppers linked to a chest where the frogs can have their meal. To change the kinds of froglights include different types of frogs.

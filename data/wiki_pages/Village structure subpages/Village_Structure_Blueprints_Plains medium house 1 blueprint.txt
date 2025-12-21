@@ -1,7 +1,0 @@
-
-==== Blueprint ====
-
-This structure resembles the old Large House seen in pre-1.14 villages, with some minor changes. It also contains two white beds and some furniture, which the original structure lacked.
-
-
-==== Materials ====

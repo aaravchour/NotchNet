@@ -1,5 +1,0 @@
-Chiseled Resin Bricks is a chiseled variant of Resin Bricks. They are either crafted with 2 Resin Brick slabs or using a Resin Brick block on a Stonecutter.
-
-
-== Trivia ==
-Similar to chiseled sandstone, red sandstone, nether bricks, polished blackstone, tuff and deepslate, chiseled resin bricks have a face/symbol in its texture - in this case, the Creaking.

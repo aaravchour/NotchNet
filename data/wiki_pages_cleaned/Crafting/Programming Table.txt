@@ -1,0 +1,6 @@
+The Programming Table is a machine added by BuildCraft. It is used to craft/program specific Redstone Boards, which can be used to craft the corresponding robot. The table must be powered using a Laser powered by Redstone Flux.
+
+The Programming Table must first be placed near a powered Laser no more than four blocks away (example shown in picture 1). Multiple Lasers can work on the Programming Table to speed up crafting.
+In the upper left slot of the GUI must be placed the one ore more Redstone Boards. The right side will show the possible items that can be crafted. Select the product(s) that are to be crafted. The bar on the right side indicates the progress of the item being crafted. The product is automatically placed in the lower left slot.
+
+The example in picture 2 shows the crafting of a Redstone Board Planter. The raw Redstone Board is placed in the upper left slot and the desired product is selected (marked in red). The tab on the left shows that the crafting of the Redstone Board requires 32,000 RF, of which 17,600 are already processed, and 320 RF/t is the currently energy input.

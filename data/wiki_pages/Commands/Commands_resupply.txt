@@ -1,9 +1,0 @@
-Update the villagers' supply for economic trade. 
-Syntax
-
-resupply
-Result
-Always success. Update villagers' economic trade supply in all loaded chunks. 
-
-
-== History ==

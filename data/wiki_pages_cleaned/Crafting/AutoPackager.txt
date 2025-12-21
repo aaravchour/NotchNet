@@ -1,0 +1,8 @@
+AutoPackager is a mod created by smbarbour. It adds a single block, the AutoPackager. It requires Thermal Expansion 4 to work before version 1.6.0.
+
+The AutoPackager is the sole block added by AutoPackager. The AutoPackager is used to automatically craft items in a 2x2 shape, or if that is not possible, a 3x3 shape. It will automatically input from an inventory on the left of the block, and output to an inventory on the right of the block. It requires 1000 Redstone Flux (RF) each cycle to operate.
+
+This information pertains to an older version of the mod.  
+
+AutoPackager on CurseForge
+AutoPackager on GitHub

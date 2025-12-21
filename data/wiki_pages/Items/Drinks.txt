@@ -1,8 +1,0 @@
-Drinks are a narrow class of consumable items that can be ingested by the player in an extremely similar manner to food. However, drinks are not encountered quite as commonly as food is, and they are not nearly as integral to Survival gameplay. Drinks can generally be distinguished from food by the sounds they make upon consumption, the lack of particles they emit, and the fact that they leave an empty container item in the inventory after consumption. Drinks do not affect hunger or saturation values upon use (with the exception of honey bottles), and do not need those values to be depleted in order to be consumed.
-Drinks are drunk by holding use item while having the drink item selected in the hotbar or in the off hand.
-
-
-== Drinks ==
-
-
-== History ==

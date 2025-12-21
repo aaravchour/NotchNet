@@ -1,0 +1,5 @@
+This page is about the Advanced Crafting Table from BuildCraft. For other uses, see Advanced Crafting Table.
+
+The Advanced Crafting Table, aka the Assembly Worktable, is a machine added by BuildCraft. It allows rapid, automated crafting of a single item provided that the components are in its inventory. It must be powered by a Laser to function.
+
+The Advanced Crafting Table contains a 3x3 grid and an inventory. Set up the recipe in the 3x3 grid and place the components in the table's inventory. When a Laser is powered nearby the table will craft the specified recipe and place the crafted item in its inventory. Most recipes require 5000 RF per crafted item.

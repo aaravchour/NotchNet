@@ -1,0 +1,7 @@
+This page is about the Crafting Station from Better Storage. For other uses, see Crafting Station.
+
+The Crafting Station is a block from BetterStorage. It is an upgraded version of the Vanilla Crafting Table. It has an internal storage of 18, or 27 if including the the crafting area as storage. The internal storage slots will be used automatically if the recipe currently inside the crafting grid requires items that are in them. 
+The Crafting Station has a 3x3 output grid, for custom recipes that require multiple output slots. It is the only block that can properly enchant and repair Cardboard armor and tools. This is done by either placing Cardboard Sheets in the input grid with the desired armors and tools to repair, or doing the equivalent with Enchanted Books rather than Cardboard Sheets.
+If enabled in the configuration file, the Crafting Station can have its resulting items automatically pulled from the bottom of the block, with automation blocks such as hoppers or pipes.
+
+If the Storage Crate is disabled, then the recipe will use a chest instead.

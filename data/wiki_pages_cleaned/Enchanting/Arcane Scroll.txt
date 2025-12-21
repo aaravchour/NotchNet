@@ -1,0 +1,3 @@
+The Arcane Scroll is an item added by Better With Mods. It comes in 30 variants, one for each enchantment and curse in the base game, although the curse variants aren't obtainable yet. The scrolls can be used in the Infernal Enchanter to enchant items. By default most scrolls are obtained by killing certain mobs and the rest are obtained through villager trades. Bosses have a 100% drop chance for scrolls. Looting will also increase chances of getting a scroll.
+
+By default, Arcane Scrolls will be dynamically generated to add other modded enchantments, which can be obtained through Villager trades.

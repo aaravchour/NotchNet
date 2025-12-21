@@ -1,0 +1,8 @@
+This page is about the Crafter from Ender IO. For other uses, see Crafter.
+
+The Crafter is a machine added by Ender IO. It will automatically craft when supplied with power (2,500 Redstone Flux (RF) per crafted item). It can be upgraded with capacitors to increase speed and energy storage. Basic energy storage is 100,000 RF and will draw a maximum of 125 RF/t.
+
+  
+Define the crafting recipe in grid 1 to see a representation of the crafted item in 2. Resources go into 3 and the crafted item outputs will go into 4.
+The redstone torch button controls how the block will respond to redstone. The gear button is the Input/Output setting allowing the player to control whether to pull or push items from all sides.
+The overlapping squares button allows the player control over whether to allow a stack of items or a single item to be placed in the right grid (3).

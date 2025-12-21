@@ -1,0 +1,5 @@
+The Tool Forge is an advanced version of the Tool Station from Tinkers' Construct. It is used to craft advanced tools such as the Excavator and the Hammer.
+
+Expert Mode Recipe(s)
+
+Its GUI is similar to other Tinkers' Construct tool construction machines. Its GUI is shown below. To use it, the player first selects what tool they want to craft and then inserts the required materials, which are listed in the GUI.

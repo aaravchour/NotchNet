@@ -1,0 +1,7 @@
+The Auto-Disenchanter is a machine added by MineFactory Reloaded. It is used to disenchant items at the cost of the item's durability, time and either 48,000 EU or 19,200 MJ. It has a capacity of 4,000 EU or 1,600 MJ although more power is needed to operate the machine. It is useful in retrieving enchantments from nearly broken tools. Enchantments are transferred to a Book for future enchanting.
+
+Main article: Thermal Expansion 3
+
+To use it, 1 or more Books must be placed in the top-right slot and the tool with an enchantment in the top-left slot. After some time, the enchanted Book will be in the bottom-right slot and the disenchanted item will be in the bottom-left slot.
+
+ Auto-Enchanter

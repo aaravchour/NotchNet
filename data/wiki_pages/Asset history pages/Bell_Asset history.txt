@@ -1,7 +1,0 @@
-This page documents an in-depth history of levers.
-
-
-== Assets ==
-
-
-=== Java Edition ===

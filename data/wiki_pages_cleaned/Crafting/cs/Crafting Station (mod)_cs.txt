@@ -1,0 +1,14 @@
+Tento lnek je o modu Crafting Station. Pro jin vznamy, navtivte Crafting Station.
+
+Crafting Station je mod vytvoen uivatelem tfarecnim kter pidv blok Pracovn stanice do hry. Je inspirovn Pracovn stanic z modu Tinkers' Construct.
+
+Pracovn stanice je jedin blok pidan modem Crafting Station. Obsahuje vechny funkce normlnho Pracovnho stolu s pr pdavky.
+
+The recipe is the same as the one from Tinkers' Construct.
+
+The Crafting Station is designed to supplement the traditional Crafting Table with the additional benefits of being able to access a storage block that directly touches a side of the Crafting Station and storing items on Crafting Station close. When accessing a storage block through a Crafting Station, all vanilla storage blocks like Chests, Hoppers, and Furnaces are supported by default, while storage blocks provided by other mods have mixed compatability. The Crafting Station also stores items left in it and does not return them to the player's inventory unless they are crafted or manually removed. Unlike a normal Crafting Table, only one player can craft with a Crafting Station at a time. This means that multiple players can contribute items to a craft or remove items while a fellow player attempts to put them in.
+
+Bugs should be reported on the bug tracker. Notably, opening a Crafting Station when placed next to some storage blocks from popular mods, like the Cache from Thermal Expansion 5, can crash the game. This is due to individual incompatabilities with the mods in question. However, the crash only occurs when the Crafting Station is opened and can be fixed by moving the storage block to another location. Players are recommended to add faulty storage blocks to the mod's blacklist configuration so that they will not be displayed in any Crafting Stations, which prevents the game from crashing even if a blacklisted storage block is directly adjacent to a Crafting Station.
+
+Crafting Station on CurseForge
+Crafting Station on GitHub

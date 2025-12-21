@@ -1,0 +1,4 @@
+The Thundercaller is a sword added by Botania. It uses Mana from a Mana Tablet or any other Mana providing item in the player's inventory to prevent item damage or repair itself, using 60 Mana per point of durability. It deals 7 () points of damage on attack. 
+When a creature is attacked with this sword, a weak chain lightning attack will deal 5 () points of damage to a random monster in an 8 block radius, then jump to a next target in the same range around the previous one, dealing 1 () less point in damage. This is repeated until 4 enemies are damaged.
+
+This weapon is a reference to the World of Warcraft weapon, the Thunderfury, Blessed Blade of the Windseeker.

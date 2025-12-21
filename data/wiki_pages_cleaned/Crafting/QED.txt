@@ -1,0 +1,2 @@
+The QED is a block added by Extra Utilities. It can be powered by Ender-Flux Crystals that are placed within a 9 block radius of the QED. When powered, it can be used to create several blocks and items in Extra Utilities, and can be used for Quantum Entanglement to multiply ores.
+The QED is used to make Retrieval Node (Items), Retrieval Node (Liquids), Transfer Node (Energy), Transfer Node (Hyper Energy), Ender Transmitters, Ender Recievers, Ender Quarry Upgrade Base, Magnum Torch, Ender-Markers, and various ore tripling recipes.

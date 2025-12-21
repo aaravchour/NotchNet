@@ -1,0 +1,7 @@
+The Auto Crafter is a tile entity added by Cyclic. It will automatically craft when supplied with power (150 Forge Energy (FE) per crafted item).
+
+Toggles between requiring a Redstone signal () or always on ().
+Input slots
+Recipe holder
+Output slots
+Shows current Forge Energy stored in the User.

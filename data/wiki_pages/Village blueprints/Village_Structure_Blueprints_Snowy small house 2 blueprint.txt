@@ -1,7 +1,0 @@
-
-==== Blueprint ====
-
-All spruce slabs in layer 4 and 2 lying next to the roof in layer 6 are bottom slabs, while the rests are top slabs.
-
-
-==== Materials ====

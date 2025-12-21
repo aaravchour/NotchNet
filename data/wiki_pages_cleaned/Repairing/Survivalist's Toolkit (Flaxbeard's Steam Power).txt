@@ -1,0 +1,3 @@
+This page is about the Survivalist's Toolkit added by Flaxbeard's Steam Power. For other uses, see Survivalist's Toolkit.
+
+The Survivalist's Toolkit is an item from Flaxbeard's Steam Power. It is a belt Bauble when Baubles is installed and its integration is enabled, otherwise it is a standard item. As a Bauble, it requires being in the belt slot to be enabled, while as an item it requires being on the player's hotbar. When these according requirements are fulfilled, it will prevent the player from mining with tools that will break in the next use.

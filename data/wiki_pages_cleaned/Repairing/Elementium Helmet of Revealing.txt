@@ -1,0 +1,1 @@
+The Elementium Helmet of Revealing is an armor added by Botania. It is an upgraded version of the Elementium Helmet that is capable of showing Thaumcraft Aura Nodes and essentia stored in various devices. It is only craftable if Thaumcraft 4 or Thaumcraft 5 is present.

@@ -1,7 +1,0 @@
-
-==== Blueprint ====
-
-This structure resembles the old Lamp Post seen in pre-1.14 villages, though with stripped oak wood instead of black wool.
-
-
-==== Materials ====

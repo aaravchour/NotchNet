@@ -1,0 +1,14 @@
+The Auto Workbench, previously known as the Autocrafting Table, is a machine added by BuildCraft. It will automatically craft an item once the recipe is inserted and resources are pumped in.
+
+The GUI is similar to a regular Crafting Table. Ingredients can be supplied to the Auto Workbench with a Hopper or a Chute. The crafted products must be pumped out using a Wooden Transport Pipe coupled with a Redstone Engine, or by using BuildCraft's Gate system. Automatic crafting systems can become quite elaborate for complicated recipes.
+
+An automatic crafting system to make an IndustrialCraft 2 Advanced Circuit:
+
+Rubber and a Uninsulated Copper Cables are combined to make Copper Cables.
+The Copper Cables are combined with Redstone and an Iron Plate to make an Electronic Circuit.
+The Electronic Circuit is combined with Redstone, Glowstone, and Lapis Lazuli to make the Advanced Circuit.
+Ingredients can be placed in the chests directly attached to the Auto Workbench. More complicated systems may require other additional ingredients to be piped in instead.
+
+Items pumped in that are not in the recipe will "pop out" of the system and drop on the ground.
+Items pumped in must be the exact item and not variations of that itemi.e., items that share the same OreDict entry cannot be substituted for one another. For example, using Oak Wood Planks as a recipe ingredient will require that specific planks only, not the Birch Wood Planks or Spruce Wood Planks.
+The Auto Workbench also functions as a regular crafting table.

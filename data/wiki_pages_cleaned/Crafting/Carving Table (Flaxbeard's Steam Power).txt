@@ -1,0 +1,4 @@
+This page is about the Carving Table added by Flaxbeard's Steam Power. For other uses, see Carving Table.
+
+The Carving Table is a utility block from Flaxbeard's Steam Power. It is used to cycle a mold through the different types. A mold item can be used on the carving table with the use key, and it will cycle through the moldable items. It can also be used as a solid fuel source.
+There are four types of mold by default: blank, ingot, nugget, and plate. The blank mold is the only one that cannot be used in a Mold block.

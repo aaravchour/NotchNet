@@ -1,0 +1,9 @@
+The Botanical Brewery is a block featured in Botania. It can brew a variety of potions that can be held in both Managlass Vials and Alfglass Flasks, which holds 4 and 6 doses of the potion brewed respectively. It requires Mana bursts supplied by a Mana Spreader to function.
+
+Brewing with the Botanical Brewery requires three elements
+
+A Managlass Vial or a Alfglass Flask
+The reagents of the brew
+Mana
+Items are added to the Brewery by either right clicking on it, or dropping the items directly onto it. 
+To start brewing, the Managlass Vial, or Alfglass Flask is added. Then, if a valid combination of reagents are added to the Brewery, any bound Mana Spreader will start supplying Mana to the Brewery automatically. Once the brew is done, it will drop the potion on the ground.

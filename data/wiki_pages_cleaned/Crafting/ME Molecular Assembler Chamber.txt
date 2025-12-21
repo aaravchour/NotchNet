@@ -1,0 +1,10 @@
+The ME Molecular Assembler Chamber (MAC) is a multiblock that allows automatic crafting with an Applied Energistics network.  By placing ME Encoded Patterns in the structure and connecting it to an existing network, the option to craft items becomes available within any network viewing tool (e.g. the ME Access Terminal)
+
+Construction of the Molecular Assembler requires a combination of ME Assembler Containment Wall, ME Heat Vent, ME Pattern Provider, and ME Crafting CPU blocks.  
+The ME Molecular Assembler Chamber must be a minimum of 3x3x3 block cube.  There is no theoretical limit to size, so long as the structure is no smaller than 3 blocks on any size (i.e. a 3x10x10 would work, but a 1x10x10 would not).
+Corner blocks and wall edges must be ME Assembler Containment Walls.  Center blocks of each wall must be ME Heat Vents.  Internal blocks must contain at least 1 ME Pattern Provider, but the remaining internal blocks may be any combination of ME Pattern Providers and ME Crafting CPUs.
+
+To add crafting recipes you have to encode ME Blank Patterns in the ME Pattern Encoder.  Patterns used in the Molecular Assembler must be possible to craft in a standard crafting table (to craft non-crafting table items, like coal dust or refined iron, see ME Interface).
+The encoded pattern can then be put into the assembler chamber by opening its GUI and placing it in a free slot.
+If you now open a ME Access Terminal that's connected to the assembler chamber you will see that the crafting recipe was added.
+Now you can craft the item by left clicking the symbol and entering the amount you want to craft. If the required resources are not available it will do nothing.

@@ -1,0 +1,98 @@
+The Mana Enchanter is a structure added by Botania. It uses Mana provided with Sparks or Mana Spreaders to enchant equipment with enchantments defined by Enchanted Books dropped nearby, without consuming the books.
+
+The structure is 7113 and requires:
+
+1  Lapis Lazuli Block
+17  Obsidian
+10  Mystical Flowers or any other Botania flowers, including  Glimmering Flowers,  Floating Flowers, generating and functional flowers.
+6  Mana Pylons,  Natura Pylons, or  Gaia Pylons.
+
+The Lexica Botania can be used for anchoring a preview of this structure in the world as a guideline for building.
+Right clicking the Lapis Lazuli Block in the center of the structure with the Wand of the Forest will form the enchanter.
+Breaking any block of the construct will revert the central block back into a Lapis Lazuli block.
+
+Right clicking the Enchanter block with an item will place it on the Enchanter. This is the item that will be enchanted. Items which have already been enchanted or cannot be enchanted (such as Books) cannot be placed on the Enchanter.
+To set the enchantments to apply, drop Enchanted Books onto the Obsidian platform. If a book contains more than one enchantment, only the first one listed will be included. If any enchantments from multiple books are incompatible with one another, only the first book dropped will be applied.
+Once all books have been placed, right clicking the Enchanter with a Wand of the Forest will begin the enchanting process. Upon doing so, a spell circle will appear on the Obsidian ring, the Enchanted Books may be collected, and the Enchanter will begin accepting Mana.
+When the enchanting completes, the spell circle will vanish, and right-clicking the newly enchanted item will remove it from the Enchanter.
+
+The Mana cost of enchanting an item is equal to the sum of the cost of applying each individual enchantment.
+An individual enchantment's cost is calculated as follows (always rounded down to the nearest integer):
+
+  
+    
+      
+        
+          
+          
+            (
+            1312.5
+            
+            (
+            15
+            
+            m
+            i
+            n
+            (
+            15
+            ,
+            W
+            e
+            i
+            g
+            h
+            t
+            )
+            )
+            
+            (
+            3
+            +
+            L
+            e
+            v
+            e
+            
+              l
+              2
+            
+            )
+            
+            (
+            0.9
+            +
+            0.05
+            
+            A
+            m
+            o
+            u
+            n
+            t
+            )
+            
+            T
+            r
+            e
+            a
+            s
+            u
+            r
+            e
+            )
+          
+          
+        
+      
+    
+    {\displaystyle \left \lfloor (1312.5 \times (15 - min(15, Weight)) \times (3 + Level^2) \times (0.9 + 0.05 \times Amount) \times Treasure) \right \rfloor}
+  
+
+where:
+
+Weight is the enchantment weight;
+Level is the enchantment level;
+Treasure is 1.25 for Treasure enchantments, 1 otherwise;
+Amount is the number of enchantments to apply.
+This means that applying multiple enchantments to a single item does make each individual enchantment slightly more expensive.

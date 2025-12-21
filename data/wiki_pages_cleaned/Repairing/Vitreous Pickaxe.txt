@@ -1,0 +1,2 @@
+The Vitreous Pickaxe is a tool added by Botania. It uses Mana from Mana Tablet or any other Mana providing item in the player's inventory to prevent item damage or repair itself, using 160 Mana per point of durability. This tool will place a torch from the player's inventory when right clicked on a surface.
+When Glass of any type is mined with this pickaxe, it will be dropped as if a tool with Silk Touch was used.

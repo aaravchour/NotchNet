@@ -1,7 +1,0 @@
-
-==== Blueprint ====
-
-The spruce slabs in layer 6 and layer 8 are bottom slabs, while the rest in the blueprint are top slabs.
-
-
-==== Materials ====

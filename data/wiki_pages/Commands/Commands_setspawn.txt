@@ -1,8 +1,0 @@
-Sets the current location as the default spawn location for new players.
-The Classic equivalent of /setworldspawn.
-
-Syntax
-setspawn
-
-
-== History ==

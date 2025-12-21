@@ -1,0 +1,14 @@
+Die Automatische Werkbank (eng. Auto Workbench), vorher bekannt als der automatischer Basteltisch (Autocrafting Table), ist eine Maschine hinzugefgt von BuildCraft. Es wird automatisch die Sachen herstellen von denen der Rezept schon eingefgt wurde und das Material dafr reingepackt wurde.
+
+Die grafische Benutzeroberflche ist der normalen Werkbank hnlich. Zutaten knnen zu der Automatischen Werkbank beliefert werden mit einen Trichter oder eine Schtte. Die hergestellten Produkte mssen dann raus gepumpt werden mit einen Holz-Transportrhre gekoppelt an einen Redstone Triebwerk oder beim nutzen eines BuildCraft's Gate-System. Das automatisches Herstellungs-System kann schon sehr aufwndig sein fr komplizierte Rezepte.
+
+Ein automatisches Herstellungs-System fr einen IndustrialCraft 2 Advanced Circuit:
+
+Rubber und Uninsulated Copper Cables werden kombiniert um Copper Cables herzustellen.
+Die Copper Cables werden mit Redstone und Iron Plate kombiniert um einen Electronic Circuit herzustellen.
+Der Electronic Circuit wird mit Redstone, Glowstone und Lapis Lazuli kombiniert um einen Advanced Circuit herzustellen.
+Materialien knnen einfach in die Truhen, die direkt mit der Automatischen Werkbank verbunden sind, gelegt werden. Fr kompliziertere Systeme kann es ntig sein, andere Zutaten mithilfe von Rohren hineinzutransportieren.
+
+Gegenstnde die hineingepumpt werden, aber nicht zum Rezept gehren, werden aus dem System "rausspringen" und auf dem Boden verstreut sein.
+Gegenstnde, die hineingepumpt werden, mssen dem exakten Gegenstand entsprechen und drfen keine Variation dieses sein, d.h. die Gegenstnde die sich die selben OreDict (dt. Erzverzeichnis) teilen knnen sich nicht gegenseitig ersetzen. Zum Beispiel nimmt die Automatische Werkbank, sofern man Eichenholz als Material im Rezept verwendet hat, auch nur dieses Holz an, und nicht beispielsweise Birken- oder Fichtenholz.
+Die Automatische Werkbank funktioniert auch wie die normale Werkbank.

@@ -1,0 +1,4 @@
+This page is about the Bronze Workbench added by GregTech 4. For other uses, see Bronze Workbench.
+
+The Bronze Workbench is a machine added by GregTech 4. As the name suggests, it is an upgraded version of the Crafting Table. 
+The Bronze Workbench has a large GUI, with the left half being used for storage of crafting components and the right half is for crafting.

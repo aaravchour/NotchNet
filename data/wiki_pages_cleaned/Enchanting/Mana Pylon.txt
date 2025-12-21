@@ -1,0 +1,1 @@
+The Mana Pylon is a block added by Botania. It is used to build the Mana Enchanter and the Natura and Gaia Pylons. If used in place of a Bookshelf near an Enchanting Table, it will boost the enchanting level by 16.

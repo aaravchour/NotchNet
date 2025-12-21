@@ -1,0 +1,3 @@
+The Starcaller is a weapon added by Botania. It uses Mana from a Mana Tablet or any other Mana providing item in the player's inventory to prevent item damage or repair itself, using 100 Mana per point of durability. When swung, it has a chance to spawn a missile falling at the targeted block from 24 blocks above at the cost of 120 Mana and 1 durability. The missile deals 5 damage and has a 25% chance to deal double damage.
+
+This weapon is a reference to the Terraria weapon Starfury.

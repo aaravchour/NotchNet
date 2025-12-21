@@ -1,7 +1,0 @@
-The leg is layer by 16 blocks. This can be connect to a bridge and roofs.
-
-
-==== Materials ====
-
-
-==== Blueprint ====

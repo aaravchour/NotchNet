@@ -1,0 +1,13 @@
+The Elementium Leggings are an armor piece added by Botania. They can use Mana from a Mana Tablet or any other Mana providing item in the player's inventory to prevent item damage or repair themselves, using 70 Mana per point of durability. 
+If the player is attacked while wearing this armor piece, there's an 15% chance to spawn a Pixie going after the attacker. The chance stacks additively with other worn armor and accessories.
+If the player is wearing a complete set of Elementium armor, they will gain the Great Fairy's Blessing set bonus:
+
+10% decrease of the Mana cost on all Mana-using tools and rods,
+Pixies spawned by the wearer will inflict a random potion effect for 2 seconds: either Blindness, Wither, Slowness or Weakness.
+Phantom Ink can be applied to this item in the crafting grid to turn it invisible. 
+
+ Elementium Helmet
+ Elementium Chestplate
+ Elementium Boots
+ Elementium Sword
+ Great Fairy Ring

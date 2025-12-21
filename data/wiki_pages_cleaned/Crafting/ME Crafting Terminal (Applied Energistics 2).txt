@@ -1,0 +1,3 @@
+This page is about the ME Crafting Terminal added by Applied Energistics 2. For other uses, see ME Crafting Terminal.
+
+The ME Crafting Terminal is an extended version of the ME Terminal from Applied Energistics 2. It allows access to the items in the connected ME System, and has a built-in Crafting Grid that automatically pulls items out of the System if a recipe is selected via NEI.

@@ -1,0 +1,2 @@
+The Manasteel Axe is a tool added by Botania. It uses Mana from Mana Tablet or any other Mana providing item in the player's inventory to prevent item damage or repair itself, using 60 Mana per point of durability. 
+Right clicking on dirt with the tool will plant a sapling from the player's inventory.

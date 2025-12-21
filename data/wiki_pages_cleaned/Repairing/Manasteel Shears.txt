@@ -1,0 +1,1 @@
+The Manasteel Shears is a tool added by Botania. It uses Mana from Mana Tablet or any other Mana providing item in the player's inventory to prevent item damage or repair itself, using 30 Mana per point of durability. Unlike vanilla Shears, these will trigger tripwire.

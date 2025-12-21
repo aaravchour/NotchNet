@@ -1,7 +1,0 @@
-
-==== Blueprint ====
-
-All oak slabs are bottom slabs.
-
-
-==== Materials ====

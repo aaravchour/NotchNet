@@ -1,0 +1,3 @@
+The Osmotic Enchanter is an enchantment table added by Thaumic Tinkerer. It is similar to a vanilla Enchantment Table except the player is able to choose which enchantment they want. The Osmotic Enchanter needs to be placed close to 6 Obsidian Totem pillars (from 2 to 12 blocks, but size does not affect any technical parts) with a Nitor on top of each pillar. The player also needs a wand that is at least Gold Capped. The Osmotic Enchanter still follows the rules of standard enchanting, meaning that mutually exclusive enchantments cannot be combined (e.g., Fortune and Silk Touch).
+
+This infusion has an instability level of "Dangerous".

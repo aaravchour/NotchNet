@@ -1,0 +1,7 @@
+This page is about the Covalence Dust items from Equivalent Exchange 2. For other uses, see Covalence Dust.
+
+Covalence Dust is a crafting component and material of three tiers added by Equivalent Exchange 2. It is used to repair tools and armor, as well as crafting the Alchemical Chest, Talisman of Repair, Alchemy Bag, Alchemical Tome, and the Divining Rods. Repairing tools is done by shapelessly crafting the dust with the tool.
+
+Green Covalence Dust can be used to repair wooden and stone tools, leather armor, fishing rods, and wooden bows.
+Cyan Covalence Dust can be used to repair iron, gold, bronze, ruby, sapphire, and green sapphire tools and armor, flint and steels, and shears.
+Blue Covalence Dust can be used to repair diamond tools and armor.

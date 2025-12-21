@@ -1,0 +1,5 @@
+This page is about the Pocket Crafting Table added by Factorization. For other uses, see Pocket Crafting Table.
+
+The Pocket Crafting Table is an item added by Factorization. Pressing C (per default) with the item in hand will open the inventory with an added Crafting Table; the right 3x3 slots of the inventory will function as one, with an extra output slot added.
+
+A few shortcuts are available in the inventory, as listed above.

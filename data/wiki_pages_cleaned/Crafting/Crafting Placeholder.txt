@@ -1,0 +1,1 @@
+The Crafting Placeholder is an item added by Botania. It is used with the Crafty Crate to fill empty slots in a recipe. It can also be used to create Crafting Patterns.

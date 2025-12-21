@@ -1,0 +1,3 @@
+The JACB Crafting Table is a block added by Just Another Crafting Bench. It works like the vanilla Crafting Table, except that placed items will stay on the Table when its GUI is closed.
+
+If set in the configuration file, the recipe for the JACB Crafting Table requires a Chest.

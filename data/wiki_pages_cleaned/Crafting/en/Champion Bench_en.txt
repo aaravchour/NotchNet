@@ -1,0 +1,1 @@
+The Champion Bench is a tile entity added by ArmorPlus. It is the upgraded version of the Ulti-Tech Bench. It can currently only be obtained in creative mode. It provides the largest crafting area of all benches but no recipes are known to utilize the full space in the ArmorPlus mod.

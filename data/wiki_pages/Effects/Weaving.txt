@@ -1,8 +1,0 @@
-Weaving is an effect that creates 2-3 cobwebs when a mob with that effect is killed.
-
-
-== Brewing ==
-
-
-== Issues ==
-Issues relating to "Weaving" are maintained on the bug tracker. Report issues there.

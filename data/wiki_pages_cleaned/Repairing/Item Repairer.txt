@@ -1,0 +1,3 @@
+The Item Repairer is a block added by Actually Additions. It will repair a tool at the cost of 1,500 Crystal Flux (CF) per durability point, like the Anvil, but without needing any extra resources besides energy.
+
+The Item Repairer on the online Actually Additions Manual

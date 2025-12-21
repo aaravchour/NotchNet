@@ -1,0 +1,3 @@
+This page is about the Rolling Machine added by Railcraft. For other uses, see Rolling Machine.
+
+The Rolling Machine is a machine from the Railcraft mod. This machine works as an upgraded workbench with its own set of recipes. The Rolling Machine can be automated using any item-transporting system. As of Railcraft version 6.0.0 this block requires 500MJ per operation. It has an internal buffer of 500MJ, and can receive up to 5MJ/t. The energy requirement can be disabled in the configuration file.

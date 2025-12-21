@@ -1,0 +1,14 @@
+This page is about the Buzzsaw added by GregTech 5. For other uses, see Buzzsaw.
+
+The Buzzsaw is a tool added by GregTech 5 for crafting recipes that require a Saw. It is more power efficient than the Chainsaw, but cannot be used to harvest blocks.
+
+The Buzzsaw is made from Stainless Steel components, a battery, a motor, and a Buzzsaw Blade.
+
+The battery may be filled with either Sodium, Cadmium, or Lithium, and must be a Small Battery. The battery may be charged or empty. If it is charged, the resulting tool will be created with the same charge contained in the battery.
+
+The Buzzsaw Blade is crafted with four of the same plates of any tool material. 
+
+The Buzzsaw Blade defines the tool's durability. For a list of tool materials, see Material Properties.
+
+The Buzzsaw can be used in place of a Saw in any crafting recipe that requires one. Crafting with a Buzzsaw consumes EU with a 4% chance of also consuming durability. Using a Buzzsaw in a crafting recipe consumes much less EU than a Chainsaw and is the ideal tool for the task. The Buzzsaw still has a limited lifetime, and will break and disappear when its durability runs out.
+A Buzzsaw with any amount of durability can be placed in a Disassembler to recover some or all of its components.

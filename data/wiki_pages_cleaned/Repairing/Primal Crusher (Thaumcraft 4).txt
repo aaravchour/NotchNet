@@ -1,0 +1,5 @@
+This page is about the Primal Crusher added by Thaumcraft 4. For other uses, see Primal Crusher.
+
+The Primal Crusher is a tool added by Thaumcraft 4. It acts as a shovel and a pickaxe and mines at a radius of 3x3 when mining common blocks such as Dirt, Cobblestone, Gravel, Sand, Sandstone, Netherrack, End Stone and Stone. It also has a chance to drop ore clusters similar to the Pickaxe of the Core. It also repairs itself quickly.
+
+This infusion has an instability level of "High".

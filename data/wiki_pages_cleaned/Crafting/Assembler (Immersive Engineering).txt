@@ -1,0 +1,13 @@
+This page is about the Assembler added by Immersive Engineering. For other uses, see Assembler.
+
+The Assembler is a 3x3x3 multi-block added by Immersive Engineering. It is used to automatically craft items.
+
+The Assembler is relatively simple to make. It uses 9 Iron Sheetmetal, 6 Steel Scaffoldings, 6 Iron Sheetmetal Slabs, 2 Redstone Engineering Blocks, 2 Light Engineering Blocks and 2 Conveyor Belts.
+
+After it is fully arranged, the player must right-click the one of the Conveyor Belts with an Engineer's Hammer, then the multi-block is complete.
+
+Redstone Flux (RF) is required for the Assembler to function. It is input through the very middle-top of the multi-block.
+Recipes can be set inside of the Assembler, as seen to the right. The fluid tanks in the Assembler will automatically fill liquid containers used in recipes, such as Water Buckets.
+The Assembler will automatically craft the set recipes if it has the correct materials. Crafted items will remain into the inventory of the Assembler. If an inventory (such as a Chest or Conveyor Belt (for easy automation)) is connected to the end of the Assembler, the crafted item will move into that inventory. This, however, is not the case if an item is used in another crafting recipe within the Assembler.
+The Assembler automatically detects Ore Dictionary recipes, as in the example.
+The Assembler crafts at a rate of 1 item per second (if properly supplied with RF).

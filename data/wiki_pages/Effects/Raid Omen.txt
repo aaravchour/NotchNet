@@ -1,6 +1,0 @@
-The Raid Omen is a status effect that replaces the Bad Omen effect when a player enters a village.
-The effect lasts 30 seconds. If a player didn't remove it in time, it will trigger a raid. However, this rule isn't always absolute. Sometimes, the timer starts as soon as the player reaches the village's borders.
-
-
-== Issues ==
-Issues relating to "Raid Omen" are maintained on the bug tracker. Report issues there.

@@ -1,0 +1,9 @@
+The Manasteel Helmet is an armor piece added by Botania. It can use Mana from a Mana Tablet or any other Mana providing item in the player's inventory to prevent item damage or repair itself, using 70 Mana per point of durability. 
+If the player is wearing a complete set of Manasteel armor, they will gain the Mana Affinity set bonus, decreasing the Mana cost on all Mana-using tools and rods by 10%.
+Phantom Ink can be applied to this item in the crafting grid to turn it invisible. 
+
+Main article: FTB Infinity Evolved
+
+ Manasteel Chestplate
+ Manasteel Leggings
+ Manasteel Boots

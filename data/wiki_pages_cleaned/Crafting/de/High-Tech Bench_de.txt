@@ -1,0 +1,2 @@
+Die High-Tech Bench ist ein Block aus dem Mod ArmorPlus. Dies ist die upgegradete Version der Werkbank.
+Dieser Block wird verwendet, um die Rstungen, Waffen und Gegenstnde der zweiten Stufe von ArmorPlus herzustellen. Es wird auch zum Herstellen einiger Materialien wie The Ultimate Material verwendet.

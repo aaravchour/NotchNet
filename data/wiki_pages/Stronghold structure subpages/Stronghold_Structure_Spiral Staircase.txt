@@ -1,8 +1,0 @@
-Stronghold Spiral Staircases are naturally generated components of strongholds.  They are composed of stone bricks, mossy stone bricks, cracked stone bricks, and stone slabs, with the possibility of containing wood or iron doors, iron bars and stone buttons.  The type of stone brick used in each position is random along with the possibility of that position being filled with infested stone bricks.  The top and bottom entrances to the staircase can be any combination of four entrance variants.  They can either be completely open, be surrounded by iron bars, have a wooden door entrance, or an iron door entrance with one or two buttons.  When the door variants are present, the doors are flush with the outside face of the staircase on the bottom, and the inside face on the top.  When the iron bars variant is in place, the bars can either be located in the same row that a door would be, or could be located one row closer to the center of the staircase.
-
-
-==== Materials ====
-
-
-==== Blueprint ====
-The entrances and exits for this can vary, so they are split into multiple parts, labeled "Layer 1a" and "Layer 1b." For these purposes, "a" means a wooden door entrance, "b" means an iron door entrance, "c" means an entrance with an iron bar rim, and "d" means a plain entrance.

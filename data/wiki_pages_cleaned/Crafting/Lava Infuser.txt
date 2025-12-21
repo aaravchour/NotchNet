@@ -1,0 +1,1 @@
+The Lava Infuser is a block added by ArmorPlus. It is used to infuse some of the midend game items from the mod and is also used to acquire Infused Lava Crystals.

@@ -1,0 +1,1 @@
+Die Komprimierte Werkbank ist ein Block, der durch Avaritia hinzugefgt wird. Sie kann wie eine normale Werkbank verwendet werden, wird aber hauptschlich zur Erstellung der Doppelt komprimierten Werkbank verwendet.

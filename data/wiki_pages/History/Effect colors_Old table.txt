@@ -1,2 +1,0 @@
-This page displays the potion and effect colors on Java Edition and Bedrock Edition before the Trails & Tales update. This also includes the Legacy Console Edition and New Nintendo 3DS Edition.
-ID's listed are that of the numerical effect IDs, N/A is listed for colors used only for potions, or version exclusives.

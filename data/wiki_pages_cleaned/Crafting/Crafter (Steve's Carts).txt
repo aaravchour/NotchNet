@@ -1,0 +1,7 @@
+This page is about the Crafter from Steve's Carts. For other uses, see Crafter.
+
+The Crafter module is an addon module for minecarts in Steve's Carts that can be used to automatically craft specific items with the resources in its storage modules.
+
+The GUI of the crafter allows you to input ghost items in a crafting grid similar to a Crafting Table. You can remove ghost items by clicking on them.
+When a valid recipe has been entered the product will be shown in the output slot, just like in a normal Crafting Table.
+Every so often the Crafter will try to craft that recipe. If it succeeds, it will put the product in a storage module. If it doesn't succeed, it doesn't do anything.

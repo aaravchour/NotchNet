@@ -1,0 +1,1 @@
+The Crafty Turtle is a block added by ComputerCraft, extending the functionality of the Turtle. It allows the turtle to craft using items placed in its inventory.

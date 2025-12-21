@@ -1,1 +1,0 @@
-This works best for a more compact clock. It will work for a slow or fast repeat rate, depending on how you want it.

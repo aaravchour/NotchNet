@@ -1,0 +1,1 @@
+La Table de Craft Compresse est un block ajout par Avaritia. Il peut tre utilis comme une Crafting Table normale, mais il est principalement utilis pour crer la Double Compressed Crafting Table.

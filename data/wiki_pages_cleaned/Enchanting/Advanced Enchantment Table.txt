@@ -1,0 +1,3 @@
+The Advanced Enchantment Table is a block from Enchanting Plus. It is an upgrade to the Enchantment Table which allows for the selection of enchantments, rather than random enchantments. Through it is possible to obtain fully enchanted items, it requires Bookshelves to get higher level enchantments. It can also repair enchanted items using Experience Points (XP), and upgrade enchantments on enchanted items without needing an Enchanted Book. Enchantments can also be removed from enchanted items, but only by the same player that added them.
+
+It can also be obtained by right-clicking an Enchantment Table with a Table Upgrade.

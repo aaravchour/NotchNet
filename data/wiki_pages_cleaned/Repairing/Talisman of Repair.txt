@@ -1,0 +1,3 @@
+The Talisman of Repair is an item from Equivalent Exchange 2. It is used to repair tools and armors. When in a player's inventory, if there is Covalence Dust (of the relevant tier, see Dust tiers) in said inventory, it will repair the tool or armor right before it breaks.
+It can also be placed in an Alchemical Chest or Bag to repair tools and armor without the need for Covalence Dust. While in one of these devices, it will repair the tools one damage point per second. 
+It can be used in a DM Pedestal to repair items in the player's inventory if they are within the pedestal's range.

@@ -1,0 +1,4 @@
+This information pertains to an older version of the mod.  This item was removed in Backpacks version 3.0.0.
+
+The Workbench Backpack is an item from the Backpacks mod. This item is used as a portable crafting table. Unlike most backpacks from the Backpacks mod, it does not have an intended storage function. The Big Workbench Backpack, however, does have an intended storage function. The small Workbench Backpack, when used, will open a 3x3 crafting grid, much like the Crafting Table. When the GUI is closed, the items inside of it remain. 
+This item was removed in version 3.0.0 of the Backpacks mod.

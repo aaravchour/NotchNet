@@ -1,0 +1,9 @@
+The Terra Shatterer is a tool added by Botania.  It uses Mana from Mana Tablet or any other Mana providing item in the player's inventory to prevent item damage or repair itself, using 100 Mana per point of durability.  
+The pickaxe has several different ranks, ranging from D, C, B, A, S and SS. To upgrade from one rank to another, the tool must be dropped onto a Mana Pool to allow it to absorb Mana, the more Mana it absorbs, the higher the rank it will be. According to the Lexica Botania, the Mana required to advance from rank to rank increases tenfold for each rank. 
+Each rank features different strength of its active ability, of which is activated with a right click. While the tool is active, it enables it to break blocks in an extended area. If the player is wearing the Ring of Thor, this area will be extended further. The table below describes each rank, mana required to reach them and their active ability strength. 
+
+If an active Stone of Temperance is present in the player's inventory, the mined area of an active pickaxe will be limited to 3x3 (3x3x3 with the ring equipped).
+Leaving the pickaxe active will consume its stored Mana passively when not using it, at a rate of 1 per tick or 20 per second. The pickaxe will not despawn when dropped onto the ground. 
+If combined with an Elementium Pickaxe in the crafting grid, it will gain its ability of not dropping mined Cobblestone, Netherrack, Dirt, Sand and Gravel. Andesite, Diorite, Granite and Basalt will be dropped only if the player is sneaking.
+
+This recipe will preserve Mana stored in the tablet.

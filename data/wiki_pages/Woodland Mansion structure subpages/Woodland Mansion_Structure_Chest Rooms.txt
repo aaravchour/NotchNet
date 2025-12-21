@@ -1,9 +1,0 @@
-There are two sizes of chest rooms. None of the chests have loot.
-One vindicator spawns in each room.
-
-Small Chest Room (1x2_a9)
-The oak slabs on layers 3, 5, and 7 are upside down.
-
-Large Chest Room (2x2_a2)
-All of the flower pots have blue orchids in them.
-All of the oak slabs are upside down, except for the ones in layer 1.

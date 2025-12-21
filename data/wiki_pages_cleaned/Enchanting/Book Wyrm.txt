@@ -1,0 +1,18 @@
+The Book Wyrm is a neutral creatures added by Defiled Lands. It spawns inside defiled biomes where it replaces passive animals (Pigs, Cows, etc.). Adult Book Wyrms will retaliate when any nearby Book Wyrm (including themselves) is attacked, while babies will run away.
+When killed, Book Wyrms will drop 0-2 Raw Book Wyrm and 0-2 Book Wyrm Scale. If a Book Wyrm was on fire when it died, then the Raw Book Wyrm will be cooked.
+
+Book Wyrms can be fed Enchanted Books, which they will slowly digest for their "level value". This value is equal to the minimum amount of levels the player has to spend to get this specific enchantment in an Enchanting Table, summed for each enchantment on the Enchanted Book. These can range from 1 (Efficiency I, Power I and Protection I among others) to 45 (Sharpness V) without any other mod adding enchantments.
+Once a Book Wyrm has digested enough "level value", it will consume it to create a brand new Enchanted Book. This new Book can only have a single enchantment, unlike books enchanted at an Enchanting Table or found in dungeons.
+
+Book Wyrms can be bred using Foul Candy. However, unlike vanilla animals, Book Wyrms have several characteristics that can be passed and improved from generation to generation, contributing to improving their Enchanted Book recycling.
+The characteristics of a given Book Wyrm can be determined by using a Book Wyrm Analyzer on it.
+
+Digesting time is the time, displayed in ticks, that the Book Wyrm needs to digest 1 "level value." The lower the value the better. It can range between 160 ticks and 240 ticks for wild ones, but can be improved through breeding all the way down to 1 tick. For example, a Book Wyrm with a digesting time of 200 ticks will take 3000 ticks to fully digest a Fortune I Enchanted Book (worth 15 "level value").
+
+This is the amount of "level value" the Book Wyrm needs to digest before making a new Enchanted Book, as well as with how many levels will it enchant it. This ranges between 3 and 6 for wild ones, but can be improved up to 30 through breeding.
+
+Wild Book Wyrms have a 1% chance of having a golden hide. Such Book Wyrms will drop Golden Book Wyrm Scales instead of the standard Book Wyrm Scales as well as being able to enchant recycled Enchanted Books with treasure enchantments (enchantments which cannot be obtained through an Enchanting Table), such as Mending.
+Breeding 2 non-golden Book Wyrms together has a 1% chance of giving a golden offspring, just like wild ones. This can be improved to 4% by having one of the parents be golden, and up to 10% by having both parents be golden.
+
+The name "Book Wyrm" is a portmanteau for "bookworm", an insect that eats through books, and "wyrm," (a kind of mythological sea serpent).
+The name also comes from a card of the same name from the video game Hearthstone.

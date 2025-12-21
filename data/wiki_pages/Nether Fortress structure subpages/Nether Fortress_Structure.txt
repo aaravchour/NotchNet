@@ -1,3 +1,0 @@
-
-== Blueprints ==
-In the following blueprints, "Layer 0" means that this is level with the path(s) that connect them. Negative numbers indicate that they are below the path. The bottom-most layer is copied all the way to the surface.

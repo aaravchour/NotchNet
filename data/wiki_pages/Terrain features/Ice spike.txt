@@ -1,4 +1,4 @@
-Ice spikes are common features made of packed ice. Ice spikes only generate in the ice spikes biome.
+Ice spikes are common features made of packed ice. They naturally generate only in the ice spikes biome.
 
 
 == Generation ==

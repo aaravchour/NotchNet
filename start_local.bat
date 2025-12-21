@@ -64,12 +64,16 @@ if "%CLOUD_MODE%"=="true" (
 )
 set LLM_MODEL=!USER_MODEL!
 
-:: 8. Check if Model is pulled
-echo 🔍 Checking if model '%LLM_MODEL%' is available in Ollama...
-ollama list | findstr /R /C:"%LLM_MODEL% " >nul
-if %errorlevel% neq 0 (
-    echo ⬇️ Model '%LLM_MODEL%' not found. Pulling it now... (This might take a while)
-    ollama pull "%LLM_MODEL%"
+:: 8. Check if Models are pulled
+echo 🔍 Checking for required models in Ollama...
+for %%M in ("%LLM_MODEL%" "mxbai-embed-large") do (
+    ollama list | findstr /R /C:"%%~M " >nul
+    if %errorlevel% neq 0 (
+        echo ⬇️ Model '%%~M' not found. Pulling it now... (This might take a while)
+        ollama pull "%%~M"
+    else (
+        echo ✅ Model '%%~M' is ready.
+    )
 )
 
 :: 9. Check for Index

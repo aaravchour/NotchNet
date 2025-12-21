@@ -38,6 +38,9 @@ It is possible for an igloo to generate on a cliff or other incline, causing its
 
 == Gallery ==
 
+
+=== Screenshots ===
+
 		
 			
 			
@@ -112,7 +115,7 @@ It is possible for an igloo to generate on a cliff or other incline, causing its
 		
 
 
-=== Odd generation ===
+==== Odd generation ====
 
 		
 			
@@ -134,6 +137,14 @@ It is possible for an igloo to generate on a cliff or other incline, causing its
 			
 			
 		
+		
+			
+			
+		
+
+
+=== In other media ===
+
 		
 			
 			

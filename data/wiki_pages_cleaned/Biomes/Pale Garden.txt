@@ -1,9 +1,9 @@
-The Pale Garden is a rare forest biome in which its main features are the Creaking and the pale oak trees, which generate exclusively in this biome. This biome is also a dark oak variant biome.
+The Pale Garden is a rare forest biome in which its main features are the creaking and the pale oak trees, which generate exclusively in this biome. This biome is also a dark oak variant biome.
 
 The Pale Garden typically generates inside of the dark forest (meaning the dark forest typically surrounds this biome), and the biggest pale gardens have been found to be about 1,000 to 2,000 blocks in size.
-This biome consists of pale oak trees, a similar Dark oak Tree variant, but with Pale oak leaves, pale hanging moss and a thick pale oak trunk. This pale oak wood can be crafted into pale oak planks, pale oak doors, pale oak boats, etc.
+This biome consists of pale oak trees, a similar Dark oak Tree variant, but with pale oak leaves, pale hanging moss and a thick pale oak trunk. This pale oak wood can be crafted into pale oak planks, pale oak doors, pale oak boats, etc.
 This biome also accommodates eyeblossoms, which, during the day, appears budded, while during the night, blooms into a wide flower with four petals and a bright, glowing orange inside. These eyeblossoms naturally generate in patches throughout the biome.
-This biome is the only place to find a new hostile mob, the Creaking, which only moves/attacks when not being looked at directly by the player. If the player is looking at this mob, it will stand dormant. The creaking can also not be directly damaged by the player, but if hit, will reveal a trail of grey and orange particles leading to the creaking heart which is found within the pale oak trees, confined to the Pale Garden biome. When the creaking heart is destroyed, the creaking will disintegrate and despawn.
+This biome is the only place to find a new hostile mob, the creaking, which only moves/attacks when not being looked at directly by the player. If the player is looking at this mob, it will stand dormant. The creaking can also not be directly damaged by the player, but if hit, will reveal a trail of grey and orange particles leading to the creaking heart which is found within the pale oak trees, confined to the Pale Garden biome. When the creaking heart is destroyed, the creaking will disintegrate and despawn.
 
 Java Edition:
 

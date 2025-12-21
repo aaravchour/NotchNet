@@ -6,7 +6,7 @@ Hanging mangrove propagules generate under leaf blocks of mangrove trees that sp
 
 Applying bone meal to a block of mangrove leaves with a space underneath produces a hanging mangrove propagule with age=0. 
 
-In Java Edition, a mangrove propagule is sold by the wandering trader for 5 emeralds.
+A mangrove propagule is sold by the wandering trader for 5 emeralds.
 
 A hanging mangrove propagule cannot grow into a tree.
 Like saplings, mangrove propagules can grow only if a player is within a certain radius, even in loaded chunks. 

@@ -12,6 +12,7 @@ Upon world generation, all otherwise empty spaces are occupied by air. In Java E
 
 Air shares some properties with non-solid blocks, including allowing the player or mob to move within that space without suffocating, and also to catch their breath if they are drowning in water.
 Air can be visualized with the use of structure blocks in save mode. With "Show invisible blocks" enabled, the air is represented as small blue cubes. All air types are displayed identically as blue cubes.
+Air can be used to clearing blocks with the /fill command, an example is /fill ~-5 ~-5 ~-5 ~5 ~5 ~5 minecraft:air (clears a 11x11x11 cube of space centered on what executed the command.).
 Cave air and void air have no special properties; they function the same as normal air.
 
 

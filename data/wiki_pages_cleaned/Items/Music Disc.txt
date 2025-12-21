@@ -1,4 +1,4 @@
-Music discs are a set of 19 items that can be played in jukeboxes.
+Music discs are a set of 21 musical records that can be played in jukeboxes.
 
 Disc 5 is the only disc that can be crafted, unlike all other discs. This disc can be crafted with its fragments.
 
@@ -11,11 +11,11 @@ There are three loot locations in order to obtain the three new music discs.
 Creator (Music Box) can be found in Decorated Pots. Precipice can be found via unlocking Trial Vaults. Creator can be found via unlocking Ominous Vaults.
 
 Music discs resemble older 78-rpm phonograph records from the early 20th century, which were often played in jukeboxes from that era.
-Although most of C418's music discs and Lena Raine's "otherside" are gray with small multicolored centers, "Disc 11" is a broken disc, with cracks and small chunks poking out. "Disc 5", however, has a bioluminescent blue outer ring, which is reminiscent of sculk blocks.
+Although most of C418's music discs and Lena Raine's "otherside" are gray with small multicolored centers, "Disc 11" is a broken disc, with cracks and small chunks poking out. "Disc 5", however, features a bioluminescent blue outer ring, reminiscent of sculk blocks.
 "Pigstep" is a red netherrack disc with a gold indentation centre. "Relic" is a brick red disc with a pale sky blue indentation centre.
-Both "Creator" and "Creator (Music Box)" music discs seem to be made of copper, with small gold indentation centres, whereas "Precipice" seems to be made of tuff, with a ring of copper (different oxidation stages of copper are seen on the disc).
-In Java Edition 1.21.6, the "Tears" music disc is a contrasting white which is slightly reminiscent of ghast tears.
-In Java Edition 1.21.7, the Lava Chicken music disc is a mix of red and white with red being on the sides and white in the middle.
+Both "Creator" and "Creator (Music Box)" music discs appear to be made of copper, with small gold indentation centres, whereas "Precipice" seems to be made of tuff, featuring a ring of copper (different oxidation stages of copper are visible on the disc).
+The "Tears" music disc is a contrasting white which is slightly reminiscent of ghast tears.
+The Lava Chicken music disc features a design that combines red and white, with the red color dominating the sides and the white color occupying the centre.
 
 Music discs can be played on a jukebox by holding the disc and right-clicking on the jukebox.
 The in-game music disc tracks are all monaural recordings. Tracks released for listening outside of the game are in stereo.

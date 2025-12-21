@@ -89,6 +89,9 @@ Ghasts can spawn in the treasure room if the room is in the correct biome, leadi
 
 == Gallery ==
 
+
+=== Screenshotes ===
+
 		
 			
 			
@@ -145,6 +148,14 @@ Ghasts can spawn in the treasure room if the room is in the correct biome, leadi
 			
 			
 		
+		
+			
+			
+		
+
+
+=== In other media ===
+
 		
 			
 			

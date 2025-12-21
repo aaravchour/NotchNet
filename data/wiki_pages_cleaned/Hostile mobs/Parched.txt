@@ -1,0 +1,48 @@
+A parched is a variant of a skeleton that spawns in deserts. They function similarly to skeletons, except they do not burn in sunlight and shoot Weakness tipped arrows.
+
+Parcheds spawn at a light level of 0 in the desert, mostly replacing skeletons in these biomes.
+
+Upon death, parched may drop:
+
+Bones
+Arrows
+Arrows of Weakness
+Damaged bows.
+Unlike regular skeletons, parched do not drop their head if killed by a charged creeper explosion.
+
+Parched behave very similarly to skeletons. They will attack nearby players by shooting arrows tipped with weakness at them. However, like the bogged, they are much slower to reload their bows, taking 3.5 seconds rather than 2.0, and also have 4 less health.
+Parched seek out any nearby turtle eggs and trample them.
+Parched can pick up armor pieces if the game rule mobGriefing is set to true, which will prevent them from despawning.
+Like bogged, parched take damage from freezing in powder snow.
+
+Like any undead mobs:
+
+Are damaged by Instant Health and healed by Instant Damage;
+Are not affected by Regeneration and Poison;
+Take extra damage from Smite enchantment.
+Are not targeted by the wither.
+Causes an armadillo to hide in its shell.
+Since parched spawn in desert, they do not burn in sunlight.
+
+Like husks, parched appear in a dark-muddy tan color, with pieces of parchment or sandy clothing wrapped around their skeletal body and head. Their eyes appear sandy yellow.
+
+Parcheds drop 5 and an additional 13 per naturally-spawned equipment.
+
+Java Edition:
+
+Bedrock Edition:
+
+Parched have entity data associated with them that contains various properties.
+Java Edition:
+
+Parched/ED
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+Issues relating to "Parched" are maintained on the bug tracker. Report issues there.
+
+Skeleton
+Wither Skeleton
+Stray
+Bogged

@@ -1,4 +1,4 @@
-Tuff is an ornamental rock block formed from volcanic ash, occurring in underground ore blobs below Y=16.
+Tuff is a decorative rocky block that generates underground, usually in ore blobs below Y=16. This can be used to make tuff variants blocks and bricks.
 
 
 == Obtaining ==

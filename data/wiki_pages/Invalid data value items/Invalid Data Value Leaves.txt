@@ -1,4 +1,4 @@
-Invalid data value leaves are item forms of the primary leaves block with damage values outside of the usual range which leaves can usually be obtained in.
+Invalid data value leaves are unobtainable item forms of the primary leaves block with damage values outside of the usual range which leaves can usually be obtained in.
 
 
 == Obtaining ==
@@ -55,3 +55,5 @@ Invalid Data Value Leaves at the Minecraft Discontinued Features wiki
 
 === Videos ===
 A video detailing how each of the twelve obtainable invalid data value variants of leaves can be obtained
+
+Unobtainable in Mounts of Mayhem

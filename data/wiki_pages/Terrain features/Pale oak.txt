@@ -1,4 +1,4 @@
-A pale oak tree is a rare variant of the dark oak tree. They are commonly found in the pale garden biome.
+A pale oak tree is a "pale" variant of the dark oak tree. They are commonly found in the pale garden biomes.
 
 
 == Structure ==
@@ -31,6 +31,7 @@ Podzol
 Mycelium
 Rooted Dirt
 Moss Block
+Pale Moss Block
 Farmland
 Mud
 Muddy Mangrove Roots

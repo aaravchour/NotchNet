@@ -51,6 +51,7 @@ Recovering from a stall is done by readjusting to any safe pitch as quickly as t
 Firework rockets can be used for propulsion during flight by placing it in either hand and using. Using a firework rocket while gliding quickly maximizes the player's speed for a time similar to the rocket's flight duration.
 If the rocket is equipped with firework stars, it explodes at the end of its flight, inflicting damage based on the number of stars.
 It is possible to gain altitude during powered flight. This makes it possible to glide for extreme distances and had been used extensively by Far Lands/world border challenges.
+Riptide tridents can be used to “jump-start” a elytra. If in rain, using a riptide 3 trident can speed you up to 110 blocks per second, far surpassing even flight duration 3 rockets.  It is recommended to use the trident to start your flight, as it can save rockets.
 
 
 === Durability and repair ===

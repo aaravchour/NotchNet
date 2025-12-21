@@ -11,8 +11,9 @@ In Bedrock Edition, there is no in-game classification for these mobs.
 
 
 == Trivia ==
-Corals and sea pickles instantly die if they are out of water for too long, similar to the the aquatic mobs.
+Corals and sea pickles instantly die if they are out of water for too long, similar to the aquatic mobs.
 Frogs are not considered an aquatic mob, while tadpoles are. Despite this, frogs will not drown in water.
+Being an undead mob, zombie nautiluses burn when moved out of the water during the day.
 
 
 == Gallery ==

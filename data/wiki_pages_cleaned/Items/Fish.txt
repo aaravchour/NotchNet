@@ -6,7 +6,7 @@ Cod
 Salmon
 Pufferfish
 Tropical Fish, comes in many color and pattern varieties.
-In addition, there are other fish-like mobs that have different characteristics from fish: Axolotl, Guardian, and Elder Guardian.
+In addition, there are other fish-like mobs that have different characteristics from fish:  Guardian, and Elder Guardian.
 
 A live fish can be captured by using a water bucket on a fish, to obtain a bucket of fish, which is the only way to obtain the live mob in item form. Using the bucket of fish on a water source block transfers the fish from the bucket to the body of water. A water bucket may also be used on axolotls in this manner.
 

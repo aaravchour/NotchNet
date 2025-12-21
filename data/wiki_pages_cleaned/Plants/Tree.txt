@@ -18,7 +18,7 @@ Once a tree has passed a light check and chosen size to attempt, it checks if th
 Bone meal, when used on a sapling, has a chance of forcing it to grow, so long as all of the normal checks (light, space, dirt, etc.) have passed. It does not guarantee growth, but forces an attempt to grow.
 
 All saplings grow normally in the Nether and in the End, although they must be planted in dirt transported from the Overworld and provided with sufficient light and space. Leaf blocks in the Nether have the same color as if they were placed in a desert biome. In the End, they are a dull bluish-green, as in the windswept hills biome.
-In order to grow a 22 tree (be it spruce, jungle or dark oak), four saplings must be placed adjacent to each other in a square. For growth to succeed, there must be no blocks adjacent (even diagonally) to the north-western side up to the final height of the tree. The bone meal can be used on any of the saplings. The largest mega jungle trees, mega spruces, and mega pines reach 31 blocks tall. Dark oaks are typically 68 blocks tall.
+In order to grow a 22 tree (be it spruce, jungle or dark oak), four saplings must be placed adjacent to each other in a square. For growth to succeed, there must be no blocks adjacent (even diagonally) to the north-western side up to the final height of the tree. The bone meal can be used on any of the saplings. The largest mega jungle trees, mega spruces, and mega pines reach 31 blocks tall. Dark oaks are typically 67 blocks tall.
 Leaves and logs removed from a tree do not grow back over time.
 When a sapling on a grass block or mycelium grows into a tree, the grass block or mycelium is instantly converted to dirt.
 

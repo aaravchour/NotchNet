@@ -17,7 +17,7 @@ If the block is leaves and decays.
 
 Most solid blocks are 1 meter high (3.28084... feet or 1250381 feet), but several blocks have non-standard block heights, such as slabs.
 A player can automatically step up from a lower to a higher height if the difference is at most 0.6 (35) of a block or 1.9685... feet (250127 feet).
-A player can automatically (when auto-jump is on) or manually (by hitting the jump keybind) step up from a lower to a higher height if the difference is at most 1  block or 3.28084... feet (1250381 feet)
+A player can automatically (when auto-jump is on) or manually (by hitting the jump keybind) step up from a lower to a higher height if the difference is at most 1  block or 3.28084... feet (1250381 feet).
 
 The textures on the faces of blocks are 1616 pixels. Most blocks are proportionately one cubic meter by default, but their shape can be changed using models.
 Most blocks have static textures, but these blocks are animated: water, lava, nether portal, end portal, end gateway, prismarine (slab; stairs; wall), sea lantern, magma block, seagrass, kelp, fire,  lantern, lit campfire and their soul variants, lit blast furnace, heat block, stems, hyphae, lit smoker, stonecutter, sculk, sculk shrieker, sculk sensor, calibrated sculk sensor, sculk vein, and command block.

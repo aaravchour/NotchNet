@@ -1,5 +1,5 @@
 This article does not include block items, which you can find a list of here.
-An item is an object that exists only within the player's inventory and hands, or displayed in item frames, glow item frames, or armor stands. As of 1.20, there are a total of 1,643 items in the game.
+An item is an object that exists only within the player's inventory and hands, or displayed in item frames, glow item frames, or armor stands. As of 1.20, there are a total of 1,642 items in the game.
 
 Some items, when used, place a block (Item block) or entity (minecart, spawn eggs, etc.) version of themselves into the game world. Put simply, they are an item when in the inventory, and a block when placed. For example, boats turn into an entity when placed, and beds turn into a group of blocks when placed. When selected in the hotbar, items briefly display their names above the HUD.
 The only method by which an item can be properly displayed within the game environment is to place it into an item frame.
@@ -12,7 +12,7 @@ These items, when highlighted in a player's hotbar (a.k.a "held"), held in the o
 
 The player cannot interact with or directly use these items; however, they are used for trading, brewing, enchanting, or crafting ingredients for other items that do have direct uses. The exception is clocks, which are not used in any recipes but serve an informative function.
 
-Spawn eggs spawn the entity inside them. They cannot be obtained in Survival mode.
+Spawn eggs spawn the entity inside them. They cannot be obtained normally in Survival mode.
 
 These items can be accessed only in Minecraft Education. The spawn agent, portfolio, and camera are obtainable through Creative mode and the /give command. The Garbage item is only obtainable through unknown Lab Table recipes or via inventory editing.
 

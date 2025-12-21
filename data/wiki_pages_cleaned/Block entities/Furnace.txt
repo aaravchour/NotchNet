@@ -5,7 +5,7 @@ Furnaces can be found in plains, desert, and some savanna village weaponsmiths. 
 A furnace can be mined using any pickaxe. A furnace will also drop all of its contents when broken, including XP from smelting items that were extracted by hoppers.
 In Java Edition, a furnace mined without a pickaxe drops nothing. In Bedrock Edition, a furnace drops itself when mined by hand or with any tool.
 
-The lit furnace can be obtained in Java Edition only with commands such as /give @s minecraft:furnace{BlockStateTag:{lit:"true"}}, although it does not appear lit in the inventory. In Bedrock Edition, the lit furnace block can be obtained only by inventory editing. It always stays lit, despite containing no items.
+The lit furnace can be obtained in Java Edition only with commands such as /give @s furnace[block_state={lit:"true"}], although it does not appear lit in the inventory. In Bedrock Edition, the lit furnace block can be obtained only by inventory editing. It always stays lit, despite containing no items.
 
 Furnaces cannot be pushed by pistons in Java Edition.
 
@@ -16,7 +16,7 @@ Furnaces emit a light level of 13 when active, as well as smoke and flame partic
 
 By default, the GUI of a furnace is labeled "Furnace", but this name can be customized by naming it in an anvil before placing it, or by changing the CustomName tag using the /data command.
 
-In Java Edition, a furnace can be "locked" by setting its Lock tag using the /data command. If a furnace's Lock tag is not blank, the furnace cannot be opened unless the player is holding an item with the same name as the Lock tag's text. For example, to lock a furnace at (0,64,0) so that the furnace cannot be opened unless the player is holding an item named "Furnace Key", use /data merge block 0 64 0 {Lock:"Furnace Key"}.
+In Java Edition, a furnace can be "locked" by setting its lock tag using the /data command. If a furnace's lock tag is not blank, the furnace cannot be opened unless the player is holding an item with the same name as the lock tag's text. For example, to lock a furnace at (0,64,0) so that the furnace cannot be opened unless the player is holding an item named "Furnace Key", use /data merge block 0 64 0 {lock:{components:{"minecraft:custom_name":"Furnace Key"}}}.
 
 Furnace can be placed under note blocks to produce "bass drum" sounds.
 

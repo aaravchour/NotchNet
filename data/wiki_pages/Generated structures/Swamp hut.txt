@@ -35,6 +35,9 @@ It is possible for swamp huts to generate on top of one another.
 
 == Gallery ==
 
+
+=== Screenshots ===
+
 		
 			
 			
@@ -63,6 +66,14 @@ It is possible for swamp huts to generate on top of one another.
 			
 			
 		
+		
+			
+			
+		
+
+
+=== In other media ===
+
 		
 			
 			

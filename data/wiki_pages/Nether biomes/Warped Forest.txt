@@ -48,6 +48,9 @@ The warped forest biome is one of the first biomes that doesn't have its own Min
 
 == Gallery ==
 
+
+=== Screenshots ===
+
 		
 			
 			
@@ -112,6 +115,14 @@ The warped forest biome is one of the first biomes that doesn't have its own Min
 			
 			
 		
+		
+			
+			
+		
+
+
+=== In other media ===
+
 		
 			
 			

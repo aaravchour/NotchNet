@@ -119,7 +119,10 @@ When generating in a buffet world, many rooms lack the outer wall layer, causing
 == Gallery ==
 
 
-=== Overview ===
+=== Screenshots ===
+
+
+==== Overview ====
 
 		
 			
@@ -171,7 +174,7 @@ When generating in a buffet world, many rooms lack the outer wall layer, causing
 		
 
 
-=== Rooms ===
+==== Rooms ====
 
 		
 			
@@ -215,7 +218,7 @@ When generating in a buffet world, many rooms lack the outer wall layer, causing
 		
 
 
-=== Odd generation ===
+==== Odd generation ====
 
 		
 			
@@ -347,7 +350,7 @@ When generating in a buffet world, many rooms lack the outer wall layer, causing
 		
 
 
-=== Other ===
+==== Other ====
 
 		
 			
@@ -373,6 +376,14 @@ When generating in a buffet world, many rooms lack the outer wall layer, causing
 			
 			
 		
+		
+			
+			
+		
+
+
+=== In other media ===
+
 		
 			
 			

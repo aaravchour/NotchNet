@@ -18,7 +18,7 @@ In Java Edition, a furnace mined without a pickaxe drops nothing. In Bedrock Edi
 
 === Crafting ===
 
-The lit furnace can be obtained in Java Edition only with commands such as /give @s minecraft:furnace{BlockStateTag:{lit:"true"}}, although it does not appear lit in the inventory. In Bedrock Edition, the lit furnace block can be obtained only by inventory editing. It always stays lit, despite containing no items.
+The lit furnace can be obtained in Java Edition only with commands such as /give @s furnace[block_state={lit:"true"}], although it does not appear lit in the inventory. In Bedrock Edition, the lit furnace block can be obtained only by inventory editing. It always stays lit, despite containing no items.
 
 
 == Usage ==
@@ -44,7 +44,7 @@ By default, the GUI of a furnace is labeled "Furnace", but this name can be cust
 
 
 === Lock ===
-In Java Edition, a furnace can be "locked" by setting its Lock tag using the /data command. If a furnace's Lock tag is not blank, the furnace cannot be opened unless the player is holding an item with the same name as the Lock tag's text. For example, to lock a furnace at (0,64,0) so that the furnace cannot be opened unless the player is holding an item named "Furnace Key", use /data merge block 0 64 0 {Lock:"Furnace Key"}.
+In Java Edition, a furnace can be "locked" by setting its lock tag using the /data command. If a furnace's lock tag is not blank, the furnace cannot be opened unless the player is holding an item with the same name as the lock tag's text. For example, to lock a furnace at (0,64,0) so that the furnace cannot be opened unless the player is holding an item named "Furnace Key", use /data merge block 0 64 0 {lock:{components:{"minecraft:custom_name":"Furnace Key"}}}.
 
 
 === Note Blocks ===

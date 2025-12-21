@@ -65,6 +65,10 @@ Java Edition:
 Issues relating to "Mangrove Roots" are maintained on the bug tracker. Report issues there.
 
 
+== Trivia ==
+Aquatic mobs can be placed inside waterlogged mangrove roots.
+
+
 == Gallery ==
 
 		

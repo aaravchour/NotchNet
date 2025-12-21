@@ -5,6 +5,7 @@ An Easter egg is an intentional hidden message, inside joke, or feature in a wor
 
 
 === Halloween ===
+                                                                           
 Between October 20 and November 3, bats can spawn at a light level of 6 or less instead of the normal light level 3 or less.
 On October 31, zombies, zombie villagers, husks, drowned, skeletons, strays, zombified piglins, and wither skeletons may sometimes wear carved pumpkins or jack o'lanterns on their heads. These mobs would drop these blocks if killed using a tool enchanted with Looting. This feature was added in Java Edition 1.4.2 for Halloween 2012 and every Halloween thereafter.
 Also, the only splash text shown is "OOoooOOOoooo! Spooky!"
@@ -58,6 +59,7 @@ The change doesn't apply to chests inside boats.
 
 
 === Cake ===
+                                                                           
 
 In 1.14.2-pre2 and for the occasion of the 10 years of Minecraft's release on May 17, 2019, the cake had a big "10" placed like candles, and the only splash text that appeared was "Turning 10 years old!" This was reverted to the way they were before on May 20, 2019, and is unable to be seen again in-game even if you go back to 1.14.2-pre2 and change the time of the device to May 17-20 of 2019.
 
@@ -122,6 +124,10 @@ The first released texture of the creeper. The old leaf texture is overlaying a 
 			
 			
 		
+
+
+=== Clouds ===
+The newly updated cloud texture displays a creeper face on it. This can be seen occasionally in the sky during gameplay.
 
 
 === Textures hidden in transparency ===
@@ -490,7 +496,7 @@ Various splashes appear all day on many holidays, like "Happy New Year!" on Janu
 
 
 === Coronavirus ===
-Special splashes are displaying due to the COVID-19 pandemic. They include "Wash your hands!" and "Support elderly relatives and friends!"
+Special splashes are displayed due to the COVID-19 pandemic. They include "Wash your hands!" and "Support elderly relatives and friends!"
 
 
 == Tributes to Technoblade ==

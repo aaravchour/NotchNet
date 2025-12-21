@@ -87,6 +87,7 @@ The bedrock texture, in both the Default and Programmer Art resource packs, is a
 Vexes and the ender dragon can fly through bedrock. Additionally, the ender dragon cannot break bedrock.
 Outside of Minecraft, "bedrock" means any solid rock beneath the soil layer (i.e. anything below dirt, sand, gravel. etc.). In real life, bedrock is breakable.
 In Java Edition, the texture of bedrock is randomly rotated and flipped. When the sides line up correctly, a pattern similar to a wither skull might appear.
+In Bedrock Edition, the bottom two layers are composed entirely of bedrock, unlike Java Edition where only the bottommost layer is purely solid bedrock.
 
 
 == Gallery ==

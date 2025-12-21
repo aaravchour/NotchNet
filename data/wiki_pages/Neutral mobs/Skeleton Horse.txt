@@ -177,6 +177,10 @@ In Bedrock Edition, skeleton horses can be transported in a boat by riding the s
 			
 			
 		
+		
+			
+			
+		
 
 
 == See also ==

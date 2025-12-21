@@ -17,6 +17,8 @@ Neutral mobs are sometimes passive and sometimes hostile toward the player. All 
 
 Hostile mobs are dangerous, aggressive mobs that always attack the player within their respective detection ranges.
 
+Boss mobs are hostile mobs with healthbars.
+
 Compound mobs, also called jockeys, are a special condition in which a mob spawns riding another mob. All jockeys are hostile except for the strider jockey, which is neutral.
 
 Only contains a few mobs that never spawn naturally in-game as they can only be summoned with the /summon command though the zombie horse, Agent and NPC can be spawned in with a spawn egg.
@@ -27,18 +29,16 @@ Mobs that were added as a joke for April Fools' Day in Java Edition.
 
 Mobs that were announced by Mojang as potential additions to the game, but either got scrapped or shelved indefinitely.
 
-Mobs that are announced by Mojang to be added in the upcoming update.
-
 Most of the mobs are divided into different types, which can determine certain attributes of the mob, such as their behaviors and how other mobs behave around them.
 
 Most mobs are either classified as animals or monsters. Animals are mobs who are based on real-life animals, and usually have some way of interacting with players, such as being bred, tamed, or captured. Monsters are mobs that are generally pursued by iron golems and prevent players from sleeping.
 
 Some mobs are assigned to a more detailed group. There are a total of four mob classifications that have different effects than other mobs. These mobs have certain weaknesses and immunities as a result of what group they fall into.
 
-This group of mobs includes drowned, husks, phantoms, skeletons, skeleton horses, strays, withers, wither skeletons, zoglins, zombies, zombie horses, zombie villagers, and zombified piglins. These mobs are damaged by potions of Healing, healed by potions of Harming, and are immune to drowning (except for husks and zombies, which turn into zombies and drowned if drowning, respectively) and Poison damage. Zombies, zombie villagers, drowned, skeletons, strays, and phantoms burn when under direct sunlight, unless they are touching water or wearing a helmet. Under the fire resistance effect, undead mobs still catch fire in direct sunlight but do not get hurt by the fire. All undead mobs except for drowned, phantoms, and withers sink in water. All undead mobs take extra damage from weapons enchanted with Smite, and are ignored by withers.
+This group of mobs includes drowned, husks, parched, phantoms, skeletons, skeleton horses, strays, withers, wither skeletons, zoglins, zombies, zombie horses, zombie villagers, and zombified piglins. These mobs are damaged by potions of Healing, healed by potions of Harming, and are immune to drowning (except for husks and zombies, which turn into zombies and drowned if drowning, respectively) and Poison damage. Zombies, zombie villagers, drowned, skeletons, strays, and phantoms burn when under direct sunlight, unless they are touching water or wearing a helmet. Under the fire resistance effect, undead mobs still catch fire in direct sunlight but do not get hurt by the fire. All undead mobs except for drowned, phantoms, and withers sink in water. All undead mobs take extra damage from weapons enchanted with Smite, and are ignored by withers.
 Most undead mobs have the ability to pick up items. Some can spawn wearing armor, or holding tools or weapons.
 
-This group of mobs includes axolotls, dolphins, squids, glow squids, guardians, elder guardians, turtles, cod, salmon, pufferfish, and tropical fish, but not drowned. They take extra damage from tridents enchanted with Impaling, and, except axolotl, do not cause pufferfish to inflate nor take damage from them. All aquatic mobs except dolphins are immune to drowning, and all except guardians, elder guardians, and turtles take suffocation damage if out of water for too long. Aquatic mobs have the ability to swim, whereas other mobs simply float on water or sink.
+This group of mobs includes axolotls, dolphins, squids, glow squids, guardians, nautilus, zombie nautilus, elder guardians, turtles, cod, salmon, pufferfish, and tropical fish, but not drowned. They take extra damage from tridents enchanted with Impaling, and, except axolotl, do not cause pufferfish to inflate nor take damage from them. All aquatic mobs except dolphins are immune to drowning, and all except guardians, elder guardians, and turtles take suffocation damage if out of water for too long. Aquatic mobs have the ability to swim, whereas other mobs simply float on water or sink.
 In Bedrock Edition there is no internal classification for these mobs, with their only shared trait being weakness to Impaling, which applies to all mobs, including drowned, when in contact with water.
 
 This group consists of mobs based on arthropods, namely bees, cave spiders, endermites, silverfish, and spiders. They take extra damage and receive the Slowness IV effect when attacked with weapons enchanted with Bane of Arthropods.

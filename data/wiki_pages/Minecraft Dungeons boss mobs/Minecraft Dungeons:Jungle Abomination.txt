@@ -57,7 +57,7 @@ Abomination vines behave similarly to quick growing vines, but they are immune t
 
 
 == Health ==
-The jungle abomination has 19,000 HP. It has 25,000 HP in The Tower. On Default I, all mobs have 9.6% health and 12% damage of what is set in the code. It has the second highest health out of all the bosses.
+The jungle abomination has 19,000 HP. It has 25,000 HP in The Tower. On Default I, all mobs have 9.6% health and 12% damage of what is set in the code. It has the second highest health out of all the bosses in the game, only behind the Mooshroom Monstrosity
 
 
 == Drops ==
@@ -109,6 +109,7 @@ Vocal
 
 == Trivia ==
 In the game files, the abomination vine is known internally as the JungleAbominationVine.
+The Jungle Abomination is the only DLC boss  that was constructed by the Shard of Dominance.
 
 
 == Gallery ==

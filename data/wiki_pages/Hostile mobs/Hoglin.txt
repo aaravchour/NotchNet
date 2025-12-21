@@ -1,10 +1,10 @@
-A hoglin is a breedable hostile mob found in the Nether, and a source of porkchops and leather. A hoglin attacks by thrusting its tusks upward, which can also launch its target a short distance into the air. Hoglins are repelled by warped fungi that is placed in the world as well as active nether portals and respawn anchors.
-Baby hoglins behave similarly, but have a much weaker attack (the weakest attack in the game) with normal knockback, and flee when hit.
+A hoglin is a breedable hostile mob found in the Nether, and a source of porkchops and leather. A hoglin attacks by thrusting its tusks upward, which can also launch its target a short distance into the air. Hoglins are repelled by warped fungi that is placed in the world as well as active nether portals and respawn anchors. They were originaly named the piglin beast in Minecon 2019 but was changed to hoglin a month later
+Baby hoglins behave similarly, but have a much weaker attack (0.25 hearts) with normal knockback, and flee when hit.
 
 
 == Spawning ==
 Hoglins are found in herds of 3–4 in crimson forests, respawning over time. They can spawn at any light level and on most solid blocks other than nether wart blocks and shroomlights. 
-Hoglins spawn in certain types of bastion remnants upon structure generation. They spawn frequently in the hoglin stable variant (specifically the large and small stables in the "lower" area, but never in the "upper" area with ramparts), and sometimes in the main "bridge entrance" at the upper half of the rampart in the bridge variant. Similarly to the piglins and piglin brutes there, these hoglins never despawn.
+Hoglins can also spawn in certain types of bastion remnants upon structure generation. They spawn frequently in the Hoglin Stable variant (specifically the large and small stables in the "lower" area, but never in the "upper" area with ramparts), and sometimes in the main "bridge entrance" at the upper half of the rampart in the Bridge variant. Similarly to the piglins and piglin brutes there, these hoglins never despawn.
 20% of hoglins spawn as babies.
 Hoglins spawn in Peaceful difficulty, but are passive to players.
 

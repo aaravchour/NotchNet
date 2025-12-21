@@ -9,8 +9,6 @@ Only 15% (or 3 in 20) of Drowned in Bedrock Edition spawn with tridents. Of thes
 
 Tridents thrown onto the ground by a player can be picked up; however, tridents thrown by drowned cannot be picked up, similar to arrows shot by skeletons, strays, and pillagers. When a trident is thrown in creative mode, only its owner can pick it up. Other players in creative mode also cannot pick up said trident.
 
-Drowned who are holding tridents will sometimes drop their trident at full durability if given a nautilus shell.
-
 15% of drowned in Bedrock Edition, and 6.25% in Java Edition, spawn with a trident as its natural weapon. It throws the trident at its opponent every 1.5 seconds, dealing 9 damage in normal difficulty. A drowned can throw unlimited tridents, and these tridents cannot be picked up by the player.
 A villager can be turned into a zombie villager if it is killed by a trident thrown by a drowned: the chance of conversion is 0% on Easy difficulty, 50% on Normal, and 100% on Hard and Hardcore.
 In Bedrock Edition, a drowned can use the trident's melee attack if its target is within three blocks. The melee attack deals 9 damage.

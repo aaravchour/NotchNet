@@ -323,6 +323,10 @@ In Minecraft: Story Mode, Zombified Piglins are just “pigmen” and are, accor
 			
 			
 		
+		
+			
+			
+		
 
 
 === Textures ===

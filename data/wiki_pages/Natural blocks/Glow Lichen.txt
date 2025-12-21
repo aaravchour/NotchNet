@@ -64,6 +64,7 @@ Issues relating to "Glow Lichen" are maintained on the bug tracker. Report issue
 This block was hinted at by Henrik Kniberg, who explained that the glowing ores at Minecraft Live 2020 were prototypes for this. 
 If the player removes all directional states using a debug stick, the block becomes invisible, but the light emission remains, unless another block is placed there.
 In real life, the lichen is a composite organism that arises from algae or cyanobacteria living among filaments of multiple fungus species in a symbiotic relationship.
+Glow lichen may be mistaken for diamond ore at a distance.
 
 
 == Gallery ==

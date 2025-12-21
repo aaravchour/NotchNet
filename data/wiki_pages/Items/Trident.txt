@@ -21,10 +21,6 @@ Only 15% (or 3 in 20) of Drowned in Bedrock Edition spawn with tridents. Of thes
 Tridents thrown onto the ground by a player can be picked up; however, tridents thrown by drowned cannot be picked up, similar to arrows shot by skeletons, strays, and pillagers. When a trident is thrown in creative mode, only its owner can pick it up. Other players in creative mode also cannot pick up said trident.
 
 
-=== Trading ===
-Drowned who are holding tridents will sometimes drop their trident at full durability if given a nautilus shell.‌
-
-
 == Usage ==
 
 

@@ -136,6 +136,10 @@ Issues relating to "Desert pyramid" are maintained on the bug tracker. Report is
 			
 			
 		
+		
+			
+			
+		
 
 
 === Odd generation ===

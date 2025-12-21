@@ -10,8 +10,8 @@ Interacting with a single powered shelf causes the first 3 rightmost slots on th
 Interacting with two connected powered shelves causes the 6 rightmost slots on the hotbar to be swapped.
 Interacting with three connected powered shelves causes all 9 slots on the hotbar to be swapped.
 
-Like any wood-related blocks (with the exception of nether wood), shelves can be used as a fuel in the furnace. It can smelt  of an item.
-A full stack (64) of shelf can smelt 96 items.
+Like any wood-related blocks (with the exception of nether wood), shelves can be used as a fuel in the furnace.
+A single shelf is able to smelt 1 items. This means a full stack (64) of shelf can smelt 96 items.
 
 Issues relating to "Shelf" are maintained on the bug tracker. Report issues there.
 

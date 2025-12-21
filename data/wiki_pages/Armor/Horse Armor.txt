@@ -21,7 +21,7 @@ Only normal adult horses can wear armor; foals, donkeys, mules, and undead varia
 
 
 === Types ===
-Horse armor has leather, iron, gold, copper and diamond variants. However, horse armor does not have netherite or chainmail variants.
+Horse armor has leather, iron, gold, copper, diamond and netherite variants. However, horse armor does not have chainmail variants.
 
 
 === Protection ===
@@ -83,6 +83,12 @@ See Bedrock Edition level format/Item format.
 
 
 == History ==
+{{History||1.21.6|snap=25w20a|Horse armor can now be sheared.
+
+
+== Trivia ==
+Unlike most copper variant, copper horse armor does not oxidize.
+Netherite horse armor appears a bit more stylish in Bedrock Edition, compared to Java Edition.
 
 
 == Issues ==
@@ -94,6 +100,10 @@ Issues relating to "Horse Armor" are maintained on the bug tracker. Report issue
 
 === Renders ===
 
+		
+			
+			
+		
 		
 			
 			

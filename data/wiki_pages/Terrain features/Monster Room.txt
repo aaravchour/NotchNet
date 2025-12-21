@@ -42,6 +42,9 @@ Issues relating to "Monster Room" are maintained on the bug tracker. Report issu
 
 == Gallery ==
 
+
+=== Screenshots ===
+
 		
 			
 			
@@ -88,7 +91,7 @@ Issues relating to "Monster Room" are maintained on the bug tracker. Report issu
 		
 
 
-=== Surface monster rooms ===
+==== Surface monster rooms ====
 
 		
 			
@@ -132,39 +135,7 @@ Issues relating to "Monster Room" are maintained on the bug tracker. Report issu
 		
 
 
-=== Multiple monster rooms ===
-
-		
-			
-			
-		
-		
-			
-			
-		
-		
-			
-			
-		
-		
-			
-			
-		
-		
-			
-			
-		
-		
-			
-			
-		
-		
-			
-			
-		
-
-
-=== Odd generation ===
+==== Multiple monster rooms ====
 
 		
 			
@@ -198,6 +169,10 @@ Issues relating to "Monster Room" are maintained on the bug tracker. Report issu
 			
 			
 		
+
+
+==== Odd generation ====
+
 		
 			
 			
@@ -250,6 +225,62 @@ Issues relating to "Monster Room" are maintained on the bug tracker. Report issu
 			
 			
 		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
 		
 			
 			

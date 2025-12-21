@@ -61,7 +61,7 @@ Issues relating to "Vex" are maintained on the bug tracker. Report issues there.
 == Trivia ==
 Despite their ghostly appearances and their ability to phase through walls, vexes are not undead mobs.
 According to JAPPA, the retexturing and remodeling of vexes was a long time in the making due to being requested too much.
-Vexes are heavily implied to be Allays that have been corrupted by dark magic.
+Vexes are heavily implied to be allays that have been corrupted by dark magic.
 
 
 == Gallery ==

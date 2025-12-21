@@ -1,4 +1,4 @@
-The /random command can be used to draw a random value.
+The /random command can be used to randomly draw a value.
 
 
 == Syntax ==

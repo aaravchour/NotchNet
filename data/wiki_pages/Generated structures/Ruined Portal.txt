@@ -48,6 +48,9 @@ Issues relating to "Ruined Portal" are maintained on the bug tracker. Report iss
 
 == Gallery ==
 
+
+=== Screenshots ===
+
 		
 			
 			
@@ -170,7 +173,7 @@ Issues relating to "Ruined Portal" are maintained on the bug tracker. Report iss
 		
 
 
-=== Odd generation ===
+==== Odd generation ====
 
 		
 			
@@ -212,6 +215,14 @@ Issues relating to "Ruined Portal" are maintained on the bug tracker. Report iss
 			
 			
 		
+		
+			
+			
+		
+
+
+=== In other media ===
+
 		
 			
 			

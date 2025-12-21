@@ -1,4 +1,4 @@
-The ominous vault is a less common variant of the Trial Vault. They are found in Trial Chambers and can only be opened with an ominous trial key depending. Ominous vaults can only be used once per player.
+The ominous vault is a less common variant of the Trial Vault. They can only be found in Trial Chambers and can only be opened with an ominous trial key. Ominous vaults can only be used once per player.
 
 Mining an ominous vault with any items will drop nothing, even if mined with Silk Touch, this makes ominous vault unobtainable in Survival without glitches. Ominous vault takes a long time to be mined, and will take the same amount of time regardless of the items used to mine.
 

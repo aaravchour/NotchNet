@@ -24,10 +24,6 @@ In Bedrock Edition, a nautilus shell is one of the few items that can be held in
 === Crafting ingredient ===
 
 
-=== Trading ===
-Nautilus shells can be given to trident-wielding drowned with a chance for the drowned to pick up the shell and drop the trident.[Bedrock Edition only] This feature was actually mentioned as a bug and will soon be fixed in Bedrock Edition 1.21.120
-
-
 == Data values ==
 
 

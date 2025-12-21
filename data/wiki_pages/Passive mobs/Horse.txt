@@ -30,7 +30,7 @@ Killing a foal yields neither items nor experience.
 == Usage ==
 
 Tamed and saddled horses can be used as a means of transportation in the game. When ridden, they are able to move faster and jump higher than a normal player. Horses can be used to climb hills and jump fences, as some can jump high enough to clear up to five block heights, versus the player's maximum of about one (without jump boost).
-Horses cannot float on water when being controlled by a player. They can be ridden in water up to 2 blocks deep. In deeper water, the player is automatically dismounted.
+Horses cannot float on water when being controlled by a player. They can be ridden in water up to 2 blocks deep. In deeper water, the player is automatically dismounted.‌
 Horses can be pulled along and tied up using a lead. They can be towed in two ways: Horses can swim behind a boat by using a lead, or a boat can be attached to a lead‌ (before putting the horse in the boat) and the player can swim to tow the boat containing the horse. 
 
 

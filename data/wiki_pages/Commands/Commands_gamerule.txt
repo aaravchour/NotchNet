@@ -37,7 +37,6 @@ To stop the natural cycle of weather: gamerule doWeatherCycle false
 For the player, so that they can keep all of their valuables when they die: gamerule keepInventory true
 To stop TNT from exploding: gamerule tntExplodes false ‌
 To stop command blocks from showing what they do: gamerule commandBlockOutput false
-To stop phantoms spawning:gamerule doInsomnia false
 
 
 == History ==

@@ -1,4 +1,4 @@
-A pale oak tree is a rare variant of the dark oak tree. They are commonly found in the pale garden biome.
+A pale oak tree is a "pale" variant of the dark oak tree. They are commonly found in the pale garden biomes.
 
 Pale oak trees generate with thick 22 trunks. Dirt blocks appear under the trunk if generated on a steep cliff. Pale oak trees nearly always generate with irregular logs connected to the trunk  these represent large branches. Naturally generated Pale oak trees sometimes generate with a Creaking Heart in the trunk. Pale Hanging Moss also generates under the Pale oak Leaves canopy.
 
@@ -23,6 +23,7 @@ Podzol
 Mycelium
 Rooted Dirt
 Moss Block
+Pale Moss Block
 Farmland
 Mud
 Muddy Mangrove Roots

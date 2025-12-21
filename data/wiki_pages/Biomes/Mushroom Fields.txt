@@ -27,6 +27,9 @@ The vanilla Mushroom Fields JSON data includes the pumpkin patch feature, but it
 
 == Gallery ==
 
+
+=== Screenshots ===
+
 		
 			
 			
@@ -51,6 +54,14 @@ The vanilla Mushroom Fields JSON data includes the pumpkin patch feature, but it
 			
 			
 		
+		
+			
+			
+		
+
+
+=== In other media ===
+
 		
 			
 			

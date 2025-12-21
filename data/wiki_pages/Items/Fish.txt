@@ -8,7 +8,7 @@ Cod
 Salmon
 Pufferfish
 Tropical Fish, comes in many color and pattern varieties.
-In addition, there are other fish-like mobs that have different characteristics from fish: Axolotl, Guardian, and Elder Guardian.
+In addition, there are other fish-like mobs that have different characteristics from fish:  Guardian, and Elder Guardian.
 
 
 == Obtaining and transporting ==

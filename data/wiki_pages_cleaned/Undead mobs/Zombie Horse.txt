@@ -1,33 +1,47 @@
 A zombie horse is an unused variant of the regular horse. Zombie horses appear to be the horse equivalent of zombies. Like zombies, zombie horses are green-skinned and their eyes are completely black.
 
-Zombie horses may be created by the /summon command or with their spawn egg. When using a spawn egg, 20% spawn as foals. In the upcoming game drop called "Mounts of Mayhem", zombie horses will be able to spawn naturally in plains, usually ridden by zombie horsemens. They do not spawn in peaceful mode, despite being passive.
+Zombie horses may be created by the /summon command or with their spawn egg. When using a spawn egg, 20% spawn as foals. In the upcoming game drop called "Mounts of Mayhem", zombie horses will be able to spawn naturally in plains, usually ridden by zombie horsemens.
+They do not spawn in peaceful mode, despite being passive. Zombie foals do not spawn naturally and can only be summoned via /summon minecraft:zombie_horse ~ ~ ~ {IsBaby:1}.
 
 Upon death, zombie horses drop:
 
 0-2 Rotten Flesh. The maximum amount is increased by 1 per level of Looting, for a maximum of 0-5 with Looting III.
 13 when killed by a player or tamed wolf.
-If saddled, they drop their saddle.
+If saddled, they drop their saddle. If worn armor, they drop their horse armor.
 Zombie foals yield neither items nor experience.
 
                                                                            
 Tamed and saddled zombie horses can be used as one of the fastest means of transportation in the game. They can also be used to climb hills and jump fences.
 In Bedrock Edition, they cannot be ridden.
 
-Zombie horses have a lone equipment slot.
+Zombie horses have two equipment slots.
 
+ Saddle slot: For equipping a saddle.
  Saddle slot: For equipping a saddle.
 In Bedrock Edition, they have no slot.
 
-Once a horse is tamed and saddled, the player can control it with directional controls, jump, and the mouse. The player dismounts using the dismount control. Like riding other entities, it is impossible for a player to use a nether portal or end portal while on a horse.
-A ridden horse automatically runs up any one-block-high slope. The horse and rider can safely fit through a space as low as 2.75 blocks high. Lower clearance risks suffocating the rider if the rider's head enters a non-transparent block. The horse itself can enter gaps as low as 1.625 blocks high, but may itself take suffocation damage when clearance is less than 1.75 blocks. Horses cannot fit through a 1-block-wide gap.
+Once a zombiehorse is tamed and saddled, the player can control it with directional controls, jump, and the mouse. The player dismounts using the dismount control. Like riding other entities, it is impossible for a player to use a nether portal or end portal while on a zombie horse.
+A ridden zombie horse automatically runs up any one-block-high slope. The horse and rider can safely fit through a space as low as 2.75 blocks high. Lower clearance risks suffocating the rider if the rider's head enters a non-transparent block. The horse itself can enter gaps as low as 1.625 blocks high, but may itself take suffocation damage when clearance is less than 1.75 blocks. Horses cannot fit through a 1-block-wide gap.
 Ridden saddled zombie horses have the ability of "jumping charging". When the player rides them, the experience bar on HUD is replaced by jumping charging bar. A ridden saddled zombie horses can be made to jump and holding the control charges for a higher leap. Zombie horses are not affected by jump boost beacons or potions.
+Saddled zombie horses can float on water, without dismounting the player.
 
 The zombie horse is an undead mob that is completely passive. Zombie horses behave like normal horses, roaming idly and occasionally stopping to rear, swish their tails, or lower their heads as though eating the grass. Unlike sheep, the eating animation does not actually cause any grass to be consumed. Zombie horses can breathe in water.
 Unlike other passive mobs, zombie horses slowly regenerate health. In Bedrock Edition, zombie horses will be killed by the Conduit like any regular hostile mob, despite being passive.
-In Mounts of Mayhem, zombie horses also burn during the daylight, despite being passive. However, horse armor can provide protection from the sunlight.
+Zombie horses also burn during the daylight, despite being passive. However, horse armor can provide protection from the sunlight.
 Zombie horses, in common with other undead mobs, take damage when affected by a Potion of Healing and are healed by a Potion of Harming. They are also affected by the Smite enchantment.
 
-Zombie horses cannot be tamed. However, a tamed zombie horse can be summoned using /summon minecraft:zombie_horse ~ ~ ~ {Tame:1b}. In Mounts of Mayhem, they can be tamed and ridden like many horse variants.
+Like any undead mobs:
+
+Are damaged by Instant Health and healed by Instant Damage;
+Are not affected by Regeneration and Poison;
+Burn in the sunlight.
+Take extra damage from Smite enchantment.
+Are not targeted by the wither.
+Causes an armadillo to hide in its shell.
+Unlike most undead mobs, zombie horses are not targeted by iron golems and snow golems. However, zombie horseman riders are targeted.
+
+Zombie horses cannot be tamed. However, a tamed zombie horse can be summoned using /summon minecraft:zombie_horse ~ ~ ~ {Tame:1b}.
+Zombie horses can be tamed and ridden like many horse variants. They can be fed and healed with red mushrooms. 
 In Bedrock Edition, technically, all zombie horses are always regarded as tamed.
 
 Zombie horses share a similar green color, with black eyes, mane, snout and hoofs. They sometimes have bones sticking out from underneath their flesh.

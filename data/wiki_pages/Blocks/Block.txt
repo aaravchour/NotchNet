@@ -23,7 +23,7 @@ If the block is leaves and decays.
 
 Most solid blocks are 1 meter high (3.28084... feet or 1250⁄381 feet), but several blocks have non-standard block heights, such as slabs.
 A player can automatically step up from a lower to a higher height if the difference is at most 0.6 (3⁄5) of a block or 1.9685... feet (250⁄127 feet).
-A player can automatically (when auto-jump is on) or manually (by hitting the jump keybind) step up from a lower to a higher height if the difference is at most 1  block or 3.28084... feet (1250⁄381 feet)
+A player can automatically (when auto-jump is on) or manually (by hitting the jump keybind) step up from a lower to a higher height if the difference is at most 1  block or 3.28084... feet (1250⁄381 feet).
 
 
 == Textures ==

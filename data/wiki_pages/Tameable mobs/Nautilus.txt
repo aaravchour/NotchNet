@@ -1,8 +1,8 @@
-A nautilus is an upcoming neutral tamable mob that will be added in Mounts of Mayhem‌. It can be tamed using pufferfish, can be bred and fed using any fish or any type of fish bucket, equip with Nautilus Armor, and can be ridden on using a saddle. It was revealed in Minecraft Live - September 2025.
+A nautilus is an neutral tamable mob that will be added in Mounts of Mayhem. It can be tamed using pufferfish, can be bred and fed using any fish or any type of fish bucket, equip with Nautilus Armor, and can be ridden on using a saddle. It was revealed in Minecraft Live - September 2025.
 
 
 == Spawning ==
-Nautili usually spawn in all ocean biomes.
+Nautili usually spawn in all ocean biomes. Normally in groups of 1-2. Also in the ocean biomes, Baby Nautili can also spawn.
 
 
 == Usage ==
@@ -10,11 +10,11 @@ Tamed nautili can be equipped with a Nautilus Armor and can be ridden on by usin
 
 
 == Behavior ==
-Nautili use their mouths to propel forward. It cannot survive on land. When attacked, it can use its dash attack to inflict damage on the player
+Nautili are pasive to the player and other mobs, but they are hostile to the putterfish. If a player attacks them, they'll become hostile to them. They use their mouths to propel forward. It cannot survive on land or in lava. It can use its dash attack to inflict damage on the player or other mobs.
 
 
 === Taming ===
-Nautili can be tamed by feeding them pufferfishes.
+Nautili can be tamed by feeding them pufferfish or with Buckets with Putterfish.
 
 
 === Breeding ===
@@ -29,6 +29,7 @@ Issues relating to "Nautilus" are maintained on the bug tracker. Report issues t
 
 
 == Trivia ==
+The Nautilus is the second Minecraft mob to be based on a living fossil, the first being the Axolotl.
 Nautili are inspired by ammonites, an extinct aquatic mollusc species that lived in shells.
 They were referred to as being extinct in Minecraft once.
 The size of the Nautilus in-game, while dramatically oversized compared to the real animal, seems comparable to the real-life ammonite species Parapuzosia seppenradensis, known as the largest known ammonite in the fossil record.

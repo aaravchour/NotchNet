@@ -1,6 +1,6 @@
 A creeper is a common hostile mob that silently approaches players and then explodes, which can destroy blocks and kill unarmored players on any difficulty (except for peaceful).
-When struck by lightning, a creeper becomes a charged creeper, which amplifies its explosion power and enables mob heads to be obtained from piglins, zombies, skeletons, and other creepers it kills.
-Due to its distinctive appearance and unique and destructive method of attack, the creeper has become one of the most iconic mobs of Minecraft, being featured in promotional material and merchandise.
+When struck by lightning, the creeper becomes a charged creeper, which amplifies its explosion power and enables mob heads to be obtained from piglins, zombies, skeletons, and other creepers it kills.
+Due to its distinctive appearance and unique, destructive method of attack, the creeper has become one of the most iconic mobs in Minecraft, being featured in promotional materials and merchandise.
 
 
 == Spawning ==
@@ -13,13 +13,13 @@ When killed, creepers drop:
 
 5 experience points, if killed by the player or a tamed wolf.
 0–2 gunpowder. The maximum amount is increased by one per level of Looting, for a maximum of 5 with Looting III.
-1 music disc at random (from 13, cat, blocks, chirp, far, mall, mellohi, stal, strad, ward, 11, and wait), if killed by a skeleton, stray, bogged, or on Java Edition wither skeleton.
+1 music disc at random (from 13, cat, blocks, chirp, far, mall, mellohi, stal, strad, ward, 11, and wait), if killed by a skeleton, stray, bogged, parched‌ or on Java Edition wither skeleton.
 
 
 == Behavior ==
 
 Creepers chase any player within a 16-block radius. They do not attack any other mob without provocation by being attacked first.
-When within 3 blocks of a player, a creeper stops moving, hisses(which almost sounds like a balloon inflating), flashes and expands, and explodes after 1.5 seconds, destroying blocks in the area as well as significantly damaging the player. A creeper's detonation can be halted if the player leaves the blast radius, including by knocking it back, going out of the creeper's sight, or if the creeper is killed before the explosion. The distance with the player at which a creeper cancels its explosion is greater at higher difficulties. Normal creeper explosions have a power of 3.
+When within 3 blocks of a player, a creeper stops moving, hisses (which almost sounds like a balloon inflating), flashes and expands, and explodes after 1.5 seconds, destroying blocks in the area as well as significantly damaging the player. A creeper's detonation can be halted if the player leaves the blast radius, including by knocking it back, going out of the creeper's sight, or if the creeper is killed before the explosion. The distance with the player at which a creeper cancels its explosion is greater at higher difficulties. Normal creeper explosions have a power of 3.
 A creeper explodes only if it has an uninterrupted line of sight with the player throughout the entire 1.5-second countdown. As a result, if the creeper does not have line-of-sight with the player, it does not start hissing even at close range, even if the player is attacking it, and a detonation is canceled if it has started. The hissing sound plays in its entirety regardless of whether the explosion happens or not.
 Unlike most mobs, the creeper doesn't have an idle sound, nor does it have unique step sounds. Although it does make normal stepping and swimming sounds, it is hard for players to distinguish those from sounds they make themselves. This makes the approach of a creeper difficult for an unwary player to notice until it starts hissing. 
 A creeper jumps down to a player if it can survive the fall. Creepers begin the 1.5-second countdown before falling, so an explosion occurs sooner after landing with higher falls.

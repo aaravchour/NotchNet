@@ -16,7 +16,7 @@ Ghastlings spawn up after the dried ghast block gets hydrated in water for 20 mi
 
 === Harnessed ===
 
-Happy ghasts can follow or fly towards, when the player is holding a harness. The player can easily equip the harness on the happy ghast and right-click on the ghast to mount it. When mounted, the harness goggles will flip down. Harnessed happy ghasts can allow up to 4 players to mount them. Players cannot mount unharnessed happy ghasts, unless they use the /ride command.
+Happy ghasts can follow or fly towards a player who is holding a harness. The player can easily equip the harness on the happy ghast and right-click on the ghast to mount it. When mounted, the harness goggles will flip down. Harnessed happy ghasts can allow up to 4 players to mount them. Players cannot mount unharnessed happy ghasts, unless they use the /ride command.
 If a player stands on top of an unharnessed happy ghast, the happy ghast will stop moving, allowing the player to move around its top, like it is a flat platform. The happy ghast will also stop when it is harnessed and the player is standing on it. If a player flies a happy ghast into water (a pillar), the player will be dismounted from the happy ghast.
 
 

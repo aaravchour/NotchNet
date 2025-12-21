@@ -69,12 +69,16 @@ else
 fi
 export LLM_MODEL=$USER_MODEL
 
-# 8. Check if Model is pulled
-echo "🔍 Checking if model '$LLM_MODEL' is available in Ollama..."
-if ! ollama list | grep -q "$LLM_MODEL"; then
-    echo "⬇️ Model '$LLM_MODEL' not found. Pulling it now... (This might take a while)"
-    ollama pull "$LLM_MODEL"
-fi
+# 8. Check if Models are pulled
+echo "🔍 Checking for required models in Ollama..."
+for MODEL in "$LLM_MODEL" "mxbai-embed-large"; do
+    if ! ollama list | grep -q "$MODEL"; then
+        echo "⬇️ Model '$MODEL' not found. Pulling it now... (This might take a while)"
+        ollama pull "$MODEL"
+    else
+        echo "✅ Model '$MODEL' is ready."
+    fi
+done
 
 # 9. Check for Index
 if [ ! -d "faiss_index" ]; then

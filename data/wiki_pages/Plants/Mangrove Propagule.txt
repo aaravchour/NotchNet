@@ -17,7 +17,7 @@ Applying bone meal to a block of mangrove leaves with a space underneath produce
 
 
 === Trading ===
-In Java Edition, a mangrove propagule is sold by the wandering trader for 5 emeralds.
+A mangrove propagule is sold by the wandering trader for 5 emeralds.
 
 
 == Usage ==

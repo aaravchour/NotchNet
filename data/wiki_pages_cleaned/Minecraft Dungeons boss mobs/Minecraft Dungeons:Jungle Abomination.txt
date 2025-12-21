@@ -30,7 +30,7 @@ Abomination vines are vine-like mobs, and look like they are made of wood and pl
 
 Abomination vines behave similarly to quick growing vines, but they are immune to all forms of damage and can do contact damage to the hero when they sprout up. The jungle abomination usually summons about 8 of these scattered in a large circle around itself, but can do a few other patterns such as just four of them in a small square around itself. They sink back down into the ground after a few seconds. Despite being invincible, they can still be stunned by heroes using the snowball or stunning enchantments, although it has no effect.
 
-The jungle abomination has 19,000 HP. It has 25,000 HP in The Tower. On Default I, all mobs have 9.6% health and 12% damage of what is set in the code. It has the second highest health out of all the bosses.
+The jungle abomination has 19,000 HP. It has 25,000 HP in The Tower. On Default I, all mobs have 9.6% health and 12% damage of what is set in the code. It has the second highest health out of all the bosses in the game, only behind the Mooshroom Monstrosity
 
 Armor
 Ghostly Armor (Daily Trials)
@@ -66,3 +66,4 @@ Foley
 Vocal
 
 In the game files, the abomination vine is known internally as the JungleAbominationVine.
+The Jungle Abomination is the only DLC boss  that was constructed by the Shard of Dominance.

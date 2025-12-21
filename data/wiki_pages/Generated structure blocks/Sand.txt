@@ -102,7 +102,7 @@ Because falling sand is considered an entity, it can be launched in a TNT cannon
 Sand falls at the same rate when submerged in water, or lava, or air.
 If a player is standing on a stack of sand or gravel, and the stack falls onto a non-solid block, the player can fall fast enough to take damage or even die.
 Sand falls through torches without breaking, if there is air below the torch.
-Sand and gravel take about 0.45 seconds to fall one meter.
+Sand and gravel take about 0.45 seconds to fall one meter. (Or one block).
 The sand texture is rotated if a block of sand turns into a falling_block entity, similar to ignited TNT blocks. This is not the case with gravel.
 Because falling_block is considered an entity, blocks of sand without supports may disappear for a split second and a falling_block entity is summoned. This is also the case when it is landing, but the entity (not the block) disappears instead before a block is placed.
 

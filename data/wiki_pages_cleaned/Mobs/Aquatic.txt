@@ -4,5 +4,6 @@ They take extra damage from tridents enchanted with Impaling, and, except axolot
 Although drowned are an underwater variant of zombies (and can swim in Bedrock Edition), they are classified as undead, not as aquatic.
 In Bedrock Edition, there is no in-game classification for these mobs.
 
-Corals and sea pickles instantly die if they are out of water for too long, similar to the the aquatic mobs.
+Corals and sea pickles instantly die if they are out of water for too long, similar to the aquatic mobs.
 Frogs are not considered an aquatic mob, while tadpoles are. Despite this, frogs will not drown in water.
+Being an undead mob, zombie nautiluses burn when moved out of the water during the day.

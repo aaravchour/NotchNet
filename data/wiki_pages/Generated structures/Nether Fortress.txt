@@ -7,7 +7,7 @@ Nether fortresses generate in all Nether biomes. To do so, the game splits the N
 Each region has a four chunk separation located on the south and east borders of the region in which neither a fortress nor a bastion can generate. 
 
 This leaves only a 368×368 block section in Java Edition or 416×416 block section in Bedrock Edition where a structure can generate. 
-Two structures never generate in the same region, although they might overlap if they generate close to the separation border. In Java Edition, the chance of a fortress generating instead of a bastion is 2⁄5 (40%), while in Bedrock Edition the chance of a fortress generating instead of a bastion is 1⁄3 (33.3%). From 1.18.1, in Basalt Deltas, due to a code call "set spawn" that combine fortress with bastion, if there are any attempt to spawn bastion there, it will spawn fortress instead, making this the best biome that forterss spawn.
+Two structures never generate in the same region, although they might overlap if they generate close to the separation border. In Java Edition, the chance of a fortress generating instead of a bastion is 2⁄5 (40%), while in Bedrock Edition the chance of a fortress generating instead of a bastion is 1⁄3 (33.3%). From 1.18.1, in Basalt Deltas, due to a code call "set spawn" that combine fortress with bastion, if there are any attempt to spawn bastion there, it will spawn fortress instead, making this the best biome that fortress spawn.
 Nether fortresses can generate buried in netherrack. In such a case, the interior is not filled with netherrack; all hallways and passages are clear except for open walkways and bridges. It is possible but rare for glowstone or crimson and warped huge fungi to generate inside the fortress pathways.
 
 
@@ -121,6 +121,9 @@ The soul sand valley bone blocks and basalt pillars (down to within three blocks
 
 == Gallery ==
 
+
+=== Screenshots ===
+
 		
 			
 			
@@ -193,6 +196,18 @@ The soul sand valley bone blocks and basalt pillars (down to within three blocks
 			
 			
 		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
 		
 			
 			

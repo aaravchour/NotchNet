@@ -72,6 +72,16 @@ Knockback is a fairly controversial enchantment. Some players absolutely hate it
 7) [5] + [6] (14 levels, 280 experience) 
 
 
+=== Spear ===
+Unbreaking III
+Mending 
+Sharpness V (for general use) or Smite V (for fighting undead mobs, such as wither and wither skeleton farms) or Bane of Arthropods V (allows 1-hit killing of all arthropods)
+Looting III
+Lunge III (Consumes large amounts of hunger to dash)
+Fire Aspect II (Optional. Makes endermen a hassle to fight, since they teleport everywhere while on fire; hostile mobs that are set on fire set you on fire on melee attacks; cooks food dropped by cows, pigs, hoglins, sheep, chickens, rabbits, cod, and salmon even in rain; also useful in PVP).
+Knockback II (Optional. Can make drowneds and skeletons a hassle to fight; useful against creepers)
+
+
 === Axe ===
 Unbreaking III
 Mending 

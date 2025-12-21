@@ -6,7 +6,7 @@ Expert-level leatherworker villagers sell leather horse armor for 6 emeralds as 
 
 Only normal adult horses can wear armor; foals, donkeys, mules, and undead variants such as skeleton horses and zombie horses cannot be equipped with armor.
 
-Horse armor has leather, iron, gold, copper and diamond variants. However, horse armor does not have netherite or chainmail variants.
+Horse armor has leather, iron, gold, copper, diamond and netherite variants. However, horse armor does not have chainmail variants.
 
 Horse armor can be equipped to horses either by manually placing it in its respective slot by pressing E while riding the horse (), or by right-clicking the horse with it.
 There is a gradual increase in the defense given from a horse wearing the different types of armor. Note that golden horse armor provides more protection than iron horse armor, whereas the opposite is true for player armor.
@@ -41,5 +41,10 @@ Java Edition:
 Bedrock Edition:
 
 See Bedrock Edition level format/Item format.
+
+{{History||1.21.6|snap=25w20a|Horse armor can now be sheared.
+
+Unlike most copper variant, copper horse armor does not oxidize.
+Netherite horse armor appears a bit more stylish in Bedrock Edition, compared to Java Edition.
 
 Issues relating to "Horse Armor" are maintained on the bug tracker. Report issues there.

@@ -1,3 +1,5 @@
+{{For|upcoming camel mount variant|Minecraft Wiki:Drafts/Camel Husk
+
 A husk is a variant of a zombie that spawns in deserts. They function similar to zombies, except they do not burn in sunlight and inflict Hunger with their unarmed attacks.
 
 Husks spawn at a light level of 0 in the desert, mostly replacing zombies in these biomes.

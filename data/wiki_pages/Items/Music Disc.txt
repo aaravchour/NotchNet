@@ -1,4 +1,4 @@
-Music discs are a set of 19 items that can be played in jukeboxes.
+Music discs are a set of 21 musical records that can be played in jukeboxes.
 
 
 == Obtaining ==
@@ -31,11 +31,11 @@ Creator (Music Box) can be found in Decorated Pots. Precipice can be found via u
 
 == Appearance ==
 Music discs resemble older 78-rpm phonograph records from the early 20th century, which were often played in jukeboxes from that era.
-Although most of C418's music discs and Lena Raine's "otherside" are gray with small multicolored centers, "Disc 11" is a broken disc, with cracks and small chunks poking out. "Disc 5", however, has a bioluminescent blue outer ring, which is reminiscent of sculk blocks.
+Although most of C418's music discs and Lena Raine's "otherside" are gray with small multicolored centers, "Disc 11" is a broken disc, with cracks and small chunks poking out. "Disc 5", however, features a bioluminescent blue outer ring, reminiscent of sculk blocks.
 "Pigstep" is a red netherrack disc with a gold indentation centre. "Relic" is a brick red disc with a pale sky blue indentation centre.
-Both "Creator" and "Creator (Music Box)" music discs seem to be made of copper, with small gold indentation centres, whereas "Precipice" seems to be made of tuff, with a ring of copper (different oxidation stages of copper are seen on the disc).
-In Java Edition 1.21.6, the "Tears" music disc is a contrasting white which is slightly reminiscent of ghast tears.
-In Java Edition 1.21.7, the “Lava Chicken” music disc is a mix of red and white with red being on the sides and white in the middle.
+Both "Creator" and "Creator (Music Box)" music discs appear to be made of copper, with small gold indentation centres, whereas "Precipice" seems to be made of tuff, featuring a ring of copper (different oxidation stages of copper are visible on the disc).
+The "Tears" music disc is a contrasting white which is slightly reminiscent of ghast tears.
+The “Lava Chicken” music disc features a design that combines red and white, with the red color dominating the sides and the white color occupying the centre.
 
 
 == Usage ==
@@ -74,6 +74,14 @@ All music disc files are in Ogg Vorbis.
 
 == Gallery ==
 
+		
+			
+			
+		
+		
+			
+			
+		
 		
 			
 			

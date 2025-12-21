@@ -1,11 +1,14 @@
 An Easter egg is an intentional hidden message, inside joke, or feature in a work such as a computer program, web page, video game, television program, movie, book or any other form of media. Minecraft features several Easter eggs hidden in the game.
 
+                                                                           
 Between October 20 and November 3, bats can spawn at a light level of 6 or less instead of the normal light level 3 or less.
 On October 31, zombies, zombie villagers, husks, drowned, skeletons, strays, zombified piglins, and wither skeletons may sometimes wear carved pumpkins or jack o'lanterns on their heads. These mobs would drop these blocks if killed using a tool enchanted with Looting. This feature was added in Java Edition 1.4.2 for Halloween 2012 and every Halloween thereafter.
 Also, the only splash text shown is "OOoooOOOoooo! Spooky!"
 
 From December 2426, chests, large chests, and trapped chests have their textures changed to Christmas chests that resemble wrapped Christmas presents. This was added in Java Edition 1.4.6 for Christmas 2012. A texture file called "skis.png" was also added in Java Edition 1.4.6 in the same folder as the Christmas chests, but it was added by Dinnerbone as a red herring. This was re-added for Christmas 2013, along with a new "rain feature"pigs riding chickens (this is not planned to be fully implemented). This also happened again in 2014 with a new splash reading, "Merry X-Mas!" and repeated in every Christmas since.
 The change doesn't apply to chests inside boats.
+
+                                                                           
 
 In 1.14.2-pre2 and for the occasion of the 10 years of Minecraft's release on May 17, 2019, the cake had a big "10" placed like candles, and the only splash text that appeared was "Turning 10 years old!" This was reverted to the way they were before on May 20, 2019, and is unable to be seen again in-game even if you go back to 1.14.2-pre2 and change the time of the device to May 17-20 of 2019.
 
@@ -28,6 +31,8 @@ In the texture for the armor stand, in an unused area in the bottom right, the w
 Before the Texture Update, in an unused area for the zombie pigman texture, the words "THX XAPHOBIA" could be seen. This was written by Notch to give credit and thanks to the original creator of the texture, XaPhobia.
 
 The first released texture of the creeper. The old leaf texture is overlaying a lighter version of the pig test texture with some green added. Areas for arms and long legs are seen, which were never used. This is the reason why creepers looks somewhat similar to pigs.
+
+The newly updated cloud texture displays a creeper face on it. This can be seen occasionally in the sky during gameplay.
 
 Some of the textures have pixels set to 0 opacity, which makes them appear transparent when viewed with most image viewers. However, the color information of these pixels is still present and can be retrieved by disabling the alpha channel. Most of these textures are probably leftovers from the creation of the texture, that the editing program didn't erase but instead simply set the opacity to 0.
 Textures listed here had their alpha channel disabled to reveal unused/hidden pixels in the texture. Most of the invisible pixels are from development of the texture or already existing texture has been used as a template during development.
@@ -96,7 +101,7 @@ This splash was removed in Java Edition 1.8.5, since Notch no longer works for M
 
 Various splashes appear all day on many holidays, like "Happy New Year!" on January 1, and "Merry Christmas!" on Christmas Day. They may change slightly every year.
 
-Special splashes are displaying due to the COVID-19 pandemic. They include "Wash your hands!" and "Support elderly relatives and friends!"
+Special splashes are displayed due to the COVID-19 pandemic. They include "Wash your hands!" and "Support elderly relatives and friends!"
 
 Following the announcement on June 30, 2022 that popular Minecraft YouTuber Technoblade passed away from stage 4 cancer, Mojang added his skins crown to the pig on the Java Edition art in memory of him. A splash text in his honor was also added in 1.19.1. The launcher art was later changed to reflect The Wild Update, removing the pig and the crown from the  launcher.
 In A Minecraft Movie, there was a scene where Henry (Sebestian Hansen) saying to a pig with a crown "Is that some sort of king?" with Steve (Jack Black) replying "No, that's a legend."

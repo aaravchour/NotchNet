@@ -26,7 +26,7 @@ They also generate in ancient cities.
 
 A redstone repeater can be used in four different ways: to "repeat" redstone signals back to full strength, delay signals, prevent signals moving backwards, or to "lock" signals in one state.
 A repeater can be placed only on top of opaque blocks (dirt, stone, etc.), on top of upside-down slabs, upside-down stairs, furnaces, and glass. In Bedrock Edition, a repeater can also be placed on fences and stone walls. They can also be placed on some transparent blocks. See Opacity/Placement for more information. To place a repeater, use the Place Block control.
-A redstone repeater has a front and back – the arrow on the top points to the repeater's front. A repeater also has two small redstone torches on its top – the color of the torches indicates whether its output is on (dark red when off, bright red when on) and the distance between them indicates the delay the repeater adds to the signal transmission.
+A redstone repeater has a front and back – An extremly faint light gray arrow on the top points to the repeater's front. A repeater also has two small redstone torches on its top – the color of the torches indicates whether its output is on (dark red when off, bright red when on) and the distance between them indicates the delay the repeater adds to the signal transmission.
 A repeater is 0.125 (1⁄8) blocks high.
 
 

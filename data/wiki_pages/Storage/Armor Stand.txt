@@ -13,7 +13,7 @@ Two armor stands are found in each taiga village outdoor armory, one equipped wi
 
 
 == Usage ==
-Players can use armor stands to hold armor, mob heads, carved pumpkins, and elytra. Commands can be used to give them other items. The stand does not have a GUI, so players interact with it directly. Armor stands are also able to be placed in different orientations, similar to banners or signs. Armor stands are entities, allowing them to be pushed by pistons, moved by flowing water, pulled with fishing rods, pushed by players (with knockback), and bounced by slime blocks. 
+Players can use armor stands to hold armor, mob heads, carved pumpkins, swords‌, and elytra. Commands can be used to give them other items. The stand does not have a GUI, so players interact with it directly. Armor stands are also able to be placed in different orientations, similar to banners or signs. Armor stands are entities, allowing them to be pushed by pistons, moved by flowing water, pulled with fishing rods, pushed by players (with knockback), and bounced by slime blocks. 
 Using armor on the stand places the armor if done on a bare spot. Conversely, clicking on armor with a bare hand removes the armor and places it in the highlighted hotbar slot. It is not possible to take or place items from the armor stand's hands unless playing on Bedrock Edition.
 Armor, mob heads, or carved pumpkins can be automatically placed on armor stands with a dispenser.
 Armor stands can be customized further to have arms, pose, disobey gravity, dual wield and other things by summoning them using /summon with NBT tags.

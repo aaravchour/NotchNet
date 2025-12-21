@@ -56,6 +56,14 @@ Knockback is a fairly controversial enchantment. Some players absolutely hate it
 
 Unbreaking III
 Mending 
+Sharpness V (for general use) or Smite V (for fighting undead mobs, such as wither and wither skeleton farms) or Bane of Arthropods V (allows 1-hit killing of all arthropods)
+Looting III
+Lunge III (Consumes large amounts of hunger to dash)
+Fire Aspect II (Optional. Makes endermen a hassle to fight, since they teleport everywhere while on fire; hostile mobs that are set on fire set you on fire on melee attacks; cooks food dropped by cows, pigs, hoglins, sheep, chickens, rabbits, cod, and salmon even in rain; also useful in PVP).
+Knockback II (Optional. Can make drowneds and skeletons a hassle to fight; useful against creepers)
+
+Unbreaking III
+Mending 
 Efficiency V
 Sharpness V  or Smite V  (allows 1-hit killing of most undead mobs like Zombies and wither skeleton) or Bane of Arthropods V  (allows 1-hit killing of arthropods) or Cleaving III [upcoming: JE Combat Tests] (extends shield stun duration and increases damage) [note that axes are more useful for combat on Java Edition in the early game]
 Silk Touch (useful for melons, bookshelves and beehives) or Fortune III (only slightly useful for melons)

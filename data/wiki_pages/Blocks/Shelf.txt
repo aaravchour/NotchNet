@@ -27,8 +27,8 @@ Interacting with three connected powered shelves causes all 9 slots on the hotba
 
 
 === As a fuel ===
-Like any wood-related blocks (with the exception of nether wood), shelves can be used as a fuel in the furnace. It can smelt ½ of an item.
-A full stack (64) of shelf can smelt 96 items.
+Like any wood-related blocks (with the exception of nether wood), shelves can be used as a fuel in the furnace.
+A single shelf is able to smelt 1½ items. This means a full stack (64) of shelf can smelt 96 items.
 
 
 == History ==

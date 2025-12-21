@@ -13,7 +13,7 @@ Any picked-up equipment has a 100% chance of dropping and drops with the same da
 Any naturally spawned equipment, including the bow, has an 8.5% chance of dropping (9.5% with Looting I, 10.5% with Looting II and 11.5% with Looting III). It is damaged and may be enchanted.
 5 experience orbs when killed by a player or tamed wolf and an extra 13 if the stray has armor.
 
-Strays behave the same as normal skeletons but make noises with an echoing effect and shoot tipped arrows that inflict Slowness for 30 seconds on any target that they hit. In Bedrock Edition, strays that are underwater use a melee attack that inflicts Slowness. Strays dont take damage from freezing in powder snow, but they are not immune to Slowness.
+Strays behave the same as normal skeletons but make noises with an echoing effect and shoot tipped arrows that inflict Slowness for 30 seconds on any target that they hit. In Bedrock Edition, strays that are underwater use a melee attack that inflicts Slowness. Strays don't take damage from freezing in powder snow, but they are not immune to Slowness.
 
 Java Edition:
 Strays use the Hostile Creatures sound category for entity-dependent sound events.

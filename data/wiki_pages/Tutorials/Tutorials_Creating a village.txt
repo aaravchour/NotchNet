@@ -85,7 +85,7 @@ Next, place down at least 6 valid beds around the two villagers, and give them s
 
 
 == Expansion ==
-To get more villagers, one can repeatedly add in more houses to let the villagers breed more and make more villagers. After obtaining two villagers, place down at least 6 valid beds around them and give them some food (3 pieces of bread each) to make them "willing" to breed. If the conditions are met the two villagers will eventually breed and create a baby villager. 
+To get more villagers, one can repeatedly add in more houses to let the villagers breed more and make more villagers. After obtaining two villagers, place down at least 3 valid beds around them and give them some food (3 pieces of bread each) to make them "willing" to breed. If the conditions are met the two villagers will eventually breed and create a baby villager. 
 To assign a profession, just place their job site block; see Professions for more information. 
 Also, if the villagers are gossiping a lot, an iron golem can spawn, which can be an aid in defense or serve as a source of iron. Gossip is based on certain player actions (curing, attacking, killing, or trading).
 Please note that the larger your village is, the more prone it is to a zombie siege. In order for a zombie siege to occur, there must be at least 10 beds or 20 villagers and the player must be present in the village.

@@ -17,7 +17,7 @@ In Bedrock Edition, it can additionally be placed on the top of a fence, stone w
 When placed on the side of blocks, down is on and up is off. On the top or bottom of blocks, off is north or west, on is south or east.
 
 To activate or deactivate a lever, use the "Use Item/Place Block" control (right-click, by default). A lever can be turned on and off as fast as it can be clicked.
-Mobs cannot turn a lever on or off.
+Breezes can activate levers by launching wind charges at it. Player-launched wind charges also activate levers.
 
 While active, a lever:
 

@@ -1,4 +1,4 @@
-An axolotl is a passive bucketable aquatic mob found in lush caves. Axolotls attack fish, squid, drowned, and guardians; this makes axolotls useful for assisting with aquatic combat. Axolotls grant players Regeneration.
+An axolotl is a passive bucketable aquatic mob found in lush caves. Axolotls attack fish, squid, drowned, and guardians; this makes axolotls useful for assisting with aquatic combat. Axolotls also grant players regeneration effects.
 
 
 == Spawning ==
@@ -66,13 +66,15 @@ Issues relating to "Axolotl" are maintained on the bug tracker. Report issues th
 
 
 == Trivia ==
+The Axolotl is the first Minecraft mob to be based on a living fossil, the second being the Nautilus.
 In the release notes Minecraft Launcher there is an encrypted message T⍑ᒷ ᔑ ̇/𝙹ꖎ𝙹ℸ ̣ ꖎᓭ ᔑ∷ᒷ リ𝙹ℸ ̣ ∴⍑ᔑℸ ̣ ℸ ̣ ⍑ᒷ|| ᓭᒷᒷᒲ, which translates to "The Axolotls are not what they seem".
-Axolotls are small salamanders that are endemic to Mexico, which are critically endangered; following Mojang Studios' trend of adding endangered species such as polar bears, giant pandas (no longer endangered as of 2022), sea turtles, and bees to the game in order to raise awareness among players.
+Axolotls are small salamanders that are endemic to Mexico, which are critically endangered; following Mojang Studios' trend of adding endangered species such as polar bears, giant pandas (no longer endangered as of 2025), sea turtles, and bees to the game in order to raise awareness among players.
 The probability of a blue axolotl spawning is 1 in 1200 because that is approximately the number of axolotls left in the wild in real life.
 Axolotls can eat only buckets of tropical fish and not tropical fish items because axolotls in real life eat only living fish.
-Even though they are not in the game, a green variant appears in the Caves & Cliffs: Part I announcement trailer and caves and cliffs recap. When asked on a livestream, Agnes said she cannot say why the green variant was cut from the game.
+Even though they are not added in the game, a green variant appeared in both the Caves & Cliffs: Part I announcement trailer and Caves and Cliffs recap. When asked on a livestream, Agnes said she cannot say why the green variant was cut from the game.
 Both the "play dead" behavior and the regeneration ability of axolotls are based on the abilities of real life axolotls, who fake their death in the face of a predator or a threat.
 Because real axolotls do not actually vocalize, the sounds of axolotls were recorded from the incidental "hiccups" and "burps" real axolotls occasionally make when surfacing, as well as heavily edited dog sounds.
+As of 2025, there hasn't been a LEGO Minecraft wild axolotl variant featured in sets.
 
 
 == Gallery ==
@@ -240,6 +242,22 @@ Because real axolotls do not actually vocalize, the sounds of axolotls were reco
 
 === In other media ===
 
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
 		
 			
 			

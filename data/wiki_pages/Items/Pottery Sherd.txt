@@ -72,24 +72,27 @@ Issues relating to "Pottery Sherd" are maintained on the bug tracker. Report iss
 Many pottery sherds are based on another in-game mob or item:
 The angler pottery sherd depicts a fishing rod.
 The archer pottery sherd depicts a bow and arrow.
+The arms up pottery sherd depicts a character with their arms up.
 The blade pottery sherd depicts a sword.
 The brewer pottery sherd depicts a potion.
 The burn pottery sherd depicts fire.
 The danger pottery sherd depicts a creeper.
-The explorer pottery sherd depicts a map.
+The explorer pottery sherd depicts a treasure map.
+The flow pottery sherd depicts the spiral wind pattern depicted on chiseled tuff.
 The friend pottery sherd depicts the unibrow and nose of a villager or iron golem.
+The guster pottery sherd depicts a breeze.
+The heart and heartbreak pottery sherds depict a heart and broken heart respectively.
 The howl pottery sherd depicts a wolf.
 The miner pottery sherd depicts a pickaxe.
 The mourner pottery sherd depicts an early design for the warden.
 The plenty pottery sherd depicts a chest.
-The sheaf pottery sherd depicts wheat.
-The skull pottery sherd depicts a skeleton.
-The snort pottery sherd depicts a sniffer.
 The prize pottery sherd depicts a diamond cut diamond
 It could depict a ruby from Minecraft Earth, as well.
-The arms up pottery sherd depicts a character with their arms up.
-The heart and heartbreak pottery sherds depict a heart and broken heart respectively.
+The scrape pottery sherd depicts an axe.
+The sheaf pottery sherd depicts wheat or lit campfire.
 The shelter pottery sherd depicts a tree.
+The skull pottery sherd depicts a skeleton.
+The snort pottery sherd depicts a sniffer.
 
 
 == Gallery ==

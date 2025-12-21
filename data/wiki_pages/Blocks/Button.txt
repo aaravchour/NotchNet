@@ -1,6 +1,6 @@
 A button is a non-solid block that produces a temporary redstone signal when pressed, with two variants.
 Stone buttons can only be pressed by players.
-Wooden buttons remain pressed for longer, and can also be pressed by arrows and tridents.
+Wooden buttons remain pressed for longer, and can also be pressed by arrows, tridents and wind charges.
 
 
 == Obtaining ==
@@ -9,7 +9,7 @@ Wooden buttons remain pressed for longer, and can also be pressed by arrows and 
 === Breaking ===
 A wooden button is easily broken with an axe, but drops itself as an item if broken using any tool. A stone button must be mined with a pickaxe to drop as an item.
 
-In Java, you don't need to have a pickaxe to mine a stone/polished blackstone button. But in Bedrock, you need to have a pickaxe to mine a stone/polished blackstone button
+in Java Edition, a pickaxeis not required to mine a stone/polished blackstone button. However in Bedrock Edition, a pickaxe is required to mine a stone/polished blackstone button
 A button is removed and drops as an item if:
 
 its attachment block is moved, removed, or destroyed.
@@ -42,7 +42,7 @@ More information about placement on transparent blocks can be found at Opacity/P
 
 Activation
 Buttons are usually in an inactive state, but can be temporarily activated by players. A button can be activated by using it. A wooden button can also be activated by a fired arrow or a thrown trident if its collision box touched the button.
-Mobs cannot activate buttons directly, but arrows fired by skeletons or dispensers can activate wooden buttons.
+Arrows fired by skeletons, strays, boggeds, parcheds‌ or dispensers can activate wooden buttons. Breezes can also activate buttons by launching wind charges at it.
 
 Behavior
 When activated, a wooden button remains active for 15 redstone ticks (1.5 seconds, barring lag), while a stone button remains active for 10 redstone ticks (1 second, barring lag). A wooden button activated by a fired arrow or a thrown trident remains active until the arrow or trident despawns (after one minute) or is picked up by a player.

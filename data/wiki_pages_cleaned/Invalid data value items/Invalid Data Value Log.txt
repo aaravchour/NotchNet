@@ -1,4 +1,4 @@
-Invalid data value logs are item forms of the primary log block with damage values outside of the usual range which logs can usually be obtained in.
+Invalid data value logs are unobtainable item forms of the primary log block with damage values outside of the usual range which logs can usually be obtained in.
 
 Without the use of commands, invalid data value logs are unobtainable in the last versions in which they existed without inheriting them from a prior version in which they were obtainable.
 
@@ -16,3 +16,5 @@ Inventory appearances
 Invalid data value logs are an issue, and due to their removal, can be considered already fixed.
 
 Invalid Data Value Log at the Minecraft Discontinued Features wiki
+
+Unobtainable in Mounts of Mayhem

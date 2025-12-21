@@ -1,4 +1,5 @@
-A boat is a drivable vehicle entity used primarily for fast transport of players and passenger mobs over bodies of water. Bamboo rafts look different, but function almost identically to other boats.
+A boat is a drivable vehicle entity used primarily for fast transport of players and passenger mobs over bodies of water.
+Bamboo rafts look different, but function almost identically to other boats.
 
 Boats can be crafted with any Overworld planks; crimson and warped planks cannot be used to make boats.
 Boats can be retrieved by repeatedly hitting them until they drop as an item.
@@ -21,9 +22,9 @@ In Java Edition, boats can be ridden against a current, but cannot be ridden ups
 
 Boats move according to the player's control or water currents, with speed affected by the surface traversed. Boats move extremely quickly on ice, allowing for the construction of fast transportation systems in any dimension.
 
-A boat floats atop still or flowing water. In Java Edition, a boat sinks if it enters a waterfall. In Bedrock Edition, a boat does not sink when submerged but floats up. This feature lets a player contrive stepped uphill water flows to propel a boat uphill using only flowing water.
+A boat floats atop still or flowing water. In Java Edition, a boat sinks if it enters a waterfall. In Bedrock Edition, a boat does not sink when submerged but floats up. This feature lets a player contrive stepped uphill water flows to propel a boat uphill using only flowing water. Boats also sink if pulled underwater using a lead. 
 When a boat moves over a bubble column, it begins to shake. If the bubbles are caused by a magma block, all passengers are expelled and the boat sinks.
-In Java Edition, a sunken boat cannot be re-floated until a bubble column pushes it up or it is broken by the player. In Bedrock Edition, a boat resumes floating when it emerges from the currents keeping it down, or when the bubble column is blocked or removed.
+In Java Edition, a sunken boat cannot be re-floated until a bubble column pushes it up, it is pulled back up using a lead, or it is broken by the player. In Bedrock Edition, a boat resumes floating when it emerges from the currents keeping it down, or when the bubble column is blocked or removed. 
 Dolphins chase players riding a boat in motion, occasionally bumping the boat, causing it to shake briefly.
 
 As boats are entities, they have health. Boats effectively have just over 4 (exactly 4 damage is not quite enough to destroy a boat), and regenerate 110 per game tick. 

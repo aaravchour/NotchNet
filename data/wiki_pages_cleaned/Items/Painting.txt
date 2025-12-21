@@ -42,7 +42,7 @@ The "Skull on Fire" painting contains a Minecraft world in the background, which
 The seeds for this world are -1044887956651363087 and -6984854390176336655 (both are the same), standing at X=-249.65, Y=91, Z=-29.04.
 The "Skull on Fire" painting's texture was added in Beta 1.3. However, the code for paintings to randomly display the part of the Kz.png texture that was to be occupied by the Burning Skull painting was added earlier, in Beta 1.2_01. As there was nothing on this part of the texture except for a purple background grid, this is what would be displayed if the painting was randomly chosen, until the Burning Skull painting texture was actually added.
 The original "Skull on Fire" painting was given to the winner of an official texture pack competition by Mojang.
-The "Dennis" painting was added as a reference from A Minecraft Movie, where the exact same painting was found in Steve's Sceret Stash.
+The "Dennis" painting was added as a reference to A Minecraft Movie, where the exact same painting was found in Steve's Secret Stash.
 
 Item Frame
 Unused paintings

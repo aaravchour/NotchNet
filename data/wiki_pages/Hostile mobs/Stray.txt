@@ -19,7 +19,7 @@ Any naturally spawned equipment, including the bow, has an 8.5% chance of droppi
 
 
 == Behavior ==
-Strays behave the same as normal skeletons but make noises with an echoing effect and shoot tipped arrows that inflict Slowness for 30 seconds on any target that they hit. In Bedrock Edition, strays that are underwater use a melee attack that inflicts Slowness. Strays don’t take damage from freezing in powder snow, but they are not immune to Slowness.
+Strays behave the same as normal skeletons but make noises with an echoing effect and shoot tipped arrows that inflict Slowness for 30 seconds on any target that they hit. In Bedrock Edition, strays that are underwater use a melee attack that inflicts Slowness. Strays don't take damage from freezing in powder snow, but they are not immune to Slowness.
 
 
 == Sounds ==

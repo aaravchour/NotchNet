@@ -1,4 +1,4 @@
-The ominous vault is a less common variant of the Trial Vault. They are found in Trial Chambers and can only be opened with an ominous trial key depending. Ominous vaults can only be used once per player.
+The ominous vault is a less common variant of the Trial Vault. They can only be found in Trial Chambers and can only be opened with an ominous trial key. Ominous vaults can only be used once per player.
 
 
 == Obtaining ==

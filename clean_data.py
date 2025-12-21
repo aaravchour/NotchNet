@@ -1,9 +1,10 @@
 import os
 import re
 from tqdm import tqdm  # type: ignore
+import config
 
-SOURCE_DIR = "data/wiki_pages"
-OUTPUT_DIR = "data/wiki_pages_cleaned"
+SOURCE_DIR = config.DATA_DIR_RAW
+OUTPUT_DIR = config.DATA_DIR_CLEANED
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
@@ -27,7 +28,7 @@ def clean_text(text):
     return text.strip()
 
 
-def clean_and_save_file(filepath, relative_path):
+def clean_and_save_file(filepath, relative_path, output_dir):
     """
     Cleans a single file and saves it to the output directory.
     This function now also processes the ImageSourceURL and ImagePath tags.
@@ -71,16 +72,17 @@ def clean_and_save_file(filepath, relative_path):
     cleaned_text = cleaned + image_link_tag
 
     # 7. Save the cleaned file
-    cleaned_path = os.path.join(OUTPUT_DIR, relative_path)
+    cleaned_path = os.path.join(output_dir, relative_path)
     os.makedirs(os.path.dirname(cleaned_path), exist_ok=True)
 
     with open(cleaned_path, "w", encoding="utf-8") as f:
         f.write(cleaned_text)
 
 
-def walk_and_clean(source_dir):
+def walk_and_clean(source_dir=SOURCE_DIR, output_dir=OUTPUT_DIR):
     """Walks the source directory, cleans all .txt files, and saves to output."""
     file_list = []
+    print(f"🧹 Starting cleanup from '{source_dir}'...")
     for root, _, files in os.walk(source_dir):
         for file in files:
             if file.endswith(".txt"):
@@ -90,10 +92,10 @@ def walk_and_clean(source_dir):
 
     # Use tqdm for a progress bar
     for full_path, relative_path in tqdm(file_list, desc="Cleaning files"):
-        clean_and_save_file(full_path, relative_path)
+        clean_and_save_file(full_path, relative_path, output_dir)
+    
+    print(f"✅ Cleaned files saved to '{output_dir}'")
 
 
 if __name__ == "__main__":
-    print(f"🧹 Starting cleanup from '{SOURCE_DIR}'...")
-    walk_and_clean(SOURCE_DIR)
-    print(f"✅ Cleaned files saved to '{OUTPUT_DIR}'")
+    walk_and_clean()

@@ -1,21 +1,17 @@
 #!/bin/bash
 
-# Exit immediately if a command exits with a non-zero status
-set -e
+# Start Ollama server in the background
+ollama serve & 
 
-# Download the index from GCS
-# The GCS_INDEX_PATH env var will be set in Cloud Run
-# e.g., gs://your-bucket-name/faiss_index.tar.gz
-echo "Downloading FAISS index from ${GCS_INDEX_PATH}..."
-gsutil cp "${GCS_INDEX_PATH}" /app/faiss_index.tar.gz
+# Wait for Ollama to be ready
+while ! ollama list > /dev/null 2>&1; do
+  echo "Waiting for Ollama server to start..."
+  sleep 1
+done
 
-# Decompress the index
-echo "Decompressing index..."
-tar -xzf /app/faiss_index.tar.gz -C /app
-echo "Index decompressed to /app/faiss_index"
+# Pull the required models
+ollama pull mxbai-embed-large
+ollama pull deepseek-v3.1:671b-cloud
 
-# Start the Gunicorn server
-# It will listen on the port specified by the $PORT environment variable,
-# which is automatically set by Cloud Run.
-echo "Starting Gunicorn server..."
-gunicorn --bind :${PORT} --workers 1 --threads 8 --timeout 0 server:app
+# Start the web server
+gunicorn --bind 0.0.0.0:8080 --workers 1 --threads 8 --timeout 0 server:app

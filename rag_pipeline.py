@@ -9,11 +9,13 @@ from langchain_core.prompts import PromptTemplate  # type: ignore
 from langchain_community.embeddings import OllamaEmbeddings  # type: ignore
 from langchain_community.chat_models import ChatOllama  # type: ignore
 
+import config
+
 # ===========================
 # Configuration
 # ===========================
 
-INDEX_PATH = "faiss_index"
+INDEX_PATH = config.INDEX_PATH
 qa_chain = None
 
 NUM_CORES = os.cpu_count()
@@ -27,7 +29,7 @@ QA_PROMPT = PromptTemplate(
 - Do not guess or provide information not explicitly present in the context.
 - Do not ask the user for more information, clarification, or questions.
 - Answer as if speaking to a fellow Minecraft player, with a friendly and informative tone.
-- Avoid mentioning mods, plugins, or any content outside vanilla Minecraft.
+- Avoid mentioning mods, plugins, or any content outside vanilla Minecraft unless specifically asked about a mod in the context.
 - Do not include real-world references or personal opinions.
 - Answer concisely and directly, without restating the question or adding unnecessary introductions.
 - Use the context strictly and exclusively for the answer.
@@ -52,15 +54,14 @@ Answer:""",
 
 def check_ollama():
     try:
-        OLLAMA_HOST = os.environ.get("OLLAMA_HOST", "34.135.152.232:11434")
-        r = requests.get(OLLAMA_HOST)
+        r = requests.get(config.OLLAMA_HOST)
         if r.status_code == 200:
             print("🟢 Ollama server is running.")
         else:
             print("🔴 Ollama server responded, but not OK.")
     except Exception as e:
         raise RuntimeError(
-            "❌ Ollama is not running. Please start it with `ollama serve` or `ollama run <model>`."
+            f"❌ Ollama is not running at {config.OLLAMA_HOST}. Please start it with `ollama serve`."
         ) from e
 
 
@@ -70,8 +71,7 @@ def build_retriever():
     """
     check_ollama()
 
-    OLLAMA_HOST = os.environ.get("OLLAMA_HOST", "34.135.152.232:11434")
-    embedding_model = OllamaEmbeddings(model="mxbai-embed-large", base_url=OLLAMA_HOST)
+    embedding_model = OllamaEmbeddings(model="mxbai-embed-large", base_url=config.OLLAMA_HOST)
 
     if not os.path.exists(INDEX_PATH):
         print(f"❌ FATAL: FAISS index not found at {INDEX_PATH}")
@@ -99,9 +99,8 @@ def build_qa_chain():
 
     retriever = build_retriever()
 
-    print("🔧 Loading local LLM...")
-    OLLAMA_HOST = os.environ.get("OLLAMA_HOST", "34.135.152.232:11434")
-    llm_model = ChatOllama(model="deepseek-v3.1:671b-cloud", base_url=OLLAMA_HOST)
+    print(f"🔧 Loading local LLM ({config.LLM_MODEL})...")
+    llm_model = ChatOllama(model=config.LLM_MODEL, base_url=config.OLLAMA_HOST)
     print("✅ LLM loaded.")
 
     print("🔧 Building new LCEL retrieval chain...")
@@ -110,6 +109,15 @@ def build_qa_chain():
 
     print("✅ QA chain built successfully.")
     return qa_chain
+
+
+def reload_qa_chain():
+    """Forces a reload of the QA chain, useful after index updates."""
+    global qa_chain
+    print("🔄 Reloading QA chain...")
+    qa_chain = None
+    build_qa_chain()
+    print("✅ QA chain reloaded.")
 
 
 def generate_answer(question: str) -> str:

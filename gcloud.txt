@@ -1,3 +1,0 @@
-gcloud builds submit --tag gcr.io/unique-bebop-476717-h7/minecraft-rag-server
-
-gcloud run deploy minecraft-rag-server     --image gcr.io/$(gcloud config get-value project)/minecraft-rag-server     --platform managed     --region us-central1     --set-env-vars=CHATBOT_API_KEY="52398200ee29bbb2bfeff409f8a57a71",GCS_INDEX_PATH="gs://notchnet/faiss_index.tar.gz"  --set-env-vars="OLLAMA_HOST=http://34.135.152.232:11434

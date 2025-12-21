@@ -4,10 +4,11 @@ import requests
 from time import sleep
 import concurrent.futures
 from tqdm import tqdm  # type: ignore
+import config
 
-API_URL = "https://minecraft.fandom.com/api.php"
-DATA_DIR = "data/wiki_pages"
-MAX_WORKERS = 10
+API_URL = config.WIKI_API_URL_DEFAULT
+DATA_DIR = config.DATA_DIR_RAW
+MAX_WORKERS = config.MAX_WORKERS
 
 
 def ensure_dir(path):
@@ -15,7 +16,7 @@ def ensure_dir(path):
         os.makedirs(path)
 
 
-def fetch_category_members(category, cmcontinue=None):
+def fetch_category_members(api_url, category, cmcontinue=None):
     params = {
         "action": "query",
         "list": "categorymembers",
@@ -28,7 +29,7 @@ def fetch_category_members(category, cmcontinue=None):
 
     for _ in range(3):
         try:
-            resp = requests.get(API_URL, params=params)
+            resp = requests.get(api_url, params=params)
             resp.raise_for_status()
             return resp.json()
         except requests.exceptions.RequestException as e:
@@ -37,7 +38,7 @@ def fetch_category_members(category, cmcontinue=None):
     return {}
 
 
-def fetch_page_content(title):
+def fetch_page_content(api_url, title):
     """
     Fetches the text extract AND the list of images for a page.
     Returns: (text, images)
@@ -51,7 +52,7 @@ def fetch_page_content(title):
     }
 
     try:
-        resp = requests.get(API_URL, params=params)
+        resp = requests.get(api_url, params=params)
         resp.raise_for_status()
         data = resp.json()
         pages = data.get("query", {}).get("pages", {})
@@ -105,7 +106,7 @@ def download_image(url, folder, filename):
     return None
 
 
-def discover_pages_to_fetch(category, recipe_categories, visited, work_items):
+def discover_pages_to_fetch(api_url, category, recipe_categories, visited, work_items):
     """
     PHASE 1: Recursively scans categories and adds work items to a list.
     A work item is a tuple: (title, category, is_recipe_category)
@@ -119,7 +120,7 @@ def discover_pages_to_fetch(category, recipe_categories, visited, work_items):
     is_recipe_category = category in recipe_categories
 
     while True:
-        data = fetch_category_members(category, cmcontinue)
+        data = fetch_category_members(api_url, category, cmcontinue)
         members = data.get("query", {}).get("categorymembers", [])
         if not members:
             break
@@ -128,7 +129,7 @@ def discover_pages_to_fetch(category, recipe_categories, visited, work_items):
             title = member["title"]
             if title.startswith("Category:"):
                 subcat = title.replace("Category:", "")
-                discover_pages_to_fetch(subcat, recipe_categories, visited, work_items)
+                discover_pages_to_fetch(api_url, subcat, recipe_categories, visited, work_items)
             else:
                 work_items.append((title, category, is_recipe_category))
 
@@ -138,22 +139,14 @@ def discover_pages_to_fetch(category, recipe_categories, visited, work_items):
             break
 
 
-def process_page_work_item(work_item):
+def process_page_work_item(api_url, work_item):
     """
     PHASE 2: The actual work done by each thread.
     Fetches one page and saves it.
     """
     title, category, is_recipe_category = work_item
 
-    if title == "Crafting Table":
-        print(f"DEBUG: Processing page: {title}")
-        print(f"DEBUG: Category: {category}")
-        print(f"DEBUG: Is recipe category: {is_recipe_category}")
-
-    text, images = fetch_page_content(title)
-
-    if title == "Crafting Table":
-        print(f"DEBUG: Images: {images}")
+    text, images = fetch_page_content(api_url, title)
 
     image_path_to_save = None
     if is_recipe_category and images:
@@ -169,7 +162,7 @@ def process_page_work_item(work_item):
                     "iiprop": "url"
                 }
                 try:
-                    info_resp = requests.get(API_URL, params=image_info_params)
+                    info_resp = requests.get(api_url, params=image_info_params)
                     info_resp.raise_for_status()
                     info_data = info_resp.json()
                     info_pages = info_data.get("query", {}).get("pages", {})
@@ -186,12 +179,45 @@ def process_page_work_item(work_item):
                 break
 
     save_page_data(category, title, text, image_path_to_save)
-    return title  # Return title for progress bar
+    return title
+
+
+def fetch_wiki(api_url, categories, recipe_categories=None):
+    if recipe_categories is None:
+        recipe_categories = set()
+
+    print(f"--- Phase 1: Discovering all pages to fetch from {api_url} ---")
+    visited = set()
+    work_items = []
+
+    for cat in categories:
+        discover_pages_to_fetch(api_url, cat, recipe_categories, visited, work_items)
+
+    print(f"\n✅ Discovered {len(work_items)} total pages.")
+
+    print(f"\n--- Phase 2: Downloading pages with {MAX_WORKERS} workers ---")
+
+    # Partial application to pass api_url to the worker function
+    from functools import partial
+    worker_func = partial(process_page_work_item, api_url)
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        futures = [executor.submit(worker_func, item) for item in work_items]
+
+        for future in tqdm(
+            concurrent.futures.as_completed(futures), total=len(work_items)
+        ):
+            try:
+                future.result()
+            except Exception as e:
+                tqdm.write(f"❌ A task failed: {e}")
+
+    print("\n🎉 All pages downloaded successfully!")
 
 
 if __name__ == "__main__":
-    # All categories to download
-    categories = {
+    # All categories to download (Default vanilla)
+    default_categories = {
         "Trading",
         "Brewing",
         "Enchanting",
@@ -210,28 +236,6 @@ if __name__ == "__main__":
         "Tutorials",
     }
 
-    recipe_categories = {"Crafting", "Brewing", "Smelting", "Smithing"}
-
-    print("--- Phase 1: Discovering all pages to fetch ---")
-    visited = set()
-    work_items = []
-
-    for cat in categories:
-        discover_pages_to_fetch(cat, recipe_categories, visited, work_items)
-
-    print(f"\n✅ Discovered {len(work_items)} total pages.")
-
-    print(f"\n--- Phase 2: Downloading pages with {MAX_WORKERS} workers ---")
-
-    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        futures = [executor.submit(process_page_work_item, item) for item in work_items]
-
-        for future in tqdm(
-            concurrent.futures.as_completed(futures), total=len(work_items)
-        ):
-            try:
-                future.result()
-            except Exception as e:
-                tqdm.write(f"❌ A task failed: {e}")
-
-    print("\n🎉 All pages downloaded successfully!")
+    default_recipe_categories = {"Crafting", "Brewing", "Smelting", "Smithing"}
+    
+    fetch_wiki(API_URL, default_categories, default_recipe_categories)

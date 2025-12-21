@@ -1,3 +1,11 @@
-__pycache__
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+faiss_index/
+data/wiki_pages/
+data/wiki_pages_cleaned/
+.DS_Store
 api_key.txt
 .python-version

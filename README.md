@@ -1,6 +1,7 @@
 # NotchNet Backend
 
-NotchNet is an AI-powered Minecraft knowledge companion that uses RAG (Retrieval Augmented Generation) to answer questions about Minecraft and its mods.
+NotchNet is an AI-powered Minecraft knowledge companion that uses RAG (Retrieval Augmented Generation) to answer questions about Minecraft and its mods. 
+Check it out: https://github.com/aaravchour/notchnet-mod
 
 ## 🌟 Features
 
@@ -79,4 +80,4 @@ See `config.py` for default settings. You can override them using environment va
 
 ## 📜 License
 
-MIT License. See [LICENSE](LICENSE) for details.
+GPLv3 License. See [LICENSE](LICENSE) for details.

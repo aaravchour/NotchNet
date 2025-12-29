@@ -16,7 +16,8 @@ Check it out: https://github.com/aaravchour/notchnet-mod
 ### Prerequisites
 
 1.  **Python 3.10+**
-2.  **[Ollama](https://ollama.com/)** installed and running (for Local Mode).
+2.  **[Ollama](https://ollama.com/)** installed and running.
+3.  (For local model) 8GB of VRAM and 16GB of RAM for a smooth experience.
 
 ### Quick Start
 
@@ -50,7 +51,7 @@ Check it out: https://github.com/aaravchour/notchnet-mod
          -d '{"question": "How do I make a shield?"}'
     ```
 
-## 📚 Adding Mod Wikis
+## 📚 Adding Mod Wikis (still in development)
 
 You can teach NotchNet about new mods by fetching their wikis.
 

@@ -1,0 +1,28 @@
+Gets the position of the top non-air block below the specified position. 
+
+
+== Usage ==
+
+
+== Syntax ==
+gettopsolidblock <x: value> <z: value> <z: value>
+Gets the position of the top non-air block below the specified position. 
+
+
+== Arguments ==
+x: value: float and y: value: float and z: value: floatSpecifies the coordinates at which to check for the block. 
+
+
+== Result ==
+
+
+== Output ==
+
+
+== Example ==
+
+
+== History ==
+
+
+== References ==

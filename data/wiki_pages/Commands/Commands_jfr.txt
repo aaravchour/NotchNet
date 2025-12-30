@@ -1,0 +1,27 @@
+Starts and stops profiling with Java FlightRecorder as well as a few custom events.
+
+
+== Usage ==
+Profiling contains several custom events below:
+
+minecraft.ServerTickTime: sampling event exposing average server tick times at one second intervals.
+minecraft.ChunkGeneration: time taken to generate individual chunk stages.
+minecraft.PacketRead | minecraft.PacketSent：network traffic.
+minecraft.WorldLoadFinishedEvent: initial world loading duration.
+A summary JSON report is written both to the log file and in the debug folder accompanied by a .jfr recording ready to be analyzed in i.e JMC or any other profiler tool supporting the format.
+
+
+== Syntax ==
+jfr start
+Start JFR profiling.
+jfr stop
+Stop JFR profiling.
+
+
+== Result ==
+
+
+== Output ==
+
+
+== History ==

@@ -1,0 +1,415 @@
+The ender dragon is a giant flying hostile boss mob found when first entering the End. She is the largest naturally spawning mob in the game. She guards access to the end gateways that provide entry to the outer end islands in addition to the exit portal that allows return to the Overworld as well as access to the end credits of Minecraft. Because of this, she is known by most Minecraft fans as the 'final boss' of the game. Her attacks involve charging at the player and her unique dragon acid attacks.
+
+
+== Spawning ==
+
+
+=== Initial spawning ===
+The ender dragon spawns 20 game ticks (1 second) after an entity first arrives in the End, along with the bedrock frame for the exit portal.
+
+
+=== Re-summoning ===
+
+Players can re-summon the dragon by placing four end crystals on the edges of the exit portal, one on each side. When it is re-summoned, the four end crystals point to the tops of each pillar setting off a series of explosions that resets the obsidian pillars, iron bars, and end crystals. The top of each pillar explodes, destroying any player-placed blocks. Eventually, all of the end crystals point at the coordinates of (0.0, 128, 0.0) and the ender dragon spawns there. The four crystals placed around the exit portal then explode. If the player does not pick up the dragon egg and starts to re-summon the dragon, the dragon egg disappears.
+If the dragon goes through an end gateway, another immediately spawns at (0, 128, 0) while the other dragon flies to (0, 128, 0).
+
+
+== Drops ==
+After the ender dragon is slain for the first time, the following events take place:
+
+She slowly ascends, her wings and body becoming more tattered until she disappears in beams of light erupting from her center.
+There's an explosion of 12000 experience points (ten drops of 960 and one drop of 2400) — enough to bring a player from level 0 to level 68. If killed on top of the bedrock structure, some of the experience orbs can drop into the exit portal. The experience orbs can then be retrieved in the overworld.
+The bedrock structure fills in with an end portal interface to become the exit portal, enabling the player to transport back to the Overworld and respawn at their spawn point.
+A dragon egg appears above the island's central bedrock structure. If a block exists right above the center of the central bedrock structure, then the dragon egg spawns 1 block above the highest block at (0,0). If the highest block is at the height limit, then the dragon egg does not spawn.
+An end gateway portal is generated floating within 75–100 blocks of the exit portal.
+When a re-summoned ender dragon is slain, the same events occur except that only 500 experience points are dropped‌ and no more than 20 gateway portals are generated. The dragon egg appears the first time the ender dragon is slain in Java Edition, and the first and second time in Bedrock Edition; it does not appear after any subsequent dragon slaying.
+
+
+== Behavior ==
+
+During the battle with the ender dragon, unique music called "Boss" plays, the edges of the screen darkens and black fog appears, and chunks around the exit portal are constantly loaded regardless of render distance. These happen as long as there is at least one player within a Euclidean distance of 192 blocks from (0.0, 128, 0.0).
+The ender dragon has a light purple health bar that appears at the top of the player's screen. Her health is frequently restored by nearby end crystals, indicated by a magical white beam connecting the dragon and the crystal. Destroying an end crystal that is actively healing the dragon causes 10 damage to her. 
+The dragon can take damage only from explosions and player-based damage, and takes damage of (1⁄4 × normal damage + 1) when hit on any part that is not her head, making it the most resilient mob in the game. Suffocation is completely non-applicable, as she either phases through or immediately destroys any block she touches.
+The dragon is immune to all status effects.
+
+By using the F3 + B shortcut, the dragon's bounding box appears.‌ She cannot be damaged at just any spot in this large volume: eight green sub-hitboxes are also shown, which indicate the locations where the dragon can take damage: The tail, body, head, and wings.
+
+
+=== Movement ===
+The ender dragon is a flying mob, which cannot actually stand on the ground. She flies around the end main island while fighting the player.
+The dragon can pass through all blocks, destroying almost all types, but can still be affected by flowing water, lava and bubble column. Blocks not destroyed are those that naturally generate on the central End island and those that are intended to be indestructible, such as end stone and respawn anchors:
+
+Barrier
+Bedrock
+   Command Block
+Crying Obsidian
+End stone
+ End portal (block)
+End portal frame
+ End gateway (block)
+Fire
+Iron bars
+Light Block
+Obsidian
+Reinforced Deepslate
+Respawn Anchor
+Structure Block
+In Java Edition, these blocks are marked under the dragon_immune tag, with the exception of light blocks and fire, which are marked as dragon_transparent.
+Destroyed blocks are not dropped, although containers (such as chests and dispensers, but not shulker boxes) drop their contents.
+
+
+=== Attacking ===
+
+The dragon never targets any entity but the player, although other mobs may turn hostile to the dragon when hit, and the dragon may sometimes retaliate against other mobs if it takes damage to a projectile. Any entities hit by her wings are dealt 5 damage (or 10 damage if hit by her head), and in Java Edition, are thrown into the air, sometimes to fatal heights or even off the island. Neither of these effects is applied for 1⁄2 second after the dragon takes damage.
+The ender dragon has four main states of behavior:
+
+Guarding
+The dragon begins in this state, circling the ring of obsidian pillars on either the outside if there are still end crystals or the inside if the crystals are destroyed.
+With each crystal's destruction, she takes damage and there is an increased chance of the dragon switching states.
+Targeting
+Whenever the dragon finds herself less than 10 blocks or more than 150 blocks from her current target, she attempts to choose a new target. When damaged she targets a point just behind herself, causing her to turn away and choose a new target.
+Strafing
+Upon the destruction of an end crystal, the dragon switches to strafing. As soon as it is within 64 blocks, she shoots a fireball at the player.
+The dragon resumes circling after this state.
+Diving
+The dragon dives onto the target player's position, taken at the start of the dive.
+The dragon resumes circling after this state, whether or not she actually hit the player.
+Perching
+While Guarding and the dragon has reached the end of the path, she has 1 in (3 + crystals alive) chance (~7.7% up to 33%) to go to the exit portal structure (approaching from the side opposite the player if possible) and lands on the highest block of the coordinates (x=0, z=0), up to (y=101).‌ If there is no block in (x=0, z=0) the dragon freezes right when she switches to perching.‌ The dragon is immune to arrows in this state; they all catch fire and bounce off. In Java Edition she is also immune to thrown tridents in this state.
+Dragon's Breath
+Unless the player is in Peaceful difficulty, after 1.25 seconds, if a player is within 20 blocks of the exit portal structure, the dragon roars and use its 3-second breath attack, damaging players similarly to a lingering potion of Harming. An area of visible particles in the shape of a horizontal disc one block tall and 5 to 6 blocks in diameter appears where the breath attack strikes, either on the ground or floating in the air, at whatever point the breath attack struck a block. The harming effect zone where the player takes damage is confined to a smaller area in the center this visible cloud, covering about 3 to 4 blocks.
+The harming effect portion of the purple clouds emitted from the dragon's breath attack can be collected in a glass bottle to obtain dragon's breath. Each bottle of dragon's breath collected removes one block from the lingering damage zone of the breath attack. The visible clouds remain for 3 seconds whether the dragons breath is bottled or not. By rapidly collecting all of the harmful blocks, usually around three, even a direct hit from the breath attack can be mostly and even entirely negated before the player suffers any damage.
+Charge
+If the player is not near the portal within 5 seconds of the dragon's landing, it charges at players within 150 blocks.
+Take-off
+After four consecutive breath attacks, or if the dragon fails to locate a player within 150 blocks, she takes off from her perch. She always takes off in Peaceful difficulty, making it difficult to land melee hits.
+The dragon resumes circling after this state.
+Escape
+If cumulative damage taken while perched exceeds 50 × 25, the dragon takes off and resets the damage accumulator. The accumulator is not reset if she does not take enough damage.
+The dragon resumes circling after this state.
+In Java Edition, when the dragon finally takes a fatal blow, she flies toward the exit portal structure before dying, unless she cannot find it within 150 blocks, or it is inside blocks.
+
+
+== Dragon Fireball ==
+
+Dragon fireballs are special fireballs that the ender dragon fires while strafing. They cannot be deflected unlike ghast fireballs, and they do no impact damage. Instead, they deposit purple effect clouds across the ground that damages players the same way a lingering potion of Harming does. This means that the ender dragon's fireballs deal magic damage, which ignores any damage reduction that comes from the player's armor.  However its damage does get reduced by armor enchanted with the Protection enchantment. The purple effect cloud's hitbox slowly grows larger in diameter until it disappears.
+As with her close-ranged breath attack, the purple clouds can be bottled to obtain the dragon's breath.
+Unlike lingering potions of Harming, the effect cloud does not shrink when affecting mobs.
+
+
+== Sounds ==
+Java Edition:
+Ender dragons use the Hostile Creatures sound category for entity-dependent sound events.
+Dragon fireballs use the Friendly Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Ender dragons have entity data associated with them that contain various properties.
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+Java Edition:
+
+Dragon fireballs have entity data associated with them that contain various properties.
+
+
+=== Command details ===
+
+The /summon ender_dragon command, by default, summons a harmless ender dragon that hovers in place ‌. Setting the DragonPhase tag (by issuing either the /summon ender_dragon ~ ~ ~ {DragonPhase:0} or the /data merge entity <selector> {DragonPhase:0} commands) starts the ender dragon's ordinary behavior, although the health bar does not appear because it is managed by the ender dragon fight status rather than by the dragon entity itself ‌. If spawned away from the center of the map (x=0, z=0), it flies to the center then resumes normal behavior (see #Behavior).
+Target selectors for the ender dragon target a total of 9 entities per dragon, as the ender dragon actually consists of 9 entities internally‌. So executing at a dragon to summon an arrow summons 9 arrows.
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== History ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Issues ==
+Issues relating to "Ender Dragon" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Health depletion effect of The Void does not affect ender dragons.
+If low enough on health, the ender dragon emits beams of light without dying, as if cracked.
+Name tags cannot be used on an ender dragon.
+The ender dragon's hitbox, especially her wings, is unexpected larger than the ender dragon itself, causing players to be pushed away from her from farther away than usual.
+If the player kills a summoned dragon in the Overworld or Nether, it does not create a portal or an egg.
+In Spectator mode, the player cannot view the perspective of the ender dragon, unlike any other mob. However, it is possible through the use of commands (like /spectate). When this happens, the player's camera appears about 1 block over the dragon's body.
+Using F3 + B‌ to show hitboxes reveals that the ender dragon's head rotation faces in the opposite direction to where its real head faces. This is also why the ender dragon faces the wrong way when set in a monster spawner.
+When an ender dragon is spawned in the Overworld, it flies to coordinates X=0 and Z=0 and dives at the ground or does the same behavior as if in the End. If end crystals are placed in the Overworld, they heal the dragon as normal, but it does not perch anywhere, and continues to fly around forever.
+In Bedrock Edition, there is an unused texture file for a dragon fireball item.
+In Super Smash Bros. Ultimate, one of the spirits that comes with the Steve/Alex DLC is the ender dragon. It appears as a Legend-class "spirit" that makes the user breathe fire for a long time at the start of each battle.
+A wither that is summoned to battle the ender dragon cannot deal damage because the ender dragon flies too fast, and she is immune to projectiles when perching.
+If commands or Creative mode are used to get end portal frames and eyes of ender, a player can basically skip to the end poem.
+If a player destroys ender crystals or even hurts the dragon and then uses a player-made portal, upon returning, the player retains their progress.‌
+The end dragon has the longest death sound
+She is clearly biologically female because she can lay eggs. (It’s best not to think about this too much with chickens and cows)
+Ender Dragons are immune to the Warden's sonic boom and melee attacks. However they can be pushed off without being provoked or harmed.
+The Ender Dragon underwent 3 large, unique designs in 3 separate LEGO Minecraft sets, excluding the Lego Minecraft Mirco sets.
+The latest Lego Minecraft set 21264 has a unique Ender Dragon moulded head piece that can be placed either on the Dragon's body or on a Player's head.
+
+
+=== Notch-related ===
+On Reddit, Notch suggested the ender dragon's name to be "Jean?" in the same manner he called the player "Steve?".
+Dinnerbone later stated that he thinks the name is officially "Jean?".
+Despite this, an article on Minecraft.net states that  "uttering its true name would unleash a destructive force that would obliterate not only the End, but the Nether and the Overworld at the same time."
+Notch referred to the ender dragon as a she on Reddit , the Xbox avatar item Ender Dragon Pet has the description "A cuter, friendlier version of his bigger, less playful Minecraft sister," and the encyclopedia in Bedrock Edition refers to the dragon with feminine pronouns. however, it has been later confirmed by Notch, Brandon Pearce and Jeb that all mobs in Minecraft have no gender, which would include ender dragon unless they don’t count bosses.
+
+Before she was textured, Notch reported that he was afraid to texture the ender dragon as she was a complicated model. In the end, the dragon model was so complex Notch stated that he gave up making the texture manually and wrote a texture packer tool to aid him in adding the texture to the model. Notch also uploaded the code for the tool so others could use the pack. (Link to the texture packer)
+Notch joked about how Minecraft was "going next-gen" when deadmau5 mentioned this.
+Notch has uploaded a video showing why ender dragons do not spawn in the main world, as they would destroy any block they touch.
+On Reddit, Notch explained that ender dragons destroy Overworld matter because "trying to make an AI to properly navigate arbitrary terrain before the code freeze next tuesday [sic] isn't feasible".
+
+
+== Gallery ==
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

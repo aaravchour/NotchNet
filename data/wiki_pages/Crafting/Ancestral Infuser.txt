@@ -1,0 +1,12 @@
+The Ancestral Infuser is a block added by Better With Addons. It is used to obtain various plants and items using spirits from Karate Zombies, such as Sakura Saplings or the Tatara.
+In order to work, it must be placed on top of Infused Soul Sand containing spirits, be surrounded by enough empty space and be at a light level of no more than 7. When those conditions are met the ball on its top will turn red and it can be used.
+Items can be thrown on top of it, which will convert some items into others (like Sugar Cane into Bamboo) and repair tools and armor made with the Infuser, such as the Wakizashi, at the cost of spirits taken from the Infused Soul Sand below it. It can also be right clicked, opening a GUI similar to a Crafting Table. Normal crafting recipes cannot be performed in it, it is instead used to craft several special items such as the Cherrywood Drying Unit, once again using spirits from the Infused Soul Sand.
+
+
+== Construction ==
+In order to work a 3x4x3 area clear of blocks besides the Ancestral Infuser and the Infused Soul Sand must be made as follow:
+
+Note:  Structure Voids are used to represent air blocks.
+
+
+== Recipe ==

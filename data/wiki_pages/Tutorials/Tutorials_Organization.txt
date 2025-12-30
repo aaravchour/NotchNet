@@ -1,0 +1,74 @@
+Organization is a very important habit to have in Minecraft. Organization helps with finding things quickly and easily, especially later in the game when you have collected a lot of materials. It takes a long time to find what you need when it is cluttered up. This tutorial is intended for players who prefer to store items in specific categories.
+
+
+== Storage ==
+Early on in the game, one double chest can fit most of your items, such as wood, weapons, and tools. However, to progress further in the game, you eventually need to make storage rooms with categorized chests to store items. Chests, shulker boxes and barrels are some of the most important blocks in the game. Here are the basic steps for organizing everything into a good sense of order.
+
+Build a large room for all your chests. If you are tight on space, you can embed some chests into the floor or make chest "shelves".
+Chests cannot open with a block on top (except transparent blocks like torches, glass, slabs, and other chests). You can place upside down stairs or half slabs to change this.
+If you want single chests side-by-side without them combining into a large chest, then place them while sneaking to prevent them from joining.‌
+If you have room, you may want to place signs or item frames next to, above, or on the chests to label them and make categorizing easier. To place a sign or item frame on a chest, place it while sneaking.
+If you are tight on space, you can put shulker boxes inside chests for more efficient storage, although looking for one in the End early on in the game is impractical.
+Make your storage facilities sturdy and impenetrable. Don't forget to light up the room so mobs can't spawn inside.
+Cats love to jump onto chests, which prevents the player from opening it. Make them sit down if you let them into a storage room.
+If you have a lot of iron ingots, gold ingots, wheat, lapis lazuli, snowballs, redstone, emeralds, clay, diamonds, bone meal, dried kelp, or coal, craft them into their respective blocks to allow for more compact storage.
+Tools, armor, music discs, potions, and a few other things do not stack. Keep this in mind when organizing.
+
+
+=== Categories ===
+Once you have completed your storage rooms, you'll want to be consistent with your organizing across all the singleplayer and multiplayer worlds that you play on. One of the main things to do is to come up with a few general categories for every item and block. The exact categories you decide to organize items vary between players–organize them in a way that is convenient for you. Here are some suggestions:
+
+Remember that many items can fit in multiple categories. For example, most types of food would also fit into the mob drops or natural categories. You must decide what categories have priority over others.
+Another idea for organization is to organize each chest based on where they are in the creative inventory. For example, use the labels in the creative inventory like building blocks, decoration blocks, redstone, tools, combat, and others. Note that this does not work if you have a huge supply of items, but if this is the case, you can divide each category between two different chests.
+At the entrance of your house or base, you may want to have a temporary chest that can be used for anything, so you can go farming while you keep your mining or building the setup in an easily accessible place.
+It is also helpful to have a chest for items that need to be sorted. This discourages you from simply putting items in random chests when you need to empty your inventory quickly.
+
+
+=== Contents ===
+The setup of how you put items in a specific chest is important too. Putting them randomly is going to make everything a mess, so you can group the same items and blocks together. Create rows of the same thing or section of the chest to specific items. One possible way to do this with multiple tools that have been used before, with differing durability, is to sort them like this: first, sort them by tool, sectioning them off in the chest vertically by pickaxe, shovel, hoe, etc.; then, by what they're made of–any diamond tools go to the top, while stone or wood goes to the bottom. Within the spaces of the tools, the new ones would be higher up than the used ones. For example, a new iron pickaxe would be higher than the used ones, but still not higher than a used diamond pickaxe. How you sort your items in the chests can save your sanity in the future.
+
+
+== Inventory ==
+Cleaning up your inventory and hotbar can also benefit players by making unofficial hotkeys. This way, you don't have to look at your hotbar to select what item you want and you can find an acceptable limit for the extra resources you carry. Inventory management is crucial if you want to be an efficient player.
+The following are suggestions only. There is no one way to organize an inventory, and if you are overflowing with items, you may need to adjust your item locations.
+
+
+=== Designated inventory slots ===
+This is a method of inventory organization that is capable of changing depending on the task at hand. It uses a general layout with easy access to many items and utilities, but also leaves room for personalization. Some mods may allow you to bind inventory slots to hotkeys.
+
+
+==== General layout ====
+
+The screenshot to the right shows the different "zones" in the inventory. You can add these colors to your survival inventory using resource packs.  The color codes are explained below:
+
+
+==== Slot switching ====
+
+There are two ways you can navigate the hotbar: using the mouse wheel to switch between items, and using keyboard keys. The mouse wheel is better for beginners, but it takes longer to scroll to an item and you have a high chance of skipping over the item you want. The keyboard keys can allow to you to switch to any slot on the hotbar from anywhere, but requires you to memorize the keys and you have limited mobility in the split second you switch slots. By default, the number keys are assigned to the corresponding hotbar slot. Some resource packs add numbers to the slots to make it easier.
+Here are some different recommended keyboard bindings to use for more advanced players and what fingers might be assigned to them:
+
+
+==== Tips and tricks ====
+Hotkeys
+T is for torches.
+C is for cobblestone (or stone if using silk-touch pickaxe).
+F is the easiest key to press, so having your sword here is good practice. However, you must change the switch-to-off-hand hotkey.
+You can hover over an item stack in a chest or in your inventory and press a hotkey, and that item swaps with the item currently on the hotbar slot you selected. If nothing is on the hotbar slot, that item moves there.
+You can hover over an empty square in an inventory and press a hotkey, and the item in that hotbar slot jumps to where your mouse pointer is.
+Mouse Wheel
+The water bucket is in the middle.
+The sword is actually only one slot from the torches and two from the pickaxe.
+Both
+You should have your sword selected when you're not using any other items.
+Putting things in their places even before you have the items to occupy every space teaches you where to find everything, even early game.
+Having a crafting table and furnace with you at all times lets you be prepared in case your pick breaks while mining or other things of that nature.
+
+
+=== Hotbar layout suggestion ===
+
+
+=== Instant hotbar access suggestion ===
+This layout is designed for instant access to items you might need quickly, and places items with a similar purpose next to each other so they can be accessed with a single scroll. It is also very flexible and has several slots that can be changed without sacrificing the functionality of the layout.
+
+
+== Video ==

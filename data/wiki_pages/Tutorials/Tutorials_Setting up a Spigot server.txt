@@ -1,0 +1,46 @@
+Note: This tutorial is outdated. Please refer to this video.
+If you want a server with more customization features to use, and an easy to setup and use interface. You can try Spigot. This page will show you how to easily set up a server and have your friends come on, and a list of must-have plugins, or mods used on a server. Spigot is updated for full 1.18.x functionality.
+Please note that this guide only covers Windows machines. If you are running macOS or Linux, please read this tutorial.
+
+
+== Obtaining the files ==
+First, download the latest BuildToolsGUI.exe from here. To use this program, you must have .NET 4.5 installed. If you have used your computer for a while, you probably already have it. If not, grab the installer here.
+
+
+== Preparing the server ==
+Now that we have BuildToolsGUI, we are ready to start. Open the BuildToolsGUI.exe file, and if you wish, change the version with the drop-down menu. Click "Run BuildTools". It will start running, and you can wait a bit until it has finished running. Note that this may take a while, depending on your connection and your computer. Once it is done running, open the BuildTools folder created in the same directory as the executable. Next, create a folder on your desktop named "Spigot". Copy the file "spigot-jar" to the Spigot folder, and rename it to spigot.jar
+Next, open a text editor such as Notepad, and paste the following command in:
+
+@echo off 
+java -Xms#G -Xmx#G -XX:+UseG1GC -jar spigot.jar --nogui
+pause
+
+(the # is your allocated ram, you can choose anything but 3 is recommended.
+In your text editor, select File > Save As, and navigate to the Spigot directory. Change the name of the file to run.bat.
+
+
+== Starting the server for the first time ==
+Double-click your run.bat in the Spigot directory. A command prompt window will open briefly, then close.
+Open eula.txt in the Spigot directory, and change eula=false to eula=true, if you have read the eula and agreed to the rules written down. You can find the eula here
+Double-click run.bat again to start the server. Some new files will be created in the Spigot directory.
+Congratulations! Your server is now up and running. To connect to it, open the version of Minecraft your server is on, click Multiplayer, then Direct Connect, and type in localhost as the server IP. You should connect to the world that was generated a moment ago. Now you can start to customize your server with the various options included and plugins that you can download.
+
+WARNING!
+Not many new server owners are aware of the effects of the /reload command.
+In a nutshell, this creates a new instance of every plugin, and try to re-enable it.
+This results in memory leaks, lag and potential destruction of the server.
+
+If you want to reload a plugin, use the plugin's provided command.
+If you want to add new plugin, remove existing plugin, etc., do a full RESTART! (that is stop the server -> start)
+Plugman plugin is not an exception.
+Tl;dr: Only use /reload if you know what you are doing. Do a full RESTART otherwise.
+
+How to check my IP to join from another computer?
+
+Open CMD app
+type "ipconfig" in it
+Your ip is next to "IPv4 Address" text.
+
+
+== Customizing your server ==
+With the Command Window still open, type op <yourusername> and hit Enter. You are now an operator and have privileges to execute commands on the server. Another file to play around in is the server.properties file. Open it up with a text editor and play around. There are many guides around the internet that show what these various options do, and one can be found here. When you are done on your server, type stop into the console to stop the server. If you want to add plugins to your server, you can find some here, and here. To install a downloaded plugin, place it in the Plugins folder in your Spigot directory. To start your server again, simply double-click run.bat.

@@ -1,0 +1,7 @@
+This page is about the Workbench added by ArmorPlus. For other uses, see Workbench.
+
+The Workbench is a block from the ArmorPlus mod. It is similar to the Crafting Table.
+This block is used to craft most of the basic, tier one armors, weapons and items from ArmorPlus. It is also used for the crafting of the higher tier bench High-Tech Bench.
+
+
+== Recipe ==

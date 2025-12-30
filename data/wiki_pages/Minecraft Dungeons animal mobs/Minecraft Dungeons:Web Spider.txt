@@ -1,0 +1,30 @@
+A web spider is an unimplemented mob in Minecraft Dungeons that was added in the game files in the Dungeons Beta, but was removed in 1.7.3.0. It is a variant of the spider. The only proof of its existence so far are a few textures and models in the game files.
+
+
+== Appearance ==
+Web spiders are very similar in appearance to regular spiders. It’s main similarity is that it has red eyes. The difference is that it has a greenish tint on its texture. In addition to this, there is also a very subtle purple tint in the middle of the side of each leg. It also seems to use the old spider texture prior to 1.14 with a green tint.
+
+
+== History ==
+
+
+== Trivia ==
+The texture of the web spider is nearly identical to the Hedge Spider from the Twilight Forest mod.
+
+
+== Gallery ==
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

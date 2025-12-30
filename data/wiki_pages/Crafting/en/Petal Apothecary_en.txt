@@ -1,0 +1,23 @@
+The Petal Apothecary is a block added by Botania. It allows the player to infuse petals and runes to create generational and functional flowers.
+
+
+== Usage ==
+To craft flowers, the Petal Apothecary needs to be full of Water. Water can be supplied in the following ways:
+
+Right-clicking the Petal Apothecary with a water container like a Water Bucket.
+Throwing a Water Bucket onto the apothecary.
+Right-clicking with a Rod of the Seas or any other item that generates Water.
+If Garden of Glass is present, a Bowl of Water can be used to fill the apothecary.
+To create a flower, the correct petals and runes must be thrown in the Petal Apothecary (in any order) and then seeds of any type must be thrown in to finalize the process. Shift right-clicking the Petal Apothecary will return the last item added back to the player's inventory. 
+For 20 seconds after crafting, right-clicking an apothecary filled with water with an empty hand will place items used for the last recipe. 
+A Redstone Comparator attached to the apothecary will output signal strength of 15 when the block is full of water.
+Putting Lava instead of water in the apothecary will turn it into an incinerator, burning all items dropped on top of it.
+
+Throwing Vines into the Petal Apothecary gives it an "overgrown" look. Surrounding the Petal Apothecary in a crafting grid with 8 Metamorphic Cobblestone results in a colored variant.
+
+
+== Recipe ==
+
+
+=== FTB Infinity Evolved ===
+Main article: FTB Infinity Evolved

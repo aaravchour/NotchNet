@@ -1,0 +1,5 @@
+The Crafter Tier 1 is the first tier of automatic crafters added by RFTools. The Crafter Tier 1 can remember two recipes and is used as a component in the Crafter Tier 2.
+See Automatic Crafting with RFTools for information on how to use the Crafter Tier 1.
+
+
+== Recipe ==

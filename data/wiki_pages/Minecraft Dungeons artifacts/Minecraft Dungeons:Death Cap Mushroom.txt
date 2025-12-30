@@ -1,0 +1,76 @@
+A death cap mushroom is an artifact that can be found within the various missions of Minecraft Dungeons.
+
+
+== Lore ==
+The item description states that daring warriors eat death cap mushrooms before battles and that death cap mushrooms drive fighters into a frenzy.
+
+
+== Obtaining ==
+Missions
+Creeper Woods
+Highblock Halls
+Windswept Peaks (DLC)
+Warped Forest (DLC)
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+
+== Usage ==
+The death cap mushroom increases attack speed by 100% and movement speed by 20% upon use. It has a 30-second cooldown.
+
+25% Cooldown Reduction = 22.5 sec
+50% Cooldown Reduction = 15 sec
+75% Cooldown Reduction = 7.5 sec
+
+
+=== Properties ===
+X second duration
+30 second cooldown
+
+
+=== Stats ===
+
+The duration roughly follows the formula: Duration (in seconds) = (0.052 * Power) + 8
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Death Cap Mushroom" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+
+
+== References ==

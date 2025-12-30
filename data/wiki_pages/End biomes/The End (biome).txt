@@ -1,0 +1,65 @@
+The End is a biome used to generate the End dimension. There are five variants in the biome family.‌  
+
+
+== Description ==
+This biome is exclusive to the End dimension. End stone is the only block to generate apart from those found in structures. Endermen, the Ender Dragon, and shulkers are the only mobs to spawn naturally. The terrain is almost completely flat and consists of separate islands floating in the void.
+
+
+== Variants ==
+
+
+=== The End ===
+
+This biome is used to generate the circle of radius 1024 centered at the 0,0 coordinates in the End. The End central island is generated at the center of this circle, surrounded by emptiness all the way to the edge of the biome. Most of the End features are exclusive to here, including the ender dragon, the obsidian pillars, the end crystals, the 5×5 spawn platform, the exit portal, and the 20 central end gateways. Only endermen spawn in this biome, but at much higher rates than the Overworld. There is no weather or daylight cycle in the biome, like the Nether. End gateway portals generate after the ender dragon has been defeated. If the biome is used for a superflat world, the sky appears nearly black, no exit portal generates and endermen are the only mobs to spawn at night.
+In Java Edition, this is the biome that occupies the least part of the map in the game: a circular radius of 1000 blocks, making it cover 3.5 billionths of the entire dimension, even less than the modified jungle edge in the Overworld.
+In Bedrock Edition, this biome is instead the biggest, as it is used to generate the whole dimension.
+The following mobs are naturally spawned here：
+
+
+=== End highlands ===
+                                                                           
+
+This biome generates as part of the outer islands of the End, forming the hilltops in the center of each island. This is the only biome where chorus trees naturally generate. End cities also generate here.
+End highlands use the same mob spawning chances as The End. 
+
+
+=== End midlands ===
+                                                                           
+
+This biome generates as part of the outer islands of the End, forming the gradual slope from the hilltops of each island down to the cliffs around the edge. End cities generate here, but chorus trees do not.
+End midlands use the same mob spawning chances as The End. 
+
+
+=== End barrens ===
+                                                                           
+
+This biome generates as part of the outer islands of the End, forming the outer edges of end midlands and highlands, with steep cliffs below the edge. Neither end cities nor chorus trees can generate in this biome.
+End barrens use the same mob spawning chances as The End. 
+
+
+=== Small end islands ===
+                                                                           
+
+This biome generates as part of the outer islands of the End which consists of the empty expanses between the larger islands, populated only by smaller, circle-shaped islands. Neither end cities nor chorus trees can generate in this biome.
+Small end islands use the same mob spawning chances as The End.
+
+
+== End city ==
+
+End cities are found in the outer End islands, and are made out of purpur blocks. They have valuable loot such as emeralds, enchanted iron and diamond tools, and elytra which are used for gliding.
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== External Links ==
+Around the Block: End Highlands – Minecraft.net on November 12, 2020

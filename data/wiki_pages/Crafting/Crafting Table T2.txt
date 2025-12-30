@@ -1,0 +1,6 @@
+The Crafting Table Tier Two (T2) is a block added by QwerTech, which is an upgrade from the Crafting Table T1. It is crafted with 9 rocks, 9 metal chunks, or 9 flawed gems. It is capable of all recipes that the vanilla table can create, except for recipes that contain Hammers, as QwerTech changes those recipes to require right-clicking the top of the table with a Hammer in hand.
+Unlike vanilla tables, all QwerTech crafting tables store their inventory and can be interacted with by multiple players at the same time. Additionally, it shows a 3D display of the current crafting grid above the block.
+T2 Crafting Tables are not as strong as the undamageable T3 Crafting Tables, and will become visually cracked each time a hammer is used upon it. After 16 hammering uses, the table will break into two Dust items. Like all QwerTech crafting tables, there is no limit to the amount of ordinary crafting recipes that it can be used for.
+
+
+== Recipe ==

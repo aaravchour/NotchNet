@@ -1,0 +1,152 @@
+Being a sandbox game, there is no true end to Minecraft. However, it is generally accepted you 'complete' the game upon killing the ender dragon.
+This tutorial shows the steps necessary to locate and enter the End dimension, and then defeat the ender dragon, as well as killing the wither.
+Notes:
+
+You need to be advanced in the game to complete the boss fight and win the game.
+These steps can be done in any game mode (Survival, Hardcore), but know that it is extremely difficult to complete the game on Peaceful difficulty. Eyes of Ender are required to complete the end portal, and although ender pearls can be found through trading with clerics/bartering with piglins, blaze rods can only be found through blazes, a mob that does not spawn in peaceful difficulty. Although going to the end and killing the wither/elder guardian is off the table in Peaceful, there are still many things to do in a Minecraft world that this guide could help with.
+Some items in the preparation list aren’t necessarily needed, for example, a power five bow, as it doesn’t need to be power five but is still highly recommended if you manage to get it.
+The first section of this article is a brief overview on how to finish Minecraft. If you would like to have a more detailed explanation, scroll down, and you will find many steps explaining in great detail how to get to the End and how to kill the ender dragon.
+
+
+== Overview ==
+When first beginning a game of Survival or Hardcore (recommended for true adventure style, and it’s also really hard), collect wood from nearby trees. Wood is needed to create a crafting table and a wooden pickaxe. The wooden pickaxe is necessary to harvest cobblestone, which will allow you to create a stone pickaxe and a minimum of 1 furnace, although 3 are recommended later on. Also useful at the cobblestone level, a stone sword is advised as one needs to upgrade to iron next, and it is likely that will take a while and night will probably come before then, and some degree of protection is advised. After a stone pickaxe is obtained, use it to harvest a minimum of 3 iron ingots and a minimum of 1 coal. It is recommended to harvest 32 iron ingots to create iron armor and an iron sword, along with an iron pickaxe and bucket for water. At this stage, if you want to try to go to the nether and you are having a hard time finding diamonds, you could also gather an additional 6 iron to make 2 buckets, fill one with water, and find a natural lava pool on the surface. Once you have found it, you can place the water and lava next to each other around a backboard to create a frame. Note that you need to have the lava turn into obsidian quickly, because it will flow down and make it harder to fill the frame.
+Next, it is recommended that players obtain full diamond gear, preferably all enchanted, before venturing into the Nether. A minimum of 31 diamonds must be harvested (24 for full armor, 3 for a pickaxe, 2 for a sword and 2 for an enchanting table). Finding a naturally occurring cave or fissure that drops to the last 16 levels of the world will facilitate diamond mining. It is also recommended to look around lava, because you will see more open rock at once. It has never been proven or confirmed that diamonds are generated more around lava pools. Remember, upon finding diamonds, dig around them first to ensure that they won't fall into lava and burn. A bucket of water is found to be very useful as one bucket can diffuse an entire lake of lava, and still retain the bucket. You need 5 diamonds to start progressing: the first three should go to a diamond pickaxe for mining obsidian and the other two for an enchanting table. If 2 more diamonds can be found, it is recommended to craft a diamond sword. Also, grab any gold (for golden apples), lapis lazuli (for enchanting) that you see and at least some of the redstone (for potions). If still in the bowels of the world, it is likely obsidian may have been spotted. A minimum of 10 obsidian must be harvested using a diamond pickaxe to create a frame for a nether portal and an enchanting table. Once a minimum of 10 obsidian has been harvested, return to the surface, collecting 1 flint from gravel on the journey up. 1 iron ingot will also be needed. If you are having trouble finding diamonds, you can also find diamond from structures such as desert temples, dungeons, jungle temples, villages, buried treasure, pillager outposts, etc.
+Once breathing fresh air again, decide whether to collect ender pearls or collect blaze rods first. Note that ender pearls can aid in traversing nether terrain, however ender pearls are valuable resources. If you decided to harvest ender pearls, aim for a bare minimum of 12, though a highly recommended number is between 15 and 20. You can find ender pearls 3 ways:  
+1. The simplest choice but possibly the most dangerous, killing endermen. Endermen rarely spawn in the Overworld, but if you have access to the Nether, they will spawn frequently in a warped forest.  
+2. If you happen to find a village, expert-level Clerics have a 2/3 chance of trading 5 emeralds for an ender pearl, which is the safest way but might be the most time-consuming.  
+3. If you have lots of spare gold and access to the Nether, you can barter it to piglins. Piglins have a small chance of giving you 2-4 ender pearls if given a gold ingot. Make sure to collect a lot of gold if you go this route.  
+If you chose to collect blaze rods, proceed to build a nether portal frame, and craft a flint and steel. 14 blocks of obsidian are needed for a full portal, but you can skimp on the corners if you don't have much obsidian and the portal will still work. It is also recommended to have a stack of dirt or cobblestone to use as markers when venturing through the Nether. Activate the portal with the flint and steel, and enter the nether. Once in the Nether, locate a nether fortress, proceed to locate blazes, and neutralize them until you have harvested enough blaze rods to account for half of the ender pearls you have or plan on having. It is recommended to obtain at least 10 blaze rods, but more are good. 1 blaze rod will create 2 blaze powder. 
+Once the ender pearls and blaze powder have been obtained, combine the two to create eyes of ender. Bring at least 3 for locating an end portal, and 12 for filling the end portal, although most end portals already have 1 or 2 eyes of ender already in them. Launch an eye of ender to obtain a starting direction, and head that way. Launch another eye of ender once in a while to ensure the correct path is being followed, and that the nearest portal hasn't been passed. Ensure that the eyes are recollected at every given chance. When an eye heads into the ground, a portal has been located. At this point, one can attempt to find a cave that leads to the stronghold (true adventure style), or mine a spiral stair all the way down, so as to avoid digging straight down. Try to avoid falling into the pit of lava which is found under every portal.
+Once the portal has been physically located, activate every frame and the portal to the end will be revealed. Enter and prepare for a long and somewhat uneventful fight. A bow with Power and Infinity, a diamond sword with Sharpness, full diamond armor and several slow falling potions are recommended, or you can take a water bucket instead.
+Fighting the dragon is very difficult. Shoot the non-caged crystals with your bow, climb to the top of the caged towers, break into the cages and destroy the crystals. If the dragon launches you into the air, drink a slow falling potion or place a water bucket on the ground just before impact.  Watch out for the dragon's breath and shoot the dragon with arrows.  Periodically, the dragon flies down to the end portal, and it become immune to arrows.  Melee attack it, but beware of its head attack.  If the dragon is not killed then, the dragon will fly away, once again vulnerable to arrows.  Continue this combat until depleting the dragon's health bar, at which point the dragon will explode in a spectacular white explosion.  A large amount of experience will fall from the sky.  At this point, the end portal will open.  Jump into it to see the end credits and complete the game.
+
+
+== Step 1: Building the nether portal ==
+After you have played in a Minecraft world for a while, hopefully, you have acquired at least four iron ingots along the way, whether you smelted them or found them in a chest. You will need to craft three of the ingots into at least one bucket that will be used to create obsidian for a nether portal. The only other way to make a nether portal without buckets involves mining already-created obsidian with a diamond pickaxe. Acquire a piece of flint, as well.
+The easiest way to make a nether portal without a diamond pickaxe:
+1) With your iron, craft a bucket. One bucket is all you need, but the more buckets you have, the more efficient this job is going to be.
+2) Fill a bucket with lava. If you have more than one, fill all but one with lava, and the last one with water.
+3) Make the shape below using dirt and lava. (note that these are all top view)
+
+4) Place water over the lava blocks. The lava should have turned to obsidian. If it turned to cobblestone, then the lava was flowing and not a solid source block. Break the cobblestone, put lava in it and try again. It should work this time.
+5) Place on the top of the previous blocks following:
+
+6) Place water over the two lava blocks.
+7) Do step 5 and 6 two times more on top of the current layer.
+8) Finish the top with a shape similar to the bottom.
+
+ 9) Remove all dirt blocks. From the side, it should look something like this. 
+
+10) Make a flint and steel with your flint and iron and use it to light the portal.
+
+
+== Step 2: The Nether ==
+See Nether Survival
+First of all, gear up. The nether is dangerous, especially with all the lava and the creepy hostile mobs. Pack away anything unrelated to weapons and food. Equip yourself with following items:
+
+2 stacks with cobblestone or other block with blast resistance over 4
+A full set of iron armor
+A piece of golden armor (boots or helmet are recommended) to defend yourself against piglins
+An iron or diamond sword
+A bow and arrows(if you somehow have the infinity enchant this fast only one arrow)
+iron or diamond pickaxe
+A stack of steak or cooked porkchop, or another good food.
+Golden apples (optional) for emergency healing
+Shields are recommended to deflect damage.
+If possible, Potions of Fire Resistance to defend fire damage (extremely rare in the Overworld; only available from killing witches)
+
+Enter the Nether by standing in your portal. Don't forget to bring a flint and steel!
+Look around. Familiarize yourself with the surroundings. Watch out for ghasts and other hostile mobs. Watch out for falling lava and holes in the nether landscape. Attention: If you have just begun this world and you are not familiar with many things of the Nether, do not go on. Head back and do more mining.
+Explore the nether until you find some blazes. This requires finding a nether fortress as blazes do not spawn elsewhere. Each fortress can have up to two blaze spawners in them. Make sure to mark your trail so you can find your way back. It would be a good idea to use cobblestone, because ghasts cannot destroy it. If you need resistant building blocks and are running out of cobblestone, smelting some netherrack for crafting nether bricks can be a good idea, or if you are near basalt deltas biome, using blackstone or basalt can be good too.
+Defeat them until you have at least ten blaze rods. The reason for that is that you will need at least 2 of those for finding the End. It is hard. The rest are for fixing the end portal and brewing. This task would be made easier if you had a potion of fire resistance, which requires 2 rods to craft a brewing stand and fuel for it.
+Craft all the blaze rods except one into blaze powder. The intact blaze rod is used for a brewing stand.
+Along the way, be sure to try and kill any wither skeletons that you may come across if you plan on later killing the wither.
+Try to find nether quartz ore and glowstone, if you like to use redstone.
+Try to get as much netherite as you can later on, as it is a very useful tool and armor material.
+
+
+== Step 3: Finding a stronghold ==
+Obtain at least 15 ender pearls using methods described above.
+Craft these ender pearls with the blaze powder into eyes of ender.
+Throw one of your eyes of ender. You do this by right clicking in Java Edition.
+The eye of ender should fly up in the air. Follow it and when it falls down pick it up, do not throw another eye until you are at least 1400 blocks away from (0,0) as strongholds can't generate any closer. Then throw eye each 250 blocks until the eye changes direction, meaning that the stronghold is now behind you. Continue to throw eyes until one points downwards. If an eye breaks, use another one.
+Do not dig directly down where the eye of ender enters. There is the risk of falling into the pit of lava under the end portal. Other potential methods of going down are staircase mining and attempting to find a cave that leads into the stronghold. In Bedrock Edition, if the eye of ender goes into the ground at village or close, just dig under the well and lead you to entrance of stronghold.
+You will come to a stronghold. Search for the room with the end portal.
+In the room there is a square made out of end portal blocks. Be careful. There is a silverfish spawner in every end portal room. This spawner is best destroyed. You can preserve it if you like (it can make a good xp farm and mining tool) but it is easiest for your health to destroy it. Some of the end portal blocks have eyes of ender in the top. Right click on the ones which don't have an eye of ender. This will consume the eye of ender. Do this on all the blocks that do not already have eyes of ender. A end portal should form. But don't jump in yet!
+Go back to your base to prepare for the ender dragon fight. Get all your best gear and weapons.
+When you are ready, go back to the stronghold and jump in.
+
+
+== Step 4: Boss fights ==
+There are two bosses in Minecraft (three in Bedrock Edition): the Ender Dragon, the Wither, and the Elder Guardian‌‌. 
+
+
+=== Ender Dragon ===
+For a full guide, see: Tutorials/Defeating the ender dragon
+
+At this point, you are in the End. It is made up of end stone and is filled with endermen. There is also a single ender dragon flying around, assuming this is your first time in the End in that world. Note that you can come back to The End at any time after you have killed the ender dragon, and it will not have respawned, if you do not respawn it. WARNING: You cannot get out of the End until you destroy the dragon!
+
+
+==== Preparing items ====
+At least 2 stacks of cobblestone or a water bucket (for climbing pillars and it was  originally just 2 stacks of obsidian.  the person who wrote this actually has brain damage)
+An Iron Sword to deal damage to the Ender Dragon. Bring this if you aren't bringing Beds to blow the dragon up.
+A bow and arrows (only one if you have the Infinity enchantment on your bow.)
+beds (optional) Beds can be used to blow up the dragon. Do this only if you know how to.
+armor (atleast iron)
+Iron pickaxe, to gather blocks.
+Ender pearls to teleport from the void or to the main island if the player spawns on a platform floating above the void.
+Food (high saturation, such as beef or porkchops).
+
+
+==== The fight ====
+Now you have to defeat the ender dragon. This is the hardest task, as an ender dragon has 100 hearts (200 HP) and can deal a large amount of damage. You will see a pinkish-purple bar at the top showing the ender dragon's health. You must also be wary of endermen, which are very abundant in the End. Wear full netherite armor. The best way to damage the ender dragon is with a bow and arrows, so having at least three stack of arrows just for the ender dragon is recommended. Enchanting a bow with the "Infinity" enchantment removes worry of running out of arrows, allowing you to focus on defeating the dragon. When the dragon gets low on health it will fly to the middle and sit on the end fountain. When the dragon is sitting on the end fountain, it is immune to projectile damage, so you must hit it with a sword to kill it.
+Watch out for the dragon's breath and fireballs since they can kill you extremely quickly
+When it dies, it will burst into lights and disintegrate, dropping lots and lots of experience. An end portal will appear below its death location. (If you kill the ender dragon while it is flying it will just give off explosion particles until it flies over the fountain, at which point the death animation will play.)  A dragon egg will also appear, which you can collect with a piston or other methods.
+
+
+==== Finishing off the End ====
+Collect the dragon egg. Currently, the only purpose for the dragon egg is for being a trophy.
+Jump into the end portal, the end poem will be displayed.
+Read the story, the credits and the quote. If you do not want to read all this, press escape, or click then click skip in bedrock edition.
+Congratulations! You have finally beaten the game's main adventure!
+
+
+=== Wither ===
+For a full guide, see: Tutorials/Defeating the wither
+
+
+==== Preparing items ====
+Get a bow with Power V and Infinity or better, diamond or netherite sword with Smite V and armor with Protection IV and Mending. Bring 3 stacks of arrows, unless your bow has Infinity, in which case you only need one arrow.
+Brew potions of Swiftness, Regeneration, Strength, and splash potions of Healing.
+Potion of the Turtle Master, optional (to avoid many injuries)
+Totem of Undying, optional
+Jump into a Nether portal and find a nether fortress.
+Slay as many wither skeletons as you need until you get three wither skeleton skulls. It is advisable to carry and use Looting swords, as they increase the chance of getting a skull.
+Go dig some soul sand or soul soil.
+
+
+==== Creating the wither ====
+Pick a suitable spot for the boss fight. It should be far away from any of your creations or buildings.
+Place four soul sand or soul soil in a "T" shape, then place two of the skulls that you obtained earlier on top. Do not place the last skull on top until you are prepared to fight.
+
+
+==== Fighting the wither ====
+The wither will be immune to attacks for a few seconds, when it is blue. After the health bar is filled up, the wither will release a massive explosion.
+It shoots wither skulls, both of which inflict the Wither II effect on Normal or above. The black skulls create explosions that are weaker than that of a creeper. The blue skulls create a special explosion, which can destroy obsidian. It is advised to bring a bow as the wither flies around often out of the player’s reach. The wither can heal itself by draining the health of passive mobs, so keep far away from large groups of them.
+Once half its health is drained, an effect called Wither Armor comes onto the wither. It is represented by white stripes on the wither, which protects it from projectile attacks. When hit with a sword, the Wither Armor glows red. This status also negates its ability to fly, so the arrows aren’t necessary anyway. When it reaches half health, just beware of its dash attack and wither skeleton summoned (Bedrock Edition). Also, its more challenging in this edition, due to double health.
+
+
+=== The Elder Guardian ===
+In the middle of a vast ocean, there may lie a gigantic ocean monument, with treasures of blocks of gold and wet sponges. The mobs inside are dangerous, however. It is the place where 3 Elder Guardians, which are considered Bosses in Bedrock Edition, spawn.
+
+A diamond or netherite Sword with Sharpness V and Looting III and Mending I.
+It is recommended to come with Protection IV and Mending netherite armor, as well as potions of Night Vision, Regeneration, Water Breathing, and the Depth Strider enchantment on your boots.
+Potion of Invisibility is also recommended.
+The guardians inside are formidable with their lasers and all, but the true challenges are the elder guardians. They prevent you from mining the treasure before you defeat all the elder guardians in the structure due to a Mining Fatigue effect.
+There are 8 block of gold inside the monument, as the main treasure.
+To locate the ocean monument, first go to a village and look for a cartographer villager, then buy the ocean explorer map, follow the marked destination and preferentially use the boat to cross the ocean.
+When you see it, drink Potion of Water Breathing and Night Vision before approaching the monument, then take off any armor and use invisible potions, now carefully enter the monument, without attacking the guardians outside monument (you can sprint-swim), they can't see you, so they will instead only harm the squid in the area.
+Building a Conduit is helpful if you don't have Potion of Water Breathing and Night vision.
+After you enter the gate of the ocean monument, go to another room before equipping your armor (to avoid guardians from outside entering and attacking you).
+Make your way to right wing, left wing, and top most room to kill all 3 elder guardians (see the elder guardian section in Combat).
+After they are killed, the mining fatigue effect will end and you can collect all sponges and all 8 blocks of gold. You have finally defeated the third boss in Bedrock Edition.

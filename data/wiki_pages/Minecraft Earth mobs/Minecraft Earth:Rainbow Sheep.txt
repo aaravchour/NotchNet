@@ -1,0 +1,66 @@
+The rainbow sheep was a rainbow variant of the sheep found only in Minecraft Earth.
+
+
+== Appearance ==
+Rainbow sheep were a rainbow-colored variant of the normal sheep. They had similarities to the sheep name tag easter egg in the base game, but unlike it, the rainbow sheep didn't change colors. Their wool went in a rainbow pattern with the red section being the biggest one and covering the front part of the sheep, orange wool covering its lower front legs, and yellow, green, blue, and violet stripes running along the rest of the body. The wool on their hind legs was violet in color.
+
+
+== Behavior ==
+Rainbow sheep behaved the same as a normal sheep, walking aimlessly and avoiding cliffs and lava.
+
+
+== Obtaining ==
+Rainbow sheep were obtainable as a reward in Season 5 by having a bone block, coal block, and red sandstone in the Journal. They were also obtainable by buying the "Colorful Cottage" Buildplate. They were of epic rarity, and were obtainable via sheep tappables with a 1.7% chance of getting one.
+
+
+== Drops ==
+When sheared, rainbow sheep dropped 3 Rainbow Wool. 
+When killed, they dropped:
+
+1 Rainbow Wool
+1 Raw Mutton(Cooked Mutton if killed while on fire)
+
+
+== Sounds ==
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Trivia ==
+Rainbow sheep were first found datamined in the game files, with their menu sprite found within it.
+Rainbow sheep were the rarest sheep variant, with a low 1.0% chance of obtaining it from tappables.
+A rainbow sheep can be spotted in a trailer for Minecraft Legends, despite not appearing in-game.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Minecraft Legends ====

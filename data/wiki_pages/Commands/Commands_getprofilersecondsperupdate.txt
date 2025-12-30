@@ -1,0 +1,10 @@
+Return the time taken by profiler stat
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

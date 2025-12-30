@@ -1,0 +1,38 @@
+A knowledge book is a utility item that reveals available crafting recipes to the player when used.
+
+
+== Obtaining ==
+Knowledge books can be obtained only by using commands, as it is not found in the creative inventory; therefore, it is impossible to obtain in other modes such as survival and adventure except with commands.
+For example, to give oneself a knowledge book that reveals the recipes for buckets and flower pots, use: /[[Commands/'"`uniq--nowiki-00000001-qinu`"'|'"`uniq--nowiki-00000001-qinu`"']].
+
+
+== Usage ==
+Knowledge books are used to reveal recipes to the player who uses it, by adding it to their recipe book. Using a knowledge book consumes it, removing it from the player's inventory.
+Knowledge books are especially useful to mapmakers in conjunction with /gamerule doLimitedCrafting true, because then any item is craftable only if its recipe is unlocked first.
+
+
+== Sounds ==
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+=== Item data ===
+Recipe books use the NBT tag Recipes to indicate the recipes they contain.
+The following NBT structure is provided to show how the Recipes tag is organized, and is not comprehensive above the tag tag. The full NBT for an item can be found here.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Knowledge Book" are maintained on the bug tracker. Report issues there.
+
+
+== See also ==
+Book
+Enchanted Book
+/recipe command

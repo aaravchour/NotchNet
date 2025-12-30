@@ -1,0 +1,6 @@
+The Tier One (T1) Crafting Table is a block added by QwerTech which replaces the vanilla Crafting Table. It is capable of all recipes that the vanilla table can create, except for recipes that contain Hammers, as QwerTech changes those recipes to require right-clicking the top of the table with a Hammer in hand.
+Unlike vanilla tables, all QwerTech crafting tables store their inventory and can be interacted with by multiple players at the same time. Additionally, it shows a 3D display of the current crafting grid above the block.
+T1 Crafting Tables are made with materials not strong enough for these hammering recipes, and attempting to use them for such recipes will break the table into two Dust items. A Crafting Table T2 or better is required.
+
+
+== Recipe ==

@@ -1,0 +1,40 @@
+The gloopy bow is a unique bubble bow variant that could be found within the Spooky Fall 2022 event of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Tower
+Events
+Spooky Fall 2022 (Ended)
+Merchants
+Gift Wrapper
+
+
+== Usage ==
+The gloopy bow functions identically to the bubble burster. 
+
+
+=== Properties ===
+X ranged damage
+Bubble damage
+Hits multiple targets when charged (Reliable Ricochet)
+
+
+=== Stats ===
+Charge Multipler: 2.5
+Charge Time: 0.35 seconds
+Quiver: 80
+Fire Rate: 2.2 shots per second (uncharged)
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Gloopy Bow" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==

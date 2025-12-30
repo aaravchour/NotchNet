@@ -1,0 +1,206 @@
+Slimes are bouncy, cube-shaped hostile mobs that spawn deep underground in particular chunks, or in swamp biomes. They attack by jumping at their targets. They come in three sizes, the larger slimes can split into smaller ones when they die.
+
+
+== Spawning ==
+Slimes spawn in the Overworld in specific "slime chunks" below layer 40, regardless of light levels. They can also spawn in swamp biomes between layers 51 and 69 (inclusive) in light levels of 7 or less, with these layers tending to be near the surface. Slimes spawn regardless of weather conditions.
+Only sizes 1, 2, and 4 (NBT Size tag values 0, 1 and 3 respectively) spawn naturally. With use of /summon, slimes can potentially range from size 1 to 127 (NBT Size tag 0–126).
+Like most other hostile mobs, slimes do not spawn within 24 blocks (spherical) of any player, despawn over time if no player is within 32 blocks, and despawn instantly if no player is within the despawn radius (128 blocks in Java Edition, 44 to 128 blocks in Bedrock Edition depending on simulation distance).
+A slime needs roughly a 3×2.1x3 free space to spawn. The area in which the slime spawns must be clear of solid or liquid obstructions. When a slime attempts to spawn, the game checks for the space requirement of a large slime, and the size is determined later. Therefore, since large slimes are slightly taller than 2 blocks, no slimes, regardless of size, are able to spawn at all in 2-block-high areas. Also, since large slimes are slightly wider than 2 blocks, and mobs spawn at the center of a block, having any block within the 3×2.1x3 area, even as thin as a glass pane, can prevent a slime of any size from spawning.
+Slime size is affected by regional difficulty: chances range from 33% for each size at the low difficulty to 16% small, 33% medium, and 50% big with higher difficulty.
+Slimes can spawn on some light-emitting blocks:
+
+
+=== Swamps ===
+In swamps and mangrove swamps, slimes may spawn between the heights of 51 and 69 (inclusive) when the provided light level is 7 or less. They spawn most often on a full moon, and never on a new moon.
+More precisely, the game checks two factors:
+
+If the light level is equal to or less than a random integer (from 0 to 7)
+If the fraction of the moon that is bright is greater than a random number (from 0 to 1)
+If these conditions are met and the altitude is acceptable, there is a 50% chance of spawning a slime.
+The light level requirement for slime spawning in swamps is different from that of most hostile mobs, which only spawn at light level 0.
+
+
+=== "Slime chunks" ===
+
+Slimes spawn throughout the world (except mushroom fields and deep dark biomes) below level Y=40 regardless of light level, but only in certain chunks; 1⁄10 of all chunks. 
+
+
+==== Java Edition ====
+In Java Edition, these "slime chunks" are determined pseudo-randomly by combining their chunk coordinates with the seed of the world:
+
+That is, using the chunk coordinates to help generate a seed, a random number between 0 and 9 inclusive is generated. If that number is 0, the chunk can spawn slimes. To convert world coordinates to chunk coordinates, divide by 16 and round down. Note that xPosition, and zPosition are 32-bit integers (ints).
+As per Java Edition 1.20.5 snapshot 24W13A, 2 slimes can spawn whenever any entity affected by Oozing is killed.
+
+
+==== Bedrock Edition ====
+The slime chunk algorithm in Bedrock Edition is different from in Java Edition. The algorithm doesn't depend on the world seed, thus the chunks that slimes can naturally spawn in inhabit the same coordinates for every world.
+
+
+== Drops ==
+If a slime's size is 1, it drops 0-2 slimeballs unless killed by a frog. This can be increased by 1 per level of Looting, for a maximum of 5 slimeballs. When killed by a frog, it always drops 1 slimeball.
+Slimes also drop experience points equal to their size: 4 for large slimes, 2 for medium slimes, or 1 for small slimes. Because slimes split into 2-4 smaller slimes when they die, a player can earn a possible maximum of 28 experience points from killing one large slime and all the slimes that split from it.
+
+
+== Behavior ==
+
+Slimes move by hopping, which they do every 10 to 30 ticks (1⁄2 to 1 1⁄2 seconds), and can swim in water and climb ladders and scaffolding. Unlike other mobs, slimes continue moving when no players are nearby. Their exact routine is as follows:
+The slime searches for a player (or, failing that, an iron golem) within 16 blocks (spherical) distance.
+
+If no target is found, the slime waits 10 to 30 ticks (1⁄2 to 1 1⁄2 seconds) between jumps, and changes direction randomly every 40 to 100 ticks (2 to 5 seconds).
+If a target is found, the delay before jumping is 1⁄3 as long (3 to 10 ticks), and the slime's direction is set directly toward the target before jumping.
+Unlike most mobs, slimes do not pathfind towards their target, always approaching their target in a straight line, without avoiding environmental hazards such as lava, cactus or dangerous falls. This means they can easily get stuck in corners or behind walls, not knowing how to circumvent them. This behavior is shared by magma cubes.
+A slime's maximum health is equal to its size squared, and its dimensions are 0.51 blocks times its size in each dimension. When a slime attacks, it deals damage equal to its size, except for size 1 (smallest) slimes, which do no damage, and do not prevent sleeping. Because small slimes still have a hostile AI, they continuously attack the player.
+A slime's jump distance also depends on its size; a slime jumps a distance slightly farther than its length. When landing, a number (8 times the slime's size) of slime particles appear. Slimes will always, regardless of size, jump 1 block high.
+When a slime larger than 1 dies, it spawns 2-4 new slimes equivalent to its size divided by 2, rounding down. A slime that was named with a name tag produces smaller slimes with the same name when it dies.
+Slimes continuously damage all players and iron golems‌ they collide with (although damage immunity reduces the actual damage to 1 attack every half second), unlike other mobs that damage only those targets they specifically attack.
+Slimes in water attempt to swim to the surface if possible. If forced to stay submerged, they eventually drown, splitting into smaller slimes that drown and finally drop slimeballs.
+
+
+== Sounds ==
+Java Edition:
+Slimes use the Hostile Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Slimes have entity data associated with them that contains various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== Video ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Slime" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+In Java Edition, with commands, the size of slimes can be customized. Sizes go from 1 up to 127; the size-127 slime is the largest of any mob in the game, bigger than the ender dragon.
+Because a slime's movement speed is tied to its size it becomes impossible for the player to outrun a size 8 slime on flat ground without potion effects.
+When a slime searches for nearby targets or checks to see if it should despawn, it checks from a point at the center of its hitbox on the x and z-axis and the bottom of its y-axis. Therefore, a custom-size slime sufficiently huge can be right in front of the player and be completely passive, and it may even despawn if the slime is large enough.
+The slime is the most effecient source of exp without farms, easy to kill, high spawn rates in swamps and slime chunks, and deal super low damage to you with armor.
+Green-colored Slimes are also present in Minicraft, a 2D Minecraft-inspired game also created by Notch.
+If a player walks inside a slime, they can see the slime itself inside of a slime block.
+if the player looks at the corner of a glass block, the slime inside the slime block disappears, looking like the slime block is alive.
+
+
+== Gallery ==
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Magma Cube – A similar mob that spawns only in the Nether and drops magma cream
+Tropical Slime - A variant that is found in Minecraft Earth
+
+
+== References ==

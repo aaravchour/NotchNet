@@ -1,0 +1,25 @@
+This design is a doorbell for your house. You will need a 2 x 4 x 4 area.
+
+
+== Basic Design ==
+Find where you want your button. It has to be on the bottom block of the wall to the right of the door.
+Dig down one block below the button.
+Place redstone dust in the hole.
+Dig down two blocks on the side of the hole farthest from the door.
+Place redstone dust in the hole.
+Dig out a 3×3 hole that is 2 blocks deep in front of the two existing holes.
+Place redstone dust on the farthest and nearest blocks to the right.
+Place a redstone repeater between the redstone dust at four ticks delay.
+Dig down one block to the left of each piece of redstone dust.
+Place a block of choice in what you just dug (sets instrument for note blocks).
+Place a note block on top of each block of choice.
+Set the tone for the two note blocks.
+Replace the top layer (ground level) of the hole with a natural block.
+Place your button.
+You are done!
+
+
+== Redstone Tips ==
+Use blocks of gold for the block of your choice under the note blocks to get a bell sound, which sounds similar to a real doorbell
+Right-click the first note block 6 times, and the second one 2 times, to create doorbell-like pitches.
+You can use a pressure plate instead of a button, for an automatic doorbell.

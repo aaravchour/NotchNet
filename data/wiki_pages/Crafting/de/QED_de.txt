@@ -1,0 +1,8 @@
+Die QED ist ein Block, der von Extra Utilities hinzugefügt wurde. Es kann mit Ender-Flux-Kristallen betrieben werden, die sich in einem Radius von 9 Blöcken um die QED befinden. Wenn es mit Strom versorgt wird, kann es verwendet werden, um mehrere Blöcke und Gegenstände in Extra Utilities zu erstellen, und kann für die Quantenverschränkung verwendet werden, um Erze zu multiplizieren.
+Die QED wird verwendet, um viele mächtige Gegenstände herzustellen, so z.b. die Ender Quarry Upgrade Base, die Magnum Torch und verschiedene Erzverdreifachungsrezepte.
+
+
+== NEI Eintrag ==
+
+
+== Rezept ==

@@ -1,0 +1,4 @@
+The ME Crafting CPU is a component of the ME Molecular Assembler Chamber (MAC) multiblock. When placed into the inside of the MAC during construction, each CPU will add one crafting action per three ticks.
+
+
+== Recipe ==

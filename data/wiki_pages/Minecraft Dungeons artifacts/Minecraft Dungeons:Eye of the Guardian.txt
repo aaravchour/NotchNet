@@ -1,0 +1,65 @@
+The eye of the guardian is an artifact that can be found within the hidden depths DLC of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Coral Rise (Apocalypse)
+Abyssal Monument
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+
+== Usage ==
+Similar to the corrupted beacon, this artifact fires a continuous laser beam at the direction the hero is facing. When used, the artifact charges up for around a second before firing a beam similar to that of a guardian's laser. While firing, turning speed is limited.
+
+
+=== Properties ===
+X artifact damage per second
+22 second cooldown
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Eye of the Guardian" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+
+
+=== Others ===
+
+		
+			
+			
+		
+
+
+== References ==

@@ -1,0 +1,21 @@
+This tutorial will teach the player how to build a magma cube farm. They can often be difficult to make, partially because of the fact that water cannot be placed in the Nether without commands.
+
+
+== Differences from slimes ==
+A magma cube farm is rather similar to a slime farm, meaning that if you've made a slime farm, making a magma cube farm should be a little easier than it would be otherwise. The following is a list of the differences between the two farms:
+
+Differently-made spawning areas
+Portal rooms
+Fall damage will not harm magma cubes
+Water cannot be placed in the Nether
+Tiny cubes can harm the player
+May need to filter out other mobs
+
+
+== Magma cube spawner trap ==
+
+
+=== Disabling ===
+
+There is always a magma cube spawner in each bastion remnant of the treasure room type. It is located close to the bottom of the large room, above a lava pool, guarding the ultimate treasure: a pile of gold blocks, and a chest. Most players would just easily disable the spawner by breaking it, as magma cubes spawn at any light level, torches won't do anything, and it takes a lot of time and blocks to fill up the entire 9×3x9 spawning area, enough time for the local piglins, piglin brutes and magma cubes to tear you into pieces. However, there exist a simple way to disable a magma cube spawner entirely and reliably, using as little as 9 blocks.
+This disabling grid makes use of the mechanic that a magma cube, no matter large, medium or small, checks for the space requirements of a large magma cube before it spawns. Since a large magma cube is slightly wider than 2 blocks, there is no horizontal space within the 9×3x9 area for it to fit in. Also, a spawner can only spawn a mob's "feet" at 3 heights: one block below the spawner, same height as the spawner, or one block above the spawner. No matter which layer it chooses, even the lowest layer, since a large magma cube is slightly taller than 2 blocks, its "head" will slightly intersect with at least one of the solid blocks, cancelling the spawn attempt.

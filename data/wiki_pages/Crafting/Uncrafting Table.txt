@@ -1,0 +1,16 @@
+The Uncrafting Table is a block from the Twilight Forest mod. This block, like the name suggests, is used to uncraft items at the cost of experience levels. Despite the name, the Uncrafting Table can also repair tools back to full durability, or change into a completely new tool or armor piece while transferring over any enchantments on it. These processes are referred to as "Uncrafting", "Repairing", and "Recrafting".
+
+
+=== Uncrafting ===
+The main use of an Uncrafting Table is to uncraft items or blocks into the components used to craft them. For each item taken out of a recipe, 1 experience level is taken from the user. The most experience one will need to spend on Uncrafting is 9 experience levels; the same as a full Crafting grid. Some items, such as Sticks, do not cost any experience level, so if a Pickaxe is uncrafted, it will cost 3 levels instead of 5. Note that some items have a shapeless recipe, which means that the Uncrafting Table cannot uncraft the item.
+
+
+=== Repairing ===
+When uncrafting damaged tools or weapons, sometimes there may be empty grid squares. This is because the tool is damaged, but they can be repaired. For an example, if an Iron Pickaxe has taken enough damage, the uncrafting process will yield 2 Sticks and 1 Iron Ingot. Through repairing, once can place two ingots where they should be, and the output will return a fully repaired item, along with the enchantments if there are any. This process only applies to tools and armor that can be uncrafted, so if it cannot be crafted, it cannot be repaired on an Uncrafting Table.
+
+
+=== Recrafting ===
+Much like Repairing, Recrafting takes the current tool or armor and makes it brand new and made with a different material. As an example, the player could craft a Diamond Helmet while they have an enchanted Iron Helmet, or they can take the Iron Helmet and replace the ingredients with the Diamonds and make a Diamond Helm with the enchantments from the Iron Helmet. This process can be costly, as the more enchantments there are, the more experience levels one will need.
+
+
+== Recipe ==

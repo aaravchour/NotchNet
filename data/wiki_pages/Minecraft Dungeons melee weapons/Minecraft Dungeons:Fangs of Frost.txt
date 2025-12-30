@@ -1,0 +1,69 @@
+The fangs of frost are a unique daggers variant that can be found within the various missions of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Soggy Swamp
+Soggy Cave
+Redstone Mines
+Gauntlet of Gales (Adventure)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+The Tiny Scourge
+
+
+== Usage ==
+Fangs of frost possess low power, high speed, and low area, and have a continuous attack of six sideways slashes.
+
+
+=== Properties ===
+X melee damage
+Dual Wield
+Slows Mobs (Freezing tier I)
+
+
+=== Stats ===
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+
+== Sounds ==
+
+
+== Data values ==
+In the game files, the fangs of frost are referred to internally by the name frost knives.
+In the sound files, the fangs of frost are referred to internally by the name ice knives.
+
+
+== History ==
+
+{{History||1.4.3.0|
+
+
+== Issues ==
+Issues relating to "Fangs of Frost" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===

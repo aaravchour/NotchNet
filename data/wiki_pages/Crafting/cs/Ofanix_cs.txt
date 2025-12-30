@@ -1,0 +1,8 @@
+The Ofanix is a tool added by Ztones. It has many different uses. Right-clicking on a block with the tool in hand will place automatically generated Cobblestone; it is possible for the player to suffocate his/herself if placed correctly.
+Shift-right-clicking in the Air (not on a block) will open a mobile Crafting Table.
+Lastly, the Ofanix is used as a crafting tool for converting Ztones blocks to other versions of the Ztones blocks (such as Lair ⓪ to Lair ⑬). Using it shapelessly in a Crafting Table allows the player to have access to an infinite amount of Cobblestone; although in the current version (2.2.1) attempting to shift click that Cobblestone will crash the game.
+
+
+== Recept ==
+
+Ofanix můžete ojediněle nelézt v dungeonech.

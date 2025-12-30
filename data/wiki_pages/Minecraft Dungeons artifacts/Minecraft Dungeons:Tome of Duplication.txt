@@ -1,0 +1,65 @@
+The tome of duplication is an artifact that can be found within the echoing void DLC of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+End Wilds (Adventure)
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+
+== Usage ==
+The tome of duplication functions similarly to the satchel of snacks and satchel of elixirs, where it is capable of creating a consumable item, with the unique chance of even creating it twice and even capable of making duplicates of non-food consumables, like TNT. The tome of duplication require forty souls to activate.
+The tome of duplication cannot be used to duplicate conduits or elytra.
+
+
+=== Properties ===
+X% double item chance
+10 second cooldown
++1 soul gathering
+Requires souls
+
+
+== Sounds ==
+
+
+== Data values ==
+In the game files, the tome of duplication is referred to internally by the name VoidShard.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Tome of Duplication" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

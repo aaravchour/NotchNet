@@ -1,0 +1,264 @@
+A parrot is a tameable passive mob that spawns in jungle biomes. Parrots can imitate sounds of nearby monsters and can also perch on the player's shoulders.
+
+
+== Spawning ==
+Parrots naturally spawn in groups of 1–2 in jungles, sparse jungles‌ and bamboo jungles above logs, leaves or grass blocks.
+Unlike most passive mobs, parrots cannot be bred.
+
+
+== Drops ==
+A parrot drops from one to two feathers upon death. The amount is increased by one per level of Looting, for a range of one to five with Looting III. From 1–3 experience orbs are dropped when parrots are killed by a player or a tamed wolf.
+
+
+== Behavior ==
+Parrots are passive and swim in water by flapping their wings. A parrot flies and usually flies upward if it is struck; parrots flap their wings and fall slowly, preventing fall damage. Parrots fly under normal conditions, but they can get tired  and return to the ground after a short time. Parrots crowd and settle around other nearby mobs, including neutral and hostile mobs.
+Parrots can be tamed by feeding them wheat seeds, melon seeds, pumpkin seeds, beetroot seeds or torchflower seeds with 1⁄10 chance of success. Once tamed, interacting with a parrot makes it sit down and stand up.
+A tamed parrot follows the player unless told to sit and teleports if there is a distance of 12 blocks between it and the player. A death message is displayed to its owner upon death. The parrot teleportation is completely silent. In Java Edition, attempting to feed a parrot a cookie instantly kills it, emitting Poison particles as it dies. In Bedrock Edition, feeding a cookie to a parrot gives it fatal poison instead. This is a reference to the fact that chocolate is toxic to parrots.
+
+A tamed parrot on the ground can be made to perch on its player's shoulder by moving through the parrot. On its own, a tamed parrot can also fly to and perch on the player's shoulder, unless it has been told to sit. A player can have one parrot on each shoulder. Parrots always prefer a player's left shoulder first, if it is empty.
+A parrot dismounts its player when the player:
+
+does not land on a high-enough surface (1⁄2 block up or higher)
+drops off a ledge of higher than 3⁄4 of a block
+takes damage
+submerges the player's feet into the water of any height
+starts drowning
+sleeps on a bed
+submerges the player's head in lava (the parrot dismounts and burns even if the player has Fire Resistance)
+Parrots on a shoulder always look in the same direction the player's head is looking.
+A parrot on a shoulder cannot take any damage but may get hurt as soon as it dismounts, as when dismounting a player submerged in lava.
+A parrot sitting on the shoulder appears in the inventory interface.
+In Bedrock Edition, a parrot sitting on a shoulder prevents the player from entering a nether portal.
+
+
+=== Imitating sounds ===
+Parrots imitate the idle sounds of nearby hostile and certain neutral mobs (including the hiss of creepers but excluding guardians and elder guardians); they have a detection range of 20 cubical blocks. The sound produced by the parrots is simply the same sound as the mob being mimicked at a higher pitch. Occasionally, a parrot may imitate sounds of mobs that are not in the area.
+Parrots dance near a jukebox if a music disc is inside it. Parrots even have the ability to dance while on a player's shoulder.‌ This is a reference to the Party Parrot meme. The game does not seem to have any real way to determine when the music ends, though; as long as the disc remains in the jukebox, the parrot continues dancing even after the music stops. 
+The dancing radius is 3 blocks from the jukebox. If they dance and then fly beyond this radius, they stop dancing. A parrot does not dance if the music disc was inserted prior to it spawning, dismounting or being within the 3 blocks range. 
+
+
+== Sounds ==
+
+
+=== Generic ===
+Java Edition:
+Parrots use the "friendly creatures" sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+
+=== Imitations ===
+Note that these are the original mob sounds, and not the pitched up ones heard from parrots in-game.
+When making their ambient sound, parrots have a chance to trigger a random sound from this list if the difficulty is not Peaceful.
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Parrots have entity data associated with them that contain various properties.
+Java Edition:
+
+When a parrot is resting on the player's shoulder, it ceases to be a distinct entity and its entity data is stored in the player's ShoulderEntityLeft or ShoulderEntityRight NBT. See also Player.dat format.
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Parrot" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Red parrots are based on the real-life scarlet macaw "with a little Minecraft twist". Similarly, blue parrots are based on hyacinth macaws, cyan parrots are based on blue-and-yellow macaws, green parrots are based on the military macaw or possibly the Antipodes Island Parakeet, and gray parrots are based on cockatiels.
+Warnings texts against feeding chocolate or avocados to parrots are referenced in two different splash texts.
+The Minecraft team uses various party parrot emojis when communicating with each other on discord.
+The advancement obtained for breeding two animals is called "The Parrots and the Bats", even though neither parrots nor bats can breed.
+The parrot's dancing animation is based on the party parrot emojis, that are in turn, based on the kākāpō.
+Interacting with a jukebox will drop a sticker, it will also play the "otherside" music disc. It can only be found in the 15 Year Map.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Renders ===
+
+
+==== Sitting ====
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Dancing ====
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Sitting on the player ====
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

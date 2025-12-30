@@ -1,0 +1,79 @@
+Experience is a tricky resource:  It is needed for enchanting, combining and repairing items, and for fueling the Mending enchantment.  Many desired jobs require large amounts of experience — but it can take quite a while to accumulate a high experience level, and when the player dies, they lose essentially all of their current stock.  Accordingly, many players resort to "experience farming" — arranging a situation where they can pick up large amounts of experience when desired.  These fall into several categories, reflecting the many sources of experience, but most of them can be considered in terms of experience per time — either active or AFK time, with the player involved, or "accumulation" time before collecting the results.
+Consulting the Experience page, we can see several common "target values" for desired experience payouts:
+
+Enchanting max:  To get from level 0 to level 30 requires 1395 experience.
+Anvil max:  To get from level 0 to level 39 requires 2727 experience.
+Recovering after a max-power enchantment:  to get from level 27 to level 30 requires 306 experience.
+Because higher levels require successively more experience, each of the levels 16, 22, 30, and 39 is about halfway to the next in the list.
+
+
+== Fishing ==
+Fishing can function as a slow experience farm, with only two string and three sticks as an "entrance" fee to get started.  However, it is wise to set up a secure fishing pond:  You'll want a stretch of water at least two blocks deep and a few across (basically big enough not to accidentally miss the water).  The water should be open to the sky, but you should have a lit, sheltered area to fish from, with a roof to fend off phantoms, and fences or glass to keep monsters from spotting and targeting you (a bit of height helps too).  You should also make sure that you can reach the fishing area when it's night or storming, and that you can quickly climb back up if you happen to fall into the water.  You need at least one double-chest to store your catches (and your rod, when not in use).
+Fishing with any rod can catch enchanted fishing rods, which can be saved until a rod with Mending is caught. This rod can be combined (at an anvil) with other rods as they are caught, and fishing becomes essentially free. The goal is to produce a "god rod", with (Luck of the Sea III, Mending, Lure] III, and Unbreaking), which maximizes both fishing speed and treasure gained, while minimizing the experience used to restore the rod.
+With these enchantments and while fishing outdoors, each minute you make an average of 8 catches, bearing experience orbs worth an average of 28 XP. Any Mending equipment worn may take 1 XP from each orb, perhaps reducing the total as low as 20 XP. The rod itself averages 1 damage per four catches on average, and if it has only one point of damage it repairs that for free! If multiple items are being mended, the rod may take a second point of damage before it mends, and then take an XP for its next mending. Mending affects any armor worn and the rod, but an additional item can be included by placing it in the off-hand. Total yield is thus 400 XP/game day (1200/real-time hour) if items are being mended, or 560/day (1680/hour).
+Fishing under rain adds 25% to the yield (wait time is 20% less), for a potential of 25-35 XP / minute as long as the rain lasts.
+Aside from the basic experience for catching items, there are a couple of "side hustles" that can yield extra experience:  Cod or Salmon can be smelted (22.4 XP/stack)   Any magic items (bows, rods, books) not kept for your own use can be fed to a grindstone for extra experience.  
+This is also a good way to while away rainy days and storms, when exploring may be unpleasant or dangerous, but AFK fish farms can also be constructed for reduced boredom.
+
+
+== Trading ==
+Trading gives a fair bit experience itself, but emeralds can also buy Bottles o' Enchanting.  While fairly expensive for the experience stored, these are truly portable, and can be used to top up your experience to reach any desired level.  In the process, several useful villagers can be "leveled up" to provide more useful items.   
+A variety of sellable items can be produced by automatic farms, easily farmed by hand, or provided as surplus from a mob grinder.  Note that if a villager has any options for their first tier of trades (Novice), you can effectively choose for them, if you have not actually traded with them yet:   The trick is to break their job block and let them revert to unemployment, then replace the block.  This does not work for higher-tier trades, but it does let you pick one book (often Mending) from a librarian, pick a farmer's first crop, and make sure that other professions do indeed offer their "cash machine" novice trades.
+The following list focuses on "easy pickings".  
+
+Farmers each buy one of the base crops immediately, and as they level up they all offer to buy pumpkins and melons. The crops can be automatically or easily farmed, especially the pumpkins and melons.
+Wood can be converted to sticks and sold to fletchers. Later, fletchers buy string and feathers.
+Paper can be sold to all cartographers and some librarians.  If leather is plentiful, the librarians may also buy books. This also helps level the librarians to sell more enchanted books.
+Shepherds buy one color of wool up front, and later they buy some dyes.  Some luck is needed with the dye trades, to get dyes that you can farm easily (that is, no lapis lazuli or small flowers).  Bone meal is key here; it is easily produced with a composter (and/or skeleton bones), and besides crafting dyes directly, it can be used to rapidly grow the tall flowers.
+Apprentice:  white (bone meal); black (squid ink);  gray (black+white); lime (green+white)
+Journeyman:  red ( rose bush or beetroot); yellow (sunflower); pink (peony or red+white); light gray (black+white); orange (yellow+red)
+Expert: green (cactus); brown (cocoa beans) magenta (lilac)
+The same cleric who sells you the bottles also buys rotten flesh from a mob farm, and later netherwart. If you have a gold farm, that can also be helpful.
+If you have an iron farm, you can sell to the various blacksmith types, rapidly leveling them up to selling you diamond gear.
+If you have a desert nearby, a cartographer buys 11 glass panes (base quantity) for 1 emerald.
+Each trade (both selling stuff for emeralds, and buying the bottles) also grants an average of 4.5 XP to the player, 5 extra if the villager is willing to breed.  This means that rather more experience is gained in the trading than stored in the bottles!
+The Bottles o' Enchanting themselves average a yield of 7 XP each, so a stack of them yields around 448 XP.  
+Trading is a good source of experience for repairing items (i.e those equipment enchanted with mending) but not as a permanent source of XP.
+
+
+== Mob grinder ==
+Mob grinders are typically built high up in the skies so constructing them is a bit risky, as there's a high chance of dying unless you have boots enchanted with Feather Falling III to IV or you're good at catching your fall with water buckets. Go for mob grinders if you haven't located a spawner yet and if you want access to different types of loot.
+
+
+== Spawner XP farm ==
+Spawner XP farms are typically not that great for XP as it requires about 24 minutes of grinding just to get to Level 30, but in the case of a zombie spawner, this duration is compensated by enchanted loot that you get. A blaze spawner though is worthwhile because you can use the blaze rods for blaze powder to brew potions, craft ender chests or use the blaze rods as a consistent source of fuel, as one blaze rod can smelt up to 12 items.
+
+
+== Quartz mining ==
+Quartz mining is arguably one of the easiest ways to get XP early game. However, they fall off at late game if you mined all the quartz in the area and had to explore more areas to mine more quartz. 
+
+
+== Enderman XP farm ==
+An enderman XP farm is a great source of XP. You can typically get to 30 levels in just under a minute. The biggest downside however, is the fact that you need to build this at y= 1 (to increase the rates) in the End Dimension, thus it has a high risks of dying in the void and losing your stuff.
+
+
+== Gold XP farm ==
+Gold XP farms have multiple designs but they all have the same mechanics, in Java Edition, most gold farms use magma blocks as a spawning platform, the killing mechanics depend on the farm design itself. Some designs make the piglins fall into a hole to easily kill them, some use turtle eggs to lure the pigman, some manually hit them to go to a killing chamber and so on. In Bedrock Edition however, most farm designs utilise obsidian portals that is continuously destroyed and lit up to spawn pigmen, which are then transported to a killing chamber for easy XP. Aside XP, the farm is also an infinite source of gold and thus you can use the gold to barter with piglins, craft golden apples or make a golden pyramid to power the beacon.
+This farm is one of the best in collecting XP because of the bonus gold. You can get up to Level 100 in one hour depending on the design. 
+
+
+== Guardian farm ==
+Guardian farm is one of the fastest ways to get high XP. However, you'd need to dedicate a lot of time draining an entire ocean monument and a lot of spawn-proofing to get the maximum rates possible. Guardian farms are still worth the try, as aside XP, you can get a new set of beautiful building blocks.
+
+
+== Smelters ==
+An automatic smelter can be fed with the harvest from any of several automatic crop farms, and the resulting experience claimed when you need it.  
+There are a limited number of useful crops here, basically the ones that can be automatically farmed:
+
+Kelp gives little experience (6.4 XP/stack), but the smelted kelp can be turned into fuel for the smelter, with a surplus for other uses.
+Potatoes give more experience (22.4 XP/stack); the cooked potatoes make a solid mid-tier food supply, and they can be composted for more bonemeal than the raw potatoes.
+Chickens are also an option, as they can be automatically bred and killed to produce a stream of chicken meat, but for any given number of chickens, more experience can be had by manually slaughtering them.  That said, having large numbers of chicks around waiting to grow up can also cause a lot of lag for the game, while a continuously running farm (which kills but does not cook the chickens) can get by with fewer chickens alive at any one time.
+Cactus gives far more experience (64 XP/stack), but unlike the others it cannot be cooked in a smoker, and the resulting dye has no use beyond making things green.  For a large-scale smelting setup, arrangements must be made to dispose of the dye.
+For large smelter farms, the load can be divided among several furnaces, which can be harvested separately; list allows storing larger amounts of experience without needing to harvest it all at once, and also allows faster progress (so long as the input farm can keep up).  For a simple single-furnace setup, nearly two stacks of cactus (120 items) can be burned in a Minecraft day,  collecting 360 XP per real-time hour.  Potatoes and kelp burn twice as fast, but give less experience, yielding respectively 252 and 72  XP/hour.  Of course, maintaining this rate for long periods of time requires an input farm large enough to supply 120 or 240 items per day, and this is multiplied for multi-furnace setups.
+Fuel can be provided by the player in quantity, but it is even possible to fuel the farm with an automatic bamboo farm, or with an automatic charcoal smelter, perhaps fed by a tree farm.  An automatic charcoal smelter can smelt 7 stacks of material for each stack of wood provided to it; dried kelp blocks are more efficient at 20 input stacks per kelp-block stack (11, if we discount the kelp blocks used to smelt more kelp), but they do require manual crafting to produce.  A bamboo farm must be large enough to provide four stacks of bamboo for each stack of material to be smelted.
+If continuous fueling is not practical, it is possible to set the intended yield of the farm by the amount of fuel loaded into it — for example, a cactus smelter loaded with 70 kelp blocks produces enough experience to bring a player from level 0 to level 30 — with a single furnace, this takes most of four real-time hours (3h 52.5m).  This is significantly slower than fishing, but where fishing requires the player's presence, the smelters can be left to operate on their own (in any loaded chunks).
+
+
+== Ender Dragon ==
+Killing the ender dragon for the first time gets you 12,000 XP, which can get a player up to level 68 or 69. This gives you a lot of enchanting options, although they run out quickly.
+Re-summoning (using end crystals) the ender dragon gives only 500 XP so building a dragon farm (an ambitious project) is almost worthless.

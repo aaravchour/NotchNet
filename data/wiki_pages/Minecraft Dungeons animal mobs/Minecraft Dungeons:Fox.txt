@@ -1,0 +1,79 @@
+The fox is a pet mob that is obtainable within the Cloudy Climb seasonal adventure of Minecraft Dungeons. It has a variant that was added previously within the Creeping Winter DLC. The fox also makes an appearance in the Arcade spin-off as a summonable mob. It was originally seen in the Cross Platform Play Trailer, long before it was officially added.
+
+
+== Appearance ==
+Foxes overall appear similar to their counterparts in the main Minecraft game, having orange fur, black ears, long snouts, and a bushy tail ending in white fur.
+
+
+=== Lore ===
+In the main section of the Camp, the fox was being adored alongside the spotted baby pig. Sometime presumably later, a hero in wolf armor tried to entertain the fox with a theatrical backflip somewhere in the Mainland. However, the fox was not interested in the hero's theatrics.
+
+
+== Obtaining ==
+Adventure Hub
+Cloudy Climb
+
+
+== Behavior ==
+The fox follows the hero. It cannot do anything except for a few actions, such as triggering pressure plates.
+In the Arcade spin-off, the fox attacks mobs by biting them, as well as following the hero.
+
+
+== Sounds ==
+
+
+== Data values ==
+In the game files, the fox is referred to internally by the name Fox.
+
+
+== History ==
+
+
+== Gallery ==
+
+
+=== Renders ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+
+
+=== Others ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

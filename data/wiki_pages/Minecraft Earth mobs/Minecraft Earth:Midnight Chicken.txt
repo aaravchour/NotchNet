@@ -1,0 +1,38 @@
+A midnight chicken was a passive mob and a dark-colored variant of the chicken found in Minecraft Earth.
+
+
+== Appearance ==
+Midnight chickens were a dark-colored variant of the chicken. Their plumage was dark-bluish in color, making it reminiscent of coal or obsidian. Their beak was dark in color with a gray stripe running across it. They also possessed dark-colored legs.
+
+
+== Behavior ==
+
+Midnight chickens had the same AI behavior as ordinary chickens. They wandered aimlessly, avoiding lava and cliffs that were enough to cause fall damage.
+
+
+== Obtaining ==
+Midnight chickens were a rare mob drop from chicken tappables, with a 4.6% chance to get one. They were also obtainable as a reward in Season 17.
+
+
+== Drops ==
+When killed, midnight chickens dropped:
+
+0-2 Feather
+1 Raw Chicken (Cooked Chicken if killed while on fire)
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Trivia ==
+Midnight chickens were featured in the Season 3 prize map. The quest to get them was "Get a cluckshroom to lay 3 mushrooms on a buildplate."
+Midnight chickens had a similar look to the Ayam Cemani chicken breed.
+
+
+== Gallery ==

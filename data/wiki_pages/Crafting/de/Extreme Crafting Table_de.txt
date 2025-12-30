@@ -1,0 +1,9 @@
+Das Extreme Crafting Table (früher als Dire Crafting Table bezeichnet) ist ein Block, der von Avaritia hinzugefügt wurde. Er fungiert als 9x9-Slot-Version der Werkbank, aber Dinge, die normalerweise in der Werkbank hergestellt werden, können darin nicht hergestellt werden.
+Das Crafting im Extreme Crafting Table wird als "Extreme Crafting" bezeichnet. Vor der Version des Mods (1.0) wurden keine Rezepte hinzugefügt; Alle Rezepte, die dem Extreme Crafting Table hinzugefügt wurden, wurden über MineTweaker oder über die API des Mods erstellt.
+
+
+== Rezept ==
+
+
+== Siehe auch ==
+Verwenden von MineTweaker mit Avaritia

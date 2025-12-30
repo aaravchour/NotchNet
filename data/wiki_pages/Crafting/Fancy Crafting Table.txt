@@ -1,0 +1,4 @@
+The Fancy Crafting Table is a type of Crafting Table from Reliquia. It functions identically to the Vanilla Crafting Table, except it also emits a light value of 14. It is aesthetically different, in that it has a candle and book model on top (along with the textural changes), and its GUI texture is different.
+
+
+== Recipe ==

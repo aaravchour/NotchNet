@@ -1,0 +1,63 @@
+The enchanter's tome is an artifact that can be found within the howling peaks DLC of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Windswept Peaks
+Gauntlet of Gales
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+
+== Usage ==
+The enchanter’s tome is able to cast random enchantments on up to two nearby allies which can give them various buffs such as double damage, fast attack, and quick; enchantments that were previously exclusive enchanters, and two additional random enchantments.
+
+
+=== Properties ===
+X second duration
+15 second cooldown
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Enchanter's Tome" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Despite being equipped with it, enchanters do not drop the enchanter's tome when defeated.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+
+
+== References ==

@@ -1,0 +1,17 @@
+Sets fixed inventory slot with a specific item.
+
+Syntax
+setfixedinvslot <fixedinvslotnum: int> <itemName: string> [data: int]
+Arguments
+fixedinvslotnum: int
+Specifies the number of fixed inventory slot.
+itemName: string
+Specifies the item for the fixed slot. Must be a valid item id (for example, iron_shovel), or block id for which items exist.
+data: int (optional)
+Specifies the item data of the item. Must be an integer between -2,147,483,648 and 2,147,483,647 (inclusive, without the commas), but values which are invalid for the specified item id revert to 0. If not specified, defaults to 0.
+Result
+Fails if arguments are not specified correctly.
+On success, players are given the specified items in the fixed inventory slot.
+
+
+== History ==

@@ -1,0 +1,13 @@
+This page will explain the sickness caused by the wither in the witherstorm. 
+This Minecraft: Story Mode effect is a witherstorm variant of the normal minecraft Wither effect 
+
+
+== Wither Sickness ==
+Classic withersickness. Seen in the witherstorm arc, a more "fatal" form of wither. 
+Visible symptoms include the obvious graying of skin overtime, a purple area around the infection spot.
+symptoms shown and mentioned by petra / gabriel (depending on who's withersick) include struggling to breathe / coughing, dizzy spells, stiffness in the body, jittery vision, and more(?)
+
+
+== Wither Madness ==
+Described in the code as "withermad", also known by the community as Wither Amnesia, the one with this form of wither sickness seems to forget nearly everything, not recognizing others or themself.
+The skin turns very gray after being trapped in the witherstorm, and the irises turn a bright magenta. this form of withersickness doesn't appear to have any pain like the first form.

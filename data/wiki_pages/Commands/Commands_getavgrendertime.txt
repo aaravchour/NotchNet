@@ -1,0 +1,10 @@
+Returns the average rendering time.
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

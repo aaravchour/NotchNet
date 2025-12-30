@@ -1,0 +1,5 @@
+The Crafting Calculator is a device added by Calculator. It can be used as a portable Crafting Table at the cost of Redstone Flux.
+Right clicking will open a GUI almost identical to the Crafting Table, which allows the same operations to be done. The Calculator cannot be opened if it doesn't have sufficent power stored inside.
+
+
+== Recipe ==

@@ -1,0 +1,9 @@
+La Table de Craft Extreme (précédemment appelée la Dire Crafting Table) est un bloc ajouté par le mod Avaritia. Cela fonctionne de la même façon qu'une Table de Craft vanilla mais avec un format de 9 par 9 cases, les crafts faisables dans la 3x3 ne sont pas faisables dans la 9x9.
+Le crafting dans la Table de Craft Extreme est appelé «Craft Extrême». Avant la version 1.0 du mod, il n'y avait pas de recettes dans la table, il fallait les ajouter en utilisant le système de MineTweaker ou via d'autres API du mod.
+
+
+== Recette ==
+
+
+== Voir aussi ==
+Utiliser MineTweaker et Avaritia

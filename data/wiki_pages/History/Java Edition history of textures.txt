@@ -1,0 +1,25 @@
+This page documents the history of texture files used in Java Edition.
+
+
+== Blocks ==
+
+
+== Items ==
+
+
+== Entities ==
+
+
+== Particles ==
+
+
+== Paintings ==
+
+
+== Effects ==
+
+
+== Map icons ==
+
+
+== Miscellaneous ==

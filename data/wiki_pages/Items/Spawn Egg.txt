@@ -1,0 +1,144 @@
+A spawn egg is an item used to spawn mobs directly. The design of the spawn eggs changed in Java Edition 1.21.5 and Bedrock Edition 1.21.70.
+
+
+== Obtaining ==
+Spawn eggs can be obtained only in Creative mode or using commands. In Creative mode, the player can press pick block on an existing mob to obtain their respective egg. Spawn eggs are also available in the Creative inventory. There are 77 spawn eggs in Bedrock Edition and 75 spawn eggs in Java Edition.
+
+
+== Usage ==
+A spawn egg is used by pressing use on any surface (top, bottom, or side) with the egg. When used on a top surface, the egg's mob appears with its feet immediately adjacent to the surface, and its ambient sound is played.
+Spawn eggs are not thrown (unlike normal eggs); the player must be within normal range of the block to use the spawn egg. Ocelot and all monster mobs (except shulkers, piglins, hoglins; and in Bedrock Edition, also include vindicators, evokers, zoglins, piglin brutes) spawned while on Peaceful difficulty get created and immediately deleted from the world.
+The surfaces of blocks are prioritized for spawning; if none are within reach, mobs can also be spawned in water.
+
+
+=== Dispensers ===
+A spawn egg fired from a dispenser spawns the mob directly in front of the dispenser. The spawn egg is consumed when fired.
+
+
+=== Baby mobs ===
+If the player uses a spawn egg on the type of mob it spawns, and that mob has a baby form, the egg spawns a baby version of the mob. In mobs that can breed, the baby is created by breeding the clicked mob to itself. For instance, using a sheep spawn egg on a sheep makes a baby sheep with the same wool color.‌
+Other mobs such as evokers, vindicators, vexes, piglin brutes, ravagers, phantoms, skeletons, pillagers, creepers and wither skeletons do not have a baby variant, so the egg still spawns an adult.
+
+
+=== Monster spawners ===
+All spawn eggs can also be used on a monster spawner to change the mob the monster spawner spawns. In Bedrock Edition, spawn eggs for any of the fish mobs spawn them only if the monster spawner is waterlogged.
+
+
+=== Renaming ===
+A spawn egg can be renamed on an anvil, and when used it spawns a mob with that name appearing over its head. The name can be seen only by aiming at the mob from four or fewer blocks away. This name also appears in death messages from the mob killing a player. If the player renames a spawn egg by the names described below, the mob appears described below. If the player renames a rabbit spawn egg "Toast", the secret skin of the rabbit appears when the egg is used. Naming a spawn egg "Dinnerbone" or "Grumm" causes the mob to appear upside down and show the given name above it. Renaming a vindicator "Johnny" causes it to act hostile to all mobs except for other illagers. Renaming a sheep "jeb_" makes the sheep's wool color cycle in a rainbow loop. This doesn't change the color of the wool the sheep drops. Renaming a spawn egg of a hostile mob with an anvil and then spawning the hostile mob with the renamed spawn egg does not prevent the hostile mob from despawning, unlike using a name tag on the mob.
+
+
+=== Survival mode ===
+Mobs can be spawned with spawn eggs in Survival mode, but spawn eggs are not obtainable in Survival without cheats; they can be obtained only using the Creative menu or commands. Unlike in creative, spawn eggs are consumed when used in survival.
+
+
+== List of spawn eggs ==
+There is a spawn egg for almost every mob in the game; exceptions are listed below this table.
+
+
+=== Mobs without spawn eggs ===
+The following mobs do not have explicitly defined spawn eggs. Custom spawn eggs can be created with a custom NBT tag that changes the spawned entity, however no spawn egg explicitly associated with any of the mobs exist.
+
+
+=== Education Edition spawn eggs ===
+These spawn eggs exist in Minecraft Education and in Bedrock Edition:
+
+ Agent
+ NPC
+The NPC and agent can both be spawned in Bedrock Edition, however, the agent is not visible or interactable in any way, though it still prevents the placing of blocks and entities.
+
+
+=== Minecraft Earth spawn eggs ===
+These unused spawn egg textures existed in Minecraft Earth:
+
+ Cluckshroom
+ Horned Sheep
+ Jumbo Rabbit
+ Moobloom
+
+
+=== April Fools spawn eggs ===
+ Moon Cow
+
+
+== Sounds ==
+When a mob is spawned, it immediately makes its ambient sound.
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+{{ID table
+
+
+=== Item data ===
+Java Edition:
+
+Bedrock Edition:
+
+In Bedrock Edition, spawn eggs have no additional tags.
+See Bedrock Edition level format/Item format.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Spawn Egg" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+Current
+
+Former
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+		
+			
+			
+		
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External Links ==
+Taking Inventory: Spawn Egg – Minecraft.net on January 6, 2022

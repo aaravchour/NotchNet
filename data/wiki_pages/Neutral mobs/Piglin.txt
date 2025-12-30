@@ -1,0 +1,394 @@
+A piglin is a neutral mob found in the Nether. It is hostile to players unless they wear at least one piece of golden armor. It can be given gold ingots to barter for various items. It wields either a golden sword or a crossbow, and uses either melee or ranged attacks, respectively. 
+Baby piglins do not grow up, are passive mob, and pick up gold without giving anything in return.
+
+
+== Spawning ==
+Piglins spawn in groups of 2-4 in nether wastes and crimson forest biomes, and within bastion remnants upon generation, at a light level of 11 or less in Java Edition, or 7 or less in Bedrock Edition on most blocks other than nether wart blocks or magma blocks. In Bedrock Edition, they can naturally spawn even in Peaceful difficulty. Each piglin has a 20%‌ or 5%‌ chance of spawning as a baby.
+Piglins have a 50% chance of spawning with either a sword or a crossbow. They also have a 10% chance per armor slot of spawning with golden armor, meaning they have a 34.39% chance of spawning with any armor and a 0.01% chance of spawning with a full set.
+In Peaceful difficulty, piglins can spawn, but are passive towards players.
+
+
+== Drops ==
+Adults have an 8.5% chance of dropping the held item (a golden sword or crossbow with random durability). Each Looting level increases this chance by 1%. Babies spawn without equipment.  
+Golden swords that are enchanted tend to be enchanted with fire aspect.  
+In Java Edition, a picked-up item always drops with the same durability as when picked up. In Bedrock Edition, armor picked up by piglins can lose durability and even break depending on how much damage the piglin takes. Piglins do not drop gold ingots, raw porkchops, or cooked porkchops that they have picked up. In both versions, a piglin also drops a piglin head when killed in the vicinity of the explosion of a charged creeper.
+If a piglin is killed in one hit while admiring a gold ingot, the gold ingot is dropped upon the piglin's death.
+
+
+=== Armor ===
+Adults sometimes spawn with 1-4 pieces of armor, which can be:
+
+Golden Helmet
+Golden Chestplate
+Golden Leggings
+Golden Boots
+These have a chance of being enchanted.
+These are dropped with an 8.5% chance and random durability. In addition to their drops, piglins can also pick up other types of armor, including wearable items from the player.
+
+
+=== Experience ===
+Adults drop 5 and an additional 1–3 per armor piece if killed by a player or tamed wolf. Baby piglins only drop 1.
+
+
+== Behavior ==
+Piglins snort enviously while watching players holding a gold-related item or anything else. Like villagers, piglins can open and close wooden doors but cannot open fence gates, all trapdoors, and iron doors. Piglins cannot swim and can drown if submerged. Unlike members of their zombified variant, they are not naturally immune to fire or lava.
+Idle piglins are afraid of zombified piglins, zoglins, soul fire, soul torches, soul lanterns, and lit soul campfires. If a piglin comes within a certain distance of any of these blocks or mobs, it will squeal in fear and run away until the object or mob is out of its sight range. Hostile piglins lose their fear of soul fire items, but they will still flee from zombified piglins and zoglins and will not approach the player if they are near either of these mobs. Baby piglins additionally retreat from wither skeletons and withers, but adult piglins will attack these on sight. Crossbow piglins do not load their crossbows when spawned, unlike pillagers. They load their crossbows only when provoked.
+Baby piglins are passive and play with baby hoglins, running around and riding upon them. Up to 3 baby piglins may stack on top of each other while riding a baby hoglin. They can be given gold items, such as ingots, but they do not give anything in return, and after admiring, return to being idle. They can also pick up and wear armor and mob heads as well as hold gold tools or weapons. However, they are unable to pick up leather. In addition, baby piglins never grow up.
+If the player attacks a piglin, this action will not aggravate zombified piglins in the area. Infighting between these two mobs can start when an aggravated piglin carrying a crossbow shoots a zombified piglin by accident.  When this happens, all nearby zombified piglins will become angry and pursue the piglin until it is either killed or runs out of their sight range. 
+
+
+=== Aggravation ===
+Adult piglins are neutral if the player is wearing at least one piece of golden armor. Piglins are provoked by any player who: 
+
+Is not wearing any piece of gold armor.
+Piglins have short ranged detection for this. Results in light aggravation.
+Attacks the piglin.
+Piglins have long ranged detection for this. Results in heavy aggravation.
+Attacks another piglin or piglin brute, regardless of whether the player kills it in one hit or not.
+Piglins have long ranged detection for this. Results in medium aggravation.
+Opens a chest, trapped chest, ender chest, shulker box, barrel, minecart with chest, or boat with chest.
+Piglins have short ranged detection for this. Results in medium aggravation.
+Breaks a block of gold, gold ore, gilded blackstone, nether gold ore, block of raw gold, deepslate gold ore, or any of the blocks listed above.
+Piglins have medium ranged detection for this. Results in medium aggravation.
+
+
+==== Aggravation range ====
+
+Short range: When a piglin has been aggravated by a player not wearing gold armor, or opening a container, piglins from up to around 15 blocks centered around the player become aggravated by the player if there is a straight line of sight to the player.
+Medium range: When a piglin has been aggravated by a player breaking a golden block or a container, piglins from up to 16 blocks from the player’s feet become aggravated. No line of sight is required.
+Long range: When a piglin has been aggravated by a player damaging a piglin or piglin brute, piglins from up to 16 blocks from the damaged piglin (rather than the player) become aggravated. No line of sight is required.
+
+
+==== Light aggravation ====
+Light aggravation occurs when a piglin has been aggravated by a player not wearing gold armor.
+The piglin can de-aggravate when the player puts on gold armor, distracts the piglin with gold, or the piglin loses a line of sight with the player.
+
+
+==== Medium aggravation ====
+Medium aggravation occurs when a piglin has been aggravated by a player opening/breaking a container or breaking a golden block, or when a piglin witnesses a piglin brute or another piglin getting damaged by a player.
+Piglins under medium aggravation can be distracted with gold.
+A piglin already under light aggravation does not re-aggravate to medium aggravation. This means that if a piglin knows a player broke a golden block near them after already going after them due to them not wearing gold armor, the player can de-aggravate that piglin by putting on gold armor or losing the line of sight despite the fact that the player broke the golden block.
+
+
+==== Heavy aggravation ====
+Heavy aggravation occurs if a piglin is damaged.
+The damaged piglin cannot be distracted by gold and is unable to barter while under heavy aggravation.
+
+
+==== Other ====
+If the player is under the influence of the Invisibility effect, they can open containers in front of piglins without aggravating them (short range), although breaking containers or golden blocks still angers them (mid/long range).
+Piglins do not react to the opening or breaking of furnaces, blast furnaces, smokers, droppers, dispensers, or brewing stands. Opening or breaking a hopper does not provoke the piglins. Breaking a bell does not provoke them either, despite piglins admiring them as gold.
+
+
+=== Attacking ===
+When a piglin is attacking, it holds its dominant arm and sword in front of it, similarly to a vindicator. Adult piglins are hostile toward wither skeletons and withers. They congregate within 16 blocks and attack in hordes.
+When attacking with a crossbow, piglins shoot arrows every 2 seconds. In Java Edition, they walk backward (stopping if at the edge of a drop) as soon as the target is close. In Java Edition, their crossbows can break if it runs out of durability, making the piglins use their fists, while in Bedrock Edition their crossbows never break. Unlike mobs armed with bows, they do not strafe from left to right while shooting. Piglins with swords and other items rush at the target.
+If a group of piglins successfully defeat their target, they gather at the site of their target's demise and emit "celebration sounds". However, piglins do not have a chance of dancing unless their target was a hoglin.
+When a mob attacks a piglin or piglin brute with no AI, other piglins nearby do not attack the mob that attacked the piglin or piglin brute with no AI.
+Iron golems attack both adult and baby piglins; however, piglins do not attack iron golems without provocation.
+The detection range of piglins is reduced to half of their normal range (17.5 blocks) when the player is wearing a piglin head.
+
+
+==== Hunting ====
+
+Piglins sometimes attack hoglins, causing other piglins and piglin brutes‌ in that area to attack the targeted hoglin as well.
+Adults do not immediately attack adult hoglins on sight, but a piglin has a random chance to make the decision to hunt a hoglin (this decision is almost never made if the piglin recently hunted, but other piglins can still start a hunt). Once that piglin attacks the hoglin, all other piglins and piglin brutes‌ in that area become hostile to the hoglin. If outnumbered by hoglins, the piglins flee, making "retreat" sounds. After defeating a hoglin, piglins have a 10% chance to do a "victory dance" by bobbing their heads and sticking out their arms like a T-pose.
+The more piglins there are, the bigger chance of a hunt might happen (because more piglins that detect the hoglin will each have a 10% chance of starting a hunt).
+After a hunt, any nearby piglins pick up the porkchops or cooked porkchops the hoglin dropped, but not the leather. Piglin brutes never pick up any porkchops or leather.
+Piglins that spawned as part of a bastion remnant during world generation do not hunt.
+Piglin brutes also join in hunts started by piglins, but do not start a hunt themselves.‌
+
+
+==== Being distracted ====
+Piglins briefly stop attacking when given gold items. If the player offers a gold ingot, bartering then takes place as it normally would. They resume attacking once the barter is complete. If the player distracts them with a gold item and equips a piece of gold armor while the piglin is examining the item, then the piglin ceases hostility. They may also cease hostility if distracted enough times. If the player breaks any gold-related block or hurts/kills a piglin, and then distracts the piglin up to 5 times with a piece of gold armor equipped, the piglin ceases hostility entirely.
+
+
+=== Bartering ===
+
+Adult piglins can trade gold ingots for certain items, when a gold ingot is dropped near them or the player uses it while looking at them. The piglin proceeds to "examine" the ingot for six‌ or eight‌ seconds, then drops a random item from the chart. However, baby piglins examine the ingot but instead run away without dropping an item. Piglins can also pick up items dropped by a dispenser or dropper. The pool for what piglins can barter may be modified in a data pack‌. However, piglins can still barter while riding another mob.
+
+
+=== Picking up items ===
+Piglins can pick up and equip any items they come across, preferring gold-related items, which they actively seek out. A piglin inspects any gold-related item before equipping, holding or putting that item in its inventory for six seconds after picking it up. However, items not related to gold are held or equipped (if the piglin does not have any gold equipment) instantly. Piglins do not pick up any items if the /gamerule mobGriefing is set to false.
+Piglins pick up raw porkchops and cooked porkchops that are within 1 block from them, unless they have done so within the last 10 seconds.
+Piglins have eight hidden inventory slots in which they can stack items. Piglins with full inventories do not attempt to pick up gold-related items, except gold ingots. Baby piglins attempt to pick up any item and do not give the player any items in exchange for gold ingots. Adult piglins can pick up gold nuggets (which do not help to obtain better items from bartering but are immediately placed in their inventory), porkchops, and cooked porkchops (they do not actively seek out and contemplate porkchops). Piglins drop any of these items upon death aside from gold ingots, raw porkchops, and cooked porkchops.
+When a piglin is admiring a gold ingot while bartering, it does not run away from nearby zoglins or nearby zombified piglins.
+Piglins with crossbows can pick up other crossbows and equip them.
+Like other mobs capable of picking up items, piglins pick up armor and weapons. Piglins pick up armor that is better than the armor they are already wearing, although they prefer gold over stronger armor. For example, a piglin does not pick up leather boots if it is already wearing diamond boots, but may discard a netherite chestplate to pick up a golden chestplate. However, they cannot unequip and discard armor with Curse of Binding.
+Piglins that spawned in a bastion remnant during world generation, or that have picked up items or equipment, do not despawn naturally.
+Items picked up by a piglin do not drop when the piglin is killed.
+Items that piglins want are listed under the piglin_loved tag with the exception of gold nuggets, which piglins pick up instantly to trigger the advancement/achievement "O(oo)h Shiny!". Piglins do not want any other items, even if they are related to gold in some way.
+
+
+=== Zombification ===
+
+When in the Overworld and the End, piglins transform into zombified piglins after 15 seconds, retaining their armor, held items and their name. However, they cannot shoot a crossbow, using it as a melee weapon instead. Upon transformation, the spawned zombified piglin has the Nausea effect for 10 seconds; this is just a cosmetic effect. When a piglin transforms into a zombified piglin, it drops anything except equipped weapons and armor in its inventory; other items in its inventory disappear. In Bedrock Edition, if the game is set to Peaceful difficulty, the piglin despawns instead of transforming because hostile mobs do not exist in Peaceful difficulty. A piglin that returns to the Nether before 15 seconds remains unchanged, although the 15-second portal cooldown usually prevents them from returning during that time.
+A piglin does not zombify outside the Nether if its IsImmuneToZombification tag is set to true. Piglins with their NoAI tag set to true also do not zombify.
+In Java Edition, if a piglin is inspecting/admiring a gold ingot or a gold-related item and then gets zombified while inspecting, it drops the gold ingot or the gold-related item.
+
+
+== Sounds ==
+Java Edition:
+Piglins use the Hostile Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Piglins have entity data associated with them that contains various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Piglin" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+In the banner pattern "snout", there is a piglin snout. This is the same in the chiseled blackstone.
+In Bedrock Edition, baby piglins make angry noises when any piglin gets angry.
+Piglin sounds were made by blending sounds of a Swedish domestic pig known as a "Linderödssvin".
+In Bedrock Edition, a baby piglin can be made to wear armor and wield a sword, but not a gold sword.
+In Minecraft Legends, Piglins don't zombify in the Overworld because they breathe in Nether Wart spores.
+The tie-in novel expands on this, with one of the central conflicts being a piglin, Kritten, attempting to create a potion that can replicate the phenomenon.
+Similarly, it is established that piglins are capable of crying and sweating, but rarely can because of the intense heat; Kritten is startled when this happens while in the Overworld.
+Although Bastion Remnants are built in Soul Sand Valleys, piglins flee from soul fire.
+In A Minecraft Movie, piglins are the main antagonists of the film. However unlike their in-game counterpart, they are far more aggressive, attack villagers at Midport Village, and drop Porkchop upon death. They rely on Nether Wart, which allows them to persist in the Overworld.
+
+
+== Gallery ==
+
+
+=== Renders ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Cosmetics ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other medias ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Merchandise ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Piglin Brute
+Zombified Piglin
+Bartering
+
+
+== References ==
+
+
+== External links ==
+Meet the Piglins – Minecraft.net on June 17, 2020
+Craft Your Own Legend: Piglin- Minecraft.net on

@@ -1,0 +1,13 @@
+Respawn anchors can be used to set a player's spawnpoint, with the use of dispensers, this can be automated to keep refilling the respawn anchor.
+
+
+== Materials ==
+ 3 pieces of redstone dust
+ An observer
+ A dispenser
+ 2–3 stacks of glowstone
+ A respawn anchor
+ A dirt block for scaffolding
+
+
+== Video Tutorial ==

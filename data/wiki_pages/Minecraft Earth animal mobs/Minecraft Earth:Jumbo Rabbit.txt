@@ -1,0 +1,70 @@
+The jumbo rabbit was a larger and a brown-colored variant of the rabbit found in Minecraft Earth.
+
+
+== Appearance ==
+The Jumbo Rabbit was a large and dark brown variant of the normal, smaller rabbit. As its name implied, it was larger than the average rabbit, with it almost being the size of the Mob of Me. Its ears were longer and different in shape. Its whole body was darkish brown in color, with a light-brown underbelly, with light-brown front paws. Its hind legs were relatively larger than its front legs, and its feet and legs end in very dark brown fur.
+
+
+== Behavior ==
+
+Jumbo rabbits had the same AI behavior as normal rabbits. They wandered aimlessly, avoiding lava and cliffs high enough to cause fall damage. Attacking a rabbit without killing it caused it to flee.
+
+
+== Obtaining ==
+The Jumbo Rabbit was of uncommon rarity, and was obtainable as a reward in rare adventures. Jumbo rabbits were also found in grass and pond tappables, with it being harder to obtain in grass tappables with a 1.7% chance of obtaining it. It was also obtainable by purchasing "The Warren" buildplate.
+
+
+== Drops ==
+When killed, the Jumbo Rabbit dropped:
+
+Rabbit Hide
+Raw Rabbit (Cooked Rabbit if killed while on fire)
+Rabbit's Foot (100% chance of dropping)
+
+
+== Sounds ==
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Trivia ==
+The biome category of the journal revealed that jumbo rabbits spawned in the desert.
+Jumbo rabbits were previously harder to obtain in pond tappables, and were harder to obtain in grass tappables.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

@@ -1,0 +1,21 @@
+The Celestial Altar is a block added by Astral Sorcery. It is the third tier of crafting altar and is used throughout the Constellation chapter of the Astral Tome.
+The Altar works similarly to its predecessor the Starlight Crafting Altar, and can make all recipes that the latter can. However, it has 8 extra input slots that can be used for more crafting recipes, can gather Starlight much more efficiently, and requires a larger structure to be built in order to support it.
+
+
+== Construction ==
+The complete structure is 11x5x11 and requires (on top of the Altar):
+
+4  Runed Marble
+40  Marble Bricks
+49  Sooty Marble
+12  Marble
+8  Marble Pillars
+4  Chiseled Marble
+
+
+== Recipe ==
+
+This will directly change the Starlight Crafting Altar instead of dropping the output in the world.
+
+
+== Astral Tome entry ==

@@ -1,0 +1,59 @@
+Air is an invisible block used to define empty space where any other blocks could otherwise exist.
+Cave air‌ is the underground air found in caves and some generated structures.
+Void air‌ is used internally for blocks above (Y>319) and below (Y<-64) the world, and in unloaded chunks.
+
+
+== Obtaining ==
+In Bedrock Edition, air cannot be obtained in the inventory without editing. In Java Edition, the block is completely unobtainable. Air can be destroyed or created only by the placement or removal of other blocks respectively.
+Upon world generation, all otherwise empty spaces are occupied by air. In Java Edition, badlands mineshafts and lava lakes generate cave air, and underground structures generate cave air. Void air is used in place of unloaded chunks and above or below the world's buildable area.‌
+
+
+== Usage ==
+
+Air shares some properties with non-solid blocks, including allowing the player or mob to move within that space without suffocating, and also to catch their breath if they are drowning in water.
+Air can be visualized with the use of structure blocks in save mode. With "Show invisible blocks" enabled, the air is represented as small blue cubes. All air types are displayed identically as blue cubes.
+Air can be used to clearing blocks with the /fill command, an example is /fill ~-5 ~-5 ~-5 ~5 ~5 ~5 minecraft:air (clears a 11x11x11 cube of space centered on what executed the command.).
+Cave air and void air have no special properties; they function the same as normal air.
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+=== Data history ===
+
+
+=== Air "item" ===
+The following content is transcluded from Technical blocks/Air.
+
+
+==== Appearances ====
+
+
+==== Names ====
+Java Edition
+13w38b: tile.air.name
+
+
+== Issues ==
+Issues relating to "Air" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+If a trade's result is Air (possible through Command), you cannot buy it nor consume the Emeralds.
+tile.air.name‌ was a placeholder for undefined items, blocks, food, and many more. It only existed in version 13w38b, as there was code in the game's files that is empty.
+
+
+== See also ==
+Technical blocks
+
+
+== References ==

@@ -1,0 +1,32 @@
+Armadillo scutes are items that armadillos drop when brushed. They can be used to craft wolf armor which can be put on wolves.
+
+
+== Obtaining ==
+
+
+=== Mob loot ===
+Armadillos drop armadillo scutes when they are brushed.
+
+
+== Usage ==
+
+
+=== Crafting ===
+Armadillo scutes can be crafted into wolf armor.
+
+
+=== Repairing ===
+Armadillo scutes can be used to repair wolf armor.
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Issues ==
+Issues relating to "Armadillo Scute" are maintained on the bug tracker. Report issues there.

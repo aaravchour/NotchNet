@@ -1,0 +1,8 @@
+Das Ofanix ist ein Werkzeug, das von Ztones hinzugefügt wurde. Es hat viele verschiedene Verwendungszwecke. Wenn du mit der rechten Maustaste auf einen Block mit dem Werkzeug in der Hand klickst, wird automatisch Bruchstein generiert. Es ist möglich, dass der Spieler sich selbst erstickt, wenn er die Blöcke "richtig" platziert.
+Shift+Rechtsklick in die Luft (nicht auf einen Block), wird eine mobile Werkbank geöffnet.
+Schließlich wird der Ofanix als Handwerkswerkzeug zum Konvertieren von Ztones-Blöcken in andere Versionen der Ztones-Blöcke verwendet (z. B. Lair ⓪ zu Lair ⑬). Durch die formlose Verwendung in einer Werkbank kann der Spieler auf eine unendliche Menge Bruchstein zugreifen, obwohl, wenn in der aktuellen Version (2.2.1) versucht wird, einen Bruchstein mit ShiftKlick zu verschieben, stürzt das Spiel ab.
+
+
+== Rezept ==
+
+Der Ofanix kommt selten in Dungeons vor.

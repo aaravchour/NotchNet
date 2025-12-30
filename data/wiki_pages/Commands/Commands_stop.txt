@@ -1,0 +1,15 @@
+Stops a server.
+
+
+== Syntax ==
+stop
+
+
+== Result ==
+Always succeeds. Saves all changes to disk, then shuts down the server. Additionally, all players are kicked out of the server.
+
+
+== Output ==
+
+
+== History ==

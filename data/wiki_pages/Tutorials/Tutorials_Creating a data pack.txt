@@ -1,0 +1,192 @@
+This tutorial shows how to create a data pack.
+
+
+== Getting started ==
+Data packs can be used to add or modify functions, loot tables, world structures, advancements, recipes, tags, dimensions, predicates and world generation.
+
+
+=== What not to do ===
+There are some things that you should not do while creating a data pack. Here is a list of "don'ts":
+
+Release Minecraft versions or modifications that allow players to play without having bought Minecraft from Mojang.
+Release the decompiled source code of Minecraft in any way.
+
+
+== Creating a data pack ==
+To create a data pack, start off by navigating to the datapacks folder inside the world folder.
+To find the world folder, locate the saves folder inside your game directory, which is .minecraft by default.
+
+In singleplayer, you can select your world, click on "Edit", then "Open world folder".
+On a server, you can navigate to its root directory (where server.properties is located), then enter the world directory.
+Once you are in the datapacks folder, create a folder with a name of your choice. It will be your data pack's name. Enter the data pack folder.
+The first thing to do after you are in the folder is to create a pack.mcmeta file. This lets Minecraft identify your data pack.
+
+
+=== Creating an MCMETA file ===
+
+To create an MCMETA file, right click within your data pack folder and create a new text document. Name this file "pack.mcmeta".
+
+Note
+Make sure the file extension is .mcmeta and not .txt when you rename it! In other words, remove your old file extension. You may be warned that changing a file name extension could make the file unusable. However, this actually indicates that you have renamed the pack.mcmeta file correctly.
+If you are using Microsoft Windows and can't see file extensions, for Windows 10, you can turn them on by going to the View menu of the file explorer and checking the check box for file name extensions. For Windows beneath Windows 10, you can uncheck "hide extensions" in folder settings.
+
+For Windows 11, to turn them on, open the "View" dropdown menu, then hover over the "Show" option, then turn on the "File name extensions" option that pops up when "Show" was hovered.
+
+
+==== Text editor ====
+Any text editor should work. It is recommended that the chosen text editor supports JSON, which is the format used by files of mcmeta extension and most other files in a data pack.
+Note that most text editors do not recognize mcmeta extension as JSON. Thus, you need to configure the editors manually.
+
+
+==== pack.mcmeta content ====
+Open pack.mcmeta in your text editor and paste or type the following:
+
+Note
+This file is written in JSON! This tutorial does not go into specifics about the format now, but be aware about how things are laid out. Be very careful not to forget quotation marks, colons, and curly or square brackets. Make sure to not write trailing commas. Missing one of these can lead to your data pack not working correctly! To check your files you can use a JSON validator, such as the one found on JSON-validate or JSONLint.
+
+
+==== "pack_format" ====
+The value of "pack_format" tells Minecraft what release the data pack is designed for, and is different for certain versions. The following list shows what versions each value is associated with:
+
+Note: As more updates are released, values may be changed or added.
+
+
+===== "description" =====
+The text following "description" can be any string or a raw JSON text. It will show up when you hover over your data pack in the output from /datapack list and in the data pack UI when creating a world.
+In pack.mcmeta, it is possible to use the § symbol (see Minecraft Formatting codes) in the description of pack.mcmeta and the data pack name.
+
+
+=== Testing your pack ===
+Once you have created your pack.mcmeta, try testing it out in-game! Open the world or, if you are already in the world, type /reload, then type /datapack list. It should list two entries. One should be [vanilla] (built-in), the second one should be named like [file/(your data pack's name) (world)], where your data pack's folder name goes at (your data pack's name). When you hover over your data pack's entry, you should see the description of your data pack as you have written in  description of your pack.mcmeta.
+When your pack shows up, you are ready to move on.
+
+
+==== Troubleshooting ====
+If you don't see your pack in the list, make sure your pack.mcmeta file is correct and saved. Look for any missing curly brackets {}, commas ,, colons :, quotation marks "", or square brackets []. Remember that for each open brace, quotation, or square bracket, you must have a closing bracket, quotation, or square brackets. If you still don't see your pack, make sure it's in the right folder.
+Note that the correct JSON syntax may differ slightly based on your version of Minecraft (e.g., in Minecraft 1.21, the JSON "item" name was replaced with "id"). The JSON examples on this page attempt to reflect the most up-to-date version of Minecraft.
+The correct data pack file structure may also differ depending on your Minecraft version. For example, in Minecraft 1.21, the recipes, functions, loot_tables, structures, predicate, and advancements folders were changed to be singular (function, loot_table, etc.).
+
+
+=== Naming ===
+
+Make a folder called data in your data pack folder, where you have placed the pack.mcmeta file in. In this data folder you have to create one or  more folders which will act as your namespaces.
+Entries in data packs have resource locations in a fashion of namespace:path. The corresponding file would be located at data/namespace/(data_type)/path.(suffix). Note that / characters in the path will be translated into directory separators.
+A few examples:
+
+an item tag of ID dummy:foo_proof/bar would be located at data/dummy/tags/item/foo_proof/bar.json
+a function of ID foo:handler/bar_call would be located at data/foo/functions/handler/bar_call.mcfunction
+
+
+==== Legal characters ====
+Namespaces, paths and other folder and file names in the data pack should only contain the following symbols:
+
+0123456789 Numbers
+abcdefghijklmnopqrstuvwxyz Lowercase letters
+_ Underscore
+- Hyphen/minus
+/ Forward Slash/Directory separator (Can't be used in namespace)
+. Period
+The preferred naming convention is lower_case_with_underscores, called lower snake case.
+
+
+==== Namespace ====
+Most objects in the game use namespaced resource locations to prevent potential content conflicts or unintentional overrides.
+For example, if two data packs add two new minigame mechanisms to Minecraft and both have a function named start. Without namespaces, these two functions would clash and the minigames would be broken. But if they have different namespaces of minigame_one and minigame_two, the functions would become minigame_one:start and minigame_two:start, which no longer conflict.
+Most of the time when Minecraft requires an ID, such as for /function, you should provide the namespace in addition to the path. If you don't specify the namespace, it will fallback to minecraft. 
+Make sure to always use your own namespace for anything new that you add, and only use other namespaces if you're explicitly overriding something else, or, in the case of tags, appending to something else.
+For example, Minecraft uses the minecraft namespace, which means that this namespace should only be used when the data pack needs to overwrite existing Minecraft data or to add its entries to vanilla tags.
+
+
+=== Functions ===
+
+Functions are a set of commands that can be run in order.
+To add functions, first create a folder named functions inside the namespace folder. Then, create a file named (function_name).mcfunction in this folder or in any of its subfolders. This will be your function file. Your function will be named in the game as (namespace):(name) or (namespace):(subfolder1)/(subfolder2)/.../(name) when the function file is located in a subfolder.
+
+
+=== Loot tables ===
+
+Loot tables will tell Minecraft what should be dropped when a mob dies or what should be generated inside containers, like chests, when opened for the first time, they can also be called by the /loot command.
+To add loot tables, first create a folder named loot_table inside the namespace folder. Then, create a file named (loot_table_name).json in this folder or in any of its subfolders. This will be your loot table file. Your loot table will be named in the game as (namespace):(name) or (namespace):(subfolder1)/(subfolder2)/.../(name) if the file is located in a subfolder. All the vanilla loot tables are in the minecraft namespace.
+Here is an example of a cow's loot table, it can be used as a reference:
+
+To learn what each tag means, see Loot tables. There is also a list of vanilla loot tables on that page.
+
+
+=== Structures ===
+Structures can be used with structure blocks and jigsaw blocks and/or can overwrite how certain vanilla structures look in Minecraft. It is saved in an NBT format. You can create an NBT file by using a structure block or by exporting a build using a third party program like MCEdit.
+To add structures to a data pack, first create a folder named structure inside the namespace folder. Then, put your structure file in this folder or in any of its subfolders. Your structure will be named in the game as (namespace):(name) or (namespace):(subfolder1)/(subfolder2)/.../(name) if the file is located in a subfolder.
+
+
+=== World generation ===
+
+Custom world generation allows data packs to change how the world generates. This is particularly useful in conjunction with custom worlds.
+To change world generation, first create a folder named worldgen inside the namespace folder. Then, put your noise_settings file in this folder or in any of its subfolders. Your changes will be named in the game as (namespace):(name) or (namespace):(subfolder1)/(subfolder2)/.../(name) if the file is located in a subfolder.
+
+
+=== Advancements ===
+
+Advancements can be completed by players and give various rewards.
+To add advancements, first create a folder named advancement inside the namespace folder. Then, create a file named (advancement_name).json (You can't put spaces in the file name. Use lowercase letters in the file name). in this folder or in any of its subfolders. This will be your advancement file. Your advancement will be named in the game as (namespace):(name) or (namespace):(subfolder1)/(subfolder2)/.../(name) if the file is located in a subfolder.
+
+
+=== Recipes ===
+
+Recipes are used to let players craft items.
+To add recipes, first create a folder named recipe inside the namespace folder. Then, create a file named (recipe_name).json in this folder or in any of its subfolders. This will be your recipe file. Your recipe will be named in the game as (namespace):(name) or (namespace):(subfolder1)/(subfolder2)/.../(name) if the file is located in a subfolder.
+
+
+==== Shaped crafting ====
+
+The first common type of crafting is shaped crafting.
+
+This is a rough example of a shaped crafting recipe, as specified by the crafting_shaped type. pattern is a list used to specify the shape of the crafting recipe. It contains a maximum of 3 strings, each string standing for one row in the crafting grid. These strings then contain a maximum of 3 single characters next to each other, each character standing for one spot in the crafting grid. You don't need all 3 strings, nor do you need to have 3 characters in each string. But each string should contain the same amount of characters. You can use spaces to indicate empty spots.
+key is a compound used to specify what item should be used for which character in pattern. This can either be specified using item followed by an item ID or tag followed by an item data pack tag.
+The result compound speaks for itself, it specified what the resulting item should be. count is used to specify how many of the item should be given.
+This is the original recipe for a piston (can be used as a reference):
+
+
+==== Shapeless crafting ====
+
+There's another common type of recipes, a shapeless recipe. The list with multiple items allows alternatives for the given slot such as Oak Plank and Birch Plank.
+
+As specified by the crafting_shapeless type, this is a recipe without a pattern. The ingredients can be put in the crafting grid in any shape or form. In the example, there's a list inside the ingredients compound. This means any of the items in this list can be used.
+This is the original recipe for Fire Charge (can be used as a reference):
+
+It is also possible to create new smelting recipes.
+
+This is a rough example of a smelting recipe. "ingredient" is used to specify the item you are going to smelt. "result" is going to specify the result. In "experience", you are able to choose the amount of xp gained for smelting, and in "cookingtime" the amount of time that it will take for the item to smelt, which in this case is 10 seconds (200 ticks = 10 seconds).
+This is the default smelting recipe for a diamond ore:
+
+
+=== Tags ===
+
+Tags are used to group blocks, items, entities, or functions together. Additionally, the minecraft:tick function tag is used to run functions every tick and the minecraft:load function tag is used to run functions every time the world is (re)loaded.
+To add tags, first create a folder named tags inside the namespace folder. Inside this folder, create folders named blocks, items and functions. Then, create a file named (tag_name).json in one of these folders or in any of their subfolders. This will be your tag file. Your tag will be named in the game as (namespace):(name) or (namespace):(subfolder1)/(subfolder2)/.../(name) if the file is located in a subfolder.
+
+
+=== Predicates ===
+
+Predicates are technical JSON files that represent the conditions for loot tables, /execute if predicate command, or predicate target selector argument.
+To add predicates, first create a folder named predicate inside the namespace folder. Then, create a file named (predicate_name).json (You can't put spaces in the file name. Use lowercase letters in the file name). in this folder or in any of its subfolders. This will be your predicate file. Your predicate will be named in the game as (namespace):(name) or (namespace):(subfolder1)/(subfolder2)/.../(name) if the file is located in a subfolder.
+
+
+=== Dimensions ===
+
+Dimensions are JSON file used to specify all the dimensions a world contains.
+To add dimensions, first create a folder named dimension inside the namespace folder. Then, create a file named (dimension_name).json (You can't put spaces in the file name. Use lowercase letters in the file name). in this folder. This will be your dimension file.
+Custom dimensions can be accessed in game using /execute in (namespace):(dimension_name)
+
+
+== Utilities ==
+
+Many utilities have been created in order to make programming in mcfunction easier. This is a reference list for utilities such as transpilers or syntax highlighting plugins. Please apply reasonable caution when downloading software onto your computer, as the creators are responsible for the content provided.
+
+Another option is to use a visual interface to create the framework or the content for your project.
+
+If you use an IDE you might want syntax highlighting for the mcfunction syntax. Depending on your IDE or your text editor extra steps may have to be taken to install it in your environment.
+
+
+== See also ==
+Data packs
+Resource packs
+Tutorials/Installing a data pack

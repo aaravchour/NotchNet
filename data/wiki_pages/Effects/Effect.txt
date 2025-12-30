@@ -1,0 +1,154 @@
+An effect is a helpful or harmful condition that affects an entity. Effects can be inflicted in various ways throughout the game, including consuming potions and some food items, being in the range of beacons and conduits, and being attacked by or close to certain mobs. There are otherwise special conditions that inflicts effects, such as killing a raid captain which would give the Bad Omen effect.
+The /effect command allows players to inflict effects upon themselves and other entities.
+
+
+== Behavior ==
+Any entities inflicted by an effect are affected in various ways for an amount of time. During the effect, spiral-shaped particles emanate from the position of the inflicted entity. For most effects, higher levels increase the strength of the effect.
+In Java Edition, players can open their inventory to see any current effects afflicted upon them, as well as the levels and duration of each. In Bedrock Edition, effects are displayed in a separate screen, which can be opened by pressing Z on a keyboard, pressing // on a controller, or tapping the effect icon when using touch controls.
+Internally, in the /effect command, and in potion Amplifier NBT tags, the game stores an "amplifier" value, which is one less than the displayed level. For example, Strength II has an amplifier value of 1.
+Due to the way this amplifier is stored in NBT, amplifiers of 128 to 255 (levels 129 to 256) in NBT tags (e.g. on potions) are treated as if they were −128 to −1 (levels −127 to 0) respectively.‌ The /effect command initially applies such amplifiers in their positive-valued sense but this is later converted to the negative-valued interpretation, leading to inconsistent results. In Bedrock Edition, amplifiers above 127 translate to positive levels, like other amplifiers.
+Any number of different effects, including opposing effects such as Strength and Weakness, can be simultaneously active on a player. However, it is not possible to apply the same effect multiple times, even if they are of different levels (e.g. Strength and Strength II). When applying an effect already active on the player, higher levels overwrite lower levels, and higher durations overwrite lower durations of the same level. 
+In Java Edition, when the stronger effect overrides the weaker effect, the weaker effect remains, but is hidden. It returns after the stronger effect expires, if the weaker effect has a higher duration than the stronger effect. This change makes it impossible to create custom potion antidotes by applying an amplified effect with a one tick duration.
+In Bedrock Edition, when a stronger effect overrides the weaker effect, the weaker effect is deleted and does not return.
+In Java Edition, players can use /effect give <targets> <effect> infinite to make effect last infinitely.
+When drinking from milk bucket, dying, being saved from death by a totem of undying, or traveling through the exit portal in the End, all status effects are removed. Single-player users with cheats enabled and operators in multiplayer servers can use /effect clear <playername>‌ or /effect <playername> clear‌ to achieve the same goal. In Java Edition, the command can be further specified to only remove one effect as such;  /effect clear <playername> <effect>.
+Damage dealt by effects (a kind of "magical damage") completely bypasses armor, making it a good way to deal with highly-armored targets (Protection enchantments reduce damage taken from effects, however). Witches are the only mob to have natural protection against effects, taking 85% less‌ or 95% less‌ damage from effects.
+
+
+== Immunity ==
+Effects can only be applied to living entities. Of these, certain entities are immune to some or all effects:
+
+The ender dragon and the wither are immune to all effects.
+Undead mobs are immune to regeneration and poison.
+Spiders and cave spiders are immune to poison.
+Wither skeletons are immune to the wither effect in addition to being immune to regeneration and poison.
+
+
+== Effect list ==
+In Java Edition, positive effects have blue text in potion information and are displayed on the upper row of effects in the heads up display, while negative effects have red potion text and are displayed in the bottom row. Neutral effects have the blue potion text and are listed with the negative effects in the bottom row in the heads up display. In Bedrock Edition, negative effect names in potion and tipped arrow tooltips are shown in red; positive and neutral effect names in these contexts, and all effect names in the "Mob effects" screen, are shown in white.
+
+
+=== Joke effects ===
+
+
+==== Java Edition 15w14a ====
+These effects only exist in 15w14a.
+
+
+==== Java Edition 23w13a_or_b ====
+These effects only exist in 23w13a_or_b.
+
+
+==== Java Edition 24w14potato ====
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== History ==
+
+
+=== Effect additions ===
+
+
+=== Other changes ===
+
+
+=== April Fools effects ===
+
+
+== Issues ==
+Issues relating to "Effect" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+When having multiple effects, the effects' timers are reduced by 1 second each simultaneously, regardless of when the player took each potion. This is because they use the same "seconds counter" that "ticks" every 20 game ticks to save memory. For example, if the player drinks one potion and another different potion that doesn't reset the timer 5.5 (or any non-integer amounts) seconds later, both effects' timers subtract 1 second from both of them simultaneously.
+When a creeper has an effect and explodes, it leaves an area effect cloud for each effect that it had before it died.‌
+Using a potion of Leaping II, a potion of Slow Falling, and a potion of Swiftness II, the player can jump a 9 block gap.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Fire - gives a damaging condition similar to an effect
+Powder Snow - gives a damaging and speed-decreasing condition similar to an effect
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Minecraft Forum: All About Potions And Brewing - 1.9 Reference Guide
+Minecraft Potions - A Visual Guide

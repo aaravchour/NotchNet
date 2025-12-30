@@ -1,0 +1,10 @@
+Get the name of the currently screen.
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

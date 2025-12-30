@@ -1,0 +1,55 @@
+Bedrock Edition releases regular beta versions for users to test features that will be in an upcoming update. This tutorial will show you how to join and leave the beta program and give warnings about what betas may do to your world.
+
+
+== Requirements ==
+The beta program is only available on Windows, Xbox One and Android.
+
+
+== Warnings ==
+Beta versions are not fully tested and may contain bugs that crash the game or corrupt your world. It is recommended to regularly back up worlds when playing in the beta program or only play in new worlds.
+
+
+== Joining ==
+
+
+=== Windows 10/11 and Xbox One ===
+You must own the digital version of Minecraft, not the disc version.
+
+Open the Microsoft Store app.
+Search for the Xbox Insider Hub app.
+The search bar is in the top right of the window.
+If the Xbox Insider Hub app is not installed, install it.
+Launch the Xbox Insider Hub app.
+Open the Previews menu and click the card titled "Minecraft for Windows 10".
+Click "Join", then click "Continue".
+The latest beta will now be downloaded if updates are set to automatic in the store.
+
+
+=== Android ===
+Open the Google Play Store.
+Search for "Minecraft" and open the app store page.
+Scroll down to the section titled "Become a tester" and click "Join".
+The Play Store will now soon install the latest beta version.
+
+
+== Leaving ==
+
+
+=== Windows 10/11 and Xbox One ===
+Open the Microsoft Store app.
+Search for the Xbox Insider Hub app.
+Launch the Xbox Insider Hub app.
+Open the Previews menu and scroll down to the card titled "Minecraft for Windows 10".
+Click "Manage".
+Make sure the beta program is selected then click "Leave Preview" and finally click "Continue".
+You have now exited the beta.
+The game may need to be reinstalled.
+On Windows, back up the %LOCALAPPDATA%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftWorlds folder.
+Uninstall the game and reinstall it from the Store.
+
+
+=== Android ===
+Open the Google Play Store.
+Search for "Minecraft" and open the app store page.
+Scroll down to the section titled "You're a beta tester" and click "Leave".
+The Play Store will now soon install the latest release version.

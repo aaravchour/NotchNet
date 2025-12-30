@@ -1,0 +1,70 @@
+The love medallion is an artifact that can be found within the various missions of Minecraft Dungeons.
+
+
+== Appearance ==
+The love medallion is a gold diamond-shaped amulet with a red heart in the middle and small chains at the top.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Arch Haven (Adventure)
+Highblock Halls (Adventure)
+Underhalls (Adventure)
+Panda Plateau (Adventure)
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+
+== Usage ==
+The love medallion flies around quickly when used, and three mobs give off hearts. These mobs become allies for ten seconds, after that they disappear. Mobs that become allies become affected by any properties that affect allies, as well as the Beast Boss, Beast Burst, and Beast Surge enchantments.
+Certain mobs are effected differently if they have a different type of attack. Hoglins still try to attack the hero but cannot damage or knockback the hero. Magma Cubes follow the hero and do not target non ally mobs. Status-inflicting area mobs such as blazes, fungus throwers, and zombified fungus thrower no longer damage the hero and damage other mobs.
+
+
+=== Properties ===
++X% boosted damage
+30 seconds cooldown
+
+
+=== Unaffected mobs ===
+All passive mobs and the following hostile mobs are unaffected by the love medallion's effect:
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Love Medallion" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+
+
+== References ==

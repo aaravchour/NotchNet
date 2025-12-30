@@ -1,0 +1,55 @@
+The sugar rush is a unique trickbow variant that can be found within the various anniversary missions of Minecraft Dungeons. It behaves identically to the pink scoundrel.
+
+
+== Obtaining ==
+Missions
+Tower
+Events
+First Anniversary (ended)
+Second Anniversary (ended)
+Merchants
+Gift Wrapper
+
+
+== Usage ==
+
+
+=== Properties ===
+X ranged damage
+Hits multiple targets (Ricochet tier I)
+Chance to enrage mobs (Wild Rage tier I)
+
+
+=== Stats ===
+Charge Multiplier: 2.2
+Quiver: 66
+Fire Rate: 2.2 shots per second (uncharged)
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Sugar Rush" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===

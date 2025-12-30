@@ -1,0 +1,4 @@
+The Crafting Table On A Stick is an item added by Actually Additions. Right-clicking it will open a Crafting Table.
+
+
+== Recipe ==

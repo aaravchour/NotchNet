@@ -1,0 +1,4 @@
+The Work Cart is a special type of Minecart added by Railcraft. This cart is essentially a Crafting Table on wheels. Its GUI is identical to the Crafting Table, and it has all of the same features of it. 
+
+
+== Recipe ==

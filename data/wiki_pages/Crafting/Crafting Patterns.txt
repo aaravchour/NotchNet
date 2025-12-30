@@ -1,0 +1,5 @@
+The Crafting Patterns are a set of 9 items added by Botania. They can be used  to restrict items from entering some slots of the Crafty Crate, making them count as occupied by placeholders. They are applied by right clicking on the crate. This does not consume the pattern.
+
+
+== Recipe ==
+The placeholders in the following recipes show slots of the Crafty Crate that will be locked. These recipes will not consume the placeholders.

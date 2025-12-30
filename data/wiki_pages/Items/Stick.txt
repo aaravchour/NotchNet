@@ -1,0 +1,66 @@
+A stick is an item used for crafting many tools and items.
+
+
+== Obtaining ==
+
+
+=== Crafting ===
+
+
+=== Fishing ===
+Sticks can be obtained as a "junk" item while fishing.
+
+
+=== Block loot ===
+Dead bushes drop between 0–2 sticks when destroyed.
+All leaf types have a 2% chance to drop between 1-2 sticks when broken. Using a tool with Fortune increase these chances to 2.2%, 2.5%, and 3.3% for Fortune I, II, and III respectively.
+
+
+=== Entity loot ===
+Witches have a chance of dropping 0–6 sticks upon death. This is increased by 3 per level of Looting, for a chance of 0-15 sticks.
+Boats and boats with chests drop 2 sticks when falling from exactly 12, 13, 49, 51, 111, 114, 198, 202, 310, or 315 blocks..
+
+
+=== Chest loot ===
+
+
+== Usage ==
+
+
+=== Crafting ingredient ===
+
+
+=== Fuel ===
+When used as a furnace fuel, a stick smelts 0.5 items.
+
+
+=== Trading ===
+Novice-level fletcher villagers have a 2⁄3 chance to buy 32 sticks for an emerald in Java Edition, and they always offer the trade in Bedrock Edition.
+
+
+== Video ==
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Stick" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+The stick is used in 49 recipes in Java Edition, and 50 recipes in Bedrock Edition, more than any other item in the game. Iron ingot takes second place with 35 recipes, and planks take third place with 34 recipes.
+To craft each recipe once, a player would need 111 sticks, including 1 for the redstone torch in an activator rail, while using the extra tripwire hook for the crossbow. This would require 56 planks, or 14 logs, for the sticks, and an extra 29 planks for the wooden tools, tripwire hook, signs, fences, fence gate, grindstone, and slabs for the barrel. This means that the player needs a total of 85 planks, or 22 logs, plus 6 more for the campfire and soul campfire.
+
+
+== External Links ==
+Taking Inventory: Stick – Minecraft.net on April 2, 2020

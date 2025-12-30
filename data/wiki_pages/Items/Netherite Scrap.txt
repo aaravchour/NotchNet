@@ -1,0 +1,36 @@
+Netherite scrap is a material smelted from ancient debris, which is found in the Nether. It is used solely for crafting netherite ingots. Like all netherite-related items, it is not flammable.
+
+
+== Obtaining ==
+
+
+=== Smelting ===
+
+
+=== Chest loot ===
+
+
+== Usage ==
+
+
+=== Crafting ingredient ===
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Netherite Scrap" are maintained on the bug tracker. Report issues there.
+
+
+== External Links ==
+Taking Inventory: Netherite Scrap – Minecraft.net on March 25, 2021

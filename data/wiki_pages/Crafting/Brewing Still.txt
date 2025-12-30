@@ -1,0 +1,4 @@
+The Brewing Still is a block added Soot. it is used to make chemical concoctions and different forms of alcoholic beverages. Each one of these beverages is used by mixing a certain type of fluid with Essence.
+
+
+== Recipe ==

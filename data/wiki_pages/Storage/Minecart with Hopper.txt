@@ -1,0 +1,67 @@
+A minecart with hopper is a minecart with a hopper inside. Unlike a normal hopper, it pulls items from containers much more quickly, cannot push items into containers, can collect item entities through a single layer of solid blocks and is locked and unlocked via activator rails.
+
+
+== Obtaining ==
+
+
+=== Crafting ===
+
+Minecarts with hoppers can be retrieved by attacking them. By doing so it drop as an item and any other contents of the hopper are dropped as well.
+
+
+== Usage ==
+
+Minecarts with hoppers are placed similarly to other minecarts.
+A minecart with hopper pulls in items lying nearby (within a range slightly larger than the cart itself), or inside a container directly above the minecart, at a rate of 1 item every game tick (20 items per second), eight times as fast as a normal hopper. It also picks up items that are lying on a block directly above the track. It does not push items into containers, but a hopper underneath the track can remove items from a minecart with hopper on the track. Ordinary hoppers can also drop items into a minecart with hopper like other containers, at the normal speed of 2.5 items per second. In Bedrock Edition, a minecart with hopper on curved rail pulls in items in a hopper lying in front of its moving direction and 1 block above if hopper's output funnel is pointed downward and no block is below that hopper.
+The hopper can be disabled by passing over a powered activator rail, and can be reenabled by an inactive activator rail.
+An empty minecart with hopper can travel more than 85 blocks without stopping (as opposed to a normal cart going less than 12 blocks) from a dead stop using a 2 powered track starter even with another cart in front of them. However, the distance traveled by a minecart with hopper depends on the hopper's load. Using a 1 powered rail starter track, a minecart with an empty hopper travels 64 blocks until it stops (as opposed to an empty normal minecart going 8 blocks). The distance traveled diminishes non-linearly with increased hopper load; a minecart with a full hopper can travel only 16 blocks in this setup.
+
+
+== Sounds ==
+Java Edition:
+Minecarts with hoppers use the Friendly Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Minecarts with hoppers have entity data associated with them that contain various properties of the entity.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+
+== Video ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Minecart with Hopper" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

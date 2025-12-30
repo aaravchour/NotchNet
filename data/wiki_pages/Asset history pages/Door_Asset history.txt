@@ -1,0 +1,31 @@
+This page documents a history of changes to textures and models for each block state.
+
+
+== Java Edition ==
+
+
+=== Oak Door ===
+
+
+==== Closed left hinge ====
+
+
+==== Closed right hinge ====
+
+
+=== Iron Door ===
+
+
+==== Closed left hinge ====
+
+
+==== Closed right hinge ====
+
+
+=== Bamboo Door ===
+
+
+==== Closed left hinge ====
+
+
+==== Closed right hinge ====

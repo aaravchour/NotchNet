@@ -1,0 +1,10 @@
+Return screen resolution
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

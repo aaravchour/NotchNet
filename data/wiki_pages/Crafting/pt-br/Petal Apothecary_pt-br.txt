@@ -1,0 +1,23 @@
+O Boticário de Pétalas é um bloco adicionado pelo Botania. Ele permite que o jogador infunda pétalas e runas para criar flores geradoras e funcionais.
+
+
+== Uso ==
+Para fabricar flores, o Boticário de Pétalas precisa estar cheio de água. A água pode ser fornecida das seguintes maneiras:
+
+Clicando com o botão direito no Boticário de Pétalas com um contêiner de água como um balde de água.
+Arremessando um balde em um boticário.
+Clicando com o botão direito com um Cajado dos Mares ou qualquer outro item que gere água.
+Se o Jardim de Vidro estiver presente, uma Tigela de água pode ser usada para encher o boticário.
+Para criar uma flor, as pétalas e runas corretas devem ser arremessadas no Boticário de Pétalas (em qualquer ordem) e então sementes de qualquer tipo devem ser arremessadas para finalizar o processo. Clicar com o botão direito enquanto segura Shift em um Boticário de Pétalas irá retornar o último item adicionado ao inventário do jogador. 
+Durante 20 segundos após fabricar um item, clicar com o botão direito em um boticário cheio de água com a mão vazia colocará os itens utilizados na última receita. 
+Um comparador de redstone apoiado ao boticário irá resultar em um sinal de intensidade 15 quando o bloco estiver cheio de água.
+Colocar Lava em vez de água no boticário irá transformá-lo em um incinerador, queimando todos os itens dropados em cima dele.
+
+Arremessar trepadeiras no boticário de pétalas dá um visual de "coberto de vegetação" a ele. Cercar o boticário de pétalas em uma bancada de fabricação com 8 Pedregulhos Metamórficos resulta em uma variante colorida.
+
+
+== Receita ==
+
+
+=== FTB Infinity Evolved ===
+Principal : FTB Infinity Evolved

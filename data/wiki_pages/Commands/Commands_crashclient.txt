@@ -1,0 +1,10 @@
+Crash the Minecraft client immediately
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

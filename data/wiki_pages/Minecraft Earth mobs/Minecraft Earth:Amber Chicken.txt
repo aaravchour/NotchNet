@@ -1,0 +1,37 @@
+An amber chicken was a variant of the chicken with amber-colored feathers exclusively found in Minecraft Earth.
+
+
+== Appearance ==
+Amber chickens were a golden yellow variant of the chicken. As its name implied, its plumage was amber-colored and almost resembled the color gold. It had an apricot-colored beak and legs differing it from the normal chicken.
+
+
+== Behavior ==
+
+Amber chickens acted exactly the same as normal chickens, walking aimlessly, and avoiding lava. 
+
+
+== Obtaining ==
+Amber chickens were uncommon mob drops that were obtainable from chicken tappables, with a 2.1% chance to get one.
+
+
+== Drops ==
+When amber chickens were killed, they dropped one of these items:
+
+0-2 Feather
+1 Raw Chicken (Cooked Chicken if killed while on fire)
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Trivia ==
+Amber chickens were previously rarer than cluckshrooms, even though they are of uncommon rarity, and cluckshrooms are of rare rarity.
+
+
+== Gallery ==

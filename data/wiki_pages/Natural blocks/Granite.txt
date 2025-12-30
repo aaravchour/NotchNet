@@ -1,0 +1,121 @@
+Granite is a block of igneous rock, found in large pockets in the ground.
+ Polished granite is a processed, decorative form of granite.
+
+
+== Obtaining ==
+
+
+=== Natural generation ===
+
+Granite can generate in the Overworld in the form of ores. 
+In Bedrock Edition, granite attempts to generate in two batches in all biomes in the Overworld. The first batch generate 2 times per chunk in ores of size 0-864, from elevations 0 to 60. The second batch has 1⁄6 chance to generate ores of size 0-864, from elevation 64 to 128. In Bedrock Edition, granite can replace stone, andesite, diorite, polished andesite‌, polished diorite‌, polished granite‌. In Java Edition, granite can replace stone, andesite, diorite, tuff, and deepslate.
+In addition, granite generates as part of large copper ore veins, coral reefs‌, and in desert village armorer houses. Polished granite generates in many ocean ruin variants.
+
+
+=== Breaking ===
+Granite can be mined using any pickaxe. If mined without a pickaxe, it drops nothing.
+
+
+=== Crafting ===
+
+
+=== Stonecutting ===
+
+
+=== Trading ===
+Journeyman-level stone mason villagers have a 2⁄7 chance to sell 4 polished granite for one emerald as part of their trades.
+
+
+== Usage ==
+Granite is currently used only for decoration. It has the same blast resistance as stone, meaning it can be used as a substitute for stone when building.
+
+
+=== Crafting ingredient ===
+
+
+=== Stonecutting ===
+
+
+=== Trading ===
+Journeyman-level stone mason villagers have 2⁄7 of a chance to buy 16 granite for an emerald.
+
+
+=== Note Blocks ===
+Granite and polished granite can be placed under note blocks to produce "bass drum" sounds.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Bedrock Edition:
+
+
+== History ==
+
+
+=== Data history ===
+
+
+== Issues ==
+Issues relating to "Granite" or "Polished Granite" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Granite rock comes from underground magma chambers that turned cold. It's often pinkish in color because of its alkali feldspar minerals.
+Diorite is another magma chamber rock, but it has less quartz in it than granite. This is in accordance with granite's crafting recipe in Minecraft, which consists of nether quartz with diorite.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Java Edition ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Andesite
+Diorite
+Stone
+
+
+== External Links ==
+Block of the Week: Granite – Minecraft.net on July 21, 2017

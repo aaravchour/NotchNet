@@ -1,0 +1,21 @@
+Locks and unlocks eternal daytime.
+
+
+== Syntax ==
+daylock [lock: Boolean]
+alwaysday [lock: Boolean]
+
+
+== Arguments ==
+lock: Boolean: enum
+
+Specifies whether the eternal daytime is locked or not.
+Must be a  boolean (either true or false). If not specified, defaults to true. Note that this argument has the opposite sense from the gamerule dodaylightcycle command's argument.
+
+
+== Result ==
+
+On success, sets the game option "Always Day" to the argument value. If the argument is false, turns on the "Do Daylight Cycle" game option. If the argument is true or is omitted, turns off the "Do Daylight Cycle" game option and sets the time of day (time daytime value) to 5000 ticks, which is one in-game hour before noon.
+
+
+== History ==

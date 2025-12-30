@@ -1,0 +1,50 @@
+Lets the player's agent right-click on the block in the specified direction.
+
+
+== Syntax ==
+place <slotNum: int> <direction: string>
+
+
+== Arguments ==
+slotNum: int
+
+Specifies the slot number of block to be placed, slots are numbered from 1 to 27.
+direction: string
+
+Specifies the direction of Agent to place the block.
+Must be one of:
+forward to place the block on the front.
+back to place the block on the back.
+left to place the block on the left-hand side.
+right to place the block on the right-hand side.
+up to place the block on the top-hand side.
+down to place the block on the bottom-hand side.
+
+
+== Result ==
+Fails if the arguments are not specified correctly or the specified slot was empty.
+On success, returns if a block in the specified inventory slot was placed.
+
+
+== Note ==
+This basically places a block (ex: Place Stone Block) or a placeable item (ex: Place Oak Fence) from the selected inventory slot in the specified direction. 
+However, this doesn’t interact with things like doors, levers, and containers.
+Additionally, when player specifies a slot which contains the following non-place-able items, this behaves as follows:
+
+Place water/lava
+Bucket
+Till grass
+Hoe
+Make a path
+Shovel
+Spawn a mob
+Spawn Eggs
+Dye something
+Dyes
+Make a fire
+Flint and Steel
+Fire Charge
+Placeable material
+Boat
+Minecart
+Bottle

@@ -1,0 +1,10 @@
+Check whether the nearest entity is baby type
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

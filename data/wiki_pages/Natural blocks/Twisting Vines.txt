@@ -1,0 +1,91 @@
+Twisting vines are climbable upward-growing vegetation blocks found in the Nether in warped forests. 
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Twisting vines can be obtained using any tool. They are broken instantly using any tool. They have a 33% chance to drop a single twisting vine when broken, increased to 55% with Fortune I, 77% with Fortune II, and 100% with Fortune III (or higher). They always drop a single twisting vine when broken with shears or with a tool enchanted with Silk Touch.  Any segments left unsupported from below break with a 33% drop chance, regardless of tool used. Accordingly, twisting vines are best harvested starting from the topmost block.
+
+
+=== Natural generation ===
+Twisting vines generate naturally in the warped forest biome, either on the ground, or on warped huge fungus structures, and can be found only in the Nether.
+
+
+=== Post-generation ===
+Applying bone meal on warped nylium occasionally creates 1-block tall twisting vines on any nylium or netherrack nearby.
+Just like weeping vines, twisting vines have a 10% chance of growing one block each random tick. Unlike weeping vines, however, twisting vines grow upward. At default random tick speed, each fungus grows approximately every 13653 game ticks (11.3775 minutes). Twisting vines stop growing once they reach the ceiling or when the block reaches an age block state of 25, whichever is first.
+
+
+== Usage ==
+Twisting vines can be placed on any block except for transparent blocks (e.g. leaves and fences), and automatically begin to grow. Twisting vines can also be used similarly to a water bucket, as it can prevent fall damage. Applying bone meal to any block of twisting vines causes it to grow immediately. It occasionally spawns if bonemeal is used on warped nylium found in warped forest floors.
+Twisting vines stop growing if shears are used on the tip.‌‌
+
+
+=== Climbing ===
+Twisting vines can be climbed by standing inside and holding the jump key. If there is a solid block behind the twisting vines, the walk forward key can also be used.
+
+
+=== Compost ===
+Twisting vines also have a 50% chance of raising the compost level by 1 if placed in a composter.
+
+
+== Sounds ==
+
+
+=== Generic ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Unique ===
+Java Edition:
+
+Bedrock Edition: None 
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+Java Edition
+Twisting Vines:
+
+Bedrock Edition
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Twisting Vines" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+The twisting vines are the first block added to the game that was originally suggested by Minecraft Developer Ulraf.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

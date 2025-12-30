@@ -1,0 +1,57 @@
+The freezing foil is a unique rapier variant that can be found within the various missions of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+A  after a mission name indicates that the item is only obtainable in Daily Trials of that mission.
+
+Arch Haven 
+Highblock Halls 
+Frosted Fjord (DLC)
+Nether Fortress (DLC)
+Tower
+Merchants
+Gift Wrapper
+Ancients
+Solemn Giant
+
+
+== Usage ==
+The freezing foil possesses low power, high speed, and above average area. It has a combo consisting of 13 fast thrusts, and then a large thrust that deals the weapon's maximum damage.
+
+
+=== Properties ===
+X melee damage
+Fast thrusts
+Slows mobs (Freezing tier I)
+
+
+=== Stats ===
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Freezing Foil" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===

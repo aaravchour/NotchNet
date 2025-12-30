@@ -1,0 +1,10 @@
+Soul soil farming is a process of farming soul soil without using glitches.
+
+
+== Why bother? ==
+Soul soil can be used to produce the soul lighting variants, however it can also be done with soul sand. Soul soil can be used to produce blue fire and can be used for decoration, since it looks much smoother than soul sand. Soul soil can also allow you to run faster with Soul Speed, however unlike soul sand it will not produce upwards bubble columns and not use to grow nether wart, and that makes it ideal for producing speed tunnels. Soul soil otherwise can only be obtained via mining in soul sand valleys, however that biome is dangerous and uncommon.
+
+
+== Concept ==
+First of all, you will need an unlimited supply of soul sand, which can be obtained via piglin bartering, and wood (which can be obtained from tree farms). Use the soul sand and wood to craft soul campfires, and break those campfires without Silk Touch to get soul soil. Then you can repeat the process with more soul sand and wood.
+While sounding fairly simple for manual farming, it is considerably hard to automate because of crafting it, placing it and breaking it. Placing it already relies on player interaction, and in Bedrock Edition they are not stackable, so that makes it more annoying to automate. You can automatically craft it using Auto Crafter and automatically break it using TNT duplication or a wither chamber if you play on Java Edition, and on Bedrock you will need to break it yourself.

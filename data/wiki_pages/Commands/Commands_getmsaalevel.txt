@@ -1,0 +1,10 @@
+Return anti-aliasing level
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

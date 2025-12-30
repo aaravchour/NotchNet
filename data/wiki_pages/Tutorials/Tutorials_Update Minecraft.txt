@@ -1,0 +1,19 @@
+This page will describe how you can update Minecraft, how to roll back and why you should wait to update.
+Be aware: Minecraft mods are sometimes saved in the minecraft.jar, so you will lose mods that use that method when updating or rolling back. If you use a mod loader/API (such as Forge or Fabric), updates need to be manually installed via the API's website in order to play mods on the newer version.
+
+
+== Updating Minecraft ==
+To update Minecraft, start the Minecraft Launcher. Click "Options" next to the username textbox, then "Force update!" on the "Launcher Options" window. Finally, click "Done" and login with your Minecraft credentials. Minecraft will start updating itself. This can also be used to get a fresh Minecraft installation (it will keep your saves and texture packs, but not your mods.).
+
+
+== Rolling Back Updates ==
+If you want to restore your Minecraft installation to a previous version, you need the original minecraft.jar file (of the version you like to roll back to) which was downloaded by the Launcher. 
+
+
+=== Creating backups of the minecraft.jar ===
+Best way to get the minecraft.jar backup fully legal is just to create it by your own right after you downloaded the latest version:
+In the Minecraft Launcher, click "Options" and then click on the Path right behind "Game location on disk". In the File Explorer, open "bin" and in which you will find minecraft.jar. Copy it, for example to a folder on the desktop named "Minecraft Backups". It's recommend to create a subfolder which is named with the version which you are backing up, for example "1.2.5".
+
+
+=== Restore previous versions ===
+If you already have the minecraft.jar of the previous version (or Pre-Release), you just need to replace the minecraft.jar in the .minecraft/bin folder with your backed up version. The best way to do this is to delete the current one and then paste the wanted one in its place. Make sure it's named "minecraft.jar" or "minecraft" as well, if not name it that way (if it has the ending ".jar", rename it to "minecraft.jar", otherwise rename it to "minecraft".)

@@ -1,0 +1,92 @@
+The guardian bow is a unique longbow variant that can be found within the various missions of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Pumpkin Pastures
+Arch Haven
+Cacti Canyon
+Windswept Peaks (Adventure, DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Haunted Caller
+
+
+== Usage ==
+
+
+=== Properties ===
+X ranged damage
+Strong Charged Attacks
+Super Charged Arrows (Supercharge tier I)
+
+
+=== Stats ===
+Quiver: 53
+Charge Multiplier: 3 
+Fire Rate: 2.2 shots per second (uncharged)
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Guardian Bow" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+A Twitter video was released featuring a hero utilizing a combination between the guardian bow, the frost bite, and the frost scythe.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

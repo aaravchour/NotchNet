@@ -1,0 +1,13 @@
+Small is an effect that makes entities smaller.
+
+
+== Causes ==
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==

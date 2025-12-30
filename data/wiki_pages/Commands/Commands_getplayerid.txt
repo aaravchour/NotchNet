@@ -1,0 +1,10 @@
+Return player's ID
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

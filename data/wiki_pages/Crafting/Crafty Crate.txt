@@ -1,0 +1,14 @@
+The Crafty Crate is a block added by Botania. It is used to automatically craft items out of resources pumped in.
+
+
+== Usage ==
+
+The Crafty Crate has 9 slots, which can be filled with items in pattern of a recipe. Each slot can hold a single item. Items cannot be inserted manually. Items are inserted from left to right, top to bottom. The contents of the crate can be seen by pointing at it when holding the Wand of the Forest. Crafting Placeholders are used to fill the empty slots of the recipe, and will not be used up in the process.
+When all of the crate's slots are filled, it will craft and eject the results, as well as leftovers such as placeholders or empty buckets. If the crate cannot craft with its contents, it will not output anything. 
+Right clicking with the Wand of the Forest will attempt to craft with the items currently in the crate, but the contents will be ejected regardless of the outcome.
+Similarly to the Open Crate, if a solid block is under the crate, it will not craft until the block is removed. 
+A Redstone Comparator attached to this block will emit a signal with strength equal to the amount of items in the crate.
+Lastly, Crafting Patterns can be used to restrict items from entering some slots of the crate, making them count as occupied by placeholders. The patterns are applied by right clicking on the crate, and are not consumed.
+
+
+== Recipe ==

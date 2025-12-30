@@ -1,0 +1,11 @@
+This page is about the Cyclic Assembler added by Thermal Expansion 3. For other uses, see Cyclic Assembler.
+
+The Cyclic Assembler is a machine added by Thermal Expansion 3. It uses formatted Schematics to produce the pattern until it runs out of power or materials placed in its storage. It uses 2 Minecraft Joules (MJ) per item crafted. If a recipe uses a container of liquid, the player can pipe the liquid into the internal tank instead of supplying the containers.
+
+
+== Recipe ==
+
+
+== Usage ==
+Main article: Schematic (Thermal Expansion 3)
+The blue tab in the GUI is used to program the Schematic. Place a blank schematic in the schematic slot in the machine, then create the pattern in the tab and press the check mark to encode the pattern on the schematic.

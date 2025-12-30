@@ -1,0 +1,33 @@
+Displays the coordinates for the closest biome of a given biome ID or a biome tag in the chat for the player who executed the command.
+
+
+== Syntax ==
+locatebiome <biome>
+
+
+== Arguments ==
+<biome>: resource_or_tag
+
+Specifies the biome(s) to be located. See Biome/ID for a list of available biome IDs.
+Must be an existing registered resource location or tag in correct registry.
+
+
+== Note ==
+The horizonal search resolution is 32 blocks, and vertical resolution is 64 blocks, which means biomes that are too narrow may not be found.
+If successful, the following message is sent to chat: "The nearest <biome name> is at [<x> ~ <z>] (<distance> blocks away)"/"The nearest <biome tag> (<biome name>) is at [<x> ~ <z>] (<distance> blocks away)", in which <distance> is the horizontal distance between the executor and the biome. The coordinates can be clicked, which can put the command /tp @s <x> ~ <z> in the chat box. The command can then be executed, and the player will be sent to those coordinates.
+
+
+== Result ==
+
+
+== Output ==
+
+
+== Example ==
+To obtain the coordinates of the nearest desert: /locatebiome desert
+
+
+== History ==
+
+
+== References ==

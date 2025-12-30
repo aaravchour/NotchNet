@@ -1,0 +1,142 @@
+The /data command allows the user to get, merge, modify, and remove NBT data of a block entity, entity, or Command NBT storage.
+
+
+== Syntax ==
+There are four instructions for /data (get, merge, modify, remove), and the targets/sources referenced by each instruction command may be either block <targetPos>, entity <target>, or storage <target>.
+
+/data ...
+... get
+... (block <targetPos>|entity <target>|storage <target>) [<path>] [<scale>]
+Read off the entire NBT data or the subsection of the NBT data from the targeted block position or entity to the executor with syntax highlighting,  scaled by <scale> if specified.
+... merge
+... (block <targetPos>|entity <target>|storage <target>) <nbt>
+Merge the NBT data from the target block position or entity with the specified <nbt> data.
+... modify (block <targetPos>|entity <target>|storage <target>) <targetPath> ...
+... append from (block <sourcePos>|entity <source>|storage <source>) [<sourcePath>]
+... append string (block <sourcePos>|entity <source>|storage <source>) [<sourcePath>] [<start>] [<end>]
+... append value <value>
+Append the source data or direct value data onto the end of the pointed-to list.
+... insert <index> from (block <sourcePos>|entity <source>|storage <source>) [<sourcePath>]
+... insert <index> string (block <sourcePos>|entity <source>|storage <source>) [<sourcePath>] [<start>] [<end>]
+... insert <index> value <value>
+Insert the source data or direct value data into the pointed-to list as element <index>, then shift higher elements one position upward.
+... merge from (block <sourcePos>|entity <source>|storage <source>) [<sourcePath>]
+... merge string (block <sourcePos>|entity <source>|storage <source>) [<sourcePath>] [<start>] [<end>]
+... merge value <value>
+Merge the source data or direct value data into the pointed-to object.
+... prepend from (block <sourcePos>|entity <source>|storage <source>) [<sourcePath>]
+... prepend string (block <sourcePos>|entity <source>|storage <source>) [<sourcePath>] [<start>] [<end>]
+... prepend value <value>
+Prepend the source data or direct value data onto the beginning of the pointed-to list.
+... set from (block <sourcePos>|entity <source>|storage <source>) [<sourcePath>]
+... set string (block <sourcePos>|entity <source>|storage <source>) [<sourcePath>] [<start>] [<end>]
+... set value <value>
+Set the tag specified by <targetPath> to the source data or direct value data.
+... remove
+... (block <targetPos>|entity <target>|storage <target>) <path>
+Removes NBT data at <path> from the targeted block position or entity. Player NBT data cannot be removed.
+
+Syntax displayed in various ways
+
+
+== Arguments ==
+<targetPos>: block_pos
+
+The position of the target block entity whose NBT is to be operated on.
+Must be a block position composed of <x>, <y> and <z>, each of which must be an integer or a tilde and caret notation.
+<target>: entity (in entity <target> mode)
+
+Specifies an entity whose NBT is to be operated on.
+Must be a player name, a target selector or a UUID.  And the target selector must be in single type.
+<target>: resource_location (in storage <target> mode)
+
+Specifies a storage to be operated on.
+Must be a resource location which will be resolved during command execution into unregistered content or client-side content.
+<path>: nbt_path
+
+Specifies the NBT to retrieve or remove.
+Must be an NBT path.
+<scale>: double
+
+Scalar for the command's return value.
+Must be a  Double-precision floating-point format number.
+<nbt>: nbt_compound_tag
+
+Specifies a compound tag to be merged into somewhere.
+Must be a  compound NBT in SNBT format.
+<targetPath>: nbt_path
+
+Specifies target NBT to modify.
+Must be an NBT path.
+<index>: integer
+
+Specifies an item's index within a list.
+Must be a  32-bit integer number.
+<sourcePos>: block_pos
+
+The position of the target block entity whose NBT is to be used.
+Must be a block position composed of <x>, <y> and <z>, each of which must be an integer or a tilde and caret notation.
+<source>: entity (in entity <source> mode)
+
+Specifies an entity whose NBT is to be used by modify.
+Must be a player name, a target selector or a UUID.  And the target selector must be in single type.
+<source>: resource_location (in storage <source> mode)
+
+Specifies a storage to be used by modify.
+Must be a resource location which will be resolved during command execution into unregistered content or client-side content.
+<sourcePath>: nbt_path
+
+Specifies the source NBT to be used by modify.
+Must be an NBT path.
+<start>: integer
+
+Specifies the index of first character to include at the start of the string. Negative values are interpreted as index counted from the end of the string.
+Must be a  32-bit integer number.
+<end>: integer
+
+Specifies the index of the first character to exclude at the end of the string. Negative values are interpreted as index counted from the end of the string.
+Must be a  32-bit integer number.
+<value>: nbt_tag
+
+Value used in modifying the target NBT. Should match its data type.
+Must be an NBT tag of any type in SNBT format.
+
+
+== Result ==
+
+
+== Output ==
+
+
+== Examples ==
+To get the saturation level of the current player:
+/data get entity @s foodSaturationLevel
+To make the nearest item within 10 blocks unable to be picked up by players:
+/data modify entity @e[type=item,distance=..10,limit=1,sort=nearest] PickupDelay set value -1
+To get the Y-position of a random item:
+/data get entity @e[type=item,limit=1,sort=random] Pos[1]
+To get the item ID of the item in the first hotbar slot of the nearest player:
+/data get entity @p Inventory[{Slot:0b}].id
+To set the armor attribute of the dolphin closest to coordinates (0, 64, 0) to 20:
+/data modify entity @e[x=0,y=64,z=0,type=dolphin,limit=1] Attributes[{Name:"minecraft:generic.armor"}].Base set value 20
+To change the first item in a chest located at coordinates (1, 64, 1) into a diamond block, keeping all NBT data:
+/data modify block 1 64 1 Items[0].id set value "minecraft:diamond_block"
+To make the nearest zombie have a 80% chance to drop items in its off-hand when it dies, and never drop items in the main hand:
+/data merge entity @e[type=zombie,limit=1,sort=nearest] {HandDropChances: [0f, 0.8f]}
+To make the nearest zombie have a 80% chance to drop items in its off-hand when it dies, without affecting the chance for the main hand:
+/data modify entity @e[type=zombie,limit=1,sort=nearest] HandDropChances[1] set value 0.8f
+
+
+== Storage ==
+
+The command storage of NBT data is an efficient way for commands to access or save NBT data without an overhead for block entities or entities reading from or writing to the NBT data.
+Each command storage is a general purpose, key-value storage, identified by a resource location to prevent unintentional conflicts.
+/data get and /data modify can read from the storage, while /data merge, /data modify, /data remove, and /execute store can write to the storage.
+A storage array can hold up to 2304 objects before maxing out.
+The command storage is accessible with JSON text as well.
+
+
+== History ==
+
+
+== References ==

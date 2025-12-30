@@ -1,0 +1,35 @@
+Gives or takes an achievement from a player.
+
+
+== Syntax ==
+achievement (give|take) (<achievement>|*) [<player>]
+
+
+== Arguments ==
+name
+Specifies which achievement to modify. Must be one of the following:
+achievement.achievement_name, where achievement_name is a valid achievement identifier.
+* represents all achievements.
+player (optional)
+Must be a player name or a target selector. If not specified, defaults to the command's executor. Not optional in command blocks.
+
+
+== Result ==
+Fails if the arguments aren't specified correctly, or if [<player>] fails to resolve to one or more online players.
+On success, grants or removes the specified achievement(s) (and all prerequisite achievements) to the player(s).
+
+
+== List ==
+
+
+== Examples ==
+To grant the "Overkill" achievement to oneself: /achievement give achievement.overkill
+To grant the "Taking Inventory" achievement to Steve: /achievement give achievement.openInventory Steve
+To remove all achievements from all players: /achievement take * @a
+
+
+== History ==
+
+
+== See also ==
+/advancement

@@ -1,0 +1,669 @@
+Zombies are common undead hostile mobs that deal melee damage and occasionally attack in groups.
+
+
+== Spawning ==
+
+
+=== Natural generation ===
+Zombies may spawn in the Overworld in groups of up to four above solid blocks at a light level of 0, except in mushroom fields and deep dark biomes. All zombies spawned in desert biomes and exposed to the sky have a likelihood of 80%‌/70%‌ to be replaced by husks. Zombies that are not husks or drowned have a 5% chance to spawn as zombie villagers. Zombies may spawn with armor and a weapon.
+Zombie variants have a 5% chance to spawn as babies. The baby zombies also have a chance of spawning as a chicken jockey in Java Edition.
+All zombie variants (including babies) require a 2-block tall space to spawn.
+Zombies spawn with up to 5% of knockback resistance.
+When a zombie spawn egg is used on a zombie, it spawns a baby zombie.
+
+
+=== Sieges ===
+                                                                           
+
+If a player is near a village at midnight, up to 20 zombies may be spawned in the village in accordance with mob spawning rules. The spawning can even happen in mushroom fields biome if the triggering player is in an adjacent biome. Zombies spawned as a part of a siege are always regular zombies; zombie villagers, husks and drowned never spawn as a part of a siege.
+
+
+=== Monster spawners ===
+Zombies spawned from a monster spawner are never zombie villagers in Java Edition, although zombie monster spawners in Bedrock Edition are able to produce them. Monster spawners have a 50% chance to be a zombie spawner inside of monster rooms.
+
+
+=== Husks ===
+When a husk's head is submerged in water for over 30 seconds, the husk starts transforming into a zombie, with a new entity UUID. The husk's equipment remains on the zombie after conversion.‌ The zombie transforms into a drowned if its head remains submerged.
+
+
+== Variants ==
+
+
+=== Baby zombies ===
+
+
+==== Behavior ====
+Baby zombies make up 5% of zombie spawns. They behave similarly to regular zombies, with the following differences:
+
+They are much faster than normal zombies, yet they have the same health.
+The noises they make are higher-pitched than adult zombie sound effects.
+Baby zombie villagers turn into baby villagers if cured.
+Worn armor shrinks to fit their body size.
+They are able to fit through 1×1 block gaps.
+They give 12 experience points when killed by the player or a tamed wolf instead of 5.
+Unlike most other baby mobs, they remain babies indefinitely and never become adult zombies.
+They have a decreased hitbox size.
+In Bedrock Edition, 10% of naturally spawned baby zombies can start riding a mob and become a jockey when it tries attacking. The jockey mobs ridden by the baby zombie adapt the speed of its rider. In Bedrock Edition, a baby zombie can ride:
+
+
+=== Zombie villagers ===
+
+Zombie villagers have a 5% chance of spawning in place of zombies and may also spawn from a villager killed by a zombie. The chance of a villager turning into a zombie villager when killed by a zombie or zombie variant depends on the difficulty level.
+When a group in the normal spawn cycle spawns zombies, there is a 5% chance to instead spawn a group of zombie villagers‌‌, or a single zombie villager.‌‌
+If any type of zombie kills a villager, there is a chance for the villager to transform into a zombie villager.
+
+Any villagers that get killed by a zombie have a chance to turn into a zombie villager with armor on normal or hard difficulties.
+Zombie villagers can be cured (converted to normal villagers) by first giving them the Weakness effect, which can be applied by:
+
+A splash potion of Weakness thrown by the player, a dispenser, or a witch.
+An area effect cloud of Weakness from a lingering potion.
+An area effect cloud of Weakness from a creeper explosion.‌‌
+A tipped arrow that was dipped into a Weakness potion.
+The weakened zombie villager must then be healed by using a (non-enchanted) golden apple on them.
+
+
+=== Husks ===
+
+Husks have an 80% chance to spawn in desert biomes in place of zombies. They attack like regular zombies, but inflict hunger for several seconds and do not burn in sunlight.
+
+
+=== Drowned ===
+
+Drowned mobs spawn in ocean ruins, rivers, most parts of oceans or when a normal zombie drowns. They are able to swim and breathe underwater as well as walk on land. Most drowned use melee attacks, but some spawn with tridents and throw them when attacking instead.
+Zombies that are wearing armor and go underwater continue wearing the armor when converted to a drowned, although tools and weapons are lost.‌
+Zombies that convert to drowned drop all worn or held equipment with full durability and preserving existing enchantments.‌
+
+
+=== Geared zombies ===
+On Halloween, zombies may spawn wearing a carved pumpkin or jack o'lantern‌. They do not drop this, even when killed with Looting.
+Some zombies spawn wearing armor or holding tools, both of which may be enchanted. In addition, zombies may also spawn with the ability to pick up loot that is on the ground. The chances of each of these events occurring are listed below. Zombie villagers can also spawn naturally with armor, weapons or tools. If a zombie spawns wearing multiple pieces of armor, the armor is never mismatched (i.e. all pieces are made of the same material). Zombies cannot naturally spawn with netherite armor.
+
+If a zombie does spawn with armor, the chances of specific armor are as follows:
+Java Edition:
+
+Bedrock Edition:
+
+The chances of it being of a particular material are:
+
+Armor worn by zombies is not damaged from most damage sources, which means it cannot "wear out" the way player armor does. Helmets (not blocks like pumpkins) on zombies can eventually wear away and break if the zombie is exposed to daylight or has an anvil or other falling block dropped on its head. Zombies also have a natural armor rating of 2 (), giving 1.6 to 8% damage reduction from most sources. Zombies can also wear mob heads, although they need to be dropped by the player before the zombie can pick one up and put it on.
+
+
+=== Zombie Horseman ===
+This rare variant rides a zombie horse and carries a spear. This variant will be coming soon in the next game drop called "Mounts of Mayhem". By default, zombie horses are hostile when ridden by zombie horsemen. When the horsemen riders are killed, the zombie horse becomes passive.
+Other variants of zombies, like husks, drowned, and zombie villagers, do not spawn as zombie horsemen.
+
+
+== Drops ==
+
+
+=== Common drops ===
+A zombie drops up to two rotten flesh after dying. The maximum drop is increased by 1 per level of Looting, for a maximum of 0 to 5 with Looting III. A zombie also drops a zombie head when killed by a charged creeper.
+
+
+=== Rare drops ===
+Zombies may also drop one of the following when killed by a player or tamed wolf:
+
+1 iron ingot
+1 carrot
+1 potato (baked potato when killed with fire)
+This drop has a 2.5% chance of occurring, increasing by 1% per level of looting. Individual items have the following chances of dropping:
+
+5⁄600 (about 0.83%)
+7⁄600 (about 1.17%) with Looting I
+9⁄600 (1.5%) with Looting II
+11⁄600 (about 1.83%) with Looting III
+
+
+=== Taken equipment ===
+Any picked-up equipment has a 100% chance of dropping and drops without changing the damage that has accumulated on it.
+
+
+=== Naturally-spawned equipment ===
+Zombies have an 8.5% chance of dropping their naturally-spawned equipment and drop it with a random durability. Each level of Looting increases the chance by 1 percentage point (11.5% with Looting III). These items include:
+
+Iron Shovel (sometimes enchanted)
+Iron Sword (sometimes enchanted)
+Random Armor (sometimes enchanted, made from leather, gold, chainmail, iron or diamond)
+
+
+=== Experience ===
+Any zombie that spawns with equipment gives 1–3 extra experience points per item when killed. Adult zombies drop 5 and baby zombies drop 12 when they are killed by a player or a tamed wolf.
+
+
+== Behavior ==
+
+
+=== Attacking the player ===
+Zombies hunt the player on sight from 35 blocks away in Java Edition or 16 blocks away in Bedrock Edition, raising their arms up.‌ The detection range of zombies is reduced to half of their normal range (17.5 blocks) when the player is wearing a zombie head. If a zombie sees a player and a villager together, the zombie prefers to attack the player first. A zombie already hunting a villager continues to do so even if the player is near, until the player attacks it.
+Zombies periodically make groaning sounds, which can be heard up to 16 blocks away. Zombies attempt to avoid obstacles, including fall damage, fire, lava, magma blocks, and cactus and try to find the shortest path toward the player. Unlike skeletons, zombies do not try to avoid being hit and continue to pursue the player even when being attacked.
+
+
+=== Attacking turtles ===
+Zombies attack baby turtles and actively seek out and destroy turtle eggs within 24 blocks horizontally and 3 blocks vertically, by jumping on them until they crack and break.
+
+
+=== Attacking utility mobs ===
+Zombies hunt and attack golem utility mobs within 42 blocks. Iron golems and snow golems attack zombies without provocation, although snow golems deal only knockback to zombies with their snowballs.
+
+
+=== Attacking villagers ===
+Zombies target and hunt villagers within a 35– to 52.5–block radius (depending on regional difficulty)‌ or a 16-block radius‌ and they can always see villagers through walls. If a zombie is attacking a villager and sees the player, it interrupts its attack on the villager to attack the player instead, even if the player has not attacked it‌. Once a zombie has targeted a villager, the zombie ignores any other villagers and the player, until its target is dead or the zombie is attacked‌.
+Any zombie variant can transform a villager into a zombie villager. The probability depends on the difficulty:
+
+0% chance in Peaceful (no zombies spawn) and Easy
+50% chance in Normal
+100% chance in Hard
+
+
+=== Attacking wandering traders ===
+Zombies target and hunt wandering traders within 35 blocks and can see traders through walls. The zombie focuses solely on the trader unless it's attacked, or if either it or the target is killed or moved out of range, or if the trader is under the invisibility status effect.
+
+
+=== Burning under daylight ===
+When the sun is 15 degrees or more above the ground, zombies burn once exposed to direct sunlight. Burning is suppressed when the zombie is:
+
+in a sufficiently shaded area: a sunlight level of 11 or less (a 1 block roof overhang provides sufficient protection even if it would have a sunlight level of 14);
+in water;
+wearing head armor (the helmet absorbs the damage from light but may take several day cycles to wear out completely).
+under the status effect of Fire Resistance.
+standing in cobwebs.
+Transparent and translucent blocks, including glass and ice, do not prevent them from burning.‌.
+If they attack an entity while burning, they may set it on fire, with a (30×regional difficulty)% chance and with a 2×floor (regional difficulty) second duration. If wearing armor enchanted with Thorns while burning, they may set players attacking them on fire with thorns damage alone.
+
+
+=== Undead ===
+Zombies are undead mobs, harmed by the status effect Healing, healed by the status effect Instant Damage and are unaffected by Regeneration and Poison. The wither does not attack zombies. Zombies are affected by the Smite enchantment.
+
+
+=== Picking up items ===
+Some zombies are capable of automatically picking up dropped items that they come across. Mob heads and carved pumpkins are automatically worn on their heads. Zombies can equip armor, weapons or tools. If a zombie encounters another similar item, it may drop the previous item in favor of the new one, if:
+
+the new item is armor or a sword and the old item was not (for example, zombies prefer swords to pickaxes, and helmets to carved pumpkins),
+both items are armor/swords and the new item is better damage-wise (reduces higher damage for armor, or inflicts more damage for swords),
+both items are armor/swords with the same damage reduction/infliction, the new item has NBT tags while the old does not or the new item is more damaged than the old item, or
+both items are bows and the new item has NBT tags while the old does not.
+Items dropped by mobs in exchange for another cannot be picked up by players or mobs for 10 game ticks (0.5 seconds, barring lag), but can be picked up by hoppers.
+A zombie holding a picked-up item does not despawn when left alone, similar to being name tagged.
+Zombies have a higher chance of being able to pick up items in Hard difficulty.
+Picked-up items do not cause the zombie to drop more experience when killed, unlike naturally-spawned gear.
+
+
+=== Breaking doors ===
+Up to 10% of zombies (depending on regional difficulty) in pursuit of a target bang on closed wooden doors and on Hard (and Hardcore) difficulty can succeed in breaking them down. Otherwise, the door cracks but does not break.
+
+The zombie also breaks down the door if the door is blocking its way. Zombies can break only the top half of a door, meaning they cannot break a door if the zombie is facing the bottom half of the door.
+
+
+=== Reinforcements ===
+                                                                           
+On all difficulty levels, damaged zombie mobs (including husks, drowned and even zombified piglins) call all other zombies within a 67×21×67 to 111×21×111 area centered on the attacked zombie to target the attacker.
+In Hard difficulty, zombies can spawn additional zombies to "help" when damaged. Each zombie has a "likeliness to call reinforcements" statistic ranging from 0–10%, and "leader" zombies (0–5% depending on regional difficulty) get a bonus of 50–75 percentage points to the stat. When the zombie is damaged by an entity or is damaged while targeting an entity, up to 50 attempts are made to randomly choose a spawn location (0 or ±7–40 blocks away in all three axes) that is above a block with a solid top surface, has light level 0, has no players within 7 blocks, and has no colliding entities or blocks at which to spawn the reinforcement. Both the damaged zombie and the new zombie has a 5 percentage point penalty to their "likeliness to call reinforcement" stat, preventing infinite zombies from spawning this way.  Zombie reinforcements can spawn even in locations where naturally spawned zombies can't spawn, like mushroom fields, the End, and the Nether, although they still cannot spawn on blocks where other items like redstone dust or pressure plates are placed.
+These effects can be negated by killing the zombie in as few hits as possible, by using environmental damage such as cactus or lava, or by avoiding them completely. That is, if the zombified mob drops experience, it has a chance to spawn reinforcements. Additionally, reinforcements do not spawn at all, even on Hard difficulty, if the game rule doMobSpawning is set to false.
+Leader zombies are a special type of zombie that spawn with an added 50-75% chance to spawn reinforcements. The chance of a leader zombie spawning increases with clamped regional difficulty, up to a 5% chance of spawning.
+Reinforcements zombies spawn regardless of the hostile mob cap. They also spawn on the north-west corner of the designated block, instead of the center of the block like natural mob spawning does. Zombies spawned as reinforcements cannot be zombie villagers, but they can be babies, including chicken jockeys.
+
+
+=== Becoming drowned ===
+
+If a zombie's head is submerged in water for 30 seconds, it begins converting into a drowned. The zombie shakes, similar to a zombie villager being cured and, after 15 seconds, the zombie becomes drowned. Once this process starts, it cannot be stopped even if the zombie leaves water. This time is not affected by the Respiration enchantment or the Water Breathing status effect. 
+A newly-converted drowned always has full health even if converted from a damaged zombie.
+An item being held or worn by a zombie when it becomes drowned, whether it was picked up or naturally spawned, has a 100% drop rate, which includes any naturally spawned equipment dropping with full durability‌.
+Only normal zombies can become drowned; zombie villagers and zombified piglins cannot be converted. Husks, however, convert into zombies if they drown, and then this zombie converts into a drowned as does a normal zombie.
+Any husks that convert into zombies also have full health, even if the drowned husk is damaged.
+
+
+=== Provocation by other mobs ===
+
+
+==== Java Edition ====
+
+
+== Sounds ==
+Java Edition:
+Zombies use the Hostile Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Zombies have entity data associated with them that contain various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== History ==
+{{History||Upcoming Java}
+
+
+== Issues ==
+Issues relating to "Zombie" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+The zombie is a playable DLC character in the crossover fighting game Super Smash Bros. Ultimate as an alternate costume for Steve.
+Green-colored zombies are also present in Minicraft, a 2D Minecraft-inspired game also created by Markus Persson.
+Zombies can pick up totems of undying, which automatically activate upon receiving fatal damage. A totem picked up by a zombie, therefore, cannot be retrieved by killing the zombie. It can be retrieved by giving the zombie a sword of any type, because zombies prefer swords over a non-sword items.
+Zombies have the same clothes as Steve, down to the pixel. Their only difference is the color of their skin.
+In A Minecraft Movie, adult zombies have darkened eyes, whereas baby zombies have normal eyes.
+If a zombie is hit and falls to the ground, it immediately gets up from its legs and retaliates.
+During the "Chicken Jockey" scene, when a baby zombie is hit and falls on the ground, it sits up and pretends to wail. If a human apologises and tries to comfort the zombie, it bites back.
+
+
+== Notes ==
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Renders ===
+
+
+==== Baby zombies riding entity ====
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== In armor ====
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Holding item ====
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Cosmetics ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Zombie Villager
+Husk
+Drowned
+Zombie Horse
+Zoglin
+Zombified Piglin
+
+
+== References ==

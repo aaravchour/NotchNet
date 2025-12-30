@@ -1,0 +1,10 @@
+This page is about the Engineering Table added by Flaxbeard's Steam Power. For other uses, see Engineering Table.
+
+The Engineering Table is a block from Flaxbeard's Steam Power. It is used to customize the Exosuit, and various tools and gadgets from within the mod. Each Exosuit piece and tool has different slots that can be customized. 
+There are four types of slots: upgrade, tank, vanity, and plate. Upgrade slots are used to upgrade the tools with standard upgrade items. the tank slot is used for the various tanks that can be used to store steam for the Exosuit. The vanity slot is used for the Ender Shroud, and to paint Exosuits to be a color of a specific dye. The plate slot is used for Steam Exosuit Plates, which are upgrades of normal plates. Exosuit Plates can be used to give the Exosuit buffs, and change the look of the piece entirely. Upgrade slots are blank, tank slots look like a block, vanity slots look like a paint brush, and plate slots look like Exosuit Plates.
+
+
+== Recipe ==
+
+
+== History ==

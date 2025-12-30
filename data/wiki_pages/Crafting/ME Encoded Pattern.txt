@@ -1,0 +1,8 @@
+The ME Encoded Pattern is made by encoding a ME Blank Pattern in a ME Pattern Encoder with a crafting recipe.
+They are used in the ME Molecular Assembler Chamber to store recipes for automatic crafting. To clear a formatted pattern, sneak-right click while holding the Encoded Pattern.
+
+
+== Encoding ==
+
+To encode an ME Blank Pattern, you have to put it in the top-right slot. You then put your crafting recipe in the left crafting grid, and if the pattern matches any recipe, it will show up in the middle slot. Click Encode to encode the pattern, or Clear to clear the crafting grid.
+You can also use ME Encoded Patterns in ME Interfaces - for example, if you want to put Logs in a furnace so they become Charcoal, you can put one log in the crafting grid, and one Charcoal in the middle cell. If you put this in the ME Interface, you can request Charcoal from your ME Crafting Terminal, and it will put Logs in the furnace.

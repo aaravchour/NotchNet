@@ -1,0 +1,22 @@
+TNT is an explosive block in Minecraft. 
+It can be activated by using a flint and steel or a fire charge on it. A flint and steel loses durability when used to light TNT. 
+When used properly, it is helpful but when used wrongly, it is dangerous. TNT can be crafted using sand and gunpowder.
+
+
+== Uses ==
+TNT can be used to mine out caves and ores. Be careful of where you put TNT as explosions can destroy the terrain. If you are in Survival mode, run away before the TNT explodes.
+
+
+== Traps ==
+TNT can also be used for mob/player traps. These require some redstone skill.
+
+
+== What not to do ==
+Never play with TNT. It can result to massive destruction of the world and your structures.
+In a massive multiplayer server, hide your TNT in a chest.
+Never accidentally detonate TNT by hitting it with a sword with Fire Aspect or a bow with Flame.
+
+
+== Trivia ==
+When underwater, TNT does no damage to the terrain but still hurts mobs and players.
+A creeper's explosion has 1.5× as powerful as TNT. For a charged creeper, it is 3.

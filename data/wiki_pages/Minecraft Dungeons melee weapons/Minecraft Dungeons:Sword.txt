@@ -1,0 +1,76 @@
+A sword is a melee weapon that can be found within the various missions of Minecraft Dungeons. Its unique variants are the hawkbrand, the diamond sword, and in the spooky fall event, the sinister sword. It also has some reskinned versions for specific mobs, such as the gold sword of piglins and zombified piglins, and the stone sword of wither skeletons.
+
+
+== Obtaining ==
+Missions
+Squid Coast
+Creeper Woods
+Creepy Crypt
+Pumpkin Pastures
+Nether Wastes (DLC)
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Grim Guardian
+
+
+== Usage ==
+Swords possess moderate power, low speed, and low range. They have a combo consisting of two side slashes and a thrust. The first two hits deal the weapon's minimum melee damage, while the third, the thrust, deals the maximum melee damage. 
+
+
+=== Properties ===
+X melee damage
+
+
+=== Stats ===
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+
+== Sounds ==
+
+
+== Data values ==
+In the game files, swords are referred to internally by the name Sword_Steel.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Sword" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===

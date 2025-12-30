@@ -1,0 +1,110 @@
+Stone is a block found underground in the Overworld or on the surface of mountains.
+
+
+== Obtaining ==
+Stone can be mined using a pickaxe, in which case it drops cobblestone. When mined without a pickaxe, it drops nothing. If a stone is mined with a Silk Touch enchanted pickaxe, it drops itself.
+
+
+=== Natural generation ===
+Stone makes up the majority of the solid blocks generated in the Overworld above y=0. From y=8 downwards, stone gradually transitions into deepslate, until it is completely replaced by deepslate at and below y=0.
+When chunks generate, stone can be found under 1-5 layers of grass blocks, dirt, gravel, clay, coarse dirt, podzol, mycelium, sand, sandstone, red sand, red sandstone, or terracotta, depending on the biome. 
+When the world is generating new chunks, some stone is replaced with ore features of other blocks. They may also be revealed on the side of small hills.
+Stone also generates in igloo basements, some Overworld ruined portals, and in trail ruins.
+Stone also makes up most of the blocks on the void start platform, in Superflat worlds created with the Void biome preset.‌
+
+
+=== Chest loot ===
+
+
+=== Post-generation ===
+
+Stone can also be made by lava flowing on top of water blocks (both flowing and source). The water is replaced by stone.
+
+
+=== Smelting ===
+Stone can be smelted from cobblestone.
+
+
+== Usage ==
+
+
+=== Silverfish ===
+Silverfish can enter and hide in stone, creating an infested block.
+
+
+=== Smelting ingredient ===
+
+
+=== Crafting ingredient ===
+
+
+=== Stonecutting ===
+
+
+=== Trading ===
+Apprentice-level stone mason villagers offer to buy 20 stone for an emerald.
+
+
+=== Note Blocks ===
+Stone can be placed under note blocks to produce "bass drum" sounds.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Bedrock Edition:
+
+
+== History ==
+
+
+=== Data history ===
+
+
+== Issues ==
+Issues relating to "Stone" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External links ==
+Block of the Week: Stone – Minecraft.net on May 4, 2018

@@ -1,0 +1,86 @@
+A pufferfish is a poisonous food item that is used to brew Water Breathing potions.
+
+
+== Obtaining ==
+
+
+=== Fishing ===
+Pufferfish can be obtained through fishing. The pufferfish catch rate can be increased by Lure, which reduces wait time generally.
+In Bedrock Edition, pufferfish can be caught only when fishing outside jungle biomes and its variants (i.e. everywhere except in jungles).
+
+
+=== Mob loot ===
+
+
+==== Guardians and elder guardians ====
+Guardians and elder guardians have a 2.5% chance of dropping a random fish upon death. This has a 13% chance of being pufferfish (0.325% chance of dropping a pufferfish). The chance of getting a fish can be increased by 1% per level of Looting, but the type of fish is not affected.
+
+
+==== Pufferfish ====
+Pufferfish always drop 1 pufferfish in its item form when killed. This drop is not affected by the Looting enchantment.
+
+
+== Usage ==
+
+
+=== Food ===
+Pufferfish restores 1 () hunger and 0.2 saturation, but inflicts Hunger III for 15 seconds, Poison II for 1 minute, and Nausea I[JE only] or II[BE only] for 15 seconds. Unlike rotten flesh, it is not helpful to eat pufferfish while starving because they inflict more hunger than they earn.
+
+
+=== Brewing ingredient ===
+
+
+=== Trading ===
+Master-level fisherman villagers buy 1~4‌ or four‌ pufferfish for an emerald.
+
+
+=== Wolves ===
+In Bedrock Edition, pufferfish can be used to feed a wolf, healing it by 1, but only when the wolf is not at full health. Unlike other wolf food, pufferfish cannot be used to speed up the growth of baby wolves, and cannot be used to breed them.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Pufferfish (item)" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+The consumption of pufferfish inflicting the player with Nausea and Poison is based on reality. Real pufferfish contain the dangerous tetrodotoxin within their organs, especially in the liver. Tetrodotoxin leads to quick death through respiratory paralysis. Muscle tissue and blood contain trace amounts. In East Asia, pufferfish are considered a delicacy known as fugu, as small parts of the fish are actually edible. Any chef preparing fugu must have special licensing/certification to prepare this dish.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+
+
+== See also ==
+Fishing
+
+
+== References ==
+
+
+== External Links ==
+Taking Inventory: Pufferfish – Minecraft.net on October 14, 2020

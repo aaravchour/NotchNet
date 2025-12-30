@@ -1,0 +1,67 @@
+Here is a quick tutorial on how to use a controller (PlayStation, Xbox, Nintendo Switch, etc.) as input while playing the Java Edition of Minecraft.
+The Java Edition of Minecraft does not natively support controllers, but here there will be described easy workarounds that allows you to use a controller for playing Minecraft: Java Edition.
+In order to play Minecraft Java with a controller, you need an app that can run in the background and transmit the controller’s input to the game, and you need to configure it so that the controls are transmitted correctly.
+
+
+== Connecting a controller to a PC ==
+
+
+=== PlayStation (DualSense and DualShock 4 controllers) ===
+
+
+==== Wired ====
+Simply plug in the controller straight into a USB port on the PC by using a micro usb cable (PS4) or an USB type C cable (PS5)
+
+
+==== Wireless ====
+This only works if your PC has Bluetooth enabled
+
+Press and hold the Share and the PlayStation buttons on the controller until it starts flashing. When the controller starts flashing, the controller is ready to be paired.
+Open Bluetooth on the PC.
+Select "Wireless Controller" in the list of detected devices.
+Your controller is now connected.
+
+
+==== Xbox One/Series X/S Controller ====
+
+
+===== Wired =====
+Simply plug in the controller into a USB port on the computer. You need a micro USB cable for Xbox One controllers and a USB type C cable for Xbox Series X/S controllers.
+
+
+===== Wireless =====
+Note: the first-gen Xbox One controllers do not have Bluetooth. For those controllers you need an Wireless Adapter. 
+Make sure that any Xbox One/Series X consoles is unplugged because the controller may turn on the Xbox. 
+
+Turn on the controller by holding the Guide button.
+Hold the sync button on the top of the controller in the middle until the controller flashes quickly.
+Open the Bluetooth on the PC.
+Select "Xbox Wireless Controller" in the menu of available devices.
+Your controller is connected.
+
+
+== Method 1: Steam Big Picture ==
+This method is the easiest, as it only requires you to download Steam and don't have to use mods. 
+Here’s the simple process of setting up a controller to use with Minecraft Java on PC:
+
+Download Steam (external link) if you do not have it already downloaded.
+Open Steam.
+Add Minecraft as a non-Steam game by selecting "Library" and then clicking the "add a non-Steam game" button, and then selecting the Minecraft Launcher in the list.
+Open the Big Picture mode.
+Click the "Settings" button and make sure that your controller is connected before proceeding.
+Select Controller Settings. Now, select the controller you wish to use from the menu.
+Go back to Big Picture Mode’s main page.
+Select "Library" and then "Minecraft".
+Select "Manage Shortcut" then "Controller Configuration" to allow you to configure the controller layout. You can either do it manually or use "Browse Configs" to browse presets from other users.
+Start the game through Steam. You can now use your controller to play Minecraft!
+
+
+=== Supported Controllers ===
+Almost all controllers work this way with some exceptions.
+
+
+=== Video Tutorial ===
+
+
+== Method 2: Mods ==
+There are many mods that exist for using controllers on the Java Edition of Minecraft, such as Controllable.

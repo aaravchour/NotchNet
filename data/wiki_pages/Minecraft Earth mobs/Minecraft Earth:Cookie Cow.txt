@@ -1,0 +1,38 @@
+The cookie cow was a gray and white variant of the cow found only in Minecraft Earth.
+
+
+== Appearance ==
+Cookie cows were a blue-gray and white variant of the normal cow. Their fur was blue-gray in color, and it only covered its face, front body and legs, and its hindquarters. Its belly and horns were cream colored. It also had dark grayish eyebrows, a light grayish muzzle with white fur surrounding it, and dark hooves.
+
+
+== Behavior ==
+
+Similar to normal cows, cookie cows wandered around, mooing and breathing occasionally. They avoided water, lava, and walking off cliffs high enough to cause fall damage. They fled for a few seconds when harmed.
+
+
+== Obtaining ==
+Cookie cows were an uncommon mob drop found in cow tappables with a 2.1% chance to get one.
+
+
+== Drops ==
+When killed, cookie cows dropped:
+
+0-2 Leather
+1-3 Raw Beef (Cooked Beef if killed while on fire)
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Trivia ==
+The appearance of cookie cows were similar to that of an actual cow breed called the Belted Galloway.
+The cookie cow was the second rarest cow variant in Minecraft Earth, with a 2.4% chance of getting one in tappables.
+
+
+== Gallery ==

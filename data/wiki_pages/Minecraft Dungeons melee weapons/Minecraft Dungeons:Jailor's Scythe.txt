@@ -1,0 +1,80 @@
+The jailor's scythe is a unique soul scythe variant that can be found within the various missions of Minecraft Dungeons. It is said to be wielded by a jailor of Highblock Keep.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Pumpkin Pastures (Adventure)
+Arch Haven (Adventure)
+??? (Adventure)
+Frosted Fjord (Adventure, DLC)
+Lone Fortress (Adventure, DLC)
+Abyssal Monument (Adventure, DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancient mobs
+First Enchanter
+
+
+== Usage ==
+The jailor's scythe possesses above average power, low speed, and high area. It has a continuous attack of two sideways slashes.
+
+
+=== Properties ===
+X melee damage
+Binds and chains enemies (Chains)
++1 Soul gathering
+
+
+=== Stats ===
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+
+== Jailor ==
+A jailor is an unseen illager said to be a guard of the prison within the Highblock Halls, mentioned in the description of the jailor's scythe. Not much is known about their appearance other than it wields the jailor's scythe.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Jailor's Scythe" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===

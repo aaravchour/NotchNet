@@ -1,0 +1,29 @@
+This page documents the history of texture files used in Bedrock Edition.
+
+
+== Blocks ==
+
+
+== Items ==
+
+
+== Entities ==
+This page will be created once Java Edition history of textures/Entities is considered sufficiently complete.
+Exclusive Entities: Page upcoming.
+
+
+== Particles ==
+
+
+== Paintings ==
+
+
+== Effects ==
+Page upcoming.
+
+
+== Map icons ==
+Page upcoming.
+
+
+== Miscellaneous ==

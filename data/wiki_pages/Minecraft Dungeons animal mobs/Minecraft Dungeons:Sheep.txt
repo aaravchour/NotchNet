@@ -1,0 +1,52 @@
+A sheep is a passive animal that can be found within the various missions of Minecraft Dungeons.
+
+
+== Appearance ==
+The sheep's appearance in Minecraft Dungeons is the same as its appearance within the original game. The only difference is that the texture of sheep in Minecraft Dungeons is slightly more saturated.
+
+
+== Spawning ==
+Squid Coast (Cinematic)
+Camp
+Creeper Woods
+Creepy Crypt (Outside)
+Pumpkin Pastures
+Cacti Canyon (Canyon)
+Lone Fortress (Secret area)
+
+
+== Behavior ==
+Sheep walk around aimlessly, just like cows, often seen eating grass. Sheep can be killed for item drops.
+Sheep cannot be enchanted by an enchanter, but they can spawn enchanted. An enchanted sheep appears with glowing yellow eyes. An enchanted sheep usually gets a speed or defense-based enchantment. Any offensive enchantment has no effect. For example, if an enchanted sheep has the fire trail or electrified enchantment, the effect does not damage the hero.
+
+
+== Health ==
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Sheep" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Enchanted Sheep

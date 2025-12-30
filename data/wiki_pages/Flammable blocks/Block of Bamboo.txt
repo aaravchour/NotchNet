@@ -1,0 +1,94 @@
+The block of bamboo is a log-like block made of bamboo.
+A block of stripped bamboo is an alternate variant made by using an axe on a block of bamboo.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+They can be broken by hand, but using an axe speeds up the process.
+
+
+=== Crafting ===
+
+
+=== Post-generation ===
+
+
+==== Stripping ====
+Using an axe on a block of bamboo turns it into a block of stripped bamboo.
+
+
+== Usage ==
+
+
+=== Crafting ingredient ===
+
+
+=== Fuel ===
+They can be used as a fuel in furnaces, smelting 1.5 items per block. As fuel, it is more efficient to use bamboo planks rather than using block of bamboo. 2 bamboo planks can smelt 3 items, but a block of bamboo can only smelt 1.5 items and 9 harvested bamboo smelts 2.25 items.
+Unlike logs, blocks of bamboo cannot be smelted into charcoal.
+
+
+=== Note blocks ===
+Block of bamboo can be placed under note blocks to produce "bass" sounds.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Block of Bamboo" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Concept Art ===
+
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External Links ==
+Block of the Week: Bamboo – Minecraft.net on July 27, 2023

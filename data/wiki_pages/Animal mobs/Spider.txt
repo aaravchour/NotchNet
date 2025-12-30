@@ -1,0 +1,236 @@
+A spider is a neutral mob that attacks the player in dark areas. Spiders attack by biting the target, and they can also climb walls and lunge at them.
+
+
+== Spawning ==
+Up to four spiders may spawn in a 3×1×3 space centered on an opaque block in the Overworld at a light level of 0, except in mushroom fields and deep dark biomes. 
+The block above the spawning space cannot be a full solid block, including transparent ones such as leaves or glass, but non-full blocks, such as soul sand or slabs, are allowed.
+In Bedrock Edition, spiders can also spawn overhead in 3×2×3 empty spaces on leaves, causing more of them to spawn in forested biomes due to more possible spawning surfaces, although they do not spawn in groups.
+
+
+=== Monster spawners ===
+Spiders spawn from monster spawners found in monster rooms (25% chance) as well as in secret rooms surrounded by cobwebs in woodland mansions.
+
+
+=== Status effects ===
+                                                                           
+Spiders occasionally spawn with status effects in Hard difficulty. For each pack spawn, there is a (10×clamped regional difficulty)% chance of the game applying a status effect. This does not apply to cave spiders. These spiders can spawn with following effects:
+
+Speed (40% chance)
+Strength (20% chance)
+Regeneration (20% chance)
+Invisibility (20% chance)
+The effect is then applied to all entities within the pack, lasting forever. If the Invisibility status effect is applied to a spider, its eyes remain visible.
+
+
+=== Spider jockeys ===
+
+There is a 1% chance for a spider to spawn with a skeleton riding it, forming a spider jockey. 
+In the Nether, if a spider is spawned there with a spawn egg, commands or monster spawners, it has a 0.8% chance to spawn a wither skeleton on its back and form a wither jockey instead.‌ In some of snowy biomes, a spider has a 0.8% chance to spawn a stray on its back and form a stray jockey instead.‌ A spider jockey can also be spawned by the command /summon spider ~ ~ ~ {Passengers: [{id:skeleton}]}.
+The spider controls how both mobs move. The spider acts like a normal spider and the skeleton acts like a normal skeleton, except its movement is determined by the spider it rides upon. The skeleton's arrows can sometimes damage the spider jockey itself, if the spider happens to be in the way of the shot.
+
+
+== Drops ==
+Upon death, a spider drops up to two strings. The maximum is increased by 1 per level of Looting, for 0 to 5 strings with Looting III. 5 experience orbs are dropped by a spider when it is killed by a player or tamed wolf. There is also a 1⁄3 chance of dropping a spider eye when killed by a player or tamed wolf. The maximum amount of spider eyes is increased by 1 per level of Looting. The chance of a spider not dropping any spider eyes can be found using the formula 2 / (Looting Level + 3). For example, Looting III gives a 1⁄3 chance of not dropping any spider eyes.
+
+
+== Behavior ==
+A spider stays hostile toward the player and an iron golem as long as the light level immediately around the spider is 11 or less; otherwise, it does not attack unless attacked first. 
+Hostile spiders see up to 16 blocks, continuing to chase even when exposed to well-lit locations. If a spider sustains damage from a source other than a direct attack, such as falling, its hostility resets to a neutral state. If shot with arrows when outside of the detection range, a spider turns and runs in the direction from which the arrow was fired. If the player moves away, the spider continues following the same path unless the player enters the detection range, in which case the spider changes direction and attacks.
+An aggressive spider pounces at close range. When it is swimming in 1-block-deep water it pounces upon touching the submerged floor. They can attack when their Y-axis position is changed, biting in mid-air.
+Spiders can climb up over solid blocks that are not magma blocks‌, but do not climb on underside surfaces. A spider pursuing a player can detect a player through blocks. If a spider cannot find an ideal path to the player due to a wall barring the way, it approaches as close as possible to the player's position and proceeds to climb the wall vertically until it gets to the top, even if it loses its aggression toward the player. When a spider loses its aggression, it continues moving forward blindly for 2 seconds; this behavior causes the spider to climb up any walls in its path.
+When climbing a wall a spider may sometimes reach a corner and become stuck in a climbing status, thus losing and becoming unable to be aggravated. 
+Spiders gravitate towards cobwebs.
+If a spider tries to go through the world border, it starts climbing the world border instead.‌
+Spider can also climb on full boats, full boats with chests and shulkers.
+Even though normal spiders do not inflict the Poison status effect, they are immune to it. They are also immune to the slowing applied to most mobs when walking through cobwebs.
+Spiders flip onto their backs when they die, unlike all other mobs, which land on their sides.
+The Bane of Arthropods enchantment inflicts Slowness IV and deals more damage to spiders.
+
+
+== Sounds ==
+Java Edition:
+Spiders use the Hostile Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Spiders have entity data associated with them that contains various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== History ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Issues ==
+Issues relating to "Spider" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Spiders are able to climb walls because they are programmed by Jens Bergensten to treat the sides of blocks as ladders.
+In normal conditions, spiders actually float above the ground, but this is often not noticeable due to the difference between the player's height and a spider's height.
+When a spider wanders inside an enclosed space, it often climbs up a wall until reaching the ceiling, after which it become stuck, unable to exit the climbing state even if it is attacked or becomes hostile to the player.
+Hurt sound of spiders have the same sound as when a spider is ambient
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

@@ -1,0 +1,9 @@
+Nether vine farming is the process of farming weeping and twisting vines, using bonemeal or growth mechanics, and with a system to harvest the grown vines and collect the drops.
+
+
+== Why bother? ==
+Nether vines can be used to farm bonemeal and can be used to climb on up and down. Nether vines can also make a good aesthetic use for some builds and can be useful for hubs in the Nether, since there are no bubble elevators and nether vines are cheaper than ladders in most cases, and faster. Nether vines can be used to break your fall in the Nether if you have not acquired powder snow yet.
+
+
+== Manual farming ==
+Manual farming is very simple. For twisting vines, the mechanics work the same as bamboo, just plant them and when they increase in height harvest the extra using shears (for a 100% drop rate). For weeping vines, the mechanics work the same as before except it is upside down.

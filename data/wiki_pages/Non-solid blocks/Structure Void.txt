@@ -1,0 +1,54 @@
+A structure void is an invisible block that allows existing blocks to remain unchanged rather than be overridden when using the structure block to load a structure.
+
+
+== Obtaining ==
+Structure voids are available only using the /setblock, /fill, or /give commands or by using the Operator Utilties.
+In Java Edition, they are also available in the creative inventory if cheats are enabled.
+
+
+== Usage ==
+
+Structure voids can be placed as part of a structure and are ignored when the structure file is saved. This results in the blocks at the location where the structure is placed being maintained and not being overridden. For example, if a player saves a 2 block high structure with air at the top and a structure void at the bottom, and loads it into a 2 block high area of stone, the top block becomes air but the bottom stays stone.
+In Java Edition, structure void blocks have no collision box but have a small hitbox. Additionally, they are invisible, but are displayed as red cubes when "Show invisible blocks" is turned on in Save mode inside a Structure Block. Blocks can also replace structure voids similarly to snow and grass. A piston can move a structure void, but the structure void pushed by the piston will turn into air.
+In Bedrock Edition, structure void block's hitboxes are the same as a full block, and, similar to barriers, appear when held by the player. Unlike Java Edition, they can support blocks such as signs, torches, rails and redstone wire. A piston cannot move a structure void.
+As there is no collision box, entities can pass through, although liquids cannot.
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Structure Void" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+If Classic Textures are used, structure voids appear like  instead of .‌

@@ -1,0 +1,70 @@
+Copper ore is a mineral block found underground.
+Deepslate copper ore is the deepslate variant of copper ore, usually found deeper underground.
+
+
+== Obtaining ==
+
+
+=== Natural generation ===
+
+Copper ore can generate anywhere on the Overworld in the form of ore blobs.  Copper ore generates in two batches. The first batch generates anywhere on the Overworld biomes except dripstone caves 16 times per chunks in groups from 0 to 16, in layer -16 to 112, being most common in layers 47 and 48 and less common at the ends. The second batch generates only in dripstone caves 16 times per chunks in groups from 0 to 52, in layer -16 to 112, being most common in layers 47 and 48 and less common at the ends.
+Copper ore can replace stone, andesite, diorite, granite, tuff‌, and deepslate. Copper ore blocks that replace tuff or deepslate become deepslate copper ore. Copper ore can also spawn in rare ore veins above Y=0, mixed with granite and the occasional blocks of raw copper. In dripstone caves biomes, copper ore veins are larger on average.
+
+
+=== Breaking ===
+Copper ore must be mined using a stone pickaxe or greater. If mined with any other tool or by hand, it drops nothing.
+Breaking copper ore drops 2-5 raw copper, unless mined using a Silk Touch pickaxe. It is affected by Fortune enchantment, dropping up to 20 raw copper, or 7.7 raw copper on average with Fortune III.
+
+
+== Usage ==
+Copper ore can be smelted to obtain copper ingots, which are crafting ingredients for copper blocks, spyglasses, and lightning rods. Copper ore does not weather like its block counterpart, though the design of the ore itself shows some oxidization.
+
+
+=== Smelting ingredients ===
+
+
+== Sounds ==
+
+
+=== Copper ore ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Deepslate copper ore ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Copper Ore" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== External Links ==
+Block of the Week: Copper Ore – Minecraft.net on May 27, 2021

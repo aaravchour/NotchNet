@@ -1,0 +1,73 @@
+Raw mutton is a food item dropped by sheep when killed.
+
+
+== Obtaining ==
+
+
+=== Mob loot ===
+An adult sheep drops 1–2 raw mutton when killed. The maximum amount is increased by 1 per level of Looting, for a maximum of 1–5 with Looting III. If killed while on fire, a sheep drops cooked mutton instead.
+
+
+=== Chest loot ===
+
+
+== Usage ==
+
+
+=== Food ===
+To eat raw mutton, press and hold use while it is selected in the hotbar. Eating one restores 2 () hunger and 1.2 saturation.
+
+
+=== Smelting ingredient ===
+
+
+=== Wolves ===
+Raw mutton can be used to breed and heal tamed wolves, lead them around, and make baby tamed wolves grow up faster by 10% of the remaining time.
+
+
+=== Trading ===
+Journeyman-level butcher villagers have a 50% chance to buy 7 raw mutton for an emerald as part of their trades.‌
+Journeyman-level butcher villagers always offer to buy 7 raw mutton for an emerald.‌
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Advancements ==
+
+
+== Video ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Raw Mutton" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

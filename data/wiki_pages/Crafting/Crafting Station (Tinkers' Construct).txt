@@ -1,0 +1,11 @@
+This page is about the Crafting Station from Tinkers' Construct. For other uses, see Crafting Station.
+
+The Crafting Station is a block added by Tinkers' Construct. It works just like the Crafting Table, but with a few exceptions. Items, when placed in the Crafting Station, will not be dropped when the GUI is closed; they will remain in the Crafting Station. If placed next to a Chest, the Chest can be accessed from within the left of the Crafting Station's GUI.
+The Crafting Station is used to create the Tool Station. 
+
+
+== Tinker Table ==
+When placed within two blocks of a Tool Station, the Crafting Station becomes a Tinker Table. The Tinker Table is the same as the Crafting Station, but with a Pickaxe-icon in the middle of the GUI indicating a place for a tool (although a tool can be placed anywhere in the Crafting Station). It can then be used the same as the Tool Station's "Repair and Modify" function: it can be modified, or repaired. Although this can also be done with a normal Crafting Table, or even within the inventory's 2x2 crafting grid, the Crafting Station allows viewing of the tool's stats just like the Tool Station.
+
+
+== Recipe ==

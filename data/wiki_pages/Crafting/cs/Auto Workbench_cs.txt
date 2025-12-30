@@ -1,0 +1,24 @@
+Samovyrábějící stůl, původně známý jako Automatický pracovní stůl je stroj přidaný módem BuildCraft. Vytvoří automaticky předmět jakmile je vložen recept a suroviny jsou pumpovány dovnitř.
+
+
+== Recept ==
+
+
+== Použití ==
+Rozhraní je stejné jako normální Pracovní stůl. Suroviny můžou být zásobovány do Samovyrábějícího stolu pomocí Násypky nebo Násypky. Vyrobené produky musí být vypumpovány pomocí Dřevěné transportní trubky spojené s Ruditovým motorem, nebo pomocí BuildCraft Bránového systému. Automatické výrobní recepty můžou být použitelné pro komplikované recepty.
+
+
+== Příklad ==
+
+Automatický výrobní systém pro výrobu IndustrialCraft 2 Pokročilého obvodu: 
+
+Pryž a Neizolované měděné kabely jsou kombinovány pro výrobu Měděných kabelů.
+Mědené kabely jsou zkombinovány s Ruditem a Železným plátem pro výrobu Electronického obvodu.
+Elektronický obvod je zkombinován s Ruditem, Světlitem a Lazuritem pro vytvoření pokročilého obvodu.
+Ingredience můžou být položeny v truhlách napojených na Samovyrábějící stůl. Více komplikované systémy možná budou potřebovat ostatní přídavné ingredience pro napumpování dovnitř.
+
+
+== Poznámky ==
+Předměty napumpované dovnitř které nejsou v receptu "vyskočí" ze systému a spadnou na zem.
+Předměty napumpované dovnitř musejí být přesný předmět a ne jeho variace-třeba jako věci které mají stejné OreDict značení nemůžou být zamněneny jeden za jiný. Pro příklad, použití dubových prken jako ingredienci potřebuje tyto prkna, ne březová nebo smrková prkna.
+Samovyrábějící stůl také funguje jako základní pracovní stůl.

@@ -1,0 +1,316 @@
+Manages and displays scores for various scoreboard objectives.
+
+
+== Objectives commands ==
+
+
+=== list ===
+Syntax
+scoreboard objectives list
+Description
+List all existing objectives with their display names and criteria.
+Result
+
+Output
+
+
+=== add ===
+Syntax
+scoreboard objectives add <objective> <criteria> [<displayName>] (Java Edition)scoreboard objectives add <objective: string> dummy [displayName: string] (Bedrock Edition)
+Description
+Create a new objective with the given internal objective name, specified criterion, and the optional display name.
+Arguments
+JE: <objective>: stringBE: objective: string: basic_string
+Specifies the internal objective name.
+Must be a string. In Java Edition, it must be in a single word (Allowed characters include: -, +, ., _, A-Z, a-z, and 0-9). In Bedrock Edition, it must be a single word that has no space or a quoted string. In Bedrock Edition, it must be either a single word that isn't a number (allowed characters: -, :, ., _, A-Z, a-z, and 0-9) or a double-quoted string.
+JE: <criteria>: objective_criteriaBE: dummy
+Specifies the criterion of the new objective.
+Must be a scoreboard objective criterion. In Bedrock Edition, "dummy" is the only criterion currently supported.
+JE: <displayName>: componentBE: displayName: string: basic_string
+Specifies the display name, defaulting to <objective> when unspecified.
+In Java Edition, must be a raw JSON text. In Bedrock Edition, it must be either a single word that isn't a number (allowed characters: -, :, ., _, A-Z, a-z, and 0-9) or a double-quoted string.
+Result
+
+Output
+
+
+=== remove ===
+Syntax
+scoreboard objectives remove <objective> (Java Edition)scoreboard objectives remove <objective: string> (Bedrock Edition)
+Description
+Delete the named objective from the scoreboard system. Data is deleted from the objectives list and score holders' scores, and if it was on a display list it is no longer displayed.
+Arguments
+JE: <objective>: objectiveBE: objective: string: basic_string
+Specifies the internal objective name.
+In Java Edition, it must be a valid scoreboard objective name.  In Bedrock Edition, it must be a single word that has no space or a quoted string.
+Result
+
+Output
+
+
+=== setdisplay ===
+Syntax
+scoreboard objectives setdisplay <slot> [<objective>] (Java Edition)scoreboard objectives setdisplay <list|sidebar> [objective: string] [ascending|descending] (Bedrock Edition)scoreboard objectives setdisplay belowname [objective: string] (Bedrock Edition)
+Description
+Display score info for the objective in the given slot. Note that the objective parameter is optional; if no objective is provided, this display slot is cleared (returned to its default state). In Bedrock Edition, if slot is list or sidebar, there is an additional optional argument ascending|descending to specify the sort order.
+Arguments
+JE: <slot>: scoreboard_slotBE: list|sidebar|belowname
+Specifies the slot to display the objective.
+Must be a scoreboard display slot. Valid slots are listed and described in Display Slots.
+JE: <objective>: objectiveBE: objective: string: basic_string
+Specifies the internal objective name.
+In Java Edition, it must be a valid scoreboard objective name.  In Bedrock Edition, it must be a single word that has no space or a quoted string.
+BE: ascending|descending
+Specifies the sort order.
+Result
+
+Output
+
+
+=== modify ... displayname ===
+Syntax
+scoreboard objectives modify <objective> displayname <displayName> (Java Edition)
+Description
+Change the display name of the scoreboard in display slots.
+Arguments
+<objective>: objective
+Specifies the internal objective name.
+It must be a valid scoreboard objective name.
+<displayName>: component
+Specifies the display name.
+Must be a raw JSON text.
+Result
+
+Output
+
+
+=== modify ... rendertype ===
+Syntax
+scoreboard objectives modify <objective> rendertype (hearts|integer) (Java Edition)
+Description
+Change the display format for scores in the tab player list.
+Arguments
+<objective>: objective
+Specifies the internal objective name.
+It must be a valid scoreboard objective name.
+hearts|integer
+Specifies the format.
+Result
+
+Output
+
+
+== Players commands ==
+
+
+=== list ===
+Syntax
+scoreboard players list [<target>] (Java Edition)scoreboard players list [playername: target] (Bedrock Edition)
+Description
+Lists all score holders which are tracked in some way by the scoreboard system. The optional <target> or playername: target parameter is used to list the scores of particular score holders.
+Arguments
+JE: <target>: score_holderBE: playername: target: WildcardCommandSelector<Actor>
+Specifies the score holder(s).
+Must be a selection of score holders. It may be either a target selector, a player name, a UUID‌, a unique ID of an entity‌, or * for all score holders tracked by the scoreboard. Named player needn't be online, and it even needn't be a real player's name.
+In Java Edition, only a single score holder can be specified, and * doesn't work (MC-136858). In Bedrock Edition, it can specify multiple score holders.
+Result
+
+Output
+
+
+=== get ===
+Syntax
+scoreboard players get <target> <objective> (Java Edition)
+Description
+Return the scoreboard value. Can be used in conjunction with the /execute command: /execute store result ...run scoreboard players get ...
+Arguments
+<target>: score_holder
+Specifies the score holder.
+Must be a selection of score holders. It may be either a target selector, a player name, a UUID, or * for all score holders tracked by the scoreboard. Named player needn't be online, and it even needn't be a real player's name. Only a single score holder can be specified, and * doesn't work.
+<objective>: objective
+Specifies the objective to get score from it.
+It must be a valid scoreboard objective name.
+Result
+
+Output
+
+
+=== set ===
+Syntax
+scoreboard players set <targets> <objective> <score> (Java Edition)scoreboard players set <player: target> <objective: string> <count: int> (Bedrock Edition)
+Description
+Set the targets' scores in the given objective, overwriting any previous score.
+Arguments
+JE: <targets>: score_holderBE: player: target: WildcardCommandSelector<Actor>
+Specifies the score holders.
+Must be a selection of score holders. It may be either a target selector, a player name, a UUID‌, a unique ID of an entity‌, or * for all score holders tracked by the scoreboard. Named player needn't be online, and it even needn't be a real player's name.
+JE: <objective>: objectiveBE: objective: string: basic_string
+Specifies the objective.
+In Java Edition, it must be a valid scoreboard objective name.  In Bedrock Edition, it must be a single word that has no space or a quoted string.
+JE: <score>: integerBE: count: int: int
+Specifies the new score.
+Must be a  32-bit integer number.
+Result
+
+Output
+
+
+=== add ===
+Syntax
+scoreboard players add <targets> <objective> <score> (Java Edition)scoreboard players add <player: target> <objective: string> <count: int> (Bedrock Edition)
+Description
+Increments the targets' scores in that objective by the given amount.
+Arguments
+JE: <targets>: score_holderBE: player: target: WildcardCommandSelector<Actor>
+Specifies the score holders.
+Must be a selection of score holders. It may be either a target selector, a player name, a UUID‌, a unique ID of an entity‌, or * for all score holders tracked by the scoreboard. Named player needn't be online, and it even needn't be a real player's name.
+JE: <objective>: objectiveBE: objective: string: basic_string
+Specifies the objective.
+In Java Edition, it must be a valid scoreboard objective name.  In Bedrock Edition, it must be a single word that has no space or a quoted string.
+JE: <score>: integerBE: count: int: int
+Specifies an amount to add to the score.
+Must be a  32-bit integer number. In Java Edition, it must be between 0 and 2147483647 (inclusive). In Bedrock Edition, a negative number will subtract from the score.
+Result
+
+Output
+
+
+=== remove ===
+Syntax
+scoreboard players remove <targets> <objective> <score> (Java Edition)scoreboard players remove <player: target> <objective: string> <count: int> (Bedrock Edition)
+Description
+Decrements the targets' scores in that objective by the given amount.
+Arguments
+JE: <targets>: score_holderBE: player: target: WildcardCommandSelector<Actor>
+Specifies the score holders.
+Must be a selection of score holders. It may be either a target selector, a player name, a UUID‌, a unique ID of an entity‌, or * for all score holders tracked by the scoreboard. Named player needn't be online, and it even needn't be a real player's name.
+JE: <objective>: objectiveBE: objective: string: basic_string
+Specifies the objective.
+In Java Edition, it must be a valid scoreboard objective name.  In Bedrock Edition, it must be a single word that has no space or a quoted string.
+JE: <score>: integerBE: count: int: int
+Specifies an amount to subtract from the score.
+Must be a  32-bit integer number. In Java Edition, it must be between 0 and 2147483647 (inclusive). In Bedrock Edition, a negative number will add to the score.
+Result
+
+Output
+
+
+=== random ===
+Syntax
+scoreboard players random <player: target> <objective: string> <min: int> <max: int> (Bedrock Edition)
+Description
+Sets the targets' scores in that objective to a random number between min and max (both inclusive).
+Arguments
+player: target: WildcardCommandSelector<Actor>
+Specifies the score holders.
+Must be a selection of score holders. It may be either a target selector, a player name, a unique ID of an entity, or * for all score holders tracked by the scoreboard. Named player needn't be online, and it even needn't be a real player's name.
+objective: string: basic_string
+Specifies the objective.
+Must be either a single word that isn't a number (allowed characters: -, :, ., _, A-Z, a-z, and 0-9) or a double-quoted string.
+min: int: intmax: int: int
+Specifies the min value and max value that the random number is between.
+Must be a  32-bit integer number.
+Result
+
+Output
+
+
+=== reset ===
+Syntax
+scoreboard players reset <targets> [<objective>] (Java Edition)scoreboard players reset <player: target> [objective: string] (Bedrock Edition)
+Description
+Deletes score or all scores for the targets. If <objective> is specified, then only that objective is cleared. Otherwise, this applies to all objectives.
+Note that this does not merely set the scores to 0: it removes the targets from the scoreboard system (or for the given objective) altogether.
+In Java Edition, this will also disable the target players' ability to use /trigger command (on the given objective if specified).
+Arguments
+JE: <targets>: score_holderBE: player: target: WildcardCommandSelector<Actor>
+Specifies the score holders.
+Must be a selection of score holders. It may be either a target selector, a player name, a UUID‌, a unique ID of an entity‌, or * for all score holders tracked by the scoreboard. Named player needn't be online, and it even needn't be a real player's name.
+JE: <objective>: objectiveBE: objective: string: basic_string
+Specifies the objective.
+In Java Edition, it must be a valid scoreboard objective name.  In Bedrock Edition, it must be a single word that has no space or a quoted string.
+Result
+
+Output
+
+
+=== test ===
+Syntax
+scoreboard players test <player: target> <objective: string> <min: wildcard int> [<max: wildcard int>] (Bedrock Edition)
+Description
+Tests if targets' scores are between min and max (defaults to MAX_INT(2,147,483,647)).
+Arguments
+player: target: WildcardCommandSelector<Actor>
+Specifies the score holders.
+Must be a selection of score holders. It may be either a target selector, a player name, a UUID‌, a unique ID of an entity‌, or * for all score holders tracked by the scoreboard. Named player needn't be online, and it even needn't be a real player's name.
+objective: string: basic_string
+Specifies the objective.
+Must be either a single word that isn't a number (allowed characters: -, :, ., _, A-Z, a-z, and 0-9) or a double-quoted string.
+min: wildcard int: CommandWildcardIntmax: wildcard int: int
+Specifies the min value and max value that the random number is between.
+Must be a 32-bit integer. And min: wildcard int can be replaced with asterisk (*) to represent -2,147,483,648, and max: wildcard int can be replaced with asterisk (*) to represent 2,147,483,647.
+Result
+
+Output
+
+
+=== enable ===
+Syntax
+scoreboard players enable <targets> <objective> (Java Edition)
+Description
+Enables the target(s) to use the /trigger command on the specified objective. This command accepts non-player entities, but only players are able to actually use the /trigger command. Until this command has been run, players can't /trigger that objective. Using the /trigger command will disable it again.
+Note that if any of the targets did not previously have a score for that scoreboard, this command will set their score to 0.
+Arguments
+<targets>: score_holder
+Specifies the score holders.
+Must be a selection of score holders. It may be either a target selector, a player name, a UUID, or * for all score holders tracked by the scoreboard. Named player needn't be online, and it even needn't be a real player's name.
+<objective>: objective
+Specifies the objective.
+It must be a valid scoreboard objective name.
+Result
+
+Output
+
+
+=== operation ===
+Syntax
+scoreboard players operation <targets> <targetObjective> <operation> <source> <sourceObjective> (Java Edition)scoreboard players operation <player: target> <targetObjective: string> <operation: operator> <selector: target> <objective: string> (Bedrock Edition)
+Description
+Applies an arithmetic operation altering the targets' scores in the target objective, using sources' scores in the source objective as input.
+Arguments
+JE: <targets>: score_holderBE: player: target: WildcardCommandSelector<Actor>
+Specifies the target score holders whose scores will be modified.
+Must be a selection of score holders. It may be either a target selector, a player name, a UUID‌, a unique ID of an entity‌, or * for all score holders tracked by the scoreboard. Named player needn't be online, and it even needn't be a real player's name.
+JE: <targetObjective>: objectiveBE: targetObjective: string: basic_string
+Specifies the objective for targets.
+In Java Edition, it must be a valid scoreboard objective name.  In Bedrock Edition, it must be a single word that has no space or a quoted string.
+JE: <source>: score_holderBE: selector: target: WildcardCommandSelector<Actor>
+Specifies the source score holders whose scores will be used as source inputs.
+Must be a selection of score holders. It may be either a target selector, a player name, a UUID‌, a unique ID of an entity‌, or * for all score holders tracked by the scoreboard. Named player needn't be online, and it even needn't be a real player's name.
+JE: <sourceObjective>: objectiveBE: objective: string: basic_string
+Specifies the objective for sources.
+In Java Edition, it must be a valid scoreboard objective name.  In Bedrock Edition, it must be a single word that has no space or a quoted string.
+JE: <operation>: operationBE: operation: operator: CommandOperator
+Specifies the operation to be applied.
+Must be an arithmetic operator for /scoreboard.Valid values include = (assignment), += (addition), -= (subtraction), *= (multiplication), /= (floor division), %= (modulus), >< (swapping), < (choosing minimum) and > (choosing maximum).
+= Assignment: Set target's score to source's score
++= Addition: Add source's score to target's score
+-= Subtraction: Subtract source's score from target's score
+*= Multiplication: Set target's score to the product of the target's and source's scores
+/= Floor division: Divide target's score by source' scores, and the result will be rounded down to an integer.
+%= Modulus: Divide target's score by source's score, and use the positive remainder to set the target score
+>< Swapping: swaps target's score and source's score
+< Choosing minimum: Set target's score to source's score only if source's score is less.
+> Choosing maximum: Set target's score to source's score only if source's score is bigger.
+In all cases except ><, source's score remains unchanged when performing the operation on a target. If target or source isn't tracked by the specified objective, it will be set to 0. If more than one score holder is specified as sources, performs the operation once with each source's score. If more than one target score holder is specified, performs the operation for each target one by one.
+Result
+
+Output
+
+
+== History ==
+
+
+== See also ==
+/team
+/tag

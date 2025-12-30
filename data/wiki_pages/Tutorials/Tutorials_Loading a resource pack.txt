@@ -1,0 +1,46 @@
+These tutorials are meant to help you use resource packs in Minecraft. Resource packs allow players to customize textures, music, sounds, language files, end credits, splashes, and fonts but do not change the actual gameplay.
+
+
+== Any platform ==
+Download a resource pack, you should get a .zip file
+Open the folder to which you downloaded the file
+Copy the .zip file
+Open Minecraft
+In Minecraft, click on "Options", then "Resource Packs"
+Choose "Open resource pack folder"
+Paste the file into the resource folder in Minecraft
+Go back to Minecraft, the resource pack should now be listed (if not listed then go to the main menu by pressing Esc and repeat step 5) and you can activate it by choosing it and hitting "Done". The game will now reload itself.
+
+
+== Direct methods ==
+
+
+=== Windows (Java Edition) ===
+Download the resource pack you want
+Copy the file you downloaded
+Press ⊞ Win + R. A window titled "Run" should appear
+In the textbox inside the "Run" window, type "%appdata%" and click "Ok"
+In the folder that just appeared, open the ".minecraft" folder
+In the ".minecraft" folder, open the "resourcepacks" folder
+Paste the resource pack in this folder
+Open Minecraft, select "Options", then "Resource Packs", select your resource pack and select "done"
+You can skip 4,5, and 6 if you want to, you have to type this in the "Run" window: %appdata%/.minecraft/resourcepacks
+
+
+=== MacOS ===
+Download a resource pack of your choice
+Do NOT unzip the resource pack just move the .zip file to Minecraft's resource pack folder (Should be at ~/Library/Application Support/minecraft/resourcepacks)
+Open up Minecraft and login to your account
+At the main menu select "Options", then "Resource Packs"
+Now select your new resource pack and then select done
+To access ~/Library/ on a Mac running MacOS 10.7 and above, switch to Finder, open the 'Go' Menu, and while holding down ⌥ Option, select 'Library'
+
+
+=== Linux ===
+Download a resource pack, you should get a .zip file
+Open the folder to which you downloaded the file
+Copy the .zip file
+Type ~/.minecraft/resourcepacks/ in your file manager's address bar or in the console (If it is not showing up, press the three dots in the corner and make sure that the "show hidden files" box has a check next to it, then repeat step 4.)
+Paste the file into the directory
+Open Minecraft
+Go to "Options", then "Resource Packs" The resource pack should now be listed and you can activate it by choosing it and hitting "Done".

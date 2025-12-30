@@ -1,0 +1,392 @@
+The Enderman is a tall neutral mob found in all three dimensions. Endermen normally ignore players and lazily amble about, but they will swiftly walk to attack those that damage it or look directly at its face. Endermen teleport to avoid water (which harms them), projectiles and some other damage sources, and they occasionally pick up certain blocks. They will also teleport more rapidly in sunlight.
+
+
+== Spawning ==
+
+Endermen can spawn on any solid surface that has at least three empty spaces above, at the light level of 0 in the Overworld and the End, or a light level of 7 or less in the Nether. They are the only mobs that spawn in all 3 dimensions.
+
+
+=== Overworld ===
+Endermen spawn uncommonly in the Overworld in all biomes except mushroom fields and deep dark. They often spawn in groups of two, and rarely in groups of three.
+
+
+=== Nether ===
+Endermen spawn rarely in soul sand valleys, uncommonly in nether wastes, and most commonly in warped forests.
+
+
+=== End ===
+Endermen spawn commonly in groups of up to four anywhere in the End dimension.
+
+
+== Drops ==
+Endermen drop:
+
+0–1 ender pearl. The maximum is increased by 1 per level of Looting, for a maximum of 0-4 with Looting III.
+5 when killed by a player or a tamed wolf.
+Any block being held (see § Moving blocks for more information)
+
+
+== Behavior ==
+An enderman can be provoked by a player or other mob attacking them. They can also be provoked by a player looking them in the eyes for 5 game ticks (1⁄4 second) from up to 64 blocks away. Endermen open their mouths and begin to shake‌ angrily if provoked; they also make loud and lengthy sounds while being stared at. If the player continues to maintain eye contact, the enderman does not move‌, although it may teleport away. Once the player stops looking at the enderman, it runs toward the back of the player to attack, although it ceases if hit by another player or mob. An aggravated enderman runs fast and often teleports to the location of a player or mob up to 32 blocks away (orthogonally). Endermen are not provoked by a player viewing it through a transparent block or while wearing a carved pumpkin.
+An aggravated enderman pursues the player until it is either killed or distracted by external elements, such as rain or fire. They do not take damage from sunlight like undead mobs, but when at a sufficient light level under the sky during the day they teleport randomly, typically winding up in caves (although certain non-full blocks, such as soul sand and mud, also register as "dark" when the enderman is standing in them).
+Endermen can be harmed by melee attacks, water, lava, fire, splash water bottles, or rain. They are not damaged when standing in a filled cauldron‌. Endermen teleport away when they take damage from any of natural sources (1), continuing to do so until they find a safe location. They also teleport while taking damage from other sources, such as suffocation, Poison, or Wither. 
+Ranged attacks are largely ineffective against endermen, as they teleport when hit by a projectile instead of taking damage. Endermen that are hit by projectiles do not become hostile. Arrows‌ and tridents appear to bounce off an enderman who is unable to teleport. In Bedrock Edition, arrows go straight through endermen that are unable to teleport (but the effect still goes through if it's a tipped arrow)..  Rocket crossbows do affect endermen and can trigger endermen hostility toward the shooter. 
+Endermen can step up one full block without having to jump.
+Endermen are hostile to endermites within 64 blocks but are passive to other mobs unless provoked.
+An enderman in a player's vicinity prevents the player from sleeping in a bed at night as if any hostile mob were nearby. If the player is already asleep in a bed, it is possible for an enderman to teleport on it and wake players by pushing them off.
+The endermen's aggression range for being looked at is reduced when the player is sneaking, or under the Invisibility effect depending on the number of armor pieces currently worn. The detection range in blocks for invisible players is shown in the following table:
+
+
+=== Teleportation ===
+They play a sound exclusively at the teleportation destination.
+Each teleportation attempt chooses a random destination 32 blocks along each axis (i.e. a 64×64×64 cube centered on the current position). It then applies the following checks:
+
+As long as the selected block is not a made of a movement-blocking material, seek downwards. If the found block is waterlogged, the teleportation attempt fails.
+Starting again with the originally selected target, seek downwards as long as the block below is not a made of a movement-blocking material. The teleportation attempt succeeds if no liquid or solid blocks prevent them from standing at the destination.
+Thus, endermen need at least three non-solid blocks above the destination to successfully teleport, and do not teleport to waterlogged blocks unless the ceiling above is made of a non-waterlogged movement-blocking material.
+Blocks that have a large enough collision box but are not made of a movement-blocking material, such as carpet that is not above a block made of a movement-blocking material, snow layers 10 or more deep, and azalea, can be used to prevent teleportation. Endermen always teleport an integer Y distance, so an enderman at Y=70.0 cannot teleport onto a movement-blocking block covered by a single carpet, snow layers only 2 deep, or many other short blocks, while an enderman at Y=70.99 could teleport onto snow layers 8 or 9 deep.
+Endermen always attempt to teleport upon taking damage. Most melee attacks are successful, but the enderman usually teleports a few blocks behind the player when hit, if there is space behind the player. Endermen can be attacked with projectiles if they are in a boat or minecart.‌ If all available blocks within teleport distance are removed or unavailable as a destination, it is possible to hit endermen in Java Edition with a projectile, although arrows may simply bounce off, dealing no damage. When teleporting due to damage, it makes 64 attempts to teleport.   
+In Java Edition, an enderman cannot teleport while it is in a minecart or boat, although in rain and water it attempts to do so, always teleporting back repeatedly until death. This does not occur in Bedrock Edition.
+
+
+=== Moving blocks ===
+Unlike any other mobs, which cannot hold blocks except as items, endermen have a unique ability to pick up, carry and set down certain blocks. They silently pick up blocks in a 4×3×4 (xyz) region horizontally centered on the enderman and vertically encompassing it. An enderman cannot pick up blocks in a completely flat area. Endermen drop the block they are holding upon death as an item, although they do not visually let go of the block when dying. It does not despawn while holding a block. Endermen cannot place blocks onto bedrock or entities.
+Endermen can pick up the following blocks:
+
+Data packs from Java Edition can change this list by modifying the minecraft:enderman_holdable block tag.
+Bedrock Edition behavior packs can not modify these as the list is hard-coded behind the minecraft:behavior.enderman_take_block method. 
+While carrying a block, the enderman sometimes silently places it in a 2×2×2 region horizontally centered on the enderman and vertically at the same level as the enderman itself if the target location is air with a non-air block beneath and the block is allowed to be placed at the target location.
+Endermen cannot pick up or place down blocks if the game rule mobGriefing is set to false.
+Endermen can randomly breach walls, bridge fences, break redstone circuitry, set off explosions and kill themselves if they place a block of TNT on a power source and even construct golems by removing or placing blocks.
+Endermen can pick up or place down blocks even when angry.
+In Java Edition, users can summon an enderman holding any block (including the ones not listed above) using the carriedBlockState NBT data. For example, to summon an enderman holding a grass block with no AI where the player is standing:
+
+/summon minecraft:enderman ~ ~ ~ {NoAI:1,carriedBlockState:{Name:"grass_block"}}
+
+
+== Sounds ==
+Java Edition:
+Endermen use the Hostile Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Endermen have entity data associated with them that contains various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== Video ==
+
+
+== History ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Issues ==
+Issues relating to "Enderman" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+The developers have stated that the belief that enderman sounds are backward distortions is just speculation.
+Notch claimed in public that the enderman is a "subtle reference" to the Slenderman, a similar-looking monster with a similar name. Given the later development of the End, it is possible he already had the name in mind, and did not choose it because of the Reddit thread in which their name was revealed.
+According to Burnie Burns, former CEO of Rooster Teeth, the idea for endermen's weakness to water came from his son JD during a visit to Mojang's headquarters.
+Dinnerbone suggested "a haunting of endermen" as the collective noun for Endermen. Additionally, in the third episode of Minecraft: Story Mode, The Last Place You Look, a player is given the option to correct the grammar of other characters by specifying that the collective noun for a group of endermen is "a haunting of Endermen". In the fourth Minecraft novel Minecraft: The End, the collective term used by endermen themselves is "an End of Endermen".
+Switching to spectator mode and taking an enderman's point of view adds a shader that inverts colors, suggesting that they see the End as an island of blue cobblestone (as end stone is a yellowish version of cobblestone with inverted colors) in a white sky, with white pillars, white endermen with green eyes and a white ender dragon, also with green eyes. They also see cobblestone as end stone.
+The texture for an enderman's eyes is located in a different texture file than the body, allowing their eyes to glow. Because the two textures do not line up perfectly, forcing an enderman to look straight up causes its eyes to turn blank white.
+This also causes the enderman's eyes to be visible even when under the Invisibility effect.
+The enderman teleportation sound also plays when a player teleports using an ender pearl‌ or chorus fruit.
+The enderman is a playable DLC character in the crossover fighting game Super Smash Bros. Ultimate as an alternate costume for Steve, though with altered proportions to be at Steve's height. Additionally, there is an enderman "spirit" that makes the user vulnerable to damage by water, just like real endermen.
+Endermen are trying to bring about the collapse to all dimensions, as revealed in the 2019 book Minecraft Game Design.
+
+
+== Gallery ==
+
+
+=== Renders ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+
+==== Minecraft: Story Mode ====
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Super Smash Bros. Ultimate ====
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== LEGO Minecraft ====
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Minecraft Merchandise ====
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Other ====
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External Links ==
+Meet the Enderman – Minecraft.net on March 20, 2017

@@ -1,0 +1,163 @@
+A piggy bank, also known as a loot pig, is a rare passive animal that can be found within the various missions of Minecraft Dungeons. If attacked by a hero, they drop emeralds and various loot.
+
+
+== Appearance ==
+
+A piggy bank is a pig that possesses wider eyes and its pupils are in the middle. It carries a fancy chest on its back attached via a strap. Piggy banks have the same eye shape as Endermen.
+
+
+== Spawning ==
+Creeper Woods
+Creepy Crypt
+Woodland Mansion
+Woodland Prison
+Soggy Swamp
+Pumpkin Pastures
+Cacti Canyon
+Spider Cave
+Redstone Mines
+Fiery Forge
+Desert Temple
+Lower Temple
+Highblock Halls
+Underhalls
+Obsidian Pinnacle
+Dingy Jungle
+Panda Plateau
+Overgrown Temple
+Frosted Fjord
+Lone Fortress
+Lost Settlement
+Windswept Peaks
+Gale Sanctum
+Gauntlet of Gales
+Colossal Rampart
+Nether Wastes
+Basalt Deltas
+Nether Fortress
+Warped Forest
+Crimson Forest
+Gold Room
+Soul Sand Valley
+Abyssal Monument (Secret area)
+The Stronghold
+End Wilds
+Broken Citadel
+Tower
+
+
+== Behavior ==
+
+A piggy bank, when it appears, stands still, looking somewhat cautiously for heroes and mobs, while wobbling under the pressure of the chest. When a piggy bank is hit by a hero, it widens its eye, then drops emeralds and is stunned for a short time. If the hero successfully kills it, it drops more loot. If left alone on screen for long enough, however, it eventually disappears along with the chest, without dropping loot.
+
+Alerted
+
+When the hero gets close to a piggy bank, it would try to flee.
+
+
+== Drops ==
+These drops appear only when a piggy bank is hit or killed by a hero.
+
+100% drop an Armor, Melee Weapon or Ranged Weapon.
+20% drop an Artifact.
+Drops several emeralds each time hit by hero.
+Default total value: 8~16 Emerald (excluding Apocalypse difficulty)
+100% drop 2 consumable item: foods, potions, arrow bundles or TNT.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Data values ==
+In the game files, piggy banks are referred to internally by the name PiggyBank.
+Push multiplier:0.6
+Flee duration:10 seconds
+Flee distance: 58 blocks
+Max speed: 7.5 blocks per second
+
+
+== Trivia ==
+The Love Medallion can be used on them, but they drop the loot ten seconds after they are defeated.
+If the hero puts the enemy outline setting on to a Color other than white, (eg gold) the piggy banks outline will show the enemy outline color.
+
+
+== Issues ==
+Issues relating to "Piggy Bank" are maintained on the bug tracker. Report issues there.
+
+
+== See Also ==
+Chest
+Pig
+
+
+== Gallery ==
+
+
+=== Renders ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Animations ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Other ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

@@ -1,0 +1,37 @@
+Invisible bedrock is an invisible block used to create a world boundary around Old worlds.
+
+
+== Obtaining ==
+Invisible bedrock is unobtainable in inventory, even through commands, and cannot be destroyed without using the /setblock command. It can be obtained through add-ons, inventory editing, or using a /setblock with destroy to obtain the item.
+
+
+=== Natural generation ===
+Invisible bedrock comprised the border surrounding old worlds. It did not generate above or below the height limit, allowing the player to travel beyond it by flying over or under it, or by pillaring up and walking over it. This could not be done in the Nether in Survival Mode, because of the bedrock ceiling.
+
+
+== Usage ==
+The purpose of invisible bedrock is to prevent the player from getting past the border of the world. It cannot be selected; attempting to do so targets anything behind it.
+
+
+== Appearance ==
+Invisible bedrock is transparent only in rendering, interacting with players and mobs as a solid block and blocking light. Because of this, blocks such as torches and ladders can be placed on it. The player cannot interact with it; attempting to break an invisible bedrock block instead breaks the block behind it. The only way to destroy invisible bedrock is by using /setblock or /fill. Adjacent blocks are not rendered when viewed through invisible bedrock, so its appearance is always that of the sky behind it.
+The texture used for invisible bedrock is that of stone. If the player lands onto invisible bedrock, particles from the stone texture can be seen. In the inventory, the block is represented by a stone texture that fills out the inventory slot completely rather than being rendered as a cube like a normal block. In Pi Edition, it used the grass texture instead, as the game is based on an old version of Pocket Edition Alpha before the texture was changed to stone.
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+=== Invisible bedrock "item" ===
+
+
+== Issues ==
+Issues relating to "Invisible Bedrock" or "Border Wall" are maintained on the bug tracker. Report issues there.
+
+
+== References ==

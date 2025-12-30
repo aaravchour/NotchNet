@@ -1,0 +1,5 @@
+The Crafter Tier 2 is the second tier of automatic crafters added by RFTools. The Crafter Tier 2 can remember four recipes and is used as a component in the Crafter Tier 3.
+See Automatic Crafting with RFTools for information on how to use the Crafter Tier 2.
+
+
+== Recipe ==

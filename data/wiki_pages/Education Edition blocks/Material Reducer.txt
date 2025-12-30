@@ -1,0 +1,66 @@
+The material reducer is a block used in chemistry to learn about the natural world, by reducing Minecraft blocks to their component elements.
+
+
+== Obtaining ==
+Material reducers cannot be obtained in Survival without commands. In Bedrock Edition, the world must also have “Education Edition” enabled.
+
+
+=== Breaking ===
+A material reducer can be mined using a pickaxe. Mining without a pickaxe is slow, but the material reducer still drops as an item.
+
+
+== Usage ==
+Using the material reducer opens an interface of ten inventory slots. The central slot at the top is the input, where blocks can be placed in order to break them down into their component parts. When this happens, the output slots fill up with the percentage of elements found in the broken down material.
+Certain blocks such as soul sand and netherrack contain mysterious elements yet to be discovered. These are represented by an unknown element that displays as other elements, but with a question mark in place of a periodic table symbol. If you take out a few elements, but keep some in too, then the block you placed will have the missing model item, which you cannot place in the inventory.
+When an element is taken from one of the output slots, the input slot gets cleared, and if there are elements in other output slots, the input slot becomes red and does not accept further input until all of the outputs are cleared.
+Any block broken down in the material reducer gives 100 atoms.
+
+Note that copper-related blocks, mud, coarse dirt, raw ore blocks and items, deepslate ores, iron, gold, and diamond equipment, doors, and trapdoors cannot be put into a material reducer, besides them being related to blocks that can.
+All compounds that can be made in the compound creator and lab table can also be reduced in the material reducer, yielding their respective ingredients.
+
+
+== Sounds ==
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+=== Block states ===
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Material Reducer" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+There is currently a glitch in the material reducer's GUI: When the input slot becomes red, the "tubes" that are connected to it are sometimes rendered over the red square, which causes the image to flick between the normal square and the tubes.
+Copper variant blocks and items cannot be reduced into the Copper element block via the material reducer.
+This feature still exists since the GOAT Update, when copper ores and blocks were added.
+
+
+== Gallery ==
+
+
+=== Renders ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Screenshots ===

@@ -1,0 +1,112 @@
+Clay is a block that can be found abundantly in lush caves, in patches in shallow surface water or converted from mud using pointed dripstone. It can be smelted into terracotta or broken into clay balls which are smeltable into bricks. 
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Clay blocks can be mined with any item, but shovels are quickest. Destroying a clay block yields 4 clay balls. If broken with a tool enchanted with Silk Touch, it drops itself instead. Destroying a clay block with a tool enchanted with Fortune does not increase the amount of clay dropped.
+
+
+=== Natural generation ===
+Clay generates in large quantities on the floors of ponds in lush caves.
+Clay can also generate in lush caves in the form of blobs. Clay attempts to generate 46 times per chunk in blobs of size 0-160, at any height. It can replace stone, granite, andesite, diorite, polished granite‌, polished andesite‌, polished diorite‌, tuff‌, and deepslate‌.
+Clay is found underwater in swamps, beaches, oceans, and at the bottoms of rivers and lakes in shallow, crystal-shaped disks, disregarding adjacency to other types of blocks.
+Clay generates in mason houses in plains, savanna, and desert villages, and under fisher cottages in taiga villages.
+
+
+=== Mob loot ===
+An enderman holding a clay block drops the block upon death.
+
+
+=== Crafting ===
+
+
+=== Villager gifts ===
+
+In Java Edition, when the player has the Hero of the Village status effect, a mason villager might throw that player a clay block as a gift.
+
+
+=== Post-generation ===
+If mud is placed above any block with a pointed dripstone underneath, the mud eventually turns into clay, although the dripstone does not deposit any water into a cauldron. This conversion does not happen in the Nether.
+
+
+== Usage ==
+
+
+=== Smelting ingredient ===
+
+
+=== Note block ===
+Clay can be placed under note blocks to produce flute sounds.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Video ==
+
+
+== History ==
+
+		
+			
+			
+		
+
+
+== Issues ==
+Issues relating to "Clay" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+In real life, clay can actually be reddish-brown, not just gray, and can be often found under the surface and away from sand. This color is reflected in the appearance of terracotta, bricks, and flower pots.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Brick
+Terracotta
+
+
+== External Links ==
+Block of the Week: Clay – Minecraft.net on June 2, 2017

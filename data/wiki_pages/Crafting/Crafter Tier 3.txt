@@ -1,0 +1,5 @@
+The Crafter Tier 3 is the final tier of automatic crafters added by RFTools. The Crafter Tier 3 can remember eight recipes.
+See Automatic Crafting with RFTools for information on how to use the Crafter Tier 3.
+
+
+== Recipe ==

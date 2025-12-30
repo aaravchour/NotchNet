@@ -1,0 +1,195 @@
+A necromancer is an undead hostile mob that can be found within the various missions of Minecraft Dungeons.
+
+
+== Appearance ==
+
+Necromancers are  large skeletons that wear blue turfs, a cape with blue stripes near the end, a golden belt with a blue gem in the middle, has greenish eyes, and wears a gold crown-like headwear. Necromancers always hold a staff with a blue orb placed upon a stick. They look similarly to the Nameless One but are slightly smaller, about 2.5 blocks tall, and wear a purple robe with blue markings.
+
+
+== Spawning ==
+Creeper Woods (Apocalypse)
+Creepy Crypt (Apocalypse)
+Woodland Mansion
+Woodland Prison
+Cacti Canyon (Adventure)
+Desert Temple
+Lower Temple
+Overgrown Temple(Secret area)
+Lost Settlement
+Gale Sanctum
+Gauntlet of Gales
+Colossal Rampart
+Abyssal Monument (Secret area)
+The Stronghold
+Daily Trial
+Tower
+
+
+== Behavior ==
+Basic attack
+
+Necromancers use their staff to summon zombies to attack heroes. They summon mobs much more often than the Nameless One. Should the hero get too close, necromancers immediately flee until they are a safe distance from the hero, and then summon mobs again.
+
+Strong attack
+
+Necromancers also rapidly fire damaging laser orbs from their staff to heroes. The laser orbs deal less damage than the zombie's melee attack but more damage than the skeleton's ranged attack, and they also knock the hero back.
+
+Novelty
+
+Necromancer sometimes throws it's staff into the air while idling. As one of the easter eggs in the game.
+
+
+== Haunted Caller ==
+
+The haunted caller is an ancient necromancer that can be encountered during ancient hunts with the minimum offering of the following runes:
+
+The ancient resides within a Creepy Crypt-themed arena and possesses, at minimum, the following enchantments:
+
+Accelerate
+Fire Trail
+Gravity Pulse
+Rapid Fire
+Regeneration
+Six enchanted skeleton horsemen act as the ancient's minions, possessing the following enchantments:
+
+Cowardice
+Upon defeating the haunted caller, a gilded variant of the following items drops as a reward:
+
+Longbow
+Red Snake
+Guardian Bow
+Rapid Crossbow
+Auto Crossbow
+Butterfly Crossbow
+Sickles
+The Last Laugh
+Nightmare's Bite
+Spelunker Armor
+Cave Crawler
+
+
+== Sounds ==
+
+
+=== Arrows ===
+
+
+== Data values ==
+In the game files, necromancers are referred to internally by the name SkeletonNecromancer.
+In the sound file, the torment quiver is referred to internally by the name necromancerQuiver.
+SkeletonNecromancer;
+
+Basic health: 600
+Push multiplier: 0.6
+Ranged Post Attack Delay: 5.0
+Ranged Acquire Target Range Units: 1200.0
+Ranged Lose Target Range Units: 1600.0
+Ranged Min Distance Before Fleeing: 500.0
+Range: 1200.0
+Number Of Projectiles: 1
+Delay Seconds: 0.5
+Delay Seconds Per Projectile: 0.0
+Angle Span: 0.0
+Angle Off set: 0.0
+Max Randomized Angle Factor: 0.0
+Non Random First Arrow: true
+
+
+== History ==
+
+
+== Trivia ==
+A necromancer was seen summoning drowned within the reveal for the hidden depths. However, it was a placeholder for drowned necromancers, the aquatic variant of the mob. Despite this, it can spawn on the land section within the abyssal monument.
+Necromancers have a rare idle animation where they throw their staff in the air, then strike a pose in celebration.
+A necromancer's laugh can be heard in 0:30 Caves & Cliffs part one trailer.
+
+
+== Gallery ==
+
+
+=== Renders ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Animations ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Concept Art ===
+
+		
+			
+			
+		
+
+
+=== Other ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

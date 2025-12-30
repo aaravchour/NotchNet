@@ -1,0 +1,4 @@
+The Gummy Workbench is a block added by Candy World. It comes in 5 functionally identical colors: Red, Orange, Yellow, White and Green. It can be used exactly like a Crafting Table.
+
+
+== Recipe ==

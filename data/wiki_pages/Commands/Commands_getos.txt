@@ -1,0 +1,10 @@
+Return operating system's version
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

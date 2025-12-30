@@ -1,0 +1,322 @@
+Measuring distances in Minecraft can be quite tedious, but a few simple guidelines can prevent you from making mistakes.
+See this page for more conversion details: Tutorials/Units of measure
+
+Marking distance
+Distances in Minecraft are quite easy to measure. Officially, Minecraft uses the metric system, and each block is considered to be 1 cubic meter. When you measure long distances, it's easier to count if you mark the terrain with a space of 4 blocks between each marked block. The first marker represents a zero.  Every second marker (ignoring the zero-mark)  is then a 10-meter mark. Make a distinguished mark at the 21st marker to represent a hundred (100), because the first marker block represents zero (0). Use a sign to mark larger numbers to save time and resources.
+(ZERO) 1 2 3 4 (MARK) 1 2 3 4 (10 METERS) 1 2 3 4 (MARK) 1 2 3 4 (20 METERS) ...
+If you wish to know distance in miles, you can arbitrarily decide that each block is 1 cubic yard. Then 1 mile is exactly 1760 yards. Otherwise, keeping the "official" metric units, because one mile converts to 1609.3 meters, it is practical to consider a mile to be 1610 blocks long. Use the metric method (4 block spacing between). Make 161 x 10th meter marks. Use a sign to mark larger numbers to save time and resources.
+
+
+== Viewing exact coordinates in-game ==
+
+
+=== Bedrock Edition ===
+In Bedrock Edition you can turn on the "View coordinates" switch in your game settings. This isn't a cheat, so doing this doesn't affect your ability to earn achievements, and it makes distance measuring quite easy. It is also a great aid to keep from getting lost if you don't have a compass.
+
+
+=== Java Edition ===
+In Java Edition, if you press F3, the debug screen shows your present location in X, Y and Z coordinates. Measuring distances between two locations or waypoints is as easy as subtraction, if you walk in a cardinal direction. Otherwise you must make use of the Pythagorean theorem to compute the distance. This is not strictly in-game, but it makes a drastic difference in gameplay, avoiding a lot of frustrated wandering. Note that the X and Z coordinates are horizontal and can be positive or negative (the spawn point is fairly close to 0, 0), but the Y coordinate represents your altitude, and Y=-64 is the bedrock floor of the game world.
+
+
+==== Relative to green line ====
+
+This method is much faster and requires no building, though may not be 100% accurate. After going into the debug screen, the crosshairs are replaced with 3 colored lines. Take the length of a line running perpendicular to a block edge or face (e.g., the green line when looking at the top of a block). If one normal sized block is the same height as the green line, the player is standing about 60 blocks away from it. 1.5 blocks means 95 blocks away, 2 blocks long means 130 blocks away etc.
+Humans and mobs can also be used for measurement. Pressing F3 + B shows hitboxes. If the green line is as high as a player hitbox, he is about 125 blocks away.
+With this, observable distances can be measured very quickly. However, aiming upward or downward shrinks the line and that has to be accounted for if one measure distances far above or below him.
+The crosshair or the blue and red line can of course also be used, but as the crosshair is slightly transparent and the blue/red line changes with the X-Axis, they are obviously not recommended unless you're playing before 1.8 or are trying to measure distances at a 90° angle above or below you, respectively.
+
+
+== Calculating coordinates of distant locations ==
+
+Calculate a distant object's X and Z coordinates using the tilt angle in the debug screen by estimating the target's elevation from a vantage point significantly higher or lower in elevation. Typically you would pillar up about 50 to 60 blocks, or climb a tall mountain, and use the direction and downward tilt angle of the target with your coordinates to calculate first the horizontal distance to the target, then the X and Z coordinates of the target based on that distance and direction.
+Pointing at the target, using FOV 30 or a spyglass for greatest accuracy, and the debug screen on, divide the difference in elevation by the tangent of the tilt angle. If you are on a high mountaintop at Y=137 and you see an Amethyst Geode in a swamp, you can estimate it is at sea level, or Y=63. The debug screen says you are at "XYZ: -743.349 / 137.0000 / 540.144" and two lines below that, you are looking at a target "Facing: north (toward negative Z) (-136.2 / 21.9)". Your tilt angle is 21.9° and your rotation is 360 - 136.2 = 223.8°, converting from Minecraft's -180°/+180° notation to conventional 0° to 360° notation. The elevation difference, ∆Y, is 137 - 63 = 74. Find the distance by dividing ∆Y by the tangent of the tilt angle: 74 ÷ tan (21.9) = 74 ÷ 0.402 = 184.08 blocks.
+Your vector to the geode is 184 blocks facing the direction -136.2, or 223.8°. To find the coordinate components of this vector, multiply the distance times the sine of the direction for the ∆X, adding that to your X position, and multiply the distance times the cosine of the direction for the ∆Z, adding that to your Z position. The geode's ∆X is 184.08 ∙ sin (223.8) = 184.08 ∙ -0.692 = -127.41. Subtract this from your X, so -743.349 - (-127.41) = 615.93. The ∆Z is 184.08 ∙ cos (223.8) = 184.08 ∙ -0.723 = -132.86. Add this to your Z, 540.144 + (-132.86) = 540.144 - 132.86 = 407.28.
+
+If you're confused whether to add or subtract for your X and Z values, use the debug screen for a sanity check, and note again "Facing: north (toward negative Z)". The target's Z is somewhat less than your Z value of 540, hinting that you want to subtract 132 from 540 to get 407. If you turn a little to the right, you can verify the target is east of you, "toward positive X", so you're looking for a number greater than (i.e. less negative than) your X position of -743, so you want to subtract negative 127 from -723, which is -734 + 127 = -615.
+Keep in mind that small errors can be magnified at great distances. Each one block error in your estimate of the target block's elevation can cause errors of several blocks in the X and Y coordinates, though generally for things you can see within 20 to 30 chunks, it's close enough that you can see the target when you get there.
+
+
+== Conserving markers ==
+If the measurement is being taken above ground, and lighting the entire path is not necessary, place the markers as above. When 100 m is reached, the 10 m markers can be removed and reused for the next 100 m run. This allows for the path to be constructed without having to count 100 blocks at a time, while still allowing the markers on the completed path to be easily followed without using too much material.
+
+
+== Volume and surface area ==
+The formula for the volume of a cube is s3, where s stands for the measurement of one of the cube's side. Since each side of a normal Minecraft block is 1 meter, this would equal 13, which would result in 1 m3. This works the same for yards, or any other unit of length. So do the rest of these comments.
+The formula for the sa of a cube is 6s2, where s stands for the measurement of one of the cube's side. Since each side of a normal individual Minecraft block is 1 meter, this would equal 6×12, which would equal 6×1, which would result in 6m2. 
+As you make something bigger in all directions, its surface area increases faster than its length, but not as fast as its volume. The surface area tells you how many blocks you'll need for the outer walls, but your interior furnishings probably increase according to the volume. Of course, shape matters: An 8×8×1 layer of dirt corresponds to a stack of 64 dirt blocks, but so does a 4×4×4 cube, or a 2×2×16 trench or shaft.
+
+
+== Using the Euclidean distance formula ==
+Sometimes the need arises in which you need to measure distances that don't align with the X or Z axes, which is easy to do with a little algebra. The formula for Euclidean distance (in two dimensions), where d is the distance:
+
+  
+    
+      
+        d
+        =
+        
+          (
+          
+            x
+            1
+          
+          −
+          
+            x
+            2
+          
+          
+            )
+            2
+          
+          +
+          (
+          
+            z
+            1
+          
+          −
+          
+            z
+            2
+          
+          
+            )
+            2
+          
+        
+      
+    
+    {\displaystyle d=\sqrt{(x_1-x_2)^2+(z_1-z_2)^2}}
+  
+
+Where:
+
+d = Distance in meters
+x1, z1 = Location number 1, in meters
+x2, z2 = Location number 2, in meters
+
+
+=== Example ===
+Suppose the F3 debug screen shows the following at Location 1:
+
+XYZ: -35.313 / 68.00000 / 97.489
+
+These numbers are coordinates in meters. At Location 2, it shows:
+
+XYZ: 76.793 / 43.00000 / -5.113
+
+Usually, the decimal points can be truncated (ignored), as usually you don't want to cloud your results with where you happen to be standing within each block. In two-dimensional (map) coordinates, we also ignore the elevation (Y value). Hence, those two screens give us the following coordinates:
+
+x1, z1 = -35, 97
+x2, z2 =  76, -5
+
+Now we simply plug those numbers in to the distance formula, above: 
+
+  
+    
+      
+        d
+        =
+        
+          (
+          −
+          35
+          −
+          76
+          
+            )
+            2
+          
+          +
+          (
+          97
+          −
+          −
+          5
+          
+            )
+            2
+          
+        
+      
+    
+    {\displaystyle d = \sqrt{ (-35 - 76)^2 + (97 - -5)^2 }}
+  
+
+  
+    
+      
+        d
+        =
+        150.75
+        m
+      
+    
+    {\displaystyle d = 150.75 \text{m}}
+  
+
+Considering horizontal (map) distance only, the two locations are 150.75 m apart.
+
+
+=== Euclidean distance in 3 dimensions (including elevation) ===
+The above calculation is correct if you want the "map" distance between two points (i.e., only the north–south (z) and East/West (x) distance). But if you wish to include the elevation (y) in the distance calculation as well, that's very easy to do: Simply add the y coordinates to the above distance formula:
+
+  
+    
+      
+        d
+        =
+        
+          (
+          
+            x
+            1
+          
+          −
+          
+            x
+            2
+          
+          
+            )
+            2
+          
+          +
+          (
+          
+            y
+            1
+          
+          −
+          
+            y
+            2
+          
+          
+            )
+            2
+          
+          +
+          (
+          
+            z
+            1
+          
+          −
+          
+            z
+            2
+          
+          
+            )
+            2
+          
+        
+      
+    
+    {\displaystyle d = \sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2 + (z_1 - z_2)^2}}
+  
+
+Referencing the above debug screens again, our 3-dimensional coordinates are as follows:
+
+x1, y1, z1 = -35, 68, 97
+x2, y2, z2 =  76, 43, -5
+
+Again, solving for d: 
+
+  
+    
+      
+        d
+        =
+        
+          (
+          −
+          35
+          −
+          76
+          
+            )
+            2
+          
+          +
+          (
+          68
+          −
+          43
+          
+            )
+            2
+          
+          +
+          (
+          97
+          −
+          −
+          5
+          
+            )
+            2
+          
+        
+      
+    
+    {\displaystyle d = \sqrt{ (-35 - 76)^2 + (68 - 43)^2 + (97 - -5)^2 }}
+  
+
+  
+    
+      
+        d
+        =
+        152.81
+        m
+      
+    
+    {\displaystyle d = 152.81 \text{m}}
+  
+
+With the elevation considered, the two locations are 152.8 m apart. Note that, in this example, including the 25 m elevation resulted in a difference of about 2 m (2 blocks).
+
+
+== Simple distance formula ==
+If you only need the length of a straight line of blocks, there is a simpler formula, not too unlike the Euclidean formula.
+
+  
+    
+      
+        d
+        =
+        
+          |
+        
+        
+          a
+          
+            1
+          
+        
+        −
+        
+          a
+          
+            2
+          
+        
+        
+          |
+        
+        +
+        1
+      
+    
+    {\displaystyle d=|a_{1}-a_{2}|+1}
+  
+
+Where:
+
+d = distance in meters
+a1  = location number 1, in meters
+a2 = location  number 2, in meters
+Unlike with the Euclidean formula, this formula only requires values from one axis, giving you the distance of a single-block-wide line.

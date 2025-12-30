@@ -1,0 +1,77 @@
+The corrupted crossbow is a unique burst crossbow variant that can be found within the various missions of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+A  before a mission name indicates that the item is only obtainable in Daily Trials of that mission.
+
+ Fiery Forge
+ Underhalls
+ Panda Plateau (DLC)
+ Colossal Rampart (DLC)
+ Soul Sand Valley (DLC)
+Tower
+Merchants
+Gift Wrapper
+Ancients
+Solemn Giant
+
+
+== Usage ==
+
+
+=== Properties ===
+X ranged damage
+Fast Multiple Projectiles
+Boosts Next Attack On Roll (Dynamo tier I)
+
+
+=== Stats ===
+Quiver: 53
+Fire Rate: 1 shot per second (3 projectiles per second)
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Corrupted Crossbow" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+When equipped, it produces a sound that resembles a Wither being hurt in the base game.
+The same goes for its drop sounds where the idle sound of the Wither can be heard as well.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===

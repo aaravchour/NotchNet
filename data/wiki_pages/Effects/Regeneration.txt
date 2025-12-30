@@ -1,0 +1,36 @@
+Regeneration is a status effect that restores a player's (or mob's) health over time without interference from hunger.
+
+
+== Effect ==
+The amount of health healed over time is shown in the table below:
+
+Amplifiers outside the range 0–31 (corresponding to levels 1–32) are used modulo 32, making level 33 the same as level 1, etc.
+
+
+== Causes ==
+
+
+== Brewing ==
+
+
+== Immune mobs ==
+Undead mobs and ender dragons are unaffected by Regeneration.
+
+
+== Data values ==
+
+
+=== ID ===
+
+Java Edition:
+
+Bedrock Edition:
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Notes ==

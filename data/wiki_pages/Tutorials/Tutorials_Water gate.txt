@@ -1,0 +1,66 @@
+A water gate, or flood gate, is used to stop a flow of water. Water gates are adjustable gates used to control water flow by either shrinking the stream, or by stopping it altogether. They can be made quite easily with redstone and pistons.
+
+
+== Water gate ==
+
+
+=== Construction ===
+
+There are three parts to a water gate: The water source, the water channel, and the gate. The water source provides the water. The water source can be a lake, ocean, pond, or even just a water bucket dumped at the beginning of the channel. The channel is a small trench that guides the water where you want it to go. The gate itself is a device made of pistons that blocks the water flow. 
+To create a water gate, the first thing to do is to create the channel. This can be done by digging it out of the ground or by placing walls on the ground. The gate is simply two pistons facing into the channel that, when extended, occupy the channel and prevent water from flowing. Sticky pistons with an additional block stuck to them can be used for wider channels. Also, for a channel only 1-block wide, just one piston will work fine. The pistons are then wired to a redstone signal that controls when they are on or off. The signal is commonly a lever, so that when it is on the pistons extend, and when it is off they retract.
+
+		
+			
+			
+		
+
+
+=== Uses ===
+There are a few things you can do with a water gate. One of the most useful ways to use a water gate is to harvest crops by channeling the flow of water over your mature crop and it will automatically pick your crops for you. By channeling the water, you can also designate a pickup area for the already harvested crops. Water gates could also be useful for mob traps, water elevators, and safe passages up and down a cliff side.
+
+
+=== Video ===
+
+
+== Flood gate ==
+
+
+=== Requirements ===
+The purpose of floodgates are similar to that of water gates, but they are constructed differently. They are made using 4 types of items.
+Gates
+
+Iron Door
+Wooden Door
+Switches
+
+Button
+Lever
+Manual (Wooden Door)
+Activators
+
+Redstone Wire
+Hand (Wooden Door)
+Walls
+
+Cactus (Not the best, needs sand under it, but is good for hurting invaders or mobs)
+Sugar Cane (Requires dirt or sand underneath, and is a good blocker. Also, able to see through as a window)
+Cobblestone (Doesn't work well, but if you are low on materials it works.)
+Glass (Allows items to go through it, which is beneficial, but requires lots of smelting and sand.)
+Optional
+
+Soul Sand (Can be used as a dock for boats when placed directly below 1 block of water, but comes from the Nether, and isn't obtainable in some multiplayer servers.)
+
+
+=== Construction ===
+
+
+==== Basic Structure ====
+First, start out with the basic structure. Start making the wall. Only have it 1 block high for now, you can build it up higher later. Leave 4 or 9 blocks high, and 2 or 5 blocks wide depending on how big you want your actual gate to be. 
+
+
+==== The Canal ====
+Dig 1 block down where you want the water path. This can be used for a boat system, farm system, irrigation system, etc.
+
+
+==== Logic ====
+Make a control panel. It can be on a wall, or 1-2 block high control stand. For 1 block high, place the lever on top, for 2 blocks high put the lever or button on the side on the top block. Now, where you left space for the doors, place your iron door where you left space.

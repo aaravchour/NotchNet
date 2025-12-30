@@ -1,0 +1,121 @@
+This page documents the history of lava.
+
+
+== Assets ==
+
+
+==== Java Edition ====
+
+Flowing lava in the Overworld and the End
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+Flowing lava in the Nether
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Lava "items" ===
+The following content is transcluded from Technical blocks/Lava.
+
+
+==== Appearances ====
+
+
+==== Names ====
+
+
+===== Still Lava =====
+Java Edition
+Item names did not exist prior to Beta 1.0.
+
+Beta 1.0 - 14w21b: Lava
+(As block name, item does not exist) 14w25a and onwards: Lava
+The flowing and stationary lava blocks has been removed and lava block has become generic. Generic lava block's resource location is minecraft:lava.
+Bedrock Edition
+? - ?: tile.lava.name
+
+
+===== Flowing Lava =====
+Java Edition
+Item names did not exist prior to Beta 1.0.
+
+Beta 1.0 - 14w21b: Lava
+(As block name, item does not exist) 14w25a and onwards: Lava
+Bedrock Edition
+? - ?: Lava
+
+
+=== Texture generation prior to Java Edition 13w02a and Bedrock Edition v0.14.2 ===
+
+
+==== Still lava ====
+Adapted from https://github.com/UnknownShadow200/ClassiCube/wiki/MInecraft-Classic-lava-animation-algorithm#lava
+Every frame, for each position in the still water texture array, the respective values for soup_heat, pot_heat and flame_heat are calculated as detailed below:
+
+Calculates a local_soup_heat equal to the sum of the 3x3 soup_heat neighborhood around the current element but offset vertically by colSin******* and offset horizontally by rowSin*********.
+rowSin is 1.2 times the sign of an angle that starts at 0 and changes by 22.5 degrees every row.
+colSin is 1.2 times the sign of an angle that starts at 0 and changes by 22.5 degrees every column.
+Calculates a local_pot_heat equal to the sum of a 2x2 pot_heat neighborhood around the current pot_heat, with the current position being the upper left of the 2x2 neighborhood.
+Calculates the new soup_heat as the sum of the local_soup_heat divided by 10 plus the local_pot_heat divided by 4 times 0.8.
+Calculates the new pot_heat as the current pot_heat plus the flame_heat times 0.01***************. pot_heat is clamped to a minimum of 0.
+Calculates the new flame_heat as the current flame_heat minus 0.06.
+However, there is a 0.005 in 1 random chance that flame_heat is set to 1.5.
+Once the above arrays have been updated, for each pixel in the lava texture, the color values are calculated based on soup_heat (alpha is always opaque for lava):
+
+Calculates a color_heat as double the soup_heat clamped between 0 and 1 inclusive.
+Then it calculates the color components of the pixel as follows:
+float red = color_heat * 100F + 155F
+float green = color_heat^2 * 255F
+float blue = color_heat^4 * 128F
+The red, green and blue values are then converted to bytes and assigned to the texture accordingly.
+
+
+==== Flowing lava ====
+Flowing lava uses the exact same texture as still lava, however there is also a spatial translation to give the appearance of movement. This transformation moves the lava texture downwards by one pixel after a fixed amount of time, wrapping the bottom layer of the texture back to the top.

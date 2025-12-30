@@ -1,0 +1,190 @@
+{{For|upcoming camel mount variant|Minecraft Wiki:Drafts/Camel Husk]]
+
+A husk is a variant of a zombie that spawns in deserts. They function similar to zombies, except they do not burn in sunlight and inflict Hunger with their unarmed attacks.
+
+
+== Spawning ==
+Husks spawn at a light level of 0 in the desert, mostly replacing zombies in these biomes.
+In Java Edition, husks spawn directly under the sky in groups of 4 in place of 80% of all zombies spawned in desert biomes variants.
+In Bedrock Edition, husks spawn on the surface in groups of 2-4 in place of 70% of all zombies spawned in desert biomes.
+
+
+== Variants ==
+
+
+=== Baby husks and chicken jockeys ===
+
+In Java Edition, there is a 5% chance for husks to spawn as babies, and baby husks have a chance to spawn as a chicken jockey.
+In Bedrock Edition, 15% of naturally spawned baby husks can start riding a mob and become a jockey when it tries attacking a villager, player, or golem. They can ride:
+
+
+== Behavior ==
+
+Like zombies, husks are hostile toward the player, iron golems, villagers, baby turtles, wandering traders and snow golems ‌ and pursue those mobs on sight from 35 blocks away in Java Edition or 16 blocks away in Bedrock Edition, as opposed to 16 blocks like most other hostile mobs. If any other mob attacks a husk on purpose, all other husks and zombie variants (except zombified piglins) within a 67×67×21 to 111×111×21 area become hostile towards the attacker. They attempt to avoid obstacles, including sheer cliffs, water, and lava, and try to find the shortest path to the player.
+Husks apply Hunger to any player or mob they hit using a melee attack unless the husk is holding an item in its main hand or the player blocks the attack with a shield. This effect lasts for 7 × floor (regional difficulty) seconds.
+Husks can break down doors successfully on Hard difficulty.
+Husks seek out any nearby turtle eggs and trample them.
+Husks can pick up items if the game rule mobGriefing is set to true, which will prevent them from despawning.
+A husk that is submerged in water for 30 seconds begins converting to a normal zombie, which takes an additional 15 seconds and cannot be stopped even if the husk leaves water. Once this process finishes, the zombie that it converts into will have full health even if the husk has been damaged, and may further convert into a drowned if it remains submerged.
+
+
+=== Provocation by other mobs ===
+
+
+==== Java Edition ====
+
+
+== Drops ==
+When they die, husks drop 0–2 Rotten Flesh. The maximum drop is increased by 1 per level of Looting, for a maximum of 0-5 with Looting III.
+They can also drop an iron ingot, carrot, or potato when killed by a player or tamed wolf. This drop has a 2.5% chance of occurring, increasing by 1% per level of looting. Individual items have the following chances of dropping:
+
+5⁄600 (about 0.83%)
+7⁄600 (about 1.17%) with Looting I
+9⁄600 (1.5%) with Looting II
+11⁄600 (about 1.83%) with Looting III
+Any picked-up equipment has a 100% chance of dropping and drops with the same damage level it had when picked up.
+Unlike regular zombies, a husk does not drop its head if killed by a charged creeper explosion.
+
+
+=== Naturally-spawned equipment ===
+Carved Pumpkin 
+Jack o'Lantern‌
+Iron Shovel
+Iron Sword
+Random Armor
+Husk have an 8.5% chance of dropping their naturally-spawned equipment (other than Halloween pumpkins), with random durability. Each level of Looting increases the chance 1 percentage point (11.5% with Looting III).
+
+
+=== Experience ===
+Adult husks drop 5 and an additional 1–3 per naturally-spawned equipment. Baby husks drop 12.
+
+
+== Sounds ==
+Java Edition:
+Husks use the Hostile Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Husks have entity data associated with them that contains various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Husk" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+The husk was created by Jason Mayer at a game jam and shown to Jens Bergensten.
+Husks are a slightly taller than regular zombies.
+Their hitbox is ever so slightly higher than 2 meters in Bedrock but is exactly 2 meters in Java
+
+
+== Gallery ==
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Official artwork ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Zombie
+Drowned
+
+
+== References ==
+
+
+== External links ==
+Meet the Husk – Minecraft.net on August 14, 2017

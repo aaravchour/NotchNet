@@ -1,0 +1,10 @@
+Return the number of created chunks.
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

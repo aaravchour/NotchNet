@@ -1,0 +1,104 @@
+A sniffer egg is a block that can be brushed out of suspicious sand in warm ocean ruins, or obtained by breeding two sniffers. It slowly hatches into a snifflet (child sniffer) when placed as a block in the world, which takes half as much time when it is placed on a moss block.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Sniffer eggs can be mined with any tool, even with bare hands, and always drop themselves. Unlike turtle eggs, Silk Touch is not needed.
+
+
+=== Archaeology ===
+
+
+=== Mob loot ===
+Sniffer eggs can also be obtained by breeding two sniffers with torchflower seeds. Unlike turtle eggs or frogspawn which are placed into the world in block form, sniffer eggs are dropped as items, similar to chicken eggs.
+
+
+== Usage ==
+
+
+=== Placing ===
+Sniffer eggs can be placed in block form and slowly hatch into snifflets. 
+Sniffer eggs do not require a supporting block below. Unlike dragon eggs, they are not affected by gravity.
+
+
+=== Hatching ===
+Sniffer eggs crack over time and hatch after cracking twice. They hatch faster when on moss blocks. Sniffer eggs hatch in about 10 minutes on moss blocks, and take twice as long to hatch on non-moss blocks.
+Sniffer eggs do not need to receive random ticks to hatch. Therefore, the hatching speed of sniffer eggs is not affected by the randomTickSpeed game rule.
+
+
+=== Piston interactivity ===
+Sniffer eggs can be pushed and pulled by pistons.
+
+
+== Sounds ==
+
+
+=== Generic ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Unique ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+
+Bedrock Edition:
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Sniffer Egg" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+
+
+=== Official Artwork ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

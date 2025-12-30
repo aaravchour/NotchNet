@@ -1,0 +1,186 @@
+A minecart is a train-like vehicle entity that runs on rails.
+
+
+== Obtaining ==
+Minecarts can be retrieved by attacking them for some time. Minecarts can also be retrieved with one attack from a pickaxe provided the player's attack cooldown is reset. A minecart is also destroyed if it makes contact with a cactus, or if shot with a bow and arrow.
+
+
+=== Crafting ===
+
+
+=== Entity loot ===
+Minecart with command blocks can be given to the player with the /give command or through the Creative inventory under certain conditions‌; minecart with monster spawners‌ are available only via the /summon command. Each drop 1 minecart when broken.
+
+
+== Usage ==
+
+A minecart can be placed in the same manner as most blocks but can be placed only on top of a rail. Once placed, it may be derailed by pushing it off the end of the track. After this, it can be railed again by placing a rail directly below it or pushing it onto a track.
+
+
+=== Crafting ingredient ===
+
+
+=== Transportation ===
+
+Minecarts can be ridden by pressing the "use" control on them. Once inside, an external impulse may be needed to make the minecart start moving. The player can slowly move the minecart forward while riding it, by pressing forward. If a mob walks in front of an empty minecart, it is pulled into the cart.
+After rolling off of the end of a track, a minecart can be pushed around on open blocks. If a minecart is pushed onto or falls onto tracks, it "snaps" to those tracks. When riding a minecart, if the minecart lands on a rail, the player does not take any fall damage. 
+Unlike with beds, there is no message above the hotbar for attempting to enter a fully occupied minecart.
+
+
+=== Dismounting ===
+Players can exit the minecart by pressing sneak. When a player or mob dismounts a minecart, either by choice, by breaking the minecart, or by passing over an activator rail, the minecart tries to find a safe ejection destination one block away. First it checks the eight horizontally adjacent blocks in the following order of priority relative to direction of travel: right, left, rear right, rear left, front right, front left, rear, front. A valid destination has a block underneath with a solid (not necessarily full) top surface and a space with enough headroom and width for the passenger to fit in when standing at the center. The space can even contain liquid or have open trapdoors if the mob is slim enough, and presence of other mobs doesn't matter. If no valid destination exists on same horizontal level, the minecart then checks the blocks one above, then one below. For a player, the minecart also checks for crawlable destinations. If still none, the minecart chooses its own location. Once the minecart picks a destination, it actually ejects the passenger one block up in the air and the passenger settles down on its own. Under a low ceiling this may cause one tick of suffocation damage. The air drop exists to allow passengers to land on carpet or bottom slabs.
+
+
+== Behavior ==
+
+
+=== Speed ===
+Minecarts have a predefined speed limit of exactly 8 blocks per second. However, this speed limit does not change the minecart's speed value but instead limits how far a minecart can travel each tick to 0.4 blocks. Therefore, a minecart moving from powered rail to normal rail will move at constant speed for some time until decelerating because its internal speed value is over its speed limit of 8. However, the maximum speed can be changed by the minecartMaxSpeed game rule.
+Powered rails powered by redstone give minecarts a boost of speed. Speed is gradually decreased (due to drag) if there are no powered rails to assist its movement, and an unpowered powered rail slows down a minecart rapidly. The speed decreases at a faster rate when going uphill, compared to when moving horizontally. A minecart does not need powered rails to assist its movement down a hill.
+Anything in the way of the minecart brings it to a stop. Once a minecart has left the track, it rapidly decelerates within one or two blocks. When mobs touch a minecart, they affect it in the same way a player would, i.e. mobs that move up against a still cart set it in motion.
+If a minecart is moving fast enough, it can skip across one block without a track and reattach to track on the other side, at significantly reduced energy and speed. A minecart's hitbox can skip turns if the minecart is boosted using enough powered rails.
+The speed and momentum of a minecart can differ depending on whether or not it is empty, and in the case where a minecart has a container, the speed can differ depending on the quantity and type of items inside.
+
+
+=== Merged minecarts ===
+In Java Edition, two or more minecarts can be merged by pushing them into each other so that they overlap. Merged minecarts move as a collective, like a train, and can be useful for long-distance transport because while moving in a straight line, they do not need powered rails to keep their speed.
+To summarize:
+
+Minecarts can also be merged by dropping a minecart on another minecart.
+Merged minecarts do not lose speed while traveling on straight rails
+Corners in the rails might cause merged minecarts to unmerge.
+Minecarts with chest (even fully filled) can also be merged and also do not require powered rails.
+
+
+=== Distance traveled by empty carts starting on a downward slope ===
+This table shows the distance traveled by an unoccupied minecart on a downward slope, with a boost (or no boost). The most efficient way is to use only 1 boost at the bottom of the incline on the flat surface. Using 2 increases distance by about 20% or 1.5 blocks. All distance trends based on the height seem to be logarithmic.
+The carts started from rest, on a slope Height blocks up.
+
+
+=== Collision ===
+Minecarts are about the same size as a block (1×1). Because of this, a ladder, door, or trapdoor prevents it from falling down a 1×1 hole. Carts on rails also ignore collision in certain situations. A cart traveling uphill, downhill, or on a curve with a block placed in front of it, goes through the block.
+A minecart that reaches the end of a rail up against an opaque solid block bounces back, but if the block is transparent then it stops. The minecart can even bounce against an opaque block from a standstill if the rail underneath is powered. A player or mob riding in a minecart does not collide with or suffocate in any transparent blocks but suffocates inside opaque blocks.
+Minecarts are completely unaffected by ice, packed ice, and blue ice; they can also be destroyed by coming in contact with lava or fire. Minecarts can even be pushed by flowing water.
+
+
+=== Mobs ===
+
+Mobs can ride minecarts, but cannot control them. Mobs cannot exit the minecart unless the minecart is destroyed or moves onto an active activator rail. However, in Bedrock Edition, endermen are able to teleport out of minecarts.
+A mob can ride a minecart when pushing by a moving minecart on rails in Java Edition or when colliding with a minecart in Bedrock Edition. It is easier to pick up a mob when a minecart is turning. In Bedrock Edition, armor stands can also be picked up.
+Most mobs can be picked up by minecarts, except ender dragons, wardens, Horses, Llamas, and withers. In Java Edition, iron golems cannot be picked up either.
+A jockey riding a minecart automatically accelerates the minecart. Mobs in minecarts don't despawn, and don't count towards the mob cap.‌
+
+
+=== Boats ===
+                                                                           
+
+Due to the bug MC-113871, boats can be captured by minecarts. When a boat is placed in a minecart, the minecart travels faster on rails, approximately as fast as on powered rails. The movement in the boat minecart is glitchy and moving forward with the W key moves the cart backward relative to the player, and vice versa for moving backward with the S key. The minecart also moves on the rail-less ground at a crawling speed, but it does not float in the water despite being in a boat. 
+Using this glitch can be far more resource-efficient since the boat minecart can move at the speed of a powered rail track on flat ground and on slopes. Another physics glitch with the boat minecart is the extreme reduction in friction when the minecart is on rails, which is similar to the lack of friction when a boat is riding on ice. This glitch can be done in Survival without cheats simply by pushing a minecart into a boat on the track. This bug is now patched.
+
+
+== Sounds ==
+Java Edition:
+Minecarts use the Friendly Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Minecarts have entity data associated with them that contain various properties of the entity.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format
+
+
+== Achievements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Minecart" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Minecarts appear to float above the track, as their model has no wheels.
+If the player views their inventory while riding in a minecart, they appear sitting down in mid-air.
+The player can teleport to another minecart while sitting in a minecart by right-clicking a minecart in their range. This can be used as an elevator to quickly rise up when minecarts are placed on top of each other.
+If the sound is muted in the options while riding a minecart, and then turned back up, the minecart no longer makes noise in the client until the player exits the minecart.
+If a saddled pig is riding a minecart, the player can ride the pig. Doing so causes the minecart to be able to ride freely at the player's walking speed. It is unknown whether this is a glitch.
+It seems that hunger does not deplete while inactive in a minecart (at least in normal difficulty).
+A minecart (alongside rails and powered rails) are used as Steve's Side-Special in the crossover fighting game Super Smash Bros. Ultimate.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External Links ==
+Taking Inventory: Minecart – Minecraft.net on September 6, 2019

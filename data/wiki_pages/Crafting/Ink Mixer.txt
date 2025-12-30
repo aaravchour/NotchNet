@@ -1,0 +1,26 @@
+The Ink Mixer is a block added by Mystcraft. It uses Ink Vials and Paper to create Link Panels, and is also the only way to add Modifiers to Linking Books and Descriptive Books.
+
+
+== Recipe ==
+
+
+== Usage ==
+The Ink Mixer requires Ink Vials to work, one for every Link Panel made. 
+
+Red: Ink (input)
+Blue: Paper (input)
+Green: Mixing area (input, see below)
+Purple: Glass Bottles (output)
+Cyan: Link Panel (output)
+The default Link Panel does not have any special effects. Certain items must be added to have a chance of getting the desired effects. When items are added, the ink will change color and flash. As more items are added, the chance of getting the effect increases (no exact percentages). This is signaled by the ink maintaining its color.
+Some materials can add multiple effects.
+
+
+== Modifiers ==
+Generate Platform: Regardless of what happens to the world, this book will always generate a single block to stand on beneath the spawn location. Useful for very unstable or void worlds.
+Disarm: This book will prevent a player's inventory items from being linked. They will be dropped at the origin and leave the user (cart chest, mob, etc.) with an empty inventory on the other end. Useful for PvP traps, and adventure maps.
+Intra-Linking: This book can make links within the same age/dimension. This modifer allows linkbooks to be used for teleportation.
+Maintain Momentum: A player or mob will keep their velocity when linking. Can be useful for traps or adventure maps.
+Relative: This book links similarly to Nether Portals, the destination point will be at an offset from the normal spawn equal to the book's distance from the spawn point of the origin age. As this may be overpowered for normal play, it is not available through the Ink Mixer. However, it can be added to a book by using a creative-mode debug block called the Link Modifier.
+Following: This book will link with the player. This modifier is not available through the Ink Mixer or the Link Modifier.
+Relative and Following are not possible through the Ink Mixer: Relative has been deemed imbalanced for normal play, and was designed for use by adventure map makers. Following is planned to be craftable as a book property when book materials are added.

@@ -1,0 +1,42 @@
+A fancy chicken was a very vibrant and fancy variant of the normal chicken, found only in Minecraft Earth.
+
+
+== Appearance ==
+Fancy chickens were a vibrant-colored variant of the chicken. Their head was golden-yellow in color with a saturated red crest and a bright red wattle underneath the beak. Their body possessed shades of dark to light jade-green feathers running from their belly to their rear. Their wings were dark navy in color and their tail feather was purple in color. They also possessed patches of dark green feathers on the base of their legs. Unlike normal chickens, they possessed longer legs, a tail, and a smaller wattle.
+
+
+== Behavior ==
+
+Fancy chickens acted exactly the same as normal chickens, walking aimlessly, and avoiding lava. They were also scared of all variants of pigs and ran away if they got too close.
+
+
+== Obtaining ==
+Fancy chickens were a rare mob drop found in chicken tappables. They were also obtainable as a reward in Season 17, or by purchasing the "A Bit Fancy" buildplate.
+
+
+== Drops ==
+When killed, the Fancy Chicken dropped:
+
+0-2 Fancy Feather
+1 Raw Chicken (Cooked Chicken if killed while on fire)
+
+
+== Sounds ==
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Trivia ==
+Fancy chickens somewhat resembled the Red junglefowl, which is known for its colorful plumage and long tail feathers.
+Fancy chickens were the fourth mobs to drop new items, with the others being the rainbow sheep, horned sheep and the moobloom.
+Fancy chickens were the second rarest chicken variant in Minecraft Earth, with a 2.1% chance of obtaining from chicken tappables, exceeding the Amber Chicken.
+
+
+== Gallery ==

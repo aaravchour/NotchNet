@@ -1,0 +1,4 @@
+Pracovní vozík je předmět přidaný módem Railcraft. Tento vozík je doslova pojízdný Pracovní stůl, a má stejné funkce jako on. 
+
+
+== Recept ==

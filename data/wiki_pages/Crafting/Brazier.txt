@@ -1,0 +1,9 @@
+The Brazier is a machine from the Witchery mod. This machine is used to perform conjuration magic. A Brazier should be placed within the range of an Altar, which is roughly 15 blocks. It can be used to create the effects of the Summon Spectre, Summon Banshee, Graveyard Mist, Anguish of the Dead, Fortification of the Corpse, Deathly Veil, and Drain Growth.
+As of version 0.19.0, the Brazier can be ignited with a redstone pulse, and the Mystic Branch Incendio effect.
+
+
+== Recipe ==
+
+
+== Usage ==
+Put three valid ingredients into the Brazier, then light it with a Flint and Steel. Using a Water Bucket on the Brazier will clear all ingredients in it. Lighting a Brazier with invalid ingredients will cause nothing but smoke. Lighting it when it does not have the required Altar power will cause a fire until it receives the power.

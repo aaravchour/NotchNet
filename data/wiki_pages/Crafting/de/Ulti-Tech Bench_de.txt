@@ -1,0 +1,5 @@
+Die Ulti-Tech Bench ist ein Block, der durch ArmorPlus hinzugefügt wurde. Es ist die verbesserte Version der High-Tech Bench.
+Dieser Block wird zur Herstellung der Rüstungen, Waffen und Gegenstände der dritten und letzten Stufe von ArmorPlus verwendet. Er wird auch zur Herstellung einiger Materialien wie The Ultimate Armor verwendet.
+
+
+== Recipe ==

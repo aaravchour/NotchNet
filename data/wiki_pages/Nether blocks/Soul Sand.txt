@@ -1,0 +1,116 @@
+Soul sand is a block found naturally only in the Nether and ancient cities. Soul sand usually slows down the movement of mobs and players walking on it. It is also used for growing nether wart, for crafting soul-related blocks and dried ghasts, for creating a bubble column, and for constructing a wither.
+
+
+== Obtaining ==
+
+
+=== Natural generation ===
+Soul sand is found below Y=34 in the nether wastes, generally in four-block-deep layers. It is also found naturally in nether wart rooms of nether fortresses.
+Soul sand also generates in hoglin stables and housing unit bastion remnants.
+Soul sand also generates in soul sand valleys as part of the surface terrain.
+Soul sand can generate in the Nether in the form of ore blobs. Soul sand attempts to generate 12 times per chunk in blobs of size 0-23, from altitudes 0 to 31‌ or 32‌ , in soul sand valleys. It can replace only netherrack.
+Soul sand is also found in ancient cities, making it the only location to find soul sand in the Overworld.
+
+
+=== Breaking ===
+Soul sand can be mined with any tool or by hand, but shovels are the quickest.
+
+
+=== Chest loot ===
+
+
+=== Bartering ===
+Piglins may barter 2–8 soul sand when given a gold ingot‌.
+
+
+== Usage ==
+
+Movement on or just above soul sand is slowed down for any mob or player that is not wearing boots enchanted with Soul Speed by 50%, and standing on soul sand causes entities to sink 2 pixels into the block. A cover with solid blocks of any non-zero physical thickness prevents sinking, and any solid cover thicker than half a block eliminates the slowing effect, too.
+The effect applies to sneaking, walking, sprinting, and crawling (but not gliding), and to both regular and sprint-swimming. It also applies to riding mounts. Traveling by boat is slowed down, too, although this requires water no more than 2/8 a block in depth for the boat to sit low enough to be affected. Furthermore, it does not matter whether the player or mob moves actively or is being moved, like by flowing water.
+Most blocks that can be placed on full blocks can be placed on soul sand, with the notable exceptions of both types of fungi, both types of roots, and nether sprouts. In addition, a falling block that lands on soul sand turns into an item, which prevents gravel from replacing lava if soul sand is underneath.
+A hopper underneath a soul sand block can collect items that are dropped on it.
+Soul sand cannot be used in place of regular sand as a falling block because it is not affected by gravity.
+Striders are slowed down by soul sand underneath a layer of lava.
+
+
+=== Crafting ingredient ===
+
+
+=== Growing nether wart ===
+Soul sand is used for growing nether wart, a primary base ingredient for many varieties of potions. Nether warts can be placed on soul sand like seeds on farmland and over time they grow through four growth stages (placing the nether wart on soul sand grants the "A Seedy Place" advancement‌). Nether warts can grow in any dimension and do not have any light-level requirements. Nether warts can also be placed only in soul sand (and cannot even be placed in soul soil).
+
+
+=== Withers ===
+
+Four blocks of soul sand (or soul soil) are used in the construction of the wither. The four blocks are arranged in a "T"-like formation (similar to the summoning of an iron golem) and 3 wither skeleton skulls are placed in a row on top of the "T" to summon the wither.
+
+
+=== Bubble columns ===
+Placing soul sand under source water blocks creates a lifting bubble column, which causes items, entities, players, and mobs inside the column to rise to the surface. The bubble column extends upward through any number of empty water source blocks (not waterlogged blocks).
+A player can restore breath by entering a soul sand's bubble column.
+
+
+=== Note blocks ===
+Soul sand can be placed under note blocks to produce cowbell sounds.
+
+
+=== Fire ===
+Fire lit on soul sand becomes soul fire, which burns indefinitely.
+Because soul sand is not as high as a full block, a player is set on fire if standing next to lava while on soul sand. Standing near water while on soul sand extinguishes the player.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== Video ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Soul Sand" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Soul sand has inner collision boxes every eighth of a block. However, these collision boxes have an effect only if entities are clipped into soul sand.
+If a water current is pushing the player diagonally against a wall and soul sand is the block adjacent to the player's head when the current ends, it causes the player to jump.
+Just like with other blocks of less than full height that can have (flowing) water above it, riding a boat on dry soul sand into an oncoming stream of flowing water leaves the boat itself on the sand while the player character is "carved" out of the boat by the water "blade".
+Before Village & Pillage, soul sand used to generate in iconic four-block-deep layers between y levels 60 and 65. It also occasionally generated on the floor of caverns and coasts of lava oceans below, only if it generated in the same column at Y=60 or above. Toward the end of Village & Pillage development, the generation range of soul sand was reduced so that it exists only below y level 34, close to the lava sea level. As a result, soul sand is much harder to find in Nethers that were generated in the 1.14 and 1.15 versions.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External Links ==
+Block of the Week: Soul Sand – Minecraft.net on November 24, 2016

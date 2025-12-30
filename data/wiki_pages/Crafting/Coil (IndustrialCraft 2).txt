@@ -1,0 +1,6 @@
+This page is about the Coil added by IndustrialCraft 2. For other uses, see Coil.
+
+The Coil is a crafting component from IndustrialCraft 2. It serves no purpose on it's own, but is used to craft important blocks and items such as the Metal Former and the Electric Motor.
+
+
+== Recipe ==

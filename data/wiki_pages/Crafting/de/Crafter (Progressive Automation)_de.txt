@@ -1,0 +1,13 @@
+Auf dieser Seite geht es um den Crafter von Progressive Automation. Für andere Verwendungsmöglichkeiten, siehe Crafter.
+
+Crafters (dt. Handwerker) sind eine Gruppe von Maschinen, die von Progressive Automation hinzugefügt wurden. Sie werden verwendet, um automatisch einfach geformte oder formlose Handwerksrezepte herzustellen.
+
+
+== Rezept ==
+
+
+== Verwendung ==
+Wie alle Progressive Automation-Maschinen können Crafter jeden Standardofenbrennstoff oder Kartoffeln verbrauchen, um zu funktionieren. Wenn Redstone Flux (RF) verfügbar ist, kann die RF Engine in den Kraftstoffslot eingesetzt werden, um RF anstelle von Kraftstoff zu verbrauchen. Standardmäßig verbrauchen alle Crafter 40RF/t und können 40.000RF aufnehmen (dies kann in der Konfigurationsdatei des Mods geändert werden). Da höherstufige Crafter schneller arbeiten, sind sie auch wesentlich sparsamer. 
+
+Die GUI des Crafter enthält ein 3x3-Rezeptgitter, einen Rezeptproduktslot mit einem Fortschrittspfeil darüber, ein 3x3-Raster mit Elementeingabeschlitzen, einen Ausgangsschlitz, eine Kraftstoffverbrennungsanzeige und einen Kraftstoffslot. Gegenstände, die im linken 3x3-Raster platziert sind, werden verwendet, um ein Craftingrezept zu erstellen. Das Ergebnis dieses Rezepts wird im mittleren GUI-Slot angezeigt. Das rechte 3x3-Raster sind Eingabeslots. Gegenstände in diesen Slots werden automatisch verbraucht, wenn der Crafter arbeitet. Vom Crafter hergestellte Gegenstände werden in den einzelnen Ausgabeschlitz oben rechts gelegt.
+Crafter versuchen, alle Artikel in ihren Ausgabeschlitzen automatisch in benachbarte Bestände auszugeben. Dieses Verhalten kann Seite an Seite mit dem PA-Schraubenschlüssel geändert werden, damit die Seiten neuen Kraftstoff oder neue Werkzeuge aufnehmen können und der Crafter vollständig automatisiert werden kann.

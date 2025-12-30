@@ -1,0 +1,66 @@
+Minecraft is a single-player game (unless you're playing on multiplayer). You survive by yourself and your only friends are the animals that you will probably cook for food! Yet you might want to roam the world with friends. Just experience it with other players and more mobs
+
+
+== Joining a Server ==
+How to get a server
+
+Find a server on a Minecraft server listing website.
+Read the descriptions and pick one you like. Find its IP and copy it to the clipboard  (Ctrl + C for Windows/Linux and ⌘ Cmd + C for macOS). The IP address is often a number displayed next to the name of it, or a domain.
+Start Minecraft, click Multiplayer and click Add Server. There should be two boxes, Server Name and IP Address. The server name does not matter a bit. Call it what you like. Now press Ctrl + V (Windows/Linux) or ⌘ Cmd + V (macOS) in the Server Address box to enter the IP or type it in. Confirm your entries by clicking done.
+You will be taken back to the server list. The server should appear on it with green bars on the right.
+Click the server, click Join Server. Normally, you will be brought directly into the server. If you are not, there is a list of common errors below to help you.
+
+
+== Possible errors ==
+Things will go wrong at some point, so here are some error messages and what they mean. These messages might appear when you click Join Server:
+
+
+=== "Disconnected by server. Outdated server!" or "Disconnected by server. Outdated client!" ===
+If Minecraft updated recently, you might get these error messages. They mean that you are running a different version than the server. You can only connect to servers with the same protocol version as your client. You can create a new profile in the launcher with the version the server is running or you will have to wait for the server to update, that may take more or less time depending of the server owners' reactivity.
+
+
+=== "You are not whitelisted on this server!" ===
+Some servers enable a whitelist system to prevent others from joining - usually, to be whitelisted, you have to ask on some external website, usually where you found the server.
+
+
+=== "You are banned from this server!" ===
+Your account or your IP got banned from the server. To be un banned from a server, you need to take contact with an administrator of the server, and request to be unbanned. If it's a server you have never heard of you may have been IP banned meaning your IP address was blocked.
+
+
+=== "Disconnected by Server. Invalid session (Try restarting your game)" ===
+When you log in to Minecraft you get a session ID which the Mojang servers keeps track of. Only the one with the latest session ID for your account are allowed to join servers (which have online mode on). Do as the message says and restart your game. You can't join a server if you use a cracked Minecraft launcher unless the server has set its properties to online-mode=false.
+
+
+=== "Cannot connect to server" ===
+This appears next to the list of servers. This means you couldn't reach to the server at all. The server might be down, you may not have an internet connection, or the server didn't respond in time (because of lag).
+
+
+=== "Cannot resolve hostname" ===
+This appears next to the list of servers. This means that there is no server with that name. Check the address and try again.
+This sometimes happens when the server was shown as online to you sometime ago, but when you look at the server list again, it would be in the list but offline.
+
+
+=== "End of stream" ===
+This may happen if you try to connect too rapidly to a server; disconnect, wait a bit and try to reconnect, it should work.
+
+
+=== "The authentication servers are currently down for maintenance." ===
+The server that Minecraft uses to check your session ID are currently down. You can check the current status at help.minecraft.net under Service Statuses
+
+
+=== Java error, such as java.lang.aMethodWhichReturnedAStackTrace(): An error message ===
+This might be different depending on the error message. Search the web for others with the same problem, and you might find a solution.
+
+
+=== "Buffer overflow" ===
+Check this link for information.
+
+
+== What happens on the server ==
+Multiple archetypes of Minecraft servers exist, distinguished by the unique gameplay features, rules, and societal structures which they implement. No two servers are the same, and frequently the line between archetypes is blurred or indistinguishable. Many special types of servers rely on modded versions of the server software, such as Bukkit. Modded server software is not supported by Mojang. Bukkit (and other modified server software) servers may have plugins that modify the experience from the vanilla server. If on a bukkit server, one can type /plugins. You can then do research on what the plugins do.
+If you are having a slow device, you may encounter a huge lag strike upon entering the server. Lag happens when there are too many moving beings on the server, and the computer is not advanced enough to calculate lots of movements at once. Lag happens more often when two (or more) players are far apart from each other. The computer only "cares about" the chunks around you, but not those far away, so forcing the computer to load in separate far locations can mean lag.
+For a list of common server types, go to the Server page.
+This is true for the unmodified server software:
+
+You will spawn in the server's spawn point. By default, servers have a protected area 16 around the spawn where you won't be able to break blocks or interact with stuff.
+On the left hand side of the screen is the chat, where people can send messages. The default key to type messages in the chat is the T key. You can also type commands into the chat, which does various things. For a list of commands available for you to use, type /help

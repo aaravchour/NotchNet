@@ -1,0 +1,12 @@
+The Luminous Crafting Table is a block added by Astral Sorcery. It is the first tier of crafting altar and is used throughout the Exploration chapter of the Astral Tome.
+The Table will gather Starlight when exposed to the sky. This amount increases as it approaches midnight and the higher up it is placed, with the maximum efficiency being when placed at a Y-level above 127.
+Right-clicking it will open its UI where items can be placed, just like in a Crafting Table. When a valid recipe is created the output item appears on the right-hand side. However, the crafting output cannot be directly picked up; instead, the Table must be right-clicked with a Resonating Wand when enough Starlight is currently gathered in the Table, consuming the inputs and dropping the output above it after a few seconds.
+
+
+== Recipe ==
+
+Requires light from a Collector Crystal.
+This recipe does not work any longer. To get a luminous crafting table in newer editions, one must place a crafting table directly under a Collector Crystal and then dig up until it is open to the sky.
+
+
+== Astral Tome entry ==

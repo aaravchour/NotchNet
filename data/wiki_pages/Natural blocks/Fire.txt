@@ -1,0 +1,236 @@
+Fire is a non-solid block that can spread to nearby flammable blocks and destroy them.
+Soul fire is a dimmer turquoise variation of fire that is created when soul sand or soul soil is ignited. Soul fire deals more damage than normal fire and does not spread.
+
+
+== Obtaining ==
+Fire cannot be obtained as an item under any circumstances in Java Edition, though in Bedrock Edition both fire and soul fire may be obtained as an item via inventory editing.
+
+
+=== Natural generation ===
+Fire naturally generates in fire patches across the terrain of the Nether. Soul fire generates exclusively in soul sand valley biomes in the Nether. However, it exclusively generates on soul soil; it does not generate on soul sand within either the same biome nor in the nether wastes biome. 
+Fire also generates on top of netherrack in some treasure room bastion remnants. Soul fire also generates in ancient cities.
+In the End, fire generates on bedrock blocks on top of end spikes, at the same location as the end crystals.
+
+
+=== Post-generation ===
+Lava generated next to flammable blocks can naturally cause fires.
+Fire spreads quickly across flammable blocks, and can spontaneously ignite when flammable blocks are near lava, even though many blocks that should be flammable cannot catch fire from nearby lava.
+Lightning strikes can also set fires, regardless of whether they are created naturally, redirected to lightning rods, summoned by a trident enchanted with Channeling, or created using the /summon command.
+Placing an end crystal on bedrock or obsidian in the End causes fire to appear at the end crystal's location.
+The explosion from sleeping in a bed in the Nether or the End creates fire, as does the explosion of a ghast fireball or the impact of a blaze fireball. Using a charged respawn anchor in the Overworld or the End also creates fire from the explosion.
+
+
+== Usage ==
+
+
+=== Placement ===
+
+Fire can be placed using flint and steel or a fire charge. Fire created on soul sand or soul soil becomes soul fire.
+When placed, a fire burns for a short and randomly determined amount of time. If nothing flammable is adjacent to it, the flames die out. Water that touches fire extinguishes it.
+It cannot be placed suspended in midair, even with commands.
+
+
+=== Burning entities ===
+Players and many mobs burn when exposed to fire. Burning obstructs the lower portion of the player's view. While inside a fire block, the fire inflicts damage at a rate of 1 per half-second unless the player or mob has Fire Resistance or a total Fire Protection of 7 or higher.‌ When the player is on fire outside the fire block, they take damage at 1 per second. This is the same rate that the player gains health in Peaceful difficulty, so burning alone cannot kill the player in this mode. Soul fire deals damage at a rate of 2 per half-second, making it more dangerous than normal fire. After leaving a fire source, the player or mob continues burning for some time depending on how long it was exposed to the fire (stored in a Fire tag shared by all entities). Players and mobs that are burning can be extinguished by powder snow, rain, water or a cauldron.
+Most dropped items that are in fire briefly catch fire and disappear. This includes the item forms of blocks that would not be flammable if placed, including obsidian. The only exceptions are these netherite-related items: netherite tools and weapons, netherite armor, blocks of netherite, netherite scrap, netherite ingots, and ancient debris.
+If a mob able to drop meat dies while on fire, it drops the cooked version of it, with the exception of fish that is dropped by polar bears‌ or guardians. This also applies to the zombie's uncommon potato drop; if a zombie dies while on fire and should drop a potato, it becomes a baked potato.‌
+Most Nether mobs are invulnerable to fire and cannot burn. Exceptions include skeletons, as well as endermen, piglins, piglin brutes, and hoglins. Zoglins are also invulnerable to fire.
+Burning is not considered a status effect and therefore cannot be cured by milk.
+
+
+=== Spread ===
+
+Fire spreads over flammable surfaces and can climb up walls, across floors and ceilings, and over small gaps. More precisely, a fire block can turn any air block that is adjacent to a flammable block into a fire block. This can happen at a distance of up to one block downward, one block sideways (including diagonals), and four blocks upward of the original fire block (not the block the fire is on/next to). Therefore, if the player is using fire to build a fireplace, caution is needed. Blocks in the way do not prevent fire from igniting blocks above it—so even if the player protects a wooden roof with cobblestone between it and the fire, the fire ignores that cobblestone.
+Fire spreads from a still lava block similarly: any air block one above and up to one block sideways (including diagonals) or two above and two blocks sideways (including diagonals) that is adjacent to a flammable block may be turned into a fire block.
+Unlike normal fire, soul fire cannot spread and does not burn any flammable blocks nearby.
+Fire that naturally spreads into a valid nether portal frame activates the portal.
+
+
+==== Flammable blocks ====
+Fire can spread onto and burn away any flammable block (or in the case of TNT, ignite it). On the other hand, a fire that is not adjacent to any flammable block and not on top of a forever-burning block does not spread, even to another flammable block within the normal range.
+In the following table, the higher the ignite odds, the more quickly a block catches fire if the fire is available to spread there. The higher the burn odds, the more quickly a block on fire burns away. These are relative values; actual ignite odds and burn time depends not only on these values, but on difficulty, rain, the age of the fire, the direction of the block relative to the fire, and multiple random values including how long the fire waits between block ticks and further checks based on the previous factors. Fire spread is reduced if tries to spread to a block more two blocks higher than itself. Fire spread is further reduced by 50% if the flammable blocks in a humid biome (swamp, mushroom fields and jungle, excluding sparse jungle). 
+
+
+==== Non-flammable blocks ====
+Non-flammable blocks can be lit but do not burn away, and such fire does not spread. Non-flammable blocks other than netherrack or magma blocks extinguish themselves quickly. In the End, bedrock also does not extinguish itself.
+If a block is a part of a flammable material, it catches fire from lava. However, certain blocks do not burn away:
+
+
+=== Extinguishing ===
+Fire burns out after a while when on a non-flammable block other than netherrack or magma blocks; however, punching or hitting the side of a burning block extinguishes the fire on that side, making the Fire extinguished sound (see below). Hitting fire while holding a tool does not reduce the tool's durability. Placing blocks on the fire also extinguishes it. Water and lava extinguish fires that they flow into, and thrown splash and lingering water bottles extinguish fires in the block hit and the four blocks horizontally surrounding it.
+Mobs on fire are extinguished when in water or in a cauldron containing it. In the latter case, one layer of water disappears.
+Fire extinguishes more quickly if nothing flammable is present, and soon after it consumes a flammable block immediately beneath it.
+
+Fire has an age property that determines how it extinguishes, ranging from age 0 when the fire is set, and growing to age 15. For fire older than age 3, if nothing flammable is adjacent to the fire, or if the block below doesn't have a solid top surface, the fire is extinguished by the next block tick. At age 15, as long as there isn't a flammable block below the fire, a block tick has a 1⁄4 chance to extinguish the fire.
+If a fire is exposed to rain, it extinguishes quickly.
+
+Rain affects fire if it falls directly onto the fire, or into the four adjacent blocks. Specifically, no matter the age, any block tick has a 20–65% chance of rain extinguishing the fire, depending on the fire's age: 20 percent plus 3 percentage points per age of the fire.
+
+Soul fire never extinguishes unless punched or when it receives a block update and finds there is no soul soil or soul sand below it.
+
+
+=== Eternal fire ===
+When lit, netherrack and magma blocks maintain fire forever, unless extinguished by any method except rain. Bedrock in the End also burns eternally. Soul fire burns eternally anywhere. Eternal fire cannot exist on the sides of these blocks.
+The blocks that can support eternal fire are defined per-dimension, in the #infiniburn_overworld, #infiniburn_nether, and #infiniburn_end block tags.
+If /gamerule doFireTick is false, fire lasts forever until it is put out by the player, and does not spread or affect flammable blocks.
+
+
+=== Bees ===
+Setting fire to a beehive or bee nest causes the contained bees to be ejected from the block.
+
+
+=== Piglins ===
+Soul fire repels piglins. Like hoglins, they are not fire-resistant, which is unique among Nether mobs.
+
+
+== Sounds ==
+
+
+=== Generic ===
+Java Edition: 
+
+Bedrock Edition (Normal fire):
+
+Bedrock Edition (Soul fire):
+
+
+=== Unique ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+Fire:
+
+Bedrock Edition:
+Fire and Soul Fire:
+
+
+== History ==
+
+
+=== Fire "items" ===
+The following content is transcluded from Technical blocks/Fire.
+
+
+==== Appearances ====
+
+
+===== Fire =====
+
+
+===== Soul Fire =====
+
+
+==== Names ====
+Java Edition
+Item names did not exist prior to Beta 1.0.
+
+Beta 1.0 - 14w21b: Fire
+(As block name, item does not exist) 14w25a and onwards: Fire
+Bedrock Edition
+Uncraftable items did not have visible displayed names prior to v0.5.0 alpha.
+
+v0.5.0 alpha - ?: Fire
+
+
+== Issues ==
+Issues relating to "Fire" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Sometimes, in Survival, when the player walks into a fire briefly and walks out quickly enough, the player takes minor damage, but does not stay on fire.
+Fire uses two texture files, one for the inner fire and one for the outer fire.
+Each end crystal continuously generates a block of fire at its location, if the crystal is placed or generated in the End.
+While soul fire was not announced until MINECON Live 2019, a similar-looking blue fire was seen in the spin-off game Minecraft: Story Mode, years earlier.
+Minecraft Dungeons also has a similar feature whenever a wraith attacks.
+There is also a purple fire seen in Minecraft Dungeons.
+Soul fire can not be placed on any other block other than soul sand or soul soil, even if it's placed with /setblock.‌
+Both types of fire have the third highest number of possible block state combinations, at 512, behind note block's 800 and redstone dust's 1296.
+
+
+=== Bedrock Edition ===
+Burning mobs have the same animation as Java, yet differently scaled.
+The fire spreading mechanic is based on how it would be prior to Java Edition Beta 1.6.
+The sides of the fire model in this edition are rotated like in versions before Java Edition 1.8.
+When the player is on fire, there is a different burning animation on the screen than in Java Edition (it partially obstructs view when looking downward).
+Players with Fire Resistance do not visibly burn when in fire sources.
+Soul fire can be placed on other blocks with /setblock, but eventually extinguish.‌
+
+
+== Gallery ==
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

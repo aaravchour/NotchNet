@@ -1,0 +1,325 @@
+A frog is a passive mob found in swamps. Frogs eat small slimes and magma cubes. A frog can produce one of three kinds of froglights from eating magma cubes, depending on the type of frog.  
+
+
+== Spawning ==
+Groups of two to five frogs can spawn in swamp and mangrove swamp biomes. Frogs can also be spawned by growing from tadpoles.
+There are three frog variants, determined by the biome in which the tadpole grew up:
+
+Notes
+
+
+== Drops ==
+Frogs drop 1–3 when killed by a player or tamed wolf, while 1–7 is dropped upon successful breeding.
+
+
+== Behavior ==
+On land, frogs will slowly wander, jumping at random. They can jump 8 blocks high and take 5 less damage from falling than most other mobs. They prefer jumping on lily pads and big dripleaves, and will usually jump to blocks that are higher up. 
+In water, frogs move much faster. They will generally swim upwards and remain at the water's surface, but will swim downwards if lured by a player. Frogs cannot be hurt by drowning.
+Occasionally, they may croak and inflate their vocal sac.
+
+
+=== Breeding ===
+
+Frogs will follow any player holding a slimeball within 6 blocks of them. 
+Feeding two frogs a slimeball causes them to enter love mode, causing one of the frogs to become pregnant, similar to turtles. The pregnant frog then searches for a water block with at least one adjacent water block (flowing or source) with air above to lay frogspawn. This spawn later hatches into tadpoles, which subsequently grow into frogs.
+Unlike all other mobs with baby variants, the tadpole is treated by the game as a completely different mob from the frog.
+
+
+=== Attacking ===
+Frogs attack by using their tongue to pull certain mobs into their mouth, whereupon the mob instantly despawns without a death animation.
+Frogs attack small slimes, which drop slimeballs when killed.
+Frogs also attack small magma cubes, leaving a froglight block. When the magma cube gets targeted, the frog will walk towards it at a faster pace before attacking. The color of froglight that drops depends on the type of frog that attacks the magma cube:
+
+
+== Sounds ==
+Java Edition:
+Frogs use the Friendly Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Frogs have entity data associated with them that contain various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+
+== Advancements ==
+
+
+== Video ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Frog" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+The warm frog is based on the grey foam-nest tree frog, a real-life species of frog native to Africa.
+The temperate frog is based on brown bullfrogs.
+Originally, frogs were meant to eat fireflies, but this was scrapped as in real life some fireflies are poisonous to some frogs. Instead, now they can eat small slimes and small magma cubes.
+During the frog's early development, the developers didn't know what the frog was going to eat, so they made the mouth huge. Some early ideas for what the frog was going to eat included bees.
+At one point in Bedrock Edition's development, in beta 1.18.10.26, frogs could eat goats. However, this was later removed as it was leftover prototype code. This was later referenced in the trailer for Minecraft Live 2022, where a frog eats a goat.
+Despite frogs only spawning in mangrove swamps and swamps, a cold frog can spawn naturally if a cold biome borders a swamp or mangrove swamp.
+In Minecraft, all frogs seems to have vocal sacs. But in real life, female frogs lack the vocal sacs present in the males. However, since all Minecraft animals are sexless, it's logical for all frogs to have vocal sacs.
+Photographing a frog in the 15 Year map would not get the sticker. it can only be found after finising the Feeding Frenzy minigame.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Cosmetics ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Developer screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Concept artwork ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External Links ==
+Meet the Frog — Minecraft.net on May 30, 2022
+Which Frog Are You — Minecraft.net on June 13, 2022
+Mob Menagerie: Frog — Minecraft.net on November 22, 2022

@@ -1,0 +1,23 @@
+Lets your agent return the name of the block in the specified direction.
+
+
+== Syntax ==
+inspect <direction: string>
+
+
+== Arguments ==
+direction: string
+
+Specifies the direction of Agent to verify the name of the block.
+Must be one of:
+forward to inspect the block on the front.
+back to inspect the block on the back.
+left to inspect the block on the left-hand side.
+right to inpect the block on the right-hand side.
+up to inspect the block on the top-hand side.
+down to inspect the block on the bottom-hand side.
+
+
+== Result ==
+Fails if the arguments are not specified correctly.
+On success, returns the form of the block in the specified direction. See block id for the complete list.

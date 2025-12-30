@@ -1,0 +1,37 @@
+The pinto cow was a cream and brown-colored variant of the cow found only in Minecraft Earth.
+
+
+== Appearance ==
+Pinto cows were a cream and brown-colored variant of the cow. They had cream-colored fur with large brownish patches all throughout the body. They had light-brown eyebrows and horns with white tips and a faint pink muzzle. They also possessed light-brown hooves.
+
+
+== Behavior ==
+
+Similar to normal cows, pinto cows wandered around, mooing, and breathing occasionally. They avoided water, lava, and walking off cliffs high enough to cause fall damage. They fled for a few seconds when harmed.
+
+
+== Obtaining ==
+The pinto cow was an uncommon mob drop found in cow tappables. They were also obtainable in Season 15 where the player collected 8 types of leaves using shears in adventures.
+
+
+== Drops ==
+When killed, pinto cows dropped:
+
+0–2 Leather
+1–3 Raw Beef (Cooked Beef if killed while on fire)
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Trivia ==
+Pinto refers to a coat color commonly seen in horses, and rarely seen in cows, as seen by the pinto cow itself.
+
+
+== Gallery ==

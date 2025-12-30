@@ -1,0 +1,100 @@
+The camera is an entity that is capable of capturing and storing images. In Minecraft Education, it works together with the portfolio item to create collections of photos.
+
+
+== Obtaining ==
+The camera can be obtained in the Creative inventory in Minecraft Education. It can be obtained either by NBT editors, inventory editors, or glitches in Bedrock Edition.
+To get the block form of the camera in Bedrock Edition using an NBT editor, you need to set the item name of the block in the inventory slot (name: ) to item.camera, then you need to add a compound tag called Block and inside of that put the int tag version: 18040335 and the text tag name: minecraft:camera into the block compound tag. For the usable "spawn egg" form of the camera, you only need to set the item name of the block in the inventory slot (name: ) to camera; you do not need to add the block compound for this form of the camera. 
+
+
+== Usage ==
+Using a camera from the inventory captures a first-person screenshot. It can also be placed, creating a camera entity that can track the user, and take pictures from the camera's perspective. Photos that are taken using the camera appear in the portfolio.
+Close-up snapshots of an item on the ground can be taken by holding the Shift key while right-clicking.
+Photos that are taken with the camera block are stored in %localappdata%\Packages\MinecraftUWP_8wekyb3d8bbwe\LocalState\screenshots.
+
+
+== Sounds ==
+
+
+=== Generic ===
+
+
+=== Unique ===
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+=== Entity data ===
+See Bedrock Edition level format/Entity format.
+
+
+== Video ==
+
+
+== History ==
+
+
+=== Future ===
+At the Minecraft Pocket Edition panel at MineCon 2012, as well as one of Jbernhardsson's livestreams, it was stated that future plans include trying to have a proper use for cameras, perhaps an easier way to take screenshots and share them with others. In the BlockTalk Q&A, the camera was briefly mentioned as part of a broader "sharing" theme planned for Bedrock Edition in the future.
+It later got implemented into Minecraft Education, using the camera to make screenshots and share them in a special book.
+
+
+== Issues ==
+Issues relating to "Camera" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+A camera prevents a Book and Quill from working. Attempting to craft it or obtain it by commands gives a regular book instead, due to non-implementation of photo attaching to written books.
+The camera can take a screenshot, which appears a bit smaller with a thick paper outline having cuts on its edges, making it look like an old photograph.
+This feature is hidden from the Creative inventory and from the /give command item menu.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Portfolio
+Screenshot
+
+
+== References ==

@@ -1,0 +1,40 @@
+Night Vision is a status effect that enhances the player's ability to see in darkness and underwater.
+
+
+== Effect ==
+Night vision greatly increases the brightness, so the player can easily see in a light level of 0. However, it is not as bright as a light level of 15 (e.g. with the "Moody" brightness setting, it is similar to block light level 12–13 and no sky light in the overworld within the "Bright" brightness setting), and as such the player can distinguish between light levels.
+In Java Edition 20w14∞, in certain dimensions with unique lighting, the player can see the color spectrum that is not parts of the vanilla lighting system (e.g. vivid shades of green, blue, etc.) easily as the effect is not as fully bright, even with the "Bright" brightness setting (in other cases, in some dimensions (such as Easter Egg dimensions like ant) already have the full brightness at any light levels (including light level 0), so the night vision effect is indifferent from the player without the effect in the dimensions). However, the extreme darkest saturated color that can be seen in the uniquely generated dimension with this status effect is  blue within the relative luminance value of exactly 0.0722 (as in an Easter egg dimension called blue).
+
+
+== Causes ==
+
+
+== Brewing ==
+
+
+== Data values ==
+
+
+=== ID ===
+
+Java Edition:
+
+Bedrock Edition:
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Trivia ==
+Mobs are unaffected by Night Vision due to its purely visual effects. However, withers, ender dragons, and giants are completely immune to this effect.
+If used in the Nether, the fog becomes brighter and more vibrant than it normally is.
+If used in the End, everything appears tinted pink. Endermen and the end portal appear white when far enough away.
+If submerged in lava, the screen appears bright orange.
+If in water in a swamp biome, the view is foggy and obscured.
+Java Edition players usually do not use or make this potion because of full bright resource packs or editing the options.txt file in the .minecraft folder.
+
+
+== References ==

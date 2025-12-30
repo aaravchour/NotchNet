@@ -1,0 +1,44 @@
+This page attempts to document the full history of the textures of blocks, their additions, changes, and removals. Additions and changes made to the models of blocks and any new blocks that reuse prior textures will not be documented here. Texture files that are completely identical to other texture files will also be largely ignored for the time being.
+
+
+== List ==
+
+
+=== Used block textures ===
+
+
+==== Blocks which use entity rendering ====
+These textures are also used for blocks. However, the blocks in question render as entities rather than blocks. As such, the textures they use are much more akin to entity textures.
+
+
+=== Texture Update pre-releases ===
+These textures were released as one of the two Texture Update resource packs but have never appeared in a full version.
+Note: this section only includes textures that are exclusive to the Texture Update preview resource packs. Unchanged textures from before which were included with the pack, as well as textures that went on to make it into the game officially, are not currently included.
+
+
+=== Joke version exclusive textures ===
+These textures only existed in specific joke versions and never appeared in official releases.
+
+
+=== Textures used for block particles ===
+These textures are not used directly for any blocks but are instead used for defining particles they emit upon being broken, fallen on, or sprinted on.
+
+
+=== Placeholder textures ===
+
+This section documents both placeholder textures for errors, and those formerly used for animated blocks.
+
+
+==== History ====
+
+
+===== Missing textures =====
+
+
+===== Block placeholder textures =====
+
+
+===== Animation placeholder textures =====
+
+
+== Unused textures ==

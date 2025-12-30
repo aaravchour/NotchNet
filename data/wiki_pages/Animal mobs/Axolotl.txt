@@ -1,0 +1,335 @@
+An axolotl is a passive bucketable aquatic mob found in lush caves. Axolotls attack fish, squid, drowned, and guardians; this makes axolotls useful for assisting with aquatic combat. Axolotls also grant players regeneration effects.
+
+
+== Spawning ==
+Axolotls spawn underwater in the lush caves biome and when there is a clay block less than five blocks below the spawning space.
+
+
+=== Colors ===
+Axolotls can be one of five colors: pink (leucistic), brown (wild), gold, cyan, and blue.
+When breeding axolotls, there is a 1⁄1200 (0.083%) chance of the offspring having the blue mutation, leaving 1199⁄1200 (99.917%) chance of matching one of the parents (including blue parents).
+
+
+== Behavior ==
+Axolotls are passive toward players and can be attached to leads. Axolotls give Regeneration I for 100 game ticks (5 seconds) per axolotl in the fight, up to a duration of 2400 game ticks (2 minutes)‌, and remove Mining Fatigue when a player kills a mob that is in combat with an axolotl.
+Axolotls attack all aquatic mobs except turtles, dolphins, frogs and other axolotls. They also attack the drowned. An axolotl deals 2 points of damage per attack. However, axolotls do not attack the player.
+After killing a non-hostile mob, there is a two minute cooldown before another non-hostile mob can be hunted. Axolotls prioritize attacking hostile mobs over non-hostile mobs.
+If an axolotl takes damage underwater, it may play dead, dropping to the ground for 200 game ticks (10 seconds) while gaining Regeneration I. Hostile aquatic mobs ignore healing axolotls. There is a 1⁄3 chance for an axolotl to play dead to recover 4. In addition, if either a random integer from 0–2 (inclusive) is less than the amount of incoming damage, or the axolotl's health before the damage is dealt is less than 50% of its maximum health, it plays dead. 
+Axolotls can leave the water and wander about on land. When an axolotl leaves the water, it wanders as far as 8 or 9 blocks beyond the water's edge before returning to the water, as long as there is water at least 2 blocks deep within 16 blocks of the axolotl. If 2-block-deep water is outside this range, the axolotl can wander off randomly on land in search of more deep water, and die after 6000 game ticks (5 minutes) exposure out of water. Axolotls are not attracted to shallow (1 block deep) water. They require water at least 2 blocks deep within 16 blocks to pathfind to the water.
+Axolotls can also die out of water as passengers in a boat. Unlike fish, dolphins, and squid, axolotls do not die on land in rain or in a thunderstorm.
+Unlike most mobs, axolotls cannot be moved by flowing water. However, they are still affected by bubble columns.
+As aquatic mobs, axolotls take extra damage from the Impaling enchantment.‌‌ Unlike other aquatic mobs, they cause nearby pufferfish to inflate.
+Axolotls can be renamed by placing a bucket of axolotl into an anvil, the same as if renaming any other item.‌ Axolotls that are picked up with a water bucket and placed back into the world do not despawn.
+
+
+=== Breeding ===
+
+Adult axolotls can be led and bred with buckets of tropical fish. After breeding, a baby axolotl spawns and 1–7 experience is generated. The parents cannot be bred again for 5 minutes in Java Edition or 1 minute in Bedrock Edition. The baby axolotl has a 1⁄1200 chance to be the rare blue variant; otherwise, it inherits the color of one parent at random. Babies follow adults, and grow to adulthood in 20 minutes. The growth of baby axolotls can be accelerated using buckets of tropical fish; each use reduces the remaining growing time by 10%.
+
+
+== Sounds ==
+Java Edition:
+Axolotls use the Friendly Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Axolotls have entity data associated with them that contain various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Axolotl" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+The Axolotl is the first Minecraft mob to be based on a living fossil, the second being the Nautilus.
+In the release notes Minecraft Launcher there is an encrypted message T⍑ᒷ ᔑ ̇/𝙹ꖎ𝙹ℸ ̣ ꖎᓭ ᔑ∷ᒷ リ𝙹ℸ ̣ ∴⍑ᔑℸ ̣ ℸ ̣ ⍑ᒷ|| ᓭᒷᒷᒲ, which translates to "The Axolotls are not what they seem".
+Axolotls are small salamanders that are endemic to Mexico, which are critically endangered; following Mojang Studios' trend of adding endangered species such as polar bears, giant pandas (no longer endangered as of 2025), sea turtles, and bees to the game in order to raise awareness among players.
+The probability of a blue axolotl spawning is 1 in 1200 because that is approximately the number of axolotls left in the wild in real life.
+Axolotls can eat only buckets of tropical fish and not tropical fish items because axolotls in real life eat only living fish.
+Even though they are not added in the game, a green variant appeared in both the Caves & Cliffs: Part I announcement trailer and Caves and Cliffs recap. When asked on a livestream, Agnes said she cannot say why the green variant was cut from the game.
+Both the "play dead" behavior and the regeneration ability of axolotls are based on the abilities of real life axolotls, who fake their death in the face of a predator or a threat.
+Because real axolotls do not actually vocalize, the sounds of axolotls were recorded from the incidental "hiccups" and "burps" real axolotls occasionally make when surfacing, as well as heavily edited dog sounds.
+As of 2025, there hasn't been a LEGO Minecraft wild axolotl variant featured in sets.
+
+
+== Gallery ==
+
+
+=== Animations ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Development images ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Concept artwork ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

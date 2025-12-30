@@ -1,0 +1,9 @@
+The Book Binder is a block added by Mystcraft. It is used to create Descriptive Books.
+
+
+== Recipe ==
+
+
+== Usage ==
+
+Place Leather in the top left slot and pages in the wide central area to get a Descriptive Book in the top right slot. A Linking Panel must be the first page. Subsequent pages can be pages with symbols or blank pages (which will randomly generate symbols). Books are required to be named, which can be done by entering the desired name in the text input bar at the top of the GUI. Clicking with a Notebook with stored pages will place them in the exact order in the Book Binder or click with an empty notebook to retrieve all the pages placed in the Book Binder. The Book's page order or composition cannot be changed after being removed from the Book Binder, though it can still be renamed in the Writing Desk.

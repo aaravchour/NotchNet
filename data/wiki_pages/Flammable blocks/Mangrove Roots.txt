@@ -1,0 +1,96 @@
+Mangrove roots are blocks that form as part of mangrove trees. Despite being a full block, they can be waterlogged.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Mangrove roots can be broken by hand, but using an axe is quickest. Mangrove roots drop themselves when broken with any tool.
+
+
+=== Natural generation ===
+Mangrove roots are generated in mangrove swamp biomes.
+
+
+=== Post-generation ===
+When mangrove propagules grow, they develop roots that can vary in size.
+
+
+== Usage ==
+Mangrove roots can be waterlogged, despite being a full block. Water does not spread out‌ and waterlogged mangrove roots follow the same mechanics as any other waterlogged block.
+Mobs do spawn on mangrove roots.
+
+
+=== Redstone ===
+Redstone circuits can pass their power level through mangrove roots and power other redstone components that are adjacent to the block, even when waterlogged.‌
+
+
+=== Crafting ingredient ===
+
+
+=== Composting ===
+Mangrove roots have a 30% chance of increasing the compost level in a composter by 1.
+
+
+=== Note blocks ===
+Mangrove roots can be placed under note blocks to produce "bass" sounds.
+
+
+=== Fuel ===
+When used in a furnace as fuel, mangrove roots last 15 seconds (smelting up to 1.5 items).‌
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Mangrove Roots" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Aquatic mobs can be placed inside waterlogged mangrove roots.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Muddy Mangrove Roots
+
+
+== References ==

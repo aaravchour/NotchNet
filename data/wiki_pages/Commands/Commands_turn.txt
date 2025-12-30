@@ -1,0 +1,21 @@
+Rotates an Agent in a specified direction by 90 degrees.
+
+
+== Syntax ==
+turn <direction: string>
+
+
+== Arguments ==
+direction: string
+
+Specifies the direction of Agent to rotate.
+Must be one of:
+left to rotate Agent leftward.
+right to rotate Agent rightward.
+
+
+== Result ==
+Always success; Agent is rotated in the specified direction as expected.
+
+
+== History ==

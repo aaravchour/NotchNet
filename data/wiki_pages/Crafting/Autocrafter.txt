@@ -1,0 +1,23 @@
+The Autocrafter is a processing machine added by GregTech 6. It is used for automatic crafting. It is powered by electrical energy or EU.
+
+
+== Recipe ==
+
+
+== Usage ==
+Using an Autocrafter always requires a Blueprint, on which the shaped crafting table recipe is written. A USB Stick containing the scanned Blueprint may be substituted. This creates ghost images of the exact set of ingredients, matching all NBT tags and metadata, from the Blueprint. Only they can be present in the input buffer.
+If there are any Meta-Tools in the crafting recipe, they must all be replaced with the Robot Arm Tip of the matching oredictionary variety in the Blueprint. Shapeless recipes matching the input ingredients will also be performed if no shaped recipe exists, just like a normal crafting table.
+
+
+== See Also ==
+Advanced Crafting Table (GregTech 6)
+Robot Arm Blade Tip
+Robot Arm Chisel Tip
+Robot Arm Cutter Tip
+Robot Arm Drill Tip
+Robot Arm File Tip
+Robot Arm Hammer Tip
+Robot Arm Rubber Hammer Tip
+Robot Arm Saw Tip
+Robot Arm Screwdriver Tip
+Robot Arm Wrench Tip

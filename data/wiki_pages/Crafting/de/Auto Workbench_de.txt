@@ -1,0 +1,24 @@
+Die Automatische Werkbank (eng. Auto Workbench), vorher bekannt als der automatischer Basteltisch (Autocrafting Table), ist eine Maschine hinzugefügt von BuildCraft. Es wird automatisch die Sachen herstellen von denen der Rezept schon eingefügt wurde und das Material dafür reingepackt wurde.
+
+
+== Rezept ==
+
+
+== Gebrauch ==
+Die grafische Benutzeroberfläche ist der normalen Werkbank ähnlich. Zutaten können zu der Automatischen Werkbank beliefert werden mit einen Trichter oder eine Schütte. Die hergestellten Produkte müssen dann raus gepumpt werden mit einen Holz-Transportröhre gekoppelt an einen Redstone Triebwerk oder beim nutzen eines BuildCraft's Gate-System. Das automatisches Herstellungs-System kann schon sehr aufwändig sein für komplizierte Rezepte.
+
+
+=== Beispiel ===
+
+Ein automatisches Herstellungs-System für einen IndustrialCraft 2 Advanced Circuit:
+
+Rubber und Uninsulated Copper Cables werden kombiniert um Copper Cables herzustellen.
+Die Copper Cables werden mit Redstone und Iron Plate kombiniert um einen Electronic Circuit herzustellen.
+Der Electronic Circuit wird mit Redstone, Glowstone und Lapis Lazuli kombiniert um einen Advanced Circuit herzustellen.
+Materialien können einfach in die Truhen, die direkt mit der Automatischen Werkbank verbunden sind, gelegt werden. Für kompliziertere Systeme kann es nötig sein, andere Zutaten mithilfe von Rohren hineinzutransportieren.
+
+
+== Anmerkungen ==
+Gegenstände die hineingepumpt werden, aber nicht zum Rezept gehören, werden aus dem System "rausspringen" und auf dem Boden verstreut sein.
+Gegenstände, die hineingepumpt werden, müssen dem exakten Gegenstand entsprechen und dürfen keine Variation dieses sein, d.h. die Gegenstände die sich die selben OreDict (dt. Erzverzeichnis) teilen können sich nicht gegenseitig ersetzen. Zum Beispiel nimmt die Automatische Werkbank, sofern man Eichenholz als Material im Rezept verwendet hat, auch nur dieses Holz an, und nicht beispielsweise Birken- oder Fichtenholz.
+Die Automatische Werkbank funktioniert auch wie die normale Werkbank.

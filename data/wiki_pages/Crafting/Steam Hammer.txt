@@ -1,0 +1,9 @@
+The Steam Hammer is a block from Flaxbeard's Steam Power. It is used to perform anvil actions with steam, rather than experience levels. Steam must be piped into the back face of the block. 
+The Steam Hammer must be placed directly above an Anvil to work. The GUI is identical in design and functionality to the Anvil GUI. When it is repairing or renaming a tool, it will be animated, displaying a forging-like motion on the anvil. Additionally, it will show the tool on top of the Anvil.
+Pipes can only be placed on the backside of the block, and Steam Gauges cannot be placed on any side.
+
+
+== Recipe ==
+
+
+== History ==

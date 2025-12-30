@@ -1,0 +1,37 @@
+Stops a given sound.
+
+
+== Syntax ==
+Java Edition
+stopsound <targets> [<source>] [<sound>]
+Bedrock Edition
+stopsound <player: target> [sound: string]
+
+
+== Arguments ==
+JE: <targets>: entityBE: player: target: CommandSelector<Player>
+
+Specifies the command's target.
+Must be a player name, a target selector or a UUID‌.  And the target selector must‌/should‌ be of player type.
+JE: <source>
+
+Specifies which category in the Music & Sound options the sound falls under. If it is *, stop sound of all category.
+Must be master, music, record, weather, block, hostile, neutral, player, ambient, voice, or *.
+JE: <sound>: resource_locationBE: sound: string: basic_string
+
+Specifies the sound to stop.
+In Bedrock Edition, must be a string. And it must be a single word that has no space or a quoted string. Should be a sound event defined in sound_definitions.json (for example, mob.pig.say).
+In Java Edition, must be a resource location which will be resolved during command execution into unregistered content or client-side content. Should be a sound event defined in sounds.json (for example, entity.pig.ambient).
+
+
+== Result ==
+
+
+== Output ==
+
+
+== History ==
+
+
+== See also ==
+/playsound, for playing a sound.

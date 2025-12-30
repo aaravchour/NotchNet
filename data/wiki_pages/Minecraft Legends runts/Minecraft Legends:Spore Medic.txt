@@ -1,0 +1,22 @@
+A Spore Medic is a Piglin that spreads Netherspores to heal wounded Piglins and damage their enemies within Minecraft Legends.
+
+
+== Spawning ==
+Spore Medics spawn during the night (Dusk) everywhere in the world. During the day (Dawn), they are summoned by Piglin Pits or Piglin Launchers in Piglin Outposts and Piglin Bases.
+
+
+== Drops ==
+The Spore Medics drops Lapis when defeated.
+
+
+== Behavior ==
+The Spore Medics heal wounded Piglins. They also spread Netherspores that make the air breathable for their species. They attack by breathing netherspores out of their nostrils, wich damages their enemies and heals their allies.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Gallery ==

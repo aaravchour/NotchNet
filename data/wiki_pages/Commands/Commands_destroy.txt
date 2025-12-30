@@ -1,0 +1,26 @@
+Makes your agent destroy a block or item in the specified direction.
+
+
+== Syntax ==
+destroy <direction: string>
+
+
+== Arguments ==
+direction: string
+
+Specifies the direction of Agent to destroy.
+Must be one of:
+forward to destroy block/item on the front.
+back to destroy block/item on the back.
+left to destroy block/item on the left-hand side.
+right to destroy block/item on the right-hand side.
+up to destroy block/item on the top-hand side.
+down to destroy block/item on the bottom-hand side.
+
+
+== Result ==
+Fails if the block was unbreakable or a non-solid block.
+On success, the Agent destroys the block/item by one hit as expected.
+
+
+== History ==

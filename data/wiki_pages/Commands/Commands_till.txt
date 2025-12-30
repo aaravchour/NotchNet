@@ -1,0 +1,26 @@
+Tills grass in the specified direction.
+
+
+== Syntax ==
+till <direction: string>
+
+
+== Arguments ==
+direction: string
+
+Specifies the direction of Agent to till the block.
+Must be one of:
+forward to till the block on the front.
+back to till the block on the back.
+left to till the block on the left-hand side.
+right to till the block on the right-hand side.
+up to till the block on the top-hand side.
+down to till the block on the bottom-hand side.
+
+
+== Result ==
+Fails if the arguments are not specified correctly or there is no till-able block in the specified direction.
+On success, returns if any till-able block was turned into farmland in the specified direction.
+
+
+== History ==

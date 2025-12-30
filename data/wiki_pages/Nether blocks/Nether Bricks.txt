@@ -1,0 +1,111 @@
+Nether bricks  are blocks used to form nether fortresses in the Nether.
+Red nether bricks, cracked nether bricks and chiseled nether bricks are decorative variants that do not naturally generate.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Nether bricks can be mined using any pickaxe. If mined without a pickaxe, they drop nothing.
+
+
+=== Natural generation ===
+Nether bricks form the walls and supporting pillars of all nether fortresses.
+
+
+=== Crafting ===
+
+
+=== Smelting ===
+
+
+== Usage ==
+Nether bricks are non-flammable and immune to ghast fireballs, making them a suitable shelter material for the Nether.
+If a nether bricks block is inside the whole bounding box of a nether fortress (not just inside the individual parts), nether fortress mobs (such as blazes and wither skeletons) can spawn on it if other normal conditions are met. It is not known if this is an exclusive property of the block.
+
+
+=== Crafting ingredient ===
+
+
+=== Stonecutting ===
+
+
+=== Note Blocks ===
+All types of nether bricks can be placed under note blocks to produce "bass drum" sounds.
+
+
+== Sounds ==
+
+
+=== Normal ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Chiseled and cracked ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Nether Bricks" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+The chiseled nether bricks have the symbol of a Wither Skeleton on them.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External Links ==
+Block of the Week: Nether Brick – Minecraft.net on September 2, 2018

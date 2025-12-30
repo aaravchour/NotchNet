@@ -1,0 +1,273 @@
+A flower pot is a decorative block that can contain flowers, bamboo, saplings, cacti, mushrooms, fungi, and other reasonably small plants.
+
+
+== Obtaining ==
+
+
+=== Natural generation ===
+Flower pots naturally generate in witch huts where they contain a red mushroom, the basement of igloos where they contain a cactus, and in woodland mansions, where they contain birch saplings, dark oak saplings, dandelions, poppies, blue orchids, alliums, azure bluets, red and white tulips, and oxeye daisies.
+Flower pots containing a dandelion can be found in some plains and savanna village houses. Flower pots containing a cactus or a dead bush can be found in some desert village houses. Flower pots containing a spruce sapling can be found in taiga village mason houses. Flower pots containing a poppy can be found in taiga village churches.
+
+
+=== Breaking ===
+Flower pots can be mined instantly using any tool or without a tool.
+A flower pot drops itself as an item (any plant or mushroom in it separately) when pushed by a piston or washed away with water.
+Lava can flow into the space of a flower pot, destroying it.
+
+
+=== Chest loot ===
+
+
+=== Crafting ===
+
+
+== Usage ==
+A flower pot can be used to hold mushrooms, fungi, and various plants. Plants that can be placed in a pot include any one block high flowers, saplings, ferns, dead bushes, cacti, bamboo, azaleas, mangrove propagule, and roots.
+Plants can be removed by using the interact button.
+In Java Edition, flower pots can be placed on any block, or over air.
+In Bedrock Edition, they must be placed on top of a full-block top surface, or the top of a fence, stone wall, or hopper. They cannot be placed on slabs and stairs unless those blocks are upside-down. Pots may also be placed on an upward facing trapdoor. If the trapdoor is opened, the pot will break.
+Flower pots are 3⁄8 of a block high and can be stepped on. It is not possible to walk from the top of a flower pot onto a full sized block without jumping. It is possible to jump from a flower pot onto a fence.
+The plant or fungus can be removed from the flower pot by pressing the use control. This places the item directly back into the player's inventory.
+They can be used to display cacti and wither roses without inheriting their damaging properties.
+Potted warped fungus can be used to repel hoglins.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+In Bedrock Edition, flower pots use the following block states:
+Bedrock Edition:
+
+
+=== Block data ===
+In Bedrock Edition, flower pot has a block entity associated with it that holds additional data about the block.
+See Bedrock Edition level format/Block entity format.
+
+
+== Achievements ==
+
+
+== History ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Flower pot "item" ===
+
+
+==== Appearances ====
+
+
+==== Names ====
+Java Edition
+12w34a - 13w25b: [Has no defined name, rendering a minimum-length text box if highlighted]
+13w25c - 14w21b: tile.flowerPot.name
+When given using the /give command, it is announced as tile.flowerPot.name.
+
+
+== Gallery ==
+
+
+=== Renders ===
+Flowers
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+Saplings
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+Mushrooms
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+Roots and bushes
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Other ===
+
+		
+			
+			
+		
+
+
+== Issues ==
+Issues relating to "Flower Pot" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+The flower pot is based on a suggestion from Reddit, like ender chests and item frames.
+Flower pots break falling blocks.
+If a plant that has been named is put in a flower pot, the plant loses its name.
+The inside of the flower pot in Java Edition uses the center 4x4 pixels of the dirt texture while Bedrock Edition uses the center 6x6.
+
+
+== References ==

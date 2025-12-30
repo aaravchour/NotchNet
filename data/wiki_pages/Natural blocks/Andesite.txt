@@ -1,0 +1,113 @@
+Andesite is a block of igneous rock, most often found in large pockets in the ground.
+ Polished Andesite is the polished version of andesite.
+
+
+== Obtaining ==
+
+
+=== Natural generation ===
+
+Andesite can generate in the Overworld in the form of ore blobs. Andesite attempts to generate in two batches. The first batch generate 2 times per chunk in blobs of size 0-864, from elevations 0 to 60, in all biomes. The second batch has 1⁄6 chance to generate blobs of size 0-864, from elevation 64 to 128. In Bedrock Edition, andesite can replace stone, diorite, granite, polished andesite‌, polished diorite‌, and polished granite‌. In Java Edition, andesite can replace stone, diorite, granite, tuff, and deepslate.
+One block of polished andesite can be found in igloo basements. Polished andesite can also be found in the "nature", "forge", and "large jail" rooms of woodland mansions.
+In Bedrock Edition, andesite generates naturally in coral reefs, replacing some coral as part of coral crusts.
+
+
+=== Breaking ===
+Andesite can be mined using any pickaxe. If mined without a pickaxe, it drops nothing.
+
+
+=== Crafting ===
+
+
+=== Stonecutting ===
+
+
+=== Trading ===
+Journeyman-level mason villagers have a 2⁄7 chance to sell 4 polished andesite for one emerald as part of their trades.‌
+Apprentice-level stone mason villagers have a 25% chance to sell 4 polished andesite for one emerald as part of their trades.‌
+
+
+== Usage ==
+Andesite is currently used only for decoration. It has the same blast resistance as stone, meaning it can be used as a substitute for stone when building.
+
+
+=== Crafting ingredient ===
+
+
+=== Stonecutting ===
+
+
+=== Trading ===
+Journeyman-level stone mason villagers have a 2⁄7 chance to buy 16 andesite for an emerald.
+
+
+=== Note Blocks ===
+Andesite and polished andesite can be placed under note blocks to produce "bass drum" sounds.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Bedrock Edition:
+
+
+== History ==
+
+
+=== Data history ===
+
+
+== Issues ==
+Issues relating to "Andesite" or "Polished Andesite" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+In the real world, andesite rock comes from above-ground lava flows. Finding andesite underground means the world's surface used to be lower, and the lava flow was buried.
+Diorite is andesite's below-ground equivalent: The two rocks come from the same kind of magma, but diorite rocks are formed from solidifying underground magma chambers. The long, slow cool makes it look coarser than andesite.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Java Edition ===
+
+		
+			
+			
+		
+
+
+== See also ==
+Diorite
+Granite
+Stone
+
+
+== References ==
+
+
+== External Links ==
+Block of the Week: Andesite – Minecraft.net on May 1, 2018

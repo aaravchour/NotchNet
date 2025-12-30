@@ -1,0 +1,115 @@
+A written book is an item created after a book and quill is signed.
+
+
+== Obtaining ==
+
+
+=== Signing a book and quill ===
+Written books can be obtained by signing a book and quill. After it has been signed, it cannot be edited again. The label does not say "Written Book", but whatever the player titles it. The title appears on the top line of the label, and "by <player>" (the player's username) on the bottom. In Bedrock Edition, this is customizable without commands.
+
+
+=== Copying ===
+
+
+== Usage ==
+Written books can be opened by right-clicking (or holding down on the screen in Bedrock Edition), and display a GUI allowing the player to read it or turn the page.
+The contents of a book are an extra set of data attached to the item. This means that when a book is destroyed, its contents are lost with it.
+
+
+=== Lecterns ===
+One can place a written book on an empty lectern.
+The lectern then emits a redstone signal depending on the displayed page in the book. On the last page, the lectern emits a signal strength of 15.
+
+
+=== Chiseled bookshelf ===
+Using the chiseled bookshelf while having a written book in the main hand will put the book inside the chiseled bookshelf.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Item data ===
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Item format.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Written Book" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+When written books are obtained with commands (without the correct data tag), the label shows "Written Book" and has the text "*Invalid book tag*" when opened. The book is signed and cannot be edited without commands.
+Commands that were added to a written book using serialized JSON objects are executed through the chat system. This means that any command added to a written book can't be longer than 256 characters, which is the maximum chat line limit.
+During the 2020 April Fools Update Java Edition 20w14∞, throwing a written book into a lit nether portal would create a portal to one of the 2,147,483,645 new dimensions.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Book
+Bookshelf
+Book and Quill

@@ -1,0 +1,29 @@
+The Minium Stone is a tool added by Equivalent Exchange 3. It allows the player to exchange blocks in the world for other blocks of an equal "equivalence value".
+Other than that, the Minium Stone can be used as a pocket crafting table, by pressing "C" (by default) while held in the player's hand. Crafting in the crafting grid does not cost any Minium Stone charge if it is not used in the grid itself.
+The Minium Stone is also able to exchange items in a crafting grid— most metals can be crafted into Diamonds.
+
+
+== Recipe ==
+
+
+== Usage ==
+
+The Minium Stone can be used as a slightly less efficient furnace. Put any 7 ores, 1 Coal and the Minium Stone in a crafting grid, and it will return 7 ingots or other processed items.
+
+
+=== Transmutation ===
+
+These are the first steps towards making Diamonds. 4 Clays can be crafted into a Clay Brick (and transmutated back as well), and make Iron Ingots out of it, or use Obsidian.
+
+Storage blocks can be crafted into the next tier of storage blocks;
+
+
+=== Crafting world objects ===
+Another thing the player can do is transmute blocks one could transmute in the world in a crafting grid.
+All these recipes will work in the world as well.
+
+
+=== Miscellaneous ===
+These are some more recipes.
+
+Dyes and colored wool can be exchanged.

@@ -1,0 +1,74 @@
+/gametest is a server-side test automation tool that is based on pairing test code with test structures.
+
+
+== Usage ==
+A GameTest can be registried in GameTest Framework, which is paired with a structure file (.mcstructure format).
+Place a structure block and type the ID (in the format of <testClassName>:<testName>) in it, then execute gametest runthis (or gametest runthese for multiple structure blocks) to run the GameTest in game. Note that the "structure name" in structure block should be the ID of Gametest instead of structure's ID.
+gametest run .. can automatically place the structure block with the specified GameTest ID and run this GameTest.
+gametest runset ... can automatically run all GameTests in the specified class at the same time.
+gametest create .. can place a save mode structure block, a platform made of polished andesite, there-block-thick dirt base, and a command block with a stone button attached on it. It is useful for developer to create a new structure and GameTest.
+
+
+== Syntax ==
+gametest runthis
+Finds nearest structure block within 15 blocks radius, and then try to run GameTest with the ID specified in the structure block.
+gametest run <testName: GameTestName> <stopOnFailure: Boolean> <repeatCount: int> [rotationSteps: int]
+gametest run <testName: GameTestName> [rotationSteps: int]
+Create a run a specific GameTests.
+gametest runthese
+Finds structure blocks within 200 blocks radius, and then try to run GameTests with the ID specified in the structure block.
+gametest runset [tag: GameTestTag] [rotationSteps: int]
+Create and run all GameTests in this class (tag: GameTestTag).
+gametest clearall
+Clear all GameTests.
+gametest create <testName: string> [width: int] [height: int] [depth: int]
+Places structure block, command block, and polished andesite platform and dirt base.
+gametest pos
+Find nearest structure block within 200 blocks radius.
+gametest stopall
+Manually stops all tests while they are running.
+gametest runsetuntilfail [tag: string] [rotationSteps: int]
+Runs a set of tests, but will automatically stop if any of the tests fail.
+
+
+== Arguments ==
+testName: GameTestName: enum
+
+Specifies a GameTest to run.
+Must be an existing Gametest ID.
+repeatCount: int: int
+
+Specifies the times the gametest will be repeat.
+Must be a  32-bit integer number. And it should greater than 0.
+stopOnFailure: Boolean: enum
+
+Specifies whether to continue with the next repetition when current test fails.
+Must be a  boolean (either true or false).
+rotationSteps: int: int
+
+Specifies the angle by which the gametest is rotate.
+1 means 90° clockwise; 2 means 180°; 3 means 270° clockwise. Otherwise the gametest won't be rotated.
+Must be a  32-bit integer number.
+tagTag: GameTestTag: enum
+
+Specifies GameTest class to run.
+Must be an existing Gametest class ID.
+testName: string: string
+
+Specified a string as gametest ID.
+Must be a string. And it must be a single word that has no space or a quoted string.
+width: int: int
+
+Specifies x-axis width of the polished andesite platform and of the structure. Defaults to 5.
+Must be a  32-bit integer number. And it should be less than or equal to 48.
+height: int: int
+
+Specifies y-axis height of the polished andesite platform and of the structure. Defaults to 5.
+Must be a  32-bit integer number. And it should be less than or equal to 48.
+depth: int: int
+
+Specifies z-axis width of the polished andesite platform and of the structure. Defaults to 5.
+Must be a  32-bit integer number. And it should be less than or equal to 48.
+
+
+== History ==

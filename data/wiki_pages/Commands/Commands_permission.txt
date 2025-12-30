@@ -1,0 +1,12 @@
+Lists or reloads permission list.
+Can be executed only in BDS console.
+
+
+== Syntax ==
+permission list
+Prints the current used permissions list.
+permission reload
+Makes the server reload the operator list from the permissions.json file.
+
+
+== History ==

@@ -1,0 +1,240 @@
+A furnace is a utility block used for the smelting of blocks and items.
+
+
+== Obtaining ==
+
+
+=== Natural generation ===
+Furnaces can be found in plains, desert, and some savanna village weaponsmiths. Furnaces also generate in some houses in snowy tundra villages, and in one of the taiga/snowy taiga‌ village houses. They also appear in ancient cities and trail ruins, and one furnace generates in every igloo.
+
+
+=== Breaking ===
+A furnace can be mined using any pickaxe. A furnace will also drop all of its contents when broken, including XP from smelting items that were extracted by hoppers.
+In Java Edition, a furnace mined without a pickaxe drops nothing. In Bedrock Edition, a furnace drops itself when mined by hand or with any tool.
+
+
+=== Chest loot ===
+
+
+=== Crafting ===
+
+The lit furnace can be obtained in Java Edition only with commands such as /give @s furnace[block_state={lit:"true"}], although it does not appear lit in the inventory. In Bedrock Edition, the lit furnace block can be obtained only by inventory editing. It always stays lit, despite containing no items.
+
+
+== Usage ==
+Furnaces cannot be pushed by pistons in Java Edition.
+
+
+=== Smelting ===
+
+The main purpose of a furnace is smelting. Its interface can be opened by pressing the use item button on it. A fuel source (up to one stack of fuel items) is placed in the lower slot, and the items (up to one stack) to be smelted are placed in the upper slot. A furnace smelts items at a speed of one item every 200 game ticks (10 seconds) or six items per minute.
+The number of items that a fuel source can smelt depends on the type of fuel. As soon as smelting begins, the fuel slot is decremented immediately and that unit of fuel begins burning. The fuel continues burning until it is consumed, regardless of whether the upper slot has any items remaining to smelt. For example, a piece of coal burns for 80 seconds and can smelt eight items, but if only one item is smelted (or if the item is pulled out before smelting is complete), the coal still continues burning for the full 80 seconds, wasting seven items worth of smelting. After it burns out, no additional fuel is decremented from the fuel slot if the upper slot is empty. If the fuel slot is empty and the burning fuel is consumed before an item completes smelting, the smelting stops, the smelted item is unchanged, and smelting must be restarted with new fuel.
+
+
+=== Light source ===
+
+Furnaces emit a light level of 13 when active, as well as smoke and flame particles.
+
+
+=== Crafting ingredient ===
+
+
+=== Custom name ===
+By default, the GUI of a furnace is labeled "Furnace", but this name can be customized by naming it in an anvil before placing it, or by changing the CustomName tag using the /data command‌.
+
+
+=== Lock ===
+In Java Edition, a furnace can be "locked" by setting its lock tag using the /data command. If a furnace's lock tag is not blank, the furnace cannot be opened unless the player is holding an item with the same name as the lock tag's text. For example, to lock a furnace at (0,64,0) so that the furnace cannot be opened unless the player is holding an item named "Furnace Key", use /data merge block 0 64 0 {lock:{components:{"minecraft:custom_name":"Furnace Key"}}}.
+
+
+=== Note Blocks ===
+Furnace can be placed under note blocks to produce "bass drum" sounds.
+
+
+== Sounds ==
+
+
+=== Generic ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Unique ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block data ===
+A furnace has a block entity associated with it that holds additional data about the block.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Block entity format.
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== History ==
+
+
+=== Lit furnace "item" ===
+The following content is transcluded from Technical blocks/Lit Furnace.
+
+
+==== Names ====
+Java Edition
+Item names did not exist prior to Beta 1.0.
+
+Beta 1.0 - 15w49a: Furnace
+(As block name, item does not exist) 15w49a - 17w47a: Furnace
+The block lit furnace has been removed in 17w47a and furnace block has become generic. Now lit furnace is no longer a technical block, instead it is a block state and can be obtained through BlockStateTag.
+'Bedrock Edition'
+? - ?: tile.lit_furnace.name
+
+
+== Issues ==
+Issues relating to "Furnace" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Furnaces function as multiple real-world devices combined into one block: bloomeries and blast furnaces (for smelting ores), ovens (for baking and cooking), charcoal pits (for the charring of wood) and kilns (for baking of clay).
+In Bedrock Edition, the lit furnace block was legitimately obtainable by mining a furnace that is smelting an item while the pickaxe has Silk Touch. When highlighted in the inventory its name was 'lit_furnace'.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+		
+			
+			
+		
+
+
+== See also ==
+Blast Furnace
+Smoker
+
+
+== References ==
+
+
+== External Links ==
+Block of the Week: Furnace – Minecraft.net on September 15, 2017

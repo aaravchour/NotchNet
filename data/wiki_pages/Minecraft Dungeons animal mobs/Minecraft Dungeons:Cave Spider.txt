@@ -1,0 +1,57 @@
+A cave spider is a poisonous spider variant that can be found within the various missions of Minecraft Dungeons.
+
+
+== Appearance ==
+Cave spiders in Minecraft Dungeons are similar to cave spiders in the main Minecraft game with the only difference being the color, with the Minecraft Dungeons mob having a brighter and somewhat saturated color.
+
+
+== Spawning ==
+Cacti Canyon (Arcade)
+Spider Cave
+Redstone Mines
+Fiery Forge
+Highblock Halls (Sewer)
+Underhalls (Cellar)
+Overgrown Temple (Secret area)
+Frosted Fjord (Frozen cave)
+Windswept Peaks (Cave)
+Colossal Rampart (Ambush in secret area)
+Abyssal Monument (Secret area)
+The Stronghold
+Tower
+Treetop Tangle
+
+
+== Behavior ==
+Cave spiders are unable to shoot cobwebs, unlike regular spiders.
+
+Basic attack
+Cave spiders slowly walk towards their target and bite them, inflicting ten seconds of poison damage.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Data values ==
+In the game files, cave spiders are referred to internally by the name CaveSpider.
+
+
+== Gallery ==
+
+
+=== Textures ===
+
+		
+			
+			
+		
+
+
+== See also ==
+Giant Cave Spider
+
+
+== References ==

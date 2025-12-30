@@ -1,0 +1,258 @@
+Hardcore worlds are one of the most unforgiving types of Minecraft world. It can take many attempts before actually reaching the credits, which can be very frustrating. This article focuses on Singleplayer Hardcore strategies, many, but not all, of which can apply to other game modes.
+Before beginning a Hardcore world, it is advisable to beat the game on Hard a few times. Learn to act quickly and effectively. After starting a Hardcore world, it may be helpful to practice on other non-Hardcore worlds, especially to prepare for fighting the ender dragon.
+Hardcore mode is worth copying the world before you take the risk.
+
+
+== Tips ==
+Always watch your back. Some of the most common deaths are from a creeper, which is almost completely silent and produces a devastating explosion, or a ghast, which shoots fireballs from extremely far away. The fastest way a creeper can get to you is dropping from above.
+Fall damage is a common way of dying, so wearing boots with Feather Falling IV can be very helpful as you will be very unlikely to die of fall damage unless your health is low.
+Never attack two creepers in a row or at once. The same goes for skeletons because their long-range shooting means it's hard to get in close.
+Shields are inexpensive to make, but can save your life if you get trapped with a creeper or skeleton.
+Never take unnecessary risks. Sometimes there are necessary risks, but most things probably are not worth the chance of death or losing a lot of health that may lead to death. For example, in most situations, it's better to bridge a gap over a lava ocean to a Nether Fortress than to throw an ender pearl to get over there.
+Mobile inventory space can be increased through the use of ender chests, shulker boxes, horses, donkeys, mules, and llamas with a chest.
+Don't be afraid to place plenty of torches all over the ground. Surviving is easier in a well-lit area.
+Beds are critical, especially early game. They bypass monsters spawning at night (and prevent phantoms). This is very helpful for exploring the surface and gathering basic resources in safety. To save materials, break and reuse the same bed. Normally breaking a bed is a bad idea (as the player will spawn in the world spawn if you die), but in hardcore mode, you will not respawn.
+Avoid going out at night until you're well prepared, with iron or diamond equipment, and preferably a safe zone to retreat to. If night suddenly falls upon you, retreat to a shelter (if one is close enough), or build one. Even a simple pillar is helpful for surviving the night (Keep in mind that skeletons can still damage you with their ranged attacks, so you may consider building a two blocks tall walls around you to avoid arrows). Spiders can also reach you if your pillar is not high enough. 16 blocks is enough to keep them away. An easier way to make a shelter is to dig three blocks into the ground, then cover the top. Be careful not to fall into a cave, however.
+Avoid dangerous areas early in the game such as caves and ravines. It's best to stay away until you are better equipped with iron armor and tools.
+Wear your best set of armor at all times, replacing it as it gets worn. You can also enchant your armor with Mending so it can always be repairable. Remember that unenchanted armor doesn't protect you against falling damage, Poison, hunger, etc.
+Avoid lags and don't use glitches. You won't want to have your computer lag for an hour and then find out that you died when the lag was occurring.
+Sometimes it's better to flee than fight. Always have a solid block on your hotbar and practice key binding so you can build a barricade and shelter on short notice.
+Try to keep your hunger meter full at all times - regenerating health might save your life and eating in the middle of combat can be hard to do. Remember that hunger can kill you.
+Walk and avoid jumping when you are not being pursued by a mob. Sprinting can deplete a lot of your hunger bar if you are not careful.
+While walking around, try to punch passive mobs with meat drops to death, such as pigs, which drop porkchops.
+Do not jump too much. It takes down your hunger bar if you are not careful. Use stairs and ladders instead of jumping if you are low on food, but it may be hard to find the resources to have many of them.
+Try not to take unnecessary damage. The fastest way to lose a full hunger bar is regenerating health.
+Try to have a stable good food supply like a potato farm or a pig/cow farm so you can worry less about conserving hunger.
+Do everything you can to make sure that you are not overrun by monsters. Plan ahead and leave escape routes ready. Digging into the side of a mountain to make an emergency dugout shelter should only be done in extreme emergencies.
+It's a good idea to keep a milk bucket and a water bucket on you at all times, with the milk on your hotbar while on the surface to counter witches' potions, and the water while mining just in case you run into lava and need to put yourself out. If you mine in the the Nether, put a Fire Resistance potion instead of your water bucket in case you mine into lava.
+Be careful when updating sand or gravel, as it can fall and suffocate you or drop you into hazards.
+When you find enough gold, make a golden apple, put it in your hotbar, and never remove it. This could save you and is by far the best use of gold. A potion of healing also works, preferably a splash potion as you can use it faster and it hurts undead mobs, like zombies. On a similar note, always keep a weapon on your hotbar. If you are lucky enough to find an enchanted golden apple, also put it in your hotbar.
+Don't worry about storing items away. If you die, you will lose everything regardless if you stored or not. It is important, however, to clear out inventory clutter. Keep anything useful in organized chests and in your ender chest so it can be retrieved quickly.
+The Curse of Vanishing enchantment doesn't affect anything.
+It is recommended to avoid armor with the Curse of Binding enchantment, because once you put it on, you can't get it off unless it breaks or you die. This is also good advice for regular worlds, but the consequences are far less in regular survival than in hardcore.  If you put on a pumpkin head or a mob head with the enchantment, you will never be able to remove them as they cannot break.
+Avoid woodland mansions until you have at least full enchanted diamond armor and a diamond sword. The evokers are dangerous, but more so are the vexes they spawn, as they dodge constantly and can go through blocks, usually spawned in groups of 3 or more. Vindicators can deal very heavy damage to the player, killing the player in a few hits even with Protection 4 netherite armor.
+Kill any iron golem that villages spawn with lava or pillar up three blocks high and do not use them for protection. It's a tempting idea, but if you misclick and provoke them they can kill you in a single hit, even with full iron armor.  Even with Protection 4 netherite armor, they can kill you very quickly if you get stuck.
+Instead, make the iron golems for protection. They do not attack when provoked when they are made by players.
+It is possible to lose up to 19 and 16 HP, while using a Protection 4 diamond and netherite armor set when a creeper explodes. Consider using Blast Protection gear (if possible) when exploring caves as it brings down the max damage to 10 and 9 HP. Note that these values are worst-case scenarios, but worth considering if planning to continue after beating the game.
+If you believe that it is difficult to win a fight, just flee. Taking the risk can lead to death or losing a revival item such as the totem of undying or a golden apple.
+Never AFK on hardcore mode. The last thing you want is to come back and realize that you got killed. If you must AFK, pause the game, and if you are trying to AFK overnight to get lots of items from automatic farms, block yourself in to prevent a single mob from coming in and killing you.
+Accept that at some point, you will die and you will lose your world. You are never safe, and you will never be, so be prepared for that moment to say goodbye to your world. If you want to build something huge and you do not want to play with backups, you have to accept that you will someday lose all your hard work.
+If exploring in the End, be very careful because falling into the Void will be an instant death, and this is the one situation a totem of undying cannot save you. Equipping an elytra and firework rockets can save your world if you have fast enough reactions. On that note, it is generally much safer to build bridges instead of throwing ender pearls. Even if it takes a long time to build, it will serve as a permanent pathway between the islands, and pearling has a relatively high chance of hitting the side of an island and causing you to die in the Void.  If you're really paranoid, build railings on your bridge.
+Always have a totem of undying in your off-hand. It will save your life at some point. If you have multiple, bring a couple spares in your inventory to quickly put back in your off-hand.
+Do not respond to pressure from other people. You are the only one who truly knows your skill level. Don't make stupid mistakes like trying to impress your friends with things like 4-block jumps over lava. If you truly feel that something is too dangerous for you, don't do it, and take the easy way out. You may get too full of yourself and think that you are invincible to death or are too good for safety, but you are not, no matter what. If you choose to do these risky behaviors, bring precautions (like a totem of undying or Fire Resistance potion) in case you do fail.
+Be very careful with elytra as it is really easy to smash into the ground or a block, probably killing the player. To be 100% safe, always land in water or hold a totem of undying when landing.
+Do not forget that you can pause the game in order to think.
+Have a water bucket in your hotbar at all times. It may save your life.
+Endermen can be dangerous, so before going into combat with one, build a 2-block-tall roof above you because the enderman is too tall to fit. The same trick works for wither skeletons.
+Never fight mobs in a herd unless you have a shield, and there's at least creeper in the horde. You can block explosions using a shield, thus killing or damaging all mobs in range. This is risky, but it can be very effective.
+In a pinch, when fighting multiple mobs, try to get a skeleton to shoot a different mob. That mob and the skeleton will then fight each other, which might allow you to slip away in the confusion.
+
+
+=== Settings and options ===
+There are many ways, in-game and otherwise, to alter aspects of Hardcore mode.
+
+Try to maximize framerate.
+Close any other applications.
+Weigh the advantages of features that may cause low FPS (such as particles, graphics type, etc.)
+In particular, turning down the Rendering Distance (in [Esc] -> Options -> Video Settings) can greatly improve FPS as well as reducing lag spikes. In addition to performance, leaving the Rendering Distance at 2 effectively stops almost all mobs from spawning in low light levels, thus nullifying the greatest challenge associated with hardcore mode. Do note, however, that this may feel cheaty and may reduce the fun of the experience.
+Jungles and waterfalls cause lag on low-end systems. In some circumstances, client-side chunk update lag is instantly fatal. Consider restarting the game or reducing your chunk radius if you spawn in a jungle or mountains.
+In Video Settings, set brightness to "bright" to make things a bit easier, or "moody" for greater difficulty.
+Use sound. Listen to everything; Creepers make sounds walking on blocks. Parrots can be even more useful for those purposes.
+Even if you do have sounds turned on, use subtitles; they can alert the player if any sounds are nearby.
+Avoid using unfamiliar resource packs. Sometimes it can be very beneficial to get a resource pack that changes certain textures slightly (for example, by slightly brightening the nether brick texture it becomes more obvious where it is safe to step in nether fortresses), but you should get used to the textures in regular survival first.
+Turn on hitboxes. It can be very useful to see monsters in the dark.
+By picking the seed (instead of using a random seed), the world can be controlled. This can vary the difficulty in many ways.
+For example, the uncharted island in the middle of the sea is easy to control mob spawning on, while in mountains and ravines, creepers descending from heights can more easily surprise you.
+A seed with a stronghold inside a mushroom fields biome would make the process of reaching the end portal much easier.
+If you know a world well from survival mode, you can use its seed (or the "Re-Create" button) to take advantage of that knowledge in hardcore mode.
+Some players choose to save a back-up of their hardcore world in case they die (especially before entering The Nether, or The End). Many people consider this cheating, as it can "ruin" the feel and purpose of Hardcore mode.
+Game rules can be used to increase difficulty. Example: In ultra hardcore mode, natural regeneration is turned off. The only way you can regenerate health is by consuming golden apples, enchanted golden apples, fully powered beacon or by using potions, for example, Instant Health or Regeneration.
+Command: /gamerule naturalRegeneration false
+You can also turn on reduction of debug info, making it far easier to get lost in a world, and practically mandating the usage of maps and compasses.
+
+
+=== Shelters ===
+Shelters are very important, especially on hardcore. Building a proper shelter will make hardcore mode slightly less difficult. Shelters are never optional for night-time, although they may be temporary.
+
+Mushroom fields biomes are very safe places to settle because hostile mobs do not spawn under normal conditions.
+A shelter built over an ocean away from land can also be very safe from hostile mobs, unless you are near an ocean monument. However, drowned can spawn in oceans, making them not as safe. It is recommended to build your shelter a few blocks above the ocean, just in case of drowned, or ocean monuments.
+It's best to build shelters out of blast-resistant materials, especially in the Nether. Cobblestone is cheap, although, if possible, permanent shelters should use obsidian.
+Make your shelter as visible as possible. Proper lighting outside the shelter adds visibility, and stops hostile mobs from spawning nearby.  Additionally, a large tower can help visibilty from a distance (but make sure you can get down safely!)
+Zombies can break wooden doors; however, iron doors require six ingots to craft, and need redstone power. To solve this, use a fence gate with a pressure plate inside the shelter so it automatically closes. One gate will not stop skeletons from shooting over it, so a second gate can be placed on top of the first. Additionally, you can place the door such that its "open" state blocks entry, thus preventing zombies from doing any damage.
+Because the shady canopies of trees will protect skeletons and zombies from burning, build an indoor tree farm to safely harvest logs and apples when necessary. For the same reason, it is a good idea to cut down trees within 24 blocks of your shelter and fully light the resulting field.
+Even small farms with wheat, potato, chickens, and cows can be a great asset. Use the wheat and seeds to breed the animals for meat and other drops. Indoor farms are safer. Pigs are nice to have because pork chops can be safely eaten raw if you're caught by surprise.
+Keep in mind the coordinates of your base, assuming you can obtain them.
+Building a wall around your base can be extremely beneficial.
+
+
+=== Mining ===
+Never go unprepared into a cave in case you get surrounded or cornered. Always bring blocks, weapons, food, torches and armor with you.
+Be careful around cave spiders. Poison cannot actually kill you but it will weaken you severely. Only fight cave spiders if you desperately need string or spider eyes. If you need spider drops it is best to fight plain spiders or loot dungeons if you have the choice.
+Diamonds are not very hard to find if you travel in deep caves. They also have a 23% higher spawn rate. That being said, the common hazards are monsters, lava, and falls. The least you need is iron armor and a stone sword to go in. Diamonds are not difficult to find in Dripstone caves & Lush Caves. Watch out for mobs, they can spawn a lot there.
+If you happen to fall in lava in the overworld, swim to the surface and place water above (not under) the lava. This way, the obsidian formed can provide you with an escape route.
+Fall damage can be avoided by placing water to break the fall.
+Do not ever dig straight down or up. Digging straight down could cause the player to fall into lava or a horde of monsters, and digging straight up could cause a falling block such as sand or gravel to fall and suffocate the player, or lava to pour down and burn the player. It is best to dig straight up or down in a wider pattern, to have a platform to stand on before digging down the blocks. Having a platform with a block above it could help allow the player to escape falling blocks without death.
+Remember that a torch on the floor will break gravel and sand falling on it. This can save you from getting buried if you dig straight up (although you're still in trouble if you break into water or lava or a bunch of mobs).
+
+
+=== Hotbar ===
+If you have thumb buttons, assign them to your weapon and water bucket. If a bucket is not available or you are in the Nether, equip a solid block instead. If you do not have a shield, it is best to put torches or food in your off-hand, as they can be used while having an equipped sword.
+
+Sword. Use the best material available and discard damaged/weaker swords.
+Axe/Shovel. An axe can shorten lumber trips and save daylight. One can be used as a weapon if your sword breaks. Shovels are unnecessary unless the player is doing lots of digging.
+Bow. Conserve ammo and only use it on witches, skeletons and creepers. Skeleton arrows can be avoided by building a 2-block dirt pillar and hiding behind it.
+Pickaxe. Indispensable in cave systems or the Nether. Use an iron or diamond pickaxe if available. Can be used as a weapon in a pinch.
+Water bucket. They can extinguish you, prevent fall damage, let you safely travel down mountains or save you from an enderman.
+Fire Resistance Potion.  It can be a life-saver if you are mining or exploring near lava in the Nether.
+Torches. Very handy when exploring cave systems. Place them on the right walls when going deeper so you can remember how to exit.
+Dirt. Very common, can be broken without tools and does not obey gravity. Can be used to scale walls, build bridges, create quick shelters, stop skeleton arrows or prevent endermen from reaching you.
+Steak. As plentiful and effective as cooked porkchops, but killing cows will also give you leather. Keep your hunger bar full whenever your health is not full. Golden apples can be used for dangerous situations.
+Healing items. Items like Golden Apples and Enchanted Golden Apples, along with potions can save your life when fighting mobs or trying to swim out of lava.
+Spyglass. Spyglasses allow you to zoom in on your surroundings, which can be very helpful for spotting a dangerous mob or a useful structure.
+(Offhand) Shield. They can block Skeleton's arrows from pushing you and reduce damage from attacks. It is best to have it in your offhand so you are able to attack and defend easier than without.
+(Offhand) Totem of Undying. They can help you cheat death. Extremely useful. With them, you can save your world.
+
+
+== Step by Step Guide to Hardcore ==
+
+
+=== Above-ground Preparations ===
+Duration: 5–20 minutes
+
+Find the closest tree and punch it. Gather only 4 logs to save time.
+Craft a crafting table.
+Craft a wooden pickaxe.
+Find the nearest stone and mine 9 blocks to start. If there is no stone nearby, dig an angle shaft into the ground to reach stone.
+Craft a stone axe, stone pickaxe, stone shovel and stone sword.
+Get about half a stack of logs.
+Kill pigs, cows, and sheep to get at least 12 pieces of meat. Grab mushrooms if you see any. Having food now is worth the effort it takes to find more animals later.
+Since it is safer to skip the nights early on, try to kill enough sheep to craft a bed.
+If you do not have a bed to skip the night, do some branch mining under your shelter so you can get iron.
+Start looking for a cave system, although it's best not to explore a cave or ravine this early on.
+Don't make any stops. It is safer to wander around during the day with at least iron armor.
+
+
+=== Firm Footing ===
+Duration: 15–60 minutes
+At this point, either find a cave or create a mine (such as a branched mine). While it is usually safer to create a mine, using existing caves is often quicker.
+While descending to the depths, avoid risks. At first, it may be very dark so watch carefully for monsters and ores. Be sure to light everything in reach, and don't get lost. It is often very helpful to use signs or another distinguishable block to mark the path. Right-hand rule for torches is recommended.
+Coal is the first resource to find. Since inventory management will become a problem, try to keep a stack of coal as close to 64 as possible, but not above it, while keeping a similar number of torches in hand. If necessary, craft blocks of coal to store extra.
+The next important resource is iron. 64 ingots will probably be enough; piling up stacks and stacks is not necessary except for longer games. When equipment is nearly used up, or you just have enough iron, find a safe area(preferably beautiful) and set up a few furnaces to smelt/cook items quickly. Make, in this order: an iron sword, a shield, a pair of buckets (filling one with water), iron armor, an iron pickaxe, and an iron shovel. Also, toss any wood tools and store your stone tools.
+Once fully equipped, go further down and collect diamonds. Only seven are necessary, although more is better (2 for a sword, 3 for a pickaxe and 2 for an enchanting table. These and full armor total up to 31 diamonds.) Use the diamond pickaxe to mine at least 14 pieces of obsidian for a Nether portal and an enchantment table (4 are enough if the player builds the portal using a bucket).
+In the meantime, try and avoid lush caves and dripstone caves. They do not offer many useful items that cannot already be found in regular caves, and are usually dangerous to explore without the help of advanced gear.
+It is hard to have too much gold because it is good for making golden apples, and Netherite ingots. 8 ingots are required for a normal golden apple, and since the 1.9 update, enchanted golden apples aren't craftable. Be sure to grab some redstone for brewing potions.
+Lapis lazuli is required to make enchantments, so don't forget to mine it if you find some.
+The 1.17 update introduces a new item called a Spyglass. If you can find an amethyst geode, grab some amethyst, gather some copper, and make a spyglass. This simple but useful investment will allow you to zoom in on your surroundings, which is a very useful thing to be able to do.
+This sums up all mining you will need to do in the hardcore mode. If you gathered, at any point, enough string to make a bow, do not hesitate to craft it and use it with whatever arrows skeletons dropped. If you come across a mineshaft, be careful. Avoid cave spider spawners, but loot any chests.
+When you get home, make an infinite water spring, then build farms for wheat, carrots and perhaps potatoes. If you've gotten seeds for pumpkins, cocoa beans, and/or melons, farm those too. Sugar cane is very important (for bookshelves), so spread and harvest up to 3 stacks of that.
+Wheat, seeds, and carrots can be used to lure and breed animals, leading to large supplies of meat and resources over time, so it is worthwhile. You will need chickens (arrows) and cows (bookshelves). It is a good idea to tame cats to repel creepers, and wolves to fight.
+Many resources (including bookshelves and enchanted diamond gear) can be gathered by trading though leveling up villagers can be a somewhat long process.
+
+
+=== The Nether ===
+Duration: 30 minutes–2 hours
+The Nether can be very dangerous, so be prepared and try to bring:
+
+Enchanted Golden Apples can make the first travel to the Nether a lot safer because you probably don't have any Potion of Fire Resistance, and the Apple can provide 5 minutes of fire resistance. Try store at least one in your Overworld exploration to use in your first travel to the Nether, and when inside of a Nether Fortress, use it to help you against the dangerous groups of Blazes, or use it in any emergency, like Ghast attacks. Remember, you can only respawn in Spectator mode.
+At least one piece of Gold Armor must be worn to prevent piglin attacks.
+Gold ingots can be used to barter with piglins to obtain fire resistance potions and ender pearls, as well as other items.
+Diamond sword, iron armor, and pickaxe. (Iron pickaxes, or better are fine, but they shred netherrack very fast.),
+Bow (and at least 32 arrows, unless it's enchanted with Infinity). Make sure to enchant everything with 1-skill-point enchantments. It barely costs anything but can make a difference.
+Flint and steel, to relight deactivated portals. If you find yourself without one, they can sometimes be found in a nether Fortress. The best approach is to store one in a chest near the portal.
+At least 16 Wood. You can chop down huge fungi for wood if you are near a Crimson Forest or a Warped Forest. Bones can also be brought to these locations to make Bone Meal, both for growing huge fungi and generating additional fungi. However, starting a wood farm outside of the respective biomes will require Silk Touch, as fungi will only grow on the matching nylium type.
+If you are not near a Crimson or Warped forest, you can bring some Bones, dirt, and saplings. This way, a tree farm can be started (ideally in a protected location, as trees are flammable). Making a wood farm this way is also easier, as it eliminates the need for both Silk Touch and bone meal, although the latter can still be used to make the trees grow faster. If you run out of bone meal, you can kill Wither Skeletons for their bones, but this is highly risky and not recommended as it requires finding a Nether Fortress, and you will likely also be facing Blazes in doing so.
+Any iron ingots, coal and food (Remember, you could only respawn in Spectator mode.)
+A stack or two of cobblestone as an emergency blocking material. Ghasts can't destroy cobblestone.
+A stack or two of sand or gravel might be handy for climbing down sheer drops. Be careful: getting shot off the top of a pile while descending is usually fatal.
+A cauldron, because you can actually place water in cauldrons, so if you accidentally set yourself on fire, you can quickly extinguish yourself by jumping into the cauldron.
+A bowl, to make mushroom stew, which is highly recommended due to being the only secure food source in the Nether. It can mainly save you from starving because it's very useful if you couldn't find your portal anymore.
+Some dangerous aspects of the Nether are:
+
+Ghasts. Their fireballs can seriously damage unprepared players, or deactivate portals. Without a flint and steel or fire charges, another fireball must hit the portal to reactivate it.
+Falling down huge distances. Even while moving carefully, an explosion can easily destroy the terrain, which may expose a lethally high drop onto blocks or even into lava. Fall damage is one of the leading causes of death in the Nether.
+Lava. There are many little pockets of lava inside the netherrack, in addition to the lava seas. Lava is much more dangerous in the Nether because its flow is faster and will flow further. Since water cannot be placed in the Nether, potions of fire resistance are very useful.
+The "Basalt Deltas" biome. Avoid these where possible. The jagged terrain, frequent hidden holes of lava with no escape, and the abundance of Magma Cubes, make this biome exceptionally dangerous unless you are prepared with Fire Resistance. Even mining in this biome is dangerous due to the hidden lava. Far too many Hardcore runs have ended in this biome.
+Piglins. An attacked piglin or zombified piglin will attract others and they can come at you in droves. You may get overwhelmed, even with good gear.
+Beware of the Piglin Brute. Although they only spawn in a Bastion Remnant, they are extremely powerful with 50 health and 19 damage, enough for killing the player without any status effects in a maximum of nine hits when player is stuck (even with Protection netherite armor). They are always hostile, their attacks disable shields, and they will make regular piglins attack you too.
+Blazes. Although they're not very challenging alone and in controlled circumstances, in groups of three or more they may present a significant challenge. An unexpected attack of just one blaze can be lethal.
+Endermen. Although they are rare, they can be dangerous when provoked due to their teleporting ability and high health, especially when they are accompanied by a blaze or a wither skeleton. They are particularly dangerous in the Nether where you can't use water to counter them.
+Wither skeletons. Although they only appear in nether fortresses, this may be the most lethal Nether mob; they are fast, strong, and inflict the wither status effect.
+The Nether contains four things that might be crucial for your adventure:
+
+Nether wart - they are necessary to brew any useful potion. They are found quite often in nether fortresses. Five is enough, but it's better to take every one. Collect at least six blocks of soul sand, so that a farm can be started.
+Blaze Rod - it is necessary to craft eyes of ender. It is also used to craft a brewing stand and brew strength and fire resistance potions. To obtain them you will need to kill blazes. It's best to fight lone blazes at first to avoid becoming overwhelmed. Find two rods (one if you already have magma cream); once you have those (and your Nether Wart), retreat to brew some potions of fire resistance. Collect more rods after applying the fire resistance potions, but remember that potions of fire resistance do NOT nullify Blaze melee attacks. For the main Blaze battle, find an enclosed spawner and kill them with a sword. This conserves arrows and saves the drops. About 12 blaze rods should be more than enough.
+Ghast tears - used for potions of regeneration. However, ghasts are dangerous, and their drops are often destroyed.
+Glowstone dust - used for strengthening potion effects. Glowstone appears occasionally in nether fortresses, otherwise, look for it on low ceilings of netherrack. Besides, it allows you to create spectral arrows, the effect is just a visual help, but making them doubles your arrows in exchange for glowstone dust. Keep in mind that spectral arrows are consumed even if the bow is enchanted with Infinity.
+Ender Pearls - if you managed to get a sword with Looting III on it, you can gather ender pearls quickly. Find a warped forest (the only biome in the Nether where only endermen spawn in abundance), then hit them or look at them to get them angry and follow you. You can either dig into a wall where the endermen can't reach you or trap the endermen in a boat, then critical hit the endermen until they die. You may earn between 0 and 4 pearls per kill. Try to leave the nether with 16 - 32 ender pearls.
+Nether Survival: If there are no nether fortresses nearby, you may be forced to spend a lot of time in the Nether. Food supplies can be easily replenished, using very abundant mushrooms, or killing Hoglins which drop porkchops. Use torches or distinctive nonflammable blocks, like cobblestone, dirt or crafting tables to mark the path back to the portal. 
+First find a fortress. Gather the blaze rods that you need, then head off to find a warped forest to kill endermen and get your pearls.
+Try to avoid bastion remnants. It may sound like a good idea to trade with piglins in a bastion remnant (although you need gold armor), as there are plenty of them and there is tons of gold to be found. However, after version 1.16.1, piglin brutes spawn in every bastion and pearl luck is severely nerfed. Treasure bastions are especially dangerous due to the high amounts of lava and magma cube spawner, and stables bastions due to the high concentration of hoglins. If you do decide to head to a bastion remnant, be careful about mining the gold or opening chests around them,  as they will become angry and try to kill you, and watch out for piglin brutes. If you decide to not risk it, head to a warped forest and kill endermen.
+After getting all the ender pearls you need, relocate your nether portal and return to the Overworld.
+
+
+=== Overworld Exploration ===
+Duration: 1–8 hours
+At this point, most of the necessary supplies should already be acquired, including 15 bookshelves. Pick a direction and set off. Wolves are often worth the bones, so recruit any that are nearby.
+Remember, villages will provide good combat and survival supplies. Loot one if possible, but finding them can be somewhat difficult. Trading with the villagers can provide very powerful item, even enchanted diamond armor and weapons.
+At this point there are two main goals: ender pearls and experience. Also, it is very helpful to have a chicken farm at this point, because feathers are needed to make arrows. Also, stay stocked on food and wood. In the night, be constantly on the move. Search for endermen while killing any threatening mobs or a safer alternative would be to trade ender pearls with cleric villagers. Also, kill as many phantoms as you can and make at least 6 extended slow falling potions. After accumulating levels, enchant weapons and tools:
+
+Bow (20 EXP levels). Infinity is very helpful, but it is rare (10% chance). Power will also help.
+Sword (30 EXP levels). The most useful enchantment is Sharpness. Fire Aspect is useless against most Nether mobs (except Piglins and Hoglins), but is very useful in the End because endermen become neutral while burning. ‌
+Plan to collect 16-20 ender pearls and turn them into eyes of ender. Remember to be conservative while using them, as sometimes they will break when thrown and sometimes they won't. After locating the End portal, dig a staircase carefully downwards. Once inside the stronghold, break the silverfish spawner and get any loot you can find. Secure a shelter near the portal to prepare for the End. Linking nether portals to the stronghold can be helpful, so you can get quick access from your base.
+
+
+=== The End ===
+Duration: 10–40 minutes
+Note: If you run out of anything necessary to kill the dragon, it is essentially game over as there is no way to enter the overworld without dying. You can never over-prepare, since you only get one life.
+These items are recommended for the End:
+
+Diamond or Netherite sword, a pickaxe, a bow and full diamond armor. Enchant any non-enchanted tools. Go for at least Protection III on the armor, at least Sharpness III on the sword, and at least Power III on the bow. The pickaxe can have lower-tiered enchantment levels, but it is recommended to use at least Efficiency III on it so that it will destroy the iron bars that surround some of the end crystals faster.
+Make sure that all equipment has as much durability as possible. Make sure that nothing will break in the middle of the battle.
+At least a stack of arrows, unless using an Infinity bow, then only one arrow is needed.
+At least a stack of high saturation food, such steak or cooked porkchops. Golden carrots are even better, but more expensive.
+A decent amount of obsidian, to use for building. This can also be used to block explosions when she is perched and you use beds. 
+Two water buckets to distract endermen. Water buckets can also be used to break a fall in a pinch.
+Beds and respawn anchors may be a good idea for killing the ender dragon, as they explode when the player right clicks them in the end. Be careful about getting damaged.
+Explosion damage renders from the player's feet, so try to keep the bed/respawn anchor at eye level, or place a block between you and the bed/respawn anchor.
+You could theoretically use the dragon's crystals against it. If exploded while healing, the dragon will take ten damage points.
+Multiple Golden Apples, or at least one Enchanted Golden Apple.
+Various different potions, such as regeneration and strength, swiftness, etc. If you want to conserve inventory space, you can make these into regeneration II and strength II, but beware that these last much shorter.
+
+A good supply of ender pearls. These can be used if the obsidian spawn platform is not connected to the main end island, and if the dragon knocks you high into the air and cause lethal fall damage or into the void, you can teleport back to the island.
+At least 3 extended slow falling potions. Apply slow falling before the fight, and apply it during the fight if it wears off. The ender dragon's attacks inflict a heavy amount of knockback, flinging players high up into the air or off the island. Slow falling will negate the effects of fall damage, allowing you to fall back down safely. If you get knocked off the island, slow falling can be used to glide back to the island.
+A carved pumpkin, since endermen will not turn hostile if you are wearing one. Switching to third-person point of view will remove the obstructed vision carved pumpkins cause when worn. Beware that when wearing a carved pumpkin instead of a helmet, you will have less armor points and will not be affected by any enchantments on the helmet.
+A spyglass. The spyglass will be useful for tracking the dragon's location and you can also use it to zoom in on the crystals you have not broken.
+Some flint, sticks, and feathers, in case you are not using an infinity bow and happen to run out of arrows.
+A Totem of Undying, it can save you from dying, unless you are knocked into the void.
+Once you gather yourself and organize your inventory, jump into the portal and be ready for battle.
+Upon entering the End, the first task is to take out end crystals, because they will heal the dragon. Use arrows (or snowballs) to remove all the towers, while avoiding the Ender Dragon. If you can't avoid her
+before taking out the crystals, don't hesitate to attack to prevent being blown or knocked off the island.
+Try and use your beds and respawn anchors to your advantage. When you see the dragon perch, let it perch, then rush in and hit the dragon. The dragon will take 50 damage before it flies off, so deal just enough damage so that the dragon won't fly off. Then, trigger your explosives to kill or weaken the dragon.
+
+The speedrunner's method of killing the dragon (one cycling and zero cycling) are viable but not recommended for beginners.
+While doing all this, make sure not to look at any endermen. It is much harder to fight the Ender Dragon whilst endermen are also attacking. If you have trouble looking at endermen, wear a pumpkin head and use a texture pack to remove the pumpkin head overlay.
+Once all the end crystals are destroyed, take aim at the Ender Dragon, once again avoiding looking at the endermen. If the dragon knocks you into the air, quickly drink a slow falling potion. Keep moving until the Ender Dragon is defeated. Gather the experience orbs, and enter the portal to see the credits, then return to the Overworld.
+Congratulations! You beat hardcore!
+
+
+=== Challenges ===
+Do massive projects, for example, covering your end in ice or making an overworld in your nether or end island.
+Make farms like a creeper farm, experience farm, villager breeding center, iron farm, etc.
+Make a full set of netherite armor and tools with the best enchantments.
+Make a fully powered beacon out of diamond blocks (if not too lucky in general at least make a fully powered beacon out of iron blocks.)
+Fight the wither.
+Explore natural generated structures like the desert temple or the ocean monument.
+For an extra challenge, return to the End. Use four end crystals to re-summon the ender dragon.
+If you thought Hardcore was too easy, there are extreme survival maps such as Skyblock and mods such as Skyzone (a Skyblock generator) and Ultra Hardcore.
+Invade a woodland mansion.
+Conquer a Bastion Remnant.
+Take on a Raid
+Try finding all the biomes found in Minecraft. There are so many to be found!
+Complete all of the advancements.
+Play on the Single Biome world type, and maybe challenge yourself with a biome that is harder to survive in, such as Ice Spikes, or Mushroom Fields.
+Play on a default Superflat world , and make as much progress as you can.
+Try beating the game in hardcore mode as fast as you can.
+Challenge yourself by doing a Nether Survival challenge. (You start in The Nether, progress through the game without leaving The Nether, eventually kill the Wither, and finally, build a portal back to The Overworld.)
+Made all types of beacons in your world.
+Tame all the parrots colors
+Tame 5 wolves

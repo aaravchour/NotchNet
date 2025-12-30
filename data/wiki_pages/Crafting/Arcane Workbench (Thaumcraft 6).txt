@@ -1,0 +1,12 @@
+This page is about the Arcane Workbench added by Thaumcraft 6. For other uses, see Arcane Workbench.
+
+The Arcane Workbench is a tile entity added by Thaumcraft 6. Aside from being able to craft items like a standard Crafting Table, it is mainly used to craft arcane items from the mod. Items will stay on the workbench when exiting the GUI.
+
+
+== Recipe ==
+It is created by clicking a Crafting Table with Salis Mundus. If your Salis Mundus is not working... It's most likely because you haven't made a Thaumonomicon. Take that Salis Mundus and click a bookshelf to make a Thaumonomicon and then take another Salis Mundus to use on the Crafting Table.
+
+
+== Usage ==
+
+The Arcane Workbench has 6 colored slots around it for the primal Vis Crystals to be placed in. It will also use the available vis in the chunk it is placed in; this can be increased to a 3x3 chunk area if a Workbench Charger is placed on top of it.

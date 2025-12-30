@@ -1,0 +1,41 @@
+The torch (burnt-out) is a joke feature introduced exclusively in Java Edition 2.0. After a normal torch burns out, the burnt-out torch appears.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+A burnt-out torch breaks instantly and drops itself when broken using anything. Tools do not lose durability when used to break burnt-out torches.
+
+
+=== Torch ===
+When the torch is placed it will, when it is random ticked, turn into a burnt-out torch.
+
+
+== Usage ==
+
+
+=== Torch ===
+Burnt-out torches can be re-lit with flint and steel, turning them back into regular torches.
+
+
+== Sounds ==
+
+
+=== Generic ===
+
+
+=== Unique ===
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Issues ==
+Torch (burnt-out) blocks are an unsupported item due to being an April Fools' joke, and therefore such issues relating to them will not be fixed.

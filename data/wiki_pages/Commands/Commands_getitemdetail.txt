@@ -1,0 +1,16 @@
+Lets your agent return the name of the item in the specified slot.
+
+
+== Syntax ==
+getitemdetail <slotNum: int>
+
+
+== Arguments ==
+slotNum: int
+
+Specifies the slot number of items to be counted, slots are numbered from 1 to 27.
+
+
+== Result ==
+Fails if the arguments are not specified correctly.
+On success, returns the form of the item in the specified slot. See block id for the complete list.

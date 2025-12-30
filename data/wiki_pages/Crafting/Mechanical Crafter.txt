@@ -1,0 +1,7 @@
+The Mechanical Crafter is a machine added by Extra Utilities 2. It will automatically craft items with the recipe loaded into its crafting grid, provided it has the materials. It can store one recipe and will show a hologram of the product above the block.
+The internal storage is divided in two inventories: Input and Output, 9 slots each. The materials can be provided manually or with transport devices, other inventories, or other crafters attached to any side, such as the Transfer Pipe. Speed Upgrades can be added to it to craft at a faster rate.
+The machine can be controlled by redstone with respect to the selected operation mode. 
+Additionally it has a configurable setting for ancillary crafting items, such as empty buckets: Keep in Input inventory/Move to Output inventory.
+
+
+== Recipe ==

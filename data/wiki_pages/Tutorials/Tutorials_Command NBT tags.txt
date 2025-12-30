@@ -1,0 +1,78 @@
+NBT tags can be specified for items and entities created with the /give and /summon commands. Each tag has the format <tagname>:<value> where <tagname> describes what it does, and <value> is what it applies. Multiple tags are separated by commas. (e.g. {CustomName:'"Bob"', Invisible:true). The contents of List tags are enclosed in square brackets [], while the contents of Compound tags are enclosed in curly brackets {} – note that the entire data tag is itself a Compound tag (All within a set of {}). Tag names are case-sensitive, and white space is ignored. Additionally, some tags which are either true or false are stored as Byte tags (Example: {NoAI:1b})
+The player can quickly find data tags (NBT) without the use of external editors by using /data to figure out the data for each entity or block entity. See more about this in the article Commands/data.
+See Entity format for the various NBT Tags that are saved for each entity. This page also contains basic information for each NBT Tag.
+When None is used in a tag name that means that this tag can be put directly into the start of the dataTag.
+
+
+== Items ==
+These can be used in /give and /item commands as well as /clear. For commands such as /summon and /setblock, place them inside of a tag.
+Example:
+{id:"minecraft:stone",Count:3b, ..., tag:{Name:'{"text":"Name Here"}', ...}}
+These tags can be used on any item.
+
+The following table describes more details on Enchantments sub-tag.
+
+Example command: /give @p minecraft:carved_pumpkin{Enchantments:[{id:"minecraft:efficiency",lvl:5s}]} 1
+The following table describes more details on display sub-tag.
+
+Example command: /[[Commands/'"`uniq--nowiki-0000000f-qinu`"'|'"`uniq--nowiki-0000000f-qinu`"']]
+One can further modify the text with things like italics and boldness like so: /[[Commands/'"`uniq--nowiki-00000010-qinu`"'|'"`uniq--nowiki-00000010-qinu`"']]
+The following table describes more details on the Fireworks sub-tag.
+
+
+=== Blocks ===
+These tags are put on blocks as items.
+
+
+== Entities ==
+These tags are used when using the /summon command to spawn entities or when using the /data to edit the data of entities.
+
+The following table provides information on each tagname that can be added in an NBT Tag. These tagnames are specific to the /summon command.
+
+
+=== Villager ===
+These tags are used when summoning villagers.  (Offers NBT can't be done in 1.14+)
+
+
+=== Item Frame ===
+These tags are used when summoning itemframes.
+
+
+=== Potion ===
+These tags are used to customize potions
+
+
+=== Armor Stand ===
+These tags are used when summoning armor stands.
+
+Note: The Equipment tag also works for armor stands.
+
+
+=== Turtle ===
+These tags are used when summoning turtles.
+
+
+== Blocks ==
+Tags used in /setblock and /fill:
+
+Note: This is also used for Command Block Minecarts
+
+
+=== Generic ===
+These tags can be used on most tile entitied blocks
+
+
+=== Beacon ===
+
+
+=== Spawner ===
+These tags are used when using /setblock or /summon (spawner minecarts) to create spawners. Add only those data tags you want to avoid a potential error.
+
+Sub-tags used in the SpawnPotentials data tag.
+
+
+== See also ==
+Tutorials/Command blocks and functions
+
+
+== References ==

@@ -1,0 +1,4 @@
+The Exchange Tablet is a block added by Embers. It is used as a special kind of crafting table by right-clicking on the sides of the block to put items in certain spots. It may need Aspectus for certain recipes.
+
+
+== Recipe ==

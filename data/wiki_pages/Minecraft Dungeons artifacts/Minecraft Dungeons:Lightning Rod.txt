@@ -1,0 +1,86 @@
+The lightning rod is an artifact that can be found within the various missions of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+
+Soggy Swamp (Adventure)
+Soggy Cave (Adventure)
+Obsidian Pinnacle
+Frosted Fjord (DLC)
+Nether Fortress (DLC)
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+
+== Usage ==
+The lightning rod shoots lightning on a nearby mob, damaging it and the mobs around it. It deals a very large amount of damage in a small area.
+The lightning rod has a two second cooldown, +1 soul gathering, and requires fifteen souls to activate. 
+Equipment that increases Artifact Damage, such as the Souldancer Robe, Splendid Robe, and Cave Crawler affect the amount of damage dealt.
+The damage range depends on the item's power.
+
+
+=== Properties ===
+X artifact damage
+2 second cooldown
++1 Soul gathering
+Requires souls (15)
+
+
+=== Stats ===
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Lightning Rod" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

@@ -1,0 +1,370 @@
+A rabbit is an uncommon passive mob and is a source of rabbit's foot, rabbit hide, and raw rabbit.
+
+
+== Spawning ==
+Rabbits spawn above grass, snow blocks, or sand. They generate individually after the generation of the world.
+Rabbits of the following colors spawn in the following biomes:
+
+Yellow:
+Desert
+White, Black & White:
+Snowy Plains
+Snowy Taiga
+Grove
+Snowy Slopes
+Frozen Ocean‌
+Frozen River‌
+Snowy Beach‌
+Black, Brown, Brown & White:
+Flower Forest
+Taiga
+Meadow
+Old Growth Pine Taiga‌
+Old Growth Spruce Taiga‌
+Cherry Grove
+Creamy rabbits are the most common rabbit color and are found only in deserts and its variants. White and black and white rabbits are also quite common and spawn in snowy biomes such as snowy taigas, snowy plains, groves and snowy slopes. Default rabbit colors such as brown, black and salt and pepper spawn naturally in flower forests, taigas and meadows, but can also spawn in any other non-snowy biome via spawn eggs, commands, spawners or breeding. In all these places, groups of an adult and one to two babies spawn.
+In Bedrock Edition, up to three kits spawn in flower forests and rabbits can also spawn in frozen aquatic biomes: snowy beaches, frozen oceans, and frozen rivers.
+In Java Edition, rabbits can also be found in giant tree taigas.
+In taigas, wolves and foxes are also found. If left alone, these may quickly kill rabbits, so rabbits are generally more plentiful in the desert, flowery or icy biomes.
+The Killer Bunny does not spawn naturally and must instead be spawned using the /summon command, although it is exclusive to Java Edition.
+
+
+== Drops ==
+When killed, an adult rabbit drops:
+
+0–1 rabbit hide. The maximum is increased by 1 per level of Looting, for a maximum of 0–4 with Looting III.
+0–1 raw rabbit (cooked rabbit if killed while on fire).‌ The maximum amount is increased by 1 per level of Looting, for a maximum of 0–4 with Looting III.
+1 raw rabbit (cooked rabbit if killed while on fire).‌ The maximum amount is increased by 1 per level of Looting, for a maximum of 1–4 with Looting III.
+There is a 10% chance of dropping a rabbit's foot upon death when killed by the player or a tamed wolf. The chance can be increased by 3% per level of Looting, up to a maximum chance of 19% with Looting III.
+1–3 upon player kills.
+Upon successful breeding, 1–7 is dropped.
+
+
+== Behavior ==
+Rabbits hop around aimlessly instead of walking. They can jump up almost 2 blocks in height. They slowly approach players holding carrots, golden carrots or dandelions within 8 blocks. They don't follow the players that hold carrot on a stick although pigs do. Rabbits also jump off of cliffs to reach carrots but do not go into lava for them. They randomly flee around if attacked. All non-hostile rabbits avoid players within 8 blocks and avoid most hostile mobs within 4 blocks (except slimes, magma cubes, and ghasts). They also avoid wolves within 10 blocks.
+If /gamerule mobGriefing is true, rabbits find and eat mature carrot crops‌ / carrot crops with growth stage greater than 1‌. This reduces the growth stage by one, removing the crop completely when the growth stage reaches 0.
+Wild wolves, foxes, and stray cats track down and kill any rabbits.
+
+
+=== Breeding ===
+Rabbits can be bred using carrots, golden carrots or dandelions.
+Baby rabbits usually inherit the same type of fur as one of the parents (47.5% chance of each), but there is a 5% chance for the baby to have the fur type matching the current biome. Baby rabbits grow to adulthood after 20 minutes, although their growth can be slowly accelerated using carrots, golden carrots or dandelions; each use reduces 10% of the remaining time to grow up.
+Despite their hostile nature, killer bunnies can breed with other rabbits and with each other, having the unusual chance of creating a baby killer bunny.
+A Toast rabbit does not produce a Toast rabbit baby, however.
+In Bedrock Edition and Minecraft Education, baby rabbits follow their parents; this behavior is absent in Java Edition.
+
+
+== Variations ==
+
+Rabbits typically spawn using one of six different skins. Skins include regular brown fur, white fur with red eyes (albino), black mottled fur, black and white spotted fur, gold (cream) fur, and salt and pepper fur. The biome determines the skin used:
+
+Rabbits in snowy biomes have 80% white fur and 20% black and white fur.
+Rabbits in deserts have 100% gold fur.
+Rabbits in other biomes have 50% brown fur, 40% salt & pepper fur, and 10% black fur.
+Rabbits with specific skins can be spawned using /summon rabbit ~ ~ ~ {RabbitType: (Number from 0 - 5)}‌ or /summon rabbit ~ ~ ~ in_desert (gold)/in_snow (white)‌.
+While it is possible to go above 5, this results in rabbits with skins identical to RabbitType: 0, with the exception of RabbitType: 99, the Killer Bunny.
+There are two special variants of rabbits:
+
+
+=== The Killer Bunny ===
+                                                                           
+
+The killer bunny is an aggressive variant of the rabbit exclusive to Java Edition that is hostile toward players, foxes, and wolves. Its fur is pure white with blood-red eyes that are horizontal, compared to a normal rabbit's vertical eyes. It can be spawned only by using the /summon rabbit ~ ~ ~ {RabbitType:99} command. It appears with a nameplate over its head reading "The Killer Bunny".
+If the killer bunny finds any player within a 16-block radius, it hops toward the player much faster than a normal rabbit. It moves in a style similar to that of a spider. Once it closes in, it jumps at the player, dealing 8 damage on Normal difficulty. If the player strikes at the killer bunny, it runs away for a brief moment, then returns to lunging at the player. Killer bunnies are immune to the Thorns enchantment.
+If it cannot find a player, the killer bunny actively seeks out and attacks any foxes or wolves, including tamed wolves. These mobs, in return, attack the killer bunny, leading to a vicious fight.
+On peaceful difficulty, the killer bunny does not despawn, despite its hostile nature. It still attacks wolves and tamed wolves, but not the player.
+The killer bunny can be bred and leashed and follows players holding carrots, despite its hostile nature.
+
+
+=== Toast ===
+
+Naming a rabbit Toast (using either a name tag or a renamed spawn egg) re-textures it to have the appearance of a black Dutch, with a large black and white patch and more black fur around the face than the natural black and white spotted rabbit. Other than its name and skin, Toast behaves exactly like it would if it were unnamed. When Toast rabbits are bred, whether with each other or with regular rabbits, their offspring do not have the Toast pattern; they have a pattern consistent with the parents' original coloring prior to renaming. If the player renames a killer bunny to Toast, it still attacks players and wolves. Like the killer bunny, Toast does not spawn naturally.
+This rabbit is the skin of user xyzen420's girlfriend's missing rabbit, which Ryan Holtz implemented as a memorial.
+
+
+== Sounds ==
+Java Edition:
+Regular rabbits use the Friendly Creatures sound category for entity-dependent sound events. Killer bunnies use the Hostile Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Rabbits have entity data associated with them that contain various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== Video ==
+Note: this video is outdated as rabbits can no longer be tamed, rabbits are smaller now, and the killer rabbit is now called the killer bunny.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Rabbit" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+The Killer Bunny is a reference to the Killer Rabbit of Caerbannog from the British comedy film Monty Python and the Holy Grail, which it was formerly named.
+The Killer Bunny was suggested by X user @88bully.
+The death sound for the rabbit is called bunnymurder.ogg.
+The rabbit varieties appear to have real-life counterparts:
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Animations ===
+
+		
+			
+			
+		
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

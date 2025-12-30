@@ -1,0 +1,45 @@
+Manages the updating of scoreboard objectives with the results of other commands.
+Commands can be executed by blocks (specifically, command blocks and signs) or by entities (players can execute commands directly, and other entities can be the origin of commands indirectly with the /execute command). When a command is executed, the command returns one or more "command stats": the success count, number of blocks affected, number of entities affected, number of items affected, and/or a query result (such as from /time query daytime).
+The stats command allows "selectors" and "objectives" to be set (or cleared) for each of these command stats for specific blocks or entities. Selectors (for example, @e) are stored exactly as entered, and don't get evaluated immediately. When a command is later run by the block or entity, the stored selector is then used to target (other) entities and update their scoreboard objective with the value of the command stat. That value can then be displayed or operated on, just like any other scoreboard value.
+The success count from a command block can also be acquired with a redstone comparator, but that is capped at a maximum value of 15, while scoreboard objectives can hold any value from -2,147,483,648 to 2,147,483,647. Success counts and query results are also usually displayed in the chat.
+
+Syntax
+stats block <x> <y> <z> clear <stat>
+stats block <x> <y> <z> set <stat> <selector> <objective>
+stats entity <selector2> clear <stat>
+stats entity <selector2> set <stat> <selector> <objective>
+Arguments
+x y z (block mode only)
+Specifies the position of the block to post command stats from. x and z must be between -30,000,000 and 30,000,000 (inclusive, without the commas) and y must be between 0 and 255 (inclusive). May use tilde notation to specify a position relative to the command's execution.
+selector2 (entity mode only)
+Specifies the entity to post command stats from. Must be a player name or a target selector.
+stat
+Specifies the command stat whose selector and objective are to be cleared or set. Must be one of:
+AffectedBlocks — returns the number of blocks affected by a command
+AffectedEntities — returns the number of entities affected by a command
+AffectedItems — returns the number of items affected by a command
+QueryResult — returns the result of a command query
+SuccessCount — returns a command's success count
+selector (set mode only)
+Specifies the selector to be evaluated when a command is run by the specified block or entity to determine which entity(ies) scoreboard objective is to be updated with the result returned by stat. May be anything because it is not evaluated until a command is run by the specified block or entity, but only a player name or a target selector produces useful results (though player names can be fake, so even real players don't need to be online).
+objective (set mode only)
+Specifies the name of the objective to be updated with the result returned by stat. May be anything because it is not evaluated until a command is run by the specified block or entity, but only the name of a defined objective produces useful results.
+Result
+Fails if the arguments are not specified correctly, if the specified block cannot track stats (in other words, it fails if the specified block is not a command block or sign), or if selector2 fails to evaluate to one or more valid entities (named players must be online).
+On success, clears or sets the selector and objective to be updated with the result returned by stat.
+Examples
+To set the block at (0,64,0) to update scoreboard objective MyObj of the nearest player with the value of any query result returned by the block:
+stats block 0 64 0 set QueryResult @p MyObj
+To stop the block at (0,64,0) from updating any scoreboard obectives with the success count of commands it executes:
+stats block 0 64 0 clear SuccessCount
+To have the nearest wither skull update the scoreboard objective NumBlocks of fake player #FakePlayer with the number of blocks affected by commands executed by the wither skull:
+stats entity @e[type=wither_skull,c=1] set AffectedBlocks #FakePlayer NumBlocks
+
+
+== History ==
+
+
+== See also ==
+Tutorials/Command stats
+/blockdata — can also change the selector and objectives of blocks by altering data tags directly
+/entitydata — can also change the selector and objectives of entities by altering data tags directly

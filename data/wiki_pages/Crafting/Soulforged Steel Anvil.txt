@@ -1,0 +1,9 @@
+The Soulforged Steel Anvil is a functional block added by Better With Mods. The Soulforged Anvil is often considered as the "successor" to the Crafting Table, providing a 4x4 crafting grid to work with. Unlike the Minecraft Anvil, the Soulforged Anvil is not affected by gravity. Some common uses of the anvil include making Soulforged Tools, Armour, and several components used throughout the mod. It is not used to repair or enchant armor pieces and tools.
+As of version 2.1.22 for Minecraft version 1.12.2, the Soulforged Steel Anvil works with JEI, allowing the mod to auto input items into the Anvils crafting grid using the "+" button.
+
+
+== Recipe ==
+
+
+== GUI ==
+The Soulforged Anvil contains a 4x4 crafting grid and 1 output slot, allowing for more in-depth recipes.

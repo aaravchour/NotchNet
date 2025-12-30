@@ -1,0 +1,60 @@
+A block of raw iron is a raw metal block equivalent to nine raw iron. 
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Blocks of raw iron only drop themselves as items when mined using a stone pickaxe or better.
+
+
+=== Natural generation ===
+Blocks of raw iron can be found rarely inside of huge ore veins below Y=0.
+
+
+=== Crafting ===
+
+
+== Usage ==
+Blocks of raw iron are a compact way to store raw iron.
+
+
+=== Crafting ingredient ===
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Issues ==
+Issues relating to "Block of Raw Iron" are maintained on the bug tracker. Report issues there.

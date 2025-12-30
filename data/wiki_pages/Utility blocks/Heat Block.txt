@@ -1,0 +1,41 @@
+The Heat Block is a block that can melt snow and ice like a torch, but does not give off light.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+
+
+=== Lab Table ===
+
+
+== Usage ==
+Heat blocks melt snow layers and ice within 2 blocks (taxicab distance). It is unique in that it is the only block that melts objects without giving off light.
+
+
+== Sounds ==
+
+
+=== Generic ===
+
+
+=== Unique ===
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== Trivia ==
+Iron corrodes in salt water way faster than it does in water, because electrochemistry is involved.
+The ingredients of the heat block corresponds to the contents of hand warmers. A hand warmer generates heat due to the same electrochemistry that rusts iron in seawater, but with powdered iron the effect becomes more appreciable.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Heat Block" are maintained on the bug tracker. Report issues there.

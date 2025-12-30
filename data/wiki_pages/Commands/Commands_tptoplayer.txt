@@ -1,0 +1,9 @@
+Teleports your agent to your feet.
+
+
+== Syntax ==
+tptoplayer
+
+
+== Result ==
+Always succeeds.

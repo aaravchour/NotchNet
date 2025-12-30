@@ -1,0 +1,10 @@
+Enable/disable village debugging information display
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

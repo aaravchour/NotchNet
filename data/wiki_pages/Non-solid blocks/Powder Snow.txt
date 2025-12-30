@@ -1,0 +1,115 @@
+Powder snow is a block found in snowy slopes and grove biomes, or collected from snowfall using cauldrons.  Players and most mobs fall through powder snow and take freezing damage within it, but leather boots can be worn to stand on and climb through it as well as gain freezing immunity. Powder snow can only be obtained using a bucket.
+
+
+== Obtaining ==
+
+
+=== Natural generation ===
+Powder snow naturally generates in groves and snowy slopes in strip formations.
+
+
+=== Cauldrons ===
+
+A cauldron in a snowy biome under open sky fills with powder snow when it is snowing. Powder snow can then be picked up from this cauldron with an empty bucket.
+
+
+=== Bucket ===
+Using a powder snow bucket places powder snow; placed powder snow can be picked up again with an empty bucket. These actions can be automated using a dispenser. When picked up, breaking particles appear.‌
+
+
+=== Breaking ===
+Powder snow does not drop anything when mined, even with Silk Touch, and tools do not speed up mining.
+
+Powder snow is broken by water or lava, or when shot with a Flame-enchanted bow.
+
+
+== Usage ==
+
+Entities (except rabbits, endermites, silverfish, shulkers, vexes and foxes) fall through powder snow without taking fall damage and move much slower in it, as they do in cobwebs. Powder snow does not cause suffocation damage.
+Mobs, armor stands, and players wearing leather boots do not fall through powder snow. In this case, the powder snow behaves like scaffolding when the player sneaks or crouches while on the block and jumps while inside of the block. It is impossible to climb out of powder snow without leather boots.
+Most walking mobs (except for goats) treat powder snow as a normal solid block while pathfinding, similar to trapdoors, allowing them to voluntarily walk into it, and fall through it if possible. Goats avoid powder snow, although they are not immune to falling through it and taking freezing damage.
+If an entity that is on fire touches powder snow, powder snow cools it down as the powder snow melts.
+Being fully inside a block causes a thick fog effect around the point of view. In Java Edition, players in Spectator mode can see through powder snow without any fogging effect.
+When powder snow is on top of grass blocks, mycelium or podzol, the blocks below change to a snowy texture, similar to when snow layers are on top; they revert to their default textures when the powder snow is removed. This change can be detected by observers.
+
+
+=== Freezing ===
+
+When an entity is inside a powder snow block, it begins to freeze, taking damage.
+A player submerged in powder snow sees a frosty vignette slowly fade in at the sides of the screen and the FOV slowly decreases. When the vignette is fully shown, the player begins shivering visibly. After seven seconds (140 game ticks), the player's hearts change to a cyan frosty texture (), and the player begins taking damage at a rate of 1 HP every two seconds (40 game ticks). When an entity dies of freezing damage, a message will appear, saying [entity] froze to death. If the player leaves the powder snow block, the vignette slowly fades away. A frozen player moves slower than usual until the vignette fully fades away. This is controlled by the "TicksFrozen" data tag, which increases by 1 every tick (to a maximum of 140) for an entity within the powder snow block. It decreases at a rate of 2 per tick after the entity leaves the powder snow block. This is currently not a separate effect when used with commands such as /effect give freezing, and does not have its own unique art, particles, or potion.
+In Java Edition, players do not take freezing damage if the game rule freezeDamage is set to false.
+Wearing any piece of leather armor stops the freezing effect and reverses the damage. This applies to entities that can wear armor, such as players, zombies, and horses wearing leather horse armor. If the leather armor is put on while the entity already has the freezing effect, the effect fades away the same as if the entity exited the powder snow.
+Snow golems, strays, polar bears, withers, and ender dragons are immune to freezing damage. Fire-related mobs like striders, magma cubes, and blazes take 5 from freezing.
+Skeletons turn into strays instead of taking freezing damage.
+
+
+=== Preventing fall damage ===
+Similar to water, powdered snow resets the fall distance of players and mobs falling into it, and can be used to prevent fall damage. It is superior to water in that it can be used in the Nether.
+
+
+=== Piston interactivity ===
+Despite not being a solid block, powder snow can be pushed and pulled by pistons like most solid blocks. This makes it the only block that can be placed and retrieved by dispensers, while also pushable by pistons.
+
+
+== Sounds ==
+
+
+=== Generic ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Unique ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Advancements ==
+
+
+== History ==
+
+
+=== Powder Snow "items" ===
+
+
+== Issues ==
+Issues relating to "Powder Snow" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External Links ==
+Block of the Week: Powder Snow – Minecraft.net on October 21, 2021

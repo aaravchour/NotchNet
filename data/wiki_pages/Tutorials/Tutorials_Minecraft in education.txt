@@ -1,0 +1,22 @@
+Education Edition is an educational tool that facilitates cooperation and teamwork among players, young and old. It is similar to Bedrock Edition, but with some new features.
+
+
+== Educational benefits ==
+Minecraft can have huge educational benefits for children; it can help teach numerous subjects both with and without adult involvement. Learning in Minecraft can be faster than traditional methods of education, as children are often far more motivated, get more and more practice, and feel that what they are learning is useful. There are some new sign blocks, such as boards, slates, and posters. The allow and deny blocks are used for building. The border block prevents players from jumping on top, like a fence. There is also an agent that can be coded.
+
+Mojang has recognized the educational potential Minecraft offers, and has partnered with minecraftedu.com to provide a 50% discount on Minecraft for educational institutions.
+
+
+== Content suitability ==
+While the mobs (enemies) may be scary or overly frustrating for younger children, singleplayer contains no coarse language unless manually typed, no sexual (breeding simply involves mobs "kissing") or drug references, no gore, and dead mobs simply turn red, fall over, and  turn to dust. There is combat in the context of Survival, however it is not gratuitous killing and not at all graphic (certain server mods or command block contraptions may make players emit particles like broken redstone or lava to represent blood - these, however, are not common on most servers). There is also a Peaceful difficulty, so younger players do not have to encounter enemies apart from wolves (which only attack if provoked) and, to a lesser extent, villager-made iron golems. But some things come after you and your child has an option to flee or fight, the mobs can be turned off also.
+In multiplayer, others on the server may use coarse or inappropriate language when using the in-game text chat. This can be prevented by running a private server or setting up Minecraft realms, where access can be restricted to specific players using the customizable whitelist. You can invite up to 20 players (including the owner, so actually 19) on the customizable whitelist.
+You can also turn off chat by going to settings menu and from there to Multiplayer Settings. There you have an option to turn off your chat, you will see no member talk, and you cannot talk. However, it is recommended that you instead set it to Commands only, as completely switching off chat will prevent the usage of useful commands such as /home.
+
+
+== Technical ability ==
+Minecraft can be easily set up by a parent for their child to play. The launcher can be downloaded from minecraft.net. The file can be saved to the desktop for easy access, or to any location on the computer. To play the game, open the file, log in, create a profile (optional), and press Play. The launcher saves passwords, so you must manually log out every time you play the game if you do not want your child to play freely.
+Setting up a server is much more involved, and will likely require parental assistance through the age of 13.
+
+
+== News Articles ==
+Ideas for Using Minecraft in the Classroom by Andrew Miller, Edutopia.com

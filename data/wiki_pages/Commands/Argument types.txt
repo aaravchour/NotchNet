@@ -1,0 +1,338 @@
+This page contains a list of all command argument types.
+
+
+== Java Edition ==
+
+
+=== brigadier:bool ===
+Must be a  boolean (either true or false).
+
+
+=== brigadier:double ===
+Must be a  Double-precision floating-point format number.
+Each double argument may have a custom minimum and maximum value.
+Precision varies throughout number line; the maximum absolute value is about 1.8*10308.
+
+
+=== brigadier:float ===
+Must be a  Single-precision floating-point format number.
+Each float argument type may have a custom minimum and maximum value.
+Precision varies throughout number line; the maximum absolute value is about 3.4*1038.
+
+
+=== brigadier:integer ===
+Must be a  32-bit integer number.
+Each integer argument type may have a custom minimum and maximum value.
+Maximum range is from −(231) to (231 − 1), or from (−2,147,483,648) to (2,147,483,647).
+
+
+=== brigadier:long ===
+Must be a  64-bit long.
+Note: Although a long argument type is present in brigadier, it is not used by Minecraft.
+Each long argument type may have a custom minimum and maximum value.
+Maximum range is from −(263) to (263−1), or from (−9,223,372,036,854,775,808) to (9,223,372,036,854,775,807).
+
+
+=== brigadier:string ===
+Must be a string.
+Each string argument type can accept either a single word (no spaces), a quotable phrase (either single word or quoted string), or a greedy phrase (taking the rest of the command as the string argument).
+
+
+=== minecraft:angle ===
+Must be a yaw angle, measured in degrees with float number. -180.0 for due north, -90.0 for due east, 0.0 for due south, 90.0 for due west, to 179.9 for just west of due north, before wrapping back around to -180.0. Tilde notation can be used to specify a rotation relative to the execution yaw angle.
+
+
+=== minecraft:block_pos ===
+Must be a block position composed of <x>, <y> and <z>, each of which must be an integer or a tilde and caret notation.
+
+
+=== minecraft:block_predicate ===
+The format of block_predicate parameters is block_id[block_states]{data_tags}, in which block states and data tags can be omitted when they are not needed.
+
+block_id is required, and it should be in the format of resource location(if namespace isn't set it defaults to minecraft:).
+It can also be the resource location of a block tag prefixed with #, such as #minecraft:planks.
+Block states are inside [], comma-separated and must be properties/values supported by the blocks. They are optional.
+minecraft:stone[doesntexist=purpleberry] is unparseable, because stone doesn't have doesntexist.
+minecraft:redstone_wire[power=tuesday] is unparseable, because redstone_wire's power is a number between 0 and 15.
+Data tags are inside {}. It's optional.
+When test for block, only the states provided are tested.
+If command tests redstone_wire[power=15], it checks only power, but ignores other states such as north.
+
+
+=== minecraft:block_state ===
+The format of block_state parameters is block_id[block_states]{data_tags}, in which block states and data tags can be omitted when they are not needed.
+
+block_id is required, and it should be in the format of resource location (if namespace isn't set it defaults to minecraft:).
+Block states are inside [], comma-separated and must be properties/values supported by the blocks. They are optional.
+minecraft:stone[doesntexist=purpleberry] is unparseable, because stone doesn't have doesntexist.
+minecraft:redstone_wire[power=tuesday] is unparseable, because redstone_wire's power is a number between 0 and 15.
+Data tags are inside {}. It's optional.
+When placing blocks, any states provided are set, but anything omitted retain their default values, depending on the block type.
+If command sets redstone_wire[power=15], it is set power to 15, but north is a default value (in this case, set to none).
+
+
+=== minecraft:color ===
+Must be a team color (reset or one of the 16 chat colors.)
+
+
+=== minecraft:column_pos ===
+Must be a column coordinates composed of <x> and <z>, each of which must be an integer or tilde notation.
+
+
+=== minecraft:component ===
+Must be a raw JSON text.
+
+
+=== minecraft:dimension ===
+It must be the resource location, which will be resolved during command execution into a dimension.
+
+
+=== minecraft:entity ===
+Must be a player name, a target selector or a UUID.
+Each entity argument may place limits on the number of entities (single/multiple) selected or the type of entities (player/any entity) selected.
+
+
+=== minecraft:entity_anchor ===
+Must be either eyes or feet.
+
+
+=== minecraft:float_range ===
+Must be a range acceptable for float values. (e.g. 0.1 - exact match of 0.1. ..0.1 - less than or equal to 0.1. 0.1.. - more than or equal to 0.1. 0.1..1 - between 0.1 and 1, inclusive.)
+
+
+=== minecraft:function ===
+It must be a resource location, which refers to a single function, or one prefixed with a #, which refers to a function tag.
+
+
+=== minecraft:game_profile ===
+Must be a collection of game profiles (player profiles), which can be a player name (must be a real one if the server is in online mode), or a player-type target selector.
+
+
+=== minecraft:gamemode ===
+Must be one of the following:survival for Survival modecreative for Creative modeadventure for Adventure modespectator for Spectator modeNote that "hardcore" is not a valid option, as it is technically not a game mode.
+
+
+=== minecraft:heightmap ===
+Must be one of world_surface, motion_blocking, motion_blocking_no_leaves, and ocean_floor.
+
+
+=== minecraft:int_range ===
+Must be a range acceptable for integer values. (e.g. 0 - exact match of 0. ..0 - less than or equal to 0. 0.. - more than or equal to 0. 0..1 - between 0 and 1, inclusive.)
+
+
+=== minecraft:item_predicate ===
+The format of item_predicate parameters is item_id{data_tags}, in which data tags can be omitted when not needed.
+
+item_id is required, and it should be in the format of resource location (if namespace isn't set it defaults to minecraft:).
+It can also be the resource location of a block tag or item tag with the prefix of #, such as #minecraft:planks.
+Data tags are inside {}. It's optional.
+When clear or test for item, only the states provided are tested.
+
+
+=== minecraft:item_slot ===
+Must be a string notation that refer to certain slots in the inventory, which consists of "slot type" and optional "slot number", in the format of <slot_type> or <slot_type>.<slot_number>. See Slot for details.
+
+
+=== minecraft:item_stack ===
+The format of item_stack parameters is item_id{data_tags}, in which data tags can be omitted when not needed.
+
+item_id is required, and it should be in the format of resource location (if namespace isn't set it defaults to minecraft:).
+Data tags are inside {}. It's optional.
+When giving items, any states provided are set, but anything omitted retain their default values, depending on the item type.
+
+
+=== minecraft:message ===
+Must be a plain text. Can include spaces as well as target selectors. The game replaces entity selectors in the message with the list of selected entities' names, which is formatted as "name1 and name2" for two entities, or "name1, name2, ... and namen" for n entities.
+
+
+=== minecraft:nbt_compound_tag ===
+Must be a  compound NBT in SNBT format.
+
+
+=== minecraft:nbt_path ===
+Must be an NBT path.
+
+
+=== minecraft:nbt_tag ===
+Must be an NBT tag of any type in SNBT format.
+
+
+=== minecraft:objective ===
+It must be a valid scoreboard objective name.
+
+
+=== minecraft:objective_criteria ===
+Must be a scoreboard objective criterion.
+
+
+=== minecraft:operation ===
+Must be an arithmetic operator for /scoreboard.Valid values include = (assignment), += (addition), -= (subtraction), *= (multiplication), /= (floor division), %= (modulus), >< (swapping), < (choosing minimum) and > (choosing maximum).
+
+
+=== minecraft:particle ===
+It must be a resource location of a particle followed by particle parameters that are particle-specific.block, block_marker, and falling_dust has a parameter in block_id[block_state=foo] format to specify a block, in which block states can be omitted when unneeded. For example: /particle block minecraft:grass_block[snowy=true]dust requires three color channel parameters to be set along with the name, representing red, green, and blue, each being a value in the range 0 to 1; and an additional parameter representing size. For example: /particle dust 1.0 0.5 0.5 1.0 creates a pink particle at regular size. If one or more values are greater than 1, the particles change their colors. The greater the values the greater is the range of different colors.dust_color_transition requires three color channel parameters like dust representing the start color, a number parameter representing size, and another three color channel parameters representing the end color. For example: /particle dust_color_transition 1.0 0.0 0.0 1.0 0.0 0.0 1.0 creates a particle transitioning from red to blue at regular size.item requires an item as a parameter in the format of item_id{NBT}, in which NBT can be omitted when unneeded. It appears, however, that NBT values do not change anything in how the particle looks. For example: /particle item minecraft:applesculk_charge requires a float parameter specifying the angle the particle displays at in radians.shriek requires an int parameter specifying the delay in ticks. For example: /particle shriek 100 creates a shriek particle that doesn't show up until 100 game ticks (5 seconds) in.vibration requires a position parameter representing the destination, and an integer parameter representing the duration of the move. For example: /particle vibration 5.0 64.0 0.0 200 creates a particle taking 200 ticks moving from the current position to 5.0 64.0 0.0.
+
+
+=== minecraft:resource ===
+Must be an existing registered resource location in correct registry.
+
+
+=== minecraft:resource_key ===
+Must be a resource location which will be resolved during command execution into a registry entry in correct registry.
+
+
+=== minecraft:resource_location ===
+Must be a resource location which will be resolved during command execution into unregistered content or client-side content.
+
+
+=== minecraft:resource_or_tag ===
+Must be an existing registered resource location or tag in correct registry.
+
+
+=== minecraft:resource_or_tag_key ===
+Must be a resource location or a tag, which will be resolved during command execution into an entry or tag in correct registry.
+
+
+=== minecraft:rotation ===
+Must be a rotation with double number elements, including yaw and pitch, measured in degrees.For the horizontal rotation (yaw), -180.0 for due north, -90.0 for due east, 0.0 for due south, 90.0 for due west, to 179.9 for just west of due north, before wrapping back around to -180.0.For the vertical rotation (pitch), -90.0 for straight up to 90.0 for straight down.Tilde notation can be used to specify a rotation relative to the execution rotation.
+
+
+=== minecraft:score_holder ===
+Must be a selection of score holders. It may be either a target selector, a player name, a UUID, or * for all score holders tracked by the scoreboard. Named player needn't be online, and it even needn't be a real player's name.
+Each score holder argument may specify if it can select only one score holder or multiple score holders.
+
+
+=== minecraft:scoreboard_slot ===
+Must be a scoreboard display slot.
+
+
+=== minecraft:swizzle ===
+Any non-repeating combination of the characters 'x', 'y', and 'z'. Axes can be declared in any order, but they cannot duplicate. (For example, x, xz, zyx, or yz.)
+
+
+=== minecraft:team ===
+Must be a team name of an unquoted string. Allowed characters include: -, +, ., _, A-Z, a-z, and 0-9.
+
+
+=== minecraft:template_mirror ===
+Must be one of none, front_back, and left_right.
+
+
+=== minecraft:template_rotation ===
+Must be one of none, clockwise_90, counterclockwise_90, and 180.
+
+
+=== minecraft:time ===
+It must be a single-precision floating point number suffixed with a unit. Units include:d: an in-game day, 24000 gameticks;s: a second, 20 gameticks;t (default and omitable): a single gametick; the default unit.The time is set to the closest integer tick after unit conversion. For example. .5d is same as 12000 ticks.
+
+
+=== minecraft:uuid ===
+Must be a UUID in the hyphenated hexadecimal format. Allowed characters include:-A-Fa-f0-9
+
+
+=== minecraft:vec2 ===
+Must be a two-dimensional coordinates with floating-point number elements. Accepts tilde and caret notations.
+
+
+=== minecraft:vec3 ===
+Must be a three-dimensional coordinates with floating-point number elements. Accepts tilde and caret notations.
+
+
+=== Removed ===
+
+
+==== minecraft:entity_summon ====
+Must be a resource location of a summonable entity type.
+
+
+==== minecraft:item_enchantment ====
+Must be an ID of an enchantment.
+
+
+==== minecraft:mob_effect ====
+Must be an ID of a status effect.
+
+
+== Bedrock Edition ==
+
+
+=== BlockStateCommandParam ===
+Must be a blockstate argument as ["<state1>":<value1>,"<state2>":<value2>,...]. For example: ["old_leaf_type":"birch","persistent_bit":true].
+
+
+=== CommandIntegerRange ===
+Must be a range acceptable for integer values. (e.g. 0 - exact match of 0. ..0 - less than or equal to 0. 0.. - more than or equal to 0. 0..1 - between 0 and 1, inclusive.)
+
+
+=== CommandFilePath ===
+ It must be of the format path/to/function/file, which refers to a function located at [behavior_pack]/functions/path/to/function/file.mcfunction.
+
+
+=== CommandMessage ===
+Must be a plain text. Can include spaces as well as target selectors. The game replaces entity selectors in the message with the list of selected entities' names, which is formatted as "name1 and name2" for two entities, or "name1, name2, ... and namen" for n entities.@here can be used to mention all players.
+
+
+=== CommandOperator ===
+Must be an arithmetic operator for /scoreboard.Valid values include = (assignment), += (addition), -= (subtraction), *= (multiplication), /= (floor division), %= (modulus), >< (swapping), < (choosing minimum) and > (choosing maximum).
+
+
+=== CommandPosition ===
+Must be a three-dimensional coordinates composed of <x>, <y> and <z>, each of which must be a floating-point number or tilde and caret notation.
+
+
+=== CommandPositionFloat ===
+Must be a three-dimensional coordinates with floating-point number elements. Accepts tilde and caret notations.
+
+
+=== CommandRawText ===
+It is a greedy phrase string argument (taking the rest of the command as the string argument).
+
+
+=== CommandSelector<Actor> ===
+Represents entities. Must be a player name or a target selector.
+
+
+=== CommandSelector<Player> ===
+Represents players. Must be a player name or a target selector.
+
+
+=== CommandWildcardInt ===
+Must be a 32-bit integer, or a asterisk (*) to represent MIN_INT(-2,147,483,648),
+
+
+=== float ===
+Must be a  Single-precision floating-point format number.
+
+
+=== int ===
+Must be a  32-bit integer number.
+
+
+=== Json::Value ===
+Must be a JSON Object.
+
+
+=== RelativeFloat ===
+Must be a  float or a tilde and caret notation.
+
+
+=== std::basic_string ===
+Must be a string. And it must be a single word that has no space or a quoted string.
+
+
+=== std::unique_ptr<Command> ===
+Represents a complete command.
+
+
+=== WildcardCommandSelector<Actor> ===
+Must be a selection of score holders. It may be either a target selector, a player name, a unique ID of an entity, or * for all score holders tracked by the scoreboard. Named player needn't be online, and it even needn't be a real player's name.
+
+
+=== Enum ===
+Must be an unquoted string without space.
+
+
+== History ==
+
+
+== References ==

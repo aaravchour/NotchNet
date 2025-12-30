@@ -1,0 +1,94 @@
+This page will teach you how to install a Forge server.
+
+
+== 1.6 to 1.20.6 ==
+
+
+==== Text version ====
+Firstly, you need the Forge installer, which can be downloaded from the official Forge download page. Once downloaded, launch it and choose option "Install server". If you're installing Forge on a headless server with no graphical interface, run the following command in the directory where you downloaded the jar installer (replace "x.xx.x" with the correct version number for the installer you downloaded):
+
+java -jar forge-x.xx.x-installer.jar --installServer
+
+If you get an error about "Downloading Minecraft server failed, invalid e-tag checksum.", you will need to install a vanilla Minecraft server and then run Forge installer. The vanilla server can be downloaded in its respective page.
+If you get an error about "There are already files at the target directory", click on the three dots to choose the current location of your Minecraft server (the video shows this).
+Once you started vanilla server (don't forget to change EULA), install Forge and you are done. Now you can launch Forge server by double clicking "forge-version-xx.xx.x.xxxx-version.universal.jar" or using the command below.
+
+
+==== Video version ====
+
+This tutorial is intended for Windows users, but may be of some use to users who use other operating systems (Mac, Linux).
+
+
+=== Information ===
+Minecraft Forge page from video
+Minecraft Forge Files/Releases
+Minecraft Forge website
+Server start text used in the video:
+java -Xmx1024M -Xms1024M -jar FORGE_FILE_NAME.jar --nogui
+PAUSE
+
+
+== 1.5 and prior ==
+
+This tutorial is intended for Windows users, but may be of some use to users who use other operating systems (Mac, Linux)
+
+
+=== Information ===
+Latest Minecraft Server
+Minecraft Forge 1.5.2
+Minecraft Forge 1.5.1
+Minecraft Forge 1.5
+Minecraft Forge 1.4.7
+Minecraft Forge website
+Server start text:
+java -Xmx1024M -Xms1024M -jar SERVER_FILE_NAME.jar --nogui
+PAUSE
+
+you can give the server more memory by changing the 1024 to a multiple of 1024
+
+
+=== Notice ===
+If the server start text doesn't work then try renaming the SERVER_FILE_NAME to 'SERVER_FILE_NAME.jar' without the apostrophes.
+Or you could use this server start text instead:
+
+java -Xmx1024M -Xms1024M -jar SERVER_FILE_NAME.jar --nogui
+PAUSE
+
+If you receive the "Java is not recognized" message, replace "java" with its file location. (e.g.: "C:\Program Files (x86)\Java\jre7\bin\javaw.exe")
+The full string would be:
+
+"C:\Program Files (x86)\Java\jre7\bin\java.exe" -Xmx1G -Xms1G -jar FORGE_FILE_NAME.jar --nogui
+PAUSE
+
+If you receive the "A problem occured running the Server launcher.java.lang.reflect.InvocationTargetException" message, try downloading and installing JRE 8 and point to it's destination on run. This would look like: 
+
+
+== 1.16.5 to now ==
+
+
+=== Information ===
+Latest Minecraft Server
+Minecraft Forge 1.5.2
+Minecraft Forge 1.5.1
+Minecraft Forge 1.5
+Minecraft Forge 1.4.7
+Minecraft Forge website
+Server start text:
+java -Xmx1024M -Xms1024M -jar SERVER_FILE_NAME.jar --nogui
+PAUSE
+
+you can give the server more memory by changing the 1024 to a multiple of 1024
+
+
+=== Notice ===
+If the server start text doesn't work then try renaming the SERVER_FILE_NAME to 'SERVER_FILE_NAME.jar' without the apostrophes. Or you could use this server start text instead:
+
+java -Xmx1024M -Xms1024M -jar SERVER_FILE_NAME.jar --nogui
+PAUSE
+
+If you receive the "Java is not recognized" message, replace "java" with its file location. (e.g.: "C:\Program Files (x86)\Java\jre7\bin\javaw.exe") The full string would be:
+
+"C:\Program Files (x86)\Java\jre7\bin\java.exe" -Xmx1G -Xms1G -jar FORGE_FILE_NAME.jar --nogui
+PAUSE
+
+If you receive the "A problem occured running the Server launcher.java.lang.reflect.InvocationTargetException" message, try downloading and installing JRE 8 and point to it's destination on run. This would look like:

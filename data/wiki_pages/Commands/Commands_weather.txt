@@ -1,0 +1,37 @@
+Sets the weather. In Bedrock Edition, it can also output current weather.
+
+
+== Syntax ==
+Java Edition
+weather (clear|rain|thunder) [<duration>]
+Bedrock Edition
+weather <clear|rain|thunder> [duration: int]
+weather query
+
+
+== Arguments ==
+clear|rain|thunder
+
+clear – Set the weather to clear.
+rain – Set the weather to rain (or snowfall in cold biomes).
+thunder – Set the weather to a thunderstorm (or blizzard in cold biomes).
+JE: <duration>: timeBE: duration: int: int
+
+Specifies the time for the specified weather to last.
+In Java Edition, if not specified, resets the game's regular weather cycle.
+In Bedrock Edition, the time is specified in game ticks. If not specified or 0, the duration defaults to a random value between 300 seconds and 900 seconds.
+In Java Edition, it must be a single-precision floating point number suffixed with a unit. Units include:d: an in-game day, 24000 gameticks;s: a second, 20 gameticks;t (default and omitable): a single gametick; the default unit.The time is set to the closest integer tick after unit conversion. For example. .5d is same as 12000 ticks. It must be mot less than 1 game ticks.In Bedrock Edition it must be a  32-bit integer number. And it should be between 0 and 1000000 (inclusive).
+
+
+== Result ==
+
+
+== Output ==
+
+
+== Examples ==
+To get clear weather for one Minecraft day: /weather clear 24000
+To make it rain, but let it end at its own pace: /weather rain
+
+
+== History ==

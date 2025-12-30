@@ -1,0 +1,57 @@
+The cackling broom is a unique glaive variant found within the Spookier Fall event of Minecraft Dungeons. It has identical abilities to the grave bane.
+
+
+== Obtaining ==
+Missions
+Tower
+Events
+Spookier Fall (ended)
+Merchants
+Gift Wrapper
+
+
+== Usage ==
+The cackling broom functions identically to the grave bane.
+
+
+=== Properties ===
+X melee damage
+Longer melee reach
+Extra damage to undead (Smiting tier I)
+
+
+=== Stats ===
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+
+== Sounds ==
+
+
+== Data Values ==
+In the game files, the cackling broom is referred to internally by the name Glaive_Spooky2.
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Cackling Broom" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===

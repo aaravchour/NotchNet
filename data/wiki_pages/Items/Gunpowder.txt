@@ -1,0 +1,58 @@
+Gunpowder is an item that is used for explosion-related recipes, and as an ingredient in potions.
+
+
+== Obtaining ==
+
+
+=== Mob loot ===
+
+
+==== Creepers ====
+Creepers can drop 0-2 pieces of gunpowder upon death. Looting can increase this by 1 per level, with a maximum of 5 gunpowder.
+
+
+==== Ghasts ====
+Ghasts can drop 0-2 pieces of gunpowder upon death. Looting can increase this by 1 per level, with a maximum of 5 gunpowder.
+
+
+==== Witches ====
+Witches can drop 0-6 pieces of gunpowder upon death. Looting can increase this by 3 per level, with a maximum of 15 gunpowder.
+
+
+=== Trading ===
+Wandering traders have 1⁄6 chance to sell gunpowder for an emerald.
+
+
+=== Chest loot ===
+
+
+== Usage ==
+
+
+=== Crafting ingredient ===
+
+
+=== Brewing ingredient ===
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Gunpowder" are maintained on the bug tracker. Report issues there.
+
+
+== References ==
+
+
+== External Links ==
+Taking Inventory: Gunpowder – Minecraft.net on June 21, 2019

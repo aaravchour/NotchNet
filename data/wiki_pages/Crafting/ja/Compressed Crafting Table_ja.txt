@@ -1,0 +1,4 @@
+Compressed Crafting Table はAvaritiaによって追加されたブロックです。 このブロックは通常の作業台として機能しますが、主な使用用途はDouble Compressed Crafting Tableを作成することです。
+
+
+== レシピ ==

@@ -1,0 +1,25 @@
+Used to remove players' spawn points in the world.
+
+
+== Syntax ==
+clearspawnpoint [player: target]
+
+
+== Arguments ==
+player: target: CommandSelector<Player>
+
+Specifies the player whose spawn point should be removed. If not specified, defaults to the command's executor (@s).
+Must be a player name or a target selector.  And the target selector should be of player type.
+
+
+== Result ==
+
+
+== Output ==
+
+
+== History ==
+
+
+== See also ==
+/spawnpoint

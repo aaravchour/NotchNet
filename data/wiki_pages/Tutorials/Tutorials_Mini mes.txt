@@ -1,0 +1,43 @@
+Have you ever wanted a buddy in Minecraft other than a wolf or a cat? Well, this page is here to help you create a Redstone mechanism that gives you a close second to a buddy!
+
+
+== Basics ==
+Mini Me's, in general, are special illusions made in Minecraft that make you think an armor stand is following you. Mini me's are made with special redstone mechanisms. There are some great tutorials on how to make one in general. These tutorials range from very simple, small, and compact mini me's, to giant and very complicated ones, that can perform many functions.
+The following video is very compact and a rather simple to make:
+
+Here's another tutorial by docm77:
+
+Knowing how a "mini me" works requires understanding how different systems work to come together. (Such as a constant teleportation system gives the illusion that an armor stand is following you.)
+
+
+== Step-by-step tutorial ==
+Here's a step-by-step list of what you should do to make a mini-me mech of your own:
+
+
+=== Step 1 of 3 : Create a custom armor stand ===
+First of all, you need to create a custom armor stand to represent your mini me. This is a custom command I made to create a stand that looks like a tiny "Sky Does Minecraft" with golden armor, using command blocks. Here's the command I used to make it:
+/summon ArmorStand ~ ~1 ~ {CustomName:MiniSky,CustomNameVisible:1,NoBasePlate:1,ShowArms:1,Small:1,Equipment:[{id:golden_sword,Count:1},{id:golden_boots,Count:1},{id:golden_leggings,Count:1},{id:golden_chestplate,Count:1},{id:skull,Damage:3,tag:{SkullOwner:"SkythekidRS"}}]}
+Feel free to use this command during this tutorial.
+
+
+=== Step 2 of 3 : Create an invisible wolf or cat ===
+Next, you must now create an invisible wolf, or cat. You can do this with either one of two ways:
+
+Tame a Wolf/Ocelot and toss an invisibility potion on it (this is probably the easiest and most obvious)
+Use these two commands to summon one with an infinite effect and no particles:
+/summon Wolf ~ ~1 ~ {CustomName:SkyWolf,Owner:playername}
+The term "playername" used here is used as a variable representing your Username on Minecraft. Just replace "playername" with your username. Simple problem, simple fix.
+/effect @e[type=Wolf,name=SkyWolf] invisibility 100000 255 true
+If you want a cat instead of a wolf, simply replace the "Wolf" in the first command with "Ocelot"(without the quotation marks).
+
+
+=== Step 3 of 3 : Teleportation system ===
+Lastly, you now need a mechanism to constantly teleport the armor stand to your invisible wolf. Here's a really simple clock with a 1/4 tick pulse rate!
+
+First, make a structure of command blocks, 3 blocks tall. Break the block in the middle, and place another command block adjacent to the space between the two command blocks. Photo shown at bottom of page.
+Second, you must enter commands into these command blocks. In the top block, enter this command:
+/setblock ~ ~-1 ~ redstone_block
+In the block underneath the top block, enter this command:
+/setblock ~ ~1 ~ air
+In the last block, enter this command, depending on if you used a cat or not. Like before, just replace "Wolf" with "Ocelot":
+/tp @e[type=ArmorStand,name=MiniSky] @e[type=Wolf,name=SkyWolf]

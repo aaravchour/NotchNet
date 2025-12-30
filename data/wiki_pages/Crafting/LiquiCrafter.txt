@@ -1,0 +1,14 @@
+The LiquiCrafter is the automatic crafting table from MineFactory Reloaded akin to Buildcraft's Auto Workbench except it can hold 9 different liquids in an internal buffer for crafting things that require liquids (ex: Coolant Cells). Each liquid inventory can hold 10 buckets of liquid.
+
+
+== Recipe ==
+With Thermal Expansion 3 installed:
+
+Without Thermal Expansion installed:
+
+
+== Usage ==
+
+To use the LiquiCrafter effectively, it is preferred to use it for items that require liquids to craft such as Coolant Cells or Ender-Thermic Pumps.
+To craft, the player must set ghost images of the items in the crafting grid and put the materials in the inventory below. A Redstone pulse will make one of the item, allowing it to be removed.
+Liquids must be pumped into the LiquiCrafter. Right-clicking with a Bucket or a Can/Empty Cell will not work.

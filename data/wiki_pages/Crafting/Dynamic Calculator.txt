@@ -1,0 +1,5 @@
+The Dynamic Calculator is a machine added by Calculator. It combines the functionality of the Calculator, Scientific Calculator and Atomic Calculator in a single block. In addition, it doesn't require Redstone Flux to function, unlike the Calculator or Scientific Calculator.
+The Dynamic Calculator cannot automatically input or output items, and unlike its predecessors cannot be placed on a Docking Station to do so.
+
+
+== Recipe ==

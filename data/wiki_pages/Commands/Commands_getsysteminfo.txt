@@ -1,0 +1,10 @@
+Return system related information
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

@@ -1,0 +1,12 @@
+Returns information about the game's client.
+
+
+== Syntax ==
+geteduclientinfo
+
+
+== Result ==
+Shows the information about the client.
+
+
+== History ==

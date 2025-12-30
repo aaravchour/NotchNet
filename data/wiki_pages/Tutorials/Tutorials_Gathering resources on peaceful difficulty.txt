@@ -1,0 +1,169 @@
+This tutorial is about how to gather resources that are usually dropped from either hostile or neutral mobs. 
+Because most hostile or neutral mobs do not spawn in Peaceful, sometimes it is hard to gather these resources. Also, this page may be helpful when playing any Survival world, if you do not like to fight monsters, but want to get the items that they drop. Another use of this page would be if you want to play Minecraft without any data packs, as this will disable mob drops. However, it will also disable loot in chests, so trading with villagers is one of the few ways you can acquire these items.
+
+
+== Obtainable in Peaceful ==
+These materials are usually mob drops, but can be obtained by other means when a world is on Peaceful difficulty.
+
+
+=== Bones ===
+Bones are commonly dropped from skeletons, which because they are hostile, do not spawn in Peaceful. However, there are other methods of obtaining bones.
+Bones can be found naturally occurring in the chests of desert temples, jungle temples, dungeons, ancient cities, and woodland mansions. Unless you happen to have a jungle near your spawnpoint, or if you're very lucky a dark forest with a woodland mansion in it, your best bet would be to find a desert or a dungeon. It's best to find a dungeon in caves, but if you don't have many caves nearby, you can just mine underground. Unfortunately, monster spawners can't spawn mobs on Peaceful difficulty, so in Peaceful, you can't listen to the sounds of zombies, skeletons, or spiders to find dungeons. To find a desert temple, you will need to find a desert first, and then explore around the desert. The advantage of desert temples is they can be seen from a long way away. However, when finding structures with chests that could potentially hold bones, remember that a desert temple chest does not always have a bone in it.
+There are 2 more ways to find bones. One of them is through fishing. If you fish with a fishing rod without a Luck of the Sea enchantment, you will have a 1.1% chance of getting a bone. However, the disadvantages of this method are that a fishing rod requires string, which is most commonly obtained from spiders, which don't spawn in Peaceful, and that you will only have a small chance of getting a bone when fishing. 
+In Bedrock Edition, all fish mobs have a 25% chance of dropping 1–2 bone. As at least one fish variety can spawn in every single type of ocean, and salmon spawn in rivers as well. This actually makes bones quite easy to obtain. It is also used to tame wolves.
+
+
+=== Bone meal ===
+A common way to obtain bone meal is by crafting it from bones, but there are several ways to obtain it without using bones. However, no skeletons spawn to drop bones to craft bone meal
+The first method is by finding fossils, which contain bone blocks. This will be useful if you need a massive amount of bone meal. The advantage of this method is that 1 bone block = 9 bone meal, and fossils usually have many bone blocks within them. However, fossils are rare, and only generate in deserts and swamp biomes. The best way to find bone blocks is to first find a swamp or desert, and then either find caves, or ravines, or try using this method. Remember, fossils generate around 15–24 blocks under surface (around altitude 40–49), so if you are on desert hills or swamp hills, fossils generate higher. Another way to find a massive amount of bone blocks in 1.16 and above is to find a soul sand valley where small fossils generate very commonly, and due to being in peaceful mode, you will not need to worry about the ghasts and skeletons.
+In Bedrock Edition, you can buy 3 bone meal for one emerald from the wandering trader, but wandering traders do not always offer bone meal.
+In Java Edition, all 4 types of fish mob have a 5% chance to drop bone meal. Salmon is especially convenient because it can be found in rivers, and rivers are one of the most common biomes in the game, so you don't need to go to the ocean.
+The easiest way to get bone meal is by using a composter, usually using items from a farm. For example, if you have too much cactus from a cactus farm, or  excess seeds from a wheat farm, just put them into the composter and you will get bone meal after composting it several times. This is the best way to get bone meal without traveling to the nether, as you just need a composter to transform plant-related items or blocks into bone meal. Although not very efficiently, the composter can be used in conjunction with roses dropped from iron golems to automatically create bone meal from an iron farm.
+
+
+=== Ender pearls ===
+Although endermen don't spawn on Peaceful, ender pearls can be obtained by 3 other means. Ender pearls can be found in the chests of strongholds and woodland mansions. Both of these structures are very rare, and often far from spawn. The former cannot be located any means and must be found by pure luck, the latter can be located with a woodland explorer map. Two ender pearls always generate in the fake end portal room chest, but not every woodland mansion generates a fake end portal room. 
+The best way to obtain ender pearls is by trading 5 emeralds with a cleric villager . If you have a farmer and a large wheat, beetroot, potato, or carrot farm, you can gain lots of emeralds by trading these items with the farmer, and thus gain lots of ender pearls. You can also get ender pearls by bartering with piglins. Despite the fact that ender pearls can't be used to make eyes of ender because of the lack of blaze rods, ender pearls can be used to teleport, which can be very useful at times.
+
+
+=== Gunpowder ===
+Gunpowder is most easily obtaining as a drop from creepers, and is also a drop from ghasts or witches. However, neither of the 3 mobs spawn on Peaceful difficulty, so alternative ways of obtaining gunpowder are important.
+Gunpowder, can be found in desert temple chests, dungeon chests, woodland mansion chests and shipwreck chests. See the previous section, "Bones," for how to find these structures. Gunpowder can be found in shipwrecks which can generate in any ocean biome, and rarely e on land.
+Wandering traders will also trade one gunpowder for one emerald. 
+Gunpowder is not necessary for completing anything major, but it is fun and in many circumstances, helpful to use, as it can be used to create fireworks and TNT. Gunpowder can also be used to make splash potions. However, no potion can be made on Peaceful, because brewing requires blaze powder as fuel, which is not achievable as blazes don't spawn.
+If you want to use the gunpowder to make TNT, you can also acquire TNT in a desert temple trap and a trap in a woodland mansion secret room. Be careful, though; they are called traps for a reason! TNT can also be found in shipwreck chests and buried treasure chests. Buried treasure can be located using treasure maps.
+
+
+=== Magma cream ===
+Magma cream can not be obtained as a drop from magma cubes, or by crafting a slimeball and a blaze powder, as magma cubes and blazes do not spawn. The only way to obtain it in Peaceful is by looting bastion remnants. However, magma cream is practically useless in peaceful mode, as its only use in peaceful mode is to craft magma blocks, which are common in everywhere in the Nether. It can't be used as a brewing ingredient, as blaze powder and blaze rods are unobtainable.
+
+
+=== Phantom membranes ===
+Phantom membranes can not be obtained as a drop from phantoms as they do not spawn. The only way to get it is to receive a gift from a cat. Although phantom membrane only has a 3% chance to be gifted from a cat, it's practically useless in peaceful difficulty, because its only use is to repair elytra, and even if you have an elytra, it's better to repair it using Mending. It can't be used as a brewing ingredient, as blaze rods are unobtainable.
+
+
+=== Prismarine crystals ===
+Prismarine crystals can not be obtained as a drop from guardians and elder guardians as they do not spawn. Instead it must be obtained by breaking a sea lantern, or by finding buried treasure chests. Sea lanterns can be found in ocean monuments and ocean ruins. An ocean explorer map is useful, but not required, to find ocean monuments. Ocean ruins, on the other hand, are much more common. However, prismarine crystals are completely useless in peaceful as their only use is to craft sea lanterns, which requires prismarine shards, a resource only obtainable by killing guardians. The only way to get a sea lantern while on Peaceful difficulty is by using a Silk Touch pickaxe.
+
+
+=== Rotten flesh ===
+Fortunately, rotten flesh is not very useful – you will be fine if you never acquire it in a Minecraft world. However, if you do have a certain purpose for rotten flesh, such as to feed your wolf, it can be obtained in a few ways without killing any hostile monsters. Like bones, rotten flesh can be found in desert temple chests, jungle temple chests, dungeon chests, and woodland mansion chests. Rotten flesh can also be obtained from igloo basement chests, which is useful if you have a snowy tundra or snowy taiga biome near spawn. Unfortunately, not all igloos have basements, so you may have to go through many igloos to find rotten flesh by that method. Rotten flesh is also found in Shipwreck supply chests, but again, not every shipwreck generates a supply room (this part is usually broken). Rotten flesh can also be found in village temples, however, only the desert village temple has a chest, so it's better to look for desert villages when searching for rotten flesh. Additionally, rotten flesh can also be found in ocean ruins chests.  Rotten flesh is also given by a tamed cat as a gift, but only with a 16.13% chance. You can find stray cats in villages, and tame them using any raw fish. Lastly, Rotten flesh also has a 1.2% chance of being obtained when fishing. However, like for bones, a fishing rod requires string, which is rather expensive when on Peaceful difficulty. Note that rotten flesh and string are often found together.
+
+
+=== Slimeballs ===
+Slimeballs are usually obtained by killing slimes. However, slimes don't spawn in peaceful difficulty. Instead slimeballs can be obtainable by trading with wandering traders and can be dropped by baby pandas when they sneeze. 
+One of the most important crafting products are sticky pistons. Three sticky pistons spawn naturally in jungle temples. However, jungle temples are very rare, so make sure that when you're looting a jungle temple in Peaceful difficulty, grab all 3 sticky pistons. Sticky pistons also generate in ancient cities.
+
+
+=== Spider eyes ===
+Spider eyes are usually obtained by killing spiders or witches, which don't spawn in peaceful mode. The only place they can be found is in the chests of desert temples. Although desert temple chests only have a 29% chance of having spider eyes, desert temples have 4 chests in them, so it is likely that one of them will have some number of spider eyes. However, spider eyes are practically useless on Peaceful difficulty, because they can only be eaten giving poison or as a potion ingredient, the latter being impossible in Peaceful.
+
+
+=== Sponges ===
+Wet sponges can be obtained as a drop from elder guardians on Easy, Normal, or Hard, or in the sponge room(s) in ocean monuments in all difficulties, including Peaceful. Although wet sponges are technically not renewable, the primary use of sponges is to soak up water, and when they are broken, the water is still drained. Because of this and the fact that wet sponges can be placed in the nether or cooked in a furnace to become dry again, sponges, despite being non-renewable, can be used an infinite number of times.
+Ocean monuments can be rather difficult to find, but they are easier than some other structures, like woodland mansions. There are two methods of finding ocean monuments. The cheaper but more time-consuming way is to keep looking around deep ocean biome variants until you find one. The more expensive but less time-consuming way is to acquire an ocean explorer map from a cartographer villager, and use that to locate an ocean monument. However, in addition to having to gather enough materials to trade with a cartographer villager to get the explorer map, you will have to level the villager to an apprentice before the ocean explorer map trade will unlock. In Bedrock Edition, cartographers have a 1⁄3 chance to offer an ocean explorer map.
+
+
+=== String ===
+
+String has many uses in Survival mode – it can be used to make a bow, scaffolding, crossbow, fishing rod, lead, loom, candles, wool, or be used in a tripwire circuit. Although having no spiders makes it harder to acquire string, there are still many ways to get some. String can be obtained by breaking cobwebs with a sword. In Bedrock Edition, cobwebs can also be crafted to produce 9 strings, making it better to break cobweb using shears. If you happen upon a mineshaft, stronghold library, zombie village, or woodland mansion with a spider room near spawn, this would probably be the easiest way to acquire string. String can also be gifted by a cat, and is dropped by them upon death. You can also obtain string from bartering with piglins and killing striders.
+String also generates as part of tripwire traps in jungle temples, generating a total of 5 string per jungle temple. Additionally, string can be found in the chests of desert temples, dungeons, woodland mansions, and pillager outposts. Finally, string has a 0.6% chance of being obtained through fishing. The next paragraph shows how to acquire a fishing rod without string:
+All of the crafting recipes of string can be obtained in some other way besides getting string. Wool, of course, can be obtained by killing or shearing sheep. Leads are dropped by wandering traders or found in woodland mansions, dungeons, ancient cities, or buried treasure chests. Looms can be found in village shepherd houses. Both unenchanted and enchanted bows can be bought from Fletcher villagers for 2 emeralds and 8‌ or 17–22‌ emeralds respectively, as part of their trades at apprentice and expert-level, while crossbows can be found in pillager outposts or bought enchanted or unenchanted from a fletcher villager for 3 emeralds and 8‌ or 7–22‌. A bow by itself isn't extremely useful when in Peaceful, but it can be used to make a dispenser which can be used for many purposes. Also, 2 dispensers naturally generate in every jungle temple. Finally, an enchanted fishing rod can be bought from Fishermen villagers for 6 emeralds, as part of their trades at journeyman level. Enchanted fishing rods can also be found in ocean ruins, which you can find more easily by following dolphin fed by raw cod. The primary use of fishing rods is to fish. Actual fish aren't useful on Peaceful difficulty (other than for trading to fisherman villagers), unless you want to tame a cat or feed dolphins, but fishing has a chance of giving the player an enchanted book, saddle, name tag, lily pad, bone, rotten flesh, string, leather, and more. In addition, fishing can even give you an enchanted bow, or another fishing rod.
+
+
+=== Sugar ===
+Sugar can be obtained either by crafting with sugar cane, or crafting with honey bottle, but not by killing witches as they do not spawn in peaceful difficulty. Simply put 1 sugar cane in the crafting area in your inventory or on a crafting table, and you will get 1 sugar. Put 1 honey bottle in a crafting table, in order to receive 3 sugar and an empty glass bottle.
+Sugar can be used to craft cake and pumpkin pie. Both are sold by farmer villagers.
+
+
+== Not obtainable in Peaceful ==
+These materials, sadly, can only be obtained as hostile monster drops, and have no alternative method of collection.
+
+
+=== Blaze rods ===
+Blaze rods can only be obtained by killing blazes, which is impossible on Peaceful difficulty. Unfortunately, blaze rods are essential to going to the End, because there is only a 1 in a trillion chance that an end portal will generate with all eyes of ender in it, and eyes of ender require blaze powder. However, brewing stands, which can't be crafted without blaze rods, can be found in igloo basements and village temples, but no potions can be brewed because they require blaze powder as fuel. Even though the player may not be able to go to the End on Peaceful difficulty, there are plenty of other things available to do in the Minecraft world.
+
+
+=== Froglight ===
+Froglights drop when a small magma cube is eaten by a frog. Unfortunately, magma cubes don't spawn on peaceful and they are the only way to obtain froglights.
+
+
+=== Ghast tears ===
+Ghast tears, which drop from ghasts, are used to make potions of Regeneration and end crystals. Although both of these are helpful in Minecraft, neither of them could be made even if ghast tears could be obtained in some other way. This is because potions of Regeneration require blaze powder to make, and end crystals require eyes of ender, both of which can't be obtained on Peaceful difficulty because of the lack of blazes.
+
+
+=== Prismarine shards ===
+Prismarine shards, unfortunately, can only be obtained by killing guardians or elder guardians. However, all of the crafting recipes with prismarine shards: prismarine, dark prismarine, prismarine bricks, and sea lanterns, make up entire ocean monuments, and prismarine and sea lantern also generate in ocean ruins. If you are planning on getting a sea lantern, make sure you mine it with a Silk Touch pickaxe, because otherwise, it will drop only prismarine crystals.
+
+
+=== Shulker shell ===
+Shulkers have a 50% chance of dropping a shulker shell upon death. Despite the fact that shulkers actually do spawn on Peaceful difficulty, unlike most other mobs, the End can only in ridiculously rare cases (one in every 7,812,500,000 worlds contains an already-lit end portal) be accessed in Peaceful; therefore, shulker shells cannot be obtained on Peaceful. Shulker shells can be used to make a shulker box, which, although it isn't necessary for anything in Minecraft, can be very helpful at times.
+There is a very, very small chance that the End will be available on a Minecraft world from an already-finished end portal frame in a stronghold, making shulkers accessible (see #Ender Dragon)
+
+
+=== Tide armor trim ===
+Elder guardians have a 20% to drop a tide armor trim upon their death. Unfortunately, elder guardians don't spawn on peaceful, and there are the only way to obtain this smithing template.
+
+
+=== Trident ===
+Drowned can spawn holding tridents, which have an 8.5% chance on Java Edition and a 25% chance on Bedrock Edition to drop when they are killed, and can be used as both a melee and a ranged weapon. Unfortunately, drowned don't spawn on peaceful and they are the only way to obtain tridents.
+
+
+=== Wither skeleton skull ===
+Wither skeletons, when killed, rarely drop a wither skeleton skull, which can be used to spawn the wither. Unfortunately, wither skeletons don't spawn on Peaceful, and they are the only way to obtain wither skeleton skulls. The only use of wither skeleton skulls is to create the wither which doesn't spawn in peaceful difficulty, or to wear as a decorative hat. The wither drops a nether star, which can be crafted into a beacon. This means that beacons are one of the items that cannot be obtained on Peaceful difficulty. However, conduits, a similar block, are obtainable and constructive on Peaceful. A conduit requires a heart of the sea from buried treasure and 8 nautilus shells from fishing or bought from wandering traders, as well as prismarine block variants or sea lanterns to activate it.
+
+
+== Spawnable on Peaceful ==
+These mobs are the few neutral/hostile mobs that can spawn on Peaceful difficulty. However, none of them can attack the player first, with the exception of the piglins, as they can accidentally attack players when a piglin is about to shoot at a hoglin and the player blocks its way.
+
+
+=== Bee ===
+Bees are the only arthropod mobs that don't despawn in peaceful. Bees only drop experience when killed, so it's better to farm them to produce honeycombs or honey bottles. These items can be used as food (honey bottles also remove poison), to craft honeycomb blocks, sugar, honey blocks (a sticky block similar to slime block but different), or to craft beehives.
+
+
+=== Ender dragon ===
+The ender dragon is the boss mob of the End dimension. It will drop tons of experience and a dragon egg upon death. Dragon eggs cannot be used to craft anything, but they serve as a trophy, showing that the ender dragon has been defeated. The End cannot be reached in Peaceful difficulty since eyes of ender require blaze powder to craft, which is unobtainable. Eyes of ender were formerly obtainable via villager trading, but now it is impossible. However, if one is super lucky, (literally one in a trillion) they can find a stronghold with all end portal frames already filled; this way, they can access the End in Peaceful. One such seed is 153528141396417860, with the portal located at X=1020, Z=-2313.
+When you enter the End, the ender dragon will spawn. It cannot do damage to you but it will still knock you back, so the only things to worry about are taking damage from destroying the end crystals, taking fall damage after being launched by the ender dragon, or falling into the void after being launched by the end dragon. Apart from that, the fight should be easy. You can also use the end gateway portal and you will be able to access the End as much as you want. Keep in mind that the end crystals cannot be obtained in Peaceful, because ghast tears are unobtainable, so you cannot respawn the dragon.
+
+
+=== Evoker‌ ===
+Evokers live in woodland mansions, which are very rare. Due to their ability to summon vexes and their fang attack, they are very dangerous in Easy, Normal, and Hard difficulties. However, they cannot deal any damage if the player is on Peaceful difficulty (although the player may still incidentally receive damage from an evoker fang if an evoker is trying to attack a villager). Evokers drop very rare items upon death: 0–1 emeralds, and even more useful, a totem of undying. If the player dies while holding a totem of undying, that player will not die, but instead, have 1, and quickly regenerate to full health.‌
+
+
+=== Hoglin ===
+Hoglins naturally spawn in the Nether, specifically in crimson forests on all difficulties. They become passive in peaceful mode and won't attack the player. They drop raw porkchops and leather upon death, which can be used as a source of leather, though killing cows is a much easier alternative.
+
+
+=== Llama ===
+
+Llamas are technically tamable mobs, but they are also neutral mobs, as they will spit at the player, dealing 1 damage, if attacked by the player. They are the only mob in the game that will do damage to the player on Peaceful difficulty. But there is almost no need to harm llamas as they only drop leather upon death, which is also obtainable from cows and horses. Llamas can be equipped with a chest for storage, and they can be equipped with a carpet for decoration. Llamas will only spawn in savanna and mountains biomes. Trader llamas also spawn anywhere with wandering traders, even underground or in mushroom fields biomes.
+
+
+=== Piglin ===
+Piglins naturally spawn in the Nether, specifically in crimson forest and nether wastes in all difficulties. They become passive in peaceful mode and won't attack the player, though they'll still hunt hoglins occasionally (thus, they may accidentally hit the player if they use a crossbow to hunt hoglins). While piglins drop nothing upon death, they can be bartered with, which can be used to obtain several normally unobtainable things in peaceful or in the nether such as fire resistance potions.
+
+
+=== Polar bear ===
+Polar bears are neutral mobs that spawn on Peaceful difficulty. However, polar bears will not attack the player on Peaceful. Polar bears drop raw cod and raw salmon when killed, as well as experience. You can also obtain fish by fishing, and experience by killing nearly any mob.
+
+
+=== Shulker ===
+Shulkers spawn in the End on all difficulties, but will not inflict damage on Peaceful difficulty. Shulkers will drop shulker shells upon death, which is very useful for making shulker boxes.
+
+
+=== Vindicator‌ ===
+On high difficulty levels, vindicators deal the second most melee damage of any mob‌(first being iron golem). However, like evokers, they do not attack players when on Peaceful difficulty, but they will still be hostile towards villagers, just like they are on other difficulties. Vindicators have a high chance of dropping an emerald upon death, and they also have a lesser chance of dropping their iron axe which can be enchanted.
+
+
+=== Wolf ===
+Wolves usually just ignore the player, unless attacked, in which they will become hostile towards whoever attacked them. On Peaceful difficulty, they will not attack players‌, or will attack but deal no damage[Bedrock Edition only]. Wolves only drop experience upon death, but they can also be tamed with bones. Tamed wolves will follow the player unless told to sit, and will attack any mobs that attack the player, or if the player attacks them, with the exception of creepers, ghasts, and horses.
+
+
+== See also ==
+Chest loot
+Difficulty
+Drops
+Structure
+Survival
+Tutorials/Beginner's guide
+Tutorials/Survival with no enabled data packs

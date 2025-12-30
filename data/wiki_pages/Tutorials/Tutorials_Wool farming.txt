@@ -1,0 +1,45 @@
+
+== Mechanics ==
+
+You can get wool by shearing sheep, killing sheep, or crafting it out of string. Shearing sheep is often advantageous as it means that they can regrow their wool by eating grass. They will eat grass soon after it grows, Observers can be used to detect grass being eaten and activate dispensers, which can shear sheep if their hitbox is in the block in front of the dispenser.
+The wool will fall off and will usually go into a hopper for collection.
+Sheep will also regrow wool regularly. The chance of eating grass is 1⁄1000 per game tick, so a sheep is 63% likely to regrow new wool after 50 seconds, and over 90% likely to regrow new wool after 2 minutes.
+
+
+== Automatic sheep shearing design ==
+There are many designs that can be stacked to make large wool farms. The sheep can also be dyed to produce different wool colors.
+
+
+=== How to build an automatic wool farm ===
+Place down a dispenser facing horizontally.
+Lay down grass blocks 1 block lower and one block in front of the dispenser.
+Build a pen out of glass (preferably the color of the sheep).
+Lure a sheep inside or create a piston contraption to move the sheep into the pen.
+Put an observer underneath the dispenser facing at the grass block to power the dispenser,
+Then put a piece of Redstone Dust on top of the block behind the Observer (which is in behind the dispenser) to power the Dispenser.
+Put a shear into the dispenser.
+Place minecarts with hoppers underneath the grass to collect the items.
+Make a room full of chests that the minecarts bring the wool into.
+
+
+=== An Infinite Automatic Wool Farm ===
+This machine provides you with infinite wool and does not take many resources at all. After building the machine, all you have to do is replace the shears if they break, which does not happen very often.
+Construction
+
+Build a 1 by 1 dirt platform and surround it with a wall that is as high as you want to be made of glass blocks. Place three grass blocks directly adjacent to the dirt block.
+Under the dirt block place a minecart with a hopper connected to a double chest. You will need to place a rail before you place the minecart.
+Build a staircase to the top of the wall and lead a sheep of any color into the container. After the sheep is trapped, put a glass roof onto the container.
+Knock out one of the glass blocks that are 1 block above the dirt block and place a dispenser in its place, making sure the dispenser faces the sheep. Place at least one pair of shears in the dispenser.
+Place an observer facing into the dirt block. Connect it using redstone to the dispenser.
+The grass blocks on the side will eventually spread to the dirt block. That dirt block will then turn into a grass block. When that grass is eaten by the sheep, the sheep will grow its wool and the observer will activate (because of the grass block changing back into a dirt block.). The observer's activation will power a dispenser that shears the sheep.
+The wool from the sheared sheep will be sucked up by the minecart with a hopper and it will be put into the double chest.
+
+
+== Videos ==
+Flowfall Riverboy - Minecraft Sheep Farm 1.14 - 1.16.2+
+
+Beef And Cheese - Simeplist Minecraft Sheep Farm 1.14+
+
+RAHsite - Automatic Industrial Wool Farm - Minecraft Bedrock & Java 1.16+
+
+RAHsite - Automatic Wool Farm & Flower Farm - Minecraft Bedrock 1.16+

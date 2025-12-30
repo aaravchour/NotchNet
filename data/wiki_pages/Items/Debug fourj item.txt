@@ -1,0 +1,33 @@
+debug_fourj_item is an unobtainable item exclusive to the Legacy Console Edition and can only be obtained through modding the game. It has the texture of a barrier, no "What's this?" hint and no display name.
+
+
+== Obtaining ==
+The only way to obtain this item is via inventory editors and other external tools.
+
+
+== Usage ==
+The purpose of this item is unknown, and it cannot be placed. Although the ID suggests that it was used for debugging and testing purposes.
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Gallery ==
+
+		
+			
+			
+		
+
+
+== See also ==
+Debug Stick
+
+
+== References ==

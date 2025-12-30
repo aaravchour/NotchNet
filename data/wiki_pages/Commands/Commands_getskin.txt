@@ -1,0 +1,10 @@
+Get the name of the player's current skin
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

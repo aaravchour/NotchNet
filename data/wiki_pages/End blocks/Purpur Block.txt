@@ -1,0 +1,89 @@
+Purpur blocks and purpur pillars are decorative blocks that are naturally generated in end cities and end ships.
+Chiseled purpur and smooth purpur are two further variants of purpur blocks exclusive to Bedrock Edition that can be accessed only by commands, and appear identical to regular purpur blocks.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Purpur blocks and pillars can be mined using any pickaxe. If mined without a pickaxe, it drops nothing.
+
+
+=== Natural generation ===
+Purpur blocks and pillars can be found naturally as part of the structure of end cities and end ships.
+
+
+=== Crafting ===
+
+
+=== Stonecutting ===
+
+
+== Usage ==
+Purpur blocks and pillars are primarily decorative blocks, similar to other brick-type blocks. They can also be used to craft different variants of the block. Purpur pillar blocks can be placed sideways, similar to logs or quartz pillar blocks.
+
+
+=== Crafting ingredient ===
+Purpur pillars cannot be used to craft slabs in Bedrock Edition. 
+
+
+=== Stonecutting ===
+
+
+=== Note Blocks ===
+Purpur block and purpur pillar can be placed under note blocks to produce "bass drum" sound.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Purpur pillar
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Purpur Block" or "Purpur Pillar" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Purpur is the word for a specific shade of purple in multiple languages, including Swedish, Polish, German, and Cornish (and French pourpre to a certain extent).
+Chiseled Purpur‌ is an unused purpur block that has the texture of the normal Purpur Block and is obtainable via /give @s purpur_block 1 1 or inventory editing.
+Smooth Purpur‌ is an unused purpur block that has the texture of the normal Purpur Block and is obtainable via /give @s purpur_block 1 3 or inventory editing. Its in-game name is tile.purpur_block.smooth.name.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+
+
+== See also ==
+Chorus fruit farming – means to produce materials for purpur blocks in mass numbers
+
+
+== References ==
+
+
+== External links ==
+Block of the Week: Purpur – Minecraft.net on April 28, 2017

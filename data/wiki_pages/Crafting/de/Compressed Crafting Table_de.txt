@@ -1,0 +1,4 @@
+Die Komprimierte Werkbank ist ein Block, der durch Avaritia hinzugefügt wird. Sie kann wie eine normale Werkbank verwendet werden, wird aber hauptsächlich zur Erstellung der Doppelt komprimierten Werkbank verwendet.
+
+
+== Rezept ==

@@ -1,0 +1,20 @@
+The Starlight Crafting Altar is a block added by Astral Sorcery. It is the second tier of crafting altar and is used throughout the Attunement chapter of the Astral Tome.
+The Altar works similarly to its predecessor the Luminous Crafting Table, and can make all recipes that the latter can. However, it has 4 extra input slots that can be used for more crafting recipes, and gather Starlight much more efficiently, but requires a complete structure to be built around it in order to do so.
+
+
+== Construction ==
+The complete structure is 9x4x9 and requires (in addition to the Altar):
+
+8  Chiseled Marble
+28  Marble Arches
+24  Marble Bricks
+21  Sooty Marble
+8  Marble Pillars
+
+
+== Recipe ==
+
+This will directly change the Luminous Crafting Table instead of dropping the output in the world.
+
+
+== Astral Tome entry ==

@@ -1,0 +1,25 @@
+Used to trigger an event on an entity.
+
+
+== Syntax ==
+event entity <target: target> <eventName: string>
+
+
+== Arguments ==
+target: target: CommandSelector<Actor>
+
+Must be a player name or a target selector. 
+Specifies the target(s) to execute an entity event.
+eventName: string: string
+
+Specifies the in-game event for the entity. Should be a spawn event (event name for entities in behavior pack).
+Must be a string. And it must be a single word that has no space or a quoted string.
+
+
+== Result ==
+
+
+== Output ==
+
+
+== History ==

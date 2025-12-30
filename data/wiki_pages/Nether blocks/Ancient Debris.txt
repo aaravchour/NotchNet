@@ -1,0 +1,91 @@
+Ancient debris is a rare ore found in the Nether, and is the main source of netherite scraps. Its high blast resistance makes it immune to normal explosions. In item form, it floats on lava and cannot be burned by any form of fire.
+
+
+== Obtaining ==
+
+
+=== Natural generation ===
+
+Ancient debris generates in the Nether in the form of scatter ores. Ancient debris never generates naturally exposed to air and can replace only netherrack, basalt, and blackstone.
+In Java Edition, up to two clusters may generate per chunk: one cluster of 0–3 ancient debris attempts to generate with a triangle distribution from levels 8 to 24, and an additional cluster of 0–2 ancient debris attempts to generate evenly from levels 6 to 119. On average, Y-level 15 has the most ancient debris. There is an average of 1.65 ancient debris blocks per chunk, with a normal maximum of 5. However, it is technically possible for up to 11 ancient debris to be found in a single chunk; adjacent chunks can generate blobs on the border with up to 2 blocks spawning in an adjacent chunk. As of Java Edition 1.16.5, on average they generate 1.65 ores per chunk. Given this number, and that there are 32768 blocks in a chunk (16×128×16), there is approximately a 0.004% chance that any randomly selected block will be an ancient debris block.
+In Bedrock Edition, up to five clusters may generate per chunk: two clusters of 0–3 ancient debris attempt to generate with a triangle distribution from levels 8 to 24, and an additional three clusters of 0–2 ancient debris attempt to generate evenly from levels 6 to 119.
+
+
+=== Breaking ===
+Ancient debris drops itself if mined by a diamond or netherite pickaxe. If mined by any other tool, it drops nothing.
+
+
+=== Chest loot ===
+
+
+== Usage ==
+
+
+=== Smelting ingredient ===
+Ancient Debris can be smelted using a furnace or blast furnace, which gives the player netherite scrap. If a player takes out the netherite scrap, they are rewarded with 2 experience points.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Ancient Debris" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+The texture of the ancient debris is supposed to look like pressed metal plates.
+Ancient debris is actually what remains of the mining activity of the piglins, who extracted all the original netherite ore.
+It is possible to find blobs of up to 20 contiguous ancient debris - up to five debris can generate in a chunk, so if a blob of five generates in adjacent corners of four different chunks, a blob of 20 debris would be created.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Netherite
+Block of Netherite
+Netherite Ingot
+Netherite Scrap
+Nether Update
+Tutorials/Ancient Debris
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External Links ==
+Block of the Week: Ancient Debris – Minecraft.net on November 11, 2021

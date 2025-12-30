@@ -5,7 +5,7 @@ from flask_limiter.util import get_remote_address  # type: ignore
 from rag_pipeline import generate_answer, reload_qa_chain
 import multiprocessing
 import threading
-
+import os
 import config
 import wiki_loader
 import clean_data

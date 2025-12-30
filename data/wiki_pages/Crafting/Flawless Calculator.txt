@@ -1,0 +1,10 @@
+The Flawless Calculator is a device added by Calculator. It can carry up to 16 modules which can all be used at any time and share their Redstone Flux storage.
+The modules installed inside a Flawless Calculator can be modified by putting it inside a Module Workstation. The player can select a module by sneaking and right clicking, then choosing from the list that is displayed, and can use the currently selected module simply by right clicking.
+It can also be inserted into a Docking Station in order to automate the usage of the Flawless Crafting module.
+
+
+== Modules ==
+The following modules can be inserted and used inside a Flawless Calculator :
+
+
+== Recipe ==

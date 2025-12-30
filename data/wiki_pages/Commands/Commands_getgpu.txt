@@ -1,0 +1,10 @@
+Return GPU information
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

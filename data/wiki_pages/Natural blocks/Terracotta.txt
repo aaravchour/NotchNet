@@ -1,0 +1,187 @@
+Terracotta is a block that comes in the sixteen dye colors (except with a brownish tint), as well as an undyed variant. It is found abundantly in badlands biomes, or can be obtained by smelting clay.
+
+
+== Obtaining ==
+
+
+=== Natural generation ===
+Badlands
+Red, orange, yellow, brown, white, light gray, and uncolored terracotta can be found naturally in badlands biomes, which yield massive amounts of terracotta.
+Villages
+Uncolored terracotta can be found in mason houses in plains villages and in some desert village houses, lamps and meeting points. White terracotta can be found as a housing material in plains villages. Yellow, orange and red terracotta generates in some houses in savanna villages. Lime terracotta generates in the mason houses of desert villages.
+Others
+Orange terracotta and one blue terracotta can also be found in desert pyramids. Light blue is found in warm underwater ruins. All types of terracotta except purple, magenta, and pink can be found in trail ruins.
+
+
+=== Breaking ===
+Terracotta can be mined using any pickaxe. If mined without a pickaxe, it drops nothing.
+
+
+=== Crafting ===
+Once terracotta has been dyed, the color cannot be changed or removed.
+
+
+=== Smelting ===
+
+
+=== Trading ===
+Expert-level stone mason villagers offer to sell one of sixteen colored terracotta for one emerald per terracotta as part of their trades.
+
+
+== Usage ==
+
+
+=== Building ===
+Terracotta has the same blast resistance as most other stone blocks, which is significantly higher than the block of clay before being smelted. A block of terracotta when one block away from a creeper or TNT explosion protects any blocks behind it, although the terracotta itself is destroyed.
+
+
+=== Crafting ingredient ===
+
+
+=== Smelting ingredient ===
+
+
+=== Note blocks ===
+All types of terracotta can be placed under note blocks to produce a "bass drum" sound.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Issues ==
+Issues relating to "Terracotta" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Despite the name change, the normal terracotta ID is still hardened_clay.‌
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

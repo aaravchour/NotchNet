@@ -1,0 +1,4 @@
+Der Double Compressed Crafting Table ist ein Block, der von Avaritia hinzugefügt wurde. Er kann wie ein normaler Crafting Table verwendet werden, wird jedoch hauptsächlich zum Herstellen des Dire Crafting Table verwendet.
+
+
+== Recipe ==

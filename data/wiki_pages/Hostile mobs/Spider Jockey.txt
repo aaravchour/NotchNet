@@ -1,0 +1,108 @@
+Spider jockeys are the rare appearance of a spider or cave spider‌ being ridden by a skeleton, stray‌, or wither skeleton‌.
+
+
+== Spawning ==
+
+
+=== Spiders and skeletons ===
+There is a 1% chance for a spider to spawn with a skeleton riding it, forming a spider jockey.
+Spider jockeys spawned in narrow enclosures can cause the skeleton rider to die of suffocation, due to the spider scaling the walls. They can also spawn in a 1 high space with a transparent block above, so the skeleton is stuck in the transparent block.
+
+
+=== Bedrock Edition ===
+A cave spider can spawn as a jockey, just as a spider can.
+If either type of spider is spawned in the Nether (spawned with a spawn egg, commands or monster spawners, since these do not naturally spawn there) and occurs as a jockey, it has an 80% chance for its skeleton rider to be a wither skeleton. If either type of spider is spawned in a snowy biome with a view of the sky, and occurs as a jockey, it has an 80% chance for its skeleton rider to be a stray.
+Baby zombie variants can mount spiders and cave spiders. See zombie for details.
+
+
+== Drops ==
+
+The skeleton and the spider each have separate drops when that part of the spider jockey is killed.
+Their drops are no different than if the skeleton or spider were standing alone.
+
+
+== Behavior ==
+
+The spider and the skeleton cannot attack each other.
+The spider do not attack any entity in Java Edition. The movement of a spider jockey is controlled by the skeleton in Java Edition.
+
+
+== Data values ==
+
+A spider jockey spawns as two separate entities. The spider and skeleton's IDs nor the entity data are any different than if the skeleton or spider were standing alone.
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Spider Jockey" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

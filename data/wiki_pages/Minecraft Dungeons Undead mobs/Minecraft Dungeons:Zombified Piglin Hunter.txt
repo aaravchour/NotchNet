@@ -1,0 +1,73 @@
+Zombified piglin hunters are hostile mobs found in Minecraft Dungeons in the Flames of the Nether DLC. They act as the zombified piglin's ranged variant.
+
+
+== Spawning ==
+Nether Wastes
+Warped Forest
+Crimson Forest
+
+
+== Appearance ==
+Zombified piglin hunters in Minecraft Dungeons are similar in appearance to their default counterpart in the base game with the slight exception that they have the ability to use crossbows.
+Zombified piglin hunters have variants. The first variant is seen wearing a black armor set and has one gold guard on its left arm, and wearing a cracked netherite helmet and leather belt with gold accents, while the second variant is seen wearing a black-blue armor set has two gold guards on its arms, and wearing a cracked Gold helmet. They both are equipped with a crossbow.
+
+
+== Behavior ==
+Zombified piglin hunters act similarly to their living counterparts where they spawn with a crossbow and attack the hero by shooting arrows. They can noticeably shoot faster than the pillager, but won't do a lot of damage.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Trivia ==
+Zombified piglin hunters are seen holding crossbows, which zombified piglins can do in the base game, but they cannot use them.
+There’s currently a bug where they have the same sounds as normal piglins. The same goes to the Zombified Fungus Thrower
+
+
+== Gallery ==
+
+
+=== Renders ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Screenshots ===

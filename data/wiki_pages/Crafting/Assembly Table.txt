@@ -1,0 +1,31 @@
+The Assembly Table is a special crafting machine that is used to craft advanced items, such as Redstone Chipsets, Gates, and Pipe Wires. The table must be powered using a Laser powered by Redstone Flux.
+
+
+== Recipe ==
+
+
+== Usage ==
+
+The Assembly Table must first be placed near a powered Laser no more than four blocks away (example shown in picture 1). Multiple Lasers can work on the Assembly Table to speed up crafting.
+The left side of the GUI acts as an inventory, so place the necessary ingredients there. There is no actual shaped recipe and multiple ingredients can be 'stored.' The right side will show the possible items that can be crafted. Select the product(s) that are to be crafted. The middle bar indicates the progress of the item being crafted. If multiple items are chosen to be crafted, the Assembly Table will alternate crafting amongst all highlighted recipes. Final products are deposited in that same inventory.
+
+
+=== Example ===
+
+There are three possible recipes that can be crafted with the input ingredients. The Redstone Chipset is highlighted as the first item to be crafted and requires 100,000 RF to be crafted. After that, it will craft the Iron Chipset and then alternate crafting between the two. The Yellow Pipe Wire will not be crafted since it is not highlighted.
+
+
+== Possible Recipes ==
+
+
+=== Basic Chipsets ===
+
+
+=== Gates ===
+
+
+=== Pipe Wire ===
+
+
+=== Facades ===
+The following recipes are examples, because BuildCraft automatically generates these blocks out of many different materials.

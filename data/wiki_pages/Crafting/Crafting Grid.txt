@@ -1,0 +1,8 @@
+The Crafting Grid is a machine added by Refined Storage. It is a Grid that can be used as a Crafting Table in addition to providing access to the digital storage network.
+
+
+== Recipe ==
+
+
+== See also ==
+Grid

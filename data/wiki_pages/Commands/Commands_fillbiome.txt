@@ -1,0 +1,47 @@
+Fills a specified area of a region with a specific biome.
+
+
+== Usage ==
+Because biomes in a world are stored in cells of 4×4×4 blocks, this command is applied on each selected cell instead of each block.
+Though biomes are stored in cells, biome boundaries are slightly fiddled with to make them smooth. So the shape of the region whose biome is actually changed is irregular.
+The command only changes the biome, but not the blocks in it. For example, changing a forest to a desert with this command will not change the grass blocks to sand and will not plant cacti, but rabbits will spawn in that "desert", that will still look like the forest.
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Syntax ==
+/fillbiome <from> <to> <biome>
+The fillbiome command also has an optional alternate syntax when using the replace option:
+
+/fillbiome <from> <to> <biome> replace <filter>
+
+
+== Arguments ==
+<from>: block_pos and <to>: block_pos
+
+The two corners to fill the biome between.
+Must be a block position composed of <x>, <y> and <z>, each of which must be an integer or a tilde and caret notation.
+<biome>: resource
+
+Specifies the biome to fill the specified area with. See Biome § Biome IDs for a list of vanilla biome IDs.
+Must be an existing registered resource location in minecraft:worldgen/biome registry.
+<filter>: resource_or_tag
+
+Specifies the biomes in the fill region to be replaced. If not specified, replaces all biomes in the fill region.
+Must be an existing registered resource location or tag in minecraft:worldgen/biome registry.
+
+
+== Result ==
+
+
+== Output ==
+
+
+== History ==

@@ -1,0 +1,80 @@
+The iron hide amulet is an artifact that can be found within the various missions of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Fiery Forge
+Underhalls
+Lower Temple
+Dingy Jungle (DLC)
+Treetop Tangle
+Coral Rise (DLC)
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+
+== Usage ==
+
+
+=== Properties ===
+X seconds duration
+25 seconds cooldown
+The iron hide amulet when used, provides a major boost to defense for a short time. It's identical to that of the oakwood brew.
+Testing has shown the damage reduction is 50%. (A normal Zombie hits for 8 damage. With the iron hide amulet active, the damage is reduced to 4). Another test showed that an Apocalypse+15 Zombie hits 36,000. With the iron hide amulet, the damage was reduced to 18,000.
+This effect stacks with the damage reduction from armor such as the reinforced mail or mercenary armor, which means damage from Zombies will be reduced to 3 with both effects active. The effect also stacks with the Protection enchantment.
+The effect won’t provide damage from the player itself, such as the “Pain Cicle” enchantment or others.
+
+
+=== Stats ===
+The cooldown of the iron hide amulet is 25 seconds fixed.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Iron Hide Amulet" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+
+
+=== Others ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

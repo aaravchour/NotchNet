@@ -1,0 +1,7 @@
+This page is about the ME Crafting Terminal added by Applied Energistics. For other uses, see ME Crafting Terminal.
+
+The ME Crafting Terminal acts like a crafting table connected to an ME Network.  Like the ME Access Terminal, the crafting terminal displays items contained in an ME Network.  Those items can then be placed in the crafting GUI to create items.
+The ME Crafting Terminal allows creation of multiples of any item, so long as sufficient raw materials are available within the network.  This is very useful for creating a large number of items, or many items that cannot be stacked.
+
+
+== Recipe ==

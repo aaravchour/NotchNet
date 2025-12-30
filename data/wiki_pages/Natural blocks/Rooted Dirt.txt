@@ -1,0 +1,76 @@
+Rooted dirt is a natural decorative block.
+
+
+== Obtaining ==
+
+
+=== Natural generation ===
+
+Rooted dirt can generate under azalea trees. Below the first block directly underneath the trunk, rooted dirt randomly replaces blocks in a 5×5 cross-section centered on the tree until it reaches the lush caves biome.
+
+
+=== Post-generation ===
+Single rooted dirt replaces dirt, coarse dirt or moss below oak logs where azalea trees are grown from azalea or flowering azalea.
+
+
+=== Breaking ===
+Rooted dirt can be mined using any tool or without a tool.
+
+
+=== Trading ===
+Wandering traders can sell 2 rooted dirt for 1 emerald.
+
+
+=== Mob loot ===
+An enderman holding rooted dirt drops the block upon death.
+
+
+== Usage ==
+Much like coarse dirt, neither mycelium nor grass can spread onto rooted dirt. 
+While it yields itself when dug, it does not convert into dirt after a block is placed onto it.
+Rooted dirt blocks can be converted into dirt path blocks by using any type of shovel on the side or top of rooted dirt with air above it.
+
+
+=== Hanging roots ===
+Using bone meal on rooted dirt causes hanging roots to grow below the block, if space is available for it to grow.
+Using a hoe on rooted dirt turns it into normal dirt and drops a hanging roots item.
+
+
+=== Mud ===
+Using a water bottle, splash water bottle or lingering water bottle will convert the rooted dirt into mud.
+
+
+== Sounds ==
+
+
+=== Generic ===
+Java Edition:
+Its sound is between that of wooden planks and dirt variants.
+
+Bedrock Edition: 
+
+
+=== Unique ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Rooted Dirt" are maintained on the bug tracker. Report issues there.
+
+
+== External Links ==
+Block of the Week: Rooted Dirt – Minecraft.net on April 8, 2022

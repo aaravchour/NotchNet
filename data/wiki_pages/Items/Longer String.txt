@@ -1,0 +1,17 @@
+Longer string is a joke item from Java Edition 23w13a_or_b.
+
+
+== Obtaining ==
+
+
+=== Crafting ===
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+
+== History ==

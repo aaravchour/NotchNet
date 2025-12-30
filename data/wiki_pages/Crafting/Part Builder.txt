@@ -1,0 +1,15 @@
+The Part Builder is a block added by Tinkers' Construct. It is used to shape most non-metallic tool parts by using wooden patterns and raw materials.
+
+
+== Recipe ==
+The texture of the Part Builder depends on what kind of wood was used to craft it.
+
+
+== Usage ==
+Right-clicking on a placed Part Builder will open its GUI. On the right side of the GUI is a short how-to description:
+
+The GUI has three slots on the left (for input), an arrow denoting input to output sides, and two slots on the right (for output).
+The far left slot has a square icon and is for patterns. If there is a Pattern Chest next to the Part Builder, the contents of the chest can be accessed from within the Part Builder GUI.
+The ingot and cube slots are for raw materials (e.g., wooden planks or Obsidian blocks). The pattern tooltip will display how much material the part requires. If there are materials in the material slot, the material value will be displayed below. The right side of the tooltip will display useful information about the material, such as its durability, mining level, handle modifier value, and properties.
+When enough of the material is present in the Part Builder for the part, the output slot will be filled. Like a vanilla Crafting Table, the materials will not be consumed until the finished part is removed from its slot.
+The far-right slot with a shard icon is for leftover materials. In previous versions, patterns in Tinkers' Construct used smaller material amounts such as 0.5. In versions after 1.7.10, only the shard pattern produces a fraction of a material, so the shard mechanism is virtually deprecated.

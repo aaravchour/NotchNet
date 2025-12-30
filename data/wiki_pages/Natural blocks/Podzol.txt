@@ -1,0 +1,111 @@
+Podzol is a dirt-type block that naturally blankets the surface of the old growth taiga and bamboo jungles, along with their respective variants. Grass blocks and mycelium cannot spread to this block.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Podzol can be broken using any tool or by hand, but the shovel is the quickest. It can be obtained using a tool with Silk Touch, otherwise it drops dirt instead. 
+
+
+=== Mob loot ===
+
+Endermen can pick up podzol blocks, and drop it if holding it when killed.
+
+
+=== Natural generation ===
+Podzol generates only in old growth taiga and bamboo jungle biomes.
+
+
+=== Trading ===
+Wandering traders have 1⁄6 chance to sell 3 podzol for 3 emeralds.
+
+
+=== Post-generation ===
+
+Podzol replaces grass blocks, dirt, mycelium, coarse dirt, rooted dirt, moss block, mud ‌, and muddy mangrove roots, around a large spruce tree when it is grown from 4 saplings arranged in a square. The pattern of the podzol reaches at most 6 blocks in the eastern and southern (positive X and Z) directions, and 5 blocks in the western and northern directions.
+In Java Edition, since podzol can be converted from moss blocks, and moss can be grown on renewable stone, dirt can be renewably created as long as there is access to water, lava, moss, spruce saplings and bone meal. This is especially useful on maps where dirt is limited.
+
+
+== Usage ==
+Like mycelium, podzol allows mushrooms to be placed on it no matter the light level, which allows the growth of huge mushrooms. Saplings, all kinds of flowers, and sugar cane can be placed on it normally. A podzol block can be turned into a dirt path by pressing use on it with any type of shovel, but it cannot be tilled with a hoe to make farmland. However, the player can first use the shovel on the podzol to turn it into dirt path, then use the hoe on the dirt path to turn it into farmland.
+
+
+== Sounds ==
+
+
+=== Generic ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Unique ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+
+
+== History ==
+
+
+=== Data history ===
+
+
+== Issues ==
+Issues relating to "Podzol" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Unlike other similar blocks, podzol never spreads to dirt blocks, and it does not become dirt if a solid block is placed on top of it, no matter how long the block remains on top of it. Similarly, neither grass nor mycelium can spread to podzol.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Java Edition ===
+
+		
+			
+			
+		
+
+
+== See also ==
+Farmland
+Grass Block
+Dirt
+
+
+== References ==
+
+
+== External Links ==
+Block of the Week:Podzol – Minecraft.net on September 1, 2017

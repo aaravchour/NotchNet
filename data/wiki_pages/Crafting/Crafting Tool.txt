@@ -1,0 +1,4 @@
+The Crafting Tool is a utility added by PowerCraft. When right-clicked, it will open to a list of all of the items in the game, similar to creative mode's search button. Items that can be crafted using the player's inventory contents will display normally, while items that cannot will display as slightly transparent. When a craftable item is clicked, the item is crafted using the resources in the user's inventory.
+
+
+== Recipe ==

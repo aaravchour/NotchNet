@@ -1,0 +1,65 @@
+An endermite is the smallest hostile mob. An endermite may spawn when a player throws an ender pearl. They attack by biting the player. Endermen are hostile toward endermites.
+
+
+== Spawning ==
+Endermites have a 5% chance to spawn when a player-thrown ender pearl lands. They spawn at the player's original position when the pearl lands‌, or at the pearl's landing site‌.
+An endermite despawns within 2 minutes, regardless of the player's distance, except for when it has been named with a name tag.
+
+
+== Drops ==
+Endermites drop 3 experience orbs when killed by a player or tamed wolf.
+
+
+== Behavior ==
+
+Endermites attack players within 16 blocks and become hostile toward any mob if it attacks an endermite.
+An enderman can attack an endermite from up to 64 blocks away.
+Endermites attack iron golems and endermen in Bedrock Edition.
+As arthropods, endermites are affected by the Bane of Arthropods enchantment.
+Endermites suffocate on soul sand they step on.
+
+
+== Sounds ==
+Java Edition:
+Endermites use the Hostile Creatures sound category for entity-dependent sound events.
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Entity data ===
+Endermites have entity data associated with them that contains various properties.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Entity format.
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Endermite" are maintained on the bug tracker. Report issues there.
+
+
+== See also ==
+Silverfish
+The End
+Enderman
+Ender pearl
+Spawn Egg
+
+
+== References ==

@@ -1,0 +1,10 @@
+Enable/disable pathfinding display
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

@@ -1,0 +1,54 @@
+A warped fungus on a stick is an item that can be used to control saddled striders.
+
+
+== Obtaining ==
+
+
+=== Crafting ===
+
+
+=== Mobs ===
+A zombified piglin that spawns as a strider jockey holds a warped fungus on a stick instead of a golden sword, and has an 8.5%‌ or 25%‌ chance to drop it if killed by a player or tamed wolf, or upon death when angry. chance is increased by 1%‌ or 5%‌ per level of Looting, for a maximum of 11.5%‌ or 40%‌ with Looting III.
+
+
+== Usage ==
+
+Similar to how a carrot on a stick is used to control pigs, the players can use a warped fungus on a stick to control a strider. To do this, the player simply holds the item in one hand and any nearby striders within view is attracted toward the player. If mounted on a saddled strider, the strider moves in the direction the player is facing while holding the warped fungus on a stick. Right clicking with the item makes the strider go faster, but reduces the item's durability by 1 for every speed boost. If the item durability reaches 0, it turns into a fishing rod.
+Due to a strider's ability to walk on lava, this is a beneficial tool for using striders as a safe transport across the Nether's terrain, which is otherwise considered difficult to traverse.
+
+
+=== Enchantments ===
+A warped fungus on a stick can receive the following enchantments, but only through an anvil:
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Warped Fungus on a Stick" are maintained on the bug tracker. Report issues there.
+
+
+== See also ==
+Carrot on a Stick
+Saddle
+
+
+== References ==

@@ -1,0 +1,15 @@
+Skeleton horse farming is a process of farming skeleton horses.
+
+
+== Why bother? ==
+While farming skeleton horses are tedious, skeleton horses are one of the fastest rideable animals in the game, and they are one of the few mobs that heal themselves after being injured, albeit very slowly, which means if you accidentally hit it you won't need to worry about healing it using potions. You can ride them underwater without them bucking you off, which allows underwater transport, however they are hard to obtain, so being able to farm them is handy, especially for SMPs and servers.
+
+
+== Concept ==
+There needs to be a way of attracting lightning from thunderstorms to spawn skeleton trap horses, (lightning rods will not spawn skeleton trap horses) and the skeleton trap horses will spawn and get pushed to an area near the player, which will spawn 4 skeletons riding 4 skeleton horses. The skeletons can be killed by the player, which is in a safe location, and then the player can push a button which will open iron trapdoors underneath the horses and transport them to an area which they can be stored.
+
+
+== Designs ==
+
+
+== Videos ==

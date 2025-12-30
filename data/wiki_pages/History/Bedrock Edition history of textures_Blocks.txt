@@ -1,0 +1,23 @@
+This page document the history of the textures of blocks, their additions, changes and removals. Additions and changes made to the models of blocks, as well as any new blocks which reuse prior textures, will not be documented here.
+
+
+=== Used block textures ===
+
+
+=== Minecraft Education blocks ===
+
+
+=== Placeholder textures ===
+This section documents both placeholder textures for errors, and those formerly used for animated blocks.
+
+
+==== History ====
+
+
+===== Missing textures =====
+
+
+===== Block placeholder textures =====
+
+
+===== Animation placeholder textures =====

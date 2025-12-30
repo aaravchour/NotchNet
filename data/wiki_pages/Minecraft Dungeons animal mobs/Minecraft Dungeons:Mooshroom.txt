@@ -1,0 +1,90 @@
+A mooshroom is a hostile cow variant that can be found within the secret ??? mission of Minecraft Dungeons.
+
+
+== Appearance ==
+Mooshrooms look exactly as they do within the original Minecraft game, with a red body that has white spots in it. They have horns at the sides of their heads, and black eyes. The only difference, however, is that the red mushrooms and horns on their back and head are a 3D model, rather than a 2D model within the original game.
+
+
+== Spawning ==
+???
+Ancient Hunt
+Tower
+
+
+== Behavior ==
+Mooshrooms are hostile and attack heroes in herds, dealing damage, unlike the original game. They are more bulky and defensive than other mobs, requiring many hits to defeat them. Mooshrooms have two behaviors.
+
+Basic attack
+Mooshrooms commonly attack by kicking against the hero with their front legs.
+
+Strong attack
+Mooshrooms occasionally perform a rare attack where they ram the hero with their horns.
+
+
+== Health ==
+
+
+== ????? ==
+
+The ????? is an ancient mooshroom that can be encountered during ancient hunts with the minimum offering of the following runes:
+
+The ancient resides within a ???-themed arena and possesses, at minimum, the following enchantments:
+
+Deflect
+Leeching
+Poison Cloud
+Thorns
+Twenty-five enchanted mooshrooms act as the ancient's minions, possessing the following enchantments:
+
+Weakening
+Upon defeating the ?????, a gilded variant of the following items drops as a reward:
+
+Dual Crossbows
+Baby Crossbows
+Spellbound Crossbows
+Gauntlets
+Fighter's Bindings
+Maulers
+Soul Fists
+Ghostly Armor
+Ghost Kindler
+Katana
+Dark Katana
+Master's Katana
+
+
+== Sounds ==
+Mooshrooms use both old and new cow sounds.
+
+
+== Data values ==
+In the game files, mooshrooms are referred to internally by the name MooShroom.
+
+
+== History ==
+
+
+== Gallery ==
+
+
+=== Textures ===
+
+		
+			
+			
+		
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

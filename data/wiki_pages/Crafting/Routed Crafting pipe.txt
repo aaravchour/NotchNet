@@ -1,0 +1,42 @@
+This information pertains to an older version of the mod.  This item was removed in Project Red version v4.7.0pre6.
+
+The Routed Crafting Pipe was a block added by Project Red until Version "v4.7.0pre6", which allows the player, in connection with an automatic crafting table or other machines, to automatically craft items.
+In this case it is important to distinguish here between 
+
+simple crafting (workbench) (see Usage without Routed Extension Pipes) and
+crafting in combination with other machines (see Usage with Routed Extension Pipes)
+because of the complexity of the system.
+If the mod MineChem is installed, then you can decompose the Routed Crafting Pipe with the Chemical Decomposer into different chemical compounds of MineChem.
+
+
+== Recipe ==
+
+
+== Usage ==
+
+The Routed Crafting Pipe connects with all other pipes from Project Red as well as with chests and machines. If more than one chest or machine stands next to the pipe, than only one of these chests/machines is connected to the pipe (show in Picture 1). With the Screwdriver from Project Red you can change the active connection.
+
+
+=== Without Routed Extension Pipes ===
+Picture 2 shows a example system for automatic crafting. This simple crafting system (workbench crafting) has three specific areas:
+
+The request area contains a Routed Request pipe and if you want a chest to collect the requested items.
+The crafing area contains a Routed Crafting pipe, with an including Item Crafting chip, and a specific automatic crafting table. You can use for example the Auto Workbench from BuildCraft.
+The storage area include chests connected with Routed Interface pipes (including Item Broadcaster chips and Item Responder chips) to the pipe system. For an intelligent pathfinding in the storage area, Routed Junction pipes are recommended at the junctions, but not absolutely necessary.
+Here only the crafting area (2) will be further described:
+Place the Routed Crafting Pipe between the storage area (3) and the request area (1) and an automatic crafting table on the side of the pipe (it's not necessary which side). Take the Item Crafting chip and configurate his matrix depending on which item you want produce automatically. Then open the GUI of the Routed Crafting Pipe with a right-click and put the configurated chip in a chip slot (no matter which slot). On the right side you can configurate the priority value of this crafting pipe, if you have more than one in your pipe system.
+Lastly, you have to put the same item recipe (like in the matrix of the Item Crafting Chip) in the automatic crafting table (in this example the Auto Workbench).
+
+If you open the Routed Request pipe (1), the item you want let to produce is shown in the list with a indicating "zero". This "zero" means, that no item of this type is in the storage area (3), but you can let produce it automatically. Now you can mark the item, choose an amount you will have, and send a request. After a short time the produced items reaches the Routed Request pipe or the chest on the side of it. The items do not appear immediately because the automatic crafting tables have a production time.
+This mode/usage, can not use multiple Item Crafting chips for the production of other items, because the recipe in the workbench must be also changed automatically, which is not possible. The use of multiple cards is only useful in combination with Routed extension pipes (see below).
+
+
+=== With Routed Extension Pipes ===
+To interact with other prodution machines from vanilla minecraft or other mods, you must use Routed Extension pipes and Data Cards to control the item transport and input in the various machines. This system allows you to construct extremly complex automatic crafting systems.
+In area (4) of Picture 2 is shown an example to automatic craft Cooked Fish which is described below to explain the basic system in detail. In this process. the storage area (3) and the request area (1) are also used. The crafting area (2) is not used in this example.
+In the storage area (3) are stored Fish and Coal. 
+For each machine is particularly important to note, which side of a machine controls which slots in the GUI. The Routed Crafting Pipe in area (4) is placed under the furnace, so that the pipe can remove the cooked fish. On the right side and on the top of the machine are two Routed Extension pipes to input coal on the side and fish on the top.
+Now an Item Crafting chip must be configurated to control the process. You must use an upgraded version of the chip to have the possibility of setting "Extension". In the matrix configuration you must put the items which are used in the process on any place, in this example it is coal and fish. On the product slot you must put a cooked fish. In the extension configuration you need to select for both item in the matrix a different color. Remember which item is connected to which color. After the configuration you can put the Item Crafting Chip into the Routed Crafting pipe in area (4).
+In the next step you must connect the Routed Extension pipes with the Routed Crafting pipe. For this you use the Data Cards. In the GUI of each Routed Extension Pipe you must use one Data Card to store the coordinates of this pipe. Note which card is assigned to which input of the oven. Then these Data Cards you must put into the Routed Crafting Pipe in area (4). Here you must now connect the Data Card of the current input to the color of the extension. For example in the picture has the coal the extension color "orange" and the coal is added through the access at the side of the furnace. The Data Card with the coordinates of this Routed Extension Pipe must now placed in the Routed Crafting Pipe in the "orange slot". The fish has the color "white" and the Data Card of the input at the top must be placed in the "white slot".
+Now all is configurated and you can use the Routed Request pipe in area (1) to request a cooked fish. The items from the storage area are transported to the furnace and after a short time the cooked fish is transported to the chest on the request pipe.
+In this use, it becomes clear why the Routed Crafting Pipe has multiple card slots, in the same furnace e.g. can also be prepared other foods or melted ore.

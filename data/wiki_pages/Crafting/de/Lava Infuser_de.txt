@@ -1,0 +1,4 @@
+Der Lava-Infuser ist ein Block, der von ArmorPlus hinzugefügt wurde. Er wird verwendet, um einige der Mid- bis Endgame-Items aus dem Mod zu infusen (infundieren), und wird auch verwendet, um Infused Lava Crystals zu produzieren.
+
+
+== Rezept ==

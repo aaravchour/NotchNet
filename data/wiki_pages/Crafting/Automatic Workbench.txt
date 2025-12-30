@@ -1,0 +1,5 @@
+The Automatic Workbench is a block added by PowerCraft. It used to automatically craft items. Right-clicking it will open its GUI. On the right, a recipe can be specified by placing the required items in the 3x3 slots. Items placed in the left will be used to create the specified recipe. When the specified recipe is made, the product will be ejected through the front of the Automatic Workbench; this is designed to work with the mod's conveyor belts.
+Per default, the products are automatically created when the resources are available in the Automatic Workbench. Clicking the "Redstone triggered" button in the block's GUI will make the Automatic Workbench only craft a product when triggered by a Redstone pulse.
+
+
+== Recipe ==

@@ -1,0 +1,92 @@
+Lapis lazuli is a mineral required to enchant items in an enchanting table.
+
+
+== Obtaining ==
+
+
+=== Mining ===
+When mined with a stone pickaxe or better, lapis lazuli ore drops 4–9 lapis lazuli. With the Fortune III enchantment, a single block has a chance of dropping up to 36 items.
+
+
+=== Crafting ===
+
+
+=== Smelting ===
+
+
+=== Villager gifts ===
+In Java Edition, cleric villagers give players lapis lazuli if they have the Hero of the Village effect.
+
+
+=== Trading ===
+Apprentice-level cleric villagers sell one lapis lazuli for an emerald as part of their trades.
+In Bedrock Edition, wandering traders may sell 3 lapis lazuli for an emerald.
+
+
+=== Chest loot ===
+
+
+== Usage ==
+
+
+=== Enchanting ===
+1–3 pieces of lapis lazuli are required to use an enchanting table to enchant an item. More specifically, the enchanting table UI shows 3 options (see Enchanting mechanics for details): the first, second, and third options cost 1, 2, and 3 lapis lazuli, respectively.
+
+
+=== Crafting ingredient ===
+Lapis lazuli can be used to make blocks of lapis lazuli and blue dye. In Bedrock Edition, it can also be used directly as a substitute for blue dye.
+
+In Bedrock Edition, lapis lazuli can be also used in banner patterns:
+
+
+=== Loom ingredient ===
+
+
+=== Dye ===
+In Bedrock Edition and Minecraft Education, lapis lazuli can be:
+
+Applied to sheep to dye their wool, which can then be sheared for 1–3 blocks of blue wool.
+Applied to tamed wolves and cats to dye their collars.
+Used to dye or stain wool, carpets, candles, leather armor, leather horse armor, wolf armor, beds, glass, glass panes, terracotta, shulker boxes, and bundles.
+Combined with gunpowder to make a firework star.
+Combined with a firework star to create a fade-to-color effect.
+Used to add patterns to banners.
+Used to dye shulkers in Bedrock Edition and Minecraft Education.
+Used to dye water contained in cauldrons in Bedrock Edition and Minecraft Education.
+Combined with sand and gravel to craft concrete powder.
+Combined with compounds to craft balloons or glow sticks in Bedrock Edition and Minecraft Education.
+Used to change the color of the text on signs or hanging signs.
+
+
+=== Smithing ingredient ===
+
+Trim color palette
+The following color palette is shown on the designs on trimmed armor:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Lapis Lazuli" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+In real life, lapis lazuli is a blue gem that can be ground and processed into ultramarine pigment. Lapis lazuli pigment has been famously used in the production of illuminated manuscripts, stained glass, and cave paintings. See the Wikipedia article for more information.
+Lapis lazuli is the only ore that can be used as a dye‌ or making a dye.
+It is the only item that can be put in the second slot of an enchantment table.
+
+
+== References ==

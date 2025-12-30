@@ -1,0 +1,241 @@
+Bee nests and beehives are blocks that house bees. Bee nests are found naturally, and beehives are crafted. They fill with honey as bees pollinate flowers and return to their homes and, when full, can either be sheared for honeycombs or honey bottles extracted using glass bottles.
+
+
+== Obtaining ==
+
+
+=== Natural generation ===
+
+Naturally generated bee nests generate with 3 bees in them. The bee nests always face south.
+Bee nests generate in the following biomes with different chances:
+
+
+=== Breaking ===
+
+Beehives and bee nests can be broken using any tool or by the player's fist, though they break faster with an axe. 
+If a bee nest or beehive is broken using a tool not enchanted with Silk Touch, it drops nothing, and any bees inside emerge angry at the player.
+If a Silk Touch tool is used, the bee nest or beehive drops itself and any bees inside remain inside. The bees will not become angry when the block is placed.
+If a bee nest or beehive is destroyed with a campfire under it and without a Silk Touch tool, they will emerge angry at the player.
+If broken in Creative mode with bees inside, the bee nest or beehive drops itself and bees inside remain inside.
+
+
+=== Crafting ===
+
+Beehives can be crafted in a crafting table. Bee nests occur naturally and cannot be crafted.
+
+
+=== Post-generation ===
+Oak, birch, or mangrove trees grown from saplings that are within 2 blocks (including diagonally) of a flower on the same y-level have a 5% chance to grow with a bee nest containing 1–3 bees. This holds true in any biome in any dimension, and for any flower including wither roses and flowering azaleas.
+
+
+== Usage ==
+
+
+=== Bee housing ===
+
+Bee nests and beehives can house up to 3 bees at a time. They can enter through any unobstructed side, top, or bottom, but can exit only from the front, and only if it is unobstructed by a solid block (including a non-full solid block in Bedrock Edition).
+Bees fly into a nest or hive at night, during rain, and after loading up with pollen from a flower. They first look for one at the same coordinates as the last one they entered, but if there is no nest or hive there or it already contains 3 bees when they arrive, they search the nearby area for another one.
+Igniting a nest or hive allows any bees inside to escape, possibly catching fire as they flee.
+
+
+=== Harvesting ===
+
+Once full, bee nests and beehives provide two harvestable products: honey and honeycomb.
+Each time a bee enters a nest or hive covered in pollen, it starts converting it to honey and honeycomb. After it is done, it waits for daylight with no rain (if necessary), then exits to go collect more pollen. When the bee exits, the nest or hive increments its honey level by 1, to a maximum of 5. Once it is full, it changes its appearance to show honey oozing out and, if the block below it is not a full solid block, starts dripping honey particles (The dripping honey is decorative; it cannot be collected in a cauldron). These changes signal that the hive or nest is ready for harvesting.
+To harvest honey, the player uses a glass bottle on the nest or hive; the bottle then becomes a honey bottle. To harvest honeycomb, the player uses shears on the nest or hive, causing it to drop three honeycomb items. After harvesting, the hive or nest is reset to empty (honey level 0, with the default appearance).
+Alternatively, honey or honeycomb can be harvested by powering a redstone dispenser containing either a glass bottle or shears. The dispenser must be placed beside and facing the hive or nest.
+
+Harvesting from a beehive or bee nest causes any bees inside it to become aggravated toward the player, unless there is a fire directly beneath it or a lit campfire within five blocks below, and the smoke is not obstructed. Smoke can pass through no more than one solid block, and only if that block is directly above the campfire. Placing a carpet above the campfire leaves room for the bees to hover beneath the nest and still avoid taking fire damage. In Java Edition, the smoke coming through the carpet also calms the bees. In Bedrock Edition, a carpet is treated as an obstruction that removes the calming effect of the campfire's smoke. Without a block covering the fire, the bees can still avoid fire damage if the campfire is placed 4–5 blocks below the nest.
+
+
+=== Redstone component ===
+Beehives and bee nests have comparator output with a strength equal to the honey level in the block. Once the beehive or bee nest is filled with honey it emits a signal strength of five.
+
+
+=== Note blocks ===
+Beehives and bee nests can be placed under note blocks to produce bass sounds.
+
+
+=== Fuel ===
+In Bedrock Edition, beehives and bee nests can be used as fuel in a furnace, smelting 1.5 items per block.
+
+
+== Sounds ==
+
+
+=== Generic ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Unique ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block data ===
+A beehive has a block entity associated with it that holds additional data about the block.
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Block entity format.
+
+
+== Advancements ==
+
+
+== Achievements ==
+
+
+== History ==
+|Bee nests now have a 2% chance to spawn in flower forests.
+|Bee nests now have a 0.2% chance to spawn in forest, wooded hills, birch forest, tall birch forest, birch forest hills, and tall birch hills biomes.}}
+
+
+== Issues ==
+Issues relating to "Beehive" are maintained on the bug tracker. Report issues there.
+
+
+== See also ==
+Tutorials/Honey farming
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

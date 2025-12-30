@@ -1,0 +1,12 @@
+Toggles player coordinates to be displayed on the HUD.
+
+
+== Syntax ==
+position
+
+
+== Result ==
+Always success; coordinates are displayed on the HUD successfully.
+
+
+== History ==

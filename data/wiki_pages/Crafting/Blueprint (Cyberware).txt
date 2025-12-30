@@ -1,0 +1,3 @@
+This page is about the item added by Cyberware. For other uses, see Blueprint.
+The Blueprint is an item added by Cyberware. It can be obtained from a Cyberware Scanner or a Cyberware Engineering Table.
+Each item that can be inserted in the Cyberware Engineering Table (which includes all pieces of cyberware) has its own Blueprint. The Blueprint states what components are required to craft its associated item, and when put in the Cyberware Engineering Table with all of those components allows the player to create the associated item.

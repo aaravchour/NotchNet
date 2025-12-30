@@ -1,0 +1,75 @@
+The flaming quiver is an artifact that can be found within the various missions of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Pumpkin Pastures
+Fiery Forge
+Nether Fortress (DLC)
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+
+== Usage ==
+The flaming quiver grants the hero 7 flaming arrows when activated. Flaming arrows deal fire damage over time similar to the fire aspect enchantment.
+The fire damage done by flaming arrows is increased by the Fire Focus enchantment.
+
+
+=== Properties ===
+X ranged damaged per second
+30 seconds cooldown
+
+
+=== Properties ===
+Minimum damage for power level
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Flaming Quiver" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+The fire effect of the flaming quiver can be stacked with fire enchantments like fire aspect can be stacked and will do separate damage, and both effects mobs whether the arrow hits the mob or a mob close to them.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+
+
+=== Others ===
+
+		
+			
+			
+		
+
+
+== References ==

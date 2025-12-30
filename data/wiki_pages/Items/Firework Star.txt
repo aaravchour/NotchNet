@@ -1,0 +1,64 @@
+Firework stars are items used to determine the color, effect, and shape of firework rockets.
+
+
+== Obtaining ==
+In Survival mode, firework stars are obtainable only through crafting. In Creative mode, they can be found in the creative inventory.
+
+
+=== Crafting ===
+
+
+== Usage ==
+The only usage of firework stars is to create firework rockets.
+
+
+=== Crafting ingredient ===
+
+
+== Effects ==
+
+
+=== Shape effects ===
+A firework star can have only one shape effect.
+
+
+=== Additional effects ===
+In addition to the shape effects, any combination of these additional effects may be added to a firework star.
+
+
+== Sounds ==
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Item data ===
+Java Edition:
+
+Bedrock Edition:
+
+See Bedrock Edition level format/Item format.
+
+
+== Video ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Firework Star" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+There are 29,617,272,331,290,537 (29.6 quintillion) unique firework stars.
+Putting firework stars on rockets causes the player to take explosion damage when using them for flying with elytra.
+
+
+== Gallery ==

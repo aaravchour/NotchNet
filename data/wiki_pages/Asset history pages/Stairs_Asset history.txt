@@ -1,0 +1,101 @@
+This page documents an in-depth history of assets relating to stairs.
+
+
+== Assets ==
+
+
+=== Cobblestone Stairs ===
+
+
+==== Java Edition ====
+
+
+===== Block texture and model history =====
+
+Straight stairs
+
+Inner corner stairs
+
+Outer corner stairs
+
+Potentially noteworthy effects:
+
+In 1.0.0's development, the bottom faces of blocks had the texture mirrored - when this started and when it was fixed is unknown
+MC-91710 resulted in several cases of stair UV appearing different
+MC-92137 would also have resulted in stair UV appearing wrong
+MC-114779 removed a face of stairs that cannot be seen normally
+
+
+===== Item texture and model history =====
+
+
+===== Name and translation string history =====
+Beta 1.0: With the introduction of tooltips, the block has been officially named Stone Stairs.
+14w31a: Changed to Cobblestone Stairs
+
+
+==== Bedrock Edition ====
+
+
+===== Block texture and model history =====
+
+Straight stairs
+
+Inner corner stairs
+Section pending.
+
+Outer corner stairs
+Section pending.
+
+
+===== Item texture and model history =====
+
+
+===== Name and translation string history =====
+
+
+=== Oak Stairs ===
+
+
+==== Java Edition ====
+
+
+===== Block texture and model history =====
+
+Straight stairs
+
+Inner corner stairs
+
+Outer corner stairs
+
+
+===== Item texture and model history =====
+
+
+===== Name and translation string history =====
+Beta 1.0: With the introduction of tooltips, the block has been officially named Wooden Stairs.
+
+
+==== Bedrock Edition ====
+
+
+===== Block texture and model history =====
+
+Straight stairs
+
+Inner corner stairs
+Section pending.
+
+Outer corner stairs
+Section pending.
+
+
+===== Item texture and model history =====
+
+
+===== Name and translation string history =====
+
+
+== Data values ==
+This section could document stuff like old numeric IDs, old namespaced IDs, old block states, and old metadata handling including extreme inaccessible metadata values.
+End of proposal - all further material is work in progress and outwith the proposal

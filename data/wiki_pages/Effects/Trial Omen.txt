@@ -1,0 +1,6 @@
+Trial Omen is an effect that starts when a player with Bad Omen enters in the trial chambers, which transforms trial spawners into ominous trial spawners, which allows them to drop ominous trial keys.
+The ominous trial spawners do not effect breezes and cave spiders; but it guarantees husks and baby zombies an iron sword that can upgrade to diamond. Strays, husks, baby zombies, Skeletons and boggeds can have chain, iron and diamond armor that has Bolt Smithing Template or Flow Smithing Templates with copper material. They can be enchanted.
+
+
+== Issues ==
+Issues relating to "Trial Omen" are maintained on the bug tracker. Report issues there.

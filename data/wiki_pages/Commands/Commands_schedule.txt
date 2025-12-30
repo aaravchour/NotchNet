@@ -1,0 +1,67 @@
+In Java Edition, delays the execution of a function. The function executes on the server after specified amount of time passes.
+In Bedrock Edition, schedules a function to be executed once an area is loaded.
+
+
+== Syntax ==
+Java Edition
+schedule function <function> <time> [append|replace]
+Adds a schedule.
+schedule clear <function>
+Removes a schedule.
+Bedrock Edition
+schedule on_area_loaded add <from: x y z> <to: x y z> <function:filepath>
+schedule on_area_loaded add circle <center: x y z> <radius: int> <function: filepath>
+schedule on_area_loaded add tickingarea <name: string> <function: filepath>
+Adds a schedule to be executed once an area is loaded.
+
+
+== Arguments ==
+JE: <function>: functionBE: function: filepath: CommandFilePath
+
+Specify the function to be run.
+In Java Edition, must be a resource location, which refers to a single function, or one prefixed with a #, which refers to a function tag. In Bedrock Edition, must be of the format path/to/function/file, which refers to a function located at [behavior_pack]/functions/path/to/function/file.mcfunction.
+JE: <time>: time
+
+Specify the delay time.
+It must be a single-precision floating point number suffixed with a unit. Units include:d: an in-game day, 24000 gameticks;s: a second, 20 gameticks;t (default and omitable): a single gametick; the default unit.The time is set to the closest integer tick after unit conversion. For example. .5d is same as 12000 ticks.
+JE: <function>: string (in /schedule clear ... mode)
+
+Specify the function to be cleared. Should be a namespaced ID (minecraft: cannot be omitted) or a function tag(minecraft: cannot be omitted).
+Must be a string. And it is a greedy phrase (taking the rest of the command as the string argument).
+JE: append|replace
+
+replace simply replaces the current function's schedule time (default).
+append allows multiple schedules to exist at different times.
+BE: from: x y z: CommandPosition and to: x y z: CommandPosition
+
+Specify the coordinates of opposite corners of a rectangular area used to define a loaded area.
+Must be a three-dimensional coordinates composed of <x>, <y> and <z>, each of which must be a floating-point number or tilde and caret notation.
+For x and z, numbers less than -30,000,000 or greater than 30,000,000 are treated as -30,000,000 or 30,000,000 respectively.
+BE: center: x y z: CommandPosition
+
+Specifies the coordinates of the center point of a circular area used to define a loaded area.
+Must be a three-dimensional coordinates composed of <x>, <y> and <z>, each of which must be a floating-point number or tilde and caret notation.
+For x and z, numbers less than -30,000,000 or greater than 30,000,000 are treated as -30,000,000 or 30,000,000 respectively.
+BE: radius: int: int
+
+Specifies the radius of a circular loaded area as the number of chunks from the center to the edge of the circle.
+Must be a  32-bit integer number. It should be between 0 and 2,147,483,647 (inclusive).
+BE: name: string: basic_string
+
+Specifies the name of a ticking area, executes function when which is added.
+It must be either a single word (no spaces) or a quoted string.
+
+
+== Result ==
+
+
+== Output ==
+
+
+== Notes ==
+In Java Edition, cannot set two schedules to execute the same function at the same game tick.
+In Java Edition, in append mode, scheduling the same function before it is successfully run overwrites the previous schedule. If you schedule a function to happen in 5 seconds, then schedule the same function again before the 5 seconds are up, the new schedule replaces the original.
+Even when using the execute as ... command, the scheduled function always runs as the Server at world spawn point.
+
+
+== History ==

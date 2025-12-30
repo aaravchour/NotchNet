@@ -1,0 +1,70 @@
+An underwater torch is a non-solid block that emits light underwater.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Unlike a normal torch, an underwater torch does not break if water occupies its space.
+Like normal torches, an underwater torch breaks instantly and drops itself when broken using anything. Tools do not lose durability when breaking an underwater torch.
+Underwater torches are also broken if pushed by a piston.
+
+
+=== Crafting ===
+
+As with any torch, an underwater torch can be crafted using coal or charcoal. The player can also use a torch from the Creative inventory.
+
+
+== Usage ==
+An underwater torch can be used exactly like a normal torch, only it can be underwater.
+
+Underwater torches can be placed on the top or the sides of most solid blocks, although some require sneaking (see placement for exceptions). Being non-solid, an underwater torch has no collision box.
+Gravity-affected blocks like sand and gravel do not fall if the block below them has an underwater torch on it, and they break if they fall onto an underwater torch.
+
+
+=== Placement ===
+In general, underwater torches can be placed only on solid, opaque, and full blocks; exceptions are listed below.
+
+
+=== Light ===
+Underwater torches emit a light level of 14. Underwater torches also melt snow layers and ice within 2 blocks (taxicab distance).
+
+
+== Sounds ==
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+=== Block states ===
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Underwater Torch" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+
+
+== Trivia ==
+The crafting recipe refers to the fact that magnesium metal can burn in pure water vapor. Magnesium has a similar reaction with hot water, but it is slower and does not look like burning.
+If magnesium catches fire, water cannot be used to extinguish it. This is because magnesium reacts with hot water (and water vapor) to form explosive hydrogen gas.
+
+
+== See also ==
+Sea Pickle
+Torch
+Colored Torch
+Redstone Torch
+Redstone Lamp

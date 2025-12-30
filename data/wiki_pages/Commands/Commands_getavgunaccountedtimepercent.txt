@@ -1,0 +1,10 @@
+Returns the average percentage of unaccounted time.
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

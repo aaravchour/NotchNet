@@ -1,0 +1,280 @@
+The redstone monstrosity is the redstone golem boss variant that can be found within the various missions of Minecraft Dungeons.
+
+
+== Story ==
+After the Arch-Illager realizes that heroes like Karl can destroy redstone golems quite easily, he decides to create something even stronger that no hero could destroy: the redstone monstrosity. After it is created, it assists Archie with many tasks such as by carrying him over long distances. When the illagers raid the Squid Coast, the redstone monstrosity is ordered to chase after Karl. It is unknown whether or not the redstone monstrosity defeats him. When the heroes arrive at the fiery forge, they quickly manage to overload all of the redstone cores to destroy the weapons factory. In an effort to stop the heroes, the Arch-Illager summoned the redstone monstrosity. Eventually, the heroes defeat the redstone monstrosity, taking its head to hang over the fireplace within the house at the camp.
+
+
+== Appearance ==
+The redstone monstrosity appears to be a hulking, mechanical entity made of stone and redstone patches. It has multiple cracks within its body and red outlines within its torso. It has three glowing yellow eyes with the third one on its forehead and a red jaw. It possesses two large horns on its head. The mooshroom monstrosity and redstone golems are variants of this entity. It is about 5.4 blocks tall (7.2 blocks tall in the 1.6.0.0 trailer update).
+
+
+== Spawning ==
+Squid Coast (Cinematic)
+Fiery Forge (Boss)
+Tower (Boss)
+
+
+== Behavior ==
+The redstone monstrosity has five behaviors (with the sixth one being unused).
+
+Awaken sequence
+The redstone monstrosity has an unused awaken sequence.
+
+Walk
+The redstone monstrosity slowly walks toward its target when not attacking, making it is the second slowest mob after the jungle abomination.
+
+Slam attack
+The redstone monstrosity smashes both of its fists on the ground, creating a large four-block shockwave that deals knockback and deals very heavy damage (250 in the code) to any entities in its radius. This attack is the one used most often when it’s target gets in range.
+
+Spit
+The redstone monstrosity leans back and spits out eight small fireballs from its mouth. When a fireball touches the ground, it explodes in a small radius and deals massive damage to the hero. This attack is used mostly when there are no heroes in melee reach, and is more powerful than its melee attack (30%x8=240% range total damage vs 100% melee damage). The explosion damage is not affected by the totem of shielding.
+
+Strong attack
+The redstone monstrosity touches the ground with both fists as the redstone on its body glows. Dealing minor damage and knockback.
+
+Lava attack
+Twelve fissures form around the boss, each spawning a redstone cube that attacks nearby targets. This attack occurs every twenty seconds. Sometimes the monstrosity performs this attack, but no redstone cubes are summoned.
+
+
+=== Traits ===
+The redstone monstrosity immune to lava damage. The redstone core projectile can deal fifteen times of damage to redstone monstrosity.
+
+
+== Redstone cube ==
+
+A redstone cube is a hostile golem that can be found within the various missions of Minecraft Dungeons.
+
+
+=== Appearance ===
+The redstone cube appears to be a Block of Redstone with stone patches and eyes with eyebrows. They have eyes that look almost identical to the ones found on redstone golems. They leave a small trail of redstone dust as it moves.
+
+
+=== Spawning ===
+Fiery Forge (Boss summonable)
+Obsidian Pinnacle (Cinematic)
+Daily Trial
+Tower (Boss summonable)
+
+
+=== Behavior ===
+Basic attack
+Redstone cubes relentlessly chase heroes by rolling towards them, dealing damage upon contact.
+
+
+==== Sounds ====
+
+
+== Drops ==
+
+
+=== Must drop ===
+Permanent Item: 25%
+Emerald: 12~20
+Gear: 100%
+
+
+== Drops ==
+Armor
+Dark Armor
+Titan's Shroud
+Mercenary Armor
+Renegade Armor
+Plate Armor
+Full Metal Armor
+Reinforced Mail
+Stalwart Armor
+Scale Mail
+Highland Armor
+Artifacts
+Flaming Quiver
+Iron Hide Amulet
+Soul Healer
+Totem of Regeneration
+Melee Weapons
+Great Hammer
+Hammer of Gravity
+Stormlander
+Cutlass
+Dancer's Sword
+Nameless Blade
+Ranged Weapons
+Burst Crossbow (MCD:Daily Trials)
+Corrupted Crossbow
+Soul Hunter Crossbow
+Exploding Crossbow
+Firebolt Thrower
+Imploding Crossbow
+Power Bow
+Elite Power Bow
+Sabrewing
+
+
+== Sounds ==
+
+
+=== Music ===
+
+
+=== Redstone monstrosity ===
+
+
+=== Trailer sounds ===
+
+
+== History ==
+
+
+== Trivia ==
+The Arch-Illager is seen sitting on top of the redstone monstrosity's shoulder, in the official artwork for Minecraft Dungeons. Yet, the Arch-Illager is not part of the boss fight, nor is the redstone monstrosity a part of the Arch-Illager's boss fight.
+The boss's HP increases by 33.33% (as well as increases damage by 17.53%) when online and another hero joins the game. This means that the boss's HP increases from 100% to 200% (and damage from 100% to 150%) when there are four heroes within multiplayer.
+Before the release of Minecraft Dungeons, the trailer featured multiple redstone monstrosities that were going to be added in Creeper Woods and Redstone Mines; however, the Fiery Forge was the only place harboring one after the full release.
+The redstone monstrosity always faces south when defeated.
+The 1.6.0.0 update featured a video about the Arch-Illager spawning (or teleporting) the redstone monstrosity out of the arena, which is impossible to happen because there is no way to get the redstone monstrosity out of the arena within the actual game.
+The texture file for redstone cubes include a stray pixel.
+Redstone cubes can be seen within the loading screen of the obsidian pinnacle, but they do not appear within the mission.
+
+
+== Gallery ==
+
+
+=== Renders ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Gameplay ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+		
+			
+			
+		
+
+
+=== Trailer ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Official artwork ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Merchandise ===
+
+		
+			
+			
+		
+
+
+=== Miscellaneous ===
+
+		
+			
+			
+		
+
+
+== References ==

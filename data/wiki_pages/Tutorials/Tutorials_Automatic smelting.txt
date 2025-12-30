@@ -1,0 +1,62 @@
+The purpose of this tutorial is to teach how to smelt items automatically, without having to put them in and get them out manually.
+You will need hoppers, furnaces, and at least three chests. Additionally, furnaces can be replaced with smokers for faster cooking of food or blast furnace for faster smelting of ore or nuggets.
+
+
+== Semi-automatic furnace ==
+
+This semi-automatic design uses hoppers, and is not too difficult to build and is inexpensive.
+You will need 3 chests, 3 hoppers, and 1 furnace. The raw ingredients for this would be 8 cobblestone, 15 iron ingots, and 12 logs of wood (48 planks).
+
+
+=== Build instructions ===
+See below for a step-by-step guide on how to make this semi-automatic furnace design. Sneak (hold down ⇧ Shift) to attach blocks to each block that has an inventory, such as attaching a hopper to a chest. Otherwise you will open the block instead of placing the block. 
+
+Step 1: Place down a chest on the ground. (This will be the chest in which the smelted/cooked items will be put)
+Step 2: Attach a hopper to the chest.
+Step 3: Place the furnace on top of the hopper.
+Step 4: Place one hopper on the top and 1 hopper on the side (left, right, front, or back) of the furnace. (The top one will insert the items into the furnace, which get smelted / cooked; The hopper on any side-face inputs burnable fuels into the furnace)
+Step 5: Place a chest on top of each hopper attached to the furnace.
+
+Variations: You may choose to add switches to control the hoppers. Switching off the bottom hopper stops it from taking items out, allowing you to collect the experience from smelting them. Switching off the top hopper allows you to fill the top chest with various items, then eventually smelt them all in one go, reducing the fuel waste normally incurred by smelting partial stacks. The fuel hopper on the side never needs to be switched off.
+Multiplayer: On servers that have chest and furnace protections, you may have to unlock these before the hoppers are able to interact with them.
+Making two furnaces increases the rate of production much faster. Have a chest on top for the item to be smelted, and at the back, put a fuel chest.
+
+
+=== Videos ===
+
+
+== Tiny fuel generator ==
+
+
+=== Charcoal ===
+
+This design lets a furnace producing charcoal feed its product back into the furnace to fuel itself. It needs to be started off with one piece of charcoal (or for that matter, any fuel) in the chest.  If more than 5-6 stacks of wood are available, another chest for input can be placed atop the upper hopper. Note that this design uses a comparator, which requires access to nether quartz.
+The chest will not start receiving charcoal until both the furnace and the hopper feeding it fuel (level 2) are full. However, the hopper can be "stuffed" with four non-fuel items in its last four slots, as long as you leave the first slot open for fuel. Then the chest will start getting charcoal after two stacks of charcoal are produced, which will require 2-1⁄4 stacks of wood.  
+See the following video for an example of how to make this:
+
+
+=== Bamboo ===
+
+
+== Large smelters ==
+These smelters are designed to be extendable and handle large amounts of items.
+
+
+=== Mumbo Jumbo's design ===
+This design can go up to 6 smelters and can produce, at most, 6 times faster. 
+
+
+=== ilmango's design ===
+This design is more recent and more efficient due to the new blocks.
+
+
+=== Mysticat's design ===
+
+
+=== 1man1game's design ===
+
+
+=== JC Playz's design ===
+
+
+== Video ==

@@ -1,0 +1,11 @@
+Oozing is an effect that spawns 2 medium sized slimes when any entity with the effect is killed. Oozing effect occurs when the player is hit by a splash potion of oozing while the Trial Omen effect is activated.
+
+
+== Brewing ==
+
+
+== Causes ==
+
+
+== Issues ==
+Issues relating to "Oozing" are maintained on the bug tracker. Report issues there.

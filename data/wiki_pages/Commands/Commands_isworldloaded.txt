@@ -1,0 +1,10 @@
+Check if the client has loaded the world
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

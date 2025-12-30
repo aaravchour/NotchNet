@@ -1,0 +1,10 @@
+Returns the average end frame time
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

@@ -1,0 +1,45 @@
+Used for managing active fog settings for players.
+
+
+== Usage ==
+
+Fog settings pushed by this command are stored in each player's NBT data in a data structure similar to stack.
+In this data structure, each element is in the format of (fogSettingID, userProvidedId). Multiple elements can share a same fogSettingID or userProvidedId. Duplicate elements are valid.
+To push a new element into it, both fogSettingID and userProvidedId are required. To pop an element, userProvidedId is required. It searches from the top (newest) of the "stack", the first element with the specific userProvidedId is popped. All elememts with a specific userProvidedId can be removed together with remove mode. If you forget the userProvidedId of an element, then the only way to remove the elememt is editing the player's NBT via an NBT editor.
+Each fog setting has fog effects of one or more of the six fog types (air, weather, water, lava, lava_resistance, powder_snow). When rendering, all fog settings in this are applied one by one from the bottom (oldest) to the top (newest) of this "stack". The fog effects defined in the later fog setting overrides the earlier's. Each fog type works independently.
+Vanilla fog settings (biome fog, powder snow fog, etc) are applied before all fog settings in this "stack".
+
+
+== Syntax ==
+fog <victim: target> push <fogID: string> <userProvidedId: string>
+Pushes a fog setting into the fog "stack" of targeted players.
+fog <victim: target> <mode: delete> <userProvidedId: string>
+Pops a fog setting from the fog "stack", or removes all the fog settings with the specified userProvidedId from the "stack" of targeted players.
+
+
+== Arguments ==
+victim: target: CommandSelector<player>
+
+Specifies the player(s) to be targeted.
+Must be a player name or a target selector.  And it should be of player type.
+fogID: string: basic_string
+
+Specifies a fog setting.
+Must be a string. And it must be a single word that has no space or a quoted string. Should be a fog setting name defined under the Json path "minecraft:fog_settings"."identifier" in the <resource_pack>/fogs/<fog_setting>.json file). See Fog#Vanilla fog settings for IDs of vanilla fog settings.
+mode: delete: enum
+
+Specifies whether to pop or remove the fog "stack".
+Must be one of pop and remove.
+userProvidedId: string: basic_string
+
+Specified the userProvidedId.
+Must be a string. And it must be a single word that has no space or a quoted string.
+
+
+== Result ==
+
+
+== Output ==
+
+
+== History ==

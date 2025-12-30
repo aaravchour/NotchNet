@@ -1,0 +1,46 @@
+Haste is a status effect that increases attack speed by 10% per level and increases mining speed by 20% per level. Negative levels decrease mining and attack speed, similar to Mining Fatigue.
+
+
+== Causes ==
+
+
+== Immune mobs ==
+All mobs are immune to Haste. Most mobs are unaffected by Haste as they cannot mine blocks.
+
+
+== Interaction with Mining Fatigue ==
+Mining Fatigue III inflicted by elder guardians prevents the player from instant mining most blocks regardless of the Haste effect, along with a huge decrease of mining speed. However, lower levels of Mining Fatigue can be overcome by Haste of level III or greater, with a resultant reduced Haste effect.
+
+
+== Notes ==
+At levels 3 until 127 (Java Edition or Bedrock Edition) or 255 (Pocket Edition), the player's arm does not move while mining.
+Haste decreases the charging time of sweep attack.‌
+An alternative method of increasing mining speed is the efficiency enchantment.
+
+
+== Advancements ==
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Haste" are maintained on the bug tracker. Report issues there.
+
+
+== See also ==
+Mining Fatigue
+Status effect
+Efficiency
+
+
+== References ==

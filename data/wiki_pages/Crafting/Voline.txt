@@ -1,0 +1,6 @@
+The Voline is a hostile mob added by Infernal Expansion. It is unique because of its crafting mechanic. If the player holds Magma Cream, the Voline will stop attacking.
+When attacking, it prioritizes entities with Fire Resistance, and then it attacks players.
+
+
+== Crafting mechanic ==
+If the Voline is fed four Magma Cream and then one of the input items listed below, it will convert it into the output listed below.

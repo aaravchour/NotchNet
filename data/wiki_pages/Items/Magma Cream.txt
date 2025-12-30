@@ -1,0 +1,42 @@
+Magma cream is an item used in brewing to create potions of Fire Resistance, and to manually craft magma blocks.
+
+
+== Obtaining ==
+
+
+=== Mob loot ===
+
+
+==== Magma cubes ====
+All but tiny-sized magma cubes drop 0–1 magma cream. The maximum amount of magma cream is increased by 1 per level of Looting, for a maximum of 4 with Looting III.
+
+
+=== Crafting ===
+
+
+=== Chest Loot ===
+
+
+== Usage ==
+
+
+=== Brewing ingredient ===
+
+
+=== Crafting ingredient ===
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Magma Cream" are maintained on the bug tracker. Report issues there.

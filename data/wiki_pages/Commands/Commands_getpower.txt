@@ -1,0 +1,10 @@
+Detect the redstone power level of the specified coordinate block
+
+
+== Syntax ==
+
+
+== Result ==
+
+
+== History ==

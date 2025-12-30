@@ -1,0 +1,56 @@
+Feathers are items dropped by chickens and parrots, as well as tamed cats as morning gifts.
+
+
+== Obtaining ==
+
+
+=== Mob loot ===
+Adult chickens drop 0–2 feathers upon death. The maximum is increased by 1 per level of Looting, for a maximum of 0–5 with Looting III.
+Parrots drop 1–2 feathers upon death. The maximum is increased by 1 per level of Looting, for a maximum of 1–5 with Looting III.
+A fox sometimes spawns holding a feather, which always drops upon death. Alternatively, the player can drop a food item, causing the fox to drop the feather in favor of the food.
+
+
+=== Natural generation ===
+
+
+=== Cat gifts ===
+
+Tamed cats have a 70% chance of giving the player a "morning gift", and the gift has a 16.13% chance to be a feather.
+
+
+== Usage ==
+
+
+=== Helmet ===
+
+While a feather cannot be equipped in the head slot in Survival mode, equipping it using commands causes it to appear completely upright unlike other items.
+
+
+=== Crafting ingredient ===
+
+
+=== Trading ===
+Expert-level fletcher villagers buy 24 feathers for an emerald as part of their trade.
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Feather" are maintained on the bug tracker. Report issues there.
+
+
+== References ==
+
+
+== External Links ==
+Taking Inventory: Feather – Minecraft.net on March 3, 2019

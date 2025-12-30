@@ -1,0 +1,84 @@
+The giant royal guard  is a large royal guard boss variant that can be found within the squid coast of the arcade edition of Minecraft Dungeons.
+
+
+== Appearance ==
+The giant royal guard is a large royal guard that has been corrupted by the Arch-Illager using the Orb of Dominance, causing it’s eyes to change to purple and it’s body to emit crackling purple sparks. Unlike the normal royal guards, the giant royal guard has no shield, and purple trimmed gear rather than yellow.
+
+
+== Spawning ==
+Squid Coast (Arcade)
+
+
+== Behavior ==
+The giant royal guard is a tough boss with strong attacks and defense, with its only disadvantage being very sluggish when approaching the hero,  having a brief weakness point where it stops moving for a bit. The giant royal guard has three behaviors:
+
+Basic attack
+The giant royal guard will spin its Mace around dealing damage to any heroes and knocking them back.
+
+Strong attack
+The giant royal guard  will smash the ground with its Mace when the hero is near it which can damage nearby mobs and deal heavy damage.
+
+Charge
+The giant royal guard will charge forward to the hero, dealing heavy damage when in vicinity.
+
+
+== Giant Royal Guard (mob) ==
+
+A giant royal guard (mob)  is a non-boss variant of the giant royal guard that can be found atop the obsidian pinnacle of the arcade edition of Minecraft Dungeons.
+
+
+=== Appearance ===
+The giant royal guard is a large royal guard that emits crackling purple sparks.
+
+
+=== Spawning ===
+Obsidian Pinnacle (Arcade)
+
+
+=== Behavior ===
+The giant royal guard possesses strong attacks and defense, with its only disadvantage being very sluggish when approaching the hero,  having a brief weakness point where it stops moving for a bit. The giant royal guard's attacks can deal damage to other hostile mobs such as mages and zombies. The giant royal guard has three behaviors:
+
+Basic attack
+The giant royal guard will spin its Mace around dealing damage to any heroes and knocking them back.
+
+Strong attack
+The giant royal guard  will smash the ground with its Mace when the hero is near it.
+
+Charge
+The giant royal guard will charge forward to the hero, dealing heavy damage when in vicinity.
+
+
+== Health ==
+
+
+== Sounds ==
+
+
+== Data value ==
+
+
+== History ==
+
+
+== See also ==
+Giant Cave Spider
+Obsidian Monstrosity
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==

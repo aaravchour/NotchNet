@@ -1,0 +1,72 @@
+Fills all or parts of a region with a specific block.
+
+
+== Syntax ==
+Java Edition
+fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+The fill command also has an optional alternate syntax when using the replace option:
+fill <from> <to> <block> replace [<filter>]
+Bedrock Edition
+fill <from: x y z> <to: x y z> <tileName: Block> <blockStates: block states> [oldBlockHandling: FillMode]
+fill <from: x y z> <to: x y z> <tileName: Block> [oldBlockHandling: FillMode]
+The fill command also has an optional alternate syntax for replace mode:
+fill <from: x y z> <to: x y z> <tileName: Block> <blockStates: block states> replace [replaceTileName: Block] [replaceBlockStates: block states]
+fill <from: x y z> <to: x y z> <tileName: Block> replace [replaceTileName: Block] [replaceBlockStates: block states]
+
+
+== Arguments ==
+JE: <from>: block_pos and <to>: block_pos
+BE: from: x y z: CommandPosition and to: x y z: CommandPosition
+
+Specifies any two opposing corner blocks of the region to be filled (the "fill region").
+In Java Edition, must be a block position composed of <x>, <y> and <z>, each of which must be an integer or a tilde and caret notation. In Bedrock Edition, must be a three-dimensional coordinates composed of <x>, <y> and <z>, each of which must be a floating-point number or tilde and caret notation.
+Block position is the coordinates of the point at the lower northwest corner of a block. Because of this, the lesser coordinates of each axis are on the region boundary, but the greater coordinates are one block from the boundary, and the block volume of the source region is (xgreater - xlesser + 1) × (ygreater - ylesser + 1) × (zgreater - zlesser + 1). For example, 0 0 0 0 0 0 has a 1-block volume, and 0 0 0 1 1 1 and 1 1 1 0 0 0 both identify the same region with an 8-block volume.
+JE: <block>: block_stateBE: tileName: Block: enum
+
+Specifies the block to fill the region with.
+In Java Edition, must be in the format of block_id[block_states]{data_tags}(does not accept block tags), in which block states and data tags can be omitted when they are not needed. In Bedrock Edition, must be a block id.
+BE: blockStates: block states: BlockStateCommandParam
+
+Specifies the block states to use for the block.
+Must be a blockstate argument as ["<state1>":<value1>,"<state2>":<value2>,...]. For example: ["old_leaf_type":"birch","persistent_bit":true].
+JE: destroy|hollow|keep|outline|replace
+BE: oldBlockHandling: FillMode: enum
+
+destroy - Replaces all blocks (including air) in the fill region with the specified block, dropping the existing blocks (including those that are unchanged) and block contents as entities as if they had been mined with an unenchanted diamond shovel or pickaxe. (Blocks that can be mined only with shears, such as vines, do not drop; neither do liquids.)
+hollow - Replaces only the blocks on the outer edge of the fill region with the specified block. Inner blocks are changed to air, dropping their contents as entities but not themselves. If the fill region has no inner blocks (because it is smaller than three blocks in at least one dimension), acts like replace.
+keep - Replaces only the air blocks in the fill region with the specified block.
+outline - Replaces only the blocks on the outer edge of the fill region with the specified block. Inner blocks are not affected. If the fill region has no inner blocks (because it is smaller than three blocks in at least one dimension), acts like replace.
+replace - Replaces all blocks (including air) in the fill region with the specified block, without dropping blocks or block contents as entities. Optionally, instead of specifying a data tag for the replacing block, block ID and data values may be specified to limit which blocks are replaced.
+If not specified, defaults to replace.
+JE: <filter>: block_predicateBE: replaceTileName: Block: enum
+
+Specifies the ID of the blocks in the fill region to be replaced. If not specified, replaces all blocks in the fill region.
+In Java Edition, must be in the format of block_id[block_states]{data_tags}(accepts block tags), in which block states and data tags can be omitted when they are not needed. In Bedrock Edition, must be a block id.
+BE: replaceBlockStates: block states: BlockStateCommandParam
+
+Specifies the block states to use for the block to be replaced.
+Must be a blockstate argument as ["<state1>":<value1>,"<state2>":<value2>,...]. For example: ["old_leaf_type":"birch","persistent_bit":true].
+
+
+== Result ==
+
+
+== Output ==
+
+
+== Examples ==
+/fill 52 63 -1516 33 73 -1536 minecraft:gold_block replace minecraft:orange_glazed_terracotta‌
+/fill 52 63 -1516 33 73 -1536 gold_block [] replace orange_glazed_terracotta‌
+Replaces all the orange glazed terracotta in the selected area with gold blocks.
+/fill ~-3 ~-3 ~-3 ~3 ~-1 ~3 water
+Replaces the blocks in a 7×3×7 region directly beneath the command execution's location with water.
+/fill ~-3 ~ ~-4 ~3 ~4 ~4 stone hollow‌
+/fill ~-3 ~ ~-4 ~3 ~4 ~4 stone 0 hollow‌
+Creates a house-sized box around the command execution's location, replacing any blocks that would have been inside the box with air.
+/fill ~-15 ~-15 ~-15 ~15 ~15 ~15 stone
+Creates a solid cube of stone centered on the command execution's location.
+/fill ~-1 ~ ~ ~1 ~ ~ minecraft:prismarine_brick_stairs[facing=south,waterlogged=true]
+Replaces the specific blocks around the command execution's location with waterlogged prismarine brick stairs facing south.
+
+
+== History ==

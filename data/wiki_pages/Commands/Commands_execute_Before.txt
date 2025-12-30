@@ -1,0 +1,65 @@
+Executes a command on behalf of one or more other entities, with originating permissions, optionally on condition that a single-block /testforblock-style check passes.
+
+
+== Syntax ==
+Java Edition
+execute <entity> <x> <y> <z> <command …>
+An alternate syntax allows the command to be executed only if a specific block is detected:
+execute <entity> <x> <y> <z> detect <x2> <y2> <z2> <block> <dataValue|state> <command …>
+Bedrock Edition
+execute <origin: target> <position: x y z> <command: command>
+An alternate syntax allows the command to be executed only if a specific block is detected:
+execute <origin: target> <position: x y z> detect <detectPos: x y z> <block: Block> <data: int> <command: command>
+
+
+== Arguments ==
+JE: entity
+BE: origin: target: CommandSelector<Actor>
+
+Specifies the target to be the command's executor. Must be a player name or target selector. If more than one entity is selected, the command is run once as each of them.
+JE: x y z
+BE: position: x y z: CommandPositionFloat
+
+Specifies the position from which to run the command. Coordinates specified with tilde and caret notation are relative to the target, not to the position of the command's execution.
+JE: command
+BE: command: command: std::unique_ptr<Command>
+
+Specifies the command to be run. Must be a valid command.
+JE: x2 y2 z2
+BE: detectPos: x y z: CommandPosition
+
+Specifies the position of the block to check. May use tilde and caret notation to specify distances relative to position: x y z.
+JE: block
+BE: block: Block: enum
+
+Specifies the block ID that the block at x2 y2 z2 or detectPos must match for the command to run. Must be a valid block ID.
+JE: dataValue
+BE: data: int: int
+
+Must be a valid block data for that type of block or -1 to match any block data.
+JE: state
+
+Must be a valid block state for that type of block or * to match any block state.
+
+
+== Result ==
+Fails if arguments are not specified correctly, if entity or origin: target fails to resolve to one or more valid entities (named players must be online), if the checked block is not of the correct block id, data or state, or if the specified command fails.
+On success, executes the specified command as if executed by the specified target(s), done with operator-level permission at the specified coordinate.
+
+
+== Examples ==
+To summon lightning bolts at the positions of every zombie:
+execute @e[type=zombie] ~ ~ ~ summon lightning_bolt
+To summon lightning bolts at the positions of every zombie standing on any type of sand:
+execute @e[type=zombie] ~ ~ ~ detect ~ ~-1 ~ sand -1 summon lightning_bolt
+To summon 10 creepers at the nearest player's position (works as long as there are at least 10 entities in the loaded world):
+execute @e[c=10] ~ ~ ~ execute @p ~ ~ ~ summon creeper ~ ~ ~
+To summon ender dragon at the position of another player:
+execute @a[name=name_of_player] ~ ~ ~ summon ender_dragon
+
+
+== History ==
+
+
+== See also ==
+/testforblock — tests for a certain block at a specified position (including specific data tags)

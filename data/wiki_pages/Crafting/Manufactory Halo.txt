@@ -1,0 +1,5 @@
+The Manufactory Halo is a portable crafting tool added by Botania. 
+In addition to all functionality of Assembly Halo, it will automatically craft all set recipes as long as the halo is not held.
+
+
+== Recipe ==

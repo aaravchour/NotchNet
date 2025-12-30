@@ -1,0 +1,19 @@
+The Starlight Infuser is a block added by Astral Sorcery. It is used to infuse various items with Starlight to transform them (such as turning Aquamarines into Resonating Gems) and turning Crystal tools into their infused counterparts. In order for an infusion to occur, the pits around the Infuser must be filled with Liquid Starlight source blocks. When an infusion occurs there is a chance for one or more Liquid Starlight blocks to be consumed. When infusing a Crystal tool all Liquid Starlight blocks will be consumed. Placing back Liquid Starlight can be automated using the Containment Chalice.
+
+
+== Construction ==
+The complete structure is 7x7x7 and requires (in addition to the Infuser itself):
+
+12  Marble
+4  Chiseled Marble
+40  Marble Arches
+12  Liquid Starlight Buckets
+12  Runed Marble
+1  Lapis Lazuli Block
+8  Marble Pillars
+
+
+== Recipe ==
+
+
+== Astral Tome entry ==

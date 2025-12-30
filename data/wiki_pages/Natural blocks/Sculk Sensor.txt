@@ -1,0 +1,237 @@
+The sculk sensor is a bioluminescent block in the sculk family. It detects vibrations caused by actions and events in a radius around it and emits a redstone signal, and, if it was triggered by a player, also activates nearby sculk shriekers. Players can sneak to avoid making vibrations and wool can be used to occlude and block them.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Sculk sensors can be mined with any tool enchanted with Silk Touch, but hoes are the quickest. If mined with a non-Silk Touch tool, they drop 5 experience instead.
+
+
+=== Chest loot ===
+
+
+=== Natural generation ===
+Sculk sensors generate within the deep dark biome and ancient cities.
+
+
+=== Post-generation ===
+A sculk catalyst has a 9% chance of generating a sculk sensor on top of a sculk block.
+
+
+== Usage ==
+
+
+=== Crafting ingredient ===
+Sculk sensors can be used to craft calibrated sculk sensors.
+
+
+=== Light ===
+A sculk sensor has a light level of 1. When active, it changes to a lighter block state without a change to the light level.
+
+
+=== Vibration detection ===
+
+Sculk sensors detect vibrations in an 8 block spherical radius around it. Vibrations are caused by various events, such as a player and mobs walking, placing or breaking blocks, gliding with elytra, items falling on the ground, a piston extending or a wet wolf shaking itself off. While sneaking, a player is not detected. Walking, falling, dropping items, or shooting a projectile all trigger the sensor.
+When a vibration is made within the range of a sculk sensor, a signal travels from the vibration source to the sensor at a speed of one block per game tick (20 blocks per second). When the signal arrives, the sensor is activated for 40 game ticks (2 seconds). The sensor cannot detect any other vibrations while activated or while a signal is traveling to it.
+Sculk sensors have a cooldown period of 1 game tick (0.05 seconds) after being placed or after deactivating. During this short cooldown period, they cannot detect vibrations. This prevents them from activating when a contraption it is powering is being unpowered.
+Sculk sensors don't detect vibrations from other sculk sources or the warden.
+Wool and carpets have a special interaction with sculk sensors. If a wool block is placed between a sensor and a vibration source, the sensor is not able to detect the placed wool nor vibrations behind it. Specifically, if the ray joining the cube centers of the sensor block and the vibration source passes through any wool blocks, the noise is muffled. If the ray passes diagonally through the edge between two blocks, either one or the other block may muffle it but not both. Sculk sensors are not able to detect footsteps or dropped items on wool blocks or carpet, and they are also unable to detect dropped items of wool and carpets.
+Sculk sensors pass on the vibrations made by players to sculk shriekers within 8 blocks of the sensor. For example, an item dropped by a player triggers the shrieker, but an item dropped by a dispenser or from a broken block does not; a player flying around with elytra triggers the shrieker, but a bat flying around does not. Alarms can be blocked by wool placed in between the sensor and shrieker, similar to how wool can block vibrations from reaching the sensor itself.
+
+
+=== Redstone emission ===
+Sculk sensors emit a redstone signal when they are activated. The strength of the redstone signal is inversely proportional to the distance the vibration signal traveled – the closer the vibration is to the sculk sensor, the stronger the redstone signal is, so it reaches the maximum redstone signal strength when the vibration is directly on top of the sensor.
+
+
+==== Vibration frequencies ====
+
+Each vibration in the game falls under a certain frequency value. This value can be measured with a comparator. With the right contraption, the player could detect if a certain action has occurred or is occurring nearby.
+
+
+===== Vibration resonance =====
+ 
+When a sculk sensor detects a vibration, any adjacent block of amethyst will reemit a vibration on the same frequency that the sculk sensor detected.
+
+
+===== Things which are not detected =====
+The following occurrences, despite presumably causing physical motion, do not produce vibrations and therefore cannot be detected: 
+
+Blocks destroyed by a fluid flowing into their space
+Several blocks being destroyed due to their supporting block being removed:
+Rails
+Powered rails
+Detector rails
+Activator rails
+Redstone wire
+Redstone repeaters
+Redstone comparators
+Several cases where a dispenser fails to perform an action:
+Flint and steel not creating fire
+Bone meal not growing something
+Heads and carved pumpkins, if not equipped on something or placed
+Shulker boxes, if not placed
+Shears, if there's nothing to shear
+Glowstone, if it doesn't charge a respawn anchor
+Inserting an eye of ender into an end portal frame
+Usage of bone meal
+Eyes of ender breaking
+Ender Pearl Teleportation
+Silverfish entering blocks
+Water and lava flowing into existing spaces, or drying up
+Changing the mode of a redstone comparator
+Dyes used on signs
+Ink sacs and glow ink sacs used on signs
+Changing the delay on a redstone repeater
+Changing the shape of a single unit of redstone wire
+Fire extinguished by rain
+Fire extinguished via splash water bottles
+Carrot crops eaten by rabbits
+Certain specific events at a distance of exactly seven blocks away:
+Falling blocks changing from entities to blocks
+Placing armor stands
+Breaking armor stands
+Using spawn eggs
+The following cases have been confirmed to be intentional: 
+
+Axolotls being bred via tropical fish buckets
+Moss blocks replacing existing blocks
+
+
+=== Piston interactivity ===
+Sculk sensors are immovable. Pistons cannot push them, and sticky pistons cannot push or pull them. Slime blocks and honey blocks do not stick to sculk sensors and have no effect whether the slime block or honey block is being pushed or pulled.
+
+
+== Sounds ==
+A sculk sensor is silent if waterlogged. It can still detect vibration, but does not produce sounds itself.
+
+
+=== Generic ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Unique ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block states ===
+
+Java Edition:
+
+Bedrock Edition:
+
+
+=== Block data ===
+A sculk sensor has a block entity associated with it that holds additional data about the block.
+Java Edition:
+
+Sculk Sensor/BE
+Bedrock Edition:
+
+See Bedrock Edition level format/Block entity format.
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Sculk Sensor" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+"Sculk" is derived from "skulk", meaning "keep out of sight, typically with a sinister or cowardly motive".
+Originally the sculk sensor used to require 4 vibrations before it would emit a redstone signal which is the markings up the top, they would light up for each vibration received and would slowly go down after time.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External Links ==
+How to Use Sculk Sensors – Minecraft.net on February 2, 2023

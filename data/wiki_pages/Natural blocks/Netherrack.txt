@@ -1,0 +1,87 @@
+Netherrack is a frail stone block found abundantly in the Nether and in blobs below ruined portals. Netherrack itself is not flammable, but fire lit on top of netherrack burns indefinitely.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Netherrack can be obtained only when mined with a pickaxe. It drops nothing if mined without one.
+
+Netherrack can also be obtained by mining nylium with a pickaxe not enchanted with Silk Touch.
+
+
+=== Natural generation ===
+Netherrack makes up most of the Nether's terrain, and also generates as part of ruined portals in the Overworld.
+Netherrack generates as part of bridge and treasure room bastion remnants.
+
+
+=== Post-generation ===
+In Bedrock Edition, netherrack generates as part of nether portals spawned floating. This is what makes netherrack renewable.
+Crimson or warped nylium transforms into netherrack if a solid, opaque block is directly above it, or when it is covered by snow.
+
+
+== Usage ==
+Netherrack is mostly used as a cheap building block. Because of its abundance and softness, it is often used to construct temporary structures that can be used for scaffolding, blockage, or other purposes.
+When netherrack's top is lit on fire, the fire burns indefinitely. Unlike soul fire, this fire can spread.
+Using bone meal on netherrack placed next to warped nylium or crimson nylium transforms the netherrack into more nylium.
+Analyzing the netherrack in a material reducer, it turns out to be a volcanic silicate rock rich in mercury.‌
+
+
+=== Crafting ingredient ===
+
+
+=== Smelting ingredient ===
+
+
+=== Note Blocks ===
+Netherrack can be placed under note blocks to produce "bass drum" sounds.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Netherrack" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+Nylium
+Tutorials/Mob farm
+Tutorials/Traps
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External Links ==
+Block of the Week: Netherrack – Minecraft.net on June 4, 2018

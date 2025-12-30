@@ -1,0 +1,28 @@
+This command pauses or unpauses actors while in editor mode. 
+
+
+== Usage ==
+
+
+== Syntax ==
+simulationtype <state: enum>
+Changes simulation type for editor mode
+
+
+== Arguments ==
+state: enum: enumThe new simulation type. 
+
+
+== Result ==
+
+
+== Output ==
+
+
+== Example ==
+
+
+== History ==
+
+
+== References ==

@@ -1,0 +1,100 @@
+Balloons are entities that float upward when placed.
+
+
+== Obtaining ==
+Balloons are available in the Creative inventory or commands in Education Edition only.
+
+
+=== Crafting ===
+
+
+== Usage ==
+When used on a mob, a fence, or a wall, balloons attach to the mob or block, similarly to a lead. Balloons float into the air faster than the speed the player flies up, but remain grounded if tied to a fence. If tied to a mob, the balloon floats away and carries the mob into the air, before both eventually despawn or disappear.
+
+When a balloon is shot by an arrow or a trident, or floats into a solid block, it pops, summons particles, and is destroyed. It drops nothing. A balloon tied to a fence post bursts when a player strikes it in any direction.
+
+
+== Sounds ==
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+=== Metadata ===
+In Bedrock Edition, balloon items use the following data values:
+
+
+== History ==
+
+
+== Gallery ==
+
+
+=== Colors ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Event servers ===

@@ -1,0 +1,7 @@
+
+==== Blueprint ====
+
+The wheat crops won't replace to the carrot, potato, or beetroot crops. Also, the wheat crops always mature.
+
+
+==== Materials ====

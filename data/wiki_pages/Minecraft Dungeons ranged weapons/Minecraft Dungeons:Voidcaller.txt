@@ -1,0 +1,85 @@
+The voidcaller is a unique soul crossbow variant that can be found within the various missions of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Arch Haven
+Obsidian Pinnacle
+???
+The Stronghold (DLC)
+Tower
+Merchants
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+Cursed Presence
+
+
+== Usage ==
+
+
+=== Properties ===
+X ranged damage
+Pulls enemies in (Gravity tier I)
++1 Soul Gathering
+
+
+=== Stats ===
+Quiver: 40
+Fire Rate: 1.67 shots per second
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Voidcaller" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Others ===

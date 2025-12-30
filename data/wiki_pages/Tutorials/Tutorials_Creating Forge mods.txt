@@ -1,0 +1,216 @@
+
+== Overview ==
+Mods (short for 'modifications') can modify or add items, blocks, entities, and much more.
+Presumably, you already have an idea for a mod you want to create. If you simply want to add custom advancements, functions, loot tables, structures, recipes or tags to your game, look into how to make a Data pack, which does not require programming. Or look into how to make a resource pack if you simply want to customize textures (colors and designs), models, music, sounds, languages, splashes, fonts, or the end poem.
+Or perhaps you want to 'fork' a favorite mod to update for newer versions of Minecraft. In any case, this guide will eventually cover only the most basic elements of creating an item and creating an entity (a moving thing like a villager, sheep, zombie, etc.), and distributing the resulting mod package.
+Minecraft mods consist of jar files (example: yournewmod.jar) which contain class files, JSON files, and image files, to name a few of the most common.
+
+ Class files are specific to the Java programming language. A few Java tutorials to try are w3schools (web and mobile), SoloLearn (web and mobile), and kodevelopment(web). You will need an IDE (Integrated Development Environment) such as IntelliJ or Eclipse to read or create class files. This tutorial will focus on IntelliJ IDEA Community Edition 2019.
+ JSON files are a means of detailing the characteristics of objects used by Java class files. JSON is much simpler than Java. You will need a text editor such as Notepad++, Vim, or Emacs to read or create JSON files. You probably already have a basic text editor on your computer, but there are many advantages to using other ones instead.
+Image files you may be familiar with include .bmp and .jpg formats, but Minecraft requires .png format (example: yournewlogo.png) in multiples of 16 pixels square (example: 16x16, 32x32, 64x64). You will need an image editor such as Paint.NET or GIMP to edit or create .png files. You probably already have MS Paint on your computer, but GIMP has so much more functionality, and Paint.NET is quite user-friendly. There are also several websites with tools for creating pixel art.
+If you have been playing Minecraft Java Edition, you probably already have JRE (Java Runtime Environment). To develop a mod, you will need to find JDK (Java Development Kit), which includes the JRE and an emulator. Create a free account at oracle.com and download JDK Standard Edition version 8. Then follow the instructions for installing it, and make note of the location it installs to. Pay particular attention to the section on Updating the PATH Environment Variable.
+With a Java Development Kit installed, and the IntelliJ Integrated Development Environment to manipulate Java with, you now have the tools to develop custom software that can be used in a variety of applications. While working on a mod, continue working through Java tutorials. The lessons will enable you to put your ideas into action, while the ideas will make the lessons more interesting and memorable.
+One more tool you should set up before starting a mod is the Forge MDK (Mod Development Kit). Forge is a collection of useful resources and mod loader, designed specifically to simplify compatibility between Minecraft Java Edition and multiple community-created mods. This tutorial will focus on the MDK for version 1.12.2 of Minecraft Java Edition, although Forge for 1.14.4 has been around for some time. An alternative to Forge is Fabric, but Java is still used to code mods either way.
+
+
+=== Things not to do ===
+There are some things that you should be careful to not do when creating a mod. Keep this list in mind:
+
+Don't do anything that violates Mojang Studios' terms of use for Minecraft.
+Don't release Minecraft versions or modifications that allow you to play without having bought Minecraft from Mojang Studios.
+Don't release the de-compiled source code of Minecraft in any way.
+Don't modify existing mods without permission from that mod's author(s). Check their License, usually available in the author's GitHub repository. If you can't find the license, then you do not have permission to share a modified version with anybody. You may tinker with the files for personal use only.
+
+
+== First steps with Forge ==
+This wiki article aims to provide a foolproof walk-through of a few key elements of Forge's tutorial: https://mcforge.readthedocs.io. Bookmark their page, as it addresses many issues this article will not. Moreover, there's more than one valid way to achieve the desired result; this wiki article will focus on the simplest, which is probably not the most efficient or elegant. If you follow precisely the steps outlined here, you should soon have a functional mod, which you can then tinker with to your heart's content. If you use Linux, Forge's tutorial will probably be more useful for you. If you use Windows, read on.
+
+
+=== A note about placeholders ===
+This tutorial will use "You" to represent the User profile you are logged in with; if you copy-paste paths from this tutorial, be sure to replace "You" with your own Windows username. This tutorial will use "yournewmod" to represent sections you should replace with the mod name you choose for your project.
+
+
+=== 1. Create a folder for your project ===
+Navigate to C:/Users/You/Documents and create a new folder. The name of this folder may be changed easily later.
+
+
+=== 2. Obtain a "source distribution" ===
+Visit https://files.minecraftforge.net and make sure the version selected is the version for which you want to create a mod. In the large "Download Recommended" box, click on the small MDK box. A dialog box will appear, asking where you want to save the file, and what to name it. Choose any convenient location, but leave the name unchanged.
+
+
+=== 3. Copy key files to your project folder ===
+Open the forge-1.16.5-...-mdk folder (with or without unzipping it first) and copy-paste the following 6 files from this folder to the project folder you created in the first step: 
+
+the src folder
+the gradle folder
+gradlew
+gradlew.bat
+build.gradle
+settings.gradle
+
+
+=== 3½. A note about mappings ===
+There are two different sets of mappings available for method names - "MCP" community-based mappings, and "Official" mappings based in part on the official Obfuscation maps (though class names are different for technical reasons). The default in the MDK has recently been changed to 'official', but this tutorial will use the MCP mappings for now because function parameter names are not available in the official mappings.
+Change the following line in build.gradle line 34
+
+to
+
+
+=== 4. Import the gradle project ===
+Open/Run the IntelliJ IDEA program. In the landing screen, click on Open.  A dialog box will appear, asking which file to import. Navigate to your project folder and select "build.Gradle," then click OK.
+
+
+=== 5. Designate the JDK ===
+In the next window, click in the "Gradle JVM" field and navigate to the JDK files you installed earlier. If you got version 8 update 282, select the folder named "jdk1.8.0_282." Click OK and wait for the build to finish, Showing the results in the bottom field.
+[TODO: I didn't get another window, need to verify what happens on a fresh IDEA install]
+[Note: Confirming that on IntelliJ IDEA 2021.1.2 window doesn't appear, most likely that it detects JDK itself, so it will only appear if it failed to locate appropriate JDK]
+
+
+=== 6. Set up workspace ===
+No Dependencies needed to be Installed. Move to next step as new update in Forge command setupDecompWorkspace is not needed
+
+
+=== 7. Configure Run settings ===
+After refreshing gradle, open the gradle panel and double-click the "genIntellijRuns" entry in the "fg_runs" folder. This will create new run configurations that allow your mod to be run. Next, open the "Edit configurations" window of Run settings and look approximately halfway down, for "Use classpath of module." Click on its dropdown field, and select the option that ends with .main, then click Apply. If the settings you just finished editing were for the Minecraft Client, click on Minecraft Server and repeat the steps to set the classpath. [TODO: Is this necessary anymore? It was already set]
+You can now select and run runClient in the run configuration drop down menu. This will start the Launcher with your mod included. When you get to the landing menu, you can check whether your mod is present.
+
+
+== Creating a mod for Forge ==
+
+
+=== Identifying your mod ===
+
+The project as delivered with the MDK is called "examplemod" with the package name "com.example.examplemod". You will need to rename this to your own names in the following places
+- rename the class files
+- build.gradle
+- META-INF/mods.toml
+Package names should be based on a domain name in reverse order, or a name that is not a valid domain name if you do not own a domain name.
+[TODO clearer instructions, set up MODID variable]
+
+
+=== Setting up Item Registration ===
+
+You can create a class to put your definitions in. Here we call it ModItems, though in theory you could just add it to the main class. Having at least one class file (or, ideally, a package) to put registrations in without any non registration related code provides better organization for when you expand your mod.
+Firstly, create a DeferredRegister of type Item. This is effectively a list that is used to register items. Then, in order to register an item, create a RegistryObject as shown below.
+
+If you want to add more options add . [dot] at the end of ,, CreativeModeTab.TAB_MISC) "
+
+when its completed register item in your item class like this:then in your main class constructor add the code to create an event bus and register:or you can do with this code below.
+In your main class, set it up to automatically be called at the appropriate time, in the public ExampleMod() constructor:
+
+And now you need to translate this item. Inside resources add a directory named assets and inside add lang like this
+
+
+==== JSON and Texture Files ====
+
+
+===== Language File =====
+resources\assets\examplemod\lang\en_us.json (<- en_us.json is the language)
+
+inside en_us.json write:the item.examplemod.ITEM_NAME needs to match the name you put inside ModItems class [where your items are].
+
+
+===== Item Model File =====
+resources\assets\examplemod\models\item\item_name.json
+
+Inside add the following.item/generated is the default with no special features for rendering.
+
+
+===== Texture File =====
+resources\assets\examplemod\textures\item\item_name.png
+This is where you should add your texture image file.
+
+
+=== Creating a Custom Block ===
+
+
+==== Setting up Block Registration ====
+Firstly, create a new DeferredRegister of type block which will be used to register any blocks. Make sure to import net.minecraft.block rather than any of the other options.Next, you need to register the method with the IEventBus parameter. If you have a separate ModBlocks class then add the following method to it, otherwise add it to your already existing register method.To create blocks easily add the following two helper methods to your class. registerBlock registers the block while registerBlockItem registers the associated item.Finally, like with items add the register call to your main class.
+
+
+==== Registering the Custom Block ====
+The following code shows how to add a simple block.
+
+
+===== Blockstates JSON =====
+resources/assests/examplemod/blockstates/example_block.JSON
+
+
+===== Language File =====
+resources\assets\examplemod\lang\en_us.json (<- en_us.json is the language)
+
+
+===== Block Model JSON =====
+resources\assets\examplemod\models\block\example_block.json
+
+
+===== Associated Item Model JSON =====
+resources\assets\examplemod\models\item\example_block.json
+
+
+===== Texture =====
+resources\assets\examplemod\textures\block\example_block.png
+Put your texture image here.
+
+
+=== Creating a Custom Tool ===
+Let's make a simple spear, with damage ability similar to a stone sword.
+
+So, to start off with we need to make a new directory called tools in your package. Next create a new Java enum called ModItemTier. In this file you need to type a variant of the following:Next, you need to register your item. Go to your item registry class[?] and make a new item like the one here:.
+The numbers are the base attack damage [added to the damage set in the ItemTier] and the speed modifier, the values chosen for the example are intermediate between a sword and an axe.
+
+After this, you need to make a JSON file in src/main/resources/assets/examplemod/models/item called what you set earlier, like so:Then, go to your textures folder and input the texture you will make in the next step. If you want to know more about durability I recommend this page.
+
+
+==== Custom Layers over Vanilla Textures ====
+
+
+==== Textures from Scratch ====
+Open an image editor, preferably one that supports transparency, and create a new image, with a size that is a multiple of 16x16 (eg. 32x32, 64x64. etc.)
+
+This example is using a 32x32 pixel image and is made in GIMP.  
+Create your file, making sure it is in pixels and not inches, millimetres, or any other measurement.  
+Create a new layer, and delete the original canvas.  If you don't do that, then your image will have a white background.  
+Using a brush of 1x1 pixel, start drawing your item.  Make sure to use separate layers for separate parts of the item to allow changes to be made easier.  
+
+When you're done creating your art, press file to save.  If you're using GIMP or another advanced editor, it won't save as a .png.  For GIMP, it saves as a .xcf.  
+
+Navigate to the export dropdown or press ctrl+e on Windows or ⌘+E for macOS.  This is to export the file.  Make sure you export as a .png, not a .jpg or any other file extension.  If it is not saved as a .png, it will have a white background and won't look correct.  
+
+If you're following along with this tutorial and wish to use this image, you can download this finished pixel art here.
+
+
+=== Creating a Custom Mob ===
+
+
+==== Models from Scratch ====
+The best way to model mobs is probably blockbench (blockbench website). Blockbench is a free modeling tool, and it would be much faster and easier than taking the other approach, which is slow. If you want to model with it, simply make a cube, position it, rotate it, size it, and make your model the way you want to make it. If you need more cubes, you can easily make a new one. This is probably the best method for this. It is fast, easy, and customizable.
+
+
+=== Creating a Config file ===
+
+
+=== Sharing Your Mod ===
+
+To build your mod, run gradlew build or ./gradlew build for macOS. This will output a file in build/libs with the name [archivesBaseName]-[version].jar. This file can be placed in the mods folder of a forge enabled Minecraft setup, and distributed. Then you can upload your mod to CurseForge or Modrinth.
+
+
+== Further Reading ==
+
+https://mcforge.readthedocs.io/en/latest/gettingstarted/
+
+
+== Additional Info ==
+
+Recommended: 
+
+create a GitHub account to manage versions of your mod and collaborate with other developers.
+further tutorials (in video form, for version 1.15.2)
+text tutorials for 1.16.5, 1.17.1, and 1.18.2
+
+
+== See also ==
+Tutorials/Loading a resource pack
+Tutorials/Creating a resource pack
+Tutorials/Installing a data pack
+Tutorials/Creating a data pack

@@ -1,0 +1,64 @@
+A katana is a melee weapon that can be found within the various missions of Minecraft Dungeons. Its unique variants are the dark katana and the master's katana.
+
+
+== Obtaining ==
+Missions
+Listed difficulties are considered to be the minimum difficulty the item is obtainable on unless stated otherwise.
+A  before a mission name indicates that the item is only obtainable in Daily Trials of that mission.
+
+Lower Temple (Apocalypse)
+Obsidian Pinnacle (Apocalypse)
+Panda Plateau (Apocalypse, DLC)
+ Basalt Deltas (DLC)
+Coral Rise (Adventure, DLC)
+The Stronghold (Adventure, DLC)
+Tower
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+Piglin Merchant
+Ancients
+?????
+
+
+== Usage ==
+Katanas possess high power, low speed, and moderate range, and have combo attacks consisting of two side slashes, and an upwards slash. The side slashes deal the weapon's minimum melee damage, and the upward slash deals the weapon's maximum melee damage.
+
+
+=== Properties ===
+X melee damage
+
+
+=== Stats ===
+
+In-game, damage numbers can vary even in the same power level, and may not be exactly as seen below.
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Katana" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===

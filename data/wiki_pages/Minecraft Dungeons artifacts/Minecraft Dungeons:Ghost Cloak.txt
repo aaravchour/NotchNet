@@ -1,0 +1,64 @@
+The ghost cloak is an artifact that can be found within the various missions of Minecraft Dungeons.
+
+
+== Obtaining ==
+Missions
+Creepy Crypt (Adventure, Apocalypse)
+Lower Temple (Adventure, Apocalypse)
+Obsidian Pinnacle (Adventure, Apocalypse)
+Windswept Peaks (Apocalypse, DLC)
+Nether Fortress (DLC)
+Merchants
+Village Merchant
+Gift Wrapper
+Mystery Merchant
+Luxury Merchant
+
+
+== Usage ==
+When used, the hero will gain an effect known as "Ghost Form" for a very short time. Ghost form allows the user to walk through enemies and absorb 50% of incoming damage. Using any weapon will immediately remove the Ghost Form effect. Unlike the Shadow Form effect, mobs will still detect and attack the user.
+
+
+=== Properties ===
++X% speed
+6 second cooldown
+
+
+== Sounds ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Ghost Cloak" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+The ghost cloak can only be found with in the Nether Fortress on Default. This would make it exclusive to the Flames of the Nether DLC in Default.
+
+
+== Gallery ==
+
+
+=== Icons ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Textures ===
+
+		
+			
+			
+		
+
+
+== References ==

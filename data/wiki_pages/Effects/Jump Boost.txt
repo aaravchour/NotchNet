@@ -1,0 +1,60 @@
+Jump Boost is a status effect that temporarily increases the jump height of the player.
+
+
+== Mechanics ==
+Jump Boost allows the player to jump higher than the normal 1.2522 blocks. Each level adds 50% to the base jump height. It also reduces fall damage by 1 each level. 
+Arbitrary levels can be set via commands. Negative levels decrease jump height and increase fall damage (which also causes the player to start taking damage from short falls that would normally do no damage); extreme negative levels eliminates all jumping ability and causes damage even when stepping off a slab.
+
+
+== Causes ==
+
+
+== Brewing ==
+
+
+== Unaffected mobs ==
+Shulkers, withers, and the ender dragon are unaffected by Jump Boost.
+
+
+== Notes ==
+When at maximum level, jumping is not changed, but a player takes 256 × 128 less fall damage.
+At level 15, the increased height exceeds the maximum possible damage reduction, resulting in fall damage upon landing.
+At level 33, a player jumping on the spot is killed by fall damage upon landing, receiving the death message "<player> fell from a high place".
+In Java Edition, at level 128, the player can no longer jump because of integer overflow.
+At high enough levels (achievable only with commands), the player may jump hundreds of blocks high, enough to exceed Y=319.
+The actual max height the player can reach with any given level of jump boost can be approximated using this quadratic function 0.0308354x^2 + 0.744631x + 1.836131 where x is the Amplifier.
+
+
+== Data values ==
+
+
+=== ID ===
+
+Java Edition:
+
+Bedrock Edition:
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Jump Boost" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+When the player has Jump Boost level 128, the player cannot jump at all.
+
+
+== Gallery ==
+
+		
+			
+			
+		
+
+
+== References ==

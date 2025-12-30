@@ -1,0 +1,54 @@
+Levitation is a status effect that causes entities to levitate, inflicted when entities are shot by shulkers.
+
+
+== Effect ==
+Levitation causes the affected entity to float upward at a rate of 0.9×level blocks per second. This does not affect swimming or flying.
+In Java Edition, negative levels cause the entity to float downward, overriding the usual falling due to gravity; level 0 (amplifier 255) makes falling, jumping and ascending stairs impossible. When damaged by a projectile or anything, this makes the player go higher in the air on level 255.
+An affected entity does not take fall damage until the effect wears off, after which the entity falls and takes damage from falling (if it is not immune to fall damage). 
+Levitation has no effect on entities riding other entities. It also has no effect on entities that are in water or lava.‌
+
+
+== Causes ==
+
+
+== Immune mobs ==
+Only withers and ender dragons are immune to the effect. While shulkers and flying mobs can have Levitation, they are not affected. Blazes can be affected by Levitation when not hovering.
+
+
+== Notes ==
+Mobs tied with balloons‌ exhibit behavior similar to if they had a high level of Levitation. However, this mechanic does not use the Levitation effect.
+In Bedrock Edition, blocking a shulker projectile with a shield still gives the player Levitation. It is unknown if this intended.
+If a player is given a Levitation level over 127, they instead fall down at a fast or slow rate, depending on the value.‌
+If a player is given Levitation 255, they will hover on their current y level, being unable to move up or down.‌
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Levitation" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+The Levitation status effect normally raises the entity into the air, unless the entity is in water.
+The player can walk or run while having the Levitation effect, especially on level 254.
+Using /effect <player> minecraft:levitation <"infinite" or "time in seconds"> 255 makes the player fly in Survival and not jump, when the effect is over in Survival when in midair, hitting the ground causes the player to shoot into the air, resulting in a likely death.
+If a player uses /effect command to self-grant Levitation 256, the player moves at 230.4 blocks per second.
+
+
+== References ==

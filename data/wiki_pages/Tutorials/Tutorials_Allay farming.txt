@@ -1,0 +1,17 @@
+Allay farming is the process of duplicating allays. 
+
+
+== Why bother? ==
+Allays are very rare mobs, only spawning in woodland mansions and rarely in pillager outposts. Despite their rarity, allays are very useful for redstone farms and item sorters, since they are the easiest and simplest way to sort non stackable items. For example, they can be used in raid farms to sort the totem of undyings, or drowned farms to sort the tridents.
+
+
+== Mechanics ==
+An allay duplicates when it is given an amethyst shard while it is dancing from a nearby jukebox.
+
+
+== Getting an allay ==
+Allays can only spawn in woodland mansions and pillager outposts. There is not a guaranteed chance of finding an allay in either of these structures, however pillager outposts are far more common, so searching them is recommended.
+Allays generate in the wooden cages in pillager outposts, and in prison cells in woodland mansions. Once you choose which structure, search for them until you find an allay. Once you find an allay, you need to leash it and take it back to the area which you will dupe your allay, ideally near your base or an amethyst geode. You will only need one allay, but it is recommended to bring as many as you can in case an allay flies away or dies. You can transport the allays however you like, but it is recommended to use the Nether since it is most likely the fastest (but riskiest) way back if you have a nether portal to your location. Avoid using an elytra, since allays already are flying, and if you fly too quickly with the elytra the lead might snap and you lose your allay.
+
+
+== Manual farming ==

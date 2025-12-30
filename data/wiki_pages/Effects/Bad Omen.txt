@@ -1,0 +1,46 @@
+Bad Omen is a status effect that transforms into either Trial Omen if an afflicted player sees a non-ominous trial spawner or Raid Omen if an afflicted player enters a village.
+
+
+== Effect ==
+Bad Omen's potency determines the chance for pillagers to be equipped with enchanted weapons when the player triggers a raid by entering a certain radius around a bed that a villager has claimed. If the raid results in player victory, the Hero of the Village's potency equals the Bad Omen's potency (capped at level 5).  Bad Omen levels past the first also give a single extra raid wave, given the difficulty level. For example, with Bad Omen II-V in Easy difficulty has four waves instead of three, Normal difficulty has six waves instead of five, and Hard difficulty has eight waves instead of seven.‌
+Bad Omen is a status effect and can be removed through all conventional methods, such as drinking milk or dying.
+The player can still receive the Bad Omen effect in peaceful difficulty via commands (all pillager captains despawn in peaceful), but does not trigger a raid if in a village.
+
+
+== Causes ==
+
+
+== Immune mobs ==
+Only withers and ender dragons are immune to Bad Omen; however, only players can trigger raids. Other mobs with Bad Omen while in a village do not trigger a raid.
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== Achievements ==
+
+
+== Advancements ==
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Bad Omen" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+If the player leaves a village during a raid, receives Bad Omen, and returns to the village, the effect is removed but does not affect the existing raid.
+A player cannot receive Bad Omen when indirectly killing a Patrol Captain. This includes burning with fire or lava, thorns damage, drowning, explosions, and suffocation, among other things. This also includes killing a captain with fireworks shot from a crossbow.
+If the player kills a captain while in a village in Bedrock Edition, the raid bar and Bad Omen effect appear simultaneously. The effect disappears immediately after, then "flashes" again approximately 1 second later.
+Mobs other than a tamed wolf who kill the raid captain will not get Bad Omen. They can, however, be given the effect via commands; though they will not start a raid while in a village.
+
+
+== References ==

@@ -1,0 +1,236 @@
+A nether fortress is a large structure found in the Nether, consisting of bridges, corridors, and towers. Nether fortresses are the only place where wither skeletons and blazes spawn, the latter of which's blaze rods being required to craft and fuel brewing stands and craft eyes of ender to access the End. It also features nether wart as loot, which is a key ingredient in brewing. Be careful, however, because these structures are huge and you can easily get lost or killed by powerful mobs.
+
+
+== Benefits of defeating a nether fortress ==
+There are several benefits of defeating a nether fortress:
+
+To get blaze rods, essential for brewing and crafting several interesting things, including eyes of ender and ender chests.
+To get wither skeleton skulls to summon the wither or for decoration.
+To set up a blaze farm or a wither skeleton farm to get the resources above.
+To gather nether wart, also essential for brewing.
+To get loot from chests generated in the corridors, which contain the exclusive Rib armor trim.
+To use as a naturally generated player base (not recommended, as hostile mobs constantly spawn here).
+To challenge the player's combat skills.
+
+
+== Preparation Checklist ==
+Preparing before you even enter a nether fortress is essential. As always, the items you should bring depend heavily on your skill level, but some recommended items to bring:
+
+ At least an iron sword, or an axe (or both) if you play Java Edition
+ A bow to perform ranged attacks
+ At least a stack of arrows (or one if your bow has Infinity)
+ At least a full set of iron armor with one piece of  golden armor (optional)
+ A pickaxe, stone or better, preferably iron or better
+ At least 1 golden apple (optional but recommended)
+ Highly nutritious food, such as cooked porkchops or steak, at least half a stack.
+ At least 2 stacks of cobblestone (or blackstone)
+ At least 2 stacks of torches, or bring coal so you can craft more
+ A crafting table, chests and a furnace to set up a temporary base (optional)
+ At least 16 logs for crafting
+Potions of Fire Resistance and Totems of Undying (optional, but useful)
+ A shield to block off blaze fireballs and skeleton arrows
+ 2-4 buckets (optional, if using cauldron, have a few filled with water)
+ A cauldron (optional, does not work on Bedrock Edition)
+Flint and steel to light your portal if it's destroyed
+ 10 Obsidian (optional, to make a new portal)
+ A respawn anchor (optional, to reset your spawn point)
+ At least 12 glowstone, used for recharging respawn anchor and disabling blaze monster spawners
+
+
+== Preparation Equipment ==
+
+
+=== Sword ===
+Your sword (preferably iron, diamond or netherite) is useful for taking out mobs within melee reach, oftentimes wither skeletons, magma cubes, and blazes that haven't flown up. If you have access to enchantments, the most important enchantments will be either Sharpness or Smite. Sharpness adds a slight but noticeable damage increase against all mobs. A case can be made for Smite as well, since it deals far more damage although it can only be used against undead mobs. Most of the mobs you will be fighting in melee anyway are wither skeletons, an undead mob. Unbreaking and Looting are optional but recommended.
+
+
+=== Bow ===
+Your bow is invaluable in the Nether in general, doubly so in a nether fortress. This will be used for taking out high-flying blazes (a common threat) along with ghasts as you roam on bridges.
+For enchantments, Power is always useful, along with Unbreaking. Infinity is good although not required, Punch will have little effect since most mobs you shoot at will be far enough away for a slight amount of knockback to have no effect, and Flame has little to no effect except against a few mobs like piglins, hoglins and normal skeletons.
+
+
+=== Arrows ===
+Your bow is useless without arrows. If you haven't picked up some glowstone yet or find some within easy reach, go ahead and mine it because it will be useful for brewing, powerful lighting, and to make spectral arrows.‌ Four glowstone dust and an arrow makes two spectral arrows. A spectral arrow, when it hits an entity, makes it glow for a brief time which can help with visibility. If you are low on arrows, using spectral arrows can double your arrow count.
+
+
+=== Armor ===
+You will not survive long in a fortress without armor (what are you doing in the Nether with no armor anyways). Powerful armor is always essential, so Netherite is preferred. If you cannot afford them, diamonds will suffice (most of the time). Also, you will want to have at least one piece of Gold armor on (preferably Helmets as you probably won't need the exclusive enchantments) to ward off Piglin attacks. While they don't directly spawn in Fortresses, if the Fortress is near a Nether Wastes or Crimson Forest biome, a pack can come to attack you without provocation while you traverse the exposed bridges. Even if they can't get near you, some are armed with Crossbows and will try to shoot at you.
+For enchantments, stock up on Fire Protection or Protection. Feather Falling, Thorns, Unbreaking (especially on gold armor) and Mending are useful to prevent unforeseen knock-offs, inflict recoil damage and prevent armor breaking mid-combat, leaving you vulnerable.
+
+
+=== Pickaxes ===
+You should bring at least a stone pickaxe, or an/a iron/ diamond pickaxe if you can afford it. Diamond/Iron pickaxes can tear through Netherrack fast enough to possibly not give you time to react if you hit a hidden lava stream, but a stone pickaxe can be used to break them slower instead. The Diamond/Iron pickaxe is better for breaking down the Fortress, made up of much sturdier Nether Bricks.
+For enchantments, pickaxes don't actually need many enchantments in the Nether. It's not recommended to enchant the stone one because if it breaks, you can just make a new one with your cobblestone/logs. But for the iron/diamond pickaxe, Unbreaking is useful, along with Efficiency for quickly mining through the nether fortress if you have to make a quick escape.
+
+
+=== Golden Apples ===
+If you have one or more golden apples, it is recommended to bring at least one of them. These can be lifesavers in a difficult combat. If you have an enchanted golden apple, stash that back home and go back for it later. It will be useful in closing a blaze spawner, as seen below.
+
+
+=== Food ===
+Your main healing item. Highly nutritious food is necessary, such as Golden Carrots, Cooked Porkchops and Steak. Bringing at least half a stack of them ensures you don't run out at a critical moment.
+
+
+=== Cobblestone ===
+Cobblestone is useful for many purposes, like making stone tools, staircases, blocking passages off, etc. Bring at least two stacks of it, but a third stack is good to have.
+
+
+=== Torches ===
+Torches are good for navigation, marking explored areas, and extensively cutting down on mob spawns in areas you've already gone through. Try to bring three or more stacks, at least two, or bring a lot of coal or charcoal so you can craft more torches as you need them.
+
+
+=== Crafting Table, Chest, and Furnace ===
+At some point in the fortress you will want to set up a small base containing several important items and the ability to make more. When you set up a camp with these items, try to use a bit of spare logs and cobble to create another set so this place is a safe space.
+
+
+=== Logs ===
+Wood is eternally useful, not just in a nether fortress but indeed throughout your Minecraft career. Bring at least 16 (32 is a good number) logs for crafting more tools and minibases and such. As of the 1.16 update you can also find wood inside the Nether. Nether wood, unlike normal wood, is fireproof, making it a good wood choice if building. Keep in mind that you can't use nether wood as fuel though, and they can't be made into charcoal.
+
+
+=== Fire Resistance ===
+Fire resistance makes the player immune to fire and lava, and as such makes the player immune to blaze's ranged attacks, (but not their melee attacks.) The only source of fire resistance potions before entering the nether is witches: if they are set on fire they will begin drinking a fire resistance potion, and if they are killed before they finish there is a small chance they will drop it, making them farmable. A bow with the Flame enchantment and Power IV is a likely candidate for this. Once you enter the nether, a second source is bartering with piglins which requires large amounts of gold. Finally, you can of course brew potions, but brewing requires at least 2 blaze rods- you will have to attack a previous nether fortress before having access to this. 
+Totems of undying can give you fire resistance. However, totems of undying are rare and can only be found by killing an evoker, a rare and powerful mob. You will also have to die for the totem to activate and give you fire resistance. You will likely not have fire resistance on your first time through, but once you get two blaze rods (see 'Brewing' below)(coming up) make fire resistance potions as quickly as possible.
+
+
+=== Shield ===
+A shield, when used, can help with deflecting a few of the threats of nether fortress, such as mob melee attacks, blaze fireballs, and the explosions caused by ghast fireballs.  Successfully blocking a blaze fireball also prevents it from setting the player on fire (but it will not protect the player should the fireball set the ground on fire).
+
+
+=== Buckets ===
+Buckets (at least two are recommended) are good for clearing up easily accessible lava. Also, if you bring a few water buckets combined with a cauldron (see below, ‌), or a powder snow bucket, as they are ways of extinguishing yourself in the Nether.
+
+
+=== Cauldron ===
+A cauldron allows you (in conjunction with water buckets) to extinguish yourself in the Nether by placing the cauldron and filling it with your water buckets, and then hopping in. When used, you can insert the cauldron in the ground for easier access. 
+
+
+=== Portal-making supplies ===
+Especially if your nether fortress is far from your base, it is nice to have a backup way to get to the Overworld. Bring at least 10 obsidian and a flint and steel. The flint and steel is not necessarily required, since they can be found in chests or a passing blaze or ghast might help you out, but it is good to have a guaranteed portal lighting device. Also remember to have a flint and steel somewhere in the Nether in case your original portal gets blown out.
+If you don't have enough obsidian to build a portal, you can obtain some through bartering with piglins.
+
+
+=== Respawn Anchor ===
+If you tend to die a bunch in the Nether, bring a respawn anchor. It will enable you to set a spawn point anywhere in the Nether. Bring glowstone blocks to charge it up. Make a safe room with a crafting table, and a chest to hold glowstone. You will know when it is ready because the top will have the nether portal texture, the circle will be full and the area will be lit up. Right click once more to set respawn. Be careful though it has only four charges. When you die, you will respawn there and it will use a charge. You can charge it up if you have more glowstone.
+
+
+== Finding a Nether Fortress ==
+Nether fortresses generate in all Nether biomes. To do so, the game splits the Nether into regions in which one of either a fortress or a bastion remnant can generate. The regions are 432×432 blocks in Java Edition and 480×480 blocks in Bedrock Edition. 
+
+Each region has a four chunk separation located on the south and east borders of the region in which neither a fortress nor a bastion can generate. 
+
+This leaves only a 368×368 block section in Java Edition or 416×416 block section in Bedrock Edition where a structure can generate. 
+Two structures never generate in the same region, although they might overlap if they generate close to the separation border. In Java Edition, the chance of a fortress generating instead of a bastion is 2⁄5 (40%), while in Bedrock Edition the chance of a fortress generating instead of a bastion is 1⁄3 (33.3%).
+Nether fortresses can generate buried in netherrack. In such a case, the interior is not filled with netherrack; all hallways and passages are clear except for open walkways and bridges. It is possible but rare for glowstone or crimson and warped huge fungi to generate inside the fortress pathways.
+If you are playing in 1.16 or after, the apparent distance between nether fortresses was dramatically increased in the 1.16 Nether Update. Be prepared to venture several hundred blocks, possibly even thousands, in multiple directions to find the fortress. But once you have found the fortress itself, its fruit is sweet.
+
+
+=== Basic Tips ===
+When traversing the Nether to search, especially if you have found golden apples or have enchanted your armor, simply wear a suit of unenchanted iron armor while you explore. There are many hostile mobs in the Nether and you might never be able to retrieve your items if you die. If you fall into a lava sea, all your items are pretty much guaranteed to be incinerated.
+You are looking for a large structure that stands out from the ordinary red (or grey or blue, depending on your biome). It's massive and made out of dark red bricks. How box-looking some parts are should serve as a peculiar feature. Some other things you might stumble on:
+You have found a small broken portal, perhaps with some stairs or slabs of blackstone. These are ruined portals, and contain a loot chest and blocks of gold. Be careful, as opening the chest and mining the blocks of gold will provoke nearby piglins.
+You have found a large towering black structure, smaller than a nether fortress but imposing nevertheless. This is a bastion remnant, which contains many blocks of gold and loot chests (maybe even a magma cube spawner if you're lucky) but if you're playing 1.16.2 and up these are best saved for late game, and even in 1.16-1.16.1 they are best saved for after you conquer the nether fortress and have potions (see below).
+Got a saddle? Great. Found a biome of blue with blue trees and endermen? Even better. Harvest some warped fungus from the warped forest biome, make warped fungus on a stick, and now you can ride the small red mobs (called striders) that spawn frequently in lava seas. These are incredibly useful for traversing Nether seas, especially large ones where you might not be able to see the other side. You can also simply sit on one and snipe at nearby mobs that might try to kill you.
+If you are annoyed with trying to find a nether fortress and have cheats turned on, you can run the command /locate fortress which will return the coordinates of the nearest nether fortress. If you have the seed of your world you can enter it into ChunkBase.com or other external seed maps which will show you where all the nether fortresses in your world are.
+Turning your render distance up will allow you to see farther, but it will also increase the lag on your computer, a possibly fatal factor if you are ambushed. Moreover, because of the Nether fog, you won't be able to see farther than about 12 chunks, so a higher render distance won't help you from that point upward. Instead of turning up your render distance, you could install a resource pack from Bedrock Tweaks or other websites to increase visibility in the Nether.
+
+
+=== Advanced Tips ===
+
+When you create your nether portal near your spawn point in the Overworld, your original nether portal will be close to the world center in the Nether. This might be hard to understand, but the Nether is divided into several hundred block wide regions, each containing either a nether fortress or a bastion remnant. Four of the closest of these regions surround the center of the Nether, on the northwest, northeast, southwest and southeast directions. You preferably want to find a close nether fortress, so you can revisit it whenever you need more blaze rods and wither skulls. So you want to check out each of these four regions to know if a fortress is in there or not. If you see a bastion remnant, you can guarantee that there will not be a fortress in the same region. At this point, turn around and search another region, until you find a nether fortress.
+There is a chance that your world will not have a fortress within the four closest regions. Since the chance for a fortress to generate in a region is 2⁄5 (40%) in Java Edition and 1⁄3 (33.3%) in Bedrock Edition, there is only a 13.0% chance in Java Edition and a 19.8% chance in Bedrock Edition that this is the case. So be prepared if there are no close-by fortresses in your world, but also keep in mind that there's more likely to be a nearby fortress than if there isn't.
+
+
+== General structure ==
+The nether fortress is made of nether brick, which is fire resistant. The structure contains corridors with chests in them and contain gold, horse armor, diamonds, nether wart, iron ingots and even armor. There are stairwells that will lead you to different parts of the fortress. The structure also spans over lava lakes and may be broken in places.
+
+
+== Specific Structure Features ==
+A nether fortress has two types of easily distinguishable walkways: corridors and bridges.
+
+
+=== Corridors ===
+Corridors are the "indoors" part of a fortress. They are easily distinguishable by their 3x3 walkway encased in nether brick with 2x1 nether brick fences for 'windows'. Under the corridors solid nether brick generates to the surface. This is what makes the main 'fort' buildings of the fortresses: a set of nether brick corridors positioned above or around the surrounding bridges, with the solid nether brick to the surface giving it a fort-like look. Chests generate in the turns of these corridors and they can generate the all-important nether wart farm and blaze spawners. They are in most ways the safer parts of a nether fortress, because unless you've mined through the walls or ceiling you cannot fall off or be attacked from afar.
+
+
+=== Bridges ===
+The bridges look just like that: large bridges. They have a 5 block wide pathway with a one-block-high wall on both sides, all composed of nether bricks. Instead of the solid nether bricks that corridors have beneath , they have large solid arches. Note that the one-block-high 'railing' does not prevent you from falling off! The bridges often end broken-looking or abruptly end. The tunnels, when they generate, cut through netherrack which means if the fortress generates partly encased in netherrack, the bridges will generate as tunnels with a nether brick floor and netherrack walls and ceiling. Be careful when wandering around here, because if you're not careful you could be thrown off the bridge by an explosion, knocked back by an attack, or attacked from the other side of the fortress by the marauding blazes and ghasts.
+
+
+=== How They Generate Together ===
+The bridges part generates first, and a lava well room acts as a transition between the bridges and the corridor. The corridors contain all the loot chests and nether wart farms, and the bridges contain both blaze spawners.
+
+
+== Defeating the fortress ==
+The fortress can be hard to see, as it looks like the Nether terrain, especially in nether wastes or crimson forest. When you find blocky structures made of nether brick, you have found it. Mark your "entrance" in some way. Use the right hand torch rule for navigating the fortress.
+Don't stand around or waste time. Eating, checking your inventory, and not paying attention can risk you getting killed by a monster. Every few blocks, make a 2 block tall arch so you can escape wither skeletons.
+Your key prizes are a nether wart plantation and a blaze spawner. There are two levels in a fortress, the corridors and the bridges (described above). The nether wart plantations are by the large staircases up to the bridges. The plantations are usually in an intersection, so be sure to block off the tunnels with a non-flammable block before harvesting the warts. Also take the soul sand, as relying on finding some is not smart. The blaze spawners are on top of the bridges, partially enclosed by fences.
+Try to find as many chests as you can, and take the loot. If you find a plantation, dig up all the nether warts and soul sand. Don't forget to fill in the hole to avoid falling in.
+If you are on a multiplayer server, it is good practice to replant the nether wart below the staircase, as that allows players that arrive later to obtain their first nether wart.
+
+
+=== Blaze Spawner ===
+When you run into a blaze spawner, you have to light it up. You need to place glowstone, shroomlight, jack-o-lantern, or anything light level 15 surrounding the spawner on all sides. Be ready to fight a lot of blazes. It is recommended to defeat the spawner with fire resistance. To get fire resistance, you can get a potion from bartering with a piglin, or use a totem of undying. if you're feeling sneaky, you can switch to peaceful, build the farm around the spawner, then switch back, and you can completely avoid being killed.
+
+
+=== Monsters ===
+
+
+==== Wither Skeletons ====
+Sprint attack them, like creepers, or shoot it with arrows. You don't want to get the Wither status effect. Also, take advantage that wither skeletons are 2.5 blocks tall by putting a slab above their head so you can run freely but they can't, creating pockets of wither skeletons you can easily pick off one by one.
+
+
+==== Skeletons ====
+Don't sprint hit. Strafe with A and D keys, or block with your shield and hit the skeletons. Also, you can shoot them.
+
+
+==== Piglins ====
+Although piglins don't spawn in a nether fortress, you can run into them if the fortress is in a crimson forest or nether wastes. It is advised to wear atleast 1 piece of Golden Armor around them. If you really want to, kill them like normal (JUST WHY).
+
+
+==== Zombified Piglins ====
+Don't provoke them, just ignore them so that they leave you alone. They can kill you quickly, or knock you off the fortress bridges. Even better, you could trick a mob with a ranged attack (Blazes, Skeletons) into shooting a zombified piglin, causing them to retaliate against that mob, and causing a helpful distraction (be careful not to perform a sweep attack on them).
+
+
+==== Blazes ====
+They spawn from spawners. Kill them with fire resistance if you can get the potion/totem of undying. Their ranged attacks will have no effect if you have fire resistance. It is possible to kill a blaze without fire resistance. Shoot it with a bow, or knock it back with a sword. Blazes don't take fall damage, but snow and water can damage them.
+
+
+== Potions ==
+The base components required for all potions (except for weakness potions) can be found in a nether fortress. Blaze rods are required to craft and fuel a brewing stand, and nether wart is required to make Awkward Potions, the intermediate step to all potions except for Weakness potions. Raid your nether fortress until you find some nether wart, and then mine it and the soul sand under and take it all home. On your way out, kill some blazes if you haven't already to get two blaze rods. Now head back to base, and you can start brewing!
+Use one blaze rod to craft a brewing stand, and then craft the other into blaze powder. Take a look into the brewing stand GUI if you haven't already. There are three slots for bottles, an unmarked slot for ingredients, a blaze powder shaped slot, an indicator for fuel, and an indicator for progress on your currently brewing potions. Drop a blaze powder in the blaze powder slot, it should disappear and the fuel indicator will go solid orange. This fuel gets depleted once for every 20-sec operation you do, and a blaze powder has 20 'charges'. Be sure to kill some more blazes later on for more powder to fuel your brewing stand.
+Before going further, you'll want to replant your nether wart back at base so you don't run out. Nether Wart acts like carrots or potatoes except it only grown on soul sand. If you want to expand your plot you can retrieve more soul sand from the nether. Anyway once you've done that, acquire some glass (smelt sand) and craft three glass bottles. Fill them with water at a nearby water source. Put all three water bottles into the bottom 3 bottle slots in the brewing stand. Put a piece of nether wart into the top unmarked slot. The bubbles indicator will start filling up and resetting and the arrow will slowly fill. Wait 20 seconds while you figure out what potion to brew first. A more comprehensive list can be found at Brewing, but below are some simple potions you should brew (this section will be added shortly). It is highly recommended to get some spare glowstone dust from the Nether, and you should have lots of spare redstone by now. The materials are hard to find sometimes, but making fermented spider eyes will be worth it. Any spare gunpowder can be useful as well.
+First and foremost, if you plan to thoroughly loot the nether fortress, close/farm a blaze spawner, or even just be in the Nether, you'll want Potions of Fire Resistance. These wonders will make you immune to fire and lava damage, which includes blaze ranged attacks and magma cubes melee attacks. The potion, sadly, does not defend from a blaze's melee attack. To make these potions, you need magma cream, which is accessible through a number of ways:
+
+Seen any magma cubes around? Kill one to get 2-3 magma cream. Be prepared to deal with a pack of them as they split up like slimes.
+If you have tons of spare gold and are playing in a version pre-1.16.2, you can barter with piglins which have a chance of dropping 2-6 magma cream for you.
+In loot chests in bastions you can occasionally find magma cream, but especially post-1.16.1 those are better saved for later.
+Combining a slimeball from a wandering trader or killing a slime with a blaze powder will make magma cream, but slimes are relatively rare.
+If the components are quickly accessible, Fire Resistance potions should be the first you brew. Lengthen then by brewing redstone into the Fire Resistance potions. To keep brewing potions past awkward, you'll want to put all three potions back in their slots if you took them out, and then put the magma cream in and then the redstone after that finished. Voila, you have 24 minutes of Fire Resistance.
+Other useful potions can be found in the list below.
+
+Find the natural regeneration unable to keep up with the fights you get into? Consider Regeneration potions, made with Ghast Tears dropped by Ghasts in the Nether, and enhance then with glowstone dust (fast healing) or redstone dust (heals you for a while)
+Need extremely quick heals between fights and can't wait for Regen to help? Use Instant Health potions, made with Glistering Melon Slices (made with gold and melon slices), for this. Glowstone will enhance the effect to more healing.
+Is even sprinting not fast enough for you? Speed is useful. It uses sugar, a fairly common find, to give you the speed effect. Enhance it with either glowstone dust (speedy) or redstone dust (speedy for longer)
+Your sword just not doing enough damage? Strength can help. It increases your melee damage by 3 health points normally, 6 if enhanced with glowstone dust. Redstone dust can also be used, giving you the extra strength for longer.
+On the flip side, "Corrupted" potions also exist. They inflict harmful effects (like Slowness, Weakness, and Instant Damage to name a few). Take almost any beneficial potion and brew a fermented spider eye in, and the effect will become corrupted. You normally wouldn't want to drink these sorts of things, which is why splash potions exist.
+Splash potions allow you to inflict harmful effects on your enemies (see above) (or beneficial effects for allies). Brew gunpowder into any existing potion and now you can throw it. Make sure to throw it far away enough not to effect you when it lands for harmful potions. Make sure to throw it at groups of enemies, as launching it at one would be wasteful.
+
+
+== Closing a Blaze Spawner ==
+
+Blaze spawners, especially if attached to an often-traversed bridge or corridor, can be a major hazard. You risk being fired at by tons of blazes when passing. Blazes can spawn within 4 blocks of the spawner at light levels 11 or lower, so you can either layer the area with torches, or use more sparsely placed jack o'lanterns, glowstone or shroomlight. The following pattern should work to remove blaze spawns (reused from the amazing Tutorials/Nether Survival guide):
+
+The jack o' lanterns can also be replaced with glowstone, shroomlight or other light level 15 block. Notice from the 3D image that an additional light block is needed above the spawner. If the area around the spawner is to be cleared, an additional light block is needed below the spawner as well.
+Actually getting to the blaze spawner is a different issue. While getting there and placing light emitting blocks, you will probably spawn 2-3 blaze spawns with up to 4 blazes each. Drink Fire Resistance, Strength, and Regeneration, pack your best sword, bow, and armor,  and fight off the blazes to the best of your ability.
+Blaze farms are effective as XP farms, as blazes drop twice as much XP as other normal mobs. These farms can be found at Tutorials/Blaze Farming
+
+
+== Aftermath ==
+You've raided the fortress to it's fullest extent. You've looted all the chests, found all the nether wart, and killed plenty of wither skeletons/blazes while you were at it. What to do with the nether fortress now?
+
+You can turn it into a home or base if you like. More details are provided in this excellent guide: Tutorials/Nether Survival. The fortress makes a great base anyway (if you get rid of mobs, see below): huge, looks nice, and ghast-proof walls.
+Mobs will quickly turn into a problem if you decide to stay here. The main problems and ghasts, blazes, and wither skeletons. Ghasts are extremely dangerous when they spawn in the fortress itself, often being trapped and killing them usually requires deflecting fireballs back at them. For blazes and wither skeletons, they need a specific light level or lower to spawn: 11 or lower for blazes and 7 or lower for wither skeletons. Note: If you're using cheap light sources like torches, it's remarkably hard to completely flush out blazes. You will almost certainly see them pop up occasionally even if you have high light levels everywhere. Wither Skeleton proofing is easier as each torch gives a wide range in which wither skeletons cannot spawn. Assorting torches or other light sources helps to flush out ghasts as the places they spawn in will now be inaccessible.
+These are the only places where you can make blaze farms for blaze rods and experience and wither skeleton farms for skulls. Blaze rods are normally easy and can be made by just remodeling a spawner room (see Tutorials/Blaze Farming), however normally wither skeleton farms (see Tutorials/Wither Skeleton farming) are involved and require lighting up/flattening large parts of your fortress, which makes it not worth it if you only plan to summon the wither once.
+
+
+== Gallery ==

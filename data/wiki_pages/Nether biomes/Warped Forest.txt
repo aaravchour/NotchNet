@@ -1,0 +1,141 @@
+The warped forest is a biome found in the Nether. It is a relatively safe biome because most hostile mobs except Endermen do not spawn there naturally.
+
+
+== Description ==
+The warped forest is dense and has a cyan color scheme. The forest's fog and particles have a dark royal blue tone, and the fog appears lilac with Night Vision.
+The floor of the biome is composed mostly of warped nylium, with some netherrack and warped wart blocks generating on the surface. The vegetation of the biome includes fungi, warped roots, huge warped fungi, and twisting vines growing from the ground. Large overhangs extend over the oceans of lava. Blobs of glowstone generate in the ceiling, and shroomlights generate on the huge fungus scattered around the forest.
+
+In general, the warped forest is much safer than other Nether biomes. Only two types of mob usually spawn here: endermen on solid terrain, and striders on lava. Endermen also spawn at much lower density than in the End. However, hostile mobs may still spawn in fortresses and bastion remnants.
+The following mobs naturally spawn here：
+
+
+== Sounds ==
+
+
+=== Music ===
+The warped forest is the only biome in the game devoid of music.
+
+
+=== Ambience ===
+Nether ambience plays while the player is in the Nether.
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Warped Forest" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+When Warped forests were announced at MINECON Live 2019, which happened before the first Nether Update snapshot was released, these forests were referred to as "Blue Nether wart forests". In the announcement, however, they were called by the name "Nether wart forest blue".
+In spite of its former name "Blue", the biome's actual color scheme is closer to shades of cyan-green, rather than blue.
+The ambience sound "Warped Forest Addition 6" is actually the sound of an enderman screaming, slowed down, and in reverse.
+Similarly, "Warped Forest Additions 1-5" are a mix of regular Enderman sounds and those of Endermen from Minecraft Dungeons.
+"Warped Forest Mood 9" is actually a slowed-down and reverberated idle sound of witches.
+Warped forest biomes never share a border with Soul Sand Valleys.
+The warped forest biome is one of the first biomes that doesn't have its own Minecraft soundtrack that plays, so it relies on other Nether soundtracks instead.
+
+
+== Gallery ==
+
+
+=== Screenshots ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== In other media ===
+
+		
+			
+			
+		
+
+
+== See also ==
+Crimson Forest
+Nether wastes
+
+
+== References ==
+
+
+== External Links ==
+Around the Block: Warped Forest – Minecraft.net on January 21, 2021

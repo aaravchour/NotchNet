@@ -1,0 +1,41 @@
+The /random command can be used to randomly draw a value.
+
+
+== Syntax ==
+/random (value|roll) <range> [<sequence>]
+
+Extract random numbers.
+/random reset (*|<sequence>) [<seed>] [<includeWorldSeed>] [<includeSequenceId>]
+
+Reset the random number sequence.
+
+
+== Arguments ==
+value|roll
+
+Whether or not to notify other players of the results when extracting random numbers. If this is value, then the results are displayed only to the player using the command. If this is roll, then the results are revealed to all players.
+<range>: range
+
+Specifies the range of random numbers to generate. The size of the range must be between 2 and 2147483646. If the upper and lower limits are not specified, 2147483647 and -2147483648 are assumed respectively.
+Specified as an integer within the value range (e.g. 0: exactly 0, ..0: 0 or less, 0..: 0 or more, 0..1: between 0 and 1 inclusive).
+<sequence>: resource_location
+
+Specify the namespace ID of the random number string to be used/reset . random value|roll... Optional in syntax. The syntax can also specify random reset... instead *, in which case all random numbers will be reset. If you specify a random number string that does not exist, the random number string is created on the spot and the command is executed.
+<seed>: long
+
+The seed value used to reset the random number sequence.
+<includeWorldSeed>: bool
+
+Whether to incorporate the world seed value when seeding the random number sequence. If set to false (default), the random number sequence will be reset in the same way regardless of the world.
+<includeSequenceId>: bool
+
+Whether to include the ID of the random number column when seeding the random number column. If set to false (default), the result of resetting the random number sequence will be the same regardless of the random number sequence ID.
+
+
+== Result ==
+
+
+== Output ==
+
+
+== History ==

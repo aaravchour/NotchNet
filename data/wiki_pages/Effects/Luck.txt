@@ -1,0 +1,34 @@
+Luck is a status effect that makes it more likely to receive better loot from certain loot tables, contrary to Bad Luck.
+
+
+== Effect ==
+Adds 1 × level to attribute generic.luck, making loot table entries with a high quality score more likely, and entries with negative quality less likely. It also increases the chances of bonus_rolls occurring. Currently, only fishing uses quality. The new weight of each entry is floor(base_weight + quality * generic.luck). Negative levels decrease luck.
+Using a fishing rod enchanted with Luck of the Sea increases a player's generic.luck attribute, but doesn't actually grant the Luck status effect.
+
+
+== Causes ==
+
+
+== Immune mobs ==
+While no mobs, except bosses, are immune to Luck, only players are actually affected.
+
+
+== Data values ==
+
+
+=== ID ===
+
+
+== History ==
+
+
+== Issues ==
+Issues relating to "Luck" are maintained on the bug tracker. Report issues there.
+
+
+== Trivia ==
+Contrary to real-life superstition, a rabbit's foot has no effect on luck in the game.
+Bedrock Edition has unused textures for Luck potions, despite the fact that Luck is not present in said edition.
+
+
+== References ==

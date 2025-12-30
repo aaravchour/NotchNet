@@ -1,0 +1,66 @@
+A moss carpet is a thin decorative variant of the moss block. There are two different variants of moss carpets: normal moss carpets and pale moss carpets.
+
+
+== Obtaining ==
+
+
+=== Breaking ===
+Moss carpets can be mined using any tool or without a tool, but a hoe is the quickest.
+
+
+=== Natural generation ===
+Moss carpets generate naturally in lush caves and mangrove swamps.
+Pale moss carpets generate naturally in pale gardens, usually on pale moss blocks and near pale oak trees.
+
+
+=== Crafting ===
+Normal Moss Carpets require 2 Moss Blocks to craft.
+
+Pale Moss Carpets require 2 Pale Moss Blocks to craft.
+
+
+=== Post-generation ===
+Using bone meal on a moss block has a 25% chance to grow moss carpets.
+Mangrove propagules that grow into mangrove trees can generate normal moss carpets.
+
+
+== Usage ==
+Moss carpet has most of the properties of the standard carpet, except that it is not flammable, cannot be pushed by pistons, cannot be equipped on llamas, and does not occlude vibrations. 
+
+
+=== Composting ===
+Placing a moss carpet into a composter has a 30% chance of raising the compost level by 1.
+
+
+=== Piston interactivity ===
+Moss carpets break when pushed by pistons. They cannot be pulled by sticky pistons.
+
+
+== Sounds ==
+Java Edition:
+
+Bedrock Edition:
+
+
+== Data values ==
+
+
+=== ID ===
+Java Edition:
+
+Bedrock Edition:
+
+
+== History ==
+
+
+== Trivia ==
+Unlike normal moss carpets, pale moss carpets generate a cluster of pale gray vines that grow vertically onto an opposing block.
+The vines can be bonemealed up to 2 blocks tall.
+
+
+== Issues ==
+Issues relating to "Moss Carpet" are maintained on the bug tracker. Report issues there.
+
+
+== Gallery ==

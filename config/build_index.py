@@ -5,7 +5,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import OllamaEmbeddings
 from tqdm import tqdm
-import config
+from config import config
 
 def build_index():
     print("🚀 Starting FAISS index build...")

@@ -2,7 +2,7 @@ import os
 import shutil
 import subprocess
 import sys
-import config
+from config import config
 
 def run_script(script_name):
     print(f"\n▶️ Running {script_name}...")
@@ -31,9 +31,9 @@ def reload_wiki():
                 shutil.rmtree(path)
 
     # 2. Run the pipeline
-    run_script("wiki_loader.py")
-    run_script("clean_data.py")
-    run_script("build_index.py")
+    run_script("wiki/wiki_loader.py")
+    run_script("wiki/clean_data.py")
+    run_script("config/build_index.py")
 
     print("\n✨ All steps completed successfully!")
     print("The Minecraft wiki has been reloaded and a new FAISS index has been produced.")

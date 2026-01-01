@@ -3,8 +3,8 @@ import time
 import argparse
 from tqdm import tqdm
 from sqlalchemy.orm import Session
-from database import init_db, get_db, Mod
-from mod_discovery import fetch_modrinth_mods, get_mod_wiki_url, MODRINTH_API_URL
+from mod_discovery.database import init_db, get_db, Mod
+from mod_discovery.mod_discovery import fetch_modrinth_mods, get_mod_wiki_url, MODRINTH_API_URL
 
 def fetch_bulk_projects(project_ids):
     """

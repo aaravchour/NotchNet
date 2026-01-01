@@ -4,7 +4,7 @@ import requests
 from time import sleep
 import concurrent.futures
 from tqdm import tqdm  # type: ignore
-import config
+from config import config
 
 API_URL = config.WIKI_API_URL_DEFAULT
 DATA_DIR = config.DATA_DIR_RAW

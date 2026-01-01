@@ -1,7 +1,7 @@
 import os
 import re
 from tqdm import tqdm  # type: ignore
-import config
+from config import config
 
 SOURCE_DIR = config.DATA_DIR_RAW
 OUTPUT_DIR = config.DATA_DIR_CLEANED

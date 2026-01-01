@@ -1,15 +1,16 @@
-from flask import Flask, request, jsonify  # type: ignore
+from flask import Flask, request, jsonify, Response  # type: ignore
 from flask_cors import CORS  # type: ignore
 from flask_limiter import Limiter  # type: ignore
 from flask_limiter.util import get_remote_address  # type: ignore
-from rag_pipeline import generate_answer, reload_qa_chain
+from config.rag_pipeline import generate_answer, generate_answer_stream, reload_qa_chain
+from config import config
+from config import build_index
+from wiki import wiki_loader
+from wiki import clean_data
 import multiprocessing
 import threading
 import os
-import config
-import wiki_loader
-import clean_data
-import build_index
+import json
 
 app = Flask(__name__)
 limiter = Limiter(get_remote_address, app=app)
@@ -54,6 +55,38 @@ def ask_question():
 
         traceback.print_exc()
         return jsonify({"error": "Server error", "details": str(e)}), 500
+
+
+@app.route("/ask/stream", methods=["POST"])
+def ask_question_stream():
+    """
+    Streaming endpoint that sends answer chunks as Server-Sent Events (SSE).
+    Each event has a type: 'token' (content chunk), 'done' (completion), or 'error'.
+    """
+    data = request.get_json()
+    if not data or "question" not in data:
+        return jsonify({"error": "Missing 'question' field"}), 400
+
+    def generate():
+        try:
+            for event_type, content in generate_answer_stream(data["question"]):
+                event_data = json.dumps({"type": event_type, "content": content})
+                yield f"data: {event_data}\n\n"
+        except Exception as e:
+            import traceback
+            traceback.print_exc()
+            error_data = json.dumps({"type": "error", "content": str(e)})
+            yield f"data: {error_data}\n\n"
+
+    return Response(
+        generate(),
+        mimetype="text/event-stream",
+        headers={
+            "Cache-Control": "no-cache",
+            "Connection": "keep-alive",
+            "X-Accel-Buffering": "no"
+        }
+    )
 
 
 def background_wiki_processing(api_url, categories, force=False):
@@ -114,7 +147,7 @@ def detect_mods():
         return jsonify({"error": "Missing 'mods' list"}), 400
         
     raw_mods = data["mods"]
-    import mod_discovery
+    from mod_discovery import mod_discovery
     
     filtered_mods = mod_discovery.filter_mods(raw_mods)
     found_wikis = []

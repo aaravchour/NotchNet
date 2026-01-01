@@ -71,7 +71,7 @@ export LLM_MODEL=$USER_MODEL
 
 # 8. Check if Models are pulled
 echo "🔍 Checking for required models in Ollama..."
-for MODEL in "$LLM_MODEL" "mxbai-embed-large"; do
+for MODEL in "$LLM_MODEL" "nomic-embed-text"; do
     if ! ollama list | grep -q "$MODEL"; then
         echo "⬇️ Model '$MODEL' not found. Pulling it now... (This might take a while)"
         ollama pull "$MODEL"
@@ -83,7 +83,7 @@ done
 # 9. Check for Index
 if [ ! -d "faiss_index" ]; then
     echo "🧠 No knowledge base found. Building initial index..."
-    $PYTHON_CMD build_index.py
+    $PYTHON_CMD config/build_index.py
 fi
 
 # 10. Start Server

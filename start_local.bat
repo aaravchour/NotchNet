@@ -66,7 +66,7 @@ set LLM_MODEL=!USER_MODEL!
 
 :: 8. Check if Models are pulled
 echo 🔍 Checking for required models in Ollama...
-for %%M in ("%LLM_MODEL%" "mxbai-embed-large") do (
+for %%M in ("%LLM_MODEL%" "nomic-embed-text") do (
     ollama list | findstr /R /C:"%%~M " >nul
     if %errorlevel% neq 0 (
         echo ⬇️ Model '%%~M' not found. Pulling it now... (This might take a while)
@@ -79,7 +79,7 @@ for %%M in ("%LLM_MODEL%" "mxbai-embed-large") do (
 :: 9. Check for Index
 if not exist faiss_index (
     echo 🧠 No knowledge base found. Building initial index...
-    python build_index.py
+    python config/build_index.py
 )
 
 :: 10. Start Server

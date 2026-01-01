@@ -9,7 +9,7 @@ from langchain_core.prompts import PromptTemplate  # type: ignore
 from langchain_community.embeddings import OllamaEmbeddings  # type: ignore
 from langchain_community.chat_models import ChatOllama  # type: ignore
 
-import config
+from config import config
 
 # ===========================
 # Configuration
@@ -17,6 +17,7 @@ import config
 
 INDEX_PATH = config.INDEX_PATH
 qa_chain = None
+_retriever = None  # Cached retriever for streaming
 
 NUM_CORES = os.cpu_count()
 os.environ["OLLAMA_NUM_THREADS"] = str(NUM_CORES)
@@ -78,7 +79,7 @@ def build_retriever():
     """
     check_ollama()
 
-    embedding_model = OllamaEmbeddings(model="bge-m3:latest", base_url=config.OLLAMA_HOST)
+    embedding_model = OllamaEmbeddings(model="nomic-embed-text", base_url=config.OLLAMA_HOST)
 
     if not os.path.exists(INDEX_PATH):
         print(f"❌ FATAL: FAISS index not found at {INDEX_PATH}")
@@ -100,11 +101,11 @@ def build_retriever():
 
 
 def build_qa_chain():
-    global qa_chain
+    global qa_chain, _retriever
     if qa_chain is not None:
         return qa_chain
 
-    retriever = build_retriever()
+    _retriever = build_retriever()
 
     print(f"🔧 Loading local LLM ({config.LLM_MODEL})...")
     llm_model = ChatOllama(model=config.LLM_MODEL, base_url=config.OLLAMA_HOST)
@@ -112,7 +113,7 @@ def build_qa_chain():
 
     print("🔧 Building new LCEL retrieval chain...")
     document_chain = create_stuff_documents_chain(llm_model, QA_PROMPT)
-    qa_chain = create_retrieval_chain(retriever, document_chain)
+    qa_chain = create_retrieval_chain(_retriever, document_chain)
 
     print("✅ QA chain built successfully.")
     return qa_chain
@@ -120,9 +121,10 @@ def build_qa_chain():
 
 def reload_qa_chain():
     """Forces a reload of the QA chain, useful after index updates."""
-    global qa_chain
+    global qa_chain, _retriever
     print("🔄 Reloading QA chain...")
     qa_chain = None
+    _retriever = None
     build_qa_chain()
     print("✅ QA chain reloaded.")
 
@@ -158,3 +160,65 @@ def generate_answer(question: str) -> str:
     except Exception as e:
         print(f"⚠️ Error while generating answer: {e}")
         raise e
+
+
+def generate_answer_stream(question: str):
+    """
+    Generator function that yields answer chunks as they are generated.
+    Yields tuples of (chunk_type, content) where chunk_type is 'token', 'done', or 'error'.
+    """
+    global qa_chain, _retriever
+    if qa_chain is None or _retriever is None:
+        print("🔧 Building QA chain for the first time...")
+        build_qa_chain()
+
+    try:
+        # Get documents using the cached retriever
+        docs = _retriever.invoke(question)
+        
+        if not docs:
+            yield ("error", "No relevant documents found.")
+            return
+
+        # Build context from documents
+        context = "\n\n".join([doc.page_content for doc in docs])
+        
+        # Create streaming LLM
+        streaming_llm = ChatOllama(
+            model=config.LLM_MODEL, 
+            base_url=config.OLLAMA_HOST,
+            streaming=True
+        )
+        
+        # Format the prompt
+        formatted_prompt = QA_PROMPT.format(context=context, input=question)
+        
+        # Stream the response
+        full_response = ""
+        for chunk in streaming_llm.stream(formatted_prompt):
+            if hasattr(chunk, 'content') and chunk.content:
+                full_response += chunk.content
+                yield ("token", chunk.content)
+        
+        if not full_response.strip():
+            yield ("error", "No answer generated.")
+            return
+            
+        yield ("done", "")
+        
+        # Log sources
+        formatted_sources = []
+        for doc in docs:
+            source_name = doc.metadata.get("source", "Unknown")
+            filename = os.path.basename(source_name)
+            formatted_sources.append(f"- {filename}")
+        
+        print(f"\n💬 Streamed Answer: {full_response}\n")
+        if formatted_sources:
+            print("📚 Sources:")
+            for src in formatted_sources:
+                print(src)
+
+    except Exception as e:
+        print(f"⚠️ Error while streaming answer: {e}")
+        yield ("error", str(e))

@@ -1,90 +1,79 @@
 # NotchNet Backend
 
-NotchNet is an AI-powered Minecraft knowledge companion that uses RAG (Retrieval Augmented Generation) to answer questions about Minecraft and its mods. 
-Check it out: https://github.com/aaravchour/notchnet-mod
+NotchNet is an AI-powered Minecraft knowledge companion that uses **RAG (Retrieval Augmented Generation)** to answer questions about Minecraft and its mods.
+
+🔗 **Frontend Mod**: [notchnet-mod](https://github.com/aaravchour/notchnet-mod)
 
 ## Features
 
-- **Local RAG Pipeline**: Runs entirely on your machine using Ollama.
-- **Dynamic Wiki Fetching**: Can fetch and index any MediaWiki-based wiki (e.g., RLCraft, Feed The Beast).
-- **Auto Mod Detection**: Automatically finds and learns about installed mods when the game launches.
-- **Cloud Mode**: Support for offloading AI inference to a remote server for low-end machines.
-- **Mod Awareness**: Context-aware answers based on the loaded wikis.
+- 🏠 **Local RAG Pipeline** — Runs entirely on your machine using Ollama.
+- 🌐 **Dynamic Wiki Fetching** — Fetch and index any MediaWiki-based wiki (e.g., RLCraft, Feed The Beast).
+- 🎮 **Auto Mod Detection** — Automatically finds and learns about installed mods when the game launches.
+- ☁️ **Cloud Mode** — Offload AI inference to a remote server for low-end machines.
+- 🧠 **Mod Awareness** — Context-aware answers based on loaded wikis.
 
-## Getting Started (Local)
+## Quick Start
 
 ### Prerequisites
 
-1.  **Python 3.10+**
-2.  **[Ollama](https://ollama.com/)** installed and running.
-3.  (For local model) 8GB of VRAM and 16GB of RAM for a smooth experience.
+- **Python 3.10+**
+- **[Ollama](https://ollama.com/)** installed and running
+- 8GB VRAM + 16GB RAM for smooth local model inference
 
-### Quick Start
+### Run It
 
-1.  **Clone the repository**.
-2.  **Run the startup script**:
-
-    **Windows:**
-    ```cmd
-    start_local.bat
-    ```
-
-    **Mac/Linux:**
-    ```bash
-    chmod +x start_local.sh
-    ./start_local.sh
-    ```
-    This script will:
-    - Create a virtual environment and automatically install dependencies.
-    - Ask if you want to run **Locally** or use **Cloud/Remote AI**.
-    - **Local**: Pulls the necessary Ollama model (default: `llama3:8b`).
-    - **Cloud**: Configures connection to your remote Ollama instance.
-    - Start the API server.
-
-3.  **Interact with the API**:
-    The server runs at `http://localhost:8000`.
-
-    **Ask a Question:**
-    ```bash
-    curl -X POST http://localhost:8000/ask \
-         -H "Content-Type: application/json" \
-         -d '{"question": "How do I make a shield?"}'
-    ```
-
-## Adding Mod Wikis (still in development)
-
-You can teach NotchNet about new mods by fetching their wikis.
-
-**Endpoint**: `POST /admin/add-wiki`
-
-**Example (Teaching it RLCraft):**
-```bash
-curl -X POST http://localhost:8000/admin/add-wiki \
-     -H "Content-Type: application/json" \
-     -d '{
-           "api_url": "https://rlcraft.fandom.com/api.php", 
-           "categories": ["Crafting", "Items", "Mobs"] 
-         }'
+**Windows:**
+```cmd
+start_local.bat
 ```
 
-_Note: This process runs in the background. It will fetch pages, clean them, rebuild the index, and reload the bot's memory._
+**Mac/Linux:**
+```bash
+chmod +x start_local.sh
+./start_local.sh
+```
 
-## Configuration
+The script will:
+1. Create a virtual environment and install dependencies.
+2. Ask if you want **Local** or **Cloud/Remote AI**.
+3. **Local**: Pulls the default Ollama model (`llama3:8b`).
+4. **Cloud**: Configures connection to your remote Ollama instance.
+5. Start the API server at `http://localhost:8000`.
 
-See `config.py` for default settings. You can override them using environment variables or a `.env` file.
+### Ask a Question
 
-| Variable | Description | Default |
-| :--- | :--- | :--- |
-| `LOCAL_MODE` | Bypass API key checks for local use | `true` (in start script) |
-| `LLM_MODEL` | Ollama model to use | `llama3` |
-| `OLLAMA_HOST` | URL of Ollama server | `http://127.0.0.1:11434` |
+```bash
+curl -X POST http://localhost:8000/ask \\
+     -H "Content-Type: application/json" \\
+     -d '{"question": "How do I make a shield?"}'
+```
 
-## Note on my use of AI
+## Admin Endpoints
 
-Due to a high volume of requests for newer Minecraft version support and my own limited personal time, future updates for NotchNet will be developed with the assistance of AI.
+### Add a Mod Wiki
 
-Please note that the original codebase was entirely authored by me. AI is only being introduced now to keep the project alive for the community. Complaints regarding the use of AI will not be entertained.
+```bash
+curl -X POST http://localhost:8000/admin/add-wiki \\
+     -H "Content-Type: application/json" \\
+     -d '{
+         "url": "https://rlcraft.fandom.com",
+         "name": "RLCraft"
+     }'
+```
+
+## Project Structure
+
+```
+NotchNet/
+├── config/           # RAG pipeline and config
+├── mod_discovery/    # Auto-detect installed mods
+├── server.py         # FastAPI/Flask server
+├── start_local.sh    # Mac/Linux startup script
+├── start_local.bat   # Windows startup script
+├── wiki/             # Wiki loaders and cleaners
+└── requirements.txt
+```
 
 ## License
 
-GPLv3 License. See [LICENSE](LICENSE) for details.
+[MIT](LICENSE)
